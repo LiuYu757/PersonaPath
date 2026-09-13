@@ -1,0 +1,511 @@
+{
+  "knowledge_tree": {
+    "title": "兽医临床诊断学",
+    "content": "研究动物疾病临床识别、判断与鉴别诊断的科学，是动物医学的核心桥梁课程",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "临床检查基本方法与程序",
+        "content": "问诊、视诊、触诊、叩诊、听诊、嗅诊六法及系统检查顺序",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "问诊",
+            "content": "通过畜主了解病史、饲养管理、流行病学信息",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "视诊",
+            "content": "肉眼观察动物整体、姿势、被毛、可视黏膜及排泄物",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "触诊",
+            "content": "用手感知体温、脉搏、疼痛、肿块、胃肠蠕动",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "浅部触诊",
+                "content": "检查皮肤弹性、浅表淋巴结、肿胀部位",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "深部触诊",
+                "content": "按压腹腔、直肠检查、肾脏触诊",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "叩诊",
+            "content": "叩击体表根据音响判断深部器官状态",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "清音",
+                "content": "正常肺区叩诊音，提示含气组织",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "浊音",
+                "content": "提示肺实变或肝区叩诊",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "鼓音",
+                "content": "提示瘤胃鼓气、肠鼓气",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "听诊",
+            "content": "借助听诊器听取心音、肺音、胃肠音",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "心音",
+                "content": "第一心音（收缩期）、第二心音（舒张期）及杂音",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "肺音",
+                "content": "肺泡音增强/减弱、干啰音、湿啰音",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "瘤胃蠕动音",
+                "content": "每2分钟1.5～2.5次，减弱提示前胃迟缓",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "生命体征测定",
+        "content": "体温、脉搏、呼吸频率及血压的规范测定与正常值",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "体温",
+            "content": "直肠温度：牛38.0～39.0 ℃，犬37.5～39.0 ℃",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "脉搏",
+            "content": "股动脉或尾中动脉：牛40～80次/分，犬70～120次/分",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "呼吸频率",
+            "content": "观察胸腹起伏：牛10～30次/分，犬10～30次/分",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "血压",
+            "content": "袖带法：犬收缩压110～160 mmHg，猫120～170 mmHg",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "循环系统检查",
+        "content": "心脏视触叩听四诊及静脉搏动观察",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "心搏动视诊",
+            "content": "左侧第4～5肋间心尖搏动强度",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "心浊音区",
+            "content": "牛左侧4～5肋间、右侧3～4肋间",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "心杂音",
+            "content": "收缩期杂音、舒张期杂音及分级（Ⅰ～Ⅵ）",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "颈静脉搏动",
+            "content": "阴性搏动、阳性搏动及肝颈反流征",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "呼吸系统检查",
+        "content": "呼吸类型、节律、上呼吸道及肺部检查",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "呼吸类型",
+            "content": "胸式呼吸、腹式呼吸及胸腹式呼吸",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "鼻液检查",
+            "content": "浆液性、黏液性、脓性、腐败性鼻液",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "咳嗽检查",
+            "content": "干咳、湿咳、痛咳及频咳",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "肺部叩诊界",
+            "content": "牛前界第6肋、后界第11肋、上界水平线",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "肺泡音变化",
+            "content": "普遍性增强、局限性减弱、消失",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "消化系统检查",
+        "content": "采食、咀嚼、反刍、排粪及腹腔触诊",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "反刍检查",
+            "content": "每昼夜4～10次，每次40～50分钟，食团再咀嚼40～60次",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "瘤胃充盈度",
+            "content": "左肷窝与背线夹角>90°提示鼓气，<60°提示空虚",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "直肠检查",
+            "content": "检查骨盆腔器官、腹腔深部及妊娠",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "粪便性状",
+            "content": "颜色、气味、黏液、血液及寄生虫节片",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "泌尿生殖系统检查",
+        "content": "排尿动作、尿液、外生殖器及乳房检查",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "排尿障碍",
+            "content": "多尿、少尿、无尿、尿淋漓、尿失禁",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "尿液感官",
+            "content": "颜色、透明度、气味、比重",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "乳房触诊",
+            "content": "温度、疼痛、硬块及乳汁性状",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "神经系统检查",
+        "content": "精神状态、运动功能、感觉反射及脑神经检查",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "精神状态",
+            "content": "兴奋、沉郁、昏迷、狂躁",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "运动功能",
+            "content": "瘫痪、共济失调、痉挛、震颤",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "反射检查",
+            "content": "膝跳反射、肛门反射、瞳孔对光反射",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "实验室辅助诊断",
+        "content": "血常规、血清生化、尿液分析及快速检测板",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "血常规",
+            "content": "RBC、WBC、HGB、PLT及白细胞分类",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "血清生化",
+            "content": "ALT、AST、BUN、CREA、TP、ALB",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "犬CPV快速检测",
+            "content": "胶体金免疫层析法检测粪便抗原",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "影像诊断基础",
+        "content": "X线、超声、CT、MRI的兽医应用概述",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "X线投照体位",
+            "content": "侧位、背腹位、腹背位及水平投照",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "超声窗",
+            "content": "心脏超声左室短轴、长轴、四腔心切面",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "症状学及症候群",
+        "content": "发热、黄疸、水肿、休克、贫血、呼吸困难等核心症状",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "发热",
+            "content": "微热、中热、高热、稽留热、弛张热、间歇热",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "黄疸",
+            "content": "溶血性、肝细胞性、阻塞性黄疸鉴别",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "水肿",
+            "content": "心源性、肾源性、低蛋白性、炎症性",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "诊断思维与病历书写",
+        "content": "初步诊断、鉴别诊断、病历格式与SOAP模式",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "鉴别诊断步骤",
+            "content": "收集资料→列出可能→比较排除→验证确诊",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "SOAP病历",
+            "content": "Subjective、Objective、Assessment、Plan",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "病例分析题、检查操作题、影像判读题",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "病例分析题",
+            "content": "给出病史+体征+化验，要求列出3个鉴别诊断及进一步检查",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "检查操作题",
+            "content": "描述牛瘤胃穿刺放气操作步骤及注意事项",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "影像判读题",
+            "content": "根据X线片判断胃内金属异物位置及手术通路",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "兽医临床诊断学",
+      "tail": "六诊法",
+      "relation": "包含"
+    },
+    {
+      "head": "问诊",
+      "tail": "病史",
+      "relation": "收集"
+    },
+    {
+      "head": "触诊",
+      "tail": "深部触诊",
+      "relation": "分为"
+    },
+    {
+      "head": "叩诊",
+      "tail": "清音",
+      "relation": "产生"
+    },
+    {
+      "head": "听诊",
+      "tail": "心音",
+      "relation": "听取"
+    },
+    {
+      "head": "心音",
+      "tail": "收缩期杂音",
+      "relation": "包含"
+    },
+    {
+      "head": "肺音",
+      "tail": "湿啰音",
+      "relation": "包含"
+    },
+    {
+      "head": "生命体征测定",
+      "tail": "体温",
+      "relation": "包含"
+    },
+    {
+      "head": "体温",
+      "tail": "直肠温度",
+      "relation": "通过"
+    },
+    {
+      "head": "循环系统检查",
+      "tail": "心浊音区",
+      "relation": "包含"
+    },
+    {
+      "head": "心浊音区",
+      "tail": "叩诊",
+      "relation": "由...确定"
+    },
+    {
+      "head": "呼吸系统检查",
+      "tail": "肺部叩诊界",
+      "relation": "包含"
+    },
+    {
+      "head": "消化系统检查",
+      "tail": "反刍检查",
+      "relation": "包含"
+    },
+    {
+      "head": "反刍检查",
+      "tail": "瘤胃蠕动音",
+      "relation": "关联"
+    },
+    {
+      "head": "神经系统检查",
+      "tail": "反射检查",
+      "relation": "包含"
+    },
+    {
+      "head": "实验室辅助诊断",
+      "tail": "血常规",
+      "relation": "包含"
+    },
+    {
+      "head": "影像诊断基础",
+      "tail": "X线投照体位",
+      "relation": "包含"
+    },
+    {
+      "head": "症状学及症候群",
+      "tail": "发热",
+      "relation": "包含"
+    },
+    {
+      "head": "发热",
+      "tail": "稽留热",
+      "relation": "分为"
+    },
+    {
+      "head": "诊断思维与病历书写",
+      "tail": "SOAP病历",
+      "relation": "采用"
+    },
+    {
+      "head": "鉴别诊断步骤",
+      "tail": "初步诊断",
+      "relation": "推导"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "病例分析题",
+      "relation": "包含"
+    },
+    {
+      "head": "病例分析题",
+      "tail": "鉴别诊断",
+      "relation": "应用"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 11:05:09",
+    "version": "1.1"
+  }
+}

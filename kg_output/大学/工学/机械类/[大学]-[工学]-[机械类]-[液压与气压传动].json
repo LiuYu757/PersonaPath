@@ -1,0 +1,265 @@
+{
+  "knowledge_tree": {
+    "title": "液压与气压传动",
+    "content": "研究液压与气压传动的基本原理、系统组成、元件结构和工作特性",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "液压传动基础",
+        "content": "液压传动的基本概念和工作原理",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "液压传动定义",
+            "content": "以液体为工作介质，利用液体的压力能进行能量传递和控制的一种传动方式",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "帕斯卡原理",
+            "content": "在密闭容器内，施加于静止液体上的压力将以等值同时传到液体各点",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "液压传动系统组成",
+            "content": "动力元件、执行元件、控制元件、辅助元件和工作介质",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "动力元件",
+                "content": "将机械能转换为液压能的装置，如液压泵",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "执行元件",
+                "content": "将液压能转换为机械能的装置，如液压缸、液压马达",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "液压流体力学基础",
+        "content": "液压传动中流体静力学和动力学的基本规律",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "液体静压力",
+            "content": "静止液体单位面积上所受的法向力",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "伯努利方程",
+            "content": "理想流体稳定流动时能量守恒的数学表达式",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "伯努利方程公式",
+                "content": "p/ρg + v²/2g + z = 常数",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "连续性方程",
+            "content": "流体在管道中流动时质量守恒的数学表达式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "连续性方程公式",
+                "content": "A₁v₁ = A₂v₂",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "液压泵",
+        "content": "液压系统的动力元件，将机械能转换为液压能",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "齿轮泵",
+            "content": "利用齿轮啮合原理工作的液压泵",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "外啮合齿轮泵",
+                "content": "由两个外啮合齿轮组成的液压泵",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "叶片泵",
+            "content": "利用叶片在转子槽内滑动工作的液压泵",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "单作用叶片泵",
+                "content": "转子每转一周完成一次吸排油的叶片泵",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "柱塞泵",
+            "content": "利用柱塞在缸体内往复运动工作的液压泵",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "轴向柱塞泵",
+                "content": "柱塞轴线与传动轴轴线平行的柱塞泵",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "液压执行元件",
+        "content": "将液压能转换为机械能的装置",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "液压缸",
+            "content": "实现直线往复运动的液压执行元件",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "活塞式液压缸",
+                "content": "利用活塞在缸筒内往复运动输出力",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "液压马达",
+            "content": "实现连续旋转运动的液压执行元件",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "齿轮液压马达",
+                "content": "基于齿轮啮合原理的液压马达",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "气压传动基础",
+        "content": "以压缩空气为工作介质的传动方式",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "气压传动特点",
+            "content": "工作介质来源方便、不污染环境、动作迅速、反应快",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "气动系统组成",
+            "content": "气源装置、执行元件、控制元件和辅助元件",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "液压传动",
+      "tail": "帕斯卡原理",
+      "relation": "基于"
+    },
+    {
+      "head": "液压传动系统",
+      "tail": "液压泵",
+      "relation": "包含"
+    },
+    {
+      "head": "液压泵",
+      "tail": "齿轮泵",
+      "relation": "分类为"
+    },
+    {
+      "head": "伯努利方程",
+      "tail": "液压流体力学",
+      "relation": "属于"
+    },
+    {
+      "head": "连续性方程",
+      "tail": "管道流量计算",
+      "relation": "应用于"
+    },
+    {
+      "head": "液压缸",
+      "tail": "直线运动",
+      "relation": "实现"
+    },
+    {
+      "head": "液压马达",
+      "tail": "旋转运动",
+      "relation": "实现"
+    },
+    {
+      "head": "气压传动",
+      "tail": "压缩空气",
+      "relation": "使用"
+    },
+    {
+      "head": "叶片泵",
+      "tail": "单作用叶片泵",
+      "relation": "包含"
+    },
+    {
+      "head": "柱塞泵",
+      "tail": "轴向柱塞泵",
+      "relation": "分类为"
+    },
+    {
+      "head": "液压传动",
+      "tail": "气压传动",
+      "relation": "类比于"
+    },
+    {
+      "head": "帕斯卡原理",
+      "tail": "压力传递",
+      "relation": "描述"
+    },
+    {
+      "head": "齿轮泵",
+      "tail": "外啮合齿轮泵",
+      "relation": "包含"
+    },
+    {
+      "head": "液压执行元件",
+      "tail": "液压缸",
+      "relation": "包含"
+    },
+    {
+      "head": "液压执行元件",
+      "tail": "液压马达",
+      "relation": "包含"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:12:41",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "knowledge_tree": {
+    "title": "中国古代文学史（下）",
+    "content": "宋元明清文学发展脉络与代表作品",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "宋代文学",
+        "content": "宋代文学以词为盛，诗文亦有重要发展",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "宋词",
+            "content": "宋代代表性文学体裁，分为婉约派与豪放派",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "婉约派",
+                "content": "以柳永、李清照为代表，风格婉转含蓄",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "柳永词特点",
+                    "content": "善用白描手法，语言通俗，开创慢词体制",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "李清照词风",
+                    "content": "前期清丽婉转，后期沉郁悲凉",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "豪放派",
+                "content": "以苏轼、辛弃疾为代表，风格雄浑豪迈",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "苏轼词革新",
+                    "content": "突破词为艳科传统，扩大词的表现领域",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "辛弃疾爱国词",
+                    "content": "将个人命运与国家兴亡紧密结合",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "宋代诗文",
+            "content": "宋代诗文追求理趣，形成独特风格",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "欧阳修古文运动",
+                "content": "倡导平易自然的文风，反对浮靡文风",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "苏轼散文成就",
+                "content": "汪洋恣肆，明白畅达，为唐宋八大家之一",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "元代文学",
+        "content": "以元曲为代表，包括杂剧和散曲",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "元杂剧",
+            "content": "元代戏剧形式，四折一楔子为基本结构",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "关汉卿与《窦娥冤》",
+                "content": "元代杂剧奠基人，代表作《窦娥冤》揭露社会黑暗",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "王实甫《西厢记》",
+                "content": "以爱情为主题，文辞优美，人物形象鲜明",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "散曲",
+            "content": "元代新兴诗歌形式，包括小令和套数",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "马致远散曲",
+                "content": "《天净沙·秋思》为散曲代表作",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "明清文学",
+        "content": "小说创作达到高峰，诗文继续发展",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "明代小说",
+            "content": "长篇小说繁荣，出现四大奇书",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《三国演义》",
+                "content": "罗贯中著，中国第一部长篇章回体历史小说",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "《水浒传》",
+                "content": "施耐庵著，英雄传奇小说的代表作",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "清代小说",
+            "content": "小说创作达到艺术高峰",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《红楼梦》",
+                "content": "曹雪芹著，中国古典小说艺术巅峰",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "《儒林外史》",
+                "content": "吴敬梓著，讽刺小说的杰作",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "宋词",
+      "tail": "婉约派",
+      "relation": "分为"
+    },
+    {
+      "head": "宋词",
+      "tail": "豪放派",
+      "relation": "分为"
+    },
+    {
+      "head": "婉约派",
+      "tail": "柳永",
+      "relation": "代表人物"
+    },
+    {
+      "head": "婉约派",
+      "tail": "李清照",
+      "relation": "代表人物"
+    },
+    {
+      "head": "豪放派",
+      "tail": "苏轼",
+      "relation": "代表人物"
+    },
+    {
+      "head": "豪放派",
+      "tail": "辛弃疾",
+      "relation": "代表人物"
+    },
+    {
+      "head": "柳永",
+      "tail": "慢词体制",
+      "relation": "开创"
+    },
+    {
+      "head": "苏轼",
+      "tail": "词体革新",
+      "relation": "推动"
+    },
+    {
+      "head": "宋代文学",
+      "tail": "宋代诗文",
+      "relation": "包含"
+    },
+    {
+      "head": "欧阳修",
+      "tail": "古文运动",
+      "relation": "倡导"
+    },
+    {
+      "head": "元代文学",
+      "tail": "元杂剧",
+      "relation": "以...为代表"
+    },
+    {
+      "head": "元代文学",
+      "tail": "散曲",
+      "relation": "包含"
+    },
+    {
+      "head": "元杂剧",
+      "tail": "关汉卿",
+      "relation": "代表人物"
+    },
+    {
+      "head": "元杂剧",
+      "tail": "王实甫",
+      "relation": "代表人物"
+    },
+    {
+      "head": "关汉卿",
+      "tail": "《窦娥冤》",
+      "relation": "代表作"
+    },
+    {
+      "head": "王实甫",
+      "tail": "《西厢记》",
+      "relation": "代表作"
+    },
+    {
+      "head": "散曲",
+      "tail": "马致远",
+      "relation": "代表人物"
+    },
+    {
+      "head": "马致远",
+      "tail": "《天净沙·秋思》",
+      "relation": "代表作"
+    },
+    {
+      "head": "明清文学",
+      "tail": "明代小说",
+      "relation": "包含"
+    },
+    {
+      "head": "明清文学",
+      "tail": "清代小说",
+      "relation": "包含"
+    },
+    {
+      "head": "明代小说",
+      "tail": "四大奇书",
+      "relation": "代表作品"
+    },
+    {
+      "head": "四大奇书",
+      "tail": "《三国演义》",
+      "relation": "包含"
+    },
+    {
+      "head": "四大奇书",
+      "tail": "《水浒传》",
+      "relation": "包含"
+    },
+    {
+      "head": "罗贯中",
+      "tail": "《三国演义》",
+      "relation": "创作"
+    },
+    {
+      "head": "施耐庵",
+      "tail": "《水浒传》",
+      "relation": "创作"
+    },
+    {
+      "head": "清代小说",
+      "tail": "《红楼梦》",
+      "relation": "代表作品"
+    },
+    {
+      "head": "清代小说",
+      "tail": "《儒林外史》",
+      "relation": "代表作品"
+    },
+    {
+      "head": "曹雪芹",
+      "tail": "《红楼梦》",
+      "relation": "创作"
+    },
+    {
+      "head": "吴敬梓",
+      "tail": "《儒林外史》",
+      "relation": "创作"
+    },
+    {
+      "head": "《红楼梦》",
+      "tail": "古典小说艺术巅峰",
+      "relation": "达到"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:11:30",
+    "version": "1.1"
+  }
+}

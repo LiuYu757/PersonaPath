@@ -1,0 +1,540 @@
+{
+  "knowledge_tree": {
+    "title": "普通昆虫学",
+    "content": "植物生产类专业核心课程，系统讲授昆虫形态、结构、生理、生物学、分类与生态及其在农业中的应用",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "昆虫纲基本特征",
+        "content": "体分头、胸、腹三段；具1对触角、3对足、通常2对翅；气管系统呼吸；马氏管排泄；变态发育",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "体躯分段",
+            "content": "头部(6节愈合)、胸部(3节)、腹部(11节或更少)",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "附肢特征",
+            "content": "成虫具3对胸足，通常2对翅；幼虫具多对腹足或胸足",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "气管系统",
+            "content": "开口为气门，分支气管直接供氧至组织",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "昆虫外部形态",
+        "content": "农业识别与防治的形态基础",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "头部",
+            "content": "感觉与取食中心",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "触角",
+                "content": "丝状、棒状、羽状等类型，用于嗅觉、触觉",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "口器类型",
+                "content": "咀嚼式、刺吸式、虹吸式、锉吸式、舐吸式",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "咀嚼式口器",
+                    "content": "上颚发达，为害植物造成缺刻、孔洞",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "刺吸式口器",
+                    "content": "喙状，具口针，传播病毒病",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "胸部",
+            "content": "运动中心",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "胸足构造",
+                "content": "基节、转节、股节、胫节、跗节、前跗节",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "翅的类型",
+                "content": "膜翅、鞘翅、半鞘翅、鳞翅、覆翅",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "腹部",
+            "content": "生殖与代谢中心",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "外生殖器",
+                "content": "雌产卵器、雄抱握器，分类重要依据",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "锁钥学说",
+                "content": "外生殖器形态隔离机制，保证种间生殖隔离",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "昆虫内部解剖与生理",
+        "content": "农业杀虫剂靶标与生理调控基础",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "体壁",
+            "content": "表皮层、真皮、基膜；决定药剂穿透与水分保持",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "表皮分层",
+                "content": "上表皮(蜡层)、外表皮、内表皮",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "脱皮过程",
+                "content": "激素调控：PTTH→蜕皮激素→新表皮沉积",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "消化系统",
+            "content": "前肠、中肠、后肠；pH与酶系决定Bt毒蛋白活性",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "中肠围食膜",
+                "content": "保护中肠上皮，阻碍病原侵入",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "择食机制",
+                "content": "化学感受器识别植物次生代谢物",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "呼吸系统",
+            "content": "气门-气管-微气管；熏蒸剂作用靶点",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "气门开闭机制",
+                "content": "肌肉与化学调控，影响CO₂排出",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "神经系统",
+            "content": "中枢神经、交感神经、周缘神经；杀虫剂主要靶标",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "轴突传导",
+                "content": "Na⁺/K⁺泵与电压门控通道",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "乙酰胆碱受体",
+                "content": "新烟碱类药剂结合位点",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "激素与外激素",
+            "content": "调控变态、生殖、行为；应用于害虫测报与迷向",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "保幼激素(JH)",
+                "content": "维持幼虫特征，抑制变态",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "性信息素",
+                "content": "雌蛾释放引诱雄蛾，用于诱捕或干扰交配",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "昆虫生物学",
+        "content": "生活史与行为规律，指导农业防治时机",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "生殖方法",
+            "content": "两性生殖、孤雌生殖、卵胎生、幼体生殖",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "变态类型",
+            "content": "不完全变态(渐变态、半变态)、完全变态",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "完全变态",
+                "content": "卵→幼虫→蛹→成虫，幼虫与成虫生态位分离",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "生活史",
+            "content": "世代、年生活史、休眠与滞育",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "滞育",
+                "content": "由光周期与激素调控的发育停滞，抗逆越冬",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "行为习性",
+            "content": "趋性、群集、迁飞、伪死、社会行为",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "迁飞",
+                "content": "长距离主动飞行，如稻飞虱、黏虫",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "昆虫分类学",
+        "content": "农业害虫与益虫识别基础",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "分类阶元",
+            "content": "界门纲目科属种；农业上常用科、属",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "命名法规",
+            "content": "双名法、优先律、模式标本",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "农业重要目",
+            "content": "直翅目、半翅目、同翅目、鞘翅目、鳞翅目、膜翅目、双翅目",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "鳞翅目幼虫",
+                "content": "咀嚼式口器，为害叶片、果实，如棉铃虫",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "半翅目",
+                "content": "刺吸式口器，传播病毒，如稻飞虱",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "昆虫生态学",
+        "content": "农业害虫预测与综合治理基础",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "生态因子",
+            "content": "气候(温湿光)、生物(天敌、寄主)、土壤",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "种群动态",
+            "content": "出生率、死亡率、迁移率；指数与逻辑斯蒂模型",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "逻辑斯蒂方程",
+                "content": "dN/dt = rN(1-N/K)，K为环境容纳量",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "生命表",
+            "content": "特定年龄生命表→内禀增长率r、净增殖率R₀",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "农业生态系统",
+            "content": "作物-害虫-天敌互作；害虫生态调控",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "经济阈值(ET)",
+                "content": "防治收益≥防治成本的种群密度",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "课程考试与考研常见题型",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "口器类型与为害状对应",
+            "content": "给出为害症状，判断口器类型并给出防治药剂类别",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "变态类型绘图",
+            "content": "绘完全变态与不完全变态生活史简图并标注各虫态",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "激素调控填空",
+            "content": "保幼激素与蜕皮激素在变态中的拮抗作用",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "种群增长计算",
+            "content": "给定r与初始密度，计算t天后种群数量(逻辑斯蒂模型)",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "目级分类检索",
+            "content": "根据翅、口器、触角特征编制分目检索表",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "昆虫纲基本特征",
+      "tail": "体躯分段",
+      "relation": "包含"
+    },
+    {
+      "head": "体躯分段",
+      "tail": "头部",
+      "relation": "包含"
+    },
+    {
+      "head": "头部",
+      "tail": "触角",
+      "relation": "具有"
+    },
+    {
+      "head": "口器",
+      "tail": "咀嚼式口器",
+      "relation": "包含"
+    },
+    {
+      "head": "咀嚼式口器",
+      "tail": "为害植物造成缺刻",
+      "relation": "导致"
+    },
+    {
+      "head": "刺吸式口器",
+      "tail": "传播植物病毒",
+      "relation": "能够"
+    },
+    {
+      "head": "胸部",
+      "tail": "翅",
+      "relation": "具有"
+    },
+    {
+      "head": "翅",
+      "tail": "鞘翅",
+      "relation": "包含"
+    },
+    {
+      "head": "腹部",
+      "tail": "外生殖器",
+      "relation": "具有"
+    },
+    {
+      "head": "外生殖器",
+      "tail": "锁钥学说",
+      "relation": "依据"
+    },
+    {
+      "head": "体壁",
+      "tail": "表皮分层",
+      "relation": "由...组成"
+    },
+    {
+      "head": "脱皮",
+      "tail": "蜕皮激素",
+      "relation": "受...调控"
+    },
+    {
+      "head": "消化系统",
+      "tail": "中肠",
+      "relation": "包含"
+    },
+    {
+      "head": "中肠",
+      "tail": "围食膜",
+      "relation": "具有"
+    },
+    {
+      "head": "呼吸系统",
+      "tail": "气门",
+      "relation": "具有"
+    },
+    {
+      "head": "气门",
+      "tail": "熏蒸剂",
+      "relation": "作用于"
+    },
+    {
+      "head": "神经系统",
+      "tail": "轴突传导",
+      "relation": "包含"
+    },
+    {
+      "head": "轴突传导",
+      "tail": "Na⁺/K⁺泵",
+      "relation": "依赖"
+    },
+    {
+      "head": "乙酰胆碱受体",
+      "tail": "新烟碱类杀虫剂",
+      "relation": "被...靶向"
+    },
+    {
+      "head": "保幼激素",
+      "tail": "变态",
+      "relation": "抑制"
+    },
+    {
+      "head": "蜕皮激素",
+      "tail": "变态",
+      "relation": "促进"
+    },
+    {
+      "head": "性信息素",
+      "tail": "害虫测报",
+      "relation": "应用于"
+    },
+    {
+      "head": "完全变态",
+      "tail": "蛹",
+      "relation": "包含"
+    },
+    {
+      "head": "滞育",
+      "tail": "光周期",
+      "relation": "由...诱导"
+    },
+    {
+      "head": "迁飞",
+      "tail": "稻飞虱",
+      "relation": "实例"
+    },
+    {
+      "head": "分类阶元",
+      "tail": "科",
+      "relation": "包含"
+    },
+    {
+      "head": "半翅目",
+      "tail": "稻飞虱",
+      "relation": "包含"
+    },
+    {
+      "head": "鳞翅目幼虫",
+      "tail": "棉铃虫",
+      "relation": "实例"
+    },
+    {
+      "head": "逻辑斯蒂方程",
+      "tail": "种群动态",
+      "relation": "描述"
+    },
+    {
+      "head": "经济阈值",
+      "tail": "害虫防治",
+      "relation": "指导"
+    },
+    {
+      "head": "普通昆虫学",
+      "tail": "农业害虫防治",
+      "relation": "应用于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 11:06:35",
+    "version": "1.1"
+  }
+}

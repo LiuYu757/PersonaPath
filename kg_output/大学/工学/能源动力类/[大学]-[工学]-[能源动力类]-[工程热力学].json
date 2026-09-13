@@ -1,0 +1,320 @@
+{
+  "knowledge_tree": {
+    "title": "工程热力学",
+    "content": "研究热能与其他形式能量（特别是机械能）之间相互转换规律的科学，是能源动力类专业核心基础课程。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "基本概念与定义",
+        "content": "热力学系统、状态参数、平衡态、过程与循环等基本概念。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "热力学系统",
+            "content": "根据研究目的选取的物质集合，分为闭口系（控制质量）、开口系（控制体积）和孤立系。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "状态参数",
+            "content": "描述系统宏观状态的物理量，如压力(p)、温度(T)、比体积(v)、热力学能(U)、焓(H)、熵(S)等。其变化量与路径无关。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "强度参数与广延参数",
+                "content": "强度参数与系统质量无关（如p, T），广延参数与系统质量成正比（如U, H, S）。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "平衡态",
+            "content": "系统在没有外界影响的条件下，宏观性质不随时间变化的状态。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "状态方程",
+            "content": "平衡态下，系统状态参数之间的函数关系，如理想气体状态方程 pv = RT。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "热力学第一定律",
+        "content": "能量守恒与转换定律在热现象中的应用，揭示了热力过程中能量传递、转换的数量关系。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "闭口系能量方程",
+            "content": "Q = ΔU + W，其中Q为热量，W为容积功，ΔU为热力学能变化。适用于控制质量。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "功的计算",
+                "content": "容积功 W = ∫p dV，其值与过程路径有关。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "开口系能量方程",
+            "content": "稳定流动能量方程：q = Δh + (1/2)Δc² + gΔz + wₛ，其中h为比焓，wₛ为轴功。适用于控制体积。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "技术功",
+                "content": "wₜ = wₛ + (1/2)Δc² + gΔz，是开口系中可被直接利用的功。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "焓的定义",
+            "content": "H = U + pV，是一个组合状态参数，在分析开口系时极为重要。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "热力学第二定律",
+        "content": "揭示热过程的方向性、条件及限度，指出能量品质的差异。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "表述与实质",
+            "content": "克劳修斯表述（热不能自发从低温传向高温）和开尔文-普朗克表述（单热源热机不可能）。实质是能量有品质（㶲）的贬值。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "卡诺循环与卡诺定理",
+            "content": "卡诺循环是在相同温限间工作的最理想可逆循环，其热效率η_c = 1 - T_L/T_H。卡诺定理指出所有热机效率不大于卡诺热机效率。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "熵与熵增原理",
+            "content": "熵(S)是状态参数，其定义源于克劳修斯不等式。孤立系熵增原理：dS_iso ≥ 0，等号对应可逆过程。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "熵变的计算",
+                "content": "对于可逆过程，dS = (δQ_rev)/T。计算实际过程熵变需设计可逆路径。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "工质的热力性质",
+        "content": "研究常用工质（如理想气体、水蒸气等）的热力参数关系。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "理想气体",
+            "content": "满足pV = mRT和u = u(T)的气体模型。其比热容、热力学能、焓、熵的计算有简化公式。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "理想气体混合物",
+                "content": "道尔顿分压定律和阿马加分体积定律。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "水蒸气",
+            "content": "实际工质，性质复杂，通常通过热力性质图表（如h-s图）或软件查取参数。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "相变过程",
+                "content": "包括未饱和水、饱和水、湿蒸汽、干饱和蒸汽和过热蒸汽五个状态。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "湿空气",
+            "content": "干空气与水蒸气的混合物，涉及含湿量、相对湿度、焓等参数。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型热力过程与分析",
+        "content": "分析工质经历的基本热力过程，计算状态参数变化及能量转换。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "基本过程",
+            "content": "定压、定容、定温、绝热（定熵）过程。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "压气机过程",
+            "content": "气体压缩过程分析，比较活塞式压气机（近似绝热、多变）和叶轮式压气机。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "气体动力循环",
+            "content": "如内燃机的定容加热（奥托）循环、定压加热（狄塞尔）循环等，分析其热效率。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "蒸汽动力循环",
+            "content": "朗肯循环及其改进（再热、回热），分析循环热效率及㶲效率。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "制冷循环",
+            "content": "逆卡诺循环、蒸汽压缩式制冷循环，分析其制冷系数。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "工程热力学中常见的计算与分析题型。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "状态参数计算题",
+            "content": "给定初态和过程，求终态参数（如p, T, v, u, h, s）或过程量（如Q, W）。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "热力循环分析题",
+            "content": "给定循环的p-v图或T-s图及相关参数，计算循环热效率、净功等。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "热力学第二定律分析题",
+            "content": "计算过程的熵产、㶲损失，判断过程方向性或可行性。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "热力学系统",
+      "tail": "状态参数",
+      "relation": "由...描述"
+    },
+    {
+      "head": "状态参数",
+      "tail": "平衡态",
+      "relation": "定义于"
+    },
+    {
+      "head": "热力学第一定律",
+      "tail": "闭口系能量方程",
+      "relation": "具体应用于"
+    },
+    {
+      "head": "热力学第一定律",
+      "tail": "开口系能量方程",
+      "relation": "具体应用于"
+    },
+    {
+      "head": "焓的定义",
+      "tail": "开口系能量方程",
+      "relation": "是...中的关键参数"
+    },
+    {
+      "head": "热力学第二定律",
+      "tail": "卡诺定理",
+      "relation": "由...阐明极限"
+    },
+    {
+      "head": "卡诺循环",
+      "tail": "卡诺定理",
+      "relation": "是...的实例"
+    },
+    {
+      "head": "熵",
+      "tail": "热力学第二定律",
+      "relation": "是...的量化判据"
+    },
+    {
+      "head": "熵增原理",
+      "tail": "过程方向性",
+      "relation": "用于判断"
+    },
+    {
+      "head": "理想气体",
+      "tail": "状态方程",
+      "relation": "满足"
+    },
+    {
+      "head": "水蒸气",
+      "tail": "热力性质图表",
+      "relation": "参数通过...查取"
+    },
+    {
+      "head": "基本热力过程",
+      "tail": "状态参数计算题",
+      "relation": "是...的基础"
+    },
+    {
+      "head": "气体动力循环",
+      "tail": "热力循环分析题",
+      "relation": "是...的分析对象"
+    },
+    {
+      "head": "热力学第二定律分析题",
+      "tail": "熵产计算",
+      "relation": "核心是"
+    },
+    {
+      "head": "功的计算",
+      "tail": "闭口系能量方程",
+      "relation": "是...的重要组成部分"
+    },
+    {
+      "head": "技术功",
+      "tail": "开口系能量方程",
+      "relation": "与...中的轴功相关"
+    },
+    {
+      "head": "理想气体",
+      "tail": "基本热力过程",
+      "relation": "常用于分析"
+    },
+    {
+      "head": "朗肯循环",
+      "tail": "蒸汽动力循环",
+      "relation": "是...的基本模型"
+    },
+    {
+      "head": "湿空气",
+      "tail": "含湿量",
+      "relation": "关键参数包括"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:46:06",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,860 @@
+{
+  "knowledge_tree": {
+    "title": "体育与健康-3至4年级全一册",
+    "content": "涵盖体育与健康基础知识、基本身体活动、体操类活动、球类活动、武术、民族民间体育活动等内容",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "体育与健康基础知识",
+        "content": "健康知识、运动安全、卫生习惯等内容",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "安全运动促健康",
+            "content": "运动前后的安全注意事项和运动好处",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "运动好处",
+                "content": "促进生长发育、增强体质、调节情绪等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "运动安全注意事项",
+                "content": "运动前着装、准备活动；运动中集中注意力、遵守规则；运动后放松、饮食卫生",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "运动前后的饮食卫生",
+            "content": "运动前后合理的饮食和饮水方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "运动前后饮水",
+                "content": "运动前少喝水，运动后适量喝温开水或淡盐水",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "运动前后进食",
+                "content": "运动前不大量进食，运动后休息半小时再吃饭",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "保持健康体重",
+            "content": "营养不良与肥胖的原因、危害及预防",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "营养不良与肥胖的原因",
+                "content": "偏食、挑食、饮食不规律、运动不足等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "预防方法",
+                "content": "均衡饮食、加强锻炼",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "国家学生体质健康标准",
+            "content": "意义、测试项目和要求",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "测试项目",
+                "content": "体重指数、肺活量、50米跑、坐位体前屈、1分钟跳绳、1分钟仰卧起坐",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "等级评定",
+                "content": "90分及以上为优秀，80-89.9分为良好，60-79.9分为及格",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "用眼卫生",
+            "content": "保护视力、预防近视的方法",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "读书写字姿势",
+                "content": "身体坐直、眼离书本一尺、胸离桌边一拳、手离笔尖一寸",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "看电视用眼卫生",
+                "content": "时间不宜过长、保持距离、姿势正确等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "使用电脑用眼卫生",
+                "content": "注意坐姿、休息眼睛、光线适宜等",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "呼吸道传染病的预防",
+            "content": "常见呼吸道传染病及预防方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "常见呼吸道传染病",
+                "content": "流行性感冒、新型冠状病毒肺炎、流行性腮腺炎等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "预防方法",
+                "content": "接种疫苗、避免接触感染者、保持良好的个人卫生、佩戴口罩等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "基本身体活动",
+        "content": "跑、跳跃、投掷等基本身体活动技能",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "跑",
+            "content": "快速跑、耐久跑、接力跑、障碍跑等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "50米快速跑",
+                "content": "站立式起跑、途中跑、冲刺",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "300-400米耐久跑",
+                "content": "匀速跑、呼吸节奏、体力分配",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "接力跑",
+                "content": "迎面接力、往返接力",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "障碍跑",
+                "content": "跨、跳、钻、翻、爬等方法通过障碍",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "跳跃",
+            "content": "立定跳远、急行跳远、侧向助跑跳高等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "立定跳远",
+                "content": "弹性屈伸、蹬地展体、落地缓冲",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "急行跳远",
+                "content": "助跑、踏跳、腾空、落地",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "侧向助跑跳高",
+                "content": "助跑、起跳、过杆、落地",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "投掷",
+            "content": "原地投掷沙包、上步投掷沙包、双手前掷实心球等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "原地投掷沙包",
+                "content": "蹬地、转体、挥臂",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "双手前掷实心球",
+                "content": "后仰、蹬地、收腹、挥臂",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "体操类活动",
+        "content": "队列队形、基本体操、技巧、器械体操等",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "队列与队形",
+            "content": "报数、跑步走-立定、立正稍息、看齐、左(右)转弯走等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "基本体操",
+            "content": "基本部位操、跳绳等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "基本部位操",
+                "content": "伸展、提腿、扩胸、体侧屈、体前屈、下蹲、全身、跳跃等运动",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "跳绳",
+                "content": "单脚交换跳、8字跳长绳",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "技巧",
+            "content": "前滚翻、后滚翻、跪跳起、肩肘倒立等",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "前滚翻",
+                "content": "蹲撑、蹬地、低头、团身滚动",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "后滚翻",
+                "content": "后倒、团身、推手",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "器械体操",
+            "content": "支撑跳跃、低单杠等",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "支撑跳跃",
+                "content": "跳上成跪撑-向前跳下",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "低单杠",
+                "content": "跳上成正撑-前翻下",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "体操类活动",
+        "content": "包括支撑跳跃、低单杠、韵律活动等",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "支撑跳跃",
+            "content": "跳上成正撑、前翻下等动作",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "跳上成正撑",
+                "content": "直臂挺胸抬头、并腿绷脚面",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "前翻下",
+                "content": "上体前屈收腹贴杠、低头屈臂拉杠双脚落地",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "低单杠",
+            "content": "正撑、前翻下等动作",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "正撑姿势",
+                "content": "直臂支撑、挺胸展腹",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "前翻下动作",
+                "content": "收腹、贴杠前翻下",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "球类活动",
+        "content": "包括小篮球、小足球、乒乓球等",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "小篮球",
+            "content": "运球、传接球、投篮等基本技术",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "原地运球",
+                "content": "手指和指根触球，手腕手指按拍篮球",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "行进间运球",
+                "content": "按拍球的后上部位，跑动与运球协调",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "小足球",
+            "content": "踢球、运球、传接球等基本技术",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "脚内侧踢球",
+                "content": "摆动腿膝部外展，用脚内侧推送或敲击球",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "脚背正面踢球",
+                "content": "摆动腿大腿带动小腿，用脚背正面击球",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "武术",
+        "content": "基本功、基本动作和组合动作",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "武术基本功",
+            "content": "正踢腿、侧踢腿、仆步压腿等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "正踢腿",
+                "content": "挺胸立腰，勾脚尖上踢",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "侧踢腿",
+                "content": "直背、立腰、开胯，勾脚快踢",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "武术组合动作",
+            "content": "摆掌撩掌类等组合动作",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "上步搂手马步击掌",
+                "content": "上步搂手握拳，马步推击",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "弓步双摆掌",
+                "content": "两臂划圆，坐腕立掌",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "安全运动促健康",
+      "tail": "运动好处",
+      "relation": "包含"
+    },
+    {
+      "head": "安全运动促健康",
+      "tail": "运动安全注意事项",
+      "relation": "包含"
+    },
+    {
+      "head": "运动前后的饮食卫生",
+      "tail": "运动前后饮水",
+      "relation": "包含"
+    },
+    {
+      "head": "运动前后的饮食卫生",
+      "tail": "运动前后进食",
+      "relation": "包含"
+    },
+    {
+      "head": "保持健康体重",
+      "tail": "营养不良与肥胖的原因",
+      "relation": "包含"
+    },
+    {
+      "head": "保持健康体重",
+      "tail": "预防方法",
+      "relation": "包含"
+    },
+    {
+      "head": "国家学生体质健康标准",
+      "tail": "测试项目",
+      "relation": "包含"
+    },
+    {
+      "head": "国家学生体质健康标准",
+      "tail": "等级评定",
+      "relation": "包含"
+    },
+    {
+      "head": "用眼卫生",
+      "tail": "读书写字姿势",
+      "relation": "包含"
+    },
+    {
+      "head": "用眼卫生",
+      "tail": "看电视用眼卫生",
+      "relation": "包含"
+    },
+    {
+      "head": "用眼卫生",
+      "tail": "使用电脑用眼卫生",
+      "relation": "包含"
+    },
+    {
+      "head": "呼吸道传染病的预防",
+      "tail": "常见呼吸道传染病",
+      "relation": "包含"
+    },
+    {
+      "head": "呼吸道传染病的预防",
+      "tail": "预防方法",
+      "relation": "包含"
+    },
+    {
+      "head": "跑",
+      "tail": "50米快速跑",
+      "relation": "包含"
+    },
+    {
+      "head": "跑",
+      "tail": "300-400米耐久跑",
+      "relation": "包含"
+    },
+    {
+      "head": "跑",
+      "tail": "接力跑",
+      "relation": "包含"
+    },
+    {
+      "head": "跑",
+      "tail": "障碍跑",
+      "relation": "包含"
+    },
+    {
+      "head": "跳跃",
+      "tail": "立定跳远",
+      "relation": "包含"
+    },
+    {
+      "head": "跳跃",
+      "tail": "急行跳远",
+      "relation": "包含"
+    },
+    {
+      "head": "跳跃",
+      "tail": "侧向助跑跳高",
+      "relation": "包含"
+    },
+    {
+      "head": "投掷",
+      "tail": "原地投掷沙包",
+      "relation": "包含"
+    },
+    {
+      "head": "投掷",
+      "tail": "双手前掷实心球",
+      "relation": "包含"
+    },
+    {
+      "head": "基本体操",
+      "tail": "基本部位操",
+      "relation": "包含"
+    },
+    {
+      "head": "基本体操",
+      "tail": "跳绳",
+      "relation": "包含"
+    },
+    {
+      "head": "技巧",
+      "tail": "前滚翻",
+      "relation": "包含"
+    },
+    {
+      "head": "技巧",
+      "tail": "后滚翻",
+      "relation": "包含"
+    },
+    {
+      "head": "器械体操",
+      "tail": "支撑跳跃",
+      "relation": "包含"
+    },
+    {
+      "head": "器械体操",
+      "tail": "低单杠",
+      "relation": "包含"
+    },
+    {
+      "head": "前滚翻",
+      "tail": "蹲撑",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "前滚翻",
+      "tail": "蹬地",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "前滚翻",
+      "tail": "低头",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "前滚翻",
+      "tail": "团身滚动",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "后滚翻",
+      "tail": "后倒",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "后滚翻",
+      "tail": "团身",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "后滚翻",
+      "tail": "推手",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "50米快速跑",
+      "tail": "站立式起跑",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "50米快速跑",
+      "tail": "途中跑",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "50米快速跑",
+      "tail": "冲刺",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "立定跳远",
+      "tail": "弹性屈伸",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "立定跳远",
+      "tail": "蹬地展体",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "立定跳远",
+      "tail": "落地缓冲",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "急行跳远",
+      "tail": "助跑",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "急行跳远",
+      "tail": "踏跳",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "急行跳远",
+      "tail": "腾空",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "急行跳远",
+      "tail": "落地",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "原地投掷沙包",
+      "tail": "蹬地",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "原地投掷沙包",
+      "tail": "转体",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "原地投掷沙包",
+      "tail": "挥臂",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "双手前掷实心球",
+      "tail": "后仰",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "双手前掷实心球",
+      "tail": "蹬地",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "双手前掷实心球",
+      "tail": "收腹",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "双手前掷实心球",
+      "tail": "挥臂",
+      "relation": "动作组成部分"
+    },
+    {
+      "head": "基本部位操",
+      "tail": "伸展运动",
+      "relation": "包含"
+    },
+    {
+      "head": "基本部位操",
+      "tail": "提腿运动",
+      "relation": "包含"
+    },
+    {
+      "head": "基本部位操",
+      "tail": "扩胸运动",
+      "relation": "包含"
+    },
+    {
+      "head": "基本部位操",
+      "tail": "体侧屈运动",
+      "relation": "包含"
+    },
+    {
+      "head": "基本部位操",
+      "tail": "体前屈运动",
+      "relation": "包含"
+    },
+    {
+      "head": "基本部位操",
+      "tail": "下蹲运动",
+      "relation": "包含"
+    },
+    {
+      "head": "基本部位操",
+      "tail": "全身运动",
+      "relation": "包含"
+    },
+    {
+      "head": "基本部位操",
+      "tail": "跳跃运动",
+      "relation": "包含"
+    },
+    {
+      "head": "安全运动促健康",
+      "tail": "基本身体活动",
+      "relation": "应用于"
+    },
+    {
+      "head": "运动前后的饮食卫生",
+      "tail": "基本身体活动",
+      "relation": "应用于"
+    },
+    {
+      "head": "用眼卫生",
+      "tail": "基本身体活动",
+      "relation": "应用于"
+    },
+    {
+      "head": "呼吸道传染病的预防",
+      "tail": "基本身体活动",
+      "relation": "应用于"
+    },
+    {
+      "head": "国家学生体质健康标准",
+      "tail": "基本身体活动",
+      "relation": "评价依据"
+    },
+    {
+      "head": "保持健康体重",
+      "tail": "基本身体活动",
+      "relation": "应用于"
+    },
+    {
+      "head": "前滚翻",
+      "tail": "保护与帮助",
+      "relation": "需要"
+    },
+    {
+      "head": "后滚翻",
+      "tail": "保护与帮助",
+      "relation": "需要"
+    },
+    {
+      "head": "支撑跳跃",
+      "tail": "保护与帮助",
+      "relation": "需要"
+    },
+    {
+      "head": "低单杠",
+      "tail": "保护与帮助",
+      "relation": "需要"
+    },
+    {
+      "head": "支撑跳跃",
+      "tail": "跳上成正撑",
+      "relation": "包含"
+    },
+    {
+      "head": "支撑跳跃",
+      "tail": "前翻下",
+      "relation": "包含"
+    },
+    {
+      "head": "小篮球",
+      "tail": "原地运球",
+      "relation": "包含"
+    },
+    {
+      "head": "小篮球",
+      "tail": "行进间运球",
+      "relation": "包含"
+    },
+    {
+      "head": "小足球",
+      "tail": "脚内侧踢球",
+      "relation": "包含"
+    },
+    {
+      "head": "小足球",
+      "tail": "脚背正面踢球",
+      "relation": "包含"
+    },
+    {
+      "head": "武术",
+      "tail": "武术基本功",
+      "relation": "包含"
+    },
+    {
+      "head": "武术",
+      "tail": "武术组合动作",
+      "relation": "包含"
+    },
+    {
+      "head": "跳上成正撑",
+      "tail": "直臂支撑",
+      "relation": "要求"
+    },
+    {
+      "head": "前翻下",
+      "tail": "收腹贴杠",
+      "relation": "要求"
+    },
+    {
+      "head": "原地运球",
+      "tail": "手指控球",
+      "relation": "要求"
+    },
+    {
+      "head": "行进间运球",
+      "tail": "跑动协调",
+      "relation": "要求"
+    },
+    {
+      "head": "脚内侧踢球",
+      "tail": "膝部外展",
+      "relation": "要求"
+    },
+    {
+      "head": "脚背正面踢球",
+      "tail": "大腿带动小腿",
+      "relation": "要求"
+    },
+    {
+      "head": "正踢腿",
+      "tail": "挺胸立腰",
+      "relation": "要求"
+    },
+    {
+      "head": "侧踢腿",
+      "tail": "直背开胯",
+      "relation": "要求"
+    }
+  ],
+  "metadata": {
+    "chunks_merged": 2,
+    "generated_at": "2025-11-12 22:41:18",
+    "version": "1.1"
+  }
+}

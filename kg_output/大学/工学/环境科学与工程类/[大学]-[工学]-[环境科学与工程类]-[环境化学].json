@@ -1,0 +1,531 @@
+{
+  "knowledge_tree": {
+    "title": "环境化学",
+    "content": "研究化学物质在环境中的存在、行为、效应及控制的科学，是环境科学与工程的核心基础。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "大气环境化学",
+        "content": "研究大气中化学物质的来源、反应、迁移、转化及归宿。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "大气组成与结构",
+            "content": "大气的化学成分分层结构，如对流层、平流层等。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "主要成分",
+                "content": "氮气(N2)、氧气(O2)、氩气(Ar)等恒定成分。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "微量成分",
+                "content": "二氧化碳(CO2)、臭氧(O3)、甲烷(CH4)等可变成分。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "大气分层",
+                "content": "根据温度垂直变化划分，如对流层、平流层、中间层、热层。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "光化学反应",
+            "content": "物质吸收光能后发生的化学反应，是大气中许多重要过程的基础。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "光解离",
+                "content": "分子吸收光子后化学键断裂的过程，如O3 + hν → O· + O2。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "自由基反应",
+                "content": "含有未成对电子的高活性物种（如·OH, HO2·）引发的链式反应。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "重要大气环境问题",
+            "content": "由化学物质引发的大气环境问题及其化学机制。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "光化学烟雾",
+                "content": "氮氧化物和挥发性有机物在阳光照射下发生光化学反应生成的二次污染物混合体。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "酸雨",
+                "content": "pH值小于5.6的降水，主要由硫氧化物和氮氧化物转化生成的硫酸和硝酸引起。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "臭氧层破坏",
+                "content": "平流层臭氧被氯氟烃等物质催化分解导致臭氧层耗损的现象。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "温室效应与全球变暖",
+                "content": "温室气体吸收地面辐射并再辐射，导致地球平均温度升高的现象。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "水环境化学",
+        "content": "研究天然水体中化学物质的分布、形态、迁移转化规律及水污染控制化学原理。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "天然水的基本性质",
+            "content": "天然水体的化学组成与基本特性。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "碳酸平衡",
+                "content": "CO2-H2O体系中CO2、H2CO3、HCO3-、CO32-之间的平衡关系，是天然水体最重要的缓冲体系。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "水体pH与碱度",
+                "content": "pH表示水体的酸碱性，碱度表示水体中和酸的能力。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "水体中的化学过程",
+            "content": "发生在水体中的重要化学转化过程。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "沉淀-溶解平衡",
+                "content": "难溶电解质在水中溶解与沉淀达到的动态平衡，可用溶度积常数Ksp描述。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "氧化还原反应",
+                "content": "水体中物质间电子转移的反应，用pE（电子活度的负对数）或Eh（氧化还原电位）表示。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "配合作用",
+                "content": "金属离子与配位体形成配离子的反应，影响金属的迁移性和毒性。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "水污染化学",
+            "content": "污染物在水环境中的行为与效应。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "营养化作用",
+                "content": "氮、磷等植物营养物质过量排入水体，引起藻类过度繁殖的现象。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "重金属污染",
+                "content": "汞、镉、铅等重金属在水体中的迁移转化及其毒性效应。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "有机污染物",
+                "content": "持久性有机污染物（POPs）等在水体中的降解与归趋。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "土壤环境化学",
+        "content": "研究化学物质在土壤中的存在形态、迁移转化规律及其生态效应。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "土壤组成与性质",
+            "content": "土壤的固、液、气三相组成及其基本化学性质。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "土壤矿物质",
+                "content": "土壤固相的主体，如石英、长石、粘土矿物等。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "土壤有机质",
+                "content": "土壤中所有含碳的有机物质，特别是腐殖质。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "土壤胶体与表面性质",
+                "content": "土壤胶体具有巨大的比表面积和表面电荷，影响吸附性能。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "土壤中的主要化学过程",
+            "content": "支配污染物在土壤中行为的关键过程。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "吸附-解吸作用",
+                "content": "污染物在土壤固相和液相间的分配过程，是影响其迁移性和生物有效性的关键。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "酸碱反应",
+                "content": "土壤对酸、碱的缓冲能力及其pH变化。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "土壤污染与修复",
+            "content": "污染物在土壤中的积累及其修复的化学原理。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "农药在土壤中的行为",
+                "content": "农药的吸附、降解、迁移等过程及其影响因素。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "土壤修复化学原理",
+                "content": "利用化学方法（如淋洗、氧化还原、稳定化）修复污染土壤的原理。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "生物体内污染物质的运动过程与毒性",
+        "content": "研究污染物在生物体内的吸收、分布、转化、排泄及毒性效应。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "生物转运",
+            "content": "污染物穿过生物膜的过程，包括吸收、分布和排泄。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "生物膜结构",
+                "content": "磷脂双分子层构成的具有选择透过性的屏障。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "转运机制",
+                "content": "被动转运、主动转运、易化扩散等。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "生物转化",
+            "content": "污染物在生物体内酶催化下发生的化学变化，通常分为I相（氧化、还原、水解）和II相（结合）反应。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "I相反应",
+                "content": "引入或暴露官能团的反应，主要由细胞色素P450酶系催化。",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "II相反应",
+                "content": "与内源性物质（如葡萄糖醛酸、谷胱甘肽）结合，增加水溶性利于排泄。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "毒物毒性",
+            "content": "毒物对生物体有害效应的性质与强度。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "剂量-效应关系",
+                "content": "毒物剂量与生物体反应强度之间的关系。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "致毒机理",
+                "content": "毒物引起有害效应的生物化学和生理学机制。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "典型污染物在环境各圈层中的循环",
+        "content": "研究代表性污染物（如碳、氮、硫、重金属、POPs）在多介质环境中的迁移转化与循环。",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "重金属元素循环",
+            "content": "汞、镉、铅等重金属在环境中的迁移转化与生物地球化学循环。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "汞的甲基化",
+                "content": "无机汞在厌氧条件下被微生物转化为毒性更强的甲基汞。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "营养元素的循环",
+            "content": "碳、氮、磷、硫等生命必需元素在环境中的循环过程。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "氮循环",
+                "content": "包括固氮、氨化、硝化、反硝化等过程。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "持久性有机污染物的归趋",
+            "content": "POPs在环境各圈层间的迁移、分配与持久性。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "大气环境化学",
+      "tail": "大气组成与结构",
+      "relation": "研究基础"
+    },
+    {
+      "head": "大气组成与结构",
+      "tail": "主要成分",
+      "relation": "包含"
+    },
+    {
+      "head": "大气组成与结构",
+      "tail": "微量成分",
+      "relation": "包含"
+    },
+    {
+      "head": "大气组成与结构",
+      "tail": "大气分层",
+      "relation": "包含"
+    },
+    {
+      "head": "光化学反应",
+      "tail": "光解离",
+      "relation": "核心过程包括"
+    },
+    {
+      "head": "光化学反应",
+      "tail": "自由基反应",
+      "relation": "核心过程包括"
+    },
+    {
+      "head": "光化学烟雾",
+      "tail": "光化学反应",
+      "relation": "由...引发"
+    },
+    {
+      "head": "酸雨",
+      "tail": "硫氧化物",
+      "relation": "主要成因包括"
+    },
+    {
+      "head": "酸雨",
+      "tail": "氮氧化物",
+      "relation": "主要成因包括"
+    },
+    {
+      "head": "臭氧层破坏",
+      "tail": "氯氟烃",
+      "relation": "由...催化"
+    },
+    {
+      "head": "温室效应",
+      "tail": "温室气体",
+      "relation": "由...引起"
+    },
+    {
+      "head": "水环境化学",
+      "tail": "天然水的基本性质",
+      "relation": "研究基础"
+    },
+    {
+      "head": "天然水的基本性质",
+      "tail": "碳酸平衡",
+      "relation": "核心内容"
+    },
+    {
+      "head": "天然水的基本性质",
+      "tail": "水体pH与碱度",
+      "relation": "核心参数"
+    },
+    {
+      "head": "水体中的化学过程",
+      "tail": "沉淀-溶解平衡",
+      "relation": "包括"
+    },
+    {
+      "head": "水体中的化学过程",
+      "tail": "氧化还原反应",
+      "relation": "包括"
+    },
+    {
+      "head": "水体中的化学过程",
+      "tail": "配合作用",
+      "relation": "包括"
+    },
+    {
+      "head": "营养化作用",
+      "tail": "氮",
+      "relation": "关键营养物质"
+    },
+    {
+      "head": "营养化作用",
+      "tail": "磷",
+      "relation": "关键营养物质"
+    },
+    {
+      "head": "土壤环境化学",
+      "tail": "土壤组成与性质",
+      "relation": "研究基础"
+    },
+    {
+      "head": "土壤组成与性质",
+      "tail": "土壤矿物质",
+      "relation": "主要组成"
+    },
+    {
+      "head": "土壤组成与性质",
+      "tail": "土壤有机质",
+      "relation": "主要组成"
+    },
+    {
+      "head": "土壤组成与性质",
+      "tail": "土壤胶体与表面性质",
+      "relation": "关键性质"
+    },
+    {
+      "head": "土壤中的主要化学过程",
+      "tail": "吸附-解吸作用",
+      "relation": "核心过程"
+    },
+    {
+      "head": "土壤中的主要化学过程",
+      "tail": "酸碱反应",
+      "relation": "核心过程"
+    },
+    {
+      "head": "农药在土壤中的行为",
+      "tail": "吸附-解吸作用",
+      "relation": "受...影响"
+    },
+    {
+      "head": "生物体内污染物质的运动过程与毒性",
+      "tail": "生物转运",
+      "relation": "包括"
+    },
+    {
+      "head": "生物体内污染物质的运动过程与毒性",
+      "tail": "生物转化",
+      "relation": "包括"
+    },
+    {
+      "head": "生物体内污染物质的运动过程与毒性",
+      "tail": "毒物毒性",
+      "relation": "包括"
+    },
+    {
+      "head": "生物转运",
+      "tail": "生物膜结构",
+      "relation": "依赖于"
+    },
+    {
+      "head": "生物转化",
+      "tail": "I相反应",
+      "relation": "包括"
+    },
+    {
+      "head": "生物转化",
+      "tail": "II相反应",
+      "relation": "包括"
+    },
+    {
+      "head": "典型污染物在环境各圈层中的循环",
+      "tail": "重金属元素循环",
+      "relation": "研究内容"
+    },
+    {
+      "head": "典型污染物在环境各圈层中的循环",
+      "tail": "营养元素的循环",
+      "relation": "研究内容"
+    },
+    {
+      "head": "典型污染物在环境各圈层中的循环",
+      "tail": "持久性有机污染物的归趋",
+      "relation": "研究内容"
+    },
+    {
+      "head": "重金属元素循环",
+      "tail": "汞的甲基化",
+      "relation": "重要过程"
+    },
+    {
+      "head": "营养元素的循环",
+      "tail": "氮循环",
+      "relation": "重要过程"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:28:43",
+    "version": "1.1"
+  }
+}

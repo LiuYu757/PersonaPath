@@ -1,0 +1,661 @@
+{
+  "knowledge_tree": {
+    "title": "七年级上册英语",
+    "content": "涵盖问候、介绍、学校生活、家庭、兴趣爱好等基础英语交际话题",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "Starter Unit 1: Hello!",
+        "content": "学习基本问候语和自我介绍",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "Greetings",
+            "content": "Hello/Hi/Good morning等问候方式",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "Formal greetings",
+                "content": "Good morning/afternoon/evening",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Informal greetings",
+                "content": "Hello/Hi",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Self-introduction",
+            "content": "介绍自己的姓名和基本信息",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "Asking for name",
+                "content": "What's your name?",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Spelling names",
+                "content": "How do you spell your name?",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Starter Unit 2: Keep Tidy!",
+        "content": "学习物品名称和位置介词",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "School supplies",
+            "content": "学习文具用品词汇",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "Common school items",
+                "content": "ruler, cap, pencil, bottle, eraser, keys",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Prepositions of place",
+            "content": "学习位置介词用法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Basic prepositions",
+                "content": "in, on, under",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Asking about position",
+                "content": "Where is/are...?",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Starter Unit 3: Welcome!",
+        "content": "学习农场动物和植物词汇",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "Farm animals",
+            "content": "常见农场动物名称",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "Animal names",
+                "content": "chickens, dogs, rabbits, cows, horses, sheep",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Farm plants",
+            "content": "常见农场植物名称",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "Plant names",
+                "content": "tomato plants, flowers, apple trees, carrot plants",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unit 1: You and Me",
+        "content": "学习交朋友和个人信息介绍",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Making new friends",
+            "content": "结交新朋友的表达方式",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Introduction phrases",
+                "content": "Nice to meet you, Where are you from?",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Personal information",
+                "content": "Asking about age, country, class",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Simple present tense (be)",
+            "content": "be动词的一般现在时",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Forms of be",
+                "content": "am, is, are",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Subject pronouns",
+                "content": "I, you, he, she, it, we, they",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: We're Family!",
+        "content": "学习家庭成员和所有格",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Family members",
+            "content": "家庭成员称呼",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "Immediate family",
+                "content": "mother, father, sister, brother",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Extended family",
+                "content": "grandparents, aunt, uncle, cousin",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Possessive 's",
+            "content": "名词所有格的用法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Singular possessive",
+                "content": "my mother's piano",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Plural possessive",
+                "content": "my grandparents' favorite",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: My School",
+        "content": "学习学校场所和方位表达",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "School places",
+            "content": "学校不同场所名称",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "Main buildings",
+                "content": "classroom, library, gym, dining hall",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Other facilities",
+                "content": "sports field, student centre, teachers' office",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "There be structure",
+            "content": "存在句的用法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Affirmative form",
+                "content": "There is/are...",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Negative form",
+                "content": "There isn't/aren't...",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unit 4: My Favourite Subject",
+        "content": "学习学科名称和原因表达",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "School subjects",
+            "content": "学校科目名称",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "Core subjects",
+                "content": "Chinese, maths, English",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Other subjects",
+                "content": "history, geography, biology, IT, PE, music, art",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Conjunctions",
+            "content": "连词and, but, because的用法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "Adding information",
+                "content": "Using 'and'",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Contrasting ideas",
+                "content": "Using 'but'",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unit 5: Fun Clubs",
+        "content": "学习学校俱乐部和能力表达",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "School clubs",
+            "content": "各种学校俱乐部",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "Club types",
+                "content": "art club, science club, drama club, music club, chess club, ping-pong club",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Modal verb can",
+            "content": "情态动词can表示能力",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Asking about ability",
+                "content": "Can you...?",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Expressing ability",
+                "content": "Yes, I can/No, I can't",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unit 6: A Day in the Life",
+        "content": "学习日常作息和时间表达",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Daily routines",
+            "content": "日常活动表达",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Morning routines",
+                "content": "get up, brush teeth, take a shower, get dressed, have breakfast",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "School routines",
+                "content": "go to school, have classes, go home, do homework",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Time expressions",
+            "content": "时间表达方式",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Telling time",
+                "content": "o'clock, quarter past/to, half past",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Wh-questions",
+                "content": "What time/When questions",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unit 7: Happy Birthday!",
+        "content": "学习生日庆祝和日期表达",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Dates and months",
+            "content": "日期和月份表达",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Months of the year",
+                "content": "January to December",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Ordinal numbers",
+                "content": "1st to 31st",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Birthday celebrations",
+            "content": "生日庆祝活动",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Birthday activities",
+                "content": "have a party, make a wish, blow out candles, open gifts",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Shopping expressions",
+                "content": "How much...? How many...?",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "Greetings",
+      "tail": "Formal greetings",
+      "relation": "包含"
+    },
+    {
+      "head": "Greetings",
+      "tail": "Informal greetings",
+      "relation": "包含"
+    },
+    {
+      "head": "Self-introduction",
+      "tail": "Asking for name",
+      "relation": "包含"
+    },
+    {
+      "head": "Self-introduction",
+      "tail": "Spelling names",
+      "relation": "包含"
+    },
+    {
+      "head": "School supplies",
+      "tail": "Common school items",
+      "relation": "包含"
+    },
+    {
+      "head": "Prepositions of place",
+      "tail": "Basic prepositions",
+      "relation": "包含"
+    },
+    {
+      "head": "Prepositions of place",
+      "tail": "Asking about position",
+      "relation": "包含"
+    },
+    {
+      "head": "Farm animals",
+      "tail": "Animal names",
+      "relation": "包含"
+    },
+    {
+      "head": "Farm plants",
+      "tail": "Plant names",
+      "relation": "包含"
+    },
+    {
+      "head": "Making new friends",
+      "tail": "Introduction phrases",
+      "relation": "包含"
+    },
+    {
+      "head": "Making new friends",
+      "tail": "Personal information",
+      "relation": "包含"
+    },
+    {
+      "head": "Simple present tense (be)",
+      "tail": "Forms of be",
+      "relation": "包含"
+    },
+    {
+      "head": "Simple present tense (be)",
+      "tail": "Subject pronouns",
+      "relation": "包含"
+    },
+    {
+      "head": "Family members",
+      "tail": "Immediate family",
+      "relation": "包含"
+    },
+    {
+      "head": "Family members",
+      "tail": "Extended family",
+      "relation": "包含"
+    },
+    {
+      "head": "Possessive 's",
+      "tail": "Singular possessive",
+      "relation": "包含"
+    },
+    {
+      "head": "Possessive 's",
+      "tail": "Plural possessive",
+      "relation": "包含"
+    },
+    {
+      "head": "School places",
+      "tail": "Main buildings",
+      "relation": "包含"
+    },
+    {
+      "head": "School places",
+      "tail": "Other facilities",
+      "relation": "包含"
+    },
+    {
+      "head": "There be structure",
+      "tail": "Affirmative form",
+      "relation": "包含"
+    },
+    {
+      "head": "There be structure",
+      "tail": "Negative form",
+      "relation": "包含"
+    },
+    {
+      "head": "School subjects",
+      "tail": "Core subjects",
+      "relation": "包含"
+    },
+    {
+      "head": "School subjects",
+      "tail": "Other subjects",
+      "relation": "包含"
+    },
+    {
+      "head": "Conjunctions",
+      "tail": "Adding information",
+      "relation": "包含"
+    },
+    {
+      "head": "Conjunctions",
+      "tail": "Contrasting ideas",
+      "relation": "包含"
+    },
+    {
+      "head": "School clubs",
+      "tail": "Club types",
+      "relation": "包含"
+    },
+    {
+      "head": "Modal verb can",
+      "tail": "Asking about ability",
+      "relation": "包含"
+    },
+    {
+      "head": "Modal verb can",
+      "tail": "Expressing ability",
+      "relation": "包含"
+    },
+    {
+      "head": "Daily routines",
+      "tail": "Morning routines",
+      "relation": "包含"
+    },
+    {
+      "head": "Daily routines",
+      "tail": "School routines",
+      "relation": "包含"
+    },
+    {
+      "head": "Time expressions",
+      "tail": "Telling time",
+      "relation": "包含"
+    },
+    {
+      "head": "Time expressions",
+      "tail": "Wh-questions",
+      "relation": "包含"
+    },
+    {
+      "head": "Dates and months",
+      "tail": "Months of the year",
+      "relation": "包含"
+    },
+    {
+      "head": "Dates and months",
+      "tail": "Ordinal numbers",
+      "relation": "包含"
+    },
+    {
+      "head": "Birthday celebrations",
+      "tail": "Birthday activities",
+      "relation": "包含"
+    },
+    {
+      "head": "Birthday celebrations",
+      "tail": "Shopping expressions",
+      "relation": "包含"
+    },
+    {
+      "head": "Simple present tense (be)",
+      "tail": "Making new friends",
+      "relation": "应用于"
+    },
+    {
+      "head": "Subject pronouns",
+      "tail": "Simple present tense (be)",
+      "relation": "由...组成"
+    },
+    {
+      "head": "Prepositions of place",
+      "tail": "School supplies",
+      "relation": "用于描述"
+    },
+    {
+      "head": "There be structure",
+      "tail": "School places",
+      "relation": "用于描述"
+    },
+    {
+      "head": "Modal verb can",
+      "tail": "School clubs",
+      "relation": "用于表达"
+    },
+    {
+      "head": "Time expressions",
+      "tail": "Daily routines",
+      "relation": "用于描述"
+    },
+    {
+      "head": "Ordinal numbers",
+      "tail": "Dates and months",
+      "relation": "用于表达"
+    },
+    {
+      "head": "Conjunctions",
+      "tail": "School subjects",
+      "relation": "用于连接"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:30:40",
+    "version": "1.1"
+  }
+}

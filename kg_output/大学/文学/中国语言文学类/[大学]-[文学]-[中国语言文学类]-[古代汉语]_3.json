@@ -1,0 +1,358 @@
+{
+  "knowledge_tree": {
+    "title": "古代汉语",
+    "content": "古代汉语是研究上古至近代汉语语言、文字、词汇、语法及修辞的学科，是汉语言文学专业核心课程。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "文字学",
+        "content": "研究汉字的起源、形体结构、演变规律及文化内涵。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "六书理论",
+            "content": "传统汉字构造的六种条例：象形、指事、会意、形声、转注、假借。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "象形",
+                "content": "描摹事物形状的造字法，如“日”、“月”。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "指事",
+                "content": "用象征性符号或在象形字上加指示符号表示抽象概念，如“上”、“下”。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "会意",
+                "content": "组合两个或以上独体字表示新义，如“武”（止戈为武）、“信”（人言为信）。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "形声",
+                "content": "由形符（意符）和声符组成，形符表义类，声符表读音，如“江”、“河”。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "转注",
+                "content": "意义相同或相近的字互相解释，如“考”与“老”。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "假借",
+                "content": "借用同音字表示无法造字的概念，如“令”（本义为发号，假借为县令）。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "汉字演变",
+            "content": "汉字从甲骨文、金文、篆书、隶书到楷书的形体发展过程。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "甲骨文",
+                "content": "商周时期刻在龟甲兽骨上的文字，是现存最早成体系汉字。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "小篆",
+                "content": "秦代统一文字后的标准字体，线条圆匀，结构定型。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "隶变",
+                "content": "汉字由篆书向隶书的转变，奠定现代汉字笔画基础。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "词汇学",
+        "content": "研究古代汉语词汇的构成、意义演变及使用规律。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "单音词与复音词",
+            "content": "古代汉语以单音词为主，复音词逐渐发展。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "单音词",
+                "content": "一个音节表示一个词，如“人”、“马”、“饮”。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "联绵词",
+                "content": "两个音节连缀成义而不能分割的词，如“窈窕”、“徘徊”。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "词义演变",
+            "content": "词义随时代发展产生扩大、缩小、转移等现象。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "词义扩大",
+                "content": "词所指称范围变大，如“江”原专指长江，后泛指河流。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "词义转移",
+                "content": "词义由指甲事物转为指乙事物，如“兵”原指兵器，后指士兵。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "古今字与通假字",
+            "content": "因时代用字习惯不同产生的字词关系。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "古今字",
+                "content": "先后产生的记录同一词的不同字形，如“说”与“悦”。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "通假字",
+                "content": "古代文献中借用音同或音近字代替本字，如“蚤”通“早”。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "语法学",
+        "content": "研究古代汉语词类、句法结构和特殊语法现象。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "词类活用",
+            "content": "古代汉语中词在特定语境中临时改变词性和用法。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "名词活用为动词",
+                "content": "如“范增数目项王”中的“目”。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "使动用法",
+                "content": "动词或活用的词具有“使宾语怎么样”的意思，如“生死人而肉白骨”。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "意动用法",
+                "content": "谓语动词具有“认为宾语怎么样”的意思，如“孔子登东山而小鲁”。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "特殊句式",
+            "content": "古代汉语特有的句子结构。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "判断句",
+                "content": "多用“者…也”结构或副词帮助判断，如“廉颇者，赵之良将也”。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "被动句",
+                "content": "用“于”、“为”、“见”、“被”等表示被动，如“劳力者治于人”。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "宾语前置",
+                "content": "疑问代词作宾语或否定句中代词宾语前置，如“沛公安在？”",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "音韵学",
+        "content": "研究古代汉语语音系统及其演变规律。",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "中古音系",
+            "content": "以《切韵》为代表的隋唐时期语音系统。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "声母",
+                "content": "传统三十六字母，如帮、滂、并、明等。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "韵母",
+                "content": "分韵部、韵等、开合口等，如东、冬、钟韵。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "训诂学",
+        "content": "解释古代文献中词句意义的学问。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "训诂方法",
+            "content": "形训、声训、义训等解释词义的方法。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "形训",
+                "content": "通过分析字形结构解释字义，如“武，止戈为武”。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "声训",
+                "content": "通过语音关系探求词源，如“政，正也”。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "六书理论",
+      "tail": "象形",
+      "relation": "包含"
+    },
+    {
+      "head": "六书理论",
+      "tail": "形声",
+      "relation": "包含"
+    },
+    {
+      "head": "形声",
+      "tail": "形符",
+      "relation": "由...组成"
+    },
+    {
+      "head": "形声",
+      "tail": "声符",
+      "relation": "由...组成"
+    },
+    {
+      "head": "汉字演变",
+      "tail": "甲骨文",
+      "relation": "起始于"
+    },
+    {
+      "head": "汉字演变",
+      "tail": "隶变",
+      "relation": "关键阶段为"
+    },
+    {
+      "head": "单音词",
+      "tail": "复音词",
+      "relation": "发展为"
+    },
+    {
+      "head": "词义演变",
+      "tail": "词义扩大",
+      "relation": "类型包括"
+    },
+    {
+      "head": "词义演变",
+      "tail": "词义转移",
+      "relation": "类型包括"
+    },
+    {
+      "head": "通假字",
+      "tail": "古今字",
+      "relation": "区别于"
+    },
+    {
+      "head": "词类活用",
+      "tail": "名词活用为动词",
+      "relation": "包含"
+    },
+    {
+      "head": "词类活用",
+      "tail": "使动用法",
+      "relation": "包含"
+    },
+    {
+      "head": "使动用法",
+      "tail": "意动用法",
+      "relation": "区别于"
+    },
+    {
+      "head": "特殊句式",
+      "tail": "宾语前置",
+      "relation": "包含"
+    },
+    {
+      "head": "中古音系",
+      "tail": "声母",
+      "relation": "研究内容包括"
+    },
+    {
+      "head": "中古音系",
+      "tail": "韵母",
+      "relation": "研究内容包括"
+    },
+    {
+      "head": "训诂方法",
+      "tail": "形训",
+      "relation": "包含"
+    },
+    {
+      "head": "形训",
+      "tail": "六书理论",
+      "relation": "基于"
+    },
+    {
+      "head": "声训",
+      "tail": "音韵学",
+      "relation": "依赖于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:17:19",
+    "version": "1.1"
+  }
+}

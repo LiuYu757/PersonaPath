@@ -1,0 +1,1000 @@
+{
+  "knowledge_tree": {
+    "title": "高中语文必修下册",
+    "content": "涵盖文言文、现代文、戏剧、说明文等多种文体，注重语言运用、文化传承与思辨能力培养",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "第一单元：古代散文与史传",
+        "content": "学习先秦诸子散文与史传文学，理解传统文化内涵与人文精神",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "《子路、曾皙、冉有、公西华侍坐》",
+            "content": "《论语》选段，通过对话展现孔子与弟子关于人生志向的讨论",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "孔子教育思想",
+                "content": "因材施教，注重弟子个性与志向引导",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "人物性格分析",
+                "content": "子路直率、曾皙洒脱、冉有谦逊、公西华得体",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "语言特点",
+                "content": "简洁含蓄，对话中体现人物性格与思想",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "《齐桓晋文之事》",
+            "content": "《孟子》选段，阐述仁政王道思想",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "孟子论辩艺术",
+                "content": "善用比喻与逻辑推理，层层推进说理",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "仁政思想",
+                "content": "保民而王，推恩足以保四海",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "修辞手法",
+                "content": "排比、对比、反问增强说服力",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "《庖丁解牛》",
+            "content": "《庄子》寓言，通过解牛故事阐释顺应自然之道",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "道家哲学思想",
+                "content": "依乎天理，因其固然，顺应自然规律",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "寓言特点",
+                "content": "通过具体故事阐释抽象哲理",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "语言风格",
+                "content": "生动形象，富有节奏感",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "《烛之武退秦师》",
+            "content": "《左传》选段，展现烛之武的外交智慧与辞令艺术",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "外交辞令技巧",
+                "content": "分析利害，以理服人，瓦解联盟",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "人物形象",
+                "content": "烛之武临危受命，智勇双全",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "叙事艺术",
+                "content": "情节紧凑，对话推动故事发展",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "《鸿门宴》",
+            "content": "《史记》选段，描述楚汉相争的关键事件",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "人物性格刻画",
+                "content": "项羽优柔寡断，刘邦机敏果断",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "戏剧冲突",
+                "content": "宴会上明争暗斗，情节紧张曲折",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "史传文学特点",
+                "content": "细节描写生动，人物形象鲜明",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元：戏剧文学",
+        "content": "学习中外戏剧经典，理解悲剧意蕴与艺术表现手法",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "《窦娥冤》",
+            "content": "关汉卿杂剧，展现社会黑暗与人性抗争",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "元杂剧特点",
+                "content": "唱词与说白结合，角色分工明确",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "悲剧主题",
+                "content": "善良被毁灭，引发悲悯与思考",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "语言特色",
+                "content": "本色当行，通俗生动",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "《雷雨》",
+            "content": "曹禺话剧，展现家庭悲剧与社会矛盾",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "现代话剧特点",
+                "content": "现实主义手法，注重人物心理刻画",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "人物关系与冲突",
+                "content": "复杂的人物关系网，多重矛盾交织",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "潜台词运用",
+                "content": "对话中隐含深意，展现人物内心",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "《哈姆莱特》",
+            "content": "莎士比亚悲剧，探讨生存与毁灭的哲学命题",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "文艺复兴人文主义",
+                "content": "人的尊严与价值，理性与情感的冲突",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "悲剧性格",
+                "content": "哈姆莱特的忧郁与延宕",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "诗化语言",
+                "content": "无韵诗体，富有哲理与抒情性",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三单元：知识性读物",
+        "content": "学习科技与人文领域的说明文，培养科学思维与跨学科理解能力",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "《青蒿素：人类征服疾病的一小步》",
+            "content": "屠呦呦演讲，讲述青蒿素的发现过程与意义",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "科学发现过程",
+                "content": "从古籍启发到实验验证",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "中医药贡献",
+                "content": "传统智慧与现代科学结合",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "语言特点",
+                "content": "准确严谨，逻辑清晰",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "《一名物理学家的教育历程》",
+            "content": "加来道雄自述，展现科学探索的乐趣与思考",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "科学想象力",
+                "content": "从鲤鱼世界到高维空间",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "探索精神",
+                "content": "自制设备，验证理论",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "跨学科思维",
+                "content": "物理学与哲学思考结合",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "《中国建筑的特征》",
+            "content": "梁思成论文，系统分析中国传统建筑特点",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "建筑文法与词汇",
+                "content": "斗拱、举折、屋顶等特征元素",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "中西建筑比较",
+                "content": "可译性与文化差异",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "说明方法",
+                "content": "分类说明，比喻阐释",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "《说'木叶'》",
+            "content": "林庚论文，分析古典诗歌中意象的暗示性",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "诗歌意象分析",
+                "content": "木叶与树叶的审美差异",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "语言暗示性",
+                "content": "概念背后的文化联想",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "研究方法",
+                "content": "大量例证，细致辨析",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第四单元：信息时代的语文生活",
+        "content": "学习多媒介运用与信息辨识，提高媒介素养",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "多媒介特点",
+            "content": "不同媒介的传播特性与语言特征",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "信息辨识",
+            "content": "辨别信息真伪，培养批判性思维",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "媒介使用伦理",
+            "content": "负责任地使用媒介，遵守传播规范",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第五单元：抱负与使命",
+        "content": "学习革命导师与有志之士的文章，理解时代使命与责任担当",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "《在〈人民报〉创刊纪念会上的演说》",
+            "content": "马克思演说，揭示社会矛盾与革命必然性",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "社会矛盾分析",
+                "content": "生产力与生产关系的对抗",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "历史唯物主义",
+                "content": "社会发展的客观规律",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "演说技巧",
+                "content": "形象比喻，气势磅礴",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "《谏逐客书》",
+            "content": "李斯上书，劝谏秦王收回逐客令",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "论说策略",
+                "content": "历史例证，利害分析",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "语言艺术",
+                "content": "排比铺陈，富有气势",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "政治智慧",
+                "content": "把握君主心理，有效进谏",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "在马克思墓前的讲话",
+        "content": "恩格斯在马克思葬礼上的演讲，深切缅怀马克思的伟大人格和崇高精神，赞颂其历史功绩和光辉思想。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "马克思的两大发现",
+            "content": "人类历史的发展规律（经济基础决定上层建筑）和现代资本主义生产方式的特殊运动规律（剩余价值理论）。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "人类历史发展规律",
+                "content": "人们首先必须吃、喝、住、穿，然后才能从事政治、科学、艺术、宗教等；直接的物质生活资料的生产构成基础。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "剩余价值理论",
+                "content": "雇佣工人所创造的被资本家无偿占有的超过劳动力价值的价值，揭示了资本主义剥削的秘密。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "马克思的革命实践",
+            "content": "参加推翻资本主义社会的事业，参加现代无产阶级的解放事业，创办报刊，创立国际工人协会。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "演讲的艺术特色",
+            "content": "逐层深入，全面总结；饱含情感的文字展现深厚情谊；富于鼓动性和感召力。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "谏逐客书",
+        "content": "李斯劝谏秦王嬴政取消逐客令的奏疏，通过列举秦国历史上客卿的功绩和秦王喜好异国珍宝的事实，论证逐客之过。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "论证结构",
+            "content": "先立论（臣闻吏议逐客，窃以为过矣），再摆事实（缪公求士、孝公用商鞅、惠王用张仪、昭王得范雎），后析利弊（弃黔首以资敌国，却宾客以业诸侯）。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "修辞手法",
+            "content": "铺陈排比（昔缪公求士...此五子者；今陛下致昆山之玉...此数宝者）、对比（重物轻人）、比喻（太山不让土壤，河海不择细流）。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "核心观点",
+            "content": "王者不却众庶，故能明其德；物不产于秦，可宝者多；士不产于秦，而愿忠者众。逐客以资敌国，损民以益仇，求国无危，不可得也。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "与妻书",
+        "content": "林觉民在黄花岗起义前写给妻子的绝笔信，将儿女私情与家国大义融为一体。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "情感线索",
+            "content": "“吾至爱汝”的深情与“即此爱汝一念，使吾勇于就死”的勇决交织，缠绵悱恻又充满浩然正气。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "写作目的",
+            "content": "诀别倾诉，解释安慰，希望妻子理解其牺牲小爱、成全大义的抉择。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "语言特点",
+            "content": "不事营构，自由抒写，自有一种打动人心的力量；多用短句，真情流露。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "祝福",
+        "content": "鲁迅的小说，通过祥林嫂的悲惨命运，揭露封建礼教和宗法制度的吃人本质。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "祥林嫂的形象",
+            "content": "旧中国农村劳动妇女的典型，勤劳、善良、坚韧，但被政权、族权、神权、夫权四条绳索束缚，最终被吞噬。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "性格变化",
+                "content": "初到鲁镇：顺眼，安分耐劳 -> 再嫁再寡：直着眼，反复述说悲惨故事 -> 捐门槛后：精神崩溃 -> 沦为乞丐，怀疑魂灵有无。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "环境描写的作用",
+            "content": "“祝福”的喜庆氛围与祥林嫂的悲剧形成强烈反差，深化主题；鲁四老爷的书房环境暗示其保守迂腐。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "叙事视角",
+            "content": "采用第一人称“我”的限知视角，既作为故事见证者，也体现知识分子的彷徨与无力。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "林教头风雪山神庙",
+        "content": "《水浒传》节选，描写林冲由逆来顺受到奋起反抗的关键转折。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "林冲性格的转变",
+            "content": "从隐忍顺从（认罪服刑、幻想刑满团聚）到彻底绝望、手刃仇敌、毅然反抗。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "“风雪”的作用",
+            "content": "渲染悲凉氛围；推动情节发展（因风雪倒塌草厅而躲过火灾，因风雪听见真相）；象征社会环境的冷酷。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "情节安排",
+            "content": "铺垫（巧遇李小二、买刀寻敌）-> 发展（调守草料场、风雪夜宿山神庙）-> 高潮（听真相、杀仇敌）-> 结局（投奔梁山）。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "装在套子里的人",
+        "content": "契诃夫的短篇小说，塑造了因循守旧、畏惧变革的别里科夫形象。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "别里科夫的形象特征",
+            "content": "衣着、用具、职业、思想都力求藏在“套子”里；歌颂过去，惧怕现实；用“套子”辖制全城。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "社会批判意义",
+            "content": "揭示了沙皇专制统治下窒息、压抑的社会氛围和保守、僵化的社会心态。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "艺术手法",
+            "content": "夸张讽刺的外貌和行为描写；幽默讽刺的语言风格（“千万别闹出什么乱子”）。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "促织",
+        "content": "蒲松龄《聊斋志异》中的小说，通过成名一家的遭遇反映封建统治下人民的苦难。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "情节结构",
+            "content": "征促织 -> 成名受刑 -> 求神问卜 -> 得虫 -> 子毙虫 -> 化虫 -> 斗虫得胜 -> 富贵。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "浪漫主义手法",
+            "content": "“求神问卜”和“魂化促织”的情节，带有神秘色彩，折射出现实主题。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "主题思想",
+            "content": "“天子一跬步，皆关民命”，揭露了封建统治者的荒淫昏庸和官吏的贪虐，表达对民生疾苦的深切同情。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "变形记（节选）",
+        "content": "卡夫卡的小说，描写推销员格里高尔·萨姆沙变成甲虫后的遭遇和感受。",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "“异化”主题",
+            "content": "人变成非人，揭示了现代社会中人的孤独、隔膜、无助以及亲情、责任的变异。",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "叙事视角",
+            "content": "主要采用第三人称有限视角，聚焦于格里高尔的内心感受和外部遭遇。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "艺术特色",
+            "content": "荒诞的情节与真实的细节描写相结合；冷峻、客观的叙述语言。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "阿房宫赋",
+        "content": "杜牧的赋，借写阿房宫的兴建和毁灭，总结秦朝灭亡的教训，针砭时弊。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "铺陈描写",
+            "content": "极力渲染阿房宫的宏伟壮丽、美女珍宝之多、统治者生活的奢侈。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "对比手法",
+            "content": "阿房宫的宏伟与“楚人一炬，可怜焦土”的结局对比；秦的奢侈与人民的苦难对比。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "议论点睛",
+            "content": "“灭六国者六国也，非秦也；族秦者秦也，非天下也。”指出统治者骄奢淫逸、失去民心是灭亡的根本原因。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "六国论",
+        "content": "苏洵的史论，论证六国破灭“弊在赂秦”的观点。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "中心论点",
+            "content": "“六国破灭，非兵不利，战不善，弊在赂秦。”",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "论证方法",
+            "content": "举例论证（韩魏楚赂秦而亡，齐附秦而亡，燕赵义不赂秦而后亡）；对比论证（赂秦之害与战败之失对比）；引用论证（“以地事秦，犹抱薪救火”）。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "现实针对性",
+            "content": "警告北宋统治者不要采取妥协苟安的外交政策，以免重蹈六国覆辙。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "古诗词诵读",
+        "content": "包含《登岳阳楼》《桂枝香·金陵怀古》《念奴娇·过洞庭》《游园》四首诗词。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "登岳阳楼（杜甫）",
+            "content": "描绘洞庭湖的壮阔景象，抒发身世之悲和家国之忧。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "桂枝香·金陵怀古（王安石）",
+            "content": "登临金陵，怀古讽今，表达对北宋社会危机的忧虑和对变革的期待。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "念奴娇·过洞庭（张孝祥）",
+            "content": "描绘洞庭湖月下景色，抒发高洁忠贞的胸怀和豪迈洒脱的气概。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "游园（汤显祖《牡丹亭》）",
+            "content": "杜丽娘游园时所见所感，抒发对美好春光的赞叹和青春觉醒的惆怅。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "《子路、曾皙、冉有、公西华侍坐》",
+      "tail": "孔子教育思想",
+      "relation": "体现"
+    },
+    {
+      "head": "《齐桓晋文之事》",
+      "tail": "孟子论辩艺术",
+      "relation": "展示"
+    },
+    {
+      "head": "《庖丁解牛》",
+      "tail": "道家哲学思想",
+      "relation": "阐释"
+    },
+    {
+      "head": "《烛之武退秦师》",
+      "tail": "外交辞令技巧",
+      "relation": "运用"
+    },
+    {
+      "head": "《鸿门宴》",
+      "tail": "人物性格刻画",
+      "relation": "通过"
+    },
+    {
+      "head": "《窦娥冤》",
+      "tail": "元杂剧特点",
+      "relation": "代表"
+    },
+    {
+      "head": "《雷雨》",
+      "tail": "现代话剧特点",
+      "relation": "体现"
+    },
+    {
+      "head": "《哈姆莱特》",
+      "tail": "文艺复兴人文主义",
+      "relation": "反映"
+    },
+    {
+      "head": "《青蒿素：人类征服疾病的一小步》",
+      "tail": "科学发现过程",
+      "relation": "描述"
+    },
+    {
+      "head": "《一名物理学家的教育历程》",
+      "tail": "科学想象力",
+      "relation": "展现"
+    },
+    {
+      "head": "《中国建筑的特征》",
+      "tail": "建筑文法与词汇",
+      "relation": "分析"
+    },
+    {
+      "head": "《说'木叶'》",
+      "tail": "诗歌意象分析",
+      "relation": "进行"
+    },
+    {
+      "head": "《在〈人民报〉创刊纪念会上的演说》",
+      "tail": "社会矛盾分析",
+      "relation": "揭示"
+    },
+    {
+      "head": "《谏逐客书》",
+      "tail": "论说策略",
+      "relation": "运用"
+    },
+    {
+      "head": "文言文阅读",
+      "tail": "古代文化常识",
+      "relation": "需要掌握"
+    },
+    {
+      "head": "戏剧文学",
+      "tail": "舞台表演艺术",
+      "relation": "关联"
+    },
+    {
+      "head": "知识性读物",
+      "tail": "科学思维方法",
+      "relation": "培养"
+    },
+    {
+      "head": "多媒介运用",
+      "tail": "信息辨识能力",
+      "relation": "要求"
+    },
+    {
+      "head": "抱负与使命",
+      "tail": "时代责任担当",
+      "relation": "强调"
+    },
+    {
+      "head": "在马克思墓前的讲话",
+      "tail": "人类历史发展规律",
+      "relation": "阐述"
+    },
+    {
+      "head": "在马克思墓前的讲话",
+      "tail": "剩余价值理论",
+      "relation": "阐述"
+    },
+    {
+      "head": "在马克思墓前的讲话",
+      "tail": "马克思的革命实践",
+      "relation": "赞颂"
+    },
+    {
+      "head": "谏逐客书",
+      "tail": "铺陈排比",
+      "relation": "运用"
+    },
+    {
+      "head": "谏逐客书",
+      "tail": "对比论证",
+      "relation": "运用"
+    },
+    {
+      "head": "谏逐客书",
+      "tail": "比喻论证",
+      "relation": "运用"
+    },
+    {
+      "head": "与妻书",
+      "tail": "儿女私情",
+      "relation": "融合"
+    },
+    {
+      "head": "与妻书",
+      "tail": "家国大义",
+      "relation": "融合"
+    },
+    {
+      "head": "祝福",
+      "tail": "祥林嫂",
+      "relation": "塑造"
+    },
+    {
+      "head": "祝福",
+      "tail": "封建礼教",
+      "relation": "批判"
+    },
+    {
+      "head": "祝福",
+      "tail": "环境描写",
+      "relation": "运用"
+    },
+    {
+      "head": "林教头风雪山神庙",
+      "tail": "林冲",
+      "relation": "塑造"
+    },
+    {
+      "head": "林教头风雪山神庙",
+      "tail": "风雪",
+      "relation": "运用"
+    },
+    {
+      "head": "林教头风雪山神庙",
+      "tail": "情节安排",
+      "relation": "体现"
+    },
+    {
+      "head": "装在套子里的人",
+      "tail": "别里科夫",
+      "relation": "塑造"
+    },
+    {
+      "head": "装在套子里的人",
+      "tail": "沙皇专制",
+      "relation": "批判"
+    },
+    {
+      "head": "装在套子里的人",
+      "tail": "夸张讽刺",
+      "relation": "运用"
+    },
+    {
+      "head": "促织",
+      "tail": "成名",
+      "relation": "叙述"
+    },
+    {
+      "head": "促织",
+      "tail": "浪漫主义手法",
+      "relation": "运用"
+    },
+    {
+      "head": "促织",
+      "tail": "封建统治",
+      "relation": "揭露"
+    },
+    {
+      "head": "变形记",
+      "tail": "格里高尔",
+      "relation": "叙述"
+    },
+    {
+      "head": "变形记",
+      "tail": "异化主题",
+      "relation": "揭示"
+    },
+    {
+      "head": "变形记",
+      "tail": "荒诞情节",
+      "relation": "运用"
+    },
+    {
+      "head": "阿房宫赋",
+      "tail": "铺陈描写",
+      "relation": "运用"
+    },
+    {
+      "head": "阿房宫赋",
+      "tail": "对比手法",
+      "relation": "运用"
+    },
+    {
+      "head": "阿房宫赋",
+      "tail": "秦朝灭亡",
+      "relation": "总结"
+    },
+    {
+      "head": "六国论",
+      "tail": "弊在赂秦",
+      "relation": "论证"
+    },
+    {
+      "head": "六国论",
+      "tail": "举例论证",
+      "relation": "运用"
+    },
+    {
+      "head": "六国论",
+      "tail": "北宋统治者",
+      "relation": "警示"
+    },
+    {
+      "head": "登岳阳楼",
+      "tail": "洞庭湖",
+      "relation": "描绘"
+    },
+    {
+      "head": "登岳阳楼",
+      "tail": "家国之忧",
+      "relation": "抒发"
+    },
+    {
+      "head": "桂枝香·金陵怀古",
+      "tail": "金陵",
+      "relation": "怀古"
+    },
+    {
+      "head": "桂枝香·金陵怀古",
+      "tail": "北宋社会危机",
+      "relation": "表达"
+    },
+    {
+      "head": "念奴娇·过洞庭",
+      "tail": "洞庭湖月景",
+      "relation": "描绘"
+    },
+    {
+      "head": "念奴娇·过洞庭",
+      "tail": "高洁胸怀",
+      "relation": "抒发"
+    },
+    {
+      "head": "游园",
+      "tail": "杜丽娘",
+      "relation": "刻画"
+    },
+    {
+      "head": "游园",
+      "tail": "青春觉醒",
+      "relation": "抒发"
+    }
+  ],
+  "metadata": {
+    "chunks_merged": 2,
+    "generated_at": "2025-11-12 22:30:14",
+    "version": "1.1"
+  }
+}

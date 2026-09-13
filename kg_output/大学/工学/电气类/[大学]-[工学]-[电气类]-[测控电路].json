@@ -1,0 +1,420 @@
+{
+  "knowledge_tree": {
+    "title": "测控电路",
+    "content": "测控电路是电气类测控技术与仪器专业的核心课程，主要研究信号检测与控制中的电路设计与分析",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "绪论",
+        "content": "测控电路的基本概念、功用、要求和发展趋势",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "测控电路的功用",
+            "content": "实现信号的检测、处理、转换和控制功能",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "主要要求与特点",
+            "content": "精度高、动态性能好、识别分析能力强、可靠性高、经济性好",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "精度高",
+                "content": "测量和控制精度要达到设计要求",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "动态性能好",
+                "content": "响应速度快，频带宽",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "信号类型",
+            "content": "模拟信号和数字信号的特点与处理",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "模拟信号",
+                "content": "连续变化的信号",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "数字信号",
+                "content": "离散的数字量信号",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "信号放大电路",
+        "content": "各种测量放大电路的设计与分析",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "运算放大器误差补偿",
+            "content": "实际运放的特性及其误差补偿方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "失调及其补偿",
+                "content": "输入失调电压和电流的补偿技术",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "相位补偿",
+                "content": "防止运放振荡的相位补偿方法",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "噪声处理",
+            "content": "放大器噪声的分析与处理方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "噪声种类与性质",
+                "content": "热噪声、散粒噪声、1/f噪声等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "典型测量放大电路",
+            "content": "各种专用放大电路的设计",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "反相放大电路",
+                "content": "输入信号从反相端输入的放大电路",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "同相放大电路",
+                "content": "输入信号从同相端输入的放大电路",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "差动放大电路",
+                "content": "放大两个输入信号差值的电路",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "高共模抑制比放大电路",
+                "content": "抑制共模信号，放大差模信号的电路",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "信号调制解调电路",
+        "content": "信号的调制与解调技术",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "调幅式测量电路",
+            "content": "幅度调制的原理与实现",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "调幅原理与方法",
+                "content": "用调制信号控制载波幅度的技术",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "包络检波电路",
+                "content": "提取调幅信号包络的电路",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "相敏检波电路",
+                "content": "能鉴别信号相位的检波电路",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "调频式测量电路",
+            "content": "频率调制的原理与实现",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "调频原理与方法",
+                "content": "用调制信号控制载波频率的技术",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "鉴频电路",
+                "content": "将频率变化转换为电压变化的电路",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "信号分离电路",
+        "content": "滤波器电路的设计与分析",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "滤波器基础知识",
+            "content": "滤波器的类型、特性和设计方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "滤波器类型",
+                "content": "低通、高通、带通、带阻滤波器",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "传递函数与频率特性",
+                "content": "滤波器数学模型和频率响应特性",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "RC滤波电路",
+            "content": "基于RC网络的滤波电路设计",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "一阶滤波电路",
+                "content": "最简单的RC滤波电路",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "压控电压源型滤波电路",
+                "content": "采用电压控制电压源的滤波电路",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "信号转换电路",
+        "content": "各种信号转换接口电路",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "模拟开关",
+            "content": "模拟信号的通断控制电路",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "模拟开关参数",
+                "content": "导通电阻、关断电阻、切换时间等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "集成模拟开关",
+                "content": "集成电路形式的模拟开关",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "采样保持电路",
+            "content": "对模拟信号进行采样和保持的电路",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "基本原理",
+                "content": "采样阶段和保持阶段的工作原理",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电压比较电路",
+            "content": "比较两个电压大小的电路",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "电平比较器",
+                "content": "简单的电压比较电路",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "滞回比较器",
+                "content": "具有迟滞特性的比较器",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "测控电路",
+      "tail": "信号放大电路",
+      "relation": "包含"
+    },
+    {
+      "head": "测控电路",
+      "tail": "信号调制解调电路",
+      "relation": "包含"
+    },
+    {
+      "head": "测控电路",
+      "tail": "信号分离电路",
+      "relation": "包含"
+    },
+    {
+      "head": "测控电路",
+      "tail": "信号转换电路",
+      "relation": "包含"
+    },
+    {
+      "head": "运算放大器",
+      "tail": "失调补偿",
+      "relation": "需要"
+    },
+    {
+      "head": "运算放大器",
+      "tail": "相位补偿",
+      "relation": "需要"
+    },
+    {
+      "head": "测量放大电路",
+      "tail": "反相放大电路",
+      "relation": "包含"
+    },
+    {
+      "head": "测量放大电路",
+      "tail": "同相放大电路",
+      "relation": "包含"
+    },
+    {
+      "head": "测量放大电路",
+      "tail": "差动放大电路",
+      "relation": "包含"
+    },
+    {
+      "head": "调幅式测量电路",
+      "tail": "包络检波电路",
+      "relation": "使用"
+    },
+    {
+      "head": "调幅式测量电路",
+      "tail": "相敏检波电路",
+      "relation": "使用"
+    },
+    {
+      "head": "调频式测量电路",
+      "tail": "鉴频电路",
+      "relation": "使用"
+    },
+    {
+      "head": "滤波器",
+      "tail": "RC滤波电路",
+      "relation": "实现方式"
+    },
+    {
+      "head": "RC滤波电路",
+      "tail": "一阶滤波电路",
+      "relation": "包含"
+    },
+    {
+      "head": "信号转换电路",
+      "tail": "模拟开关",
+      "relation": "包含"
+    },
+    {
+      "head": "信号转换电路",
+      "tail": "采样保持电路",
+      "relation": "包含"
+    },
+    {
+      "head": "信号转换电路",
+      "tail": "电压比较电路",
+      "relation": "包含"
+    },
+    {
+      "head": "电压比较电路",
+      "tail": "电平比较器",
+      "relation": "包含"
+    },
+    {
+      "head": "电压比较电路",
+      "tail": "滞回比较器",
+      "relation": "包含"
+    },
+    {
+      "head": "模拟信号",
+      "tail": "采样保持电路",
+      "relation": "处理"
+    },
+    {
+      "head": "数字信号",
+      "tail": "模拟开关",
+      "relation": "控制"
+    },
+    {
+      "head": "高共模抑制比放大电路",
+      "tail": "差动放大电路",
+      "relation": "基于"
+    },
+    {
+      "head": "包络检波",
+      "tail": "调幅信号",
+      "relation": "应用于"
+    },
+    {
+      "head": "鉴频电路",
+      "tail": "调频信号",
+      "relation": "应用于"
+    },
+    {
+      "head": "相位补偿",
+      "tail": "运算放大器稳定性",
+      "relation": "保证"
+    },
+    {
+      "head": "失调补偿",
+      "tail": "运算放大器精度",
+      "relation": "提高"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:36:56",
+    "version": "1.1"
+  }
+}

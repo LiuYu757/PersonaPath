@@ -1,0 +1,249 @@
+{
+  "knowledge_tree": {
+    "title": "原子物理学",
+    "content": "研究原子结构、性质及其相互作用的基础物理学分支",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "原子结构的基本模型",
+        "content": "描述原子内部组成和排布的理论模型",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "汤姆孙模型",
+            "content": "原子为均匀带正电的球体，电子镶嵌其中",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "卢瑟福模型",
+            "content": "基于α粒子散射实验提出的核式结构模型",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "α粒子散射实验",
+                "content": "用α粒子轰击金箔，观察散射分布",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "核式结构结论",
+                "content": "原子质量集中于带正电的原子核，电子绕核运动",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "玻尔模型",
+            "content": "基于量子化假设的原子结构理论",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "定态假设",
+                "content": "电子在特定轨道运动时不辐射能量",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "频率条件",
+                "content": "电子跃迁时吸收或发射光子，能量差决定频率",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "角动量量子化",
+                "content": "电子轨道角动量必须为ħ的整数倍",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "量子力学基础",
+        "content": "描述微观粒子运动规律的现代物理理论",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "波粒二象性",
+            "content": "微观粒子同时具有波动性和粒子性",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "德布罗意关系",
+                "content": "λ = h/p，物质波波长与动量关系",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "不确定关系",
+            "content": "海森堡提出的位置与动量不能同时精确测量",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "薛定谔方程",
+            "content": "描述量子系统演化的基本方程",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "定态薛定谔方程",
+                "content": "用于求解原子能级和波函数",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "原子光谱",
+        "content": "原子能级跃迁产生的光谱特征",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "氢原子光谱",
+            "content": "最简单的原子光谱系统",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "巴尔末公式",
+                "content": "1/λ = R(1/2² - 1/n²)，描述可见光区谱线",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "里德伯公式",
+                "content": "1/λ = R(1/n₁² - 1/n₂²)，广义氢原子光谱公式",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "光谱项",
+            "content": "T(n) = R/n²，表征原子能级的物理量",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "选择定则",
+            "content": "Δl = ±1，制约能级间跃迁的规则",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "原子物理学中常见的解题类型和方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "能级计算题",
+            "content": "根据玻尔理论计算氢原子能级和跃迁能量",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "光谱分析题",
+            "content": "根据光谱数据推断原子结构和能级分布",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "量子数应用题",
+            "content": "运用量子数描述原子状态和电子排布",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "卢瑟福模型",
+      "tail": "α粒子散射实验",
+      "relation": "基于"
+    },
+    {
+      "head": "玻尔模型",
+      "tail": "定态假设",
+      "relation": "包含"
+    },
+    {
+      "head": "玻尔模型",
+      "tail": "频率条件",
+      "relation": "包含"
+    },
+    {
+      "head": "玻尔模型",
+      "tail": "角动量量子化",
+      "relation": "包含"
+    },
+    {
+      "head": "德布罗意关系",
+      "tail": "波粒二象性",
+      "relation": "体现"
+    },
+    {
+      "head": "薛定谔方程",
+      "tail": "定态薛定谔方程",
+      "relation": "包含"
+    },
+    {
+      "head": "巴尔末公式",
+      "tail": "里德伯公式",
+      "relation": "特例"
+    },
+    {
+      "head": "氢原子光谱",
+      "tail": "巴尔末公式",
+      "relation": "由...描述"
+    },
+    {
+      "head": "氢原子光谱",
+      "tail": "选择定则",
+      "relation": "受...制约"
+    },
+    {
+      "head": "能级计算题",
+      "tail": "玻尔模型",
+      "relation": "应用"
+    },
+    {
+      "head": "光谱分析题",
+      "tail": "里德伯公式",
+      "relation": "基于"
+    },
+    {
+      "head": "量子数应用题",
+      "tail": "角动量量子化",
+      "relation": "关联"
+    },
+    {
+      "head": "不确定关系",
+      "tail": "波粒二象性",
+      "relation": "推导自"
+    },
+    {
+      "head": "光谱项",
+      "tail": "原子能级",
+      "relation": "表征"
+    },
+    {
+      "head": "卢瑟福模型",
+      "tail": "汤姆孙模型",
+      "relation": "取代"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:07:15",
+    "version": "1.1"
+  }
+}

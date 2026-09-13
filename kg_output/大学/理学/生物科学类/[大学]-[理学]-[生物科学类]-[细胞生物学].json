@@ -1,0 +1,583 @@
+{
+  "knowledge_tree": {
+    "title": "细胞生物学",
+    "content": "研究细胞的结构、功能、生命活动规律及其与机体关系的科学",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "绪论",
+        "content": "细胞生物学研究的内容与现状、发展简史",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "细胞生物学研究内容",
+            "content": "现代生命科学中的一门重要的基础前沿学科",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "细胞学发展史",
+            "content": "从细胞发现到细胞生物学学科形成的历程",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "细胞的发现",
+                "content": "罗伯特·胡克等科学家的贡献",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "细胞学说",
+                "content": "施莱登和施旺提出的生物基本理论",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "细胞的统一性与多样性",
+        "content": "细胞的基本特征、分类及比较",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "细胞基本特征",
+            "content": "细胞是生命活动的基本单位及其共性",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "原核细胞",
+            "content": "无核膜包裹的原始细胞类型",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "支原体",
+                "content": "最小最简单的细胞",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "细菌",
+                "content": "典型的原核生物代表",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "古核细胞",
+                "content": "具有特殊生化特性的原始细胞",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "真核细胞",
+            "content": "具有完整细胞核的高级细胞类型",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "基本结构体系",
+                "content": "膜系统、遗传信息表达系统、细胞骨架系统",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "病毒",
+            "content": "非细胞形态的生命体",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "细胞生物学研究方法",
+        "content": "研究细胞的各种技术手段",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "显微镜技术",
+            "content": "观察细胞形态结构的方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "光学显微镜",
+                "content": "利用可见光观察细胞",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "电子显微镜",
+                "content": "利用电子束观察超微结构",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "细胞组分分析",
+            "content": "分离和鉴定细胞成分的技术",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "超离心技术",
+                "content": "分离细胞组分的物理方法",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "细胞培养",
+            "content": "体外培养细胞的技术",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "细胞质膜",
+        "content": "细胞的外围膜结构",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "膜结构模型",
+            "content": "细胞膜的结构理论",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "膜脂",
+            "content": "膜的基本组成成分",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "膜蛋白",
+            "content": "膜的功能执行者",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "膜流动性",
+            "content": "膜的基本物理特性",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "物质的跨膜运输",
+        "content": "物质进出细胞的机制",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "膜转运蛋白",
+            "content": "介导物质运输的膜蛋白",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "主动运输",
+            "content": "消耗能量的物质运输方式",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "ATP驱动泵",
+                "content": "利用ATP能量的转运蛋白",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "胞吞作用",
+            "content": "大分子物质的入胞方式",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "线粒体和叶绿体",
+        "content": "细胞的能量转换器",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "线粒体结构",
+            "content": "细胞的动力工厂结构",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "氧化磷酸化",
+            "content": "ATP生成的主要途径",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "叶绿体结构",
+            "content": "光合作用的场所",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "光合作用",
+            "content": "光能转化为化学能的过程",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "细胞信号转导",
+        "content": "细胞间信息传递机制",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "信号分子",
+            "content": "细胞通讯的化学信使",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "G蛋白偶联受体",
+            "content": "重要的信号转导途径",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "酶联受体",
+            "content": "具有酶活性的受体",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "细胞骨架",
+        "content": "细胞的支撑和运动系统",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "微丝",
+            "content": "肌动蛋白组成的纤维",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "微管",
+            "content": "管状细胞骨架成分",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "中间丝",
+            "content": "机械强度支撑纤维",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "细胞核与染色质",
+        "content": "遗传信息储存和表达中心",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "核被膜",
+            "content": "核的边界结构",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "染色质结构",
+            "content": "DNA和蛋白质的复合物",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "核小体",
+                "content": "染色质的基本单位",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "染色体",
+            "content": "细胞分裂期的染色质形态",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "细胞周期与分裂",
+        "content": "细胞增殖的调控过程",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "有丝分裂",
+            "content": "体细胞的分裂方式",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "减数分裂",
+            "content": "生殖细胞的形成过程",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "细胞周期调控",
+            "content": "周期蛋白和CDK的调控网络",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "细胞分化",
+        "content": "细胞特化的过程",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "干细胞",
+            "content": "具有分化潜能的细胞",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "胚胎发育",
+            "content": "早期发育中的细胞分化",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "细胞死亡",
+        "content": "细胞生命终结的方式",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "细胞凋亡",
+            "content": "程序性细胞死亡",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "细胞衰老",
+            "content": "细胞功能衰退的过程",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "细胞社会联系",
+        "content": "细胞间的相互作用",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "细胞连接",
+            "content": "细胞间的连接结构",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "细胞黏着",
+            "content": "细胞相互识别的机制",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "细胞外基质",
+            "content": "细胞外的支持环境",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "细胞生物学",
+      "tail": "细胞质膜",
+      "relation": "研究内容包含"
+    },
+    {
+      "head": "细胞生物学",
+      "tail": "细胞信号转导",
+      "relation": "研究内容包含"
+    },
+    {
+      "head": "真核细胞",
+      "tail": "细胞核",
+      "relation": "结构包含"
+    },
+    {
+      "head": "真核细胞",
+      "tail": "线粒体",
+      "relation": "结构包含"
+    },
+    {
+      "head": "细胞质膜",
+      "tail": "膜蛋白",
+      "relation": "由...组成"
+    },
+    {
+      "head": "细胞质膜",
+      "tail": "膜脂",
+      "relation": "由...组成"
+    },
+    {
+      "head": "物质的跨膜运输",
+      "tail": "主动运输",
+      "relation": "包含"
+    },
+    {
+      "head": "主动运输",
+      "tail": "ATP驱动泵",
+      "relation": "依赖于"
+    },
+    {
+      "head": "线粒体",
+      "tail": "氧化磷酸化",
+      "relation": "功能是"
+    },
+    {
+      "head": "叶绿体",
+      "tail": "光合作用",
+      "relation": "功能是"
+    },
+    {
+      "head": "细胞信号转导",
+      "tail": "G蛋白偶联受体",
+      "relation": "途径包含"
+    },
+    {
+      "head": "细胞信号转导",
+      "tail": "酶联受体",
+      "relation": "途径包含"
+    },
+    {
+      "head": "细胞骨架",
+      "tail": "微丝",
+      "relation": "包含"
+    },
+    {
+      "head": "细胞骨架",
+      "tail": "微管",
+      "relation": "包含"
+    },
+    {
+      "head": "细胞骨架",
+      "tail": "中间丝",
+      "relation": "包含"
+    },
+    {
+      "head": "细胞核",
+      "tail": "染色质",
+      "relation": "包含"
+    },
+    {
+      "head": "染色质",
+      "tail": "核小体",
+      "relation": "基本结构单位"
+    },
+    {
+      "head": "细胞周期",
+      "tail": "有丝分裂",
+      "relation": "包含阶段"
+    },
+    {
+      "head": "细胞周期",
+      "tail": "减数分裂",
+      "relation": "特殊类型"
+    },
+    {
+      "head": "细胞分化",
+      "tail": "干细胞",
+      "relation": "基于"
+    },
+    {
+      "head": "细胞死亡",
+      "tail": "细胞凋亡",
+      "relation": "类型包含"
+    },
+    {
+      "head": "细胞社会联系",
+      "tail": "细胞连接",
+      "relation": "机制包含"
+    },
+    {
+      "head": "显微镜技术",
+      "tail": "电子显微镜",
+      "relation": "技术类型包含"
+    },
+    {
+      "head": "氧化磷酸化",
+      "tail": "ATP生成",
+      "relation": "产物是"
+    },
+    {
+      "head": "光合作用",
+      "tail": "光能转化",
+      "relation": "过程是"
+    },
+    {
+      "head": "G蛋白偶联受体",
+      "tail": "cAMP信号通路",
+      "relation": "激活"
+    },
+    {
+      "head": "酶联受体",
+      "tail": "RTK-Ras通路",
+      "relation": "包含"
+    },
+    {
+      "head": "微丝",
+      "tail": "细胞运动",
+      "relation": "参与"
+    },
+    {
+      "head": "微管",
+      "tail": "物质运输",
+      "relation": "参与"
+    },
+    {
+      "head": "核小体",
+      "tail": "DNA包装",
+      "relation": "功能是"
+    },
+    {
+      "head": "有丝分裂",
+      "tail": "染色体分离",
+      "relation": "核心过程"
+    },
+    {
+      "head": "减数分裂",
+      "tail": "遗传重组",
+      "relation": "特征过程"
+    },
+    {
+      "head": "细胞凋亡",
+      "tail": "程序性死亡",
+      "relation": "属于"
+    },
+    {
+      "head": "细胞连接",
+      "tail": "细胞通讯",
+      "relation": "功能是"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:20:59",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,537 @@
+{
+  "knowledge_tree": {
+    "title": "误差理论与数据处理",
+    "content": "仪器类专业的核心课程，涵盖静态与动态测量误差分析、合成、分配及最小二乘、回归、不确定度评定等数据处理技术",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "绪论",
+        "content": "误差研究的意义、基本概念、来源、分类与精度描述",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "误差定义与表示",
+            "content": "测得值与真值之差；绝对误差、相对误差、引用误差",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "绝对误差",
+                "content": "Δ=测得值−真值，可正可负，单位与被测量相同",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "相对误差",
+                "content": "δ=Δ/真值≈Δ/测得值，无量纲，常用%",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "引用误差",
+                "content": "示值误差与量程上限之比，用于仪表精度等级",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "误差来源",
+            "content": "装置、环境、方法、人员四类",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "误差分类",
+            "content": "系统、随机、粗大；已定/未定系统误差",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "系统误差",
+                "content": "固定或按确定规律变化，可修正",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "随机误差",
+                "content": "不可预定波动，服从统计规律",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "粗大误差",
+                "content": "明显歪曲结果，应剔除",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "精度",
+            "content": "准确度、精密度、精确度；与误差反向",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "有效数字与舍入",
+            "content": "末位±0.5单位规则；四舍六入五成双",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "舍入误差",
+                "content": "因舍入产生的随机误差，均值趋于零",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "误差基本性质与处理",
+        "content": "随机、系统、粗大误差的分布、估计与剔除",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "随机误差统计特性",
+            "content": "正态分布、算术平均值、标准差、极限误差",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "正态分布参数",
+                "content": "μ=0，σ为方均根误差；置信因子k=2,3",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "算术平均值原理",
+                "content": "最佳估计，σₓ̄=σ/√n",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "标准差估计",
+                "content": "贝塞尔、别捷尔斯、极差、最大误差法",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "系统误差发现与消除",
+            "content": "实验对比、残差观察、马利科夫、阿卑-赫梅特、秩和、t检验",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "马利科夫准则",
+                "content": "线性系统误差判别：前后半残差和差值",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "阿卑-赫梅特准则",
+                "content": "周期性系统误差判别：相邻残差积和",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "粗大误差判别",
+            "content": "3σ、罗曼诺夫斯基、t、格罗布斯、狄克松准则",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "格罗布斯准则",
+                "content": "统计量g=|x(i)−x̄|/s，查表比较",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "不等精度测量",
+            "content": "权的概念、加权平均、单位权标准差",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "加权算术平均",
+                "content": "x̄ₚ=Σpᵢxᵢ/Σpᵢ，σₚ=σ/√Σpᵢ",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "误差合成与分配",
+        "content": "函数误差、随机/系统误差合成、误差分配与微小误差取舍",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "函数误差传递",
+            "content": "系统误差Δy=Σ(∂f/∂xᵢ)Δxᵢ；随机误差σ_y²=Σ(∂f/∂xᵢ)²σ_xᵢ²",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "三角函数误差",
+                "content": "角度误差与边长误差的关系",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "随机误差合成",
+            "content": "方和根法，考虑相关系数ρ",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "系统误差合成",
+            "content": "已定系统代数和，未定系统方和根",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "误差分配",
+            "content": "等作用原则再调整，验算总误差",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "等作用分配",
+                "content": "各部分误差相等，再按可行性调整",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "微小误差取舍",
+            "content": "1/3~1/10准则，σ_忽略≤(0.3~0.1)σ_总",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "最佳测量方案",
+            "content": "选函数形式、使传递系数最小或为零",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "测量不确定度",
+        "content": "GUM体系，A/B类评定、合成、扩展及报告",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "基本概念",
+            "content": "表征分散性参数，与误差区别联系",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "标准不确定度评定",
+            "content": "A类：统计法得u=s；B类：非统计法，假设分布",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "B类评定公式",
+                "content": "均匀分布u=a/√3；正态u=U/k",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "合成与扩展",
+            "content": "u_c=√Σuᵢ²+2Σρuᵢuⱼ；U=ku_c，k=t_p(ν_eff)",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "有效自由度",
+                "content": "Welch-Satterthwaite公式",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "不确定度报告",
+            "content": "y=y̅±U，注明k、p、ν_eff",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "最小二乘法",
+        "content": "线性参数估计、正规方程、精度评定",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "最小二乘原理",
+            "content": "Σvᵢ²=min，线性化误差方程",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "正规方程",
+            "content": "AᵀAX=AᵀL，等/不等精度解",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "矩阵解",
+                "content": "X=(AᵀPA)⁻¹AᵀPL",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "精度估计",
+            "content": "σ²=Σv²/(n−t)，D(X)=σ²(AᵀPA)⁻¹",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "组合测量应用",
+            "content": "多面棱体、线纹尺检定例",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "回归分析",
+        "content": "一元/多元、线性/非线性、显著性检验",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "一元线性回归",
+            "content": "y=b₀+bx，最小二乘估计，F检验",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "回归系数",
+                "content": "b=Σ(xᵢ−x̄)(yᵢ−ȳ)/Σ(xᵢ−x̄)²，b₀=ȳ−bx̄",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "非线性回归",
+            "content": "变量代换化线性，相关指数R²",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "幂函数线性化",
+                "content": "y=ax^b→ln y=ln a+b ln x",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "多元线性回归",
+            "content": "Y=Xβ+ε，β̂=(XᵀX)⁻¹XᵀY，偏回归平方和",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "显著性检验",
+                "content": "F=U/M / Q/(n−M−1)",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "逐步回归与递推",
+            "content": "实时更新系数，增量计算",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "动态测试数据处理",
+        "content": "随机过程、谱分析、各态历经、非平稳处理",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "随机过程特征量",
+            "content": "均值、方差、自相关、谱密度",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "自相关函数",
+                "content": "R(τ)=E[x(t)x(t+τ)]，偶函数，R(0)=σ²",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "谱密度与维纳-辛钦",
+                "content": "S(ω)=ℱ{R(τ)}，双边/单边关系",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "各态历经检验",
+            "content": "时间平均≈总体平均，ρ(τ)→0",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "非平稳化平稳",
+            "content": "y(t)=f(t)x(t)+g(t)，去趋势",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "动态测量误差评定",
+        "content": "时变误差分离、系统/随机误差参数、建模",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "误差分离流程",
+            "content": "预处理→系统误差剔除→随机误差估计",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "Shannon采样",
+                "content": "Δt≤1/(2F_max)",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "系统误差评定",
+            "content": "均值曲线、最大误差",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "随机误差评定",
+            "content": "总体/时间平均方差、协方差函数",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "误差建模与修正",
+            "content": "ARMA、Kalman滤波，实时修正",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "误差",
+      "relation": "定义为",
+      "tail": "测得值与真值之差"
+    },
+    {
+      "head": "系统误差",
+      "relation": "包含",
+      "tail": "已定系统误差和未定系统误差"
+    },
+    {
+      "head": "随机误差",
+      "relation": "服从",
+      "tail": "正态分布"
+    },
+    {
+      "head": "算术平均值",
+      "relation": "是",
+      "tail": "随机误差的最佳估计"
+    },
+    {
+      "head": "贝塞尔公式",
+      "relation": "用于估计",
+      "tail": "标准差"
+    },
+    {
+      "head": "格罗布斯准则",
+      "relation": "用于判别",
+      "tail": "粗大误差"
+    },
+    {
+      "head": "函数误差",
+      "relation": "通过",
+      "tail": "偏导数传递系数合成"
+    },
+    {
+      "head": "不确定度",
+      "relation": "分为",
+      "tail": "A类评定和B类评定"
+    },
+    {
+      "head": "合成标准不确定度",
+      "relation": "由",
+      "tail": "各分量不确定度方和根合成"
+    },
+    {
+      "head": "扩展不确定度",
+      "relation": "等于",
+      "tail": "合成标准不确定度乘以包含因子"
+    },
+    {
+      "head": "最小二乘法",
+      "relation": "基于",
+      "tail": "残差平方和最小原理"
+    },
+    {
+      "head": "正规方程",
+      "relation": "由",
+      "tail": "误差方程求导并令为零得到"
+    },
+    {
+      "head": "回归分析",
+      "relation": "用于建立",
+      "tail": "变量间的数学关系式"
+    },
+    {
+      "head": "一元线性回归",
+      "relation": "通过",
+      "tail": "最小二乘估计回归系数"
+    },
+    {
+      "head": "多元线性回归",
+      "relation": "使用",
+      "tail": "矩阵法求解回归系数"
+    },
+    {
+      "head": "随机过程",
+      "relation": "具有",
+      "tail": "均值、方差、自相关函数和谱密度"
+    },
+    {
+      "head": "各态历经过程",
+      "relation": "满足",
+      "tail": "时间平均等于总体平均"
+    },
+    {
+      "head": "动态测量误差",
+      "relation": "包含",
+      "tail": "系统误差和随机误差成分"
+    },
+    {
+      "head": "Shannon采样定理",
+      "relation": "给出",
+      "tail": "最大采样间隔限制"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 22:09:22",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "knowledge_tree": {
+    "title": "六年级上册数学",
+    "content": "包含分数乘法、位置与方向、分数除法、比、圆、百分数、扇形统计图等核心内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "分数乘法",
+        "content": "分数乘法的意义和计算方法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "分数乘整数",
+            "content": "分数乘整数，用分子乘整数的积作分子，分母不变",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "分数乘分数",
+            "content": "分数乘分数，用分子相乘的积作分子，分母相乘的积作分母",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "小数乘分数",
+            "content": "可以将小数化成分数计算，或者将分数化成小数计算",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "运算定律",
+            "content": "整数乘法的交换律、结合律和分配律，对于分数乘法也适用",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "解决问题",
+            "content": "求一个数的几分之几是多少的问题",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "位置与方向",
+        "content": "用方向和距离确定物体位置",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "方向描述",
+            "content": "用东偏南30°等方式描述方向",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "距离表示",
+            "content": "用具体距离数值确定位置",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "路线描述",
+            "content": "描述简单的路线图",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "分数除法",
+        "content": "分数除法的意义和计算方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "倒数的认识",
+            "content": "乘积是1的两个数互为倒数",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "分数除法计算",
+            "content": "除以一个不等于0的数，等于乘这个数的倒数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "分数混合运算",
+            "content": "分数混合运算的顺序和整数混合运算的顺序相同",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "解决问题",
+            "content": "已知一个数的几分之几是多少，求这个数的问题",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "比",
+        "content": "比的意义、性质和应用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "比的意义",
+            "content": "两个数的比表示两个数相除",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "比的基本性质",
+            "content": "比的前项和后项同时乘或除以相同的数（0除外），比值不变",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "化简比",
+            "content": "把比化成最简单的整数比",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "比的应用",
+            "content": "按比分配解决实际问题",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "圆",
+        "content": "圆的认识、周长和面积",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "圆的认识",
+            "content": "圆心、半径、直径的概念和关系",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "圆的周长",
+            "content": "C=πd 或 C=2πr",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "圆的面积",
+            "content": "S=πr²",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "扇形",
+            "content": "一条弧和经过这条弧两端的两条半径所围成的图形",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "百分数",
+        "content": "百分数的意义、读写和应用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "百分数的意义",
+            "content": "表示一个数是另一个数的百分之几",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "百分数的读写",
+            "content": "百分数的写法和读法",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "百分数与分数、小数的互化",
+            "content": "百分数、分数、小数之间的相互转化",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "解决问题",
+            "content": "求百分率、求一个数的百分之几是多少、求一个数比另一个数多（少）百分之几等问题",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "扇形统计图",
+        "content": "扇形统计图的认识和应用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "扇形统计图的特点",
+            "content": "可以清楚地表示各部分数量与总数之间的关系",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "扇形统计图的绘制",
+            "content": "根据各部分占总数的百分比绘制扇形统计图",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "扇形统计图的应用",
+            "content": "从扇形统计图中获取信息，解决实际问题",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "分数乘法",
+      "tail": "分数乘整数",
+      "relation": "包含"
+    },
+    {
+      "head": "分数乘法",
+      "tail": "分数乘分数",
+      "relation": "包含"
+    },
+    {
+      "head": "分数乘法",
+      "tail": "运算定律",
+      "relation": "包含"
+    },
+    {
+      "head": "分数除法",
+      "tail": "倒数的认识",
+      "relation": "基于"
+    },
+    {
+      "head": "分数除法",
+      "tail": "分数除法计算",
+      "relation": "包含"
+    },
+    {
+      "head": "比",
+      "tail": "比的基本性质",
+      "relation": "包含"
+    },
+    {
+      "head": "比",
+      "tail": "分数除法",
+      "relation": "关联"
+    },
+    {
+      "head": "圆",
+      "tail": "圆的周长",
+      "relation": "包含"
+    },
+    {
+      "head": "圆",
+      "tail": "圆的面积",
+      "relation": "包含"
+    },
+    {
+      "head": "百分数",
+      "tail": "分数",
+      "relation": "可以互化"
+    },
+    {
+      "head": "百分数",
+      "tail": "小数",
+      "relation": "可以互化"
+    },
+    {
+      "head": "扇形统计图",
+      "tail": "百分数",
+      "relation": "应用于"
+    },
+    {
+      "head": "分数乘法",
+      "tail": "解决问题",
+      "relation": "应用于"
+    },
+    {
+      "head": "分数除法",
+      "tail": "解决问题",
+      "relation": "应用于"
+    },
+    {
+      "head": "比",
+      "tail": "比的应用",
+      "relation": "应用于"
+    },
+    {
+      "head": "圆的周长",
+      "tail": "圆周率",
+      "relation": "基于"
+    },
+    {
+      "head": "圆的面积",
+      "tail": "圆的周长",
+      "relation": "推导自"
+    },
+    {
+      "head": "位置与方向",
+      "tail": "方向与距离",
+      "relation": "由...组成"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:20:18",
+    "version": "1.1"
+  }
+}

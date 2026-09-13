@@ -1,0 +1,918 @@
+{
+  "knowledge_tree": {
+    "title": "中医外科学",
+    "content": "研究中医外科疾病发生、发展及防治规律的临床主干学科，含疮疡、乳房病、瘿瘤岩、皮肤性病、肛肠、泌尿男性生殖、周围血管病及其他外伤性疾病。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "总论",
+        "content": "奠定中医外科理论基础与通用诊疗规范。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "发展概况",
+            "content": "梳理中医外科学起源、形成、发展、成熟及现代成就。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "起源",
+                "content": "原始社会至周代，疡医分科，《五十二病方》载最早外科病名与疗法。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "形成",
+                "content": "《内经》奠定疮疡理论，张仲景辨证论治，华佗麻沸散手术。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "发展",
+                "content": "晋唐至宋元，专著迭出，病因病理、手术外治丰富。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "成熟",
+                "content": "明清三派（正宗、全生、心得）及大量专著，理论体系完备。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "现代成就",
+                "content": "教材建设、专科专病、科研成果、人才培养与国际交流。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "外科范围与命名",
+            "content": "界定古今外科疾病范畴，解析命名规律与基本术语。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "传统范围",
+                "content": "疮疡、皮肤、肛肠、乳房、前阴、血管、外伤等体表或需外治疾病。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "现代范围",
+                "content": "新增内痈、急腹症、疝、泌尿生殖、性传播疾病等。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "命名原则",
+                "content": "按部位、穴位、脏腑、病因、症状、形态、颜色、特征、范围、病程、传染性命名。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "基本术语",
+                "content": "疮、疡、痈、疽、发、根脚、应指、护场、袋脓、胬肉、缸口、臖核、走黄、内陷、痔、漏、疳、结核、瘤、岩、痰、毒、风等定义。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "病因病机",
+            "content": "阐述外科致病因素与发病机理。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "致病因素",
+                "content": "外感六淫、外来伤害、特殊之毒、情志内伤、饮食不节、劳伤虚损、痰饮瘀血脓毒。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "发病机理",
+                "content": "邪正盛衰、气血凝滞、经络阻塞、脏腑失和四环节，终致阴阳失调。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "辨证体系",
+            "content": "外科辨病与辨证结合的临床思维框架。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "辨病程序",
+                "content": "详询病史→全面体检→注重局部→选用新技术→综合分析。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "阴阳辨证",
+                "content": "以局部症状为核心，分阴证阳证十二要点（缓急、深浅、颜色、温度、高度、范围、硬度、痛觉、脓液、病程、全身、预后）。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "部位辨证（外科三焦）",
+                "content": "上部多风温风热，中部多气郁火郁，下部多湿火湿热。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "经络辨证",
+                "content": "按病变所属经络及气血多少选引经药。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "局部辨证",
+                "content": "辨肿、肿块结节、痛、痒、麻木、脓、溃疡、出血八项。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "治法总则",
+            "content": "内治三大法则与外治三大法则。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "内治三法",
+                "content": "消（初期消散）、托（成脓托毒）、补（溃后补虚）。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "内治十一法",
+                "content": "解表、通里、清热、温通、祛痰、理湿、行气、和营、内托、补益、调胃。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "外治三法",
+                "content": "药物疗法、手术疗法、其他疗法（引流、垫棉、针灸、熏熨、热烘、溻渍、冷冻、激光）。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "外治药物剂型",
+                "content": "膏药、油膏、箍围药、草药、掺药、酊剂、洗剂，及其适应证、用法、注意点。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "手术疗法",
+                "content": "切开、火针、砭镰、挑治、挂线、结扎、拖线七法适应证与操作要点。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "典型例题类型",
+            "content": "1. 阴阳辨证病例分析题；2. 部位辨证选方题；3. 外治剂型选择题；4. 三法（消托补）阶段判断题；5. 引经药应用题。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "皮肤病",
+        "content": "包括白疕、风热疮、紫癜风、白驳风、黧黑斑、粉刺、白屑风、酒齄鼻、油风、红蝴蝶疮等",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "白疕（银屑病）",
+            "content": "红斑鳞屑性皮肤病，分寻常型、脓疱型、关节病型、红皮病型",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "病因病机",
+                "content": "血热、血燥、血瘀、湿毒、火毒等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "辨证论治",
+                "content": "血热内蕴证用犀角地黄汤，血虚风燥证用当归饮子，气血瘀滞证用桃红四物汤等",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "外治与调护",
+                "content": "黄连膏、中药药浴、避免辛辣发物",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "粉刺（痤疮）",
+            "content": "毛囊皮脂腺慢性炎症，分肺经风热、肠胃湿热、痰湿瘀滞证",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "辨证要点",
+                "content": "丘疹色红、皮脂溢出、结节囊肿",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "常用方药",
+                "content": "枇杷清肺饮、茵陈蒿汤、二陈汤合桃红四物汤",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "红蝴蝶疮（红斑狼疮）",
+            "content": "分盘状与系统性，热毒炽盛、阴虚火旺、脾肾阳虚等证型",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "诊断要点",
+                "content": "蝶形红斑、光敏、关节痛、多系统损害",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "中西医结合",
+                "content": "激素+免疫抑制剂+中医辨证",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "肛肠病",
+        "content": "痔、肛痈、肛漏、肛裂、脱肛、息肉痔、便秘、锁肛痔等",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "痔",
+            "content": "分内痔、外痔、混合痔，辨证有风伤肠络、湿热下注、气滞血瘀、脾虚气陷",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "内痔分期",
+                "content": "Ⅰ-Ⅳ期：便血→脱出→嵌顿",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "外治技术",
+                "content": "硬化注射、结扎、套扎、PPH、TST等",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "肛痈",
+            "content": "肛门直肠周围脓肿，分热毒蕴结、火毒炽盛、阴虚毒恋证",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "成脓标志",
+                "content": "波动感、穿刺有脓、高热跳痛",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "一次切开挂线法",
+                "content": "高位脓肿保留括约肌功能",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "锁肛痔（直肠癌）",
+            "content": "便血、便频、便形变细、里急后重",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "早期诊断",
+                "content": "直肠指检+肠镜+病理",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "综合治疗",
+                "content": "手术+放化疗+中药扶正",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "泌尿男性生殖病",
+        "content": "子痈、囊痈、子痰、阴茎痰核、水疝、尿石症、不育、阳痿、血精、精浊、精癃、前列腺癌等",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "子痈（附睾睾丸炎）",
+            "content": "湿热下注用龙胆泻肝汤，气滞痰凝用橘核丸",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "尿石症（石淋）",
+            "content": "湿热、气滞、肾虚三型，总攻疗法+三金排石汤",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "总攻方案",
+                "content": "饮水+利尿+中药+体位+电针",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "精癃（前列腺增生）",
+            "content": "尿频夜尿、排尿困难，分湿热、脾肾气虚、气滞血瘀、肾阴/阳虚证",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "手术指征",
+                "content": "反复尿潴留、血尿、感染、结石、肾积水",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "前列腺癌",
+            "content": "早期无症状，PSA筛查，中西医结合内分泌+手术",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "周围血管病",
+        "content": "臁疮、青蛇毒、股肿、脱疽、淋巴水肿",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "脱疽（血栓闭塞性脉管炎/动脉硬化闭塞症/糖尿病足）",
+            "content": "分寒湿阻络、血脉瘀阻、湿热毒盛、热毒伤阴、气阴两虚证",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "关键检查",
+                "content": "ABI、彩色多普勒、CTA、DSA",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "外治原则",
+                "content": "鲸吞/蚕食清创、控制感染、改善供血",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "股肿（深静脉血栓）",
+            "content": "湿热下注、血脉瘀阻、气虚湿阻证，防肺栓塞",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "溶栓窗口",
+                "content": "发病72小时内",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "其他外科病",
+        "content": "冻疮、烧伤、毒蛇咬伤、破伤风、肠痈、胆石症、痛风",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "毒蛇咬伤",
+            "content": "风毒、火毒、风火毒证，早期结扎+扩创+抗蛇毒血清",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "院前急救",
+                "content": "结扎-冲洗-排毒-冷敷-制动",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "肠痈（阑尾炎）",
+            "content": "瘀滞-湿热-热毒证，大黄牡丹汤为主，手术指征明确",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "痛风",
+            "content": "湿热阻痹、风寒湿痹、痰瘀阻滞、肝肾阴虚证，急性秋水仙碱+中药清热除湿",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "常用外治技术",
+        "content": "熏洗、箍围、贴敷、灌注、挂线、结扎、注射、切开、植皮等",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "挂线疗法",
+            "content": "利用橡皮筋慢性切割与引流，保护肛门括约肌",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "硬化注射",
+            "content": "消痔灵注射液使痔核纤维化萎缩",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "常用方剂索引",
+        "content": "按笔画归类，涵盖内治、外治、成药、注射液等",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "内治经典方",
+            "content": "犀角地黄汤、阳和汤、龙胆泻肝汤、桃红四物汤、大黄牡丹汤等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "外治经验方",
+            "content": "金黄散、玉露散、九华膏、湿润烧伤膏、蛇伤外敷散等",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "中医外科学",
+      "tail": "疮疡",
+      "relation": "包含"
+    },
+    {
+      "head": "中医外科学",
+      "tail": "乳房疾病",
+      "relation": "包含"
+    },
+    {
+      "head": "中医外科学",
+      "tail": "瘿瘤岩",
+      "relation": "包含"
+    },
+    {
+      "head": "中医外科学",
+      "tail": "皮肤性传播疾病",
+      "relation": "包含"
+    },
+    {
+      "head": "中医外科学",
+      "tail": "肛肠疾病",
+      "relation": "包含"
+    },
+    {
+      "head": "中医外科学",
+      "tail": "泌尿男性生殖疾病",
+      "relation": "包含"
+    },
+    {
+      "head": "中医外科学",
+      "tail": "周围血管疾病",
+      "relation": "包含"
+    },
+    {
+      "head": "阴阳辨证",
+      "tail": "局部症状",
+      "relation": "以...为核心"
+    },
+    {
+      "head": "部位辨证",
+      "tail": "上部",
+      "relation": "多分属风温风热"
+    },
+    {
+      "head": "部位辨证",
+      "tail": "中部",
+      "relation": "多分属气郁火郁"
+    },
+    {
+      "head": "部位辨证",
+      "tail": "下部",
+      "relation": "多分属湿火湿热"
+    },
+    {
+      "head": "内治三法",
+      "tail": "消法",
+      "relation": "包含"
+    },
+    {
+      "head": "内治三法",
+      "tail": "托法",
+      "relation": "包含"
+    },
+    {
+      "head": "内治三法",
+      "tail": "补法",
+      "relation": "包含"
+    },
+    {
+      "head": "外治三法",
+      "tail": "药物疗法",
+      "relation": "包含"
+    },
+    {
+      "head": "外治三法",
+      "tail": "手术疗法",
+      "relation": "包含"
+    },
+    {
+      "head": "外治三法",
+      "tail": "其他疗法",
+      "relation": "包含"
+    },
+    {
+      "head": "消法",
+      "tail": "初期肿疡",
+      "relation": "适用于"
+    },
+    {
+      "head": "托法",
+      "tail": "成脓期",
+      "relation": "适用于"
+    },
+    {
+      "head": "补法",
+      "tail": "溃后虚证",
+      "relation": "适用于"
+    },
+    {
+      "head": "膏药",
+      "tail": "太乙膏",
+      "relation": "属于"
+    },
+    {
+      "head": "膏药",
+      "tail": "阳和解凝膏",
+      "relation": "属于"
+    },
+    {
+      "head": "油膏",
+      "tail": "金黄膏",
+      "relation": "属于"
+    },
+    {
+      "head": "油膏",
+      "tail": "玉露膏",
+      "relation": "属于"
+    },
+    {
+      "head": "掺药",
+      "tail": "升丹",
+      "relation": "属于"
+    },
+    {
+      "head": "掺药",
+      "tail": "八宝丹",
+      "relation": "属于"
+    },
+    {
+      "head": "切开法",
+      "tail": "脓肿",
+      "relation": "适用于"
+    },
+    {
+      "head": "挂线法",
+      "tail": "瘘管",
+      "relation": "适用于"
+    },
+    {
+      "head": "砭镰法",
+      "tail": "红丝疔",
+      "relation": "适用于"
+    },
+    {
+      "head": "垫棉法",
+      "tail": "袋脓",
+      "relation": "适用于"
+    },
+    {
+      "head": "走黄",
+      "tail": "疔疮",
+      "relation": "继发于"
+    },
+    {
+      "head": "内陷",
+      "tail": "疽毒",
+      "relation": "继发于"
+    },
+    {
+      "head": "乳痈",
+      "tail": "肝胃郁热",
+      "relation": "常见病机"
+    },
+    {
+      "head": "乳癖",
+      "tail": "肝郁痰凝",
+      "relation": "常见病机"
+    },
+    {
+      "head": "乳岩",
+      "tail": "情志失调",
+      "relation": "主要病因"
+    },
+    {
+      "head": "气瘿",
+      "tail": "缺碘",
+      "relation": "主要病因"
+    },
+    {
+      "head": "肉瘿",
+      "tail": "气滞痰凝",
+      "relation": "常见病机"
+    },
+    {
+      "head": "石瘿",
+      "tail": "痰瘀内结",
+      "relation": "常见病机"
+    },
+    {
+      "head": "瘿痈",
+      "tail": "风热夹痰",
+      "relation": "常见病机"
+    },
+    {
+      "head": "血瘤",
+      "tail": "心火妄动",
+      "relation": "常见病机"
+    },
+    {
+      "head": "筋瘤",
+      "tail": "劳倦伤气",
+      "relation": "常见病机"
+    },
+    {
+      "head": "失荣",
+      "tail": "痰瘀脏毒",
+      "relation": "常见病机"
+    },
+    {
+      "head": "肾岩",
+      "tail": "湿毒瘀结",
+      "relation": "常见病机"
+    },
+    {
+      "head": "热疮",
+      "tail": "肺胃热盛",
+      "relation": "常见病机"
+    },
+    {
+      "head": "蛇串疮",
+      "tail": "肝经火毒",
+      "relation": "常见病机"
+    },
+    {
+      "head": "黄水疮",
+      "tail": "暑湿热毒",
+      "relation": "常见病机"
+    },
+    {
+      "head": "癣",
+      "tail": "风湿热虫",
+      "relation": "常见病机"
+    },
+    {
+      "head": "疥疮",
+      "tail": "疥虫",
+      "relation": "由...引起"
+    },
+    {
+      "head": "日晒疮",
+      "tail": "热毒侵袭",
+      "relation": "常见病机"
+    },
+    {
+      "head": "湿疮",
+      "tail": "风湿热邪",
+      "relation": "常见病机"
+    },
+    {
+      "head": "瘾疹",
+      "tail": "禀赋不耐复感外邪",
+      "relation": "常见病机"
+    },
+    {
+      "head": "猫眼疮",
+      "tail": "风寒湿热毒",
+      "relation": "常见病机"
+    },
+    {
+      "head": "葡萄疫",
+      "tail": "热毒伤络",
+      "relation": "常见病机"
+    },
+    {
+      "head": "瓜藤缠",
+      "tail": "湿热瘀阻",
+      "relation": "常见病机"
+    },
+    {
+      "head": "风瘙痒",
+      "tail": "血虚风燥",
+      "relation": "常见病机"
+    },
+    {
+      "head": "牛皮癣",
+      "tail": "血虚风燥",
+      "relation": "常见病机"
+    },
+    {
+      "head": "白疕",
+      "tail": "血热内蕴",
+      "relation": "常见病机"
+    },
+    {
+      "head": "白疕",
+      "tail": "寻常型银屑病",
+      "relation": "等同于"
+    },
+    {
+      "head": "红蝴蝶疮",
+      "tail": "系统性红斑狼疮",
+      "relation": "等同于"
+    },
+    {
+      "head": "锁肛痔",
+      "tail": "直肠癌",
+      "relation": "等同于"
+    },
+    {
+      "head": "股肿",
+      "tail": "深静脉血栓形成",
+      "relation": "等同于"
+    },
+    {
+      "head": "脱疽",
+      "tail": "血栓闭塞性脉管炎",
+      "relation": "包含"
+    },
+    {
+      "head": "脱疽",
+      "tail": "动脉硬化闭塞症",
+      "relation": "包含"
+    },
+    {
+      "head": "脱疽",
+      "tail": "糖尿病足",
+      "relation": "包含"
+    },
+    {
+      "head": "内痔Ⅳ期",
+      "tail": "嵌顿性内痔",
+      "relation": "发展为"
+    },
+    {
+      "head": "肛痈",
+      "tail": "肛漏",
+      "relation": "后遗为"
+    },
+    {
+      "head": "蛇毒",
+      "tail": "神经毒",
+      "relation": "分类为"
+    },
+    {
+      "head": "蛇毒",
+      "tail": "血循毒",
+      "relation": "分类为"
+    },
+    {
+      "head": "蛇毒",
+      "tail": "混合毒",
+      "relation": "分类为"
+    },
+    {
+      "head": "痛风急性期",
+      "tail": "四妙散合宣痹汤",
+      "relation": "主治用方"
+    },
+    {
+      "head": "血栓闭塞性脉管炎",
+      "tail": "阳和汤",
+      "relation": "主治用方"
+    },
+    {
+      "head": "深静脉血栓",
+      "tail": "四妙勇安汤",
+      "relation": "主治用方"
+    },
+    {
+      "head": "阑尾炎瘀滞证",
+      "tail": "大黄牡丹汤",
+      "relation": "主治用方"
+    },
+    {
+      "head": "前列腺增生",
+      "tail": "八正散",
+      "relation": "主治用方"
+    },
+    {
+      "head": "挂线疗法",
+      "tail": "高位肛漏",
+      "relation": "应用于"
+    },
+    {
+      "head": "硬化注射",
+      "tail": "内痔Ⅰ-Ⅲ期",
+      "relation": "应用于"
+    },
+    {
+      "head": "总攻疗法",
+      "tail": "尿石症<1cm",
+      "relation": "应用于"
+    },
+    {
+      "head": "鲸吞清创",
+      "tail": "糖尿病足干性坏疽",
+      "relation": "应用于"
+    },
+    {
+      "head": "蚕食清创",
+      "tail": "糖尿病足湿性坏疽",
+      "relation": "应用于"
+    },
+    {
+      "head": "ABI<0.9",
+      "tail": "间歇性跛行",
+      "relation": "提示"
+    },
+    {
+      "head": "PSA升高",
+      "tail": "前列腺癌",
+      "relation": "提示"
+    },
+    {
+      "head": "薄膜现象+点状出血",
+      "tail": "寻常型银屑病",
+      "relation": "特征性体征"
+    },
+    {
+      "head": "蝶形红斑",
+      "tail": "系统性红斑狼疮",
+      "relation": "特征性皮损"
+    },
+    {
+      "head": "同形反应",
+      "tail": "银屑病进行期",
+      "relation": "出现于"
+    },
+    {
+      "head": "雷诺现象",
+      "tail": "红蝴蝶疮",
+      "relation": "伴随于"
+    },
+    {
+      "head": "抗蛇毒血清",
+      "tail": "毒蛇咬伤",
+      "relation": "越早应用效果越好"
+    },
+    {
+      "head": "戒烟",
+      "tail": "血栓闭塞性脉管炎",
+      "relation": "预防调护关键"
+    },
+    {
+      "head": "低嘌呤饮食",
+      "tail": "痛风",
+      "relation": "预防调护关键"
+    }
+  ],
+  "metadata": {
+    "chunks_merged": 2,
+    "generated_at": "2025-11-18 21:31:01",
+    "version": "1.1"
+  }
+}

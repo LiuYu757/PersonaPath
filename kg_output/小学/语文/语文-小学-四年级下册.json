@@ -1,0 +1,185 @@
+{
+  "knowledge_tree": {
+    "title": "四年级下册语文",
+    "content": "人教版四年级下册语文教材，包含诗歌、散文、童话等多种文体，注重语言积累与情感体验",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元：乡村生活",
+        "content": "通过古诗和现代文描写乡村景色与生活",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "古诗词三首",
+            "content": "《四时田园杂兴》《宿新市徐公店》《清平乐·村居》描写田园风光",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "《四时田园杂兴》",
+                "content": "范成大所作，描写初夏田园景色",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "诗歌意象分析",
+                    "content": "梅子、麦花、菜花等意象构成田园画卷",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "《乡下人家》",
+            "content": "陈醉云描写乡村生活场景",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "景物描写特点",
+                "content": "瓜架、鲜花、竹林等典型乡村景物",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元：科技探索",
+        "content": "介绍自然奥秘与科技发展",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "《琥珀》",
+            "content": "柏吉尔讲述琥珀形成过程",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "科学知识说明",
+                "content": "松脂化石的形成条件与过程",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三单元：现代诗歌",
+        "content": "冰心、艾青等现代诗歌赏析",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "《短诗三首》",
+            "content": "冰心《繁星》组诗选段",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "诗歌情感表达",
+                "content": "通过自然意象表达对母亲的依恋",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第四单元：动物描写",
+        "content": "老舍、丰子恺等描写动物的文章",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "《猫》",
+            "content": "老舍描写猫的性格特点",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "性格特征描写",
+                "content": "通过具体事例表现猫的古怪性格",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第八单元：童话故事",
+        "content": "中外经典童话作品选读",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "《宝葫芦的秘密》",
+            "content": "张天翼童话故事节选",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "童话想象特点",
+                "content": "宝葫芦的魔法与现实生活的联系",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "古诗词三首",
+      "tail": "田园风光",
+      "relation": "描写"
+    },
+    {
+      "head": "乡下人家",
+      "tail": "乡村生活",
+      "relation": "展现"
+    },
+    {
+      "head": "琥珀",
+      "tail": "自然奥秘",
+      "relation": "揭示"
+    },
+    {
+      "head": "短诗三首",
+      "tail": "母爱",
+      "relation": "歌颂"
+    },
+    {
+      "head": "猫",
+      "tail": "动物习性",
+      "relation": "刻画"
+    },
+    {
+      "head": "宝葫芦的秘密",
+      "tail": "童话想象",
+      "relation": "运用"
+    },
+    {
+      "head": "现代诗歌",
+      "tail": "情感表达",
+      "relation": "注重"
+    },
+    {
+      "head": "老舍",
+      "tail": "语言风格",
+      "relation": "体现"
+    },
+    {
+      "head": "冰心",
+      "tail": "繁星",
+      "relation": "创作"
+    },
+    {
+      "head": "丰子恺",
+      "tail": "白鹅",
+      "relation": "描写"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 18:59:28",
+    "version": "1.1"
+  }
+}

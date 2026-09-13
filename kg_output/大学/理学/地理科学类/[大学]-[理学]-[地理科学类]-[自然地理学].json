@@ -1,0 +1,251 @@
+{
+  "knowledge_tree": {
+    "title": "自然地理学",
+    "content": "研究地球表层自然环境的组成、结构、功能、动态变化及地域分异规律的科学",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "地球系统与圈层结构",
+        "content": "地球是由多个圈层组成的复杂系统，包括大气圈、水圈、岩石圈、生物圈等",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "大气圈",
+            "content": "地球外围的气体圈层，主要成分为氮、氧、氩等",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "大气垂直分层",
+                "content": "对流层、平流层、中间层、热层、散逸层",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "对流层特征",
+                    "content": "气温随高度增加而降低，天气现象复杂多变",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "水圈",
+            "content": "地球表面各种水体的总称，包括海洋、河流、湖泊、冰川等",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "水循环过程",
+                "content": "蒸发、凝结、降水、径流等环节构成的连续过程",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "岩石圈",
+            "content": "地球的固体外壳，包括地壳和上地幔顶部",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "板块构造理论",
+                "content": "岩石圈被分割为若干板块，在地幔对流驱动下运动",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "自然地理过程",
+        "content": "地球表层物质和能量的迁移、转化过程",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "气候形成与变化",
+            "content": "太阳辐射、大气环流、下垫面性质等因素共同作用的结果",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "气候带划分",
+                "content": "根据温度、降水等指标将地球划分为不同的气候类型区",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "地貌发育过程",
+            "content": "内外营力相互作用塑造地表形态的过程",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "河流地貌",
+                "content": "河流侵蚀、搬运、堆积作用形成的地貌",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "自然地理区划",
+        "content": "根据自然地理环境的相似性和差异性进行区域划分",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "地域分异规律",
+            "content": "自然地理环境要素在空间上呈现规律性变化",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "纬度地带性",
+                "content": "自然带大致沿纬线方向延伸，随纬度变化更替",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "人类活动与自然环境",
+        "content": "人类活动对自然地理环境的影响及响应",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "全球变化",
+            "content": "人类活动引起的全球尺度的环境变化",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "温室效应",
+                "content": "大气中温室气体浓度增加导致全球变暖的现象",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "自然地理学",
+      "tail": "地球系统与圈层结构",
+      "relation": "研究"
+    },
+    {
+      "head": "自然地理学",
+      "tail": "自然地理过程",
+      "relation": "研究"
+    },
+    {
+      "head": "自然地理学",
+      "tail": "自然地理区划",
+      "relation": "研究"
+    },
+    {
+      "head": "自然地理学",
+      "tail": "人类活动与自然环境",
+      "relation": "研究"
+    },
+    {
+      "head": "地球系统与圈层结构",
+      "tail": "大气圈",
+      "relation": "包含"
+    },
+    {
+      "head": "地球系统与圈层结构",
+      "tail": "水圈",
+      "relation": "包含"
+    },
+    {
+      "head": "地球系统与圈层结构",
+      "tail": "岩石圈",
+      "relation": "包含"
+    },
+    {
+      "head": "大气圈",
+      "tail": "大气垂直分层",
+      "relation": "具有"
+    },
+    {
+      "head": "大气垂直分层",
+      "tail": "对流层特征",
+      "relation": "包含"
+    },
+    {
+      "head": "水圈",
+      "tail": "水循环过程",
+      "relation": "涉及"
+    },
+    {
+      "head": "岩石圈",
+      "tail": "板块构造理论",
+      "relation": "基于"
+    },
+    {
+      "head": "自然地理过程",
+      "tail": "气候形成与变化",
+      "relation": "包含"
+    },
+    {
+      "head": "自然地理过程",
+      "tail": "地貌发育过程",
+      "relation": "包含"
+    },
+    {
+      "head": "气候形成与变化",
+      "tail": "气候带划分",
+      "relation": "导致"
+    },
+    {
+      "head": "地貌发育过程",
+      "tail": "河流地貌",
+      "relation": "形成"
+    },
+    {
+      "head": "自然地理区划",
+      "tail": "地域分异规律",
+      "relation": "基于"
+    },
+    {
+      "head": "地域分异规律",
+      "tail": "纬度地带性",
+      "relation": "包含"
+    },
+    {
+      "head": "人类活动与自然环境",
+      "tail": "全球变化",
+      "relation": "引发"
+    },
+    {
+      "head": "全球变化",
+      "tail": "温室效应",
+      "relation": "包含"
+    },
+    {
+      "head": "大气圈",
+      "tail": "气候形成与变化",
+      "relation": "影响"
+    },
+    {
+      "head": "水圈",
+      "tail": "地貌发育过程",
+      "relation": "参与"
+    },
+    {
+      "head": "岩石圈",
+      "tail": "地貌发育过程",
+      "relation": "构成基础"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:55:29",
+    "version": "1.1"
+  }
+}

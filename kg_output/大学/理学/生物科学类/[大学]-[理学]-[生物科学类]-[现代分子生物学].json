@@ -1,0 +1,268 @@
+{
+  "knowledge_tree": {
+    "title": "现代分子生物学",
+    "content": "现代分子生物学是研究核酸等生物大分子的结构与功能，并从分子水平上阐述遗传信息传递、基因表达调控等生命现象的科学。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "DNA的结构与功能",
+        "content": "DNA是遗传信息的载体，由脱氧核苷酸通过磷酸二酯键连接而成，具有双螺旋结构。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "DNA的化学组成",
+            "content": "DNA的基本单位是脱氧核苷酸，由含氮碱基（A、T、C、G）、脱氧核糖和磷酸组成。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "DNA的双螺旋结构",
+            "content": "Watson和Crick提出的DNA双螺旋模型，两条链反向平行，碱基通过氢键配对（A-T，C-G）。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "DNA的变性与复性",
+            "content": "DNA双链在高温或变性剂作用下解链为单链，去除变性条件后可重新结合为双链。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "DNA的复制",
+        "content": "DNA复制是以亲代DNA为模板合成子代DNA的过程，具有半保留复制的特点。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "半保留复制",
+            "content": "DNA复制时，每条亲代链作为模板合成一条新链，形成的两个子代DNA分子各保留一条亲代链。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "复制起点与复制叉",
+            "content": "DNA复制从特定位点（复制起点）开始，形成复制叉双向进行。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "DNA聚合酶",
+            "content": "催化DNA链的合成，需要模板、引物和dNTPs，具有5'→3'聚合活性和3'→5'外切酶校对活性。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "前导链与滞后链",
+            "content": "前导链连续合成，滞后链以冈崎片段不连续合成，随后连接成完整链。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "基因表达与调控",
+        "content": "基因表达包括转录和翻译过程，受多级精确调控。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "转录",
+            "content": "以DNA为模板合成RNA的过程，由RNA聚合酶催化。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "启动子",
+                "content": "RNA聚合酶识别和结合的DNA序列，决定转录的起始和效率。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "转录因子",
+                "content": "与顺式作用元件结合，调控基因转录的蛋白质。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "翻译",
+            "content": "以mRNA为模板合成多肽链的过程，在核糖体上进行。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "遗传密码",
+                "content": "mRNA上三个相邻核苷酸决定一个氨基酸，具有简并性和通用性。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "核糖体",
+                "content": "蛋白质合成的场所，由rRNA和蛋白质组成。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "原核基因表达调控",
+            "content": "主要以操纵子模型进行调控，如乳糖操纵子。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "真核基因表达调控",
+            "content": "调控层次多，包括染色质水平、转录水平、转录后水平、翻译水平及翻译后水平的调控。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题",
+        "content": "综合应用分子生物学知识解决问题。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "DNA复制方向判断",
+            "content": "给定DNA序列和复制叉移动方向，判断前导链和滞后链的合成方向。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "中心法则应用题",
+            "content": "根据DNA序列推导mRNA序列和蛋白质氨基酸序列。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "基因调控机制分析",
+            "content": "分析特定条件下操纵子模型的表达调控机制。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "DNA的结构与功能",
+      "tail": "DNA的化学组成",
+      "relation": "包含"
+    },
+    {
+      "head": "DNA的结构与功能",
+      "tail": "DNA的双螺旋结构",
+      "relation": "包含"
+    },
+    {
+      "head": "DNA的结构与功能",
+      "tail": "DNA的变性与复性",
+      "relation": "包含"
+    },
+    {
+      "head": "DNA的复制",
+      "tail": "半保留复制",
+      "relation": "基于"
+    },
+    {
+      "head": "DNA的复制",
+      "tail": "复制起点与复制叉",
+      "relation": "涉及"
+    },
+    {
+      "head": "DNA的复制",
+      "tail": "DNA聚合酶",
+      "relation": "由...催化"
+    },
+    {
+      "head": "DNA的复制",
+      "tail": "前导链与滞后链",
+      "relation": "包含"
+    },
+    {
+      "head": "基因表达与调控",
+      "tail": "转录",
+      "relation": "包含"
+    },
+    {
+      "head": "基因表达与调控",
+      "tail": "翻译",
+      "relation": "包含"
+    },
+    {
+      "head": "基因表达与调控",
+      "tail": "原核基因表达调控",
+      "relation": "包含"
+    },
+    {
+      "head": "基因表达与调控",
+      "tail": "真核基因表达调控",
+      "relation": "包含"
+    },
+    {
+      "head": "转录",
+      "tail": "启动子",
+      "relation": "起始于"
+    },
+    {
+      "head": "转录",
+      "tail": "转录因子",
+      "relation": "受...调控"
+    },
+    {
+      "head": "翻译",
+      "tail": "遗传密码",
+      "relation": "依据"
+    },
+    {
+      "head": "翻译",
+      "tail": "核糖体",
+      "relation": "在...上进行"
+    },
+    {
+      "head": "DNA双螺旋结构",
+      "tail": "碱基配对原则",
+      "relation": "遵循"
+    },
+    {
+      "head": "半保留复制",
+      "tail": "DNA聚合酶",
+      "relation": "需要"
+    },
+    {
+      "head": "前导链与滞后链",
+      "tail": "冈崎片段",
+      "relation": "滞后链合成产生"
+    },
+    {
+      "head": "中心法则",
+      "tail": "DNA的复制",
+      "relation": "包含"
+    },
+    {
+      "head": "中心法则",
+      "tail": "转录",
+      "relation": "包含"
+    },
+    {
+      "head": "中心法则",
+      "tail": "翻译",
+      "relation": "包含"
+    },
+    {
+      "head": "乳糖操纵子",
+      "tail": "原核基因表达调控",
+      "relation": "是...的典型模型"
+    },
+    {
+      "head": "真核基因表达调控",
+      "tail": "染色质重塑",
+      "relation": "包括"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:18:16",
+    "version": "1.1"
+  }
+}

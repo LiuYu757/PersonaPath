@@ -1,0 +1,706 @@
+{
+  "knowledge_tree": {
+    "title": "数据库系统概论",
+    "content": "数据库系统的基本概念、原理、技术和应用",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "数据库系统概述",
+        "content": "介绍数据库系统的基本概念、发展历程和体系结构",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "数据模型",
+            "content": "描述数据、数据联系、数据语义以及一致性约束的概念工具的集合",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "概念模型",
+                "content": "按用户的观点对数据和信息建模，主要用于数据库设计",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "E-R模型",
+                    "content": "实体-联系模型，用图形方式描述现实世界的概念模型",
+                    "difficulty": "3",
+                    "children": [
+                      {
+                        "title": "实体",
+                        "content": "客观存在并可相互区别的事物",
+                        "difficulty": "1",
+                        "children": []
+                      },
+                      {
+                        "title": "属性",
+                        "content": "实体所具有的某一特性",
+                        "difficulty": "1",
+                        "children": []
+                      },
+                      {
+                        "title": "联系",
+                        "content": "实体之间的关联关系",
+                        "difficulty": "2",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "逻辑模型",
+                "content": "按计算机系统的观点对数据建模，主要用于DBMS实现",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "层次模型",
+                    "content": "用树形结构表示实体及其联系",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "网状模型",
+                    "content": "用网状结构表示实体及其联系",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "关系模型",
+                    "content": "用二维表结构表示实体及其联系",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "数据库系统结构",
+            "content": "数据库系统的三级模式结构和二级映像功能",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "模式",
+                "content": "数据库中全体数据的逻辑结构和特征的描述",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "外模式",
+                "content": "数据库用户能够看见和使用的局部数据的逻辑结构和特征的描述",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "内模式",
+                "content": "数据物理结构和存储方式的描述",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "关系数据库",
+        "content": "基于关系模型的数据系统",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "关系数据结构",
+            "content": "关系模型的数据结构形式化定义",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "域",
+                "content": "一组具有相同数据类型的值的集合",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "笛卡尔积",
+                "content": "域上的一种集合运算",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "关系",
+                "content": "笛卡尔积的有限子集",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "关系完整性约束",
+            "content": "关系模型必须满足的完整性约束条件",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "实体完整性",
+                "content": "主码的属性不能取空值",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "参照完整性",
+                "content": "外码要么取空值，要么等于被参照关系的主码值",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "用户定义完整性",
+                "content": "针对某一具体关系数据库的约束条件",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "关系代数",
+            "content": "关系数据库的数学基础，用于关系操作",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "传统的集合运算",
+                "content": "从关系的水平方向进行运算",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "并",
+                    "content": "R∪S = {t|t∈R∨t∈S}",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "差",
+                    "content": "R-S = {t|t∈R∧t∉S}",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "交",
+                    "content": "R∩S = {t|t∈R∧t∈S}",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "专门的关系运算",
+                "content": "关系数据库特有的运算",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "选择",
+                    "content": "σF(R) = {t|t∈R∧F(t)=true}",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "投影",
+                    "content": "πA(R) = {t[A]|t∈R}",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "连接",
+                    "content": "R⋈S = {tr⌒ts|tr∈R∧ts∈S∧tr[A]θts[B]}",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "SQL语言",
+        "content": "结构化查询语言，关系数据库的标准语言",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "数据定义",
+            "content": "定义数据库中的对象",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "CREATE TABLE",
+                "content": "创建表语句",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "ALTER TABLE",
+                "content": "修改表结构",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "DROP TABLE",
+                "content": "删除表",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据查询",
+            "content": "从数据库中检索数据",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "SELECT语句",
+                "content": "基本查询语句结构",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "WHERE子句",
+                "content": "条件筛选",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "GROUP BY子句",
+                "content": "分组统计",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "HAVING子句",
+                "content": "分组条件筛选",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "典型查询例题",
+            "content": "常见的SQL查询问题类型",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "单表查询",
+                "content": "从一个表中检索数据",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "多表连接查询",
+                "content": "从多个关联表中检索数据",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "嵌套查询",
+                "content": "查询中嵌套另一个查询",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "数据库设计",
+        "content": "数据库应用系统的设计过程和方法",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "E-R图设计",
+            "content": "使用E-R方法进行概念结构设计",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "实体识别",
+                "content": "识别系统中的实体",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "联系建立",
+                "content": "建立实体间的联系",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "属性分配",
+                "content": "为实体和联系分配属性",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "E-R图向关系模型转换",
+            "content": "将概念模型转换为逻辑模型",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "实体转换规则",
+                "content": "一个实体转换为一个关系模式",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "联系转换规则",
+                "content": "根据联系类型转换为关系模式",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "关系数据理论",
+        "content": "关系数据库的规范化理论",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "函数依赖",
+            "content": "属性间的依赖关系",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "完全函数依赖",
+                "content": "X→Y，且X的任一真子集X'，X'→Y不成立",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "部分函数依赖",
+                "content": "X→Y，但Y不完全函数依赖于X",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "传递函数依赖",
+                "content": "X→Y，Y→Z，且Y不包含于X，则Z传递函数依赖于X",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "范式",
+            "content": "关系模式满足的规范化程度",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "第一范式",
+                "content": "所有属性都是不可分的基本数据项",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "第二范式",
+                "content": "满足第一范式，且非主属性完全函数依赖于码",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "第三范式",
+                "content": "满足第二范式，且非主属性不传递函数依赖于码",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "数据库系统概述",
+      "tail": "数据模型",
+      "relation": "包含"
+    },
+    {
+      "head": "数据模型",
+      "tail": "概念模型",
+      "relation": "分类为"
+    },
+    {
+      "head": "数据模型",
+      "tail": "逻辑模型",
+      "relation": "分类为"
+    },
+    {
+      "head": "概念模型",
+      "tail": "E-R模型",
+      "relation": "具体表现为"
+    },
+    {
+      "head": "E-R模型",
+      "tail": "实体",
+      "relation": "由...组成"
+    },
+    {
+      "head": "E-R模型",
+      "tail": "属性",
+      "relation": "由...组成"
+    },
+    {
+      "head": "E-R模型",
+      "tail": "联系",
+      "relation": "由...组成"
+    },
+    {
+      "head": "逻辑模型",
+      "tail": "关系模型",
+      "relation": "包含"
+    },
+    {
+      "head": "数据库系统结构",
+      "tail": "模式",
+      "relation": "由...组成"
+    },
+    {
+      "head": "数据库系统结构",
+      "tail": "外模式",
+      "relation": "由...组成"
+    },
+    {
+      "head": "数据库系统结构",
+      "tail": "内模式",
+      "relation": "由...组成"
+    },
+    {
+      "head": "关系数据库",
+      "tail": "关系数据结构",
+      "relation": "包含"
+    },
+    {
+      "head": "关系数据库",
+      "tail": "关系完整性约束",
+      "relation": "包含"
+    },
+    {
+      "head": "关系数据库",
+      "tail": "关系代数",
+      "relation": "包含"
+    },
+    {
+      "head": "关系数据结构",
+      "tail": "域",
+      "relation": "基于"
+    },
+    {
+      "head": "关系数据结构",
+      "tail": "笛卡尔积",
+      "relation": "基于"
+    },
+    {
+      "head": "关系数据结构",
+      "tail": "关系",
+      "relation": "基于"
+    },
+    {
+      "head": "关系完整性约束",
+      "tail": "实体完整性",
+      "relation": "包含"
+    },
+    {
+      "head": "关系完整性约束",
+      "tail": "参照完整性",
+      "relation": "包含"
+    },
+    {
+      "head": "关系完整性约束",
+      "tail": "用户定义完整性",
+      "relation": "包含"
+    },
+    {
+      "head": "关系代数",
+      "tail": "传统的集合运算",
+      "relation": "包含"
+    },
+    {
+      "head": "关系代数",
+      "tail": "专门的关系运算",
+      "relation": "包含"
+    },
+    {
+      "head": "传统的集合运算",
+      "tail": "并运算",
+      "relation": "包含"
+    },
+    {
+      "head": "传统的集合运算",
+      "tail": "差运算",
+      "relation": "包含"
+    },
+    {
+      "head": "传统的集合运算",
+      "tail": "交运算",
+      "relation": "包含"
+    },
+    {
+      "head": "专门的关系运算",
+      "tail": "选择运算",
+      "relation": "包含"
+    },
+    {
+      "head": "专门的关系运算",
+      "tail": "投影运算",
+      "relation": "包含"
+    },
+    {
+      "head": "专门的关系运算",
+      "tail": "连接运算",
+      "relation": "包含"
+    },
+    {
+      "head": "SQL语言",
+      "tail": "数据定义",
+      "relation": "包含"
+    },
+    {
+      "head": "SQL语言",
+      "tail": "数据查询",
+      "relation": "包含"
+    },
+    {
+      "head": "SQL语言",
+      "tail": "典型查询例题",
+      "relation": "包含"
+    },
+    {
+      "head": "数据查询",
+      "tail": "SELECT语句",
+      "relation": "基于"
+    },
+    {
+      "head": "数据查询",
+      "tail": "WHERE子句",
+      "relation": "基于"
+    },
+    {
+      "head": "数据查询",
+      "tail": "GROUP BY子句",
+      "relation": "基于"
+    },
+    {
+      "head": "数据查询",
+      "tail": "HAVING子句",
+      "relation": "基于"
+    },
+    {
+      "head": "典型查询例题",
+      "tail": "单表查询",
+      "relation": "包含"
+    },
+    {
+      "head": "典型查询例题",
+      "tail": "多表连接查询",
+      "relation": "包含"
+    },
+    {
+      "head": "典型查询例题",
+      "tail": "嵌套查询",
+      "relation": "包含"
+    },
+    {
+      "head": "数据库设计",
+      "tail": "E-R图设计",
+      "relation": "包含"
+    },
+    {
+      "head": "数据库设计",
+      "tail": "E-R图向关系模型转换",
+      "relation": "包含"
+    },
+    {
+      "head": "E-R图设计",
+      "tail": "实体识别",
+      "relation": "包含步骤"
+    },
+    {
+      "head": "E-R图设计",
+      "tail": "联系建立",
+      "relation": "包含步骤"
+    },
+    {
+      "head": "E-R图设计",
+      "tail": "属性分配",
+      "relation": "包含步骤"
+    },
+    {
+      "head": "E-R图向关系模型转换",
+      "tail": "实体转换规则",
+      "relation": "基于"
+    },
+    {
+      "head": "E-R图向关系模型转换",
+      "tail": "联系转换规则",
+      "relation": "基于"
+    },
+    {
+      "head": "关系数据理论",
+      "tail": "函数依赖",
+      "relation": "基于"
+    },
+    {
+      "head": "关系数据理论",
+      "tail": "范式",
+      "relation": "基于"
+    },
+    {
+      "head": "函数依赖",
+      "tail": "完全函数依赖",
+      "relation": "分类为"
+    },
+    {
+      "head": "函数依赖",
+      "tail": "部分函数依赖",
+      "relation": "分类为"
+    },
+    {
+      "head": "函数依赖",
+      "tail": "传递函数依赖",
+      "relation": "分类为"
+    },
+    {
+      "head": "范式",
+      "tail": "第一范式",
+      "relation": "包含"
+    },
+    {
+      "head": "范式",
+      "tail": "第二范式",
+      "relation": "包含"
+    },
+    {
+      "head": "范式",
+      "tail": "第三范式",
+      "relation": "包含"
+    },
+    {
+      "head": "关系模型",
+      "tail": "SQL语言",
+      "relation": "通过...实现"
+    },
+    {
+      "head": "E-R模型",
+      "tail": "数据库设计",
+      "relation": "应用于"
+    },
+    {
+      "head": "关系代数",
+      "tail": "SQL查询",
+      "relation": "数学基础为"
+    },
+    {
+      "head": "函数依赖",
+      "tail": "范式理论",
+      "relation": "为...提供理论基础"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:54:48",
+    "version": "1.1"
+  }
+}

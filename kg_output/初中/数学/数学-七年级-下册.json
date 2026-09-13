@@ -1,0 +1,382 @@
+{
+  "knowledge_tree": {
+    "title": "七年级下册数学",
+    "content": "包含相交线与平行线、实数、平面直角坐标系、二元一次方程组、不等式与不等式组、数据的收集整理与描述等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "相交线与平行线",
+        "content": "研究平面内两条直线的位置关系：相交与平行",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "相交线",
+            "content": "两条直线相交形成的角的关系",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "邻补角",
+                "content": "有一条公共边，另一边互为反向延长线的两个角",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "对顶角",
+                "content": "有一个公共顶点，且一个角的两边分别是另一个角两边的反向延长线",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "垂线",
+                "content": "两条直线相交成直角时，这两条直线互相垂直",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "点到直线的距离",
+                "content": "直线外一点到这条直线的垂线段的长度",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "同位角",
+                "content": "两条直线被第三条直线所截，位置相同的一对角",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "内错角",
+                "content": "两条直线被第三条直线所截，在两条直线之间且在截线两侧的一对角",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "同旁内角",
+                "content": "两条直线被第三条直线所截，在两条直线之间且在截线同旁的一对角",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "平行线",
+            "content": "在同一平面内，不相交的两条直线",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "平行公理",
+                "content": "过直线外一点有且只有一条直线与这条直线平行",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "平行线的判定",
+                "content": "同位角相等，两直线平行；内错角相等，两直线平行；同旁内角互补，两直线平行",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "平行线的性质",
+                "content": "两直线平行，同位角相等；两直线平行，内错角相等；两直线平行，同旁内角互补",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "命题、定理、证明",
+            "content": "可以判断真假的陈述句叫做命题，经过证明的真命题称为定理",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "平移",
+            "content": "将一个图形沿某个方向移动一定的距离",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "平移的性质",
+                "content": "平移前后的图形全等；对应点所连的线段平行且相等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "实数",
+        "content": "有理数和无理数的统称",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "平方根",
+            "content": "如果一个数的平方等于a，那么这个数叫做a的平方根",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "算术平方根",
+                "content": "正数a的正的平方根，记作√a",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "立方根",
+            "content": "如果一个数的立方等于a，那么这个数叫做a的立方根",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "实数",
+            "content": "有理数和无理数的统称",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "实数的性质",
+                "content": "实数与数轴上的点一一对应；实数可以进行加、减、乘、除、乘方运算",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "平面直角坐标系",
+        "content": "用有序数对表示平面内点的位置",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "坐标系的概念",
+            "content": "由两条互相垂直、原点重合的数轴组成",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "点的坐标",
+            "content": "用有序数对(x,y)表示点的位置",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "坐标方法的简单应用",
+            "content": "用坐标表示地理位置和平移",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "二元一次方程组",
+        "content": "含有两个未知数，且未知数的项的次数都是1的方程组",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "二元一次方程",
+            "content": "含有两个未知数，且未知数的项的次数都是1的方程",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "二元一次方程组",
+            "content": "两个二元一次方程组合在一起",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "消元法解方程组",
+            "content": "通过代入或加减消去一个未知数",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "实际问题与二元一次方程组",
+            "content": "列方程组解决实际问题",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "三元一次方程组",
+            "content": "含有三个未知数，且未知数的项的次数都是1的方程组",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "不等式与不等式组",
+        "content": "表示不等关系的式子",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "不等式",
+            "content": "用不等号表示不等关系的式子",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "不等式的性质",
+                "content": "性质1：不等式两边加(减)同一个数，不等号方向不变；性质2：不等式两边乘(除)同一个正数，不等号方向不变；性质3：不等式两边乘(除)同一个负数，不等号方向改变",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "一元一次不等式",
+            "content": "含有一个未知数，且未知数的次数是1的不等式",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "一元一次不等式组",
+            "content": "几个一元一次不等式组合在一起",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数据的收集、整理与描述",
+        "content": "收集数据、整理数据、描述数据和分析数据",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "统计调查",
+            "content": "全面调查和抽样调查",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "用统计图描述数据",
+            "content": "用条形图、扇形图、折线图、直方图等描述数据",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "相交线",
+      "tail": "对顶角",
+      "relation": "包含"
+    },
+    {
+      "head": "相交线",
+      "tail": "邻补角",
+      "relation": "包含"
+    },
+    {
+      "head": "相交线",
+      "tail": "垂线",
+      "relation": "包含"
+    },
+    {
+      "head": "平行线",
+      "tail": "平行线的判定",
+      "relation": "包含"
+    },
+    {
+      "head": "平行线",
+      "tail": "平行线的性质",
+      "relation": "包含"
+    },
+    {
+      "head": "平行线的判定",
+      "tail": "同位角相等",
+      "relation": "基于"
+    },
+    {
+      "head": "平行线的判定",
+      "tail": "内错角相等",
+      "relation": "基于"
+    },
+    {
+      "head": "平行线的判定",
+      "tail": "同旁内角互补",
+      "relation": "基于"
+    },
+    {
+      "head": "平行线的性质",
+      "tail": "同位角相等",
+      "relation": "推导出"
+    },
+    {
+      "head": "平行线的性质",
+      "tail": "内错角相等",
+      "relation": "推导出"
+    },
+    {
+      "head": "平行线的性质",
+      "tail": "同旁内角互补",
+      "relation": "推导出"
+    },
+    {
+      "head": "实数",
+      "tail": "平方根",
+      "relation": "包含"
+    },
+    {
+      "head": "实数",
+      "tail": "立方根",
+      "relation": "包含"
+    },
+    {
+      "head": "平方根",
+      "tail": "算术平方根",
+      "relation": "包含"
+    },
+    {
+      "head": "平面直角坐标系",
+      "tail": "点的坐标",
+      "relation": "用于表示"
+    },
+    {
+      "head": "二元一次方程组",
+      "tail": "消元法",
+      "relation": "解决方法"
+    },
+    {
+      "head": "不等式",
+      "tail": "不等式的性质",
+      "relation": "具有"
+    },
+    {
+      "head": "一元一次不等式",
+      "tail": "不等式的性质",
+      "relation": "基于"
+    },
+    {
+      "head": "数据的收集",
+      "tail": "统计图",
+      "relation": "用于描述"
+    },
+    {
+      "head": "条形图",
+      "tail": "数据比较",
+      "relation": "用于"
+    },
+    {
+      "head": "扇形图",
+      "tail": "比例表示",
+      "relation": "用于"
+    },
+    {
+      "head": "折线图",
+      "tail": "趋势分析",
+      "relation": "用于"
+    },
+    {
+      "head": "直方图",
+      "tail": "频数分布",
+      "relation": "用于表示"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:55:07",
+    "version": "1.1"
+  }
+}

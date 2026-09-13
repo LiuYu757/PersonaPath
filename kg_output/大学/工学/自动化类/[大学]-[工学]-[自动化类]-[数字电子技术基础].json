@@ -1,0 +1,818 @@
+{
+  "knowledge_tree": {
+    "title": "数字电子技术基础",
+    "content": "数字电子技术基础是自动化类专业的核心课程，主要研究数字电路的基本概念、分析方法和设计方法，以及常用数字集成电路的原理与应用。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "数制与码制",
+        "content": "介绍数字系统中数的表示方法，包括不同进制数的转换和常用编码。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "数制",
+            "content": "用数字符号按位权展开表示数值的方法。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "二进制",
+                "content": "基数为2的计数制，使用0和1两个数码，是数字电路的基础。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "八进制",
+                "content": "基数为8的计数制，是二进制的紧凑表示形式。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "十六进制",
+                "content": "基数为16的计数制，是二进制的紧凑表示形式。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "进制转换",
+                "content": "不同进制数之间的相互转换方法。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "码制",
+            "content": "用特定二进制代码表示数值或信息的方法。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "BCD码",
+                "content": "用4位二进制数表示1位十进制数的编码。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "格雷码",
+                "content": "任意两个相邻代码之间只有一位不同的循环码。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "ASCII码",
+                "content": "美国标准信息交换码，用于字符表示。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "逻辑代数基础",
+        "content": "研究逻辑变量和逻辑运算的数学工具，是数字电路分析和设计的理论基础。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "基本逻辑运算",
+            "content": "与、或、非三种基本逻辑运算。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "与运算",
+                "content": "所有输入为1时输出才为1的逻辑运算。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "或运算",
+                "content": "任一输入为1时输出就为1的逻辑运算。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "非运算",
+                "content": "输出与输入相反的逻辑运算。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "复合逻辑运算",
+            "content": "由基本逻辑运算组合而成的运算。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "与非运算",
+                "content": "先与后非的复合逻辑运算。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "或非运算",
+                "content": "先或后非的复合逻辑运算。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "异或运算",
+                "content": "两个输入不同时输出为1的逻辑运算。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "同或运算",
+                "content": "两个输入相同时输出为1的逻辑运算。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "逻辑代数基本定理",
+            "content": "逻辑代数的基本定律和定理。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "德摩根定理",
+                "content": "与运算和或运算之间的对偶关系定理。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "吸收律",
+                "content": "逻辑表达式的简化定理。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "对偶规则",
+                "content": "逻辑表达式中的与或互换、0-1互换规则。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "组合逻辑电路",
+        "content": "输出只取决于当前输入状态的逻辑电路。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "组合电路分析",
+            "content": "已知逻辑电路图，分析其逻辑功能的方法。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "真值表法",
+                "content": "通过列出所有输入组合对应的输出值来分析电路功能。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "逻辑表达式法",
+                "content": "通过写出逻辑函数表达式来分析电路功能。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "组合电路设计",
+            "content": "根据逻辑功能要求设计实现电路的方法。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "逻辑化简",
+                "content": "使用卡诺图或公式法简化逻辑表达式。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "门电路实现",
+                "content": "用基本门电路实现简化后的逻辑函数。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "常用组合电路",
+            "content": "具有特定功能的标准化组合逻辑电路。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "编码器",
+                "content": "将输入信号转换为特定编码输出的电路。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "译码器",
+                "content": "将编码输入转换为对应输出信号的电路。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "数据选择器",
+                "content": "从多个输入中选择一个输出的电路。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "加法器",
+                "content": "实现二进制数加法运算的电路。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "时序逻辑电路",
+        "content": "输出不仅取决于当前输入，还与电路过去状态有关的逻辑电路。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "触发器",
+            "content": "具有记忆功能的基本时序电路单元。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "RS触发器",
+                "content": "最基本的触发器，具有置位和复位功能。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "D触发器",
+                "content": "具有数据锁存功能的触发器。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "JK触发器",
+                "content": "功能最完善的触发器，无空翻现象。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "T触发器",
+                "content": "具有计数功能的触发器。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "寄存器",
+            "content": "用于暂存二进制数据的时序电路。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "移位寄存器",
+                "content": "能够实现数据移位操作的寄存器。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "并行寄存器",
+                "content": "同时输入输出所有数据的寄存器。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "计数器",
+            "content": "能够对输入脉冲进行计数的时序电路。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "同步计数器",
+                "content": "所有触发器同时翻转的计数器。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "异步计数器",
+                "content": "触发器逐级翻转的计数器。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "环形计数器",
+                "content": "构成循环移位序列的计数器。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "半导体存储器",
+        "content": "用于存储二进制信息的半导体器件。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "只读存储器",
+            "content": "内容只能读出不能写入的存储器。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "ROM结构",
+                "content": "由地址译码器、存储矩阵和输出缓冲器组成。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "PROM",
+                "content": "可编程只读存储器，用户可一次性编程。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "EPROM",
+                "content": "可擦除可编程只读存储器。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "随机存取存储器",
+            "content": "可随机读写数据的存储器。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "SRAM",
+                "content": "静态随机存取存储器，不需要刷新。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "DRAM",
+                "content": "动态随机存取存储器，需要定期刷新。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "存储器扩展",
+                "content": "通过字扩展和位扩展增大存储器容量。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "可编程逻辑器件",
+        "content": "可由用户编程实现特定逻辑功能的集成电路。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "PLD基本结构",
+            "content": "可编程逻辑器件的通用结构组成。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "与阵列",
+                "content": "实现乘积项的可编程结构。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "或阵列",
+                "content": "实现和项的可编程结构。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "PAL",
+            "content": "与阵列可编程、或阵列固定的可编程器件。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "GAL",
+            "content": "采用E²CMOS工艺的可重复编程器件。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "CPLD",
+            "content": "复杂可编程逻辑器件，集成度更高。",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "FPGA",
+            "content": "现场可编程门阵列，采用查找表结构。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "脉冲波形的产生与整形",
+        "content": "产生和整形数字脉冲波形的电路。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "施密特触发器",
+            "content": "具有滞回特性的波形整形电路。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "单稳态触发器",
+            "content": "产生固定宽度脉冲的电路。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "多谐振荡器",
+            "content": "产生矩形脉冲的自激振荡电路。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "555定时器",
+            "content": "多功能模拟数字混合集成电路。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "555结构原理",
+                "content": "由分压器、比较器、RS触发器和放电管组成。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "555应用电路",
+                "content": "构成施密特触发器、单稳态触发器和多谐振荡器。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "数模与模数转换",
+        "content": "数字信号与模拟信号相互转换的技术。",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "D/A转换器",
+            "content": "将数字量转换为模拟量的器件。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "权电阻网络DAC",
+                "content": "采用权电阻网络的数模转换器。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "R-2R梯形网络DAC",
+                "content": "采用R-2R梯形电阻网络的数模转换器。",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "DAC主要参数",
+                "content": "包括分辨率、转换精度、转换速度等。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "A/D转换器",
+            "content": "将模拟量转换为数字量的器件。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "并行比较型ADC",
+                "content": "转换速度最快的ADC类型。",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "逐次逼近型ADC",
+                "content": "精度和速度折衷的ADC类型。",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "双积分型ADC",
+                "content": "精度高但速度慢的ADC类型。",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "ADC主要参数",
+                "content": "包括分辨率、量化误差、转换时间等。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "数字电子技术基础",
+      "tail": "数制与码制",
+      "relation": "包含"
+    },
+    {
+      "head": "数字电子技术基础",
+      "tail": "逻辑代数基础",
+      "relation": "包含"
+    },
+    {
+      "head": "数字电子技术基础",
+      "tail": "组合逻辑电路",
+      "relation": "包含"
+    },
+    {
+      "head": "数字电子技术基础",
+      "tail": "时序逻辑电路",
+      "relation": "包含"
+    },
+    {
+      "head": "数制",
+      "tail": "二进制",
+      "relation": "包含"
+    },
+    {
+      "head": "数制",
+      "tail": "八进制",
+      "relation": "包含"
+    },
+    {
+      "head": "数制",
+      "tail": "十六进制",
+      "relation": "包含"
+    },
+    {
+      "head": "二进制",
+      "tail": "进制转换",
+      "relation": "应用于"
+    },
+    {
+      "head": "码制",
+      "tail": "BCD码",
+      "relation": "包含"
+    },
+    {
+      "head": "码制",
+      "tail": "格雷码",
+      "relation": "包含"
+    },
+    {
+      "head": "逻辑代数基础",
+      "tail": "基本逻辑运算",
+      "relation": "包含"
+    },
+    {
+      "head": "逻辑代数基础",
+      "tail": "逻辑代数基本定理",
+      "relation": "包含"
+    },
+    {
+      "head": "基本逻辑运算",
+      "tail": "与运算",
+      "relation": "包含"
+    },
+    {
+      "head": "基本逻辑运算",
+      "tail": "或运算",
+      "relation": "包含"
+    },
+    {
+      "head": "基本逻辑运算",
+      "tail": "非运算",
+      "relation": "包含"
+    },
+    {
+      "head": "逻辑代数基本定理",
+      "tail": "德摩根定理",
+      "relation": "包含"
+    },
+    {
+      "head": "德摩根定理",
+      "tail": "与运算",
+      "relation": "关联"
+    },
+    {
+      "head": "德摩根定理",
+      "tail": "或运算",
+      "relation": "关联"
+    },
+    {
+      "head": "组合逻辑电路",
+      "tail": "组合电路分析",
+      "relation": "包含"
+    },
+    {
+      "head": "组合逻辑电路",
+      "tail": "组合电路设计",
+      "relation": "包含"
+    },
+    {
+      "head": "组合电路分析",
+      "tail": "真值表法",
+      "relation": "包含"
+    },
+    {
+      "head": "组合电路分析",
+      "tail": "逻辑表达式法",
+      "relation": "包含"
+    },
+    {
+      "head": "组合电路设计",
+      "tail": "逻辑化简",
+      "relation": "基于"
+    },
+    {
+      "head": "逻辑化简",
+      "tail": "卡诺图",
+      "relation": "使用"
+    },
+    {
+      "head": "时序逻辑电路",
+      "tail": "触发器",
+      "relation": "基于"
+    },
+    {
+      "head": "时序逻辑电路",
+      "tail": "寄存器",
+      "relation": "包含"
+    },
+    {
+      "head": "时序逻辑电路",
+      "tail": "计数器",
+      "relation": "包含"
+    },
+    {
+      "head": "触发器",
+      "tail": "RS触发器",
+      "relation": "包含"
+    },
+    {
+      "head": "触发器",
+      "tail": "D触发器",
+      "relation": "包含"
+    },
+    {
+      "head": "触发器",
+      "tail": "JK触发器",
+      "relation": "包含"
+    },
+    {
+      "head": "寄存器",
+      "tail": "移位寄存器",
+      "relation": "包含"
+    },
+    {
+      "head": "计数器",
+      "tail": "同步计数器",
+      "relation": "包含"
+    },
+    {
+      "head": "计数器",
+      "tail": "异步计数器",
+      "relation": "包含"
+    },
+    {
+      "head": "半导体存储器",
+      "tail": "只读存储器",
+      "relation": "包含"
+    },
+    {
+      "head": "半导体存储器",
+      "tail": "随机存取存储器",
+      "relation": "包含"
+    },
+    {
+      "head": "只读存储器",
+      "tail": "ROM结构",
+      "relation": "由...组成"
+    },
+    {
+      "head": "随机存取存储器",
+      "tail": "SRAM",
+      "relation": "包含"
+    },
+    {
+      "head": "随机存取存储器",
+      "tail": "DRAM",
+      "relation": "包含"
+    },
+    {
+      "head": "可编程逻辑器件",
+      "tail": "PLD基本结构",
+      "relation": "基于"
+    },
+    {
+      "head": "PLD基本结构",
+      "tail": "与阵列",
+      "relation": "包含"
+    },
+    {
+      "head": "PLD基本结构",
+      "tail": "或阵列",
+      "relation": "包含"
+    },
+    {
+      "head": "脉冲波形的产生与整形",
+      "tail": "施密特触发器",
+      "relation": "包含"
+    },
+    {
+      "head": "脉冲波形的产生与整形",
+      "tail": "555定时器",
+      "relation": "包含"
+    },
+    {
+      "head": "555定时器",
+      "tail": "施密特触发器",
+      "relation": "可构成"
+    },
+    {
+      "head": "数模与模数转换",
+      "tail": "D/A转换器",
+      "relation": "包含"
+    },
+    {
+      "head": "数模与模数转换",
+      "tail": "A/D转换器",
+      "relation": "包含"
+    },
+    {
+      "head": "D/A转换器",
+      "tail": "权电阻网络DAC",
+      "relation": "包含"
+    },
+    {
+      "head": "D/A转换器",
+      "tail": "R-2R梯形网络DAC",
+      "relation": "包含"
+    },
+    {
+      "head": "A/D转换器",
+      "tail": "并行比较型ADC",
+      "relation": "包含"
+    },
+    {
+      "head": "A/D转换器",
+      "tail": "逐次逼近型ADC",
+      "relation": "包含"
+    },
+    {
+      "head": "二进制",
+      "tail": "数字电路",
+      "relation": "是...的基础"
+    },
+    {
+      "head": "逻辑代数",
+      "tail": "数字电路分析",
+      "relation": "是...的理论基础"
+    },
+    {
+      "head": "组合逻辑电路",
+      "tail": "编码器",
+      "relation": "包含典型电路"
+    },
+    {
+      "head": "组合逻辑电路",
+      "tail": "译码器",
+      "relation": "包含典型电路"
+    },
+    {
+      "head": "时序逻辑电路",
+      "tail": "存储器",
+      "relation": "关联"
+    },
+    {
+      "head": "触发器",
+      "tail": "时序电路",
+      "relation": "是...基本单元"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:48:21",
+    "version": "1.1"
+  }
+}

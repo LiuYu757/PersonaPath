@@ -1,0 +1,334 @@
+{
+  "knowledge_tree": {
+    "title": "C程序设计",
+    "content": "C语言基础语法、程序结构、数据类型、运算符、控制语句、函数、数组、指针、结构体、文件操作等核心编程概念",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "C语言概述",
+        "content": "C语言的发展历史、特点、程序结构（预处理、主函数、语句、注释）以及开发环境介绍",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "C语言特点",
+            "content": "结构化、模块化、可移植性高、效率高、指针操作灵活",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "基本程序结构",
+            "content": "#include <stdio.h>、int main()、return 0；等基本框架",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "注释",
+            "content": "单行注释（//）和多行注释（/* ... */）的用法",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数据类型",
+        "content": "C语言中的基本数据类型、常量与变量、类型修饰符、数据类型转换",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "基本数据类型",
+            "content": "整型（int）、字符型（char）、浮点型（float、double）、空类型（void）",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "常量与变量",
+            "content": "变量的定义与初始化、常量的定义（const、#define）",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "类型转换",
+            "content": "隐式类型转换和显式类型转换（强制类型转换）",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "运算符与表达式",
+        "content": "算术运算符、关系运算符、逻辑运算符、赋值运算符、位运算符、条件运算符等及其优先级",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "算术运算符",
+            "content": "+、-、*、/、%、++、--",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "关系与逻辑运算符",
+            "content": ">、<、==、!=、&&、||、!",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "赋值运算符",
+            "content": "=、+=、-=、*=、/=、%=",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "运算符优先级",
+            "content": "各类运算符的优先级顺序表及结合性",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "控制语句",
+        "content": "顺序结构、选择结构（if、switch）、循环结构（for、while、do-while）及跳转语句（break、continue、goto）",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "选择结构",
+            "content": "if-else语句、switch-case语句",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "循环结构",
+            "content": "for循环、while循环、do-while循环",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "循环控制",
+            "content": "break跳出循环、continue跳过本次循环",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "函数",
+        "content": "函数的定义、声明、调用、参数传递（值传递、地址传递）、递归函数、变量的作用域与存储类别",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "函数定义与调用",
+            "content": "函数头、函数体、形参与实参、返回值",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "参数传递方式",
+            "content": "值传递（复制值）、地址传递（传递指针）",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "递归函数",
+            "content": "函数直接或间接调用自身，需有终止条件",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数组",
+        "content": "一维数组、二维数组、字符数组（字符串）的定义、初始化、遍历与应用",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "一维数组",
+            "content": "定义格式：类型 数组名[长度]；下标从0开始",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "二维数组",
+            "content": "定义格式：类型 数组名[行数][列数]；按行存储",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "字符数组与字符串",
+            "content": "字符数组存储字符串，以'\\0'结尾，常用字符串处理函数",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "指针",
+        "content": "指针的概念、指针变量、指针运算、指针与数组、指针与函数、多级指针",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "指针基础",
+            "content": "指针变量的定义（类型 *变量名）、取地址运算符&、解引用运算符*",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "指针与数组",
+            "content": "数组名即首地址、指针遍历数组、指针数组",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "指针与函数",
+            "content": "指针作为函数参数、函数返回指针、函数指针",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "结构体与共用体",
+        "content": "结构体的定义、初始化、访问成员、结构体数组、结构体指针、共用体的概念",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "结构体定义",
+            "content": "struct 结构体名 { 成员列表 }；",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "结构体应用",
+            "content": "结构体变量定义、成员访问（.运算符）、结构体指针访问成员（->运算符）",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "文件操作",
+        "content": "文件的打开（fopen）、关闭（fclose）、读写（fprintf、fscanf、fgets、fputs等）、文件指针定位",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "文件打开与关闭",
+            "content": "文件打开模式（r、w、a等）、文件指针FILE*",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "文件读写函数",
+            "content": "字符读写（fgetc、fputc）、字符串读写（fgets、fputs）、格式化读写（fscanf、fprintf）",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "C语言概述",
+      "tail": "基本程序结构",
+      "relation": "包含"
+    },
+    {
+      "head": "数据类型",
+      "tail": "基本数据类型",
+      "relation": "包含"
+    },
+    {
+      "head": "数据类型",
+      "tail": "类型转换",
+      "relation": "包含"
+    },
+    {
+      "head": "运算符与表达式",
+      "tail": "算术运算符",
+      "relation": "包含"
+    },
+    {
+      "head": "运算符与表达式",
+      "tail": "运算符优先级",
+      "relation": "包含"
+    },
+    {
+      "head": "控制语句",
+      "tail": "选择结构",
+      "relation": "包含"
+    },
+    {
+      "head": "控制语句",
+      "tail": "循环结构",
+      "relation": "包含"
+    },
+    {
+      "head": "控制语句",
+      "tail": "循环控制",
+      "relation": "包含"
+    },
+    {
+      "head": "函数",
+      "tail": "参数传递方式",
+      "relation": "包含"
+    },
+    {
+      "head": "函数",
+      "tail": "递归函数",
+      "relation": "包含"
+    },
+    {
+      "head": "数组",
+      "tail": "一维数组",
+      "relation": "包含"
+    },
+    {
+      "head": "数组",
+      "tail": "字符数组与字符串",
+      "relation": "包含"
+    },
+    {
+      "head": "指针",
+      "tail": "指针与数组",
+      "relation": "应用于"
+    },
+    {
+      "head": "指针",
+      "tail": "指针与函数",
+      "relation": "应用于"
+    },
+    {
+      "head": "结构体与共用体",
+      "tail": "结构体应用",
+      "relation": "包含"
+    },
+    {
+      "head": "文件操作",
+      "tail": "文件读写函数",
+      "relation": "包含"
+    },
+    {
+      "head": "指针",
+      "tail": "数组",
+      "relation": "可操作"
+    },
+    {
+      "head": "函数",
+      "tail": "指针",
+      "relation": "可结合使用"
+    },
+    {
+      "head": "控制语句",
+      "tail": "函数",
+      "relation": "可嵌套"
+    },
+    {
+      "head": "数据类型",
+      "tail": "运算符与表达式",
+      "relation": "为基础"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:51:39",
+    "version": "1.1"
+  }
+}

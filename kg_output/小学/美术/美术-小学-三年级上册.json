@@ -1,0 +1,433 @@
+{
+  "knowledge_tree": {
+    "title": "美术三年级上册",
+    "content": "小学三年级美术上册教材，包含童年生活、我和家人、爱集体爱劳动、走进儿童剧四个单元",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "第一单元 童年生活",
+        "content": "美术作品欣赏，了解不同时代儿童生活",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "童年艺趣",
+            "content": "欣赏反映儿童生活的美术作品",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "中国画欣赏",
+                "content": "欣赏《榕树水牛》等中国画作品，了解线条变化",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "中国画线条特点",
+                    "content": "线条有长短、疏密、浓淡、干湿的变化",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "油画欣赏",
+                "content": "欣赏《小年》《阳台》等油画作品",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "版画欣赏",
+                "content": "欣赏《蒲公英》版画作品",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "雕塑欣赏",
+                "content": "欣赏《摇》《小红花》等雕塑作品",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "童真时光",
+            "content": "了解动画片艺术形式",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "动画片类型",
+                "content": "水墨动画、剪纸动画、木偶动画、皮影动画",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "动画原理",
+                "content": "视觉暂留现象，连续画面产生动态效果",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "手翻书制作",
+                    "content": "制作简单翻书动画",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "定格纯真",
+            "content": "学习定格动画创作",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "定格动画原理",
+                "content": "通过逐帧拍摄静态画面产生动态效果",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "人偶制作",
+                "content": "制作定格动画人偶，配备骨架或关节",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "分镜设计",
+                "content": "构思人物动态分镜",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "拍摄技巧",
+                "content": "固定相机、灯光布置、场景搭建",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元 我和家人",
+        "content": "学画人物画，表现家庭生活",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "表情变变变",
+            "content": "学习表现人物面部表情",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "表情特征观察",
+                "content": "观察不同表情时五官的变化规律",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "线描人物技法",
+                "content": "用线条表现人物特征和表情",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "表情变化装置",
+                "content": "制作会变化表情的美术作品",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "其乐融融",
+            "content": "表现家庭团聚场景",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "构图技巧",
+                "content": "主要人物放在画面中心位置",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "色彩运用",
+                "content": "用红色、橙色、黄色等明快色彩烘托欢乐气氛",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "幸福一家亲",
+            "content": "用剪纸等形式表现家庭关系",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "家庭关系图谱",
+                "content": "用宝塔式、树式等图谱表现家人关系",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "剪纸艺术",
+                "content": "学习剪纸技法表现家庭主题",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "立体书制作",
+                "content": "用立体书形式表现家庭关系",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三单元 爱集体爱劳动",
+        "content": "传承中华美德，表现集体和劳动",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "班级的姓氏",
+            "content": "了解姓氏文化，制作姓氏印",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "姓氏起源",
+                "content": "了解姓氏的来源和演变",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "汉字演变",
+                "content": "了解甲骨文、金文、篆文、隶书等字体演变",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "印章制作",
+                "content": "用泥条塑形手法制作姓氏印章",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "阳刻技法",
+                    "content": "将文字刻成凸形",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "阴刻技法",
+                    "content": "将文字刻成凹形",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "我们爱劳动",
+            "content": "表现劳动者形象",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "人物动态观察",
+                "content": "观察劳动时身体各部位的变化",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "黏土人物制作",
+                "content": "用黏土制作劳动人物雕塑",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "骨架制作",
+                    "content": "根据人物动态制作骨架",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "身体塑造",
+                    "content": "用黏土制作人物身体",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "劳作之美",
+            "content": "用剪纸表现劳动场景",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "剪纸特点",
+                "content": "构思巧妙、形式独特、质朴率真",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "剪纸表现方法",
+                "content": "物象合体、多元视角组合、平面同构、时空透叠",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "剪纸制作步骤",
+                "content": "选择纸张、确定构图、剪外部造型、镂刻细节",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第四单元 走进儿童剧",
+        "content": "表演儿童剧，学习戏剧艺术",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "我们的舞台",
+            "content": "准备儿童剧表演",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "故事创编",
+                "content": "用故事接龙等方式创编敬老爱老故事",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "布景制作",
+                "content": "根据剧情制作布景",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "道具制作",
+                "content": "制作表演所需道具",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "服装设计",
+                "content": "设计角色服装",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "走进儿童剧",
+            "content": "了解儿童剧分类和要素",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "儿童剧分类",
+                "content": "历史剧、神话剧、童话剧、科普剧等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "表演形式",
+                "content": "话剧、音乐剧、木偶剧、皮影戏、戏曲等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "儿童剧要素",
+                "content": "导演、演员、剧本、舞台布景、服装化妆道具",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "中国画",
+      "tail": "线条变化",
+      "relation": "具有"
+    },
+    {
+      "head": "定格动画",
+      "tail": "逐帧拍摄",
+      "relation": "基于"
+    },
+    {
+      "head": "人物表情",
+      "tail": "五官变化",
+      "relation": "通过表现"
+    },
+    {
+      "head": "家庭主题",
+      "tail": "剪纸艺术",
+      "relation": "可用表现"
+    },
+    {
+      "head": "姓氏印章",
+      "tail": "泥条塑形",
+      "relation": "通过制作"
+    },
+    {
+      "head": "阳刻",
+      "tail": "阴刻",
+      "relation": "区别于"
+    },
+    {
+      "head": "劳动人物",
+      "tail": "黏土雕塑",
+      "relation": "通过表现"
+    },
+    {
+      "head": "剪纸",
+      "tail": "劳动场景",
+      "relation": "表现"
+    },
+    {
+      "head": "儿童剧",
+      "tail": "敬老爱老",
+      "relation": "表现主题"
+    },
+    {
+      "head": "布景制作",
+      "tail": "剧情需要",
+      "relation": "基于"
+    },
+    {
+      "head": "木偶剧",
+      "tail": "戏剧艺术",
+      "relation": "属于"
+    },
+    {
+      "head": "导演",
+      "tail": "演员表演",
+      "relation": "指导"
+    },
+    {
+      "head": "剧本",
+      "tail": "文字依据",
+      "relation": "作为"
+    },
+    {
+      "head": "舞台布景",
+      "tail": "场景烘托",
+      "relation": "用于"
+    },
+    {
+      "head": "服装化妆",
+      "tail": "角色身份",
+      "relation": "体现"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 18:17:36",
+    "version": "1.1"
+  }
+}

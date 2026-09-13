@@ -1,0 +1,338 @@
+{
+  "knowledge_tree": {
+    "title": "计量经济学",
+    "content": "一门利用统计方法对经济理论进行实证检验的学科，核心是建立和评估经济关系的数学模型。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "回归分析基础",
+        "content": "研究一个变量（因变量）如何依赖于一个或多个其他变量（自变量）的统计方法。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "总体回归函数",
+            "content": "描述在给定自变量下，因变量条件期望的函数，PRF: E(Y|X) = β₀ + β₁X。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "随机扰动项",
+                "content": "包含了所有未纳入模型的、影响因变量的其他因素，记为u。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "PRF的设定",
+                "content": "基于经济理论设定因变量和自变量之间的函数关系形式，通常是线性形式。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "样本回归函数",
+            "content": "根据样本数据对总体回归函数进行的估计，SRF: Ŷ = β̂₀ + β̂₁X。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "残差",
+                "content": "因变量的实际观测值与样本回归函数估计值之间的差，记为e = Y - Ŷ。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "估计量的性质",
+                "content": "评价估计量好坏的标准，如无偏性、有效性和一致性。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "普通最小二乘法",
+            "content": "通过最小化残差平方和来估计回归参数的方法。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "OLS估计公式",
+                "content": "对于一元线性回归，斜率估计量 β̂₁ = Σ[(Xi - X̄)(Yi - Ȳ)] / Σ(Xi - X̄)²，截距估计量 β̂₀ = Ȳ - β̂₁X̄。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "经典线性回归模型假定",
+                "content": "CLRM的系列核心假设，是OLS估计量具有良好统计性质（如BLUE）的基础。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "一元线性回归模型的评估与检验",
+        "content": "对估计的回归模型进行统计显著性、拟合优度等方面的检验。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "拟合优度",
+            "content": "衡量样本回归直线对样本观测值拟合程度的指标。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "总平方和",
+                "content": "TSS = Σ(Yi - Ȳ)²，反映因变量Y的总变异。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "回归平方和",
+                "content": "ESS = Σ(Ŷi - Ȳ)²，反映由模型解释的Y的变异。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "残差平方和",
+                "content": "RSS = Σ(Yi - Ŷi)²，反映未被模型解释的Y的变异。TSS = ESS + RSS。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "判定系数R²",
+                "content": "R² = ESS/TSS，表示模型解释的变异占总变异的比例，取值在0到1之间。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "假设检验",
+            "content": "对回归参数的统计显著性进行检验，常用t检验和F检验。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "参数估计量的抽样分布",
+                "content": "在CLRM假定下，OLS估计量服从正态分布。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "t检验",
+                "content": "用于检验单个回归系数（如β₁）是否显著不等于零（例如H₀: β₁ = 0）。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "F检验",
+                "content": "用于检验模型整体的显著性，即所有斜率系数是否同时为零。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "经典线性回归模型的假定与违背",
+        "content": "讨论当CLRM的基本假设不满足时产生的问题及补救措施。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "异方差性",
+            "content": "随机扰动项的方差随观测值不同而变化，违背了同方差假定。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "异方差的后果",
+                "content": "导致OLS估计量不再是最佳线性无偏估计，标准误估计有误，t检验和F检验失效。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "异方差的检验",
+                "content": "如图示法、怀特检验、BP检验等。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "异方差的处理",
+                "content": "使用加权最小二乘法或计算稳健标准误。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "多重共线性",
+            "content": "多元回归中，自变量之间存在高度线性相关。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "多重共线性的后果",
+                "content": "参数估计值的方差和标准误变大，导致t值不显著，但估计量仍是无偏的。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "多重共线性的诊断与处理",
+                "content": "使用方差膨胀因子诊断，处理办法包括增加样本量、剔除变量、使用主成分回归等。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "虚拟变量回归",
+        "content": "将定性因素（如性别、地区）引入回归模型的方法。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "虚拟变量的设置",
+            "content": "用0和1来表示定性变量的不同类别。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "包含虚拟变量的模型",
+            "content": "如模型设定为 Y = β₀ + β₁X + β₂D + u，其中D为虚拟变量。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "虚拟变量的系数解释",
+            "content": "虚拟变量的系数反映了类别差异对因变量均值的影响。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "计量经济学中常见的习题和考题类型。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "OLS参数计算与解释",
+            "content": "给定数据，计算OLS估计值，并解释其经济含义。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "模型设定与检验",
+            "content": "根据经济理论设定模型，并进行拟合优度、系数显著性等检验。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "违背经典假定的诊断与处理",
+            "content": "判断数据是否存在异方差、多重共线性等问题，并提出解决方案。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "计量经济学",
+      "tail": "回归分析",
+      "relation": "核心方法是"
+    },
+    {
+      "head": "回归分析",
+      "tail": "总体回归函数",
+      "relation": "理论基础是"
+    },
+    {
+      "head": "回归分析",
+      "tail": "样本回归函数",
+      "relation": "实证工具是"
+    },
+    {
+      "head": "总体回归函数",
+      "tail": "随机扰动项",
+      "relation": "包含"
+    },
+    {
+      "head": "样本回归函数",
+      "tail": "普通最小二乘法",
+      "relation": "通过...估计"
+    },
+    {
+      "head": "普通最小二乘法",
+      "tail": "经典线性回归模型假定",
+      "relation": "依赖于"
+    },
+    {
+      "head": "样本回归函数",
+      "tail": "残差",
+      "relation": "产生"
+    },
+    {
+      "head": "拟合优度",
+      "tail": "判定系数R²",
+      "relation": "核心指标是"
+    },
+    {
+      "head": "总平方和",
+      "tail": "回归平方和",
+      "relation": "分解为"
+    },
+    {
+      "head": "总平方和",
+      "tail": "残差平方和",
+      "relation": "分解为"
+    },
+    {
+      "head": "假设检验",
+      "tail": "t检验",
+      "relation": "包括"
+    },
+    {
+      "head": "假设检验",
+      "tail": "F检验",
+      "relation": "包括"
+    },
+    {
+      "head": "经典线性回归模型假定",
+      "tail": "异方差性",
+      "relation": "违背情形之一是"
+    },
+    {
+      "head": "异方差性",
+      "tail": "加权最小二乘法",
+      "relation": "补救措施包括"
+    },
+    {
+      "head": "经典线性回归模型假定",
+      "tail": "多重共线性",
+      "relation": "违背情形之一是"
+    },
+    {
+      "head": "虚拟变量回归",
+      "tail": "定性因素",
+      "relation": "用于引入"
+    },
+    {
+      "head": "普通最小二乘法",
+      "tail": "OLS参数计算与解释",
+      "relation": "应用于"
+    },
+    {
+      "head": "判定系数R²",
+      "tail": "模型设定与检验",
+      "relation": "用于"
+    },
+    {
+      "head": "异方差性",
+      "tail": "违背经典假定的诊断与处理",
+      "relation": "是...的典型问题"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:43:00",
+    "version": "1.1"
+  }
+}

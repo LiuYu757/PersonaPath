@@ -1,0 +1,615 @@
+{
+  "knowledge_tree": {
+    "title": "现代媒体艺术",
+    "content": "高中美术选择性必修课程，涵盖摄影、摄像、数字媒体艺术及交互设计等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "导论",
+        "content": "现代媒体艺术的定义与发展背景",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "艺术与科学的关系",
+            "content": "探讨科技如何拓展艺术创作的可能性",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "人类感知的局限性",
+                "content": "分析人类视觉、听觉等感官的生理限制如何影响艺术创作",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "技术媒介的双重性",
+                "content": "技术设备同时作为生产工具与艺术创作工具的特性",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "新媒介与新材料",
+            "content": "技术进步为艺术提供新的表现材料与手段",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "媒介演进规律",
+                "content": "新媒介从试验探索到规则固化的过程",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "艺术语言的传承",
+                "content": "传统艺术语言在新媒介中的延续与创新",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "屏幕演化史",
+            "content": "从电影、电视到VR的设备演进与观看方式变革",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "大众传播到个人交互",
+                "content": "观看单位从集体到个人的转变过程",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "虚拟现实技术",
+                "content": "VR技术对时空感知的重构",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "摄影的要素与本质",
+        "content": "摄影技术与艺术表现的核心要素",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "摄影技术要素",
+            "content": "光圈、焦距、景深、快门等基本参数",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "光圈控制原理",
+                "content": "光圈数值与进光量的反比关系",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "景深影响因素",
+                "content": "光圈大小、焦距长短对景深的影响",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "快门与动态记录",
+                "content": "快慢门速度对运动轨迹的捕捉效果",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "光线与角度",
+            "content": "不同光线条件下的拍摄效果控制",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "光位分类",
+                "content": "顺光、侧光、逆光等基本光位特点",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "质感表现",
+                "content": "通过光线角度展现物体表面纹理",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "构图方法",
+            "content": "画面组织与视觉秩序构建",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "黄金分割构图",
+                "content": "经典比例分割与九宫格引导线应用",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "对角线构图",
+                "content": "利用几何结构营造视觉动感",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "S形构图",
+                "content": "曲线引导视线与空间纵深感表现",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "图像修辞",
+            "content": "摄影叙事的特殊表现手法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "重复手法",
+                "content": "通过相同元素的重复堆积强化主题",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "仿似手法",
+                "content": "形状相似事物的替换产生趣味性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "象征手法",
+                "content": "用具体物象隐喻抽象概念",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "纪实摄影",
+            "content": "主观选择下的客观记录",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "信息含量理论",
+                "content": "事实信息与情感信息的平衡表达",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "典型性原则",
+                "content": "选择具有代表性的事物进行表达",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "决定性瞬间",
+                "content": "布列松提出的时空最佳结合点理论",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "摄像的媒介与表达",
+        "content": "动态影像的创作方法与叙事逻辑",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "静态到动态的演进",
+            "content": "视觉暂留原理与动态影像发展史",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "视觉暂留现象",
+                "content": "人眼影像保留0.1-0.4秒的生理特性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "时间维度拓展",
+                "content": "摄像对时间进程的完整记录能力",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "景别体系",
+            "content": "不同取景范围的表现功能",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "远景",
+                "content": "表现环境与氛围的大范围取景",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "特写",
+                "content": "突出局部细节的强冲击力取景",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "景别转换逻辑",
+                "content": "不同景别间的衔接与过渡规律",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "镜头运动",
+            "content": "摄影机的运动方式与表现效果",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "推拉镜头",
+                "content": "接近或远离被摄体的纵向运动",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "跟镜头",
+                "content": "跟随运动主体保持相对静止",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "运动稳定性",
+                "content": "使用稳定器保证画面平稳的技术",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "蒙太奇理论",
+            "content": "镜头组接的叙事与表意功能",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "因果关系组接",
+                "content": "动作-反应模式的镜头衔接",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "平行蒙太奇",
+                "content": "同时异地事件的交替叙述",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "声画关系",
+                "content": "声音与画面的同步与对位关系",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "创作流程",
+            "content": "从构思到成片的完整制作过程",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "分镜头脚本",
+                "content": "将文字剧本转化为可视化镜头设计",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "剧组分工",
+                "content": "导演、摄像、录音等岗位的协作关系",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "后期制作",
+                "content": "剪辑、调色、特效等后期处理技术",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "数字媒体艺术",
+        "content": "数字技术条件下的艺术创作手段",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "数字绘画",
+            "content": "计算机辅助的绘画创作方式",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "图层技术",
+                "content": "分层绘制与叠加的数字工作流程",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "数字笔刷",
+                "content": "可调节参数的虚拟绘画工具",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "色彩模式",
+                "content": "RGB与CMYK等色彩系统的应用场景",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数字动画",
+            "content": "无纸化动画制作技术",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "二维动画",
+                "content": "计算机辅助的传统动画制作",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "关键帧动画",
+                    "content": "定义关键动作由软件生成中间画",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "骨骼绑定",
+                    "content": "为角色建立可操控的关节系统",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "三维动画",
+                "content": "虚拟三维空间的动画创作",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "建模技术",
+                    "content": "多边形建模与数字雕刻等方法",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "材质贴图",
+                    "content": "UV展开与纹理映射技术",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "渲染输出",
+                    "content": "光线计算与最终成像处理",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "虚拟现实",
+            "content": "沉浸式体验的创造与感知",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "VR技术原理",
+                "content": "头显设备与空间定位技术",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "交互叙事",
+                "content": "参与者影响叙事发展的创作方式",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "多感官体验",
+                "content": "视觉、听觉、触觉等的综合刺激",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "人工智能与图像",
+            "content": "机器学习在图像处理中的应用",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "图像识别",
+                "content": "计算机视觉的对象识别技术",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "风格迁移",
+                "content": "将艺术风格应用于现有图像",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "生成艺术",
+                "content": "算法自主创作的艺术形式",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "交互式思维方式",
+        "content": "现代科技语境下的创作思维模式",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "用户需求分析",
+            "content": "基于使用场景的设计思考",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "语境分析",
+                "content": "WHO/WHEN/WHERE等要素考量",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "思维导图",
+                "content": "问题分析与解决的视觉化工具",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "创客方法",
+            "content": "从想法到实现的原型制作",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "快速原型",
+                "content": "3D打印、激光切割等快速成型技术",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "单片机应用",
+                "content": "Arduino等开源硬件平台的创作",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "交互乐器设计",
+                "content": "将传感器技术应用于音乐创作",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "现代媒体艺术",
+      "tail": "摄影",
+      "relation": "包含"
+    },
+    {
+      "head": "现代媒体艺术",
+      "tail": "摄像",
+      "relation": "包含"
+    },
+    {
+      "head": "现代媒体艺术",
+      "tail": "数字媒体艺术",
+      "relation": "包含"
+    },
+    {
+      "head": "摄影",
+      "tail": "光圈",
+      "relation": "技术要素"
+    },
+    {
+      "head": "摄影",
+      "tail": "快门",
+      "relation": "技术要素"
+    },
+    {
+      "head": "光圈",
+      "tail": "景深",
+      "relation": "控制"
+    },
+    {
+      "head": "焦距",
+      "tail": "景深",
+      "relation": "影响"
+    },
+    {
+      "head": "摄影构图",
+      "tail": "黄金分割",
+      "relation": "应用"
+    },
+    {
+      "head": "图像修辞",
+      "tail": "象征手法",
+      "relation": "包含"
+    },
+    {
+      "head": "纪实摄影",
+      "tail": "决定性瞬间",
+      "relation": "基于"
+    },
+    {
+      "head": "摄像",
+      "tail": "蒙太奇",
+      "relation": "叙事手段"
+    },
+    {
+      "head": "景别",
+      "tail": "远景",
+      "relation": "包含"
+    },
+    {
+      "head": "景别",
+      "tail": "特写",
+      "relation": "包含"
+    },
+    {
+      "head": "镜头运动",
+      "tail": "推拉镜头",
+      "relation": "包含"
+    },
+    {
+      "head": "数字绘画",
+      "tail": "图层技术",
+      "relation": "基于"
+    },
+    {
+      "head": "数字动画",
+      "tail": "三维建模",
+      "relation": "基于"
+    },
+    {
+      "head": "虚拟现实",
+      "tail": "沉浸式体验",
+      "relation": "创造"
+    },
+    {
+      "head": "人工智能",
+      "tail": "风格迁移",
+      "relation": "实现"
+    },
+    {
+      "head": "交互设计",
+      "tail": "用户需求分析",
+      "relation": "基于"
+    },
+    {
+      "head": "创客方法",
+      "tail": "快速原型",
+      "relation": "运用"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:04:46",
+    "version": "1.1"
+  }
+}

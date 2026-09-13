@@ -1,0 +1,375 @@
+{
+  "knowledge_tree": {
+    "title": "针灸学（新世纪第4版）",
+    "content": "系统阐述经络腧穴理论、刺灸操作技术及针灸治疗规律，是中医学类核心专业课程。",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "经络系统",
+        "content": "运行气血、联系脏腑肢节、沟通内外的通道网络，包括十二经脉、奇经八脉、十五络脉等。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "十二经脉",
+            "content": "手足三阴三阳共十二条主要经脉，具表里属络关系，为针灸辨证归经基础。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "手太阴肺经",
+                "content": "起于中焦，下络大肠，属肺，出腋下，沿上肢内侧前缘至拇指。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "足阳明胃经",
+                "content": "起于鼻，入上齿，环唇，下膈属胃络脾，沿下肢外侧前缘至次趾。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "奇经八脉",
+            "content": "调节十二经气血的八条特殊通道，包括任督冲带等，无表里配合。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "督脉",
+                "content": "行于脊里，上至巅顶，为阳脉之海，主一身阳气。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "任脉",
+                "content": "行于腹胸正中，上至下颌，为阴脉之海，主一身阴气。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "经络的生理功能",
+            "content": "运行气血、濡养周身、抗御外邪、反映病候、传导感应。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "腧穴总论",
+        "content": "脏腑经络气血输注于体表的部位，是针灸防治疾病的刺激点。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "腧穴的分类",
+            "content": "经穴、奇穴、阿是穴三大类。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "腧穴的定位方法",
+            "content": "骨度分寸法、体表标志法、手指同身寸法、简便取穴法。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "骨度分寸法",
+                "content": "以体表骨节为标志，折量全身各部长短，每一等份为1寸。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "特定穴",
+            "content": "具有特殊治疗作用、按特定名称归类的腧穴。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "五输穴",
+                "content": "十二经脉在肘膝以下井荥输经合五类穴位，描述气血由小到大流注状态。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "原穴",
+                "content": "脏腑原气经过留止的部位，十二经各一，主调脏腑虚实。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "络穴",
+                "content": "表里两经联络之穴，十五络脉各一，主调表里经病。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "刺灸方法",
+        "content": "运用不同针具或灸材刺激腧穴以防治疾病的操作技术总称。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "毫针刺法",
+            "content": "以毫针刺激腧穴的最常用刺法，包括持针、进针、行针、补泻、留针、出针全过程。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "进针法",
+                "content": "单手、双手、管针等进针方式，要求无痛或微痛。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "行针手法",
+                "content": "提插、捻转基本手法及辅助手法，用于得气、补泻。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "针刺补泻",
+                "content": "依据经脉虚实，通过手法、深浅、频率等实现补或泻的效应。",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "徐疾补泻",
+                    "content": "徐进疾出为补，疾进徐出为泻。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "灸法",
+            "content": "以艾绒为主要材料烧灼、熏熨体表穴位防治疾病的方法。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "艾炷灸",
+                "content": "将艾绒制成圆锥形艾炷置于穴位施灸，分直接灸与间接灸。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "艾条灸",
+                "content": "用艾条悬起或实按施灸，操作简便，临床常用。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "针刺异常情况",
+            "content": "晕针、滞针、弯针、断针、血肿等的预防与处理。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "针灸治疗总论",
+        "content": "以经络辨证为核心，通过配穴处方、补泻手法达到调和阴阳、扶正祛邪目的。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "辨证纲要",
+            "content": "八纲辨证、脏腑辨证、经络辨证在针灸临床的综合运用。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "配穴方法",
+            "content": "依据病机选择穴位组合的规律。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "近部配穴",
+                "content": "选取病痛局部或邻近腧穴。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "远部配穴",
+                "content": "选取病变经脉远隔部位的腧穴，如四总穴歌。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "辨证对症配穴",
+                "content": "针对具体证候或症状选穴，如发热配大椎、曲池。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "治疗原则",
+            "content": "盛则泻之，虚则补之，热则疾之，寒则留之，陷下则灸之，不盛不虚以经取之。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "常见病证针灸治疗",
+        "content": "内科、妇科、骨伤科等病证的针灸处方与操作要点。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "头痛",
+            "content": "辨经分型：阳明、少阳、太阳、厥阴头痛；处方：百会、风池、合谷、太冲等。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "面瘫",
+            "content": "风寒或风热袭络；处方：地仓、颊车、阳白、四白、合谷（健侧）。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "痛经",
+            "content": "实证用泻法，虚证用补法；处方：三阴交、关元、十七椎、地机。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "考试中常见的题型与解题思路示例。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "经脉循行默写题",
+            "content": "给出起点或终点，默写整条经脉体表循行路线。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "腧穴定位实操题",
+            "content": "在模型或真人身上准确定位指定穴位并说出骨度分寸。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "辨证配穴案例分析题",
+            "content": "提供病情资料，要求写出证型、治则、处方、方义。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "经络系统",
+      "tail": "十二经脉",
+      "relation": "包含"
+    },
+    {
+      "head": "十二经脉",
+      "tail": "手太阴肺经",
+      "relation": "包含"
+    },
+    {
+      "head": "奇经八脉",
+      "tail": "督脉",
+      "relation": "包含"
+    },
+    {
+      "head": "腧穴",
+      "tail": "经穴",
+      "relation": "分类为"
+    },
+    {
+      "head": "五输穴",
+      "tail": "井荥输经合",
+      "relation": "由...组成"
+    },
+    {
+      "head": "原穴",
+      "tail": "脏腑原气",
+      "relation": "输注于"
+    },
+    {
+      "head": "络穴",
+      "tail": "表里经",
+      "relation": "联络"
+    },
+    {
+      "head": "毫针刺法",
+      "tail": "行针手法",
+      "relation": "包含"
+    },
+    {
+      "head": "行针手法",
+      "tail": "提插法",
+      "relation": "包含"
+    },
+    {
+      "head": "针刺补泻",
+      "tail": "徐疾补泻",
+      "relation": "包含"
+    },
+    {
+      "head": "灸法",
+      "tail": "艾炷灸",
+      "relation": "包含"
+    },
+    {
+      "head": "配穴方法",
+      "tail": "近部配穴",
+      "relation": "包含"
+    },
+    {
+      "head": "经络辨证",
+      "tail": "头痛分型",
+      "relation": "应用于"
+    },
+    {
+      "head": "骨度分寸法",
+      "tail": "腧穴定位",
+      "relation": "应用于"
+    },
+    {
+      "head": "辨证配穴案例分析题",
+      "tail": "配穴方法",
+      "relation": "基于"
+    },
+    {
+      "head": "经络系统",
+      "tail": "抗御外邪",
+      "relation": "具有功能"
+    },
+    {
+      "head": "特定穴",
+      "tail": "五输穴",
+      "relation": "包含"
+    },
+    {
+      "head": "针刺补泻",
+      "tail": "虚实辨证",
+      "relation": "依据"
+    },
+    {
+      "head": "痛经",
+      "tail": "三阴交",
+      "relation": "选用穴位"
+    },
+    {
+      "head": "面瘫",
+      "tail": "合谷",
+      "relation": "选用穴位"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 11:38:17",
+    "version": "1.1"
+  }
+}

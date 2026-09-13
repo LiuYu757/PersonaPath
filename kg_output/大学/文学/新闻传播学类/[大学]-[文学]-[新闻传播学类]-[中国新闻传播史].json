@@ -1,0 +1,350 @@
+{
+  "knowledge_tree": {
+    "title": "中国新闻传播史",
+    "content": "研究中国新闻传播事业产生、发展及其演变规律的历史学科",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "古代新闻传播活动",
+        "content": "中国古代社会的信息传播方式与媒介",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "邸报",
+            "content": "中国古代封建社会的政府官报，始于唐代，用于传达朝政信息",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "邸报的内容",
+                "content": "主要刊登皇帝谕旨、臣僚奏章、宫廷动态等信息",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "邸报的传播特点",
+                "content": "只在官僚体系内部传播，具有封闭性和权威性",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "小报",
+            "content": "宋代出现的非官方报纸，内容多为邸报未载或禁止刊发的消息",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "小报的产生背景",
+                "content": "商品经济发展，市民阶层壮大，信息需求增加",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "小报的历史意义",
+                "content": "打破官方对新闻传播的垄断，具有民间舆论色彩",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "近代报刊的兴起",
+        "content": "19世纪外国人在华办报活动及国人自办报刊的出现",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "《察世俗每月统记传》",
+            "content": "1815年马礼逊在马六甲创办的第一份中文近代报刊",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "办报目的",
+                "content": "传播基督教教义，同时介绍西方科学文化",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "历史地位",
+                "content": "标志着中国近代报刊史的开端",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "国人自办报刊",
+            "content": "19世纪70年代起中国人自己创办的报刊",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "王韬与《循环日报》",
+                "content": "1874年在香港创办，以政论著称，宣传变法自强",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "维新派报刊",
+                "content": "康有为、梁启超等创办的《时务报》等，推动维新运动",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "五四时期新闻事业",
+        "content": "新文化运动至五四运动期间的报刊改革与新闻思想发展",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "《新青年》",
+            "content": "陈独秀创办，是新文化运动的主要阵地",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "宣传内容",
+                "content": "提倡民主与科学，反对封建礼教",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "历史作用",
+                "content": "为马克思主义在中国的传播创造条件",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "无产阶级新闻事业的诞生",
+            "content": "中国共产党早期报刊的创办与发展",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "《向导》周报",
+                "content": "中共中央第一份机关报，宣传党的民主革命纲领",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "《热血日报》",
+                "content": "中国共产党创办的第一张日报",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "抗日战争与解放战争时期新闻事业",
+        "content": "战争环境下新闻传播的特点与作用",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "《解放日报》改版",
+            "content": "1942年延安《解放日报》的改革，确立党报原则",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "改版内容",
+                "content": "增强党性、群众性、战斗性、组织性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "历史意义",
+                "content": "奠定了中国无产阶级新闻学理论的基础",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "国统区进步报刊",
+            "content": "在国民党统治区坚持出版的进步报刊",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "《新华日报》",
+                "content": "中国共产党在国统区公开出版的机关报",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "斗争策略",
+                "content": "有理、有利、有节的斗争原则",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "中国新闻传播史",
+      "tail": "古代新闻传播活动",
+      "relation": "包含"
+    },
+    {
+      "head": "中国新闻传播史",
+      "tail": "近代报刊的兴起",
+      "relation": "包含"
+    },
+    {
+      "head": "中国新闻传播史",
+      "tail": "五四时期新闻事业",
+      "relation": "包含"
+    },
+    {
+      "head": "中国新闻传播史",
+      "tail": "抗日战争与解放战争时期新闻事业",
+      "relation": "包含"
+    },
+    {
+      "head": "古代新闻传播活动",
+      "tail": "邸报",
+      "relation": "包含"
+    },
+    {
+      "head": "古代新闻传播活动",
+      "tail": "小报",
+      "relation": "包含"
+    },
+    {
+      "head": "邸报",
+      "tail": "邸报的内容",
+      "relation": "包含"
+    },
+    {
+      "head": "邸报",
+      "tail": "邸报的传播特点",
+      "relation": "包含"
+    },
+    {
+      "head": "小报",
+      "tail": "小报的产生背景",
+      "relation": "由...导致"
+    },
+    {
+      "head": "小报",
+      "tail": "小报的历史意义",
+      "relation": "具有"
+    },
+    {
+      "head": "近代报刊的兴起",
+      "tail": "《察世俗每月统记传》",
+      "relation": "包含"
+    },
+    {
+      "head": "近代报刊的兴起",
+      "tail": "国人自办报刊",
+      "relation": "包含"
+    },
+    {
+      "head": "《察世俗每月统记传》",
+      "tail": "办报目的",
+      "relation": "具有"
+    },
+    {
+      "head": "《察世俗每月统记传》",
+      "tail": "历史地位",
+      "relation": "具有"
+    },
+    {
+      "head": "国人自办报刊",
+      "tail": "王韬与《循环日报》",
+      "relation": "包含"
+    },
+    {
+      "head": "国人自办报刊",
+      "tail": "维新派报刊",
+      "relation": "包含"
+    },
+    {
+      "head": "五四时期新闻事业",
+      "tail": "《新青年》",
+      "relation": "包含"
+    },
+    {
+      "head": "五四时期新闻事业",
+      "tail": "无产阶级新闻事业的诞生",
+      "relation": "包含"
+    },
+    {
+      "head": "《新青年》",
+      "tail": "宣传内容",
+      "relation": "具有"
+    },
+    {
+      "head": "《新青年》",
+      "tail": "历史作用",
+      "relation": "产生"
+    },
+    {
+      "head": "无产阶级新闻事业的诞生",
+      "tail": "《向导》周报",
+      "relation": "包含"
+    },
+    {
+      "head": "无产阶级新闻事业的诞生",
+      "tail": "《热血日报》",
+      "relation": "包含"
+    },
+    {
+      "head": "抗日战争与解放战争时期新闻事业",
+      "tail": "《解放日报》改版",
+      "relation": "包含"
+    },
+    {
+      "head": "抗日战争与解放战争时期新闻事业",
+      "tail": "国统区进步报刊",
+      "relation": "包含"
+    },
+    {
+      "head": "《解放日报》改版",
+      "tail": "改版内容",
+      "relation": "包含"
+    },
+    {
+      "head": "《解放日报》改版",
+      "tail": "历史意义",
+      "relation": "具有"
+    },
+    {
+      "head": "国统区进步报刊",
+      "tail": "《新华日报》",
+      "relation": "包含"
+    },
+    {
+      "head": "国统区进步报刊",
+      "tail": "斗争策略",
+      "relation": "采用"
+    },
+    {
+      "head": "邸报",
+      "tail": "小报",
+      "relation": "催生"
+    },
+    {
+      "head": "近代报刊的兴起",
+      "tail": "五四时期新闻事业",
+      "relation": "发展为"
+    },
+    {
+      "head": "五四时期新闻事业",
+      "tail": "抗日战争与解放战争时期新闻事业",
+      "relation": "影响"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:22:37",
+    "version": "1.1"
+  }
+}

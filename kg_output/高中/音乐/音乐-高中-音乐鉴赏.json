@@ -1,0 +1,299 @@
+{
+  "knowledge_tree": {
+    "title": "高中音乐鉴赏",
+    "content": "涵盖音乐基础知识、中外音乐作品鉴赏、音乐文化与历史等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "音乐基础知识",
+        "content": "音乐要素、音乐语言、音乐情感与情绪等基本概念",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "音乐要素",
+            "content": "包括节奏、节拍、力度、速度、旋律、调式、音阶、和声、曲式、织体、音色等",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "节奏",
+                "content": "音乐运动中音的长短和强弱",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "节拍",
+                "content": "有重音和无重音的相同时间片段按照一定次序循环重复",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "旋律",
+                "content": "高低起伏的乐音按一定的节奏有秩序地横向组织起来",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音乐语言",
+            "content": "凭借音乐的形式要素来表现人类情感的艺术手段",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "音乐情感与情绪",
+            "content": "音乐对人情绪的影响和情感体验",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "中国音乐",
+        "content": "中国各民族音乐、民间器乐、戏曲音乐等内容",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "民歌",
+            "content": "中国各民族民歌的分类和特征",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "汉族民歌",
+                "content": "号子、山歌、小调等体裁",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "号子",
+                    "content": "产生并应用于劳动，具有协调与指挥劳动实际功用的民间歌曲",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "山歌",
+                    "content": "多在户外演唱，曲调高亢嘹亮，节奏自由悠长",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "少数民族民歌",
+                "content": "蒙古族、藏族、维吾尔族、侗族等少数民族民歌特征",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "民间器乐",
+            "content": "鼓吹乐、打溜子、吹歌、江南丝竹、广东音乐等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "京剧",
+            "content": "京剧行当、流派、音乐及现代戏发展",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "京剧行当",
+                "content": "生、旦、净、丑四大行当",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "京剧音乐",
+                "content": "板腔体结构，以二黄和西皮为主要声腔",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "西方音乐",
+        "content": "西方音乐发展历程及各时期代表作曲家与作品",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "巴洛克时期",
+            "content": "复调音乐发展高峰时期",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "巴赫",
+                "content": "复调音乐集大成者，代表作品《勃兰登堡协奏曲》《平均律钢琴曲集》",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "古典主义时期",
+            "content": "奏鸣曲式确立和交响曲发展",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "莫扎特",
+                "content": "歌剧《费加罗的婚礼》等作品",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "贝多芬",
+                "content": "九部交响曲，特别是《第九交响曲》",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "浪漫主义时期",
+            "content": "个性情感表达和民族乐派兴起",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "舒伯特",
+                "content": "艺术歌曲创作，如《鳟鱼》",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "肖邦",
+                "content": "钢琴音乐创作，如夜曲、练习曲",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "世界民族音乐",
+        "content": "亚洲、非洲、欧洲、拉丁美洲等地区民族音乐特征",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "亚洲音乐",
+            "content": "印度、中国、日本等音乐文化区",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "非洲音乐",
+            "content": "节奏复杂多变，鼓乐重要地位",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "音乐与社会",
+        "content": "音乐功能、音乐与社会文化的关系",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "音乐的功能",
+            "content": "审美功能、认识教育功能、娱乐功能",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "音乐与影视",
+            "content": "影视音乐的发展及功能",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "音乐要素",
+      "tail": "节奏",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐要素",
+      "tail": "旋律",
+      "relation": "包含"
+    },
+    {
+      "head": "汉族民歌",
+      "tail": "号子",
+      "relation": "包含"
+    },
+    {
+      "head": "汉族民歌",
+      "tail": "山歌",
+      "relation": "包含"
+    },
+    {
+      "head": "京剧",
+      "tail": "京剧行当",
+      "relation": "包含"
+    },
+    {
+      "head": "京剧",
+      "tail": "京剧音乐",
+      "relation": "包含"
+    },
+    {
+      "head": "西方音乐",
+      "tail": "巴洛克时期",
+      "relation": "包含"
+    },
+    {
+      "head": "西方音乐",
+      "tail": "古典主义时期",
+      "relation": "包含"
+    },
+    {
+      "head": "巴赫",
+      "tail": "勃兰登堡协奏曲",
+      "relation": "创作"
+    },
+    {
+      "head": "莫扎特",
+      "tail": "费加罗的婚礼",
+      "relation": "创作"
+    },
+    {
+      "head": "贝多芬",
+      "tail": "第九交响曲",
+      "relation": "创作"
+    },
+    {
+      "head": "音乐",
+      "tail": "音乐情感",
+      "relation": "表现"
+    },
+    {
+      "head": "节奏",
+      "tail": "节拍",
+      "relation": "组织依据"
+    },
+    {
+      "head": "旋律",
+      "tail": "调式",
+      "relation": "基于"
+    },
+    {
+      "head": "二黄",
+      "tail": "西皮",
+      "relation": "并列声腔"
+    },
+    {
+      "head": "奏鸣曲式",
+      "tail": "交响曲",
+      "relation": "常用于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:04:14",
+    "version": "1.1"
+  }
+}

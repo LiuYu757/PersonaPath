@@ -1,0 +1,953 @@
+{
+  "knowledge_tree": {
+    "title": "工程材料与机械制造基础",
+    "content": "本课程涵盖工程材料的基本性能、组织结构、热处理原理以及常见机械制造工艺的基础知识。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "工程材料的性能",
+        "content": "材料在外界条件（载荷、环境）作用下所表现出的行为，是零件设计和选材的依据。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "力学性能",
+            "content": "材料在载荷作用下抵抗变形和破坏的能力。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "强度",
+                "content": "材料抵抗永久变形和断裂的能力。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "屈服强度",
+                    "content": "材料开始产生明显塑性变形时的应力值，记为σs或σ0.2。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "抗拉强度",
+                    "content": "材料在拉伸断裂前所能承受的最大应力值，记为σb。",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "塑性",
+                "content": "材料在断裂前发生不可逆永久变形的能力。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "断后伸长率",
+                    "content": "试样拉断后标距的伸长量与原始标距的百分比，记为δ。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "断面收缩率",
+                    "content": "试样拉断后颈缩处横截面积的最大缩减量与原始横截面积的百分比，记为ψ。",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "硬度",
+                "content": "材料抵抗局部塑性变形，特别是压痕或划痕的能力。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "布氏硬度",
+                    "content": "用一定直径的硬质合金球压头，在规定的试验力下压入材料表面，保持规定时间后，测量压痕直径计算出的硬度值，记为HBW。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "洛氏硬度",
+                    "content": "用金刚石圆锥或钢球压头，先施加初试验力，再施加主试验力，然后卸除主试验力，根据压痕深度增量计算的硬度值，记为HR。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "物理性能",
+            "content": "材料固有的属性，如密度、熔点、热膨胀系数、导电性、磁性等。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "化学性能",
+            "content": "材料抵抗周围介质化学作用的能力，如耐腐蚀性、抗氧化性。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "金属的晶体结构与结晶",
+        "content": "介绍金属原子在空间的排列方式以及液态金属转变为固态晶体的过程。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "晶体结构的基本概念",
+            "content": "原子在三维空间呈周期性规则排列的固体。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "晶格",
+                "content": "抽象化表示原子排列规律的空间几何格子。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "晶胞",
+                "content": "能代表晶格结构特征的最小几何单元。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "常见的金属晶体结构",
+            "content": "金属中常见的三种典型晶体结构。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "体心立方晶格",
+                "content": "晶胞立方体的八个顶角和中心各有一个原子，如α-Fe, Cr, W。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "面心立方晶格",
+                "content": "晶胞立方体的八个顶角和六个面的中心各有一个原子，如γ-Fe, Al, Cu, Au。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "密排六方晶格",
+                "content": "晶胞为六棱柱体，上下底面中心及12个顶角各有一个原子，内部有3个原子，如Mg, Zn, Cd。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "金属的结晶",
+            "content": "液态金属转变为固态晶体的过程。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "过冷度",
+                "content": "理论结晶温度与实际结晶温度之差，是结晶的驱动力。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "结晶过程",
+                "content": "包括形核（晶核形成）和长大（晶核长大）两个基本过程。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "铁碳合金相图",
+        "content": "表示在极其缓慢的冷却条件下，不同成分的铁碳合金在不同温度下所具有的组织状态的图形，是研究钢铁材料的基础。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "铁碳合金的基本相",
+            "content": "铁碳合金在固态下出现的基本组织组成物。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "铁素体",
+                "content": "碳溶于α-Fe中形成的间隙固溶体，用符号F或α表示，强度和硬度低，塑性和韧性好。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "奥氏体",
+                "content": "碳溶于γ-Fe中形成的间隙固溶体，用符号A或γ表示，塑性好，是大多数钢种进行高温压力加工的理想组织。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "渗碳体",
+                "content": "铁与碳形成的金属化合物，化学式为Fe3C，硬度高，脆性大，塑性几乎为零。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "相图中的重要特性点与线",
+            "content": "相图中具有特定意义的温度点、成分点以及相区分界线。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "共晶点（C点）",
+                "content": "成分为4.3%C的液态铁碳合金在1148°C时发生共晶反应，生成奥氏体和渗碳体的机械混合物（莱氏体）。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "共析点（S点）",
+                "content": "成分为0.77%C的奥氏体在727°C时发生共析反应，生成铁素体和渗碳体的机械混合物（珠光体）。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "ES线（Acm线）",
+                "content": "碳在奥氏体中的溶解度曲线。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "典型铁碳合金的平衡结晶过程及组织",
+            "content": "根据含碳量对铁碳合金进行分类，并分析其冷却过程中的组织转变。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "工业纯铁（C%<0.0218%）",
+                "content": "室温组织为铁素体。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "共析钢（C%=0.77%）",
+                "content": "室温组织为珠光体（P）。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "亚共析钢（0.0218%<C%<0.77%）",
+                "content": "室温组织为铁素体和珠光体（F+P）。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "过共析钢（0.77%<C%<2.11%）",
+                "content": "室温组织为珠光体和二次渗碳体（P+Fe3CII）。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "钢的热处理",
+        "content": "采用适当的方式对金属材料或工件进行加热、保温和冷却，以获得预期的组织结构与性能的工艺。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "钢在加热时的转变",
+            "content": "主要是珠光体向奥氏体的转变（奥氏体化）。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "奥氏体的形成",
+                "content": "包括形核、长大、残余渗碳体溶解和奥氏体成分均匀化四个阶段。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "奥氏体晶粒度",
+                "content": "指奥氏体晶粒的大小，影响钢热处理后的性能。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "钢在冷却时的转变",
+            "content": "过冷奥氏体在不同冷却速度下发生的组织转变。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "过冷奥氏体等温转变曲线（C曲线/TTT曲线）",
+                "content": "描述过冷奥氏体在不同温度下等温保持时，转变开始和转变结束时间与温度的关系曲线。",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "珠光体转变（高温转变）",
+                "content": "发生在A1~550°C，扩散型转变，产物为珠光体、索氏体、屈氏体。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "贝氏体转变（中温转变）",
+                "content": "发生在550°C~Ms，半扩散型转变，产物为上贝氏体和下贝氏体。",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "马氏体转变（低温转变）",
+                "content": "发生在Ms以下，非扩散型转变，产物为马氏体，具有高硬度。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "退火与正火",
+            "content": "以缓慢速度冷却的热处理工艺，主要用于预备热处理。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "完全退火",
+                "content": "加热至Ac3以上30~50°C，保温后随炉冷却，用于细化晶粒，消除内应力，降低硬度。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "球化退火",
+                "content": "加热至Ac1附近，长时间保温后缓慢冷却，使渗碳体球化，降低硬度，改善切削加工性。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "正火",
+                "content": "加热至Ac3或Accm以上30~50°C，保温后在空气中冷却，强度、硬度比退火件略高。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "淬火与回火",
+            "content": "获得高硬度组织并调整其性能的最终热处理工艺。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "淬火",
+                "content": "将钢加热到奥氏体化温度后，以大于临界冷却速度快速冷却，获得马氏体或贝氏体组织。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "回火",
+                "content": "将淬火后的钢件加热到Ac1以下某一温度，保温后冷却，以消除内应力，稳定组织，调整性能。",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "低温回火（150~250°C）",
+                    "content": "得到回火马氏体，保持高硬度，降低内应力和脆性。",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "中温回火（350~500°C）",
+                    "content": "得到回火屈氏体，具有高的弹性极限和屈服强度。",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "高温回火（500~650°C）",
+                    "content": "得到回火索氏体，具有良好的综合力学性能（强度、塑性、韧性）。淬火+高温回火又称调质处理。",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "常用工程材料",
+        "content": "介绍机械制造中常用的金属材料及非金属材料。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "碳钢",
+            "content": "含碳量0.0218%~2.11%的铁碳合金。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "碳钢的分类",
+                "content": "按含碳量分为低碳钢（C%<0.25%）、中碳钢（0.25%≤C%≤0.6%）、高碳钢（C%>0.6%）。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "碳钢的牌号与用途",
+                "content": "如Q235表示屈服强度为235MPa的碳素结构钢，广泛用于建筑、桥梁等。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "合金钢",
+            "content": "为改善钢的某些性能，在碳钢基础上特意加入一种或多种合金元素的钢。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "合金元素的作用",
+                "content": "强化铁素体、形成合金碳化物、细化晶粒、提高淬透性、提高回火稳定性等。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "合金结构钢",
+                "content": "用于制造重要工程结构和机器零件，如40Cr, 20CrMnTi。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "合金工具钢",
+                "content": "用于制造刀具、量具、模具，如Cr12MoV（冷作模具钢），W18Cr4V（高速钢）。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "铸铁",
+            "content": "含碳量大于2.11%的铁碳合金。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "灰铸铁",
+                "content": "碳主要以片状石墨形式存在，断口呈暗灰色，铸造性能和切削加工性能好，减震性好。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "球墨铸铁",
+                "content": "碳主要以球状石墨形式存在，强度、塑性和韧性远高于灰铸铁。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "机械制造工艺基础",
+        "content": "介绍将材料制成零件或产品的各种加工方法的原理和特点。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "铸造",
+            "content": "将熔融金属浇入铸型型腔，凝固后获得一定形状和性能的零件或毛坯的成形方法。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "砂型铸造",
+                "content": "用型砂紧实成铸型并进行浇注的铸造方法，适应性广，成本低。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "铸造缺陷",
+                "content": "如缩孔、缩松、气孔、夹砂、冷隔等。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "塑性加工",
+            "content": "利用金属的塑性，使其在外力作用下成形的方法。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "锻造",
+                "content": "在锻压设备及工模具的作用下，使坯料产生塑性变形，以获得所需几何形状、尺寸和质量的锻件。",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "自由锻",
+                    "content": "用简单的通用性工具，或在锻造设备的上、下砧铁之间直接使坯料变形。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "模锻",
+                    "content": "利用模具使坯料变形而获得锻件。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "冲压",
+                "content": "利用冲模使板料产生分离或塑性变形，以获得所需形状和尺寸的工件。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "焊接",
+            "content": "通过加热或加压，或两者并用，使两个分离的物体产生原子间结合，连接成一体的成形方法。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电弧焊",
+                "content": "利用电弧作为热源的熔焊方法。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "焊接接头组织与性能",
+                "content": "包括焊缝区、熔合区、热影响区和母材区，性能不均匀。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "切削加工",
+            "content": "利用切削刀具从工件上切除多余材料，以获得所需几何形状、尺寸精度和表面质量的加工方法。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "车削",
+                "content": "工件旋转为主运动，车刀作进给运动。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "铣削",
+                "content": "铣刀旋转为主运动，工件或铣刀作进给运动。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "切削要素",
+                "content": "包括切削速度、进给量、背吃刀量（切削深度）。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "工程材料的性能",
+      "tail": "力学性能",
+      "relation": "包含"
+    },
+    {
+      "head": "力学性能",
+      "tail": "强度",
+      "relation": "包含"
+    },
+    {
+      "head": "强度",
+      "tail": "屈服强度",
+      "relation": "包含"
+    },
+    {
+      "head": "强度",
+      "tail": "抗拉强度",
+      "relation": "包含"
+    },
+    {
+      "head": "力学性能",
+      "tail": "塑性",
+      "relation": "包含"
+    },
+    {
+      "head": "塑性",
+      "tail": "断后伸长率",
+      "relation": "量化表征"
+    },
+    {
+      "head": "塑性",
+      "tail": "断面收缩率",
+      "relation": "量化表征"
+    },
+    {
+      "head": "力学性能",
+      "tail": "硬度",
+      "relation": "包含"
+    },
+    {
+      "head": "硬度",
+      "tail": "布氏硬度",
+      "relation": "测量方法之一"
+    },
+    {
+      "head": "硬度",
+      "tail": "洛氏硬度",
+      "relation": "测量方法之一"
+    },
+    {
+      "head": "金属的晶体结构与结晶",
+      "tail": "晶体结构的基本概念",
+      "relation": "包含"
+    },
+    {
+      "head": "晶体结构的基本概念",
+      "tail": "晶格",
+      "relation": "包含"
+    },
+    {
+      "head": "晶体结构的基本概念",
+      "tail": "晶胞",
+      "relation": "包含"
+    },
+    {
+      "head": "金属的晶体结构与结晶",
+      "tail": "常见的金属晶体结构",
+      "relation": "包含"
+    },
+    {
+      "head": "常见的金属晶体结构",
+      "tail": "体心立方晶格",
+      "relation": "包含"
+    },
+    {
+      "head": "常见的金属晶体结构",
+      "tail": "面心立方晶格",
+      "relation": "包含"
+    },
+    {
+      "head": "常见的金属晶体结构",
+      "tail": "密排六方晶格",
+      "relation": "包含"
+    },
+    {
+      "head": "金属的晶体结构与结晶",
+      "tail": "金属的结晶",
+      "relation": "包含"
+    },
+    {
+      "head": "金属的结晶",
+      "tail": "过冷度",
+      "relation": "驱动力"
+    },
+    {
+      "head": "金属的结晶",
+      "tail": "结晶过程",
+      "relation": "包含"
+    },
+    {
+      "head": "结晶过程",
+      "tail": "形核",
+      "relation": "包含"
+    },
+    {
+      "head": "结晶过程",
+      "tail": "长大",
+      "relation": "包含"
+    },
+    {
+      "head": "铁碳合金相图",
+      "tail": "铁碳合金的基本相",
+      "relation": "描述"
+    },
+    {
+      "head": "铁碳合金的基本相",
+      "tail": "铁素体",
+      "relation": "包含"
+    },
+    {
+      "head": "铁碳合金的基本相",
+      "tail": "奥氏体",
+      "relation": "包含"
+    },
+    {
+      "head": "铁碳合金的基本相",
+      "tail": "渗碳体",
+      "relation": "包含"
+    },
+    {
+      "head": "铁碳合金相图",
+      "tail": "相图中的重要特性点与线",
+      "relation": "包含"
+    },
+    {
+      "head": "相图中的重要特性点与线",
+      "tail": "共晶点（C点）",
+      "relation": "包含"
+    },
+    {
+      "head": "相图中的重要特性点与线",
+      "tail": "共析点（S点）",
+      "relation": "包含"
+    },
+    {
+      "head": "相图中的重要特性点与线",
+      "tail": "ES线（Acm线）",
+      "relation": "包含"
+    },
+    {
+      "head": "铁碳合金相图",
+      "tail": "典型铁碳合金的平衡结晶过程及组织",
+      "relation": "用于分析"
+    },
+    {
+      "head": "典型铁碳合金的平衡结晶过程及组织",
+      "tail": "工业纯铁",
+      "relation": "包含"
+    },
+    {
+      "head": "典型铁碳合金的平衡结晶过程及组织",
+      "tail": "共析钢",
+      "relation": "包含"
+    },
+    {
+      "head": "典型铁碳合金的平衡结晶过程及组织",
+      "tail": "亚共析钢",
+      "relation": "包含"
+    },
+    {
+      "head": "典型铁碳合金的平衡结晶过程及组织",
+      "tail": "过共析钢",
+      "relation": "包含"
+    },
+    {
+      "head": "钢的热处理",
+      "tail": "钢在加热时的转变",
+      "relation": "包含"
+    },
+    {
+      "head": "钢在加热时的转变",
+      "tail": "奥氏体的形成",
+      "relation": "核心过程"
+    },
+    {
+      "head": "钢在加热时的转变",
+      "tail": "奥氏体晶粒度",
+      "relation": "影响参数"
+    },
+    {
+      "head": "钢的热处理",
+      "tail": "钢在冷却时的转变",
+      "relation": "包含"
+    },
+    {
+      "head": "钢在冷却时的转变",
+      "tail": "过冷奥氏体等温转变曲线",
+      "relation": "理论基础"
+    },
+    {
+      "head": "钢在冷却时的转变",
+      "tail": "珠光体转变",
+      "relation": "包含"
+    },
+    {
+      "head": "钢在冷却时的转变",
+      "tail": "贝氏体转变",
+      "relation": "包含"
+    },
+    {
+      "head": "钢在冷却时的转变",
+      "tail": "马氏体转变",
+      "relation": "包含"
+    },
+    {
+      "head": "钢的热处理",
+      "tail": "退火与正火",
+      "relation": "包含"
+    },
+    {
+      "head": "退火与正火",
+      "tail": "完全退火",
+      "relation": "包含"
+    },
+    {
+      "head": "退火与正火",
+      "tail": "球化退火",
+      "relation": "包含"
+    },
+    {
+      "head": "退火与正火",
+      "tail": "正火",
+      "relation": "包含"
+    },
+    {
+      "head": "钢的热处理",
+      "tail": "淬火与回火",
+      "relation": "包含"
+    },
+    {
+      "head": "淬火与回火",
+      "tail": "淬火",
+      "relation": "包含"
+    },
+    {
+      "head": "淬火与回火",
+      "tail": "回火",
+      "relation": "包含"
+    },
+    {
+      "head": "回火",
+      "tail": "低温回火",
+      "relation": "包含"
+    },
+    {
+      "head": "回火",
+      "tail": "中温回火",
+      "relation": "包含"
+    },
+    {
+      "head": "回火",
+      "tail": "高温回火",
+      "relation": "包含"
+    },
+    {
+      "head": "淬火",
+      "tail": "回火",
+      "relation": "通常后续进行"
+    },
+    {
+      "head": "常用工程材料",
+      "tail": "碳钢",
+      "relation": "包含"
+    },
+    {
+      "head": "碳钢",
+      "tail": "碳钢的分类",
+      "relation": "包含"
+    },
+    {
+      "head": "碳钢",
+      "tail": "碳钢的牌号与用途",
+      "relation": "包含"
+    },
+    {
+      "head": "常用工程材料",
+      "tail": "合金钢",
+      "relation": "包含"
+    },
+    {
+      "head": "合金钢",
+      "tail": "合金元素的作用",
+      "relation": "基于"
+    },
+    {
+      "head": "合金钢",
+      "tail": "合金结构钢",
+      "relation": "包含"
+    },
+    {
+      "head": "合金钢",
+      "tail": "合金工具钢",
+      "relation": "包含"
+    },
+    {
+      "head": "常用工程材料",
+      "tail": "铸铁",
+      "relation": "包含"
+    },
+    {
+      "head": "铸铁",
+      "tail": "灰铸铁",
+      "relation": "包含"
+    },
+    {
+      "head": "铸铁",
+      "tail": "球墨铸铁",
+      "relation": "包含"
+    },
+    {
+      "head": "机械制造工艺基础",
+      "tail": "铸造",
+      "relation": "包含"
+    },
+    {
+      "head": "铸造",
+      "tail": "砂型铸造",
+      "relation": "常用方法"
+    },
+    {
+      "head": "铸造",
+      "tail": "铸造缺陷",
+      "relation": "可能导致"
+    },
+    {
+      "head": "机械制造工艺基础",
+      "tail": "塑性加工",
+      "relation": "包含"
+    },
+    {
+      "head": "塑性加工",
+      "tail": "锻造",
+      "relation": "包含"
+    },
+    {
+      "head": "锻造",
+      "tail": "自由锻",
+      "relation": "包含"
+    },
+    {
+      "head": "锻造",
+      "tail": "模锻",
+      "relation": "包含"
+    },
+    {
+      "head": "塑性加工",
+      "tail": "冲压",
+      "relation": "包含"
+    },
+    {
+      "head": "机械制造工艺基础",
+      "tail": "焊接",
+      "relation": "包含"
+    },
+    {
+      "head": "焊接",
+      "tail": "电弧焊",
+      "relation": "常用方法"
+    },
+    {
+      "head": "焊接",
+      "tail": "焊接接头组织与性能",
+      "relation": "影响"
+    },
+    {
+      "head": "机械制造工艺基础",
+      "tail": "切削加工",
+      "relation": "包含"
+    },
+    {
+      "head": "切削加工",
+      "tail": "车削",
+      "relation": "包含"
+    },
+    {
+      "head": "切削加工",
+      "tail": "铣削",
+      "relation": "包含"
+    },
+    {
+      "head": "切削加工",
+      "tail": "切削要素",
+      "relation": "包含"
+    },
+    {
+      "head": "铁碳合金相图",
+      "tail": "钢的热处理",
+      "relation": "理论基础"
+    },
+    {
+      "head": "金属的晶体结构",
+      "tail": "材料的力学性能",
+      "relation": "决定因素之一"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:04:34",
+    "version": "1.1"
+  }
+}

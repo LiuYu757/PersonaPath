@@ -1,0 +1,312 @@
+{
+  "knowledge_tree": {
+    "title": "管理信息系统",
+    "content": "管理信息系统是一个由人、计算机硬件、软件、网络通信设备和其他办公设备组成的人机交互系统，其主要功能是进行信息的收集、传递、存储、加工、维护和使用。它支持一个组织的决策、协调和控制，并帮助分析问题、创建新产品和服务。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "信息系统的基本概念",
+        "content": "理解信息系统的定义、组成和基本功能。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "数据的定义",
+            "content": "数据是记录客观事物的、可鉴别的符号，是信息的原材料。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "信息的定义",
+            "content": "信息是经过加工处理并对人类客观行为产生影响的、具有价值的数据。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "信息的属性",
+            "content": "包括事实性、时效性、不完全性、等级性（战略级、战术级、作业级）、变换性、价值性等。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "系统的定义",
+            "content": "系统是由相互联系、相互作用的若干组成部分结合而成的具有特定功能的有机整体。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "系统的特性",
+            "content": "包括整体性、目的性、相关性、环境适应性等。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "管理信息系统的结构",
+        "content": "管理信息系统的组成框架，描述了系统各部分的相互关系。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "概念结构",
+            "content": "从概念上分为四大部件：信息源、信息处理器、信息用户和信息管理者。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "功能结构",
+            "content": "按组织职能划分，如市场销售、生产、供应、人事、财务、信息处理、高层管理等子系统。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "软件结构",
+            "content": "用于支持不同管理层次的软件模块的组成，如事务处理、管理控制、战略管理等。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "硬件结构",
+            "content": "系统的物理设备配置及其网络拓扑结构。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "管理信息系统的技术基础",
+        "content": "支撑管理信息系统运行的关键技术。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "数据处理技术",
+            "content": "包括数据收集、转换、分类、排序、计算、存储、检索、传输和输出等操作。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "数据库技术",
+            "content": "数据库是以一定方式储存在一起、能为多个用户共享、具有尽可能小的冗余度、与应用程序彼此独立的数据集合。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "数据库管理系统（DBMS）",
+                "content": "DBMS是操纵和管理数据库的大型软件，用于建立、使用和维护数据库。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "数据模型",
+                "content": "包括层次模型、网状模型、关系模型和面向对象模型等。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "关系数据库规范化理论",
+                "content": "通过范式（如1NF, 2NF, 3NF, BCNF）来消除数据冗余和操作异常。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "计算机网络",
+            "content": "将地理位置不同的具有独立功能的多台计算机及其外部设备，通过通信线路连接起来，实现资源共享和信息传递。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "网络拓扑结构",
+                "content": "如总线型、星型、环型、树型、网状型等。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "OSI参考模型与TCP/IP协议族",
+                "content": "网络通信的标准框架和核心协议。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "信息系统的开发方法",
+        "content": "构建管理信息系统的系统性方法与过程。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "结构化系统开发方法（生命周期法）",
+            "content": "采用自顶向下、逐步求精的方式，将系统开发过程分为系统规划、系统分析、系统设计、系统实施、系统运行与维护五个阶段。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "原型法",
+            "content": "快速构建一个可运行的系统原型，通过与用户反复交互来明确需求，逐步完善系统。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "面向对象方法",
+            "content": "以对象为中心，利用封装、继承、多态等机制进行系统分析与设计。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "CASE工具",
+            "content": "计算机辅助软件工程工具，用于支持系统开发过程。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "管理信息系统课程中常见的题目类型。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "概念辨析题",
+            "content": "例如：区分数据与信息，解释系统的特性。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "系统分析设计题",
+            "content": "例如：为某个业务场景绘制数据流图（DFD）或实体关系图（ERD）。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "数据库设计题",
+            "content": "例如：给定需求，设计关系模式并将其规范化到第三范式（3NF）。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "案例分析题",
+            "content": "例如：分析某个企业信息系统成功或失败的原因，并提出改进建议。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "管理信息系统",
+      "tail": "信息系统的基本概念",
+      "relation": "包含"
+    },
+    {
+      "head": "信息系统的基本概念",
+      "tail": "数据的定义",
+      "relation": "包含"
+    },
+    {
+      "head": "信息系统的基本概念",
+      "tail": "信息的定义",
+      "relation": "包含"
+    },
+    {
+      "head": "信息系统的基本概念",
+      "tail": "系统的定义",
+      "relation": "包含"
+    },
+    {
+      "head": "信息的定义",
+      "tail": "数据的定义",
+      "relation": "基于"
+    },
+    {
+      "head": "信息的定义",
+      "tail": "信息的属性",
+      "relation": "具有"
+    },
+    {
+      "head": "管理信息系统",
+      "tail": "管理信息系统的结构",
+      "relation": "包含"
+    },
+    {
+      "head": "管理信息系统的结构",
+      "tail": "概念结构",
+      "relation": "包含"
+    },
+    {
+      "head": "管理信息系统的结构",
+      "tail": "功能结构",
+      "relation": "包含"
+    },
+    {
+      "head": "管理信息系统",
+      "tail": "管理信息系统的技术基础",
+      "relation": "依赖于"
+    },
+    {
+      "head": "管理信息系统的技术基础",
+      "tail": "数据库技术",
+      "relation": "包含"
+    },
+    {
+      "head": "数据库技术",
+      "tail": "关系数据库规范化理论",
+      "relation": "包含"
+    },
+    {
+      "head": "关系数据库规范化理论",
+      "tail": "数据库设计题",
+      "relation": "应用于"
+    },
+    {
+      "head": "管理信息系统的技术基础",
+      "tail": "计算机网络",
+      "relation": "包含"
+    },
+    {
+      "head": "管理信息系统",
+      "tail": "信息系统的开发方法",
+      "relation": "构建方法为"
+    },
+    {
+      "head": "信息系统的开发方法",
+      "tail": "结构化系统开发方法",
+      "relation": "包含"
+    },
+    {
+      "head": "结构化系统开发方法",
+      "tail": "系统分析设计题",
+      "relation": "应用于"
+    },
+    {
+      "head": "管理信息系统",
+      "tail": "典型例题类型",
+      "relation": "包含考核类型"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "案例分析题",
+      "relation": "包含"
+    },
+    {
+      "head": "系统分析设计题",
+      "tail": "数据流图（DFD）",
+      "relation": "使用工具为"
+    },
+    {
+      "head": "系统分析设计题",
+      "tail": "实体关系图（ERD）",
+      "relation": "使用工具为"
+    },
+    {
+      "head": "数据库设计题",
+      "tail": "实体关系图（ERD）",
+      "relation": "使用工具为"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:36:11",
+    "version": "1.1"
+  }
+}

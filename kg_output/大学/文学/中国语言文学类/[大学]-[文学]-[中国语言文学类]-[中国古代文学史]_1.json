@@ -1,0 +1,290 @@
+{
+  "knowledge_tree": {
+    "title": "中国古代文学史",
+    "content": "涵盖明代至晚清文学发展历程，包括诗文、小说、戏曲等文体演变与代表作品",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "第七编 明代文学",
+        "content": "明代政治经济环境下的文学发展，雅俗文学消长与流派意识形成",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "明代诗文",
+            "content": "明初至晚明诗文演变，包括台阁体、前后七子、性灵派等流派",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "明前中期诗文",
+                "content": "明初诗文复古倾向，成化至隆庆年间流派更迭",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "明初诗文",
+                    "content": "高启、刘基等代表作家，延续元末文风",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "台阁体",
+                    "content": "永乐至成化年间以杨士奇为代表的馆阁诗文风格",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "晚明诗文",
+                "content": "公安派、竟陵派兴起，小品文繁荣",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "公安派",
+                    "content": "袁宏道等人主张独抒性灵，不拘格套",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "晚明小品文",
+                    "content": "张岱等人创作的短篇散文，体现生活情趣",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "明代小说",
+            "content": "章回小说成熟与世情小说兴起，四大奇书为代表",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《三国志演义》",
+                "content": "历史演义小说开山之作，描写三国时期政治军事斗争",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "成书与版本",
+                    "content": "罗贯中在民间传说基础上加工创作，有嘉靖本等版本",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "文化内涵",
+                    "content": "体现忠义观念与政治智慧，尊刘抑曹倾向",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《水浒传》",
+                "content": "英雄传奇代表作，描写梁山好汉起义故事",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "结构特点",
+                    "content": "链式结构连接好汉故事，聚义后转为线性叙事",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "主旨争议",
+                    "content": "对招安主题的不同解读，反映社会矛盾",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "世情小说",
+                "content": "描写世俗人情的长篇小说",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "《金瓶梅》",
+                    "content": "第一部由文人独立创作的世情小说，以西门庆家族为中心",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "审美特征",
+                    "content": "写实手法描绘市井生活，突破传统英雄传奇模式",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第八编 清前中期文学",
+        "content": "康乾盛世至鸦片战争前文学发展，古典文学集大成时期",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "清初诗文",
+            "content": "遗民诗人与国朝诗人并存，词坛中兴",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "遗民诗人",
+                "content": "顾炎武、黄宗羲等坚持民族气节的诗人",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "江左三大家",
+                "content": "钱谦益、吴伟业、龚鼎孳代表清初诗坛新变",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "古典小说高峰",
+            "content": "《聊斋志异》《儒林外史》《红楼梦》成就突出",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "《聊斋志异》",
+                "content": "蒲松龄创作的文言短篇小说集，借狐鬼讽喻现实",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "创作特征",
+                    "content": "用传奇法而以志怪，花妖狐魅具人情味",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《儒林外史》",
+                "content": "吴敬梓创作的讽刺小说，揭露科举制度弊端",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "结构特点",
+                    "content": "虽云长篇颇同短制，没有贯穿全书的中心人物",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "明代文学",
+      "tail": "明代诗文",
+      "relation": "包含"
+    },
+    {
+      "head": "明代文学",
+      "tail": "明代小说",
+      "relation": "包含"
+    },
+    {
+      "head": "明代小说",
+      "tail": "《三国志演义》",
+      "relation": "包含"
+    },
+    {
+      "head": "明代小说",
+      "tail": "《水浒传》",
+      "relation": "包含"
+    },
+    {
+      "head": "明代小说",
+      "tail": "世情小说",
+      "relation": "包含"
+    },
+    {
+      "head": "世情小说",
+      "tail": "《金瓶梅》",
+      "relation": "代表作品"
+    },
+    {
+      "head": "清前中期文学",
+      "tail": "清初诗文",
+      "relation": "包含"
+    },
+    {
+      "head": "清前中期文学",
+      "tail": "古典小说高峰",
+      "relation": "包含"
+    },
+    {
+      "head": "古典小说高峰",
+      "tail": "《聊斋志异》",
+      "relation": "包含"
+    },
+    {
+      "head": "古典小说高峰",
+      "tail": "《儒林外史》",
+      "relation": "包含"
+    },
+    {
+      "head": "《三国志演义》",
+      "tail": "历史演义小说",
+      "relation": "开创"
+    },
+    {
+      "head": "《水浒传》",
+      "tail": "英雄传奇",
+      "relation": "代表"
+    },
+    {
+      "head": "《金瓶梅》",
+      "tail": "世情小说",
+      "relation": "确立审美特征"
+    },
+    {
+      "head": "公安派",
+      "tail": "性灵说",
+      "relation": "主张"
+    },
+    {
+      "head": "《聊斋志异》",
+      "tail": "文言小说",
+      "relation": "复兴"
+    },
+    {
+      "head": "《儒林外史》",
+      "tail": "讽刺小说",
+      "relation": "代表"
+    },
+    {
+      "head": "八股文",
+      "tail": "科举制度",
+      "relation": "应用于"
+    },
+    {
+      "head": "汤显祖",
+      "tail": "《牡丹亭》",
+      "relation": "创作"
+    },
+    {
+      "head": "前后七子",
+      "tail": "诗文复古",
+      "relation": "倡导"
+    },
+    {
+      "head": "桐城派",
+      "tail": "清中叶散文",
+      "relation": "代表流派"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:10:31",
+    "version": "1.1"
+  }
+}

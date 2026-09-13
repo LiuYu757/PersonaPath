@@ -1,0 +1,166 @@
+{
+  "knowledge_tree": {
+    "title": "国际贸易理论与政策",
+    "content": "研究国际贸易产生原因、模式、利益分配及政府干预措施的经济学分支",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "国际贸易理论基础",
+        "content": "解释国际贸易产生原因和利益来源的基本理论框架",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "古典贸易理论",
+            "content": "以劳动价值论为基础，强调劳动生产率差异决定贸易模式",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "绝对优势理论",
+                "content": "亚当·斯密提出，各国专门生产具有绝对成本优势的产品进行交换",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "绝对优势定义",
+                    "content": "一国生产某种产品的单位劳动投入低于另一国",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "贸易利益来源",
+                    "content": "通过专业化分工提高世界总产量",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "比较优势理论",
+                "content": "大卫·李嘉图提出，即使一国在所有产品上都具有绝对优势，也能通过比较优势从贸易中获益",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "比较优势原理",
+                    "content": "一国应专门生产其机会成本较低的产品",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "比较优势公式",
+                    "content": "机会成本=放弃的一种产品产量/获得的另一种产品产量",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "新古典贸易理论",
+            "content": "基于要素禀赋差异解释贸易模式的理论体系",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "赫克歇尔-俄林模型",
+                "content": "各国出口密集使用其丰裕要素生产的产品，进口密集使用其稀缺要素生产的产品",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "要素禀赋定义",
+                    "content": "一国拥有的生产要素的相对比例",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "要素密集度",
+                    "content": "产品生产中不同要素的投入比例",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "斯托尔珀-萨缪尔森定理",
+                "content": "贸易开放会提高丰裕要素的实际收入，降低稀缺要素的实际收入",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "新贸易理论",
+            "content": "解释产业内贸易和规模经济作用的理论",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "规模经济贸易理论",
+                "content": "规模报酬递增是贸易的重要动因",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "产品生命周期理论",
+                "content": "产品在不同发展阶段其比较优势会发生动态变化",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "国际贸易政策工具",
+        "content": "政府干预国际贸易的各种措施和手段",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "关税措施",
+            "content": "对进口商品征收的税收",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "从量关税",
+                "content": "按进口商品的实物数量征收固定税额",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "从价关税",
+                "content": "按进口商品的价值百分比征收",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "关税的经济效应",
+                "content": "包括价格效应、消费效应、生产效应和财政收入效应",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "非关税壁垒",
+            "content": "除关税外限制进口的各种措施",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "进口配额",
+                "content": "直接限制进口数量",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "自愿出口限制",
+                "content": "出口国"
+              }
+            ]
+          },
+          "triplets"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "generated_at": "2025-11-18 19:38:21",
+    "version": "1.1"
+  }
+}

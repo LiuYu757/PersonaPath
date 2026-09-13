@@ -1,0 +1,415 @@
+{
+  "knowledge_tree": {
+    "title": "经济博弈论",
+    "content": "研究决策主体的行为发生直接相互作用时的决策以及这种决策的均衡问题",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "博弈论基本概念",
+        "content": "博弈论的基本要素和分类",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "博弈的定义",
+            "content": "多个决策主体在相互影响下的策略选择过程",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "博弈的基本要素",
+            "content": "参与者、策略、支付、信息、均衡",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "参与者",
+                "content": "博弈中的决策主体",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "策略空间",
+                "content": "参与者可供选择的所有策略的集合",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "支付函数",
+                "content": "参与者选择特定策略组合下的收益",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "博弈的分类",
+            "content": "按不同标准对博弈进行分类",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "合作博弈与非合作博弈",
+                "content": "是否允许参与者达成有约束力的协议",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "静态博弈与动态博弈",
+                "content": "参与者行动的时间顺序",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "完全信息与不完全信息博弈",
+                "content": "参与者对其他参与者支付函数的了解程度",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "纳什均衡",
+        "content": "博弈论中最核心的均衡概念",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "纳什均衡的定义",
+            "content": "在给定其他参与者策略的情况下，每个参与者都选择最优策略的状态",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "纯策略纳什均衡",
+            "content": "参与者以概率1选择某个特定策略的纳什均衡",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "混合策略纳什均衡",
+            "content": "参与者以一定概率分布选择策略的纳什均衡",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "纳什均衡的求解方法",
+            "content": "包括划线法、最优反应函数法等",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "经典博弈模型",
+        "content": "经济学中重要的博弈模型",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "囚徒困境",
+            "content": "个人理性与集体理性冲突的典型模型",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "囚徒困境的支付矩阵",
+                "content": "展示合作与背叛的收益结构",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "囚徒困境的均衡分析",
+                "content": "纳什均衡与帕累托最优的比较",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "智猪博弈",
+            "content": "搭便车行为的博弈分析",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "性别战博弈",
+            "content": "协调博弈的典型例子",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "斗鸡博弈",
+            "content": "冒险与妥协的博弈分析",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "动态博弈",
+        "content": "考虑时间顺序的博弈分析",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "扩展式博弈",
+            "content": "用博弈树表示的多阶段博弈",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "博弈树的构成要素",
+                "content": "决策节点、信息集、分支、终点结",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "子博弈精炼纳什均衡",
+            "content": "塞尔顿提出的动态博弈均衡概念",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "逆向归纳法",
+            "content": "求解有限完美信息动态博弈的方法",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "重复博弈",
+        "content": "同一博弈重复进行的情形",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "有限次重复博弈",
+            "content": "重复次数有限的博弈",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "无限次重复博弈",
+            "content": "重复次数无限或不确定的博弈",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "无名氏定理",
+            "content": "重复博弈中合作可能性的重要定理",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "不完全信息博弈",
+        "content": "参与者信息不对称的博弈分析",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "贝叶斯博弈",
+            "content": "引入参与者类型的博弈框架",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "贝叶斯纳什均衡",
+            "content": "不完全信息博弈的均衡概念",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "信号博弈",
+            "content": "通过行动传递私人信息的博弈",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "经济博弈论",
+      "tail": "博弈论基本概念",
+      "relation": "包含"
+    },
+    {
+      "head": "博弈论基本概念",
+      "tail": "博弈的基本要素",
+      "relation": "包含"
+    },
+    {
+      "head": "博弈的基本要素",
+      "tail": "参与者",
+      "relation": "包含"
+    },
+    {
+      "head": "博弈的基本要素",
+      "tail": "策略空间",
+      "relation": "包含"
+    },
+    {
+      "head": "博弈的基本要素",
+      "tail": "支付函数",
+      "relation": "包含"
+    },
+    {
+      "head": "博弈的分类",
+      "tail": "合作博弈与非合作博弈",
+      "relation": "包含"
+    },
+    {
+      "head": "博弈的分类",
+      "tail": "静态博弈与动态博弈",
+      "relation": "包含"
+    },
+    {
+      "head": "博弈的分类",
+      "tail": "完全信息与不完全信息博弈",
+      "relation": "包含"
+    },
+    {
+      "head": "经济博弈论",
+      "tail": "纳什均衡",
+      "relation": "核心概念"
+    },
+    {
+      "head": "纳什均衡",
+      "tail": "纯策略纳什均衡",
+      "relation": "包含"
+    },
+    {
+      "head": "纳什均衡",
+      "tail": "混合策略纳什均衡",
+      "relation": "包含"
+    },
+    {
+      "head": "纳什均衡",
+      "tail": "纳什均衡的求解方法",
+      "relation": "应用"
+    },
+    {
+      "head": "经济博弈论",
+      "tail": "经典博弈模型",
+      "relation": "包含"
+    },
+    {
+      "head": "经典博弈模型",
+      "tail": "囚徒困境",
+      "relation": "典型例子"
+    },
+    {
+      "head": "囚徒困境",
+      "tail": "囚徒困境的支付矩阵",
+      "relation": "由...表示"
+    },
+    {
+      "head": "囚徒困境",
+      "tail": "囚徒困境的均衡分析",
+      "relation": "包含"
+    },
+    {
+      "head": "经典博弈模型",
+      "tail": "智猪博弈",
+      "relation": "典型例子"
+    },
+    {
+      "head": "经典博弈模型",
+      "tail": "性别战博弈",
+      "relation": "典型例子"
+    },
+    {
+      "head": "经典博弈模型",
+      "tail": "斗鸡博弈",
+      "relation": "典型例子"
+    },
+    {
+      "head": "经济博弈论",
+      "tail": "动态博弈",
+      "relation": "包含"
+    },
+    {
+      "head": "动态博弈",
+      "tail": "扩展式博弈",
+      "relation": "基于"
+    },
+    {
+      "head": "扩展式博弈",
+      "tail": "博弈树的构成要素",
+      "relation": "包含"
+    },
+    {
+      "head": "动态博弈",
+      "tail": "子博弈精炼纳什均衡",
+      "relation": "核心概念"
+    },
+    {
+      "head": "动态博弈",
+      "tail": "逆向归纳法",
+      "relation": "求解方法"
+    },
+    {
+      "head": "经济博弈论",
+      "tail": "重复博弈",
+      "relation": "包含"
+    },
+    {
+      "head": "重复博弈",
+      "tail": "有限次重复博弈",
+      "relation": "包含"
+    },
+    {
+      "head": "重复博弈",
+      "tail": "无限次重复博弈",
+      "relation": "包含"
+    },
+    {
+      "head": "重复博弈",
+      "tail": "无名氏定理",
+      "relation": "重要定理"
+    },
+    {
+      "head": "经济博弈论",
+      "tail": "不完全信息博弈",
+      "relation": "包含"
+    },
+    {
+      "head": "不完全信息博弈",
+      "tail": "贝叶斯博弈",
+      "relation": "基于"
+    },
+    {
+      "head": "不完全信息博弈",
+      "tail": "贝叶斯纳什均衡",
+      "relation": "核心概念"
+    },
+    {
+      "head": "不完全信息博弈",
+      "tail": "信号博弈",
+      "relation": "特殊形式"
+    },
+    {
+      "head": "纳什均衡",
+      "tail": "博弈的均衡分析",
+      "relation": "应用于"
+    },
+    {
+      "head": "支付函数",
+      "tail": "博弈结果",
+      "relation": "决定"
+    },
+    {
+      "head": "策略空间",
+      "tail": "参与者的选择范围",
+      "relation": "定义"
+    },
+    {
+      "head": "逆向归纳法",
+      "tail": "子博弈精炼纳什均衡",
+      "relation": "求解"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:42:03",
+    "version": "1.1"
+  }
+}

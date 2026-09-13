@@ -1,0 +1,929 @@
+{
+  "knowledge_tree": {
+    "title": "机械制造技术基础",
+    "content": "系统介绍零件成形方法、加工装备、工艺设计与质量控制",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "零件成形原理",
+        "content": "按质量变化Δm分为减材、等材、增材三类",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "减材制造（Δm<0）",
+            "content": "以切削加工为主，通过去除材料获得形状",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "等材制造（Δm=0）",
+            "content": "铸造、锻造、模具成形，质量不变仅形状改变",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "增材制造（Δm>0）",
+            "content": "RP/3D打印，逐层累加材料成形",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "机械加工方法",
+        "content": "车、铣、刨、磨、钻、镗、齿面加工及复杂曲面数控联动加工",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "车削",
+            "content": "工件旋转作主运动，刀具进给，精度IT8-IT7，Ra 6.3-1.6μm",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "铣削",
+            "content": "刀具旋转作主运动，分顺铣/逆铣，精度IT8-IT7，Ra 6.3-0.8μm",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "磨削",
+            "content": "砂轮高速旋转，精度IT7-IT5，Ra 1.6-0.025μm，可淬硬工件终加工",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "特种加工",
+        "content": "利用电、光、化学能等去除材料，用于难加工材料与复杂结构",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "电火花加工（EDM）",
+            "content": "脉冲放电熔蚀材料，分成形与线切割两类",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "激光加工",
+            "content": "高能激光束瞬时熔蚀，可加工高硬脆材料，非接触、无切削力",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "高压水射流",
+            "content": "纯水或加磨料水射流，冷态切割无热影响区",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "金属切削原理与刀具",
+        "content": "研究切削过程规律、刀具结构与材料、切削力/热/磨损等",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "切削运动与三要素",
+            "content": "主运动、进给运动；切削速度v、进给量f、背吃刀量ap",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "刀具角度",
+            "content": "前角γo、后角αo、主偏角κr、副偏角κ′r、刃倾角λs",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "刀具材料",
+            "content": "高速钢、硬质合金、陶瓷、PCBN、金刚石，要求硬、耐热、强韧",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "切削力与功率",
+            "content": "Fz主切削力、Fx进给力、Fy背向力；Pm=Fz·v·10⁻³ kW",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "刀具磨损与寿命",
+            "content": "月牙洼、后刀面磨损；磨钝标准VB；寿命经验式vTᵐ=C",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "高速切削",
+            "content": "v>500 m/min，切削力下降，切屑带走热量多，需高刚性刀柄",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "金属切削机床",
+        "content": "实现切削运动的装备，含主传动、进给、支承、控制等系统",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "机床型号编制",
+            "content": "GB/T 15375-2008：类代号+通用特性+组系代号+主参数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "主轴部件",
+            "content": "要求旋转精度、刚度、抗振、温升低；轴承配置与预紧",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "导轨",
+            "content": "滑动、滚动、静压；要求导向精度、刚度、耐磨、低速平稳",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "数控机床",
+            "content": "CNC控制多轴联动，含开环/闭环/半闭环伺服，直线电机高速进给",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "高速加工机床",
+            "content": "电主轴≥10000 r/min，进给≥60 m/min，加速度1-8 g，需热对称结构",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "机床夹具原理",
+        "content": "定位+夹紧，使工件获得正确位置并抵抗切削力",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "六点定位原理",
+            "content": "用6个支承点限制工件6个自由度，实现完全定位",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "定位误差Δdw",
+            "content": "Δdw=Δjb+Δjw；基准不重合误差+基准位移误差",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "典型夹紧机构",
+            "content": "斜楔、螺旋、偏心；扩力比ip，自锁条件α<φ1+φ2",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "专用/组合/成组夹具",
+            "content": "专用精度高；组合元件通用；成组针对相似零件快速调整",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "工艺规程设计",
+        "content": "制订从毛坯到成品的工艺路线及工序内容",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "工序与工步",
+            "content": "工序：连续完成的一部分工艺；工步：表面、刀具、用量不变",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "加工余量与工序尺寸",
+            "content": "余量由经验表或计算法确定；工序尺寸用“倒推法”计算",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "数控工艺特点",
+            "content": "一次装夹多工序集中，需刀具路径优化与碰撞检查",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "技术经济分析",
+            "content": "比较工艺成本：C=材料费+工时费+刀具夹具折旧，选最低方案",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "机械制造质量分析与控制",
+        "content": "研究加工精度与表面质量的获得与控制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "加工精度构成",
+            "content": "尺寸、形状、位置精度；误差源：机床、夹具、刀具、变形、测量",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "误差统计分析",
+            "content": "分布曲线法、点图法；6σ≤公差带；Cp=T/6σ≥1.33",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "表面质量指标",
+            "content": "Ra、Rz；加工硬化、残余应力；影响疲劳与耐蚀性能",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "振动与抑振",
+            "content": "强迫振动：频率匹配；自激振动：切削稳定性图，阻尼减振",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "课程常见计算与综合分析题型归纳",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "切削力计算",
+            "content": "用指数公式Fz=CFz·ap^x·f^y·v^n·KFz，查表代入求力与功率",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "定位误差计算",
+            "content": "V形块、心轴、一面两孔定位，求Δdw并判断δ≥Δdw+Δ加工",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "工艺尺寸链",
+            "content": "余量校核、工序尺寸“倒推”，用极值法解尺寸链",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "经济精度选择",
+            "content": "按表选Ra与IT等级，匹配加工方法：粗车→半精车→磨",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第一章 机械加工工艺规程设计",
+        "content": "指导零件从毛坯到成品的加工路线、方法、设备、工装及参数的技术文件",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "1.1 工艺规程基本概念",
+            "content": "定义、作用、与工艺过程、生产类型的关系",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "1.2 设计步骤与原始资料",
+            "content": "分析图样→确定毛坯→拟定路线→选择设备/工装→计算余量/尺寸→确定切削用量→技术经济分析→填写文件",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "1.3 定位基准选择",
+            "content": "粗基准、精基准、辅助基准的选择原则与实例",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "基准重合原则",
+                "content": "定位基准与设计基准重合，减少基准不重合误差",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "统一基准原则",
+                "content": "多工序采用同一基准，保证位置精度",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "互为基准原则",
+                "content": "反复加工、互为基准，提高同轴度等精度",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "自为基准原则",
+                "content": "以加工面本身定位，保证余量均匀",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "1.4 加工方法选择",
+            "content": "依据表面形状、精度、粗糙度、材料、批量、现场条件选择经济加工方案",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "外圆表面方案",
+                "content": "车→磨→超精；经济精度IT6-IT13，Ra0.025-3.2μm",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "内孔表面方案",
+                "content": "钻→扩→铰→镗→磨→珩；经济精度IT6-IT11，Ra0.2-3.2μm",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "平面方案",
+                "content": "铣→刨→磨→刮；经济精度IT5-IT11，Ra0.025-6.3μm",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "1.5 加工阶段划分",
+            "content": "粗→半精→精→光整；目的：消除应力、合理使用设备、便于热处理、发现缺陷",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "1.6 工序集中与分散",
+            "content": "集中：一次装夹完成多面加工，适合数控、单件小批；分散：设备简单、调整方便，适合大批大量",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "1.7 加工顺序安排",
+            "content": "先粗后精、先主后次、先基面后其它、先面后孔；热处理、检验、辅助工序穿插",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "1.8 机床与工装选择",
+            "content": "与工序内容、尺寸、精度、功率、批量相适应；需专用设备时提出设计任务书",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第二章 加工余量与工序尺寸",
+        "content": "保证合格成品所需切除的金属层厚度及每道工序尺寸链计算",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "2.1 加工余量概念",
+            "content": "总余量=各工序余量之和；双边/单边；公称、最大、最小余量",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "2.2 影响余量因素",
+            "content": "上工序表面粗糙度Ry、破坏层Da、尺寸公差Ta、形位误差ρa、本工序安装误差εb",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "2.3 余量确定方法",
+            "content": "计算法、经验估计法、查表法（最常用）",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "2.4 工序尺寸计算",
+            "content": "基准重合时反推；基准转换时用工艺尺寸链；孔系坐标换算",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "工艺尺寸链",
+                "content": "封闭环、组成环、增环、减环；极值法与概率法",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "极值法",
+                    "content": "T0≥ΣTi；用于单件小批",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "概率法",
+                    "content": "T0≥√ΣTi²；用于大批大量，可放大组成环公差",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "图表追迹法",
+                "content": "追踪设计尺寸与余量的形成路线，建立尺寸链组，整体计算公差与余量",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "2.5 典型例题",
+            "content": "主轴箱孔系、内孔键槽、套筒轴向尺寸链计算",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第三章 数控加工工艺",
+        "content": "以数控机床为载体，通过程序控制实现高效、柔性、精密加工",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "3.1 数控加工特点",
+            "content": "工序集中、自动换刀、多轴联动、复杂曲面能力、程序控制",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "3.2 工艺分析步骤",
+            "content": "零件图样→结构工艺性→毛坯→加工方法→机床/夹具→工艺路线→刀轨→参数→仿真",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "3.2.1 加工方法选择",
+                "content": "旋转体→数控车；孔系→钻/镗/加工中心；平面/简单曲面→数控铣；空间曲面→五轴联动",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "3.2.2 刀轨规划原则",
+                "content": "短路线、少换刀、一次轮廓、避免干涉、合理起刀/退刀",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "3.2.3 切削用量",
+                "content": "粗加工：大ap、大f、合理v；精加工：小ap、小f、高v",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "3.3 整体叶轮案例",
+            "content": "车削雏形→五轴铣流道/叶片→工艺孔定位→CAM自动编程→Vericut仿真→后处理G代码",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第四章 机械加工质量分析",
+        "content": "从精度与表面质量两方面控制零件使用性能",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "4.1 加工精度概念",
+            "content": "尺寸、形状、位置精度；加工误差；经济精度",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "4.2 原始误差分析",
+            "content": "原理、机床、夹具、刀具、测量、受力、受热、内应力",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "4.2.1 机床误差",
+                "content": "导轨直线度、扭曲、主轴回转误差、传动链误差",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "4.2.2 工艺系统刚度",
+                "content": "k=F/y；接触变形、薄弱零件、间隙、摩擦；影响形状误差",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "4.2.3 热变形",
+                "content": "热源：切削热、摩擦热、环境温度；措施：热对称、空运转、冷却、恒温",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "4.2.4 内应力",
+                "content": "铸造、冷校直、切削引起；时效处理、合理结构",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.3 误差统计分析",
+            "content": "分布曲线法、点图法；系统/随机误差；工艺能力系数Cp=T/6σ",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "4.3.1 正态分布",
+                "content": "±3σ原则；合格率计算；非正态分布的K、α系数",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "4.3.2 x-R控制图",
+                "content": "判断工艺稳定性；异常波动标志",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.4 表面质量",
+            "content": "粗糙度、波度、冷硬、金相组织、残余应力；对耐磨、疲劳、耐蚀、配合的影响",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "4.4.1 切削表面粗糙度",
+                "content": "残留面积、刀瘤、鳞刺；v、f、γo、冷却",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "4.4.2 磨削表面质量",
+                "content": "烧伤、裂纹、残余拉应力；砂轮粒度、修整、速度、冷却",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "4.4.3 控制途径",
+                "content": "优化磨削参数、光整加工（超精、珩磨、研磨、抛光）、表面强化（喷丸、滚压）",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.5 振动基本概念",
+            "content": "强迫振动、自激振动（颤振）；频率、减振措施",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第五章 机器装配工艺",
+        "content": "将合格零件组装成部件与整机的最终制造阶段",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "5.1 装配精度与方法",
+            "content": "互换法、选配法、修配法、调整法；装配尺寸链",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "5.1.1 互换法",
+                "content": "完全互换：T0≥ΣTi；不完全互换：T0≥√ΣTi²",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "5.1.2 修配法",
+                "content": "预留修配量，刮、研、锉；选择易拆、非公共环作修配件",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "5.1.3 调整法",
+                "content": "可动补偿件、固定补偿件；分组垫片、误差抵消",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.2 装配工艺规程",
+            "content": "装配单元系统图、工艺流程图、工序卡片；节拍、流水、固定装配",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "5.3 典型实例",
+            "content": "车床主轴箱、尾座等高、齿轮啮合间隙、垫片分组调整计算",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第六章 技术经济分析与工艺文件",
+        "content": "时间定额、工艺成本、经济方案评比",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "6.1 时间定额",
+            "content": "T单件=T基本+T辅助+T服务+T休息+T准终/N；成批生产考虑准备终结时间",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "6.2 工艺成本",
+            "content": "S=NV+C；单件Si=V+C/N；临界产量Nc=(C2-C1)/(V1-V2)",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "6.3 工艺文件格式",
+            "content": "综合工艺过程卡片、机械加工工艺卡片、工序卡片；典型工艺、工艺守则",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "零件成形原理",
+      "tail": "机械加工方法",
+      "relation": "包含"
+    },
+    {
+      "head": "减材制造",
+      "tail": "车削",
+      "relation": "包含"
+    },
+    {
+      "head": "减材制造",
+      "tail": "铣削",
+      "relation": "包含"
+    },
+    {
+      "head": "减材制造",
+      "tail": "磨削",
+      "relation": "包含"
+    },
+    {
+      "head": "特种加工",
+      "tail": "电火花加工",
+      "relation": "包含"
+    },
+    {
+      "head": "特种加工",
+      "tail": "激光加工",
+      "relation": "包含"
+    },
+    {
+      "head": "切削运动",
+      "tail": "主运动",
+      "relation": "包含"
+    },
+    {
+      "head": "切削运动",
+      "tail": "进给运动",
+      "relation": "包含"
+    },
+    {
+      "head": "刀具角度",
+      "tail": "前角",
+      "relation": "包含"
+    },
+    {
+      "head": "刀具角度",
+      "tail": "后角",
+      "relation": "包含"
+    },
+    {
+      "head": "刀具角度",
+      "tail": "主偏角",
+      "relation": "包含"
+    },
+    {
+      "head": "刀具材料",
+      "tail": "高速钢",
+      "relation": "包含"
+    },
+    {
+      "head": "刀具材料",
+      "tail": "硬质合金",
+      "relation": "包含"
+    },
+    {
+      "head": "刀具磨损",
+      "tail": "磨钝标准",
+      "relation": "决定"
+    },
+    {
+      "head": "刀具寿命",
+      "tail": "切削速度",
+      "relation": "受...影响最大"
+    },
+    {
+      "head": "高速切削",
+      "tail": "刀具材料",
+      "relation": "要求更高"
+    },
+    {
+      "head": "机床",
+      "tail": "主轴部件",
+      "relation": "组成"
+    },
+    {
+      "head": "机床",
+      "tail": "导轨",
+      "relation": "组成"
+    },
+    {
+      "head": "数控机床",
+      "tail": "伺服系统",
+      "relation": "包含"
+    },
+    {
+      "head": "伺服系统",
+      "tail": "开环控制",
+      "relation": "包含"
+    },
+    {
+      "head": "伺服系统",
+      "tail": "闭环控制",
+      "relation": "包含"
+    },
+    {
+      "head": "六点定位原理",
+      "tail": "完全定位",
+      "relation": "实现"
+    },
+    {
+      "head": "六点定位原理",
+      "tail": "过定位",
+      "relation": "可能产生"
+    },
+    {
+      "head": "定位误差",
+      "tail": "基准不重合误差",
+      "relation": "包含"
+    },
+    {
+      "head": "定位误差",
+      "tail": "基准位移误差",
+      "relation": "包含"
+    },
+    {
+      "head": "夹紧机构",
+      "tail": "斜楔夹紧",
+      "relation": "包含"
+    },
+    {
+      "head": "夹紧机构",
+      "tail": "螺旋夹紧",
+      "relation": "包含"
+    },
+    {
+      "head": "工艺规程",
+      "tail": "工序",
+      "relation": "组成"
+    },
+    {
+      "head": "工序",
+      "tail": "工步",
+      "relation": "组成"
+    },
+    {
+      "head": "加工余量",
+      "tail": "工序尺寸",
+      "relation": "决定"
+    },
+    {
+      "head": "加工精度",
+      "tail": "表面质量",
+      "relation": "共同构成质量"
+    },
+    {
+      "head": "误差统计分析",
+      "tail": "工序能力指数",
+      "relation": "用于评价"
+    },
+    {
+      "head": "工艺规程",
+      "relation": "包含",
+      "tail": "工序"
+    },
+    {
+      "head": "工序",
+      "relation": "包含",
+      "tail": "工步"
+    },
+    {
+      "head": "工步",
+      "relation": "包含",
+      "tail": "走刀"
+    },
+    {
+      "head": "定位基准",
+      "relation": "分为",
+      "tail": "粗基准"
+    },
+    {
+      "head": "定位基准",
+      "relation": "分为",
+      "tail": "精基准"
+    },
+    {
+      "head": "加工余量",
+      "relation": "由...组成",
+      "tail": "工序余量"
+    },
+    {
+      "head": "工艺尺寸链",
+      "relation": "用于",
+      "tail": "工序尺寸计算"
+    },
+    {
+      "head": "封闭环",
+      "relation": "由...间接保证",
+      "tail": "组成环"
+    },
+    {
+      "head": "数控加工",
+      "relation": "采用",
+      "tail": "CAM自动编程"
+    },
+    {
+      "head": "CAM自动编程",
+      "relation": "生成",
+      "tail": "G代码"
+    },
+    {
+      "head": "加工精度",
+      "relation": "受...影响",
+      "tail": "原始误差"
+    },
+    {
+      "head": "原始误差",
+      "relation": "分为",
+      "tail": "系统误差"
+    },
+    {
+      "head": "原始误差",
+      "relation": "分为",
+      "tail": "随机误差"
+    },
+    {
+      "head": "表面粗糙度",
+      "relation": "受...影响",
+      "tail": "刀瘤"
+    },
+    {
+      "head": "磨削烧伤",
+      "relation": "由...引起",
+      "tail": "磨削热"
+    },
+    {
+      "head": "装配尺寸链",
+      "relation": "用于",
+      "tail": "装配方法选择"
+    },
+    {
+      "head": "互换法",
+      "relation": "要求",
+      "tail": "T0≥ΣTi"
+    },
+    {
+      "head": "修配法",
+      "relation": "需要",
+      "tail": "预留修配量"
+    },
+    {
+      "head": "时间定额",
+      "relation": "用于",
+      "tail": "生产计划与成本核算"
+    },
+    {
+      "head": "工艺成本",
+      "relation": "分为",
+      "tail": "可变费用"
+    },
+    {
+      "head": "工艺成本",
+      "relation": "分为",
+      "tail": "不变费用"
+    }
+  ],
+  "metadata": {
+    "chunks_merged": 2,
+    "generated_at": "2025-11-18 22:14:56",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "knowledge_tree": {
+    "title": "理论力学",
+    "content": "理论力学是研究物体机械运动基本规律的学科，主要包括质点力学、质点系力学、刚体力学和分析力学等内容。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "质点力学",
+        "content": "研究质点的运动规律，包括运动学和动力学。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "质点运动学",
+            "content": "描述质点的位置、速度、加速度等运动状态，不涉及力的作用。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "位置矢量",
+                "content": "质点在空间中的位置用矢量表示，通常记为r。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "速度",
+                "content": "位置矢量对时间的一阶导数，v = dr/dt。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "加速度",
+                "content": "速度对时间的一阶导数或位置矢量对时间的二阶导数，a = dv/dt = d²r/dt²。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "直角坐标系中的运动描述",
+                "content": "在直角坐标系中，位置、速度、加速度可分解为x, y, z三个方向的分量。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "自然坐标系中的运动描述",
+                "content": "沿质点运动轨迹建立切向和法向坐标系，用于描述曲线运动。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "质点动力学",
+            "content": "研究质点运动状态变化与作用力之间的关系。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "牛顿第一定律",
+                "content": "惯性定律：物体在不受外力作用时，保持静止或匀速直线运动状态。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "牛顿第二定律",
+                "content": "物体的加速度与所受合外力成正比，与质量成反比，方向与合外力方向相同。公式：F = ma。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "牛顿第三定律",
+                "content": "作用力与反作用力定律：两个物体之间的作用力和反作用力总是大小相等，方向相反，作用在同一条直线上。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "动量定理",
+                "content": "质点动量的变化率等于质点所受的合外力。微分形式：F = dp/dt，其中p = mv为动量。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "动能定理",
+                "content": "质点动能的增量等于合外力对质点所做的功。微分形式：dT = F·dr，其中T = (1/2)mv²为动能。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "质点系力学",
+        "content": "研究多个质点组成的系统的运动规律，包括动量、角动量和能量守恒定律。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "质点系的动量定理",
+            "content": "质点系总动量的变化率等于质点系所受外力的矢量和。公式：dP/dt = ΣF_ext，其中P为总动量。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "质点系的角动量定理",
+            "content": "质点系对某点的总角动量的变化率等于质点系所受外力对该点的力矩的矢量和。公式：dL/dt = ΣM_ext。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "质点系的动能定理",
+            "content": "质点系总动能的增量等于所有外力和内力做功之和。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "机械能守恒定律",
+            "content": "若质点系所受外力和非保守内力都不做功，或做功之和为零，则质点系的机械能守恒。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "刚体力学",
+        "content": "研究形状和大小不变的理想物体（刚体）的运动规律。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "刚体的平动",
+            "content": "刚体内任意两点的连线在运动过程中始终保持平行，可用质心运动定理描述。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "刚体的定轴转动",
+            "content": "刚体绕一固定轴转动，运动规律由转动定律描述：M = Iα，其中M为合外力矩，I为转动惯量，α为角加速度。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "刚体的平面平行运动",
+            "content": "刚体内所有点的运动都平行于某一固定平面，可分解为随基点的平动和绕基点的转动。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "分析力学",
+        "content": "以广义坐标、虚位移和能量为基础，用分析的方法研究力学系统的运动规律。",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "虚功原理",
+            "content": "受理想约束的力学体系保持平衡的必要与充分条件是：所有主动力在任意虚位移上所做的元功之和为零。",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "拉格朗日方程",
+            "content": "基于广义坐标和拉格朗日函数L = T - V（动能减势能）建立的系统运动微分方程。公式：d/dt(∂L/∂q̇) - ∂L/∂q = 0。",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "哈密顿正则方程",
+            "content": "用广义坐标q和广义动量p描述系统运动的一阶微分方程组。公式：q̇ = ∂H/∂p, ṗ = -∂H/∂q，其中H为哈密顿函数。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "质点力学",
+      "tail": "质点运动学",
+      "relation": "包含"
+    },
+    {
+      "head": "质点力学",
+      "tail": "质点动力学",
+      "relation": "包含"
+    },
+    {
+      "head": "质点运动学",
+      "tail": "位置矢量",
+      "relation": "基础概念"
+    },
+    {
+      "head": "质点运动学",
+      "tail": "速度",
+      "relation": "基础概念"
+    },
+    {
+      "head": "质点运动学",
+      "tail": "加速度",
+      "relation": "基础概念"
+    },
+    {
+      "head": "速度",
+      "tail": "位置矢量",
+      "relation": "由...求导得到"
+    },
+    {
+      "head": "加速度",
+      "tail": "速度",
+      "relation": "由...求导得到"
+    },
+    {
+      "head": "质点动力学",
+      "tail": "牛顿第二定律",
+      "relation": "核心定律"
+    },
+    {
+      "head": "牛顿第二定律",
+      "tail": "动量定理",
+      "relation": "可推导出"
+    },
+    {
+      "head": "牛顿第二定律",
+      "tail": "动能定理",
+      "relation": "可推导出"
+    },
+    {
+      "head": "质点系力学",
+      "tail": "质点系的动量定理",
+      "relation": "核心定理"
+    },
+    {
+      "head": "质点系力学",
+      "tail": "质点系的角动量定理",
+      "relation": "核心定理"
+    },
+    {
+      "head": "质点系力学",
+      "tail": "机械能守恒定律",
+      "relation": "核心定律"
+    },
+    {
+      "head": "刚体力学",
+      "tail": "刚体的定轴转动",
+      "relation": "包含"
+    },
+    {
+      "head": "刚体的定轴转动",
+      "tail": "转动定律",
+      "relation": "基于"
+    },
+    {
+      "head": "转动定律",
+      "tail": "牛顿第二定律",
+      "relation": "在转动中的类比"
+    },
+    {
+      "head": "分析力学",
+      "tail": "拉格朗日方程",
+      "relation": "核心方程"
+    },
+    {
+      "head": "分析力学",
+      "tail": "哈密顿正则方程",
+      "relation": "核心方程"
+    },
+    {
+      "head": "拉格朗日方程",
+      "tail": "虚功原理",
+      "relation": "由...发展而来"
+    },
+    {
+      "head": "哈密顿正则方程",
+      "tail": "拉格朗日方程",
+      "relation": "由...勒让德变换得到"
+    },
+    {
+      "head": "直角坐标系",
+      "tail": "位置矢量",
+      "relation": "用于描述"
+    },
+    {
+      "head": "自然坐标系",
+      "tail": "曲线运动",
+      "relation": "适用于描述"
+    },
+    {
+      "head": "动量定理",
+      "tail": "动量守恒",
+      "relation": "在合外力为零时导出"
+    },
+    {
+      "head": "角动量定理",
+      "tail": "角动量守恒",
+      "relation": "在合外力矩为零时导出"
+    },
+    {
+      "head": "机械能守恒定律",
+      "tail": "动能定理",
+      "relation": "在特定条件下的特例"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:10:28",
+    "version": "1.1"
+  }
+}

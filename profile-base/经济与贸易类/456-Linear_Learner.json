@@ -1,0 +1,2110 @@
+{
+  "student_id": "456",
+  "target_major": "经济与贸易类",
+  "archetype": "Linear_Learner",
+  "current_grade_level": 9.9,
+  "textbook_layer": {
+    "mastered": [
+      "数学-小学-一年级上册",
+      "数学-小学-一年级下册",
+      "数学-小学-二年级上册",
+      "数学-小学-二年级下册",
+      "数学-小学-三年级上册",
+      "数学-小学-三年级下册",
+      "数学-小学-四年级上册",
+      "数学-小学-四年级下册",
+      "数学-小学-五年级上册",
+      "数学-小学-五年级下册",
+      "数学-小学-六年级上册",
+      "数学-小学-六年级下册",
+      "数学-七年级-上册",
+      "数学-七年级-下册",
+      "数学-八年级-上册",
+      "数学-初中-八年级下册",
+      "数学-初中-九年级上册",
+      "语文-小学-一年级上册",
+      "语文-小学-一年级下册",
+      "语文-小学-二年级上册",
+      "语文-小学-二年级下册",
+      "语文-小学-三年级上册",
+      "语文-小学-三年级下册",
+      "语文-小学-四年级上册",
+      "语文-小学-四年级下册",
+      "语文-小学-五年级上册",
+      "语文-小学-五年级下册",
+      "语文-小学-六年级上册",
+      "语文-小学-六年级下册",
+      "语文-七年级-上册",
+      "语文-七年级-下册",
+      "语文-初中-八年级上册",
+      "语文-初中-八年级下册",
+      "语文-初中-九年级上册",
+      "英语-小学-三年级上册",
+      "英语-小学-三年级下册",
+      "英语-小学-四年级上册",
+      "英语-小学-四年级下册",
+      "英语-小学-五年级上册",
+      "英语-小学-五年级下册",
+      "英语-小学-六年级上册",
+      "英语-小学-六年级下册",
+      "英语-七年级-上册",
+      "英语-初中-七年级下册",
+      "英语-初中-八年级上册",
+      "英语-初中-八年级下册",
+      "英语-初中-九年级全一册"
+    ],
+    "learning": [
+      "数学-初中-九年级下册",
+      "数学-高中-必修第一册",
+      "语文-初中-九年级下册",
+      "语文-高中-必修上册",
+      "英语-高中-必修第一册"
+    ],
+    "not_mastered": [
+      "数学-高中-必修第二册",
+      "数学-高中-选择性必修第一册",
+      "数学-高中-选择性必修第二册",
+      "数学-高中-选择性必修第三册",
+      "语文-高中-必修下册",
+      "语文-高中-选择性必修上册",
+      "语文-高中-选择性必修中册",
+      "语文-高中-选择性必修下册",
+      "英语-高中-必修第二册",
+      "英语-高中-必修第三册",
+      "英语-高中-选择性必修第一册",
+      "英语-高中-选择性必修第二册",
+      "英语-高中-选择性必修第三册",
+      "英语-高中-选择性必修第四册",
+      "国际贸易理论与政策"
+    ]
+  },
+  "knowledge_layer": [
+    {
+      "book_name": "数学-小学-一年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-一年级上册",
+        "children": [
+          {
+            "title": "数的认识与运算",
+            "mastery": 0.7425
+          },
+          {
+            "title": "图形与空间",
+            "mastery": 0.7464
+          },
+          {
+            "title": "时间认知与应用",
+            "mastery": 0.925
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-一年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-一年级下册",
+        "children": [
+          {
+            "title": "100以内数的认识",
+            "mastery": 0.9319
+          },
+          {
+            "title": "20以内的退位减法",
+            "mastery": 0.7934
+          },
+          {
+            "title": "分类与整理",
+            "mastery": 0.6573
+          },
+          {
+            "title": "认识人民币",
+            "mastery": 0.8816
+          },
+          {
+            "title": "100以内的加法和减法",
+            "mastery": 0.6745
+          },
+          {
+            "title": "找规律",
+            "mastery": 0.7813
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-二年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-二年级上册",
+        "children": [
+          {
+            "title": "长度单位",
+            "mastery": 0.6638
+          },
+          {
+            "title": "100以内的加法和减法",
+            "mastery": 0.7189
+          },
+          {
+            "title": "角的初步认识",
+            "mastery": 0.9641
+          },
+          {
+            "title": "表内乘法",
+            "mastery": 0.9774
+          },
+          {
+            "title": "观察物体",
+            "mastery": 0.7685
+          },
+          {
+            "title": "认识时间",
+            "mastery": 0.884
+          },
+          {
+            "title": "数学广角——搭配",
+            "mastery": 0.9083
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-二年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-二年级下册",
+        "children": [
+          {
+            "title": "数据收集和整理",
+            "mastery": 0.8506
+          },
+          {
+            "title": "表内除法",
+            "mastery": 0.8094
+          },
+          {
+            "title": "图形的运动",
+            "mastery": 0.4476
+          },
+          {
+            "title": "万以内数的认识",
+            "mastery": 0.6398
+          },
+          {
+            "title": "克和千克",
+            "mastery": 0.8493
+          },
+          {
+            "title": "数学广角——推理",
+            "mastery": 0.7075
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-三年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-三年级上册",
+        "children": [
+          {
+            "title": "时、分、秒",
+            "mastery": 0.8974
+          },
+          {
+            "title": "万以内的加法和减法",
+            "mastery": 0.9055
+          },
+          {
+            "title": "测量",
+            "mastery": 0.5083
+          },
+          {
+            "title": "倍的认识",
+            "mastery": 0.8672
+          },
+          {
+            "title": "多位数乘一位数",
+            "mastery": 0.8079
+          },
+          {
+            "title": "长方形和正方形",
+            "mastery": 0.7654
+          },
+          {
+            "title": "分数的初步认识",
+            "mastery": 0.715
+          },
+          {
+            "title": "数学广角——集合",
+            "mastery": 0.7792
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-三年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-三年级下册",
+        "children": [
+          {
+            "title": "除数是一位数的除法",
+            "mastery": 0.8738
+          },
+          {
+            "title": "两位数乘两位数",
+            "mastery": 0.8353
+          },
+          {
+            "title": "面积概念与计算",
+            "mastery": 0.7416
+          },
+          {
+            "title": "年、月、日认识",
+            "mastery": 0.7207
+          },
+          {
+            "title": "小数初步认识",
+            "mastery": 0.8613
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-四年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-四年级上册",
+        "children": [
+          {
+            "title": "大数的认识",
+            "mastery": 0.6057
+          },
+          {
+            "title": "面积单位与几何图形",
+            "mastery": 0.7781
+          },
+          {
+            "title": "数的运算与规律",
+            "mastery": 0.8335
+          },
+          {
+            "title": "数据表示与数学思想",
+            "mastery": 0.8329
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-四年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-四年级下册",
+        "children": [
+          {
+            "title": "四则运算",
+            "mastery": 0.9251
+          },
+          {
+            "title": "观察物体",
+            "mastery": 0.754
+          },
+          {
+            "title": "运算律",
+            "mastery": 0.9316
+          },
+          {
+            "title": "小数的意义和性质",
+            "mastery": 0.9101
+          },
+          {
+            "title": "三角形",
+            "mastery": 0.6372
+          },
+          {
+            "title": "小数的加法和减法",
+            "mastery": 0.9198
+          },
+          {
+            "title": "图形的运动",
+            "mastery": 0.8549
+          },
+          {
+            "title": "平均数与条形统计图",
+            "mastery": 0.7567
+          },
+          {
+            "title": "鸡兔同笼问题",
+            "mastery": 0.7971
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-五年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-五年级上册",
+        "children": [
+          {
+            "title": "小数乘法",
+            "mastery": 0.7115
+          },
+          {
+            "title": "位置",
+            "mastery": 0.8765
+          },
+          {
+            "title": "小数除法",
+            "mastery": 0.7066
+          },
+          {
+            "title": "简易方程",
+            "mastery": 0.575
+          },
+          {
+            "title": "多边形的面积",
+            "mastery": 0.8006
+          },
+          {
+            "title": "可能性",
+            "mastery": 0.7144
+          },
+          {
+            "title": "数学广角",
+            "mastery": 0.7769
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-五年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-五年级下册",
+        "children": [
+          {
+            "title": "观察物体（三）",
+            "mastery": 0.8974
+          },
+          {
+            "title": "因数和倍数",
+            "mastery": 0.8547
+          },
+          {
+            "title": "长方体和正方体",
+            "mastery": 0.8483
+          },
+          {
+            "title": "分数的意义和性质",
+            "mastery": 0.9073
+          },
+          {
+            "title": "图形的运动（三）",
+            "mastery": 0.8463
+          },
+          {
+            "title": "分数的加法和减法",
+            "mastery": 0.7718
+          },
+          {
+            "title": "折线统计图",
+            "mastery": 0.5861
+          },
+          {
+            "title": "数学广角——找次品",
+            "mastery": 0.7833
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-六年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-六年级上册",
+        "children": [
+          {
+            "title": "分数乘法",
+            "mastery": 0.9469
+          },
+          {
+            "title": "位置与方向",
+            "mastery": 0.8669
+          },
+          {
+            "title": "分数除法",
+            "mastery": 0.7665
+          },
+          {
+            "title": "比",
+            "mastery": 0.9239
+          },
+          {
+            "title": "圆",
+            "mastery": 0.6315
+          },
+          {
+            "title": "百分数",
+            "mastery": 0.8646
+          },
+          {
+            "title": "扇形统计图",
+            "mastery": 0.8925
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-六年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-六年级下册",
+        "children": [
+          {
+            "title": "负数",
+            "mastery": 0.9261
+          },
+          {
+            "title": "百分数（二）",
+            "mastery": 0.7837
+          },
+          {
+            "title": "圆柱与圆锥",
+            "mastery": 0.7921
+          },
+          {
+            "title": "比例",
+            "mastery": 0.8367
+          },
+          {
+            "title": "数学广角—鸽巢问题",
+            "mastery": 0.8722
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-七年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-七年级-上册",
+        "children": [
+          {
+            "title": "有理数",
+            "mastery": 0.9382
+          },
+          {
+            "title": "代数式与整式",
+            "mastery": 0.6272
+          },
+          {
+            "title": "一元一次方程",
+            "mastery": 0.5164
+          },
+          {
+            "title": "几何图形初步",
+            "mastery": 0.925
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-七年级-下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-七年级-下册",
+        "children": [
+          {
+            "title": "相交线与平行线",
+            "mastery": 0.7203
+          },
+          {
+            "title": "实数",
+            "mastery": 0.6499
+          },
+          {
+            "title": "平面直角坐标系",
+            "mastery": 0.8834
+          },
+          {
+            "title": "二元一次方程组",
+            "mastery": 0.8707
+          },
+          {
+            "title": "不等式与不等式组",
+            "mastery": 0.8488
+          },
+          {
+            "title": "数据的收集整理与描述",
+            "mastery": 0.7542
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-八年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-八年级-上册",
+        "children": [
+          {
+            "title": "三角形",
+            "mastery": 0.7336
+          },
+          {
+            "title": "全等三角形",
+            "mastery": 0.7814
+          },
+          {
+            "title": "轴对称",
+            "mastery": 0.9126
+          },
+          {
+            "title": "整式与分式运算",
+            "mastery": 0.8079
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-初中-八年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-初中-八年级下册",
+        "children": [
+          {
+            "title": "二次根式",
+            "mastery": 0.7263
+          },
+          {
+            "title": "勾股定理",
+            "mastery": 0.7976
+          },
+          {
+            "title": "平行四边形",
+            "mastery": 0.7165
+          },
+          {
+            "title": "一次函数",
+            "mastery": 0.9735
+          },
+          {
+            "title": "数据的分析",
+            "mastery": 0.5087
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-初中-九年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-初中-九年级上册",
+        "children": [
+          {
+            "title": "一元二次方程",
+            "mastery": 0.7185
+          },
+          {
+            "title": "二次函数",
+            "mastery": 0.6566
+          },
+          {
+            "title": "旋转",
+            "mastery": 0.7447
+          },
+          {
+            "title": "圆",
+            "mastery": 0.9482
+          },
+          {
+            "title": "概率初步",
+            "mastery": 0.9397
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-一年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-一年级上册",
+        "children": [
+          {
+            "title": "入学教育",
+            "mastery": 0.7786
+          },
+          {
+            "title": "识字单元",
+            "mastery": 0.7051
+          },
+          {
+            "title": "汉语拼音",
+            "mastery": 0.8239
+          },
+          {
+            "title": "课文阅读",
+            "mastery": 0.6082
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-一年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-一年级下册",
+        "children": [
+          {
+            "title": "识字单元",
+            "mastery": 0.8048
+          },
+          {
+            "title": "阅读单元",
+            "mastery": 0.7778
+          },
+          {
+            "title": "语文综合应用",
+            "mastery": 0.7291
+          },
+          {
+            "title": "语文基础技能",
+            "mastery": 0.8129
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-二年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-二年级上册",
+        "children": [
+          {
+            "title": "阅读模块",
+            "mastery": 0.6838
+          },
+          {
+            "title": "识字模块",
+            "mastery": 0.8415
+          },
+          {
+            "title": "口语交际模块",
+            "mastery": 0.7603
+          },
+          {
+            "title": "写话模块",
+            "mastery": 0.7426
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-二年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-二年级下册",
+        "children": [
+          {
+            "title": "课文",
+            "mastery": 0.9427
+          },
+          {
+            "title": "识字",
+            "mastery": 0.9177
+          },
+          {
+            "title": "语文园地",
+            "mastery": 0.857
+          },
+          {
+            "title": "口语交际",
+            "mastery": 0.8803
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-三年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-三年级上册",
+        "children": [
+          {
+            "title": "校园生活主题单元",
+            "mastery": 0.8672
+          },
+          {
+            "title": "金秋时节主题单元",
+            "mastery": 0.8407
+          },
+          {
+            "title": "写作能力训练",
+            "mastery": 0.9089
+          },
+          {
+            "title": "语言积累与运用",
+            "mastery": 0.7987
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-三年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-三年级下册",
+        "children": [
+          {
+            "title": "可爱的生灵",
+            "mastery": 0.9849
+          },
+          {
+            "title": "寓言故事",
+            "mastery": 0.8269
+          },
+          {
+            "title": "观察与想象",
+            "mastery": 0.7333
+          },
+          {
+            "title": "传统文化",
+            "mastery": 0.9103
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-四年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-四年级上册",
+        "children": [
+          {
+            "title": "自然之美",
+            "mastery": 0.8015
+          },
+          {
+            "title": "提问策略",
+            "mastery": 0.7981
+          },
+          {
+            "title": "连续观察",
+            "mastery": 0.6737
+          },
+          {
+            "title": "神话故事",
+            "mastery": 0.7685
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-四年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-四年级下册",
+        "children": [
+          {
+            "title": "乡村生活主题",
+            "mastery": 0.8593
+          },
+          {
+            "title": "科技探索主题",
+            "mastery": 0.7145
+          },
+          {
+            "title": "现代诗歌主题",
+            "mastery": 0.6534
+          },
+          {
+            "title": "动物描写主题",
+            "mastery": 0.8762
+          },
+          {
+            "title": "童话故事主题",
+            "mastery": 0.9563
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-五年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-五年级上册",
+        "children": [
+          {
+            "title": "写景抒情单元",
+            "mastery": 0.5722
+          },
+          {
+            "title": "阅读方法单元",
+            "mastery": 0.8635
+          },
+          {
+            "title": "民间故事单元",
+            "mastery": 0.8872
+          },
+          {
+            "title": "爱国主题单元",
+            "mastery": 0.98
+          },
+          {
+            "title": "说明文写作单元",
+            "mastery": 0.9016
+          },
+          {
+            "title": "亲情描写单元",
+            "mastery": 0.764
+          },
+          {
+            "title": "景物描写单元",
+            "mastery": 0.8326
+          },
+          {
+            "title": "读书方法单元",
+            "mastery": 0.7895
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-五年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-五年级下册",
+        "children": [
+          {
+            "title": "童年往事单元",
+            "mastery": 0.8075
+          },
+          {
+            "title": "古典名著阅读",
+            "mastery": 0.8438
+          },
+          {
+            "title": "汉字文化学习",
+            "mastery": 0.8113
+          },
+          {
+            "title": "人物描写技巧",
+            "mastery": 0.709
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-六年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-六年级上册",
+        "children": [
+          {
+            "title": "自然与想象单元",
+            "mastery": 0.8261
+          },
+          {
+            "title": "革命岁月单元",
+            "mastery": 0.7505
+          },
+          {
+            "title": "阅读策略单元",
+            "mastery": 0.8442
+          },
+          {
+            "title": "小说单元",
+            "mastery": 0.9138
+          },
+          {
+            "title": "习作单元",
+            "mastery": 0.9286
+          },
+          {
+            "title": "保护环境单元",
+            "mastery": 0.9077
+          },
+          {
+            "title": "艺术之美单元",
+            "mastery": 0.8935
+          },
+          {
+            "title": "走近鲁迅单元",
+            "mastery": 0.9298
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-六年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-六年级下册",
+        "children": [
+          {
+            "title": "民风民俗",
+            "mastery": 0.9448
+          },
+          {
+            "title": "外国文学名著",
+            "mastery": 0.7495
+          },
+          {
+            "title": "情感表达方法",
+            "mastery": 0.8449
+          },
+          {
+            "title": "革命精神传承",
+            "mastery": 0.635
+          },
+          {
+            "title": "科学探索精神",
+            "mastery": 0.9138
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-七年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-七年级-上册",
+        "children": [
+          {
+            "title": "写景抒情单元",
+            "mastery": 0.7215
+          },
+          {
+            "title": "亲情主题单元",
+            "mastery": 0.857
+          },
+          {
+            "title": "学习成长单元",
+            "mastery": 0.8358
+          },
+          {
+            "title": "修身养德单元",
+            "mastery": 0.8808
+          },
+          {
+            "title": "人动物关系单元",
+            "mastery": 0.6171
+          },
+          {
+            "title": "想象联想单元",
+            "mastery": 0.8123
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-七年级-下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-七年级-下册",
+        "children": [
+          {
+            "title": "杰出人物单元",
+            "mastery": 0.9353
+          },
+          {
+            "title": "家国情怀单元",
+            "mastery": 0.6775
+          },
+          {
+            "title": "阅读理解方法",
+            "mastery": 0.7049
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-八年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-八年级上册",
+        "children": [
+          {
+            "title": "新闻阅读与写作",
+            "mastery": 0.8696
+          },
+          {
+            "title": "回忆性散文与传记",
+            "mastery": 0.9201
+          },
+          {
+            "title": "古诗文鉴赏",
+            "mastery": 0.9512
+          },
+          {
+            "title": "散文阅读",
+            "mastery": 0.5752
+          },
+          {
+            "title": "说明文阅读",
+            "mastery": 0.539
+          },
+          {
+            "title": "古诗文深度阅读",
+            "mastery": 0.9299
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-八年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-八年级下册",
+        "children": [
+          {
+            "title": "民俗文化单元",
+            "mastery": 0.9539
+          },
+          {
+            "title": "科学事理单元",
+            "mastery": 0.775
+          },
+          {
+            "title": "古诗文品析单元",
+            "mastery": 0.7848
+          },
+          {
+            "title": "活动探究单元",
+            "mastery": 0.8269
+          },
+          {
+            "title": "游记散文单元",
+            "mastery": 0.8776
+          },
+          {
+            "title": "古诗文鉴赏单元",
+            "mastery": 0.9723
+          },
+          {
+            "title": "语文能力训练模块",
+            "mastery": 0.7736
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-九年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-九年级上册",
+        "children": [
+          {
+            "title": "诗歌单元",
+            "mastery": 0.592
+          },
+          {
+            "title": "议论性文章",
+            "mastery": 0.525
+          },
+          {
+            "title": "文言诗文",
+            "mastery": 0.836
+          },
+          {
+            "title": "小说阅读",
+            "mastery": 0.8199
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-小学-三年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "英语-小学-三年级上册",
+        "children": [
+          {
+            "title": "问候与交友",
+            "mastery": 0.8787
+          },
+          {
+            "title": "家庭介绍",
+            "mastery": 0.8414
+          },
+          {
+            "title": "动物世界",
+            "mastery": 0.8194
+          },
+          {
+            "title": "植物与水果",
+            "mastery": 0.7937
+          },
+          {
+            "title": "颜色认知",
+            "mastery": 0.9128
+          },
+          {
+            "title": "数字应用",
+            "mastery": 0.7883
+          },
+          {
+            "title": "自然拼读",
+            "mastery": 0.6057
+          },
+          {
+            "title": "基础语法",
+            "mastery": 0.94
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-小学-三年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "英语-小学-三年级下册",
+        "children": [
+          {
+            "title": "问候与介绍",
+            "mastery": 0.7947
+          },
+          {
+            "title": "描述与表达",
+            "mastery": 0.8581
+          },
+          {
+            "title": "学习与感知",
+            "mastery": 0.5706
+          },
+          {
+            "title": "饮食健康",
+            "mastery": 0.8905
+          },
+          {
+            "title": "物品与位置",
+            "mastery": 0.9191
+          },
+          {
+            "title": "数字应用",
+            "mastery": 0.8884
+          },
+          {
+            "title": "语音知识",
+            "mastery": 0.9356
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-小学-四年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "英语-小学-四年级上册",
+        "children": [
+          {
+            "title": "家庭生活与互助",
+            "mastery": 0.6952
+          },
+          {
+            "title": "朋友交往与描述",
+            "mastery": 0.8898
+          },
+          {
+            "title": "社区环境与活动",
+            "mastery": 0.8901
+          },
+          {
+            "title": "社区服务与帮助",
+            "mastery": 0.4349
+          },
+          {
+            "title": "天气与活动安排",
+            "mastery": 0.9564
+          },
+          {
+            "title": "季节变化与生活",
+            "mastery": 0.6428
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-小学-四年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "英语-小学-四年级下册",
+        "children": [
+          {
+            "title": "学校生活主题",
+            "mastery": 0.7801
+          },
+          {
+            "title": "时间与日常作息",
+            "mastery": 0.9286
+          },
+          {
+            "title": "天气与温度描述",
+            "mastery": 0.7301
+          },
+          {
+            "title": "农场与指示代词",
+            "mastery": 0.9058
+          },
+          {
+            "title": "服装与物主代词",
+            "mastery": 0.6972
+          },
+          {
+            "title": "购物与价格询问",
+            "mastery": 0.8819
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-小学-五年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "英语-小学-五年级上册",
+        "children": [
+          {
+            "title": "人物描述单元",
+            "mastery": 0.8821
+          },
+          {
+            "title": "日常活动单元",
+            "mastery": 0.6384
+          },
+          {
+            "title": "饮食偏好单元",
+            "mastery": 0.8346
+          },
+          {
+            "title": "能力表达单元",
+            "mastery": 0.8991
+          },
+          {
+            "title": "空间位置单元",
+            "mastery": 0.7795
+          },
+          {
+            "title": "自然描述单元",
+            "mastery": 0.6784
+          },
+          {
+            "title": "综合复习单元",
+            "mastery": 0.7302
+          },
+          {
+            "title": "语法知识单元",
+            "mastery": 0.8469
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-小学-五年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "英语-小学-五年级下册",
+        "children": [
+          {
+            "title": "日常生活与时间表达",
+            "mastery": 0.8658
+          },
+          {
+            "title": "季节与活动表达",
+            "mastery": 0.6482
+          },
+          {
+            "title": "日历与日期表达",
+            "mastery": 0.7123
+          },
+          {
+            "title": "物主关系与进行时态",
+            "mastery": 0.6531
+          },
+          {
+            "title": "语音与拼写规则",
+            "mastery": 0.8367
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-小学-六年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "英语-小学-六年级上册",
+        "children": [
+          {
+            "title": "地点与问路",
+            "mastery": 0.7574
+          },
+          {
+            "title": "交通方式与安全",
+            "mastery": 0.9794
+          },
+          {
+            "title": "周末计划与未来表达",
+            "mastery": 0.7717
+          },
+          {
+            "title": "兴趣爱好与笔友交流",
+            "mastery": 0.9782
+          },
+          {
+            "title": "职业工作与未来志向",
+            "mastery": 0.955
+          },
+          {
+            "title": "情感表达与健康建议",
+            "mastery": 0.831
+          },
+          {
+            "title": "语言综合运用与复习",
+            "mastery": 0.622
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-小学-六年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "英语-小学-六年级下册",
+        "children": [
+          {
+            "title": "比较级形容词",
+            "mastery": 0.9329
+          },
+          {
+            "title": "一般过去时",
+            "mastery": 0.9748
+          },
+          {
+            "title": "假期活动描述",
+            "mastery": 0.9224
+          },
+          {
+            "title": "今昔对比描述",
+            "mastery": 0.7099
+          },
+          {
+            "title": "综合复习应用",
+            "mastery": 0.7684
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-七年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "英语-七年级-上册",
+        "children": [
+          {
+            "title": "入门单元",
+            "mastery": 0.7264
+          },
+          {
+            "title": "交际功能单元",
+            "mastery": 0.9454
+          },
+          {
+            "title": "学习生活单元",
+            "mastery": 0.8675
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-初中-七年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "英语-初中-七年级下册",
+        "children": [
+          {
+            "title": "动物与朋友",
+            "mastery": 0.6977
+          },
+          {
+            "title": "规则与秩序",
+            "mastery": 0.855
+          },
+          {
+            "title": "健康与运动",
+            "mastery": 0.7396
+          },
+          {
+            "title": "饮食与健康",
+            "mastery": 0.6097
+          },
+          {
+            "title": "时区与活动",
+            "mastery": 0.901
+          },
+          {
+            "title": "天气与生活",
+            "mastery": 0.615
+          },
+          {
+            "title": "回忆与经历",
+            "mastery": 0.8828
+          },
+          {
+            "title": "故事与表达",
+            "mastery": 0.7816
+          },
+          {
+            "title": "发音与语法",
+            "mastery": 0.8883
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-初中-八年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "英语-初中-八年级上册",
+        "children": [
+          {
+            "title": "假期与节日主题",
+            "mastery": 0.8802
+          },
+          {
+            "title": "家庭生活与请求表达",
+            "mastery": 0.7352
+          },
+          {
+            "title": "比较与差异表达",
+            "mastery": 0.659
+          },
+          {
+            "title": "自然生物与最高级表达",
+            "mastery": 0.6999
+          },
+          {
+            "title": "饮食文化与感叹表达",
+            "mastery": 0.78
+          },
+          {
+            "title": "未来规划与目标设定",
+            "mastery": 0.8222
+          },
+          {
+            "title": "未来预测与科技发展",
+            "mastery": 0.8706
+          },
+          {
+            "title": "沟通技巧与条件句",
+            "mastery": 0.9434
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-初中-八年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "英语-初中-八年级下册",
+        "children": [
+          {
+            "title": "健康与急救",
+            "mastery": 0.9192
+          },
+          {
+            "title": "志愿服务与帮助",
+            "mastery": 0.8767
+          },
+          {
+            "title": "家务与请求许可",
+            "mastery": 0.7318
+          },
+          {
+            "title": "人际沟通与建议",
+            "mastery": 0.9795
+          },
+          {
+            "title": "过去事件与故事讲述",
+            "mastery": 0.9718
+          },
+          {
+            "title": "传统故事与传说",
+            "mastery": 0.7357
+          },
+          {
+            "title": "地理自然描述",
+            "mastery": 0.686
+          },
+          {
+            "title": "文学音乐欣赏",
+            "mastery": 0.7613
+          },
+          {
+            "title": "经历体验描述",
+            "mastery": 0.7132
+          },
+          {
+            "title": "物品环境描述",
+            "mastery": 0.8574
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-初中-九年级全一册",
+      "status": "mastered",
+      "detail": {
+        "title": "英语-初中-九年级全一册",
+        "children": [
+          {
+            "title": "学习方法与策略",
+            "mastery": 0.774
+          },
+          {
+            "title": "节日文化与表达",
+            "mastery": 0.6657
+          },
+          {
+            "title": "问路指路交际",
+            "mastery": 0.654
+          },
+          {
+            "title": "变化描述语法",
+            "mastery": 0.9268
+          },
+          {
+            "title": "被动语态应用",
+            "mastery": 0.6569
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-初中-九年级下册",
+      "status": "learning",
+      "detail": {
+        "title": "数学-初中-九年级下册",
+        "children": [
+          {
+            "title": "反比例函数",
+            "mastery": 0.4442
+          },
+          {
+            "title": "相似",
+            "mastery": 0.1549
+          },
+          {
+            "title": "锐角三角函数",
+            "mastery": 0.677
+          },
+          {
+            "title": "投影与视图",
+            "mastery": 0.4794
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-必修第一册",
+      "status": "learning",
+      "detail": {
+        "title": "数学-高中-必修第一册",
+        "children": [
+          {
+            "title": "集合与常用逻辑用语",
+            "mastery": 0.5249
+          },
+          {
+            "title": "对数函数",
+            "mastery": 0.6176
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-九年级下册",
+      "status": "learning",
+      "detail": {
+        "title": "语文-初中-九年级下册",
+        "children": [
+          {
+            "title": "诗歌鉴赏",
+            "mastery": 0.3502
+          },
+          {
+            "title": "小说阅读",
+            "mastery": 0.5372
+          },
+          {
+            "title": "文言文阅读",
+            "mastery": 0.535
+          },
+          {
+            "title": "文艺鉴赏",
+            "mastery": 0.5808
+          },
+          {
+            "title": "戏剧活动",
+            "mastery": 0.7032
+          },
+          {
+            "title": "写作与口语交际",
+            "mastery": 0.5103
+          },
+          {
+            "title": "名著导读",
+            "mastery": 0.7364
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-必修上册",
+      "status": "learning",
+      "detail": {
+        "title": "语文-高中-必修上册",
+        "children": [
+          {
+            "title": "青春主题文学",
+            "mastery": 0.6909
+          },
+          {
+            "title": "劳动价值文学",
+            "mastery": 0.7825
+          },
+          {
+            "title": "古诗词鉴赏",
+            "mastery": 0.2591
+          },
+          {
+            "title": "写景抒情散文",
+            "mastery": 0.4514
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-高中-必修第一册",
+      "status": "learning",
+      "detail": {
+        "title": "英语-高中-必修第一册",
+        "children": [
+          {
+            "title": "Welcome Unit",
+            "mastery": 0.7343
+          },
+          {
+            "title": "Unit 1: Teenage Life",
+            "mastery": 0.2176
+          },
+          {
+            "title": "Unit 2: Travelling Around",
+            "mastery": 0.6368
+          },
+          {
+            "title": "Unit 3: Sports and Fitness",
+            "mastery": 0.2407
+          },
+          {
+            "title": "Unit 4: Natural Disasters",
+            "mastery": 0.3153
+          },
+          {
+            "title": "Unit 5: Languages Around the World",
+            "mastery": 0.4088
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-必修第二册",
+        "children": [
+          {
+            "title": "平面向量及其应用",
+            "mastery": 0.065
+          },
+          {
+            "title": "空间直线与平面的垂直",
+            "mastery": 0.1616
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-选择性必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-选择性必修第一册",
+        "children": [
+          {
+            "title": "空间向量与立体几何",
+            "mastery": 0.3053
+          },
+          {
+            "title": "直线与圆",
+            "mastery": 0.1154
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-选择性必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-选择性必修第二册",
+        "children": [
+          {
+            "title": "数列的概念与表示",
+            "mastery": 0.1631
+          },
+          {
+            "title": "等差数列",
+            "mastery": 0.1721
+          },
+          {
+            "title": "等比数列",
+            "mastery": 0.1474
+          },
+          {
+            "title": "数学归纳法",
+            "mastery": 0.2354
+          },
+          {
+            "title": "数列的综合应用",
+            "mastery": 0.136
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-选择性必修第三册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-选择性必修第三册",
+        "children": [
+          {
+            "title": "计数原理",
+            "mastery": 0.3725
+          },
+          {
+            "title": "随机变量及其分布",
+            "mastery": 0.438
+          },
+          {
+            "title": "成对数据的统计分析",
+            "mastery": 0.0968
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-必修下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "语文-高中-必修下册",
+        "children": [
+          {
+            "title": "古代散文与史传",
+            "mastery": 0.4815
+          },
+          {
+            "title": "戏剧文学",
+            "mastery": 0.1192
+          },
+          {
+            "title": "知识性读物",
+            "mastery": 0.1279
+          },
+          {
+            "title": "现代文体鉴赏",
+            "mastery": 0.1447
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-选择性必修上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "语文-高中-选择性必修上册",
+        "children": [
+          {
+            "title": "革命文化与社会主义先进文化",
+            "mastery": 0.6236
+          },
+          {
+            "title": "先秦诸子散文",
+            "mastery": 0.3004
+          },
+          {
+            "title": "外国小说鉴赏",
+            "mastery": 0.2407
+          },
+          {
+            "title": "逻辑知识与应用",
+            "mastery": 0.0298
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-选择性必修中册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "语文-高中-选择性必修中册",
+        "children": [
+          {
+            "title": "理论著作单元",
+            "mastery": 0.2111
+          },
+          {
+            "title": "革命文化单元",
+            "mastery": 0.4564
+          },
+          {
+            "title": "历史著述单元",
+            "mastery": 0.1016
+          },
+          {
+            "title": "外国文学单元",
+            "mastery": 0.1978
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-选择性必修下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "语文-高中-选择性必修下册",
+        "children": [
+          {
+            "title": "古典诗词",
+            "mastery": 0.0739
+          },
+          {
+            "title": "现当代文学",
+            "mastery": 0.1116
+          },
+          {
+            "title": "古代散文",
+            "mastery": 0.4426
+          },
+          {
+            "title": "科学论著",
+            "mastery": 0.0826
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-高中-必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "英语-高中-必修第二册",
+        "children": [
+          {
+            "title": "文化遗产保护",
+            "mastery": 0.0974
+          },
+          {
+            "title": "野生动物保护",
+            "mastery": 0.1186
+          },
+          {
+            "title": "互联网与社会",
+            "mastery": 0.188
+          },
+          {
+            "title": "历史与传统",
+            "mastery": 0.1842
+          },
+          {
+            "title": "音乐与文化",
+            "mastery": 0.1769
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-高中-必修第三册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "英语-高中-必修第三册",
+        "children": [
+          {
+            "title": "节日与庆典",
+            "mastery": 0.1134
+          },
+          {
+            "title": "道德与美德",
+            "mastery": 0.2757
+          },
+          {
+            "title": "多元文化",
+            "mastery": 0.0661
+          },
+          {
+            "title": "太空探索",
+            "mastery": 0.1149
+          },
+          {
+            "title": "金钱的价值",
+            "mastery": 0.1235
+          },
+          {
+            "title": "语法与语言功能",
+            "mastery": 0.1037
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-高中-选择性必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "英语-高中-选择性必修第一册",
+        "children": [
+          {
+            "title": "人物成就单元",
+            "mastery": 0.1591
+          },
+          {
+            "title": "未来科技单元",
+            "mastery": 0.2439
+          },
+          {
+            "title": "公园文化单元",
+            "mastery": 0.2772
+          },
+          {
+            "title": "身体语言单元",
+            "mastery": 0.1456
+          },
+          {
+            "title": "农业技术单元",
+            "mastery": 0.1286
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-高中-选择性必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "英语-高中-选择性必修第二册",
+        "children": [
+          {
+            "title": "科学与科学家",
+            "mastery": 0.1586
+          },
+          {
+            "title": "文化交流与适应",
+            "mastery": 0.1474
+          },
+          {
+            "title": "饮食文化与健康",
+            "mastery": 0.5722
+          },
+          {
+            "title": "旅行与地理文化",
+            "mastery": 0.3025
+          },
+          {
+            "title": "急救知识与技能",
+            "mastery": 0.1
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-高中-选择性必修第三册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "英语-高中-选择性必修第三册",
+        "children": [
+          {
+            "title": "艺术鉴赏",
+            "mastery": 0.1958
+          },
+          {
+            "title": "健康生活方式",
+            "mastery": 0.0175
+          },
+          {
+            "title": "环境保护议题",
+            "mastery": 0.2666
+          },
+          {
+            "title": "逆境与勇气",
+            "mastery": 0.1171
+          },
+          {
+            "title": "诗歌赏析",
+            "mastery": 0.343
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "英语-高中-选择性必修第四册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "英语-高中-选择性必修第四册",
+        "children": [
+          {
+            "title": "科幻文学单元",
+            "mastery": 0.2903
+          },
+          {
+            "title": "标志性景点单元",
+            "mastery": 0.2589
+          },
+          {
+            "title": "海洋探索单元",
+            "mastery": 0.1335
+          },
+          {
+            "title": "分享精神单元",
+            "mastery": 0.2615
+          },
+          {
+            "title": "职业规划单元",
+            "mastery": 0.3129
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "国际贸易理论与政策",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-经济学-经济与贸易类-国际贸易理论与政策",
+        "children": [
+          {
+            "title": "国际贸易理论基础",
+            "mastery": 0.2294
+          },
+          {
+            "title": "国际贸易政策工具",
+            "mastery": 0.1358
+          },
+          {
+            "title": "国际贸易体系与组织",
+            "mastery": 0.228
+          },
+          {
+            "title": "国际贸易发展前沿",
+            "mastery": 0.2911
+          }
+        ]
+      }
+    }
+  ]
+}

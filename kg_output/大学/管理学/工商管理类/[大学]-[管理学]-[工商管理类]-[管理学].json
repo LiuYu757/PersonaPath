@@ -1,0 +1,588 @@
+{
+  "knowledge_tree": {
+    "title": "管理学",
+    "content": "管理学是系统研究管理活动的基本规律和一般方法的科学，旨在通过计划、组织、领导、控制等职能，有效整合组织资源以实现组织目标。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "管理与管理学",
+        "content": "探讨管理的定义、职能、角色、技能以及管理学的性质和研究方法。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "管理的定义",
+            "content": "管理是指在特定环境下，对组织所拥有的资源进行有效的计划、组织、领导和控制，以便达成既定的组织目标的过程。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "管理的职能",
+            "content": "管理的基本职能包括计划、组织、领导和控制。这些职能构成了管理工作的核心循环。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "计划",
+                "content": "设定目标并确定实现这些目标的行动方案。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "组织",
+                "content": "设计和建立组织结构，分配资源和职责。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "领导",
+                "content": "指导和激励员工，解决冲突，促进协作。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "控制",
+                "content": "监控活动以确保其按计划完成，并纠正任何重大偏差。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "管理者的角色",
+            "content": "明茨伯格提出的管理者十大角色，分为人际、信息和决策三大类。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "管理者的技能",
+            "content": "管理者需要具备技术技能、人际技能和概念技能。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "管理理论的形成与发展",
+        "content": "介绍从古典管理理论到现代管理理论的主要流派和代表人物。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "古典管理理论",
+            "content": "早期系统化的管理理论，包括科学管理理论和古典组织理论。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "泰勒的科学管理理论",
+                "content": "弗雷德里克·泰勒提出，通过科学方法确定完成工作的“最佳方式”，以提高劳动生产率。核心是工作标准化、差别计件工资制。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "法约尔的一般管理理论",
+                "content": "亨利·法约尔提出，将管理活动分为计划、组织、指挥、协调、控制五大职能，并提出了十四条管理原则。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "韦伯的行政组织理论",
+                "content": "马克斯·韦伯提出理想的官僚行政组织模式，强调权威、分工、规章制度和非人格化。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "行为科学理论",
+            "content": "关注人的心理和行为对工作效率的影响，始于霍桑实验。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "梅奥的霍桑实验",
+                "content": "埃尔顿·梅奥主持，发现工人的社会心理因素（如被关注、群体氛围）对生产率有显著影响，奠定了行为科学的基础。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "马斯洛的需要层次理论",
+                "content": "亚伯拉罕·马斯洛提出，人的需要从低到高分为生理、安全、社交、尊重和自我实现五个层次。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "麦格雷戈的X理论与Y理论",
+                "content": "道格拉斯·麦格雷戈提出的关于人性假设的两种对立观点，X理论假设人懒惰需强制，Y理论假设人主动可激励。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "现代管理理论",
+            "content": "系统管理、权变管理等综合性的管理理论。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "系统管理理论",
+                "content": "将组织视为一个开放的系统，由相互关联的子系统构成，强调内外部环境的互动和整体性。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "权变管理理论",
+                "content": "认为不存在 universally applicable 的管理原则，最佳的管理方式取决于具体情境（如环境、技术、人员等）。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "决策",
+        "content": "决策是管理的核心，是管理者识别并解决问题的过程。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "决策的定义与类型",
+            "content": "决策是为实现一定目标，从两个以上的可行方案中选择一个合理方案的分析判断过程。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "按决策问题性质分类",
+                "content": "分为程序化决策（常规、重复性）和非程序化决策（新颖、无结构）。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "按决策条件分类",
+                "content": "分为确定型决策、风险型决策和不确定型决策。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "决策过程",
+            "content": "识别问题、确定决策标准、分配权重、拟定方案、分析方案、选择方案、实施方案、评价决策效果。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "决策方法",
+            "content": "包括定性方法和定量方法。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "定性决策方法",
+                "content": "如头脑风暴法、德尔菲法、名义小组技术。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "定量决策方法",
+                "content": "如确定型决策下的盈亏平衡分析，风险型决策下的决策树法。",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "盈亏平衡分析公式",
+                    "content": "Q* = F / (P - V)，其中Q*为盈亏平衡点产量，F为固定成本，P为单价，V为单位变动成本。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "决策的影响因素",
+            "content": "包括环境、组织文化、决策者的个人因素、时间压力等。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "计划",
+        "content": "计划是管理的首要职能，涉及目标设定和行动路径规划。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "计划的概念与类型",
+            "content": "计划包括定义组织的目标，制定全局战略以实现这些目标，以及开发一组广泛的相关计划以整合和协调工作。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "按计划广度分类",
+                "content": "分为战略计划（组织整体、长期）和作业计划（部门、短期）。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "按计划时间框架分类",
+                "content": "分为长期计划、中期计划和短期计划。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "目标管理（MBO）",
+            "content": "彼得·德鲁克提出的一种管理系统，由上下级共同决定具体的绩效目标，并定期检查完成进展情况。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "战略管理过程",
+            "content": "包括战略分析、战略制定（公司层、事业层、职能层）和战略实施。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "SWOT分析",
+                "content": "分析组织的优势（Strengths）、劣势（Weaknesses）、机会（Opportunities）和威胁（Threats）。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "波特五力模型",
+                "content": "迈克尔·波特提出，用于分析行业竞争结构，包括现有竞争者、潜在进入者、替代品、供应商议价能力、购买者议价能力。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "组织",
+        "content": "组织职能包括组织结构设计、部门划分、职权分配和组织变革。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "组织设计",
+            "content": "设计组织的结构，包括工作专门化、部门化、指挥链、管理跨度、集权与分权、正规化等关键要素。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "组织结构的类型",
+                "content": "包括直线制、职能制、直线-职能制、事业部制、矩阵制、网络制等。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "组织变革",
+            "content": "组织为适应内外环境变化而进行的调整和改革。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "变革的动因与阻力",
+                "content": "动因包括环境、技术、目标变化等；阻力可能来自个人（习惯、安全、经济因素）和组织（结构惯性、群体惯性等）。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "变革管理",
+                "content": "卢因的三步骤模型：解冻、变革、再冻结。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "领导",
+        "content": "领导是指引和影响个体或组织，在一定条件下实现目标的行为过程。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "领导与权力",
+            "content": "领导的基础是权力，包括职位权力（法定权、奖励权、强制权）和个人权力（专长权、感召权）。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "领导理论",
+            "content": "主要研究领导有效性的理论。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "领导特质理论",
+                "content": "研究领导者个人特质对领导有效性的影响。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "领导行为理论",
+                "content": "如勒温的领导风格理论（专制、民主、放任）、管理方格理论（关心生产与关心人）。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "领导权变理论",
+                "content": "如费德勒模型、领导生命周期理论，认为领导有效性取决于领导风格与情境的匹配程度。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "激励理论",
+            "content": "研究如何调动人的积极性的理论，是领导工作的重要组成部分。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "内容型激励理论",
+                "content": "如马斯洛需要层次理论、赫茨伯格双因素理论（保健因素与激励因素）。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "过程型激励理论",
+                "content": "如弗鲁姆的期望理论（激励力=期望值×效价）、亚当斯的公平理论。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "控制",
+        "content": "控制是监控、比较和纠正工作绩效的过程，以确保组织目标得以实现。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "控制过程",
+            "content": "包括三个基本步骤：确立标准、衡量绩效、纠正偏差。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "控制类型",
+            "content": "根据控制点位于活动过程的位置，分为前馈控制（事前）、同期控制（事中）和反馈控制（事后）。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "有效控制的原则",
+            "content": "包括适时控制、适度控制、客观控制、弹性控制等。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "管理学",
+      "tail": "管理与管理学",
+      "relation": "包含"
+    },
+    {
+      "head": "管理学",
+      "tail": "管理理论的形成与发展",
+      "relation": "包含"
+    },
+    {
+      "head": "管理学",
+      "tail": "决策",
+      "relation": "包含"
+    },
+    {
+      "head": "管理学",
+      "tail": "计划",
+      "relation": "包含"
+    },
+    {
+      "head": "管理学",
+      "tail": "组织",
+      "relation": "包含"
+    },
+    {
+      "head": "管理学",
+      "tail": "领导",
+      "relation": "包含"
+    },
+    {
+      "head": "管理学",
+      "tail": "控制",
+      "relation": "包含"
+    },
+    {
+      "head": "管理的职能",
+      "tail": "计划",
+      "relation": "包含"
+    },
+    {
+      "head": "管理的职能",
+      "tail": "组织",
+      "relation": "包含"
+    },
+    {
+      "head": "管理的职能",
+      "tail": "领导",
+      "relation": "包含"
+    },
+    {
+      "head": "管理的职能",
+      "tail": "控制",
+      "relation": "包含"
+    },
+    {
+      "head": "古典管理理论",
+      "tail": "泰勒的科学管理理论",
+      "relation": "包含"
+    },
+    {
+      "head": "古典管理理论",
+      "tail": "法约尔的一般管理理论",
+      "relation": "包含"
+    },
+    {
+      "head": "古典管理理论",
+      "tail": "韦伯的行政组织理论",
+      "relation": "包含"
+    },
+    {
+      "head": "行为科学理论",
+      "tail": "梅奥的霍桑实验",
+      "relation": "基于"
+    },
+    {
+      "head": "行为科学理论",
+      "tail": "马斯洛的需要层次理论",
+      "relation": "包含"
+    },
+    {
+      "head": "行为科学理论",
+      "tail": "麦格雷戈的X理论与Y理论",
+      "relation": "包含"
+    },
+    {
+      "head": "现代管理理论",
+      "tail": "系统管理理论",
+      "relation": "包含"
+    },
+    {
+      "head": "现代管理理论",
+      "tail": "权变管理理论",
+      "relation": "包含"
+    },
+    {
+      "head": "决策",
+      "tail": "决策过程",
+      "relation": "由...构成"
+    },
+    {
+      "head": "决策",
+      "tail": "决策方法",
+      "relation": "涉及"
+    },
+    {
+      "head": "定量决策方法",
+      "tail": "盈亏平衡分析公式",
+      "relation": "应用于"
+    },
+    {
+      "head": "计划",
+      "tail": "目标管理（MBO）",
+      "relation": "包含方法"
+    },
+    {
+      "head": "战略管理过程",
+      "tail": "SWOT分析",
+      "relation": "使用工具"
+    },
+    {
+      "head": "战略管理过程",
+      "tail": "波特五力模型",
+      "relation": "使用工具"
+    },
+    {
+      "head": "组织设计",
+      "tail": "组织结构的类型",
+      "relation": "决定"
+    },
+    {
+      "head": "组织变革",
+      "tail": "卢因的三步骤模型",
+      "relation": "基于理论"
+    },
+    {
+      "head": "领导",
+      "tail": "领导理论",
+      "relation": "研究领域"
+    },
+    {
+      "head": "领导理论",
+      "tail": "领导特质理论",
+      "relation": "包含"
+    },
+    {
+      "head": "领导理论",
+      "tail": "领导行为理论",
+      "relation": "包含"
+    },
+    {
+      "head": "领导理论",
+      "tail": "领导权变理论",
+      "relation": "包含"
+    },
+    {
+      "head": "激励理论",
+      "tail": "内容型激励理论",
+      "relation": "包含"
+    },
+    {
+      "head": "激励理论",
+      "tail": "过程型激励理论",
+      "relation": "包含"
+    },
+    {
+      "head": "控制",
+      "tail": "控制过程",
+      "relation": "由...构成"
+    },
+    {
+      "head": "控制",
+      "tail": "控制类型",
+      "relation": "包含"
+    },
+    {
+      "head": "法约尔的一般管理理论",
+      "tail": "管理的职能",
+      "relation": "提出"
+    },
+    {
+      "head": "梅奥的霍桑实验",
+      "tail": "行为科学理论",
+      "relation": "奠定基础"
+    },
+    {
+      "head": "马斯洛的需要层次理论",
+      "tail": "内容型激励理论",
+      "relation": "属于"
+    },
+    {
+      "head": "期望理论",
+      "tail": "过程型激励理论",
+      "relation": "属于"
+    },
+    {
+      "head": "管理方格理论",
+      "tail": "领导行为理论",
+      "relation": "属于"
+    },
+    {
+      "head": "费德勒模型",
+      "tail": "领导权变理论",
+      "relation": "属于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:31:32",
+    "version": "1.1"
+  }
+}

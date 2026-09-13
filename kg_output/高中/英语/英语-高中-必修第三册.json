@@ -1,0 +1,276 @@
+{
+  "knowledge_tree": {
+    "title": "English Compulsory 3",
+    "content": "High school English textbook focusing on themes like festivals, morals, diverse cultures, space exploration, and the value of money.",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "Unit 1: Festivals and Celebrations",
+        "content": "Explores global festivals, their origins, customs, and significance.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Festival Origins",
+            "content": "Festivals originate from seasons, religions, famous figures, and important events.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Harvest Festivals",
+            "content": "Celebrated worldwide to show gratitude for food supply, e.g., Mid-Autumn Festival in China.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Changing Customs",
+            "content": "Customs evolve over time due to modernization, e.g., firecrackers banned in cities for pollution.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Commercialization of Festivals",
+            "content": "Festivals becoming more commercial with increased spending on gifts.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Lantern Festival",
+            "content": "Chinese festival with lantern displays, riddles, and yuanxiao eating.",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Morals and Virtues",
+        "content": "Discusses moral dilemmas, virtues, and ethical decision-making through stories.",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "Moral Dilemmas",
+            "content": "Situations requiring difficult choices between conflicting values.",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "Dr. Lin Qiaozhi's Life",
+            "content": "First Chinese female OB-GYN, known for compassion and dedication.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Virtues",
+            "content": "Qualities like kindness, honesty, and responsibility admired across cultures.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "The Stone in the Road",
+            "content": "Fable teaching responsibility and proactive problem-solving.",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: Diverse Cultures",
+        "content": "Examines cultural diversity, immigration, and cultural symbols.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Cultural Diversity in the US",
+            "content": "Influences from Native Americans, immigrants, and ethnic groups.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Chinatown in San Francisco",
+            "content": "Oldest and largest Chinatown in the US, a center for Chinese culture.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Ethnic Minority Cultures in China",
+            "content": "Rich traditions of groups like Zhuang, with unique festivals and customs.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "American Food Origins",
+            "content": "Foods like hamburgers, nachos, and gumbo reflect diverse cultural influences.",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 4: Space Exploration",
+        "content": "Covers the history, challenges, and benefits of space exploration.",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "History of Space Exploration",
+            "content": "Key events: Sputnik 1, Yuri Gagarin's flight, Apollo 11 moon landing.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Challenges of Space Travel",
+            "content": "Risks include launch failures, space debris, and long-term health effects.",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "Benefits of Space Exploration",
+            "content": "Technological advancements, scientific discoveries, and inspiring innovation.",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "China's Space Program",
+            "content": "Achievements like Shenzhou missions, Tiangong Space Station, and Mars exploration.",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 5: The Value of Money",
+        "content": "Discusses attitudes towards money, wealth, and ethical financial behavior.",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "The Million Pound Bank Note",
+            "content": "Story by Mark Twain exploring how wealth affects perception and treatment.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Moral Implications of Money",
+            "content": "Discusses honesty, generosity, and the dangers of greed.",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "Real-Life Examples",
+            "content": "Stories like Chen Liyan returning lost money, highlighting integrity.",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Grammar and Language",
+        "content": "Key grammar points and language functions covered in the textbook.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "-ing Form as Attribute and Predicative",
+            "content": "Using -ing forms to describe nouns and as subject complements.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Ellipsis",
+            "content": "Omitting words to avoid repetition in conversations and writing.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Modal Verbs",
+            "content": "Expressing ability, permission, obligation, and possibility.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Past Future Tense",
+            "content": "Describing future events from a past perspective.",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "Festivals and Celebrations",
+      "tail": "Harvest Festivals",
+      "relation": "includes"
+    },
+    {
+      "head": "Festivals and Celebrations",
+      "tail": "Changing Customs",
+      "relation": "includes"
+    },
+    {
+      "head": "Morals and Virtues",
+      "tail": "Moral Dilemmas",
+      "relation": "includes"
+    },
+    {
+      "head": "Morals and Virtues",
+      "tail": "Dr. Lin Qiaozhi's Life",
+      "relation": "exemplifies"
+    },
+    {
+      "head": "Diverse Cultures",
+      "tail": "Chinatown in San Francisco",
+      "relation": "exemplifies"
+    },
+    {
+      "head": "Diverse Cultures",
+      "tail": "Ethnic Minority Cultures in China",
+      "relation": "includes"
+    },
+    {
+      "head": "Space Exploration",
+      "tail": "History of Space Exploration",
+      "relation": "includes"
+    },
+    {
+      "head": "Space Exploration",
+      "tail": "Benefits of Space Exploration",
+      "relation": "highlights"
+    },
+    {
+      "head": "The Value of Money",
+      "tail": "The Million Pound Bank Note",
+      "relation": "uses as example"
+    },
+    {
+      "head": "Grammar and Language",
+      "tail": "-ing Form as Attribute and Predicative",
+      "relation": "teaches"
+    },
+    {
+      "head": "Grammar and Language",
+      "tail": "Ellipsis",
+      "relation": "teaches"
+    },
+    {
+      "head": "Dr. Lin Qiaozhi",
+      "tail": "Compassion",
+      "relation": "demonstrates"
+    },
+    {
+      "head": "Chinatown",
+      "tail": "Chinese Culture",
+      "relation": "preserves and promotes"
+    },
+    {
+      "head": "Space Exploration",
+      "tail": "Technological Advancements",
+      "relation": "drives"
+    },
+    {
+      "head": "The Million Pound Bank Note",
+      "tail": "Perception of Wealth",
+      "relation": "critiques"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:21:30",
+    "version": "1.1"
+  }
+}

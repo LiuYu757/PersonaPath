@@ -1,0 +1,606 @@
+{
+  "knowledge_tree": {
+    "title": "遗传与进化",
+    "content": "高中生物必修2遗传与进化内容，涵盖遗传因子的发现、基因和染色体的关系、基因的本质、基因的表达、基因突变及其他变异、生物的进化等核心知识",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "遗传因子的发现",
+        "content": "孟德尔遗传定律的发现过程与基本原理",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "孟德尔豌豆杂交实验（一）",
+            "content": "一对相对性状的杂交实验，分离定律的发现",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "豌豆作为遗传实验材料的优点",
+                "content": "自花传粉、闭花授粉，自然状态下是纯种；具有易于区分的相对性状",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "相对性状",
+                "content": "一种生物的同一种性状的不同表现类型",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "显性性状和隐性性状",
+                "content": "F1中显现出来的性状为显性性状，未显现的为隐性性状",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "性状分离",
+                "content": "杂种后代中同时出现显性性状和隐性性状的现象",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "分离定律",
+                "content": "在生物的体细胞中，控制同一性状的遗传因子成对存在，不相融合；在形成配子时，成对的遗传因子发生分离",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "假说-演绎法",
+                "content": "科学研究方法：观察现象→提出假说→演绎推理→实验验证",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "孟德尔豌豆杂交实验（二）",
+            "content": "两对相对性状的杂交实验，自由组合定律的发现",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "自由组合定律",
+                "content": "控制不同性状的遗传因子的分离和组合是互不干扰的；在形成配子时，决定同一性状的成对的遗传因子彼此分离，决定不同性状的遗传因子自由组合",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "基因型与表型",
+                "content": "基因型是性状表现的内在因素，表型是基因型的表现形式",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "等位基因",
+                "content": "控制相对性状的基因",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "基因和染色体的关系",
+        "content": "基因在染色体上的证据以及减数分裂与遗传的关系",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "减数分裂和受精作用",
+            "content": "生殖细胞形成过程中染色体数目减半的细胞分裂方式",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "减数分裂过程",
+                "content": "染色体复制一次，细胞连续分裂两次，形成染色体数目减半的生殖细胞",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "同源染色体",
+                "content": "形状和大小一般相同，一条来自父方、一条来自母方的染色体",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "联会和四分体",
+                "content": "同源染色体两两配对的现象叫联会，联会后的每对同源染色体含有四条染色单体，叫作四分体",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "受精作用",
+                "content": "精子和卵细胞结合形成受精卵的过程，使染色体数目恢复",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "基因在染色体上",
+            "content": "萨顿假说和摩尔根实验证明基因位于染色体上",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "萨顿假说",
+                "content": "基因和染色体行为存在平行关系，基因位于染色体上",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "摩尔根果蝇实验",
+                "content": "通过白眼果蝇的遗传实验证明基因在染色体上",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "基因的连锁与互换定律",
+                "content": "位于同一条染色体上的基因常常连在一起遗传",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "伴性遗传",
+            "content": "基因位于性染色体上，遗传与性别相关联",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "人类红绿色盲",
+                "content": "X染色体隐性遗传病，男性患者多于女性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "抗维生素D佝偻病",
+                "content": "X染色体显性遗传病，女性患者多于男性",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "基因的本质",
+        "content": "DNA是主要遗传物质的证据以及DNA的结构和复制",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "DNA是主要的遗传物质",
+            "content": "通过实验证明DNA是遗传物质",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "肺炎链球菌转化实验",
+                "content": "格里菲思和艾弗里实验证明DNA是转化因子",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "噬菌体侵染细菌实验",
+                "content": "赫尔希和蔡斯实验证明DNA是遗传物质",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "DNA的结构",
+            "content": "DNA双螺旋结构模型及其特点",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "DNA双螺旋结构",
+                "content": "两条反向平行的脱氧核苷酸链盘旋成双螺旋结构",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "碱基互补配对原则",
+                "content": "A与T配对，G与C配对",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "DNA的复制",
+            "content": "DNA半保留复制过程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "半保留复制",
+                "content": "新合成的每个DNA分子中，都保留了原来DNA分子中的一条链",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "DNA复制过程",
+                "content": "解旋→合成子链→形成两个新的DNA分子",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "基因通常是有遗传效应的DNA片段",
+            "content": "基因的本质是有遗传效应的DNA片段",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "基因与DNA的关系",
+                "content": "基因是有遗传效应的DNA片段",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "遗传信息",
+                "content": "遗传信息蕴藏在4种碱基的排列顺序之中",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "基因的表达",
+        "content": "基因通过指导蛋白质合成来控制性状",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "基因指导蛋白质的合成",
+            "content": "遗传信息的转录和翻译过程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "转录",
+                "content": "以DNA的一条链为模板合成RNA的过程",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "翻译",
+                "content": "以mRNA为模板合成蛋白质的过程",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "密码子",
+                "content": "mRNA上决定一个氨基酸的三个相邻碱基",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "中心法则",
+                "content": "遗传信息从DNA流向RNA，进而流向蛋白质",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "基因表达与性状的关系",
+            "content": "基因通过控制蛋白质的合成来控制性状",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "基因控制性状的途径",
+                "content": "通过控制酶的合成控制代谢过程，或通过控制蛋白质结构直接控制性状",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "细胞分化",
+                "content": "基因的选择性表达导致细胞形态、结构和功能发生稳定性差异",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "表观遗传",
+                "content": "基因的碱基序列不变，但基因表达和表型发生可遗传变化的现象",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "基因突变及其他变异",
+        "content": "可遗传变异的类型和人类遗传病",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "基因突变和基因重组",
+            "content": "可遗传变异的两个重要来源",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "基因突变",
+                "content": "DNA分子中发生碱基的替换、增添或缺失，而引起的基因碱基序列的改变",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "基因重组",
+                "content": "生物体进行有性生殖的过程中，控制不同性状的基因的重新组合",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "细胞的癌变",
+                "content": "原癌基因和抑癌基因突变导致细胞癌变",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "染色体变异",
+            "content": "染色体结构和数目的变化",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "染色体数目变异",
+                "content": "细胞内染色体数目以染色体组为单位成倍增加或减少",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "染色体结构变异",
+                "content": "缺失、重复、倒位、易位等染色体结构变化",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "人类遗传病",
+            "content": "由遗传物质改变引起的人类疾病",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "单基因遗传病",
+                "content": "受一对等位基因控制的遗传病",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "多基因遗传病",
+                "content": "受两对或两对以上等位基因控制的遗传病",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "染色体异常遗传病",
+                "content": "由染色体变异引起的遗传病",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "生物的进化",
+        "content": "生物进化的证据和机制",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "生物有共同祖先的证据",
+            "content": "多种证据支持生物进化论",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "化石证据",
+                "content": "地层中的化石记录显示生物进化的顺序",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "比较解剖学证据",
+                "content": "同源器官和痕迹器官的存在表明生物有共同祖先",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "胚胎学证据",
+                "content": "脊椎动物胚胎发育早期相似表明有共同祖先",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "细胞和分子水平证据",
+                "content": "所有生物有相似的细胞结构和分子组成",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "自然选择与适应的形成",
+            "content": "自然选择是适应形成的原因",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "适应的普遍性和相对性",
+                "content": "适应是普遍存在的但不是绝对的",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "自然选择学说",
+                "content": "过度繁殖、生存斗争、遗传变异、适者生存",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "种群基因组成的变化与物种的形成",
+            "content": "现代生物进化理论的核心内容",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "种群和基因库",
+                "content": "种群是生物进化的基本单位，基因库是种群中全部基因",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "基因频率的计算",
+                "content": "某个基因在种群基因库中所占的比例",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "物种的概念",
+                "content": "能够在自然状态下相互交配并产生可育后代的一群生物",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "隔离与物种形成",
+                "content": "地理隔离和生殖隔离导致新物种形成",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "协同进化与生物多样性的形成",
+            "content": "生物与生物、生物与环境之间相互影响共同进化",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "协同进化",
+                "content": "不同物种之间、生物与无机环境之间相互影响而进化",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "生物多样性",
+                "content": "遗传多样性、物种多样性、生态系统多样性",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "遗传因子",
+      "tail": "基因",
+      "relation": "发展为"
+    },
+    {
+      "head": "分离定律",
+      "tail": "减数分裂",
+      "relation": "通过实现"
+    },
+    {
+      "head": "自由组合定律",
+      "tail": "非同源染色体",
+      "relation": "基于"
+    },
+    {
+      "head": "基因",
+      "tail": "染色体",
+      "relation": "位于"
+    },
+    {
+      "head": "伴性遗传",
+      "tail": "性染色体",
+      "relation": "由决定"
+    },
+    {
+      "head": "DNA",
+      "tail": "遗传物质",
+      "relation": "是"
+    },
+    {
+      "head": "DNA双螺旋结构",
+      "tail": "碱基互补配对",
+      "relation": "遵循"
+    },
+    {
+      "head": "DNA复制",
+      "tail": "半保留复制",
+      "relation": "采用方式"
+    },
+    {
+      "head": "转录",
+      "tail": "RNA",
+      "relation": "产生"
+    },
+    {
+      "head": "翻译",
+      "tail": "蛋白质",
+      "relation": "合成"
+    },
+    {
+      "head": "密码子",
+      "tail": "氨基酸",
+      "relation": "决定"
+    },
+    {
+      "head": "中心法则",
+      "tail": "遗传信息流动",
+      "relation": "描述"
+    },
+    {
+      "head": "基因突变",
+      "tail": "可遗传变异",
+      "relation": "提供来源"
+    },
+    {
+      "head": "基因重组",
+      "tail": "有性生殖",
+      "relation": "发生在"
+    },
+    {
+      "head": "染色体变异",
+      "tail": "染色体数目变化",
+      "relation": "包括"
+    },
+    {
+      "head": "人类遗传病",
+      "tail": "遗传物质改变",
+      "relation": "由引起"
+    },
+    {
+      "head": "化石",
+      "tail": "生物进化",
+      "relation": "提供证据"
+    },
+    {
+      "head": "自然选择",
+      "tail": "适应形成",
+      "relation": "导致"
+    },
+    {
+      "head": "种群",
+      "tail": "生物进化",
+      "relation": "是基本单位"
+    },
+    {
+      "head": "隔离",
+      "tail": "物种形成",
+      "relation": "导致"
+    },
+    {
+      "head": "协同进化",
+      "tail": "生物多样性",
+      "relation": "形成"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:28:13",
+    "version": "1.1"
+  }
+}

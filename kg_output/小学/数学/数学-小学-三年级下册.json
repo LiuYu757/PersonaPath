@@ -1,0 +1,585 @@
+{
+  "knowledge_tree": {
+    "title": "三年级下册数学",
+    "content": "人教版三年级下册数学，涵盖除数是一位数的除法、两位数乘两位数、面积、年、月、日、小数的初步认识等核心内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "除数是一位数的除法",
+        "content": "包括口算除法和笔算除法，掌握除法运算的基本方法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "口算除法",
+            "content": "整十、整百数除以一位数的口算方法",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "整十数除以一位数",
+                "content": "如60÷3=20，利用数的组成计算",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "整百数除以一位数",
+                "content": "如600÷3=200，利用数的组成计算",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "估算除法",
+                "content": "如267÷3≈90，将267看作270进行估算",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "笔算除法",
+            "content": "两位数或三位数除以一位数的竖式计算",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "两位数除以一位数",
+                "content": "如42÷2=21，用竖式计算",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "三位数除以一位数",
+                "content": "如256÷2=128，用竖式计算",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "有余数的除法",
+                "content": "如148÷6=24余4，掌握有余数除法的计算和验算",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "商中间或末尾有0的除法",
+                "content": "如208÷2=104，216÷2=108，掌握特殊情况的处理",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "两位数乘两位数",
+        "content": "包括口算乘法和笔算乘法，掌握乘法运算的基本方法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "口算乘法",
+            "content": "整十、整百数乘整十数的口算方法",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "整十数乘整十数",
+                "content": "如20×30=600，利用表内乘法计算",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "整百数乘整十数",
+                "content": "如200×30=6000，利用表内乘法计算",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "笔算乘法",
+            "content": "两位数乘两位数的竖式计算",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "不进位乘法",
+                "content": "如12×14=168，用竖式计算",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "进位乘法",
+                "content": "如37×48=1776，用竖式计算",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "面积",
+        "content": "包括面积和面积单位、长方形和正方形面积的计算、面积单位间的进率",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "面积和面积单位",
+            "content": "认识面积的含义，认识面积单位平方厘米、平方分米、平方米",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "面积的含义",
+                "content": "物体表面或封闭图形的大小就是它们的面积",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "平方厘米",
+                "content": "边长1厘米的正方形，面积是1平方厘米",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "平方分米",
+                "content": "边长1分米的正方形，面积是1平方分米",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "平方米",
+                "content": "边长1米的正方形，面积是1平方米",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "长方形和正方形面积的计算",
+            "content": "掌握长方形和正方形面积的计算公式",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "长方形面积公式",
+                "content": "长方形的面积=长×宽",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "正方形面积公式",
+                "content": "正方形的面积=边长×边长",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "面积单位间的进率",
+            "content": "掌握平方厘米、平方分米、平方米之间的进率",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "平方厘米与平方分米",
+                "content": "1平方分米=100平方厘米",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "平方分米与平方米",
+                "content": "1平方米=100平方分米",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "年、月、日",
+        "content": "认识年、月、日，了解平年和闰年，认识24时计时法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "年、月、日的认识",
+            "content": "认识时间单位年、月、日，了解它们之间的关系",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "一年有12个月",
+                "content": "一年有12个月，有7个大月，4个小月，一个特殊月",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "大月、小月",
+                "content": "大月有31天，小月有30天，2月有28天或29天",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "平年和闰年",
+            "content": "认识平年和闰年，掌握判断平年和闰年的方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "平年",
+                "content": "2月有28天，全年有365天",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "闰年",
+                "content": "2月有29天，全年有366天",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "判断方法",
+                "content": "公历年份是4的倍数的一般是闰年，但公历年份是整百数的，必须是400的倍数才是闰年",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "24时计时法",
+            "content": "认识24时计时法，并能与普通计时法进行转换",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "24时计时法",
+                "content": "采用0时到24时的计时法",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "与普通计时法的转换",
+                "content": "如下午3时就是15时，晚上8时就是20时",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "小数的初步认识",
+        "content": "认识小数，会读、写小数，能进行简单的小数加、减法计算",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "小数的含义和读写法",
+            "content": "认识小数，知道小数各部分的名称，会读、写小数",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "小数的含义",
+                "content": "像3.45、0.85、2.60这样的数叫做小数",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "小数的读法",
+                "content": "如3.45读作三点四五",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "小数的写法",
+                "content": "如三点四五写作3.45",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "简单的小数加、减法",
+            "content": "掌握简单的小数加、减法的计算方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "小数加法",
+                "content": "如0.8+0.6=1.4，小数点对齐，从低位加起",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "小数减法",
+                "content": "如0.8-0.6=0.2，小数点对齐，从低位减起",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "除数是一位数的除法",
+      "tail": "口算除法",
+      "relation": "包含"
+    },
+    {
+      "head": "除数是一位数的除法",
+      "tail": "笔算除法",
+      "relation": "包含"
+    },
+    {
+      "head": "口算除法",
+      "tail": "整十数除以一位数",
+      "relation": "包含"
+    },
+    {
+      "head": "口算除法",
+      "tail": "整百数除以一位数",
+      "relation": "包含"
+    },
+    {
+      "head": "口算除法",
+      "tail": "估算除法",
+      "relation": "包含"
+    },
+    {
+      "head": "笔算除法",
+      "tail": "两位数除以一位数",
+      "relation": "包含"
+    },
+    {
+      "head": "笔算除法",
+      "tail": "三位数除以一位数",
+      "relation": "包含"
+    },
+    {
+      "head": "笔算除法",
+      "tail": "有余数的除法",
+      "relation": "包含"
+    },
+    {
+      "head": "笔算除法",
+      "tail": "商中间或末尾有0的除法",
+      "relation": "包含"
+    },
+    {
+      "head": "两位数乘两位数",
+      "tail": "口算乘法",
+      "relation": "包含"
+    },
+    {
+      "head": "两位数乘两位数",
+      "tail": "笔算乘法",
+      "relation": "包含"
+    },
+    {
+      "head": "口算乘法",
+      "tail": "整十数乘整十数",
+      "relation": "包含"
+    },
+    {
+      "head": "口算乘法",
+      "tail": "整百数乘整十数",
+      "relation": "包含"
+    },
+    {
+      "head": "笔算乘法",
+      "tail": "不进位乘法",
+      "relation": "包含"
+    },
+    {
+      "head": "笔算乘法",
+      "tail": "进位乘法",
+      "relation": "包含"
+    },
+    {
+      "head": "面积",
+      "tail": "面积和面积单位",
+      "relation": "包含"
+    },
+    {
+      "head": "面积",
+      "tail": "长方形和正方形面积的计算",
+      "relation": "包含"
+    },
+    {
+      "head": "面积",
+      "tail": "面积单位间的进率",
+      "relation": "包含"
+    },
+    {
+      "head": "面积和面积单位",
+      "tail": "面积的含义",
+      "relation": "包含"
+    },
+    {
+      "head": "面积和面积单位",
+      "tail": "平方厘米",
+      "relation": "包含"
+    },
+    {
+      "head": "面积和面积单位",
+      "tail": "平方分米",
+      "relation": "包含"
+    },
+    {
+      "head": "面积和面积单位",
+      "tail": "平方米",
+      "relation": "包含"
+    },
+    {
+      "head": "长方形和正方形面积的计算",
+      "tail": "长方形面积公式",
+      "relation": "包含"
+    },
+    {
+      "head": "长方形和正方形面积的计算",
+      "tail": "正方形面积公式",
+      "relation": "包含"
+    },
+    {
+      "head": "面积单位间的进率",
+      "tail": "平方厘米与平方分米",
+      "relation": "包含"
+    },
+    {
+      "head": "面积单位间的进率",
+      "tail": "平方分米与平方米",
+      "relation": "包含"
+    },
+    {
+      "head": "年、月、日",
+      "tail": "年、月、日的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "年、月、日",
+      "tail": "平年和闰年",
+      "relation": "包含"
+    },
+    {
+      "head": "年、月、日",
+      "tail": "24时计时法",
+      "relation": "包含"
+    },
+    {
+      "head": "年、月、日的认识",
+      "tail": "一年有12个月",
+      "relation": "包含"
+    },
+    {
+      "head": "年、月、日的认识",
+      "tail": "大月、小月",
+      "relation": "包含"
+    },
+    {
+      "head": "平年和闰年",
+      "tail": "平年",
+      "relation": "包含"
+    },
+    {
+      "head": "平年和闰年",
+      "tail": "闰年",
+      "relation": "包含"
+    },
+    {
+      "head": "平年和闰年",
+      "tail": "判断方法",
+      "relation": "包含"
+    },
+    {
+      "head": "24时计时法",
+      "tail": "24时计时法",
+      "relation": "包含"
+    },
+    {
+      "head": "24时计时法",
+      "tail": "与普通计时法的转换",
+      "relation": "包含"
+    },
+    {
+      "head": "小数的初步认识",
+      "tail": "小数的含义和读写法",
+      "relation": "包含"
+    },
+    {
+      "head": "小数的初步认识",
+      "tail": "简单的小数加、减法",
+      "relation": "包含"
+    },
+    {
+      "head": "小数的含义和读写法",
+      "tail": "小数的含义",
+      "relation": "包含"
+    },
+    {
+      "head": "小数的含义和读写法",
+      "tail": "小数的读法",
+      "relation": "包含"
+    },
+    {
+      "head": "小数的含义和读写法",
+      "tail": "小数的写法",
+      "relation": "包含"
+    },
+    {
+      "head": "简单的小数加、减法",
+      "tail": "小数加法",
+      "relation": "包含"
+    },
+    {
+      "head": "简单的小数加、减法",
+      "tail": "小数减法",
+      "relation": "包含"
+    },
+    {
+      "head": "口算除法",
+      "tail": "笔算除法",
+      "relation": "为基础"
+    },
+    {
+      "head": "口算乘法",
+      "tail": "笔算乘法",
+      "relation": "为基础"
+    },
+    {
+      "head": "面积和面积单位",
+      "tail": "长方形和正方形面积的计算",
+      "relation": "为基础"
+    },
+    {
+      "head": "年、月、日的认识",
+      "tail": "平年和闰年",
+      "relation": "为基础"
+    },
+    {
+      "head": "小数的含义和读写法",
+      "tail": "简单的小数加、减法",
+      "relation": "为基础"
+    },
+    {
+      "head": "笔算除法",
+      "tail": "解决实际问题",
+      "relation": "应用于"
+    },
+    {
+      "head": "笔算乘法",
+      "tail": "解决实际问题",
+      "relation": "应用于"
+    },
+    {
+      "head": "长方形和正方形面积的计算",
+      "tail": "解决实际问题",
+      "relation": "应用于"
+    },
+    {
+      "head": "24时计时法",
+      "tail": "解决时间问题",
+      "relation": "应用于"
+    },
+    {
+      "head": "简单的小数加、减法",
+      "tail": "解决购物问题",
+      "relation": "应用于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:16:48",
+    "version": "1.1"
+  }
+}

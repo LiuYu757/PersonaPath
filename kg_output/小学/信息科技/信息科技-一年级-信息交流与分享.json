@@ -1,0 +1,312 @@
+{
+  "knowledge_tree": {
+    "title": "信息交流与分享",
+    "content": "一年级信息科技课程，涵盖数字设备使用、信息交流与分享的基本概念和技能",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "数字设备基础",
+        "content": "认识校园和家庭中的数字设备，了解其基本功能",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "校园数字设备",
+            "content": "电子白板、计算机、监控设备等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "家庭数字设备",
+            "content": "手机、平板计算机、智能家居设备等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "数字设备推荐",
+            "content": "分享使用数字设备的经历和体验",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数字资源使用",
+        "content": "利用数字设备和资源辅助学习",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "收听音频资源",
+            "content": "使用数字设备收听音乐、诗词等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "学习拼音和汉字",
+            "content": "利用App学习拼音和查字典",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "数学学习辅助",
+            "content": "使用数字设备进行口算练习和图形辨识",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "人工智能工具",
+        "content": "初步体验人工智能工具辅助学习",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "语音输入提问",
+            "content": "通过语音向人工智能工具提问",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "识别花草",
+            "content": "利用人工智能工具识别植物",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数字创作",
+        "content": "利用数字设备进行创作和表达",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "语音输入文字",
+            "content": "通过语音输入文字表达情感",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "触屏手写输入",
+            "content": "通过手写输入文字",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "拍摄照片",
+            "content": "使用数字设备拍摄照片",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "录制音频和视频",
+            "content": "使用数字设备录制音频和视频",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "手指画画",
+            "content": "使用画图软件进行创作",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "信息分享与交流",
+        "content": "在线交流和信息分享的基本规范",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "信息分享意义",
+            "content": "了解信息分享的重要性和方式",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "在线交流群",
+            "content": "使用交流群进行信息分享",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "表情图片使用",
+            "content": "使用表情图片增强交流效果",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "点赞行为",
+            "content": "通过点赞表达认可和鼓励",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "公共服务数字设备",
+        "content": "公共场所数字设备的使用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "自助服务设备",
+            "content": "使用自助服务设备完成各种操作",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "在线预约和查询",
+            "content": "使用数字设备进行预约和信息查询",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "导航系统使用",
+            "content": "使用地图软件进行导航",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "数字设备",
+      "tail": "校园数字设备",
+      "relation": "包含"
+    },
+    {
+      "head": "数字设备",
+      "tail": "家庭数字设备",
+      "relation": "包含"
+    },
+    {
+      "head": "数字资源使用",
+      "tail": "收听音频资源",
+      "relation": "包含"
+    },
+    {
+      "head": "数字资源使用",
+      "tail": "学习拼音和汉字",
+      "relation": "包含"
+    },
+    {
+      "head": "数字资源使用",
+      "tail": "数学学习辅助",
+      "relation": "包含"
+    },
+    {
+      "head": "人工智能工具",
+      "tail": "语音输入提问",
+      "relation": "包含"
+    },
+    {
+      "head": "人工智能工具",
+      "tail": "识别花草",
+      "relation": "包含"
+    },
+    {
+      "head": "数字创作",
+      "tail": "语音输入文字",
+      "relation": "包含"
+    },
+    {
+      "head": "数字创作",
+      "tail": "触屏手写输入",
+      "relation": "包含"
+    },
+    {
+      "head": "数字创作",
+      "tail": "拍摄照片",
+      "relation": "包含"
+    },
+    {
+      "head": "数字创作",
+      "tail": "录制音频和视频",
+      "relation": "包含"
+    },
+    {
+      "head": "数字创作",
+      "tail": "手指画画",
+      "relation": "包含"
+    },
+    {
+      "head": "信息分享与交流",
+      "tail": "信息分享意义",
+      "relation": "包含"
+    },
+    {
+      "head": "信息分享与交流",
+      "tail": "在线交流群",
+      "relation": "包含"
+    },
+    {
+      "head": "信息分享与交流",
+      "tail": "表情图片使用",
+      "relation": "包含"
+    },
+    {
+      "head": "信息分享与交流",
+      "tail": "点赞行为",
+      "relation": "包含"
+    },
+    {
+      "head": "公共服务数字设备",
+      "tail": "自助服务设备",
+      "relation": "包含"
+    },
+    {
+      "head": "公共服务数字设备",
+      "tail": "在线预约和查询",
+      "relation": "包含"
+    },
+    {
+      "head": "公共服务数字设备",
+      "tail": "导航系统使用",
+      "relation": "包含"
+    },
+    {
+      "head": "数字设备",
+      "tail": "数字资源使用",
+      "relation": "用于"
+    },
+    {
+      "head": "数字设备",
+      "tail": "数字创作",
+      "relation": "用于"
+    },
+    {
+      "head": "数字设备",
+      "tail": "信息分享与交流",
+      "relation": "用于"
+    },
+    {
+      "head": "数字设备",
+      "tail": "公共服务数字设备",
+      "relation": "用于"
+    },
+    {
+      "head": "人工智能工具",
+      "tail": "数字资源使用",
+      "relation": "辅助"
+    },
+    {
+      "head": "表情图片",
+      "tail": "信息分享与交流",
+      "relation": "增强"
+    },
+    {
+      "head": "在线交流群",
+      "tail": "信息分享",
+      "relation": "促进"
+    },
+    {
+      "head": "导航系统",
+      "tail": "出行",
+      "relation": "辅助"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 18:07:12",
+    "version": "1.1"
+  }
+}

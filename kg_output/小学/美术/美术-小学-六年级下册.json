@@ -1,0 +1,1371 @@
+{
+  "knowledge_tree": {
+    "title": "美术六年级下册",
+    "content": "小学六年级美术下册课程，涵盖明暗与立体、色彩记录、雕刻技法、浮雕、扇面画、工笔花卉、服装设计、图文创作、宇宙主题、奥运精神、未来学校规划、毕业纪念、电脑美术及古代建筑艺术等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "明暗与立体",
+        "content": "学习物体在光线照射下产生的明暗变化，通过观察和绘画表现立体感",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "明暗的产生原理",
+            "content": "光线照射物体表面形成亮面、灰面、明暗交界线、暗面、反光和投影",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "亮面",
+                "content": "受光最充分的区域",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "灰面",
+                "content": "介于亮面与明暗交界线之间的过渡区域",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "明暗交界线",
+                "content": "亮面与暗面交界处，对比最强烈的区域",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "暗面",
+                "content": "背光部分的主要区域",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "反光",
+                "content": "暗部受环境光影响产生的微弱亮区",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "投影",
+                "content": "物体遮挡光线后在地面或其他表面上形成的阴影",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "立体感表现技法",
+            "content": "运用铅笔等工具通过明暗对比表现物体的三维立体效果",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "立方体明暗表现",
+                "content": "通过直线和明暗变化表现立方体的立体感",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "圆柱体明暗表现",
+                "content": "通过渐变明暗表现圆柱体的曲面立体感",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "圆球体明暗表现",
+                "content": "通过弧形明暗过渡表现球体的立体感",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "寻找美的踪迹",
+        "content": "发现和记录生活中美的瞬间，培养审美观察能力",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "美的发现方法",
+            "content": "通过观察生活细节、局部特写和不同视角发现美",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "局部特写拍摄",
+                "content": "通过拍摄物体局部发现形式美感",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "生活场景取景",
+                "content": "在日常生活环境中发现美的构图和色彩",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "自然景观观察",
+                "content": "观察自然界中的形式美和色彩美",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "摄影记录技巧",
+            "content": "运用摄影技术记录和表现美的瞬间",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "构图技巧",
+                "content": "运用构图法则安排画面元素",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "光影运用",
+                "content": "利用光线效果增强画面表现力",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "色彩捕捉",
+                "content": "记录和表现物体的色彩美感",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "记录色彩",
+        "content": "学习观察和表现不同光照条件下的色彩变化",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "色彩观察方法",
+            "content": "学习观察不同时间段的色彩变化规律",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "晨光色彩特征",
+                "content": "早晨光线柔和，色彩偏冷色调",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "正午色彩特征",
+                "content": "中午光线强烈，色彩明亮饱和",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "黄昏色彩特征",
+                "content": "傍晚光线温暖，色彩偏暖色调",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "色彩表现技法",
+            "content": "运用绘画工具表现色彩感受",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "色彩概括表现",
+                "content": "快速捕捉和表现色彩主调",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "色彩层次丰富",
+                "content": "通过色彩变化表现空间和质感",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "前景色彩处理",
+                "content": "通过前景色彩增强画面层次感",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "雕与刻的乐趣",
+        "content": "学习不同材料的雕刻技法，体验立体造型乐趣",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "雕刻材料认识",
+            "content": "了解各种可用于雕刻的材料特性",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "肥皂雕刻特性",
+                "content": "质地柔软，易于雕刻，适合初学者",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "瓜果雕刻特性",
+                "content": "南瓜、萝卜等天然材料，色彩丰富",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "石膏雕刻特性",
+                "content": "质地均匀，易于塑造细节",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "雕刻技法步骤",
+            "content": "掌握从大体到细节的雕刻方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "大体外形雕刻",
+                "content": "先雕刻出物体的基本形状和轮廓",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "细节刻画",
+                "content": "在基本形基础上精细雕刻细节特征",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "表面处理",
+                "content": "对雕刻表面进行修整和美化",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "浮雕",
+        "content": "学习浮雕艺术的基本知识和制作技法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "浮雕分类",
+            "content": "了解高浮雕和浅浮雕的区别",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "高浮雕",
+                "content": "形象凸起较高，接近圆雕效果",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "浅浮雕",
+                "content": "形象凸起较低，保持底板平面感",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "泥浮雕制作",
+            "content": "学习用泥板制作浮雕的完整过程",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "揉泥准备",
+                "content": "将泥料揉匀排除气泡",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "拍制泥板",
+                "content": "制作平整的泥板作为浮雕底板",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "泥条堆塑",
+                "content": "用泥条堆塑出浮雕形象",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "塑刀刻画",
+                "content": "用塑刀工具刻画细节纹理",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "扇面画",
+        "content": "学习扇面画的传统艺术形式和创作方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "扇面类型",
+            "content": "了解团扇和折扇两种主要扇面形式",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "团扇",
+                "content": "圆形或椭圆形扇面，传统女性用扇",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "折扇",
+                "content": "可折叠扇面，便于携带和收藏",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "扇面画创作",
+            "content": "学习根据扇面形状进行构图和绘画",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "构图适配",
+                "content": "画面构图与扇面外形相配合",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "山水扇面",
+                "content": "在扇面上表现山水意境",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "花鸟扇面",
+                "content": "在扇面上表现花鸟题材",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "工笔花卉",
+        "content": "学习工笔画的基本技法和艺术特色",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "工笔画分类",
+            "content": "了解工笔画的不同类型和特点",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "工笔白描",
+                "content": "纯用线条表现，不设色彩",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "工笔淡彩",
+                "content": "设色淡雅，以线为主以色为辅",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "工笔重彩",
+                "content": "色彩浓重艳丽，装饰性强",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "工笔技法",
+            "content": "掌握工笔画的基本工具和技法要求",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "勾线用笔",
+                "content": "使用狼毫笔，掌握中锋用笔技巧",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "着色方法",
+                "content": "掌握分染、接染等传统着色技法",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "线条质量",
+                "content": "追求线条的工整、流畅和韵律感",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "我设计的服装",
+        "content": "学习服装设计的基本原理和制作方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "服装设计要素",
+            "content": "掌握服装设计的主要考虑因素",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "款式设计",
+                "content": "服装的外形轮廓和结构设计",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "色彩搭配",
+                "content": "服装色彩的协调与对比关系",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "材料选择",
+                "content": "根据设计意图选择合适的面料",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "设计表现方法",
+            "content": "学习服装设计的效果图表现",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "效果图绘制",
+                "content": "通过绘画表现服装设计效果",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "立体裁剪",
+                "content": "直接在人体模型上进行设计制作",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "成品制作",
+                "content": "将设计图转化为实际服装作品",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "图文并茂",
+        "content": "学习通过图画和文字结合的方式讲述故事",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "故事创作",
+            "content": "学习编写适合用图画表现的故事",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "故事结构",
+                "content": "设计完整的故事起因、经过、结果",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "情节设计",
+                "content": "安排有趣的情节发展和转折",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "角色塑造",
+                "content": "创造鲜明的人物或动物角色",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "图文配合",
+            "content": "学习图画与文字的有机结合",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "连环画形式",
+                "content": "通过多幅连续画面讲述故事",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "插图形式",
+                "content": "用单幅插图配合文字说明",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "图文布局",
+                "content": "合理安排图画和文字的位置关系",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "宇宙之旅",
+        "content": "通过艺术形式表现宇宙探索主题",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "宇宙知识",
+            "content": "了解航天知识和宇宙探索历史",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "中国航天成就",
+                "content": "了解神舟系列飞船等航天成就",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "宇宙飞船结构",
+                "content": "认识宇宙飞船的基本组成部分",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "太空环境特征",
+                "content": "了解太空的失重、真空等环境特点",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "宇宙主题创作",
+            "content": "用艺术形式表现宇宙探索主题",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "宇宙飞船设计",
+                "content": "设计具有创意的宇宙飞船造型",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "太空场景描绘",
+                "content": "表现太空中的星球、星系等场景",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "材料创意运用",
+                "content": "利用废旧材料制作宇宙飞船模型",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "奥运精神",
+        "content": "通过艺术创作表现奥林匹克精神",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "奥运知识",
+            "content": "了解奥林匹克运动的基本知识",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "五环象征意义",
+                "content": "五环代表五大洲的团结与友谊",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "奥运历史",
+                "content": "了解古代和现代奥运会的发展历程",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "奥运精神内涵",
+                "content": "理解友谊、团结、公平的奥运精神",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "奥运主题创作",
+            "content": "用艺术形式表现奥运主题",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "招贴设计",
+                "content": "设计具有视觉冲击力的奥运宣传招贴",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "命题绘画",
+                "content": "通过绘画表现奥运比赛场景和精神",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "运动雕塑",
+                "content": "用泥塑表现运动人物的动态美感",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "二十年后的学校",
+        "content": "通过规划设计表达对未来学校的想象",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "规划设计原理",
+            "content": "学习建筑规划设计的基本原理",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "功能分区",
+                "content": "根据不同使用功能合理划分区域",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "流线设计",
+                "content": "合理安排人流、物流的移动路线",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "空间组织",
+                "content": "组织不同大小、形状的空间关系",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "模型制作技法",
+            "content": "学习建筑模型的制作方法和技巧",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "材料加工",
+                "content": "掌握纸、泡沫等材料的切割、粘接方法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "细节表现",
+                "content": "表现建筑的门窗、屋顶等细节特征",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "整体组合",
+                "content": "将各个建筑单体组合成完整的校园模型",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "毕业啦",
+        "content": "通过艺术活动表达毕业情感和纪念",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "毕业活动策划",
+            "content": "学习策划和组织毕业纪念活动",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "活动内容设计",
+                "content": "设计有意义的毕业活动环节",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "程序安排",
+                "content": "合理安排活动的时间顺序和流程",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "人员分工",
+                "content": "根据同学特长分配活动任务",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "纪念品制作",
+            "content": "学习制作有纪念意义的手工作品",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "纪念册设计",
+                "content": "制作记录校园生活的纪念相册",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "礼品创作",
+                "content": "制作送给老师和同学的纪念礼品",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "作品展览",
+                "content": "策划和布置毕业美术作品展览",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "电脑美术",
+        "content": "学习运用电脑软件进行美术创作",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "软件工具认识",
+            "content": "了解常用电脑绘画软件的功能",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "画图板工具",
+                "content": "掌握基本绘画工具的使用方法",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "文字处理软件",
+                "content": "学习插入图片和文字排版",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "图片演示软件",
+                "content": "用演示软件制作图文作品",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电子报设计",
+            "content": "学习电子报刊的设计和制作",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "报头设计",
+                "content": "设计醒目而有特色的报刊标题",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "版式布局",
+                "content": "合理安排文字和图片的版面布局",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "色彩搭配",
+                "content": "运用色彩增强版面的视觉效果",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "我国古代建筑艺术",
+        "content": "欣赏和学习中国古代建筑的艺术特色",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "建筑结构特征",
+            "content": "了解中国古代建筑的结构特点",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "木构架结构",
+                "content": "立柱与横梁组成的框架结构体系",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "斗拱构件",
+                "content": "独特的承重兼装饰构件",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "三段式构成",
+                "content": "屋顶、屋身、台基三部分组合",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "建筑艺术元素",
+            "content": "认识古代建筑的装饰和色彩特点",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "屋顶形式",
+                "content": "庑殿顶、歇山顶等不同屋顶样式",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "装饰构件",
+                "content": "彩画、雕刻、匾额等装饰元素",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "色彩运用",
+                "content": "黄色琉璃瓦、朱红屋身等色彩特征",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "建筑类型区分",
+            "content": "了解不同功能建筑的特点",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "宫殿建筑",
+                "content": "帝王居住和理政的建筑群",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "坛庙建筑",
+                "content": "祭祀祖先和神灵的宗教建筑",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "园林建筑",
+                "content": "融合自然与人工的游憩环境",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "民居建筑",
+                "content": "各地传统居住建筑形式",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "明暗与立体",
+      "tail": "明暗的产生原理",
+      "relation": "包含"
+    },
+    {
+      "head": "明暗的产生原理",
+      "tail": "亮面",
+      "relation": "包含"
+    },
+    {
+      "head": "明暗的产生原理",
+      "tail": "灰面",
+      "relation": "包含"
+    },
+    {
+      "head": "明暗的产生原理",
+      "tail": "明暗交界线",
+      "relation": "包含"
+    },
+    {
+      "head": "明暗的产生原理",
+      "tail": "暗面",
+      "relation": "包含"
+    },
+    {
+      "head": "明暗的产生原理",
+      "tail": "反光",
+      "relation": "包含"
+    },
+    {
+      "head": "明暗的产生原理",
+      "tail": "投影",
+      "relation": "包含"
+    },
+    {
+      "head": "明暗与立体",
+      "tail": "立体感表现技法",
+      "relation": "包含"
+    },
+    {
+      "head": "立体感表现技法",
+      "tail": "立方体明暗表现",
+      "relation": "包含"
+    },
+    {
+      "head": "立体感表现技法",
+      "tail": "圆柱体明暗表现",
+      "relation": "包含"
+    },
+    {
+      "head": "立体感表现技法",
+      "tail": "圆球体明暗表现",
+      "relation": "包含"
+    },
+    {
+      "head": "寻找美的踪迹",
+      "tail": "美的发现方法",
+      "relation": "包含"
+    },
+    {
+      "head": "美的发现方法",
+      "tail": "局部特写拍摄",
+      "relation": "包含"
+    },
+    {
+      "head": "美的发现方法",
+      "tail": "生活场景取景",
+      "relation": "包含"
+    },
+    {
+      "head": "美的发现方法",
+      "tail": "自然景观观察",
+      "relation": "包含"
+    },
+    {
+      "head": "寻找美的踪迹",
+      "tail": "摄影记录技巧",
+      "relation": "包含"
+    },
+    {
+      "head": "摄影记录技巧",
+      "tail": "构图技巧",
+      "relation": "包含"
+    },
+    {
+      "head": "摄影记录技巧",
+      "tail": "光影运用",
+      "relation": "包含"
+    },
+    {
+      "head": "摄影记录技巧",
+      "tail": "色彩捕捉",
+      "relation": "包含"
+    },
+    {
+      "head": "记录色彩",
+      "tail": "色彩观察方法",
+      "relation": "包含"
+    },
+    {
+      "head": "色彩观察方法",
+      "tail": "晨光色彩特征",
+      "relation": "包含"
+    },
+    {
+      "head": "色彩观察方法",
+      "tail": "正午色彩特征",
+      "relation": "包含"
+    },
+    {
+      "head": "色彩观察方法",
+      "tail": "黄昏色彩特征",
+      "relation": "包含"
+    },
+    {
+      "head": "记录色彩",
+      "tail": "色彩表现技法",
+      "relation": "包含"
+    },
+    {
+      "head": "色彩表现技法",
+      "tail": "色彩概括表现",
+      "relation": "包含"
+    },
+    {
+      "head": "色彩表现技法",
+      "tail": "色彩层次丰富",
+      "relation": "包含"
+    },
+    {
+      "head": "色彩表现技法",
+      "tail": "前景色彩处理",
+      "relation": "包含"
+    },
+    {
+      "head": "雕与刻的乐趣",
+      "tail": "雕刻材料认识",
+      "relation": "包含"
+    },
+    {
+      "head": "雕刻材料认识",
+      "tail": "肥皂雕刻特性",
+      "relation": "包含"
+    },
+    {
+      "head": "雕刻材料认识",
+      "tail": "瓜果雕刻特性",
+      "relation": "包含"
+    },
+    {
+      "head": "雕刻材料认识",
+      "tail": "石膏雕刻特性",
+      "relation": "包含"
+    },
+    {
+      "head": "雕与刻的乐趣",
+      "tail": "雕刻技法步骤",
+      "relation": "包含"
+    },
+    {
+      "head": "雕刻技法步骤",
+      "tail": "大体外形雕刻",
+      "relation": "包含"
+    },
+    {
+      "head": "雕刻技法步骤",
+      "tail": "细节刻画",
+      "relation": "包含"
+    },
+    {
+      "head": "雕刻技法步骤",
+      "tail": "表面处理",
+      "relation": "包含"
+    },
+    {
+      "head": "浮雕",
+      "tail": "浮雕分类",
+      "relation": "包含"
+    },
+    {
+      "head": "浮雕分类",
+      "tail": "高浮雕",
+      "relation": "包含"
+    },
+    {
+      "head": "浮雕分类",
+      "tail": "浅浮雕",
+      "relation": "包含"
+    },
+    {
+      "head": "浮雕",
+      "tail": "泥浮雕制作",
+      "relation": "包含"
+    },
+    {
+      "head": "泥浮雕制作",
+      "tail": "揉泥准备",
+      "relation": "包含"
+    },
+    {
+      "head": "泥浮雕制作",
+      "tail": "拍制泥板",
+      "relation": "包含"
+    },
+    {
+      "head": "泥浮雕制作",
+      "tail": "泥条堆塑",
+      "relation": "包含"
+    },
+    {
+      "head": "泥浮雕制作",
+      "tail": "塑刀刻画",
+      "relation": "包含"
+    },
+    {
+      "head": "扇面画",
+      "tail": "扇面类型",
+      "relation": "包含"
+    },
+    {
+      "head": "扇面类型",
+      "tail": "团扇",
+      "relation": "包含"
+    },
+    {
+      "head": "扇面类型",
+      "tail": "折扇",
+      "relation": "包含"
+    },
+    {
+      "head": "扇面画",
+      "tail": "扇面画创作",
+      "relation": "包含"
+    },
+    {
+      "head": "扇面画创作",
+      "tail": "构图适配",
+      "relation": "包含"
+    },
+    {
+      "head": "扇面画创作",
+      "tail": "山水扇面",
+      "relation": "包含"
+    },
+    {
+      "head": "扇面画创作",
+      "tail": "花鸟扇面",
+      "relation": "包含"
+    },
+    {
+      "head": "工笔花卉",
+      "tail": "工笔画分类",
+      "relation": "包含"
+    },
+    {
+      "head": "工笔画分类",
+      "tail": "工笔白描",
+      "relation": "包含"
+    },
+    {
+      "head": "工笔画分类",
+      "tail": "工笔淡彩",
+      "relation": "包含"
+    },
+    {
+      "head": "工笔画分类",
+      "tail": "工笔重彩",
+      "relation": "包含"
+    },
+    {
+      "head": "工笔花卉",
+      "tail": "工笔技法",
+      "relation": "包含"
+    },
+    {
+      "head": "工笔技法",
+      "tail": "勾线用笔",
+      "relation": "包含"
+    },
+    {
+      "head": "工笔技法",
+      "tail": "着色方法",
+      "relation": "包含"
+    },
+    {
+      "head": "工笔技法",
+      "tail": "线条质量",
+      "relation": "包含"
+    },
+    {
+      "head": "我设计的服装",
+      "tail": "服装设计要素",
+      "relation": "包含"
+    },
+    {
+      "head": "服装设计要素",
+      "tail": "款式设计",
+      "relation": "包含"
+    },
+    {
+      "head": "服装设计要素",
+      "tail": "色彩搭配",
+      "relation": "包含"
+    },
+    {
+      "head": "服装设计要素",
+      "tail": "材料选择",
+      "relation": "包含"
+    },
+    {
+      "head": "我设计的服装",
+      "tail": "设计表现方法",
+      "relation": "包含"
+    },
+    {
+      "head": "设计表现方法",
+      "tail": "效果图绘制",
+      "relation": "包含"
+    },
+    {
+      "head": "设计表现方法",
+      "tail": "立体裁剪",
+      "relation": "包含"
+    },
+    {
+      "head": "设计表现方法",
+      "tail": "成品制作",
+      "relation": "包含"
+    },
+    {
+      "head": "图文并茂",
+      "tail": "故事创作",
+      "relation": "包含"
+    },
+    {
+      "head": "故事创作",
+      "tail": "故事结构",
+      "relation": "包含"
+    },
+    {
+      "head": "故事创作",
+      "tail": "情节设计",
+      "relation": "包含"
+    },
+    {
+      "head": "故事创作",
+      "tail": "角色塑造",
+      "relation": "包含"
+    },
+    {
+      "head": "图文并茂",
+      "tail": "图文配合",
+      "relation": "包含"
+    },
+    {
+      "head": "图文配合",
+      "tail": "连环画形式",
+      "relation": "包含"
+    },
+    {
+      "head": "图文配合",
+      "tail": "插图形式",
+      "relation": "包含"
+    },
+    {
+      "head": "图文配合",
+      "tail": "图文布局",
+      "relation": "包含"
+    },
+    {
+      "head": "宇宙之旅",
+      "tail": "宇宙知识",
+      "relation": "包含"
+    },
+    {
+      "head": "宇宙知识",
+      "tail": "中国航天成就",
+      "relation": "包含"
+    },
+    {
+      "head": "宇宙知识",
+      "tail": "宇宙飞船结构",
+      "relation": "包含"
+    },
+    {
+      "head": "宇宙知识",
+      "tail": "太空环境特征",
+      "relation": "包含"
+    },
+    {
+      "head": "宇宙之旅",
+      "tail": "宇宙主题创作",
+      "relation": "包含"
+    },
+    {
+      "head": "宇宙主题创作",
+      "tail": "宇宙飞船设计",
+      "relation": "包含"
+    },
+    {
+      "head": "宇宙主题创作",
+      "tail": "太空场景描绘",
+      "relation": "极速响应"
+    },
+    {
+      "head": "宇宙主题创作",
+      "tail": "材料创意运用",
+      "relation": "包含"
+    },
+    {
+      "head": "奥运精神",
+      "tail": "奥运知识",
+      "relation": "包含"
+    },
+    {
+      "head": "奥运知识",
+      "tail": "五环象征意义",
+      "relation": "包含"
+    },
+    {
+      "head": "奥运知识",
+      "tail": "奥运历史",
+      "极速响应包含关系，继续生成剩余部分...": {
+        "knowledge_tree": {
+          "title": "美术六年级下册",
+          "content": "小学六年级美术下册课程，涵盖明暗与立体、色彩记录、雕刻技法、浮雕、扇面画、工笔花卉、服装设计、图文创作、宇宙主题、奥运精神、未来学校规划、毕业纪念、电脑美术及古代建筑艺术等内容",
+          "difficulty": "2",
+          "children": [
+            {
+              "title": "明暗与立体",
+              "content": "学习物体在光线照射下产生的明暗变化，通过观察和绘画表现立体感",
+              "difficulty": "2",
+              "children": [
+                {
+                  "title": "明暗的产生原理",
+                  "content": "光线照射物体表面形成亮面、灰面、明暗交界线、暗面、反光和投影",
+                  "difficulty": "2",
+                  "children": [
+                    {
+                      "title": "亮面",
+                      "content": "受光最充分的区域",
+                      "difficulty": "1",
+                      "children": []
+                    },
+                    {
+                      "title": "灰面",
+                      "content": "介于亮面与明暗交界线之间的过渡区域",
+                      "difficulty": "极速响应，继续生成剩余部分..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 18:24:04",
+    "version": "1.1"
+  }
+}

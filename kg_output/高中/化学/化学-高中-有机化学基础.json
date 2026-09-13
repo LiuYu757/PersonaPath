@@ -1,0 +1,574 @@
+{
+  "knowledge_tree": {
+    "title": "有机化学基础",
+    "content": "高中选择性必修3有机化学基础，涵盖有机化合物的结构特点、研究方法、烃及其衍生物、生物大分子和合成高分子等内容",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "有机化合物的结构特点",
+        "content": "有机化合物的碳骨架结构和官能团分类",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "碳骨架分类",
+            "content": "根据碳原子组成的分子骨架分为链状化合物和环状化合物",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "链状化合物",
+                "content": "脂肪烃及其衍生物，如正丁烷、溴乙烷",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "环状化合物",
+                "content": "脂环化合物和芳香族化合物，如环己烷、苯",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "官能团分类",
+            "content": "根据决定有机化合物特性的原子或原子团进行分类",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "烃类官能团",
+                "content": "烷烃、烯烃、炔烃、芳香烃的特征官能团",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "烃的衍生物官能团",
+                "content": "卤代烃、醇、酚、醚、醛、酮、羧酸、酯、胺、酰胺等官能团",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "有机化合物中的共价键",
+            "content": "σ键和π键的形成特点和性质",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "σ键",
+                "content": "头碰头重叠形成的共价键，可绕键轴旋转",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "π键",
+                "content": "肩并肩重叠形成的共价键，不能绕键轴旋转",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "同分异构现象",
+            "content": "分子式相同但结构不同的现象",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "构造异构",
+                "content": "碳架异构、位置异构、官能团异构",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "立体异构",
+                "content": "顺反异构和对映异构",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "研究有机化合物的一般方法",
+        "content": "分离提纯、确定实验式、分子式和分子结构的分析方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "分离提纯",
+            "content": "蒸馏、萃取、重结晶等物理分离方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "蒸馏",
+                "content": "分离和提纯液态有机化合物的常用方法",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "萃取",
+                "content": "利用溶解度差异进行分离，包括液-液萃取和固-液萃取",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "重结晶",
+                "content": "利用溶解度差异提纯固体有机化合物",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "元素分析与实验式确定",
+            "content": "通过燃烧法测定元素组成和质量分数，计算最简整数比",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "质谱法与分子式确定",
+            "content": "通过质谱仪精确测定相对分子质量",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "分子结构确定",
+            "content": "红外光谱、核磁共振氢谱、X射线衍射等现代分析技术",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "红外光谱",
+                "content": "分析化学键或官能团的振动频率",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "核磁共振氢谱",
+                "content": "分析不同化学环境中氢原子的种类和数量",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "烃",
+        "content": "仅含碳和氢的有机化合物，包括烷烃、烯烃、炔烃和芳香烃",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "烷烃",
+            "content": "饱和烃，通式CnH2n+2",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "烷烃的结构和性质",
+                "content": "sp3杂化，σ键，与甲烷相似的化学性质",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "烷烃的命名",
+                "content": "系统命名法的步骤和规则",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "烯烃和炔烃",
+            "content": "含碳碳双键和三键的不饱和烃",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "烯烃的结构和性质",
+                "content": "sp2杂化，π键，加成反应和氧化反应",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "炔烃的结构和性质",
+                "content": "sp杂化，π键，与烯烃相似的化学性质",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "芳香烃",
+            "content": "含苯环的烃，如苯和苯的同系物",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "苯的结构和性质",
+                "content": "大π键，取代反应和加成反应",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "苯的同系物",
+                "content": "甲苯、二甲苯等，苯环与烷基的相互影响",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "烃的衍生物",
+        "content": "烃分子中的氢原子被官能团取代的化合物",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "卤代烃",
+            "content": "烃基与卤素原子相连的化合物",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "取代反应",
+                "content": "水解反应生成醇",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "消去反应",
+                "content": "脱去卤化氢生成烯烃",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "醇和酚",
+            "content": "含羟基的化合物，羟基连接方式不同",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "醇的性质",
+                "content": "取代、消去、氧化等反应",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "酚的性质",
+                "content": "弱酸性、取代反应和显色反应",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "醛和酮",
+            "content": "含羰基的化合物，醛基与酮基的性质差异",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "醛的化学性质",
+                "content": "加成反应和氧化反应",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "酮的化学性质",
+                "content": "加成反应，不易被氧化",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "羧酸和羧酸衍生物",
+            "content": "含羧基及其衍生物的化合物",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "羧酸的性质",
+                "content": "酸性和酯化反应",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "酯的性质",
+                "content": "水解反应",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "生物大分子",
+        "content": "糖类、蛋白质和核酸等生命物质",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "糖类",
+            "content": "多羟基醛、多羟基酮及其脱水缩合物",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "单糖",
+                "content": "葡萄糖、果糖的结构和性质",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "二糖",
+                "content": "蔗糖、麦芽糖的水解反应",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "多糖",
+                "content": "淀粉、纤维素的结构和性质",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "蛋白质",
+            "content": "氨基酸通过肽键连接形成的高分子",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "氨基酸",
+                "content": "两性性质和成肽反应",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "蛋白质的结构和性质",
+                "content": "一级至四级结构，水解、盐析、变性和显色反应",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "核酸",
+            "content": "生物体遗传信息的载体",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "核酸的组成",
+                "content": "核苷酸、磷酸、戊糖和碱基",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "DNA的结构",
+                "content": "双螺旋结构，碱基互补配对原则",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "合成高分子",
+        "content": "通过聚合反应制备的高分子材料",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "合成高分子的基本方法",
+            "content": "加聚反应和缩聚反应",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "加聚反应",
+                "content": "烯类单体的加成聚合",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "缩聚反应",
+                "content": "官能团间的缩合聚合，伴有小分子副产物",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "高分子材料",
+            "content": "通用高分子材料和功能高分子材料",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "塑料",
+                "content": "聚乙烯、聚氯乙烯、酚醛树脂等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "合成纤维",
+                "content": "涤纶、锦纶等的制备和用途",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "功能高分子材料",
+                "content": "高吸水性树脂、高分子分离膜等",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "有机化合物",
+      "tail": "碳骨架",
+      "relation": "具有"
+    },
+    {
+      "head": "有机化合物",
+      "tail": "官能团",
+      "relation": "具有"
+    },
+    {
+      "head": "σ键",
+      "tail": "π键",
+      "relation": "区别于"
+    },
+    {
+      "head": "同分异构现象",
+      "tail": "构造异构",
+      "relation": "包括"
+    },
+    {
+      "head": "同分异构现象",
+      "tail": "立体异构",
+      "relation": "包括"
+    },
+    {
+      "head": "蒸馏",
+      "tail": "分离提纯",
+      "relation": "属于"
+    },
+    {
+      "head": "萃取",
+      "tail": "分离提纯",
+      "relation": "属于"
+    },
+    {
+      "head": "重结晶",
+      "tail": "分离提纯",
+      "relation": "属于"
+    },
+    {
+      "head": "元素分析",
+      "tail": "实验式",
+      "relation": "用于确定"
+    },
+    {
+      "head": "质谱法",
+      "tail": "分子式",
+      "relation": "用于确定"
+    },
+    {
+      "head": "红外光谱",
+      "tail": "官能团",
+      "relation": "用于分析"
+    },
+    {
+      "head": "核磁共振氢谱",
+      "tail": "氢原子类型",
+      "relation": "用于分析"
+    },
+    {
+      "head": "烷烃",
+      "tail": "甲烷",
+      "relation": "代表物"
+    },
+    {
+      "head": "烯烃",
+      "tail": "乙烯",
+      "relation": "代表物"
+    },
+    {
+      "head": "炔烃",
+      "tail": "乙炔",
+      "relation": "代表物"
+    },
+    {
+      "head": "芳香烃",
+      "tail": "苯",
+      "relation": "代表物"
+    },
+    {
+      "head": "卤代烃",
+      "tail": "溴乙烷",
+      "relation": "代表物"
+    },
+    {
+      "head": "醇",
+      "tail": "乙醇",
+      "relation": "代表物"
+    },
+    {
+      "head": "酚",
+      "tail": "苯酚",
+      "relation": "代表物"
+    },
+    {
+      "head": "醛",
+      "tail": "乙醛",
+      "relation": "代表物"
+    },
+    {
+      "head": "羧酸",
+      "tail": "乙酸",
+      "relation": "代表物"
+    },
+    {
+      "head": "酯",
+      "tail": "乙酸乙酯",
+      "relation": "代表物"
+    },
+    {
+      "head": "糖类",
+      "tail": "葡萄糖",
+      "relation": "包括"
+    },
+    {
+      "head": "蛋白质",
+      "tail": "氨基酸",
+      "relation": "由...组成"
+    },
+    {
+      "head": "核酸",
+      "tail": "核苷酸",
+      "relation": "由...组成"
+    },
+    {
+      "head": "加聚反应",
+      "tail": "聚氯乙烯",
+      "relation": "生成"
+    },
+    {
+      "head": "缩聚反应",
+      "tail": "聚酯",
+      "relation": "生成"
+    },
+    {
+      "head": "聚乙烯",
+      "tail": "塑料",
+      "relation": "用于制造"
+    },
+    {
+      "head": "涤纶",
+      "tail": "合成纤维",
+      "relation": "属于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:51:15",
+    "version": "1.1"
+  }
+}

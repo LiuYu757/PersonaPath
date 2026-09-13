@@ -1,0 +1,287 @@
+{
+  "knowledge_tree": {
+    "title": "二年级上册数学",
+    "content": "人教版二年级上册数学，主要内容包括长度单位、100以内的加法和减法、角的初步认识、表内乘法、观察物体、认识时间、数学广角——搭配等",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "长度单位",
+        "content": "认识厘米和米，了解1厘米和1米的实际长度，会用尺子测量长度",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "厘米的认识",
+            "content": "厘米是长度单位，1厘米大约是指甲盖的宽度",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "米的认识",
+            "content": "米是比厘米大的长度单位，1米=100厘米",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "用尺子测量",
+            "content": "学习正确使用尺子测量物体的长度",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "线段的认识",
+            "content": "认识线段，知道线段是直的，有两个端点，可以测量长度",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "100以内的加法和减法",
+        "content": "学习100以内的加减法计算，包括不进位加、进位加、不退位减、退位减",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "不进位加法",
+            "content": "个位相加不满十的加法计算",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "进位加法",
+            "content": "个位相加满十要向十位进一的加法计算",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "不退位减法",
+            "content": "个位够减的减法计算",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "退位减法",
+            "content": "个位不够减需要从十位退一的减法计算",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "连加连减",
+            "content": "三个数的连加或连减计算",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "加减混合",
+            "content": "加减法混合运算",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "角的初步认识",
+        "content": "初步认识角，知道角的各部分名称，会辨认直角、锐角和钝角",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "角的组成",
+            "content": "角有一个顶点和两条边",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "直角的认识",
+            "content": "认识直角，知道直角的大小是固定的",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "锐角和钝角",
+            "content": "认识比直角小的锐角和比直角大的钝角",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "表内乘法",
+        "content": "学习1-9的乘法口诀，掌握乘法计算",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "乘法的初步认识",
+            "content": "认识乘法，知道乘法是相同数相加的简便运算",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "2-6的乘法口诀",
+            "content": "学习并熟记2-6的乘法口诀",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "7-9的乘法口诀",
+            "content": "学习并熟记7-9的乘法口诀",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "解决问题",
+            "content": "运用乘法解决实际问题",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "观察物体",
+        "content": "从不同角度观察物体，培养空间观念",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "从不同位置观察",
+            "content": "从正面、侧面、上面等不同位置观察物体",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "根据视图判断",
+            "content": "根据看到的图形判断观察的位置",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "认识时间",
+        "content": "认识时间单位时、分，会看钟表",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "认识钟面",
+            "content": "认识钟面上的时针、分针和12个数字",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "认识时和分",
+            "content": "知道1时=60分，会读、写时间",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数学广角——搭配",
+        "content": "简单的排列组合问题，培养有序思考能力",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "简单的排列",
+            "content": "用1、2、3三个数字组成不同的两位数",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "简单的组合",
+            "content": "从3个数中任选2个求和的组合问题",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "长度单位",
+      "tail": "厘米的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "长度单位",
+      "tail": "米的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "米",
+      "tail": "厘米",
+      "relation": "换算关系"
+    },
+    {
+      "head": "100以内的加法和减法",
+      "tail": "进位加法",
+      "relation": "包含"
+    },
+    {
+      "head": "100以内的加法和减法",
+      "tail": "退位减法",
+      "relation": "包含"
+    },
+    {
+      "head": "进位加法",
+      "tail": "个位相加满十",
+      "relation": "基于"
+    },
+    {
+      "head": "退位减法",
+      "tail": "个位不够减",
+      "relation": "基于"
+    },
+    {
+      "head": "角的初步认识",
+      "tail": "直角",
+      "relation": "包含"
+    },
+    {
+      "head": "角的初步认识",
+      "tail": "锐角",
+      "relation": "包含"
+    },
+    {
+      "head": "角的初步认识",
+      "tail": "钝角",
+      "relation": "包含"
+    },
+    {
+      "head": "表内乘法",
+      "tail": "乘法口诀",
+      "relation": "包含"
+    },
+    {
+      "head": "乘法",
+      "tail": "加法",
+      "relation": "简便运算"
+    },
+    {
+      "head": "观察物体",
+      "tail": "空间观念",
+      "relation": "培养"
+    },
+    {
+      "head": "认识时间",
+      "tail": "钟表",
+      "relation": "用于"
+    },
+    {
+      "head": "时",
+      "tail": "分",
+      "relation": "换算关系"
+    },
+    {
+      "head": "数学广角",
+      "tail": "有序思考",
+      "relation": "培养"
+    },
+    {
+      "head": "搭配问题",
+      "tail": "排列组合",
+      "relation": "属于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:20:55",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,689 @@
+{
+  "knowledge_tree": {
+    "title": "美术二年级下册",
+    "content": "小学二年级美术下册，涵盖造型表现、设计应用、欣赏评述、综合探索四个学习领域，包括纸工、绘画、色彩、图案、电脑美术等内容",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "纸工造型",
+        "content": "通过剪纸、插接、拼贴等方式进行立体造型创作",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "纸片插接",
+            "content": "通过纸片相互插接形成立体作品的技术",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "插接方法",
+                "content": "剪口插接、对折插接等不同的插接方式",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "对称形插接",
+                    "content": "利用对称原理进行纸片插接",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "鱼形插接",
+                    "content": "特定形状的纸片插接方法",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "插接牢固性",
+                "content": "确保插接口牢固，剪口深度适当的技巧",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "重重叠叠",
+            "content": "通过重叠表现物体前后关系的艺术手法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "重叠效果",
+                "content": "物体相互遮挡产生的空间感",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "表现方法",
+                "content": "绘画透明效果和拼贴遮挡两种方法",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "造型元素",
+        "content": "点、线、面等基本造型元素的认识和运用",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "点线面的认识",
+            "content": "识别生活中的点、线、面造型元素",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "点线面的排列",
+            "content": "通过绘画或拼贴进行点线面的有规律排列",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "构图组合",
+            "content": "点线面元素在画面中的聚聚合合关系",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "色彩表现",
+        "content": "色彩的情感表达和视觉表现",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "五味瓶",
+            "content": "用色彩和线条表现酸、甜、苦、辣、咸的味觉感受",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "色彩与情感",
+                "content": "不同颜色对应不同味觉感受的表达",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "线条表现",
+                "content": "用线条变化表现味觉体验",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "五彩缤纷的生活",
+            "content": "用色彩表现丰富多彩的生活场景",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "图案设计",
+        "content": "图案的构成方法和应用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "漂亮的包装纸",
+            "content": "设计制作礼品包装纸的图案",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "图案构成",
+                "content": "图案大小、种类、摆放的协调性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "制作方法",
+                "content": "绘画、拼贴、拓印等包装纸制作技法",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "漂亮的花边",
+            "content": "花边的设计和制作",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "花边规律",
+                "content": "图形向两边重复延伸形成花边的规律",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "制作方法",
+                "content": "折纸、画纹样、剪裁的花边制作步骤",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "应用装饰",
+                "content": "花边在瓶罐等物品上的装饰应用",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "立体制作",
+        "content": "各种立体手工作品的制作",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "得奖啦",
+            "content": "奖杯的设计和制作",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "奖杯样式",
+                "content": "不同样式奖杯的造型特点",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "制作方法",
+                "content": "杯身、杯托、杯头、把手等部件的组合制作",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "美丽的孔雀",
+            "content": "孔雀的立体或半立体制作",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "孔雀特点",
+                "content": "孔雀形体结构和色彩特征",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "彩纸粘贴法",
+                "content": "用彩纸粘贴制作半立体孔雀",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "折叠方法",
+                "content": "通过折叠制作立体孔雀",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "小鸟的家",
+            "content": "鸟巢和小鸟的制作",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "鸟巢特点",
+                "content": "不同鸟类巢穴的结构特征",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "材料选择",
+                "content": "适合制作鸟巢的自然材料",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "彩泥制作",
+                "content": "用彩泥制作小鸟造型",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "会爬的玩具",
+            "content": "制作具有动态效果的玩具",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "爬行原理",
+                "content": "玩具爬行的机械原理",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "制作方法",
+                "content": "画剪、固定、黏合等制作步骤",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "娃娃家",
+            "content": "制作娃娃家模型",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "家具制作",
+                "content": "沙发、床等家具的制作方法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "空间布局",
+                "content": "娃娃家空间的合理布局",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "自然观察",
+        "content": "观察和表现自然物象",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "叶子上的小血管",
+            "content": "观察和表现叶脉纹理",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "叶子形状",
+                "content": "不同植物叶子的形状特征",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "叶脉纹理",
+                "content": "叶脉的分布规律和纹理特点",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "表现方法",
+                "content": "用线条精细表现叶脉纹理",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "叶脉书签",
+                "content": "拓展制作叶脉书签",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "脚印的联想",
+            "content": "通过动物脚印进行创意联想",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "脚印识别",
+                "content": "识别不同动物的脚印特征",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "创意联想",
+                "content": "根据脚印形状进行想象创作",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "画面组织",
+                "content": "将脚印组合成完整画面",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "蔬果变变变",
+            "content": "利用蔬果进行创意拼摆",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "形状利用",
+                "content": "利用蔬果自然形状进行造型",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "色彩搭配",
+                "content": "蔬果色彩的协调搭配",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "拼摆方法",
+                "content": "分割、插接、拼摆等制作方法",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "故事表达",
+        "content": "通过美术形式表达故事内容",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "动物的故事",
+            "content": "用绘画表现动物故事",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "故事选择",
+                "content": "选择有趣的动物故事题材",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "场景表现",
+                "content": "故事中不同场景的描绘",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "动态刻画",
+                "content": "动物动作和表情的刻画",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "情感表达",
+        "content": "通过美术作品表达情感",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "友谊卡",
+            "content": "制作表达友谊的卡片",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "卡片功能",
+                "content": "友谊卡的情感表达功能",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "制作方法",
+                "content": "对折、剪形、装饰等制作步骤",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "情感表达",
+                "content": "通过设计表达真挚情感",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "我的老师",
+            "content": "为老师画像表达敬意",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "人物特征",
+                "content": "捕捉老师的形象特征",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "表现形式",
+                "content": "头像、半身像、全身像等不同形式",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "情感投入",
+                "content": "在画中融入对老师的爱",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "社会生活",
+        "content": "表现社会生活和环境变化",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "家乡变了样",
+            "content": "表现家乡发展变化",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "变化观察",
+                "content": "观察道路、环境等方面的变化",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "表现方法",
+                "content": "绘画、拼贴、水墨等不同表现方法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "色彩运用",
+                "content": "用色彩表现家乡新貌",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "电脑美术",
+        "content": "运用电脑进行美术创作",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "复制翻转画花边",
+            "content": "使用电脑软件制作花边图案",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "软件工具",
+                "content": "工具箱、调色板等电脑绘画工具",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "复制功能",
+                "content": "使用复制粘贴功能制作重复图案",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "翻转功能",
+                "content": "使用水平翻转制作对称花边",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "传统图案",
+                "content": "参考中国传统吉祥图案设计花边",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "欣赏评述",
+        "content": "美术作品欣赏和评价",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "中外名作欣赏",
+            "content": "欣赏中外艺术家表现儿童生活的作品",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "作品内容",
+                "content": "理解作品表现的儿童生活场景",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "表现手法",
+                "content": "分析线条、色彩等表现手法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "情感体验",
+                "content": "体会作品中的情感表达",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "纸片插接",
+      "tail": "对称形插接",
+      "relation": "包含技法"
+    },
+    {
+      "head": "纸片插接",
+      "tail": "鱼形插接",
+      "relation": "包含技法"
+    },
+    {
+      "head": "重重叠叠",
+      "tail": "空间感表现",
+      "relation": "用于表现"
+    },
+    {
+      "head": "点线面",
+      "tail": "构图组合",
+      "relation": "基础元素"
+    },
+    {
+      "head": "五味瓶",
+      "tail": "色彩情感",
+      "relation": "表达方式"
+    },
+    {
+      "head": "漂亮的包装纸",
+      "tail": "图案构成",
+      "relation": "设计基础"
+    },
+    {
+      "head": "漂亮的花边",
+      "tail": "重复延伸",
+      "relation": "构成原理"
+    },
+    {
+      "head": "美丽的孔雀",
+      "tail": "彩纸粘贴法",
+      "relation": "制作方法"
+    },
+    {
+      "head": "美丽的孔雀",
+      "tail": "折叠方法",
+      "relation": "制作方法"
+    },
+    {
+      "head": "叶子上的小血管",
+      "tail": "叶脉纹理",
+      "relation": "观察对象"
+    },
+    {
+      "head": "脚印的联想",
+      "tail": "创意联想",
+      "relation": "思维方法"
+    },
+    {
+      "head": "蔬果变变变",
+      "tail": "形状利用",
+      "relation": "创作基础"
+    },
+    {
+      "head": "动物的故事",
+      "tail": "场景表现",
+      "relation": "叙事要素"
+    },
+    {
+      "head": "友谊卡",
+      "tail": "情感表达",
+      "relation": "主要功能"
+    },
+    {
+      "head": "我的老师",
+      "tail": "人物特征",
+      "relation": "表现重点"
+    },
+    {
+      "head": "家乡变了样",
+      "tail": "变化观察",
+      "relation": "创作基础"
+    },
+    {
+      "head": "电脑美术",
+      "tail": "复制功能",
+      "relation": "技术手段"
+    },
+    {
+      "head": "电脑美术",
+      "tail": "翻转功能",
+      "relation": "技术手段"
+    },
+    {
+      "head": "中外名作欣赏",
+      "tail": "表现手法",
+      "relation": "分析内容"
+    },
+    {
+      "head": "纸工造型",
+      "tail": "立体制作",
+      "relation": "包含领域"
+    },
+    {
+      "head": "造型元素",
+      "tail": "色彩表现",
+      "relation": "关联元素"
+    },
+    {
+      "head": "自然观察",
+      "tail": "故事表达",
+      "relation": "创作来源"
+    },
+    {
+      "head": "社会生活",
+      "tail": "情感表达",
+      "relation": "表现内容"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 18:13:29",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "knowledge_tree": {
+    "title": "中国近代史（八年级上册）",
+    "content": "涵盖从鸦片战争到人民解放战争的中国近代历史进程",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元 中国开始沦为半殖民地半封建社会",
+        "content": "西方列强入侵与农民革命运动时期",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第1课 鸦片战争",
+            "content": "英国发动侵略中国的鸦片战争",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "鸦片走私与林则徐禁烟",
+                "content": "英国向中国走私鸦片及其危害，林则徐虎门销烟",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "鸦片危害",
+                    "content": "导致白银外流、政治腐败、军队战斗力削弱",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "虎门销烟",
+                    "content": "1839年林则徐在虎门海滩销毁鸦片",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "英国发动侵华战争",
+                "content": "1840年英国以中国禁烟为借口发动战争",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "战争过程",
+                    "content": "英军进攻广州、厦门、定海等地，最终逼迫清政府屈服",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "爱国官兵抵抗",
+                    "content": "关天培、陈化成等爱国将领英勇抗敌",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《南京条约》签订",
+                "content": "1842年签订中国近代第一个不平等条约",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "条约内容",
+                    "content": "割香港岛、赔款2100万银元、五口通商、协定关税",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "历史影响",
+                    "content": "中国开始沦为半殖民地半封建社会",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第2课 第二次鸦片战争",
+            "content": "英法联合发动的进一步侵略战争",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "战争起因",
+                "content": "亚罗号事件和马神甫事件",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "火烧圆明园",
+                "content": "1860年英法联军焚毁圆明园",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "《北京条约》签订",
+                "content": "1860年清政府与英法签订不平等条约",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第3课 太平天国运动",
+            "content": "洪秀全领导的农民起义运动",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "金田起义",
+                "content": "1851年洪秀全在广西金田村发动起义",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "《天朝田亩制度》",
+                "content": "太平天国的土地纲领和理想社会方案",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "天京事变",
+                "content": "1856年太平天国内部权力斗争",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元 近代化的早期探索与民族危机加剧",
+        "content": "洋务运动、边疆危机与甲午战争时期",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第4课 洋务运动",
+            "content": "19世纪60-90年代的自强求富运动",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "洋务派代表人物",
+                "content": "奕䜣、曾国藩、李鸿章、左宗棠、张之洞等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "军事工业",
+                "content": "江南制造总局、福州船政局等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "民用企业",
+                "content": "轮船招商局、开平煤矿等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第5课 甲午中日战争与瓜分中国狂潮",
+            "content": "1894-1895年中日战争及后果",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "黄海海战",
+                "content": "1894年北洋舰队与日本联合舰队大海战",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "《马关条约》",
+                "content": "1895年签订的不平等条约",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "条约内容",
+                    "content": "割台湾、澎湖、辽东半岛，赔款2亿两白银",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "鸦片战争",
+      "tail": "《南京条约》",
+      "relation": "导致签订"
+    },
+    {
+      "head": "林则徐",
+      "tail": "虎门销烟",
+      "relation": "领导实施"
+    },
+    {
+      "head": "第二次鸦片战争",
+      "tail": "火烧圆明园",
+      "relation": "期间发生"
+    },
+    {
+      "head": "太平天国运动",
+      "tail": "《天朝田亩制度》",
+      "relation": "颁布实施"
+    },
+    {
+      "head": "洋务运动",
+      "tail": "近代军事工业",
+      "relation": "创办建立"
+    },
+    {
+      "head": "甲午中日战争",
+      "tail": "黄海海战",
+      "relation": "包含重要战役"
+    },
+    {
+      "head": "《马关条约》",
+      "tail": "民族危机加深",
+      "relation": "导致"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:22:23",
+    "version": "1.1"
+  }
+}

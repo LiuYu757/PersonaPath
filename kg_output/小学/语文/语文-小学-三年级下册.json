@@ -1,0 +1,143 @@
+{
+  "knowledge_tree": {
+    "title": "三年级下册语文",
+    "content": "人教版三年级下册语文教材，包含八个单元，涵盖古诗、寓言、观察与想象、传统文化等内容",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "第一单元：可爱的生灵",
+        "content": "通过古诗和散文感受大自然中可爱的生灵",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "古诗三首",
+            "content": "《绝句》《惠崇春江晚景》《三衢道中》三首描写春天景色的古诗",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "绝句",
+                "content": "杜甫所作，描绘春日江山秀丽景象",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "诗歌意象",
+                    "content": "迟日、春风、泥融、沙暖等意象描绘春日景象",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "修辞手法",
+                    "content": "运用对偶手法，语言简练意境深远",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "惠崇春江晚景",
+                "content": "苏轼为惠崇画作所写的题画诗",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "诗画结合",
+                    "content": "通过诗句再现画作中的春江晚景",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "燕子",
+            "content": "郑振铎散文，描写燕子的可爱活泼",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "外形描写",
+                "content": "乌黑羽毛、轻快翅膀、剪刀尾巴",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "动作描写",
+                "content": "斜飞、横掠、沾水等动作描写",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元：寓言故事",
+        "content": "通过寓言故事明白生活道理",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "守株待兔",
+            "content": "出自《韩非子》的寓言故事",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "故事寓意",
+                "content": "讽刺不劳而获的侥幸心理",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "陶罐和铁罐",
+            "content": "黄瑞云寓言，通过对话展开故事",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "性格对比",
+                "content": "铁罐傲慢与陶罐谦虚形成鲜明对比",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "绝句",
+      "tail": "春日景象",
+      "relation": "描绘"
+    },
+    {
+      "head": "惠崇春江晚景",
+      "tail": "题画诗",
+      "relation": "属于"
+    },
+    {
+      "head": "燕子",
+      "tail": "外形描写",
+      "relation": "包含"
+    },
+    {
+      "head": "燕子",
+      "tail": "动作描写",
+      "relation": "包含"
+    },
+    {
+      "head": "守株待兔",
+      "tail": "不劳而获",
+      "relation": "讽刺"
+    },
+    {
+      "head": "陶罐和铁罐",
+      "tail": "性格对比",
+      "relation": "运用"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 18:56:33",
+    "version": "1.1"
+  }
+}

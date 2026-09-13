@@ -1,0 +1,1022 @@
+{
+  "knowledge_tree": {
+    "title": "人体解剖学",
+    "content": "研究正常人体形态结构的科学，属于生物学中的形态学范畴",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "绪论",
+        "content": "人体解剖学的定义、学习目的、人体组成、分科和解剖学姿势术语",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "人体解剖学的定义",
+            "content": "研究正常人体形态与结构的科学",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "人体的组成",
+            "content": "细胞→组织→器官→系统→人体",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "解剖学姿势",
+            "content": "身体直立，两眼平视，上肢下垂，掌心向前，下肢并拢，足尖向前",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "方位术语",
+            "content": "上/下、前/后、内侧/外侧、内/外、浅/深、近侧/远侧",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "切面术语",
+            "content": "矢状面、冠状面、横切面",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "运动系统",
+        "content": "由骨、骨连结和骨骼肌组成，实现运动、支持和保护功能",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "骨和骨连结",
+            "content": "骨的形态分类和关节结构",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "骨的形态",
+                "content": "长骨、短骨、扁骨、不规则骨",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "骨的构造",
+                "content": "骨质、骨膜、骨髓",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "关节的结构",
+                "content": "关节面、关节囊、关节腔",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "躯干骨及其连结",
+                "content": "椎骨、胸骨、肋的形态和脊柱、胸廓的构成",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "上肢骨及其连结",
+                "content": "锁骨、肩胛骨、肱骨、桡尺骨和肩、肘关节",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "下肢骨及其连结",
+                "content": "髋骨、股骨、胫腓骨和髋、膝关节",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "颅骨及其连结",
+                "content": "脑颅骨、面颅骨的组成和颞下颌关节",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "骨骼肌",
+            "content": "肌的形态构造和全身主要肌肉",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "肌的形态和构造",
+                "content": "长肌、短肌、阔肌、轮匝肌；肌腹和肌腱",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "头颈肌",
+                "content": "面肌、咀嚼肌和胸锁乳突肌",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "躯干肌",
+                "content": "背肌、胸肌、膈、腹肌",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "上肢肌",
+                "content": "肩肌、臂肌、前臂肌、手肌",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "下肢肌",
+                "content": "髋肌、大腿肌、小腿肌、足肌",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "消化系统",
+        "content": "由消化管和消化腺组成，完成食物的消化吸收",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "消化管",
+            "content": "从口腔到肛门的管道系统",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "口腔",
+                "content": "消化起始部，包括牙、舌、唾液腺",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "咽",
+                "content": "呼吸和消化共同通道",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "食管",
+                "content": "连接咽和胃的肌性管道，有三个狭窄",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "胃",
+                "content": "消化管最膨大部分，有贲门、幽门分部",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "小肠",
+                "content": "十二指肠、空肠、回肠，主要吸收场所",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "大肠",
+                "content": "盲肠、结肠、直肠、肛管，吸收水分形成粪便",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "消化腺",
+            "content": "分泌消化液的腺体",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "肝",
+                "content": "人体最大消化腺，分泌胆汁",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "胰",
+                "content": "兼具内外分泌功能",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "腹膜",
+            "content": "被覆于腹盆腔内表面的浆膜",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "呼吸系统",
+        "content": "由肺外呼吸道和肺组成，完成气体交换",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "肺外呼吸道",
+            "content": "鼻、咽、喉、气管、主支气管",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "鼻",
+                "content": "呼吸起始部，包括外鼻、鼻腔、鼻旁窦",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "喉",
+                "content": "既是呼吸道又是发声器官",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "气管和主支气管",
+                "content": "连接喉和肺的管道",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "肺",
+            "content": "气体交换的主要器官",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "肺的位置",
+                "content": "位于胸腔内，纵隔两侧",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "肺的形态",
+                "content": "一尖、一底、两面、三缘",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "胸膜和纵隔",
+            "content": "胸膜腔的构成和纵隔的分部",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "泌尿系统",
+        "content": "由肾、输尿管、膀胱、尿道组成，排出代谢产物",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "肾",
+            "content": "生成尿液的器官",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "肾的形态",
+                "content": "蚕豆形，分两端、两面、两缘",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "肾的内部结构",
+                "content": "皮质、髓质、肾锥体、肾乳头",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "肾的位置",
+                "content": "腹膜后隙，脊柱两侧",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "输尿管",
+            "content": "将尿液从肾输送到膀胱的细长管道",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "膀胱",
+            "content": "储存尿液的囊状器官",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "尿道",
+            "content": "将尿液排出体外的管道",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "生殖系统",
+        "content": "产生生殖细胞、繁衍后代的系统",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "男性生殖系统",
+            "content": "睾丸、附睾、输精管、附属腺等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "睾丸",
+                "content": "产生精子和男性激素",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "输精管道",
+                "content": "附睾、输精管、射精管",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "男性尿道",
+                "content": "兼具排尿和排精功能",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "女性生殖系统",
+            "content": "卵巢、输卵管、子宫、阴道等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "卵巢",
+                "content": "产生卵子和女性激素",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "输卵管",
+                "content": "输送卵子和受精场所",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "子宫",
+                "content": "孕育胎儿的器官",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "循环系统",
+        "content": "心血管系统和淋巴系统组成，运输物质",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "心血管系统",
+            "content": "心、动脉、毛细血管、静脉",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "心",
+                "content": "血液循环的动力器官",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "体循环动脉",
+                "content": "主动脉及其分支分布",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "体循环静脉",
+                "content": "上、下腔静脉系及其属支",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "淋巴系统",
+            "content": "淋巴管道、淋巴器官、淋巴组织",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "淋巴管道",
+                "content": "毛细淋巴管、淋巴管、淋巴干、淋巴导管",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "脾",
+                "content": "人体最大淋巴器官",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "内分泌系统",
+        "content": "内分泌器官和内分泌组织，通过激素调节机体功能",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "甲状腺",
+            "content": "位于颈前部，分泌甲状腺激素",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "垂体",
+            "content": "最重要的内分泌腺，位于蝶鞍",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "肾上腺",
+            "content": "位于肾上方，分皮质和髓质",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "感觉器",
+        "content": "感受器及其附属结构，接受内外部刺激",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "视器",
+            "content": "眼球和眼副器，感受光刺激",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "眼球",
+                "content": "眼球壁和眼球内容物",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "眼副器",
+                "content": "眼睑、结膜、泪器、眼球外肌",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "前庭蜗器",
+            "content": "耳，包括外耳、中耳、内耳",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "外耳",
+                "content": "耳郭、外耳道、鼓膜",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "中耳",
+                "content": "鼓室、咽鼓管、乳突小房",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "内耳",
+                "content": "骨迷路和膜迷路，位听觉感受器",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "神经系统",
+        "content": "脑、脊髓和周围神经，调节机体活动",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "中枢神经系统",
+            "content": "脑和脊髓",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "脊髓",
+                "content": "位于椎管内，传导和反射中枢",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "脑",
+                "content": "端脑、间脑、脑干、小脑",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "周围神经系统",
+            "content": "脑神经和脊神经",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "脊神经",
+                "content": "31对，形成颈丛、臂丛、腰丛、骶丛",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "脑神经",
+                "content": "12对，感觉性、运动性、混合性",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "传导通路",
+            "content": "感觉和运动传导通路",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "人体解剖学",
+      "tail": "运动系统",
+      "relation": "包含"
+    },
+    {
+      "head": "运动系统",
+      "tail": "骨",
+      "relation": "由...组成"
+    },
+    {
+      "head": "运动系统",
+      "tail": "骨连结",
+      "relation": "由...组成"
+    },
+    {
+      "head": "运动系统",
+      "tail": "骨骼肌",
+      "relation": "由...组成"
+    },
+    {
+      "head": "骨",
+      "tail": "骨质",
+      "relation": "由...构成"
+    },
+    {
+      "head": "骨",
+      "tail": "骨膜",
+      "relation": "由...构成"
+    },
+    {
+      "head": "骨",
+      "tail": "骨髓",
+      "relation": "由...构成"
+    },
+    {
+      "head": "关节",
+      "tail": "关节面",
+      "relation": "由...组成"
+    },
+    {
+      "head": "关节",
+      "tail": "关节囊",
+      "relation": "由...组成"
+    },
+    {
+      "head": "关节",
+      "tail": "关节腔",
+      "relation": "由...组成"
+    },
+    {
+      "head": "脊柱",
+      "tail": "椎骨",
+      "relation": "由...构成"
+    },
+    {
+      "head": "脊柱",
+      "tail": "椎间盘",
+      "relation": "由...构成"
+    },
+    {
+      "head": "脊柱",
+      "tail": "韧带",
+      "relation": "由...构成"
+    },
+    {
+      "head": "消化系统",
+      "tail": "消化管",
+      "relation": "包含"
+    },
+    {
+      "head": "消化系统",
+      "tail": "消化腺",
+      "relation": "包含"
+    },
+    {
+      "head": "消化管",
+      "tail": "口腔",
+      "relation": "起始于"
+    },
+    {
+      "head": "消化管",
+      "tail": "咽",
+      "relation": "连接"
+    },
+    {
+      "head": "消化管",
+      "tail": "食管",
+      "relation": "连接"
+    },
+    {
+      "head": "消化管",
+      "tail": "胃",
+      "relation": "连接"
+    },
+    {
+      "head": "消化管",
+      "tail": "小肠",
+      "relation": "连接"
+    },
+    {
+      "head": "消化管",
+      "tail": "大肠",
+      "relation": "终止于"
+    },
+    {
+      "head": "肝",
+      "tail": "肝外胆道",
+      "relation": "通过...排泄胆汁"
+    },
+    {
+      "head": "呼吸系统",
+      "tail": "肺外呼吸道",
+      "relation": "包含"
+    },
+    {
+      "head": "呼吸系统",
+      "tail": "肺",
+      "relation": "包含"
+    },
+    {
+      "head": "肺外呼吸道",
+      "tail": "鼻",
+      "relation": "起始于"
+    },
+    {
+      "head": "肺外呼吸道",
+      "tail": "咽",
+      "relation": "连接"
+    },
+    {
+      "head": "肺外呼吸道",
+      "tail": "喉",
+      "relation": "连接"
+    },
+    {
+      "head": "肺外呼吸道",
+      "tail": "气管",
+      "relation": "连接"
+    },
+    {
+      "head": "泌尿系统",
+      "tail": "肾",
+      "relation": "主要器官"
+    },
+    {
+      "head": "肾",
+      "tail": "肾单位",
+      "relation": "功能单位"
+    },
+    {
+      "head": "肾",
+      "tail": "输尿管",
+      "relation": "通过...排出尿液"
+    },
+    {
+      "head": "输尿管",
+      "tail": "膀胱",
+      "relation": "排入"
+    },
+    {
+      "head": "膀胱",
+      "tail": "尿道",
+      "relation": "通过...排出体外"
+    },
+    {
+      "head": "男性生殖系统",
+      "tail": "睾丸",
+      "relation": "产生精子"
+    },
+    {
+      "head": "女性生殖系统",
+      "tail": "卵巢",
+      "relation": "产生卵子"
+    },
+    {
+      "head": "循环系统",
+      "tail": "心血管系统",
+      "relation": "包含"
+    },
+    {
+      "head": "循环系统",
+      "tail": "淋巴系统",
+      "relation": "包含"
+    },
+    {
+      "head": "心血管系统",
+      "tail": "心",
+      "relation": "动力器官"
+    },
+    {
+      "head": "心血管系统",
+      "tail": "动脉",
+      "relation": "输送血液离心"
+    },
+    {
+      "head": "心血管系统",
+      "tail": "静脉",
+      "relation": "输送血液回心"
+    },
+    {
+      "head": "心血管系统",
+      "tail": "毛细血管",
+      "relation": "物质交换场所"
+    },
+    {
+      "head": "体循环",
+      "tail": "左心室",
+      "relation": "起始于"
+    },
+    {
+      "head": "体循环",
+      "tail": "右心房",
+      "relation": "返回至"
+    },
+    {
+      "head": "肺循环",
+      "tail": "右心室",
+      "relation": "起始于"
+    },
+    {
+      "head": "肺循环",
+      "tail": "左心房",
+      "relation": "返回至"
+    },
+    {
+      "head": "神经系统",
+      "tail": "中枢神经系统",
+      "relation": "包含"
+    },
+    {
+      "head": "神经系统",
+      "tail": "周围神经系统",
+      "relation": "包含"
+    },
+    {
+      "head": "中枢神经系统",
+      "tail": "脑",
+      "relation": "包含"
+    },
+    {
+      "head": "中枢神经系统",
+      "tail": "脊髓",
+      "relation": "包含"
+    },
+    {
+      "head": "周围神经系统",
+      "tail": "脑神经",
+      "relation": "包含"
+    },
+    {
+      "head": "周围神经系统",
+      "tail": "脊神经",
+      "relation": "包含"
+    },
+    {
+      "head": "神经元",
+      "tail": "胞体",
+      "relation": "由...组成"
+    },
+    {
+      "head": "神经元",
+      "tail": "树突",
+      "relation": "由...组成"
+    },
+    {
+      "head": "神经元",
+      "tail": "轴突",
+      "relation": "由...组成"
+    },
+    {
+      "head": "反射弧",
+      "tail": "感受器",
+      "relation": "起始于"
+    },
+    {
+      "head": "反射弧",
+      "tail": "传入神经",
+      "relation": "通过...传导"
+    },
+    {
+      "head": "反射弧",
+      "tail": "中枢",
+      "relation": "通过...整合"
+    },
+    {
+      "head": "反射弧",
+      "tail": "传出神经",
+      "relation": "通过...传导"
+    },
+    {
+      "head": "反射弧",
+      "tail": "效应器",
+      "relation": "终止于"
+    },
+    {
+      "head": "脑",
+      "tail": "端脑",
+      "relation": "包含"
+    },
+    {
+      "head": "脑",
+      "tail": "间脑",
+      "relation": "包含"
+    },
+    {
+      "head": "脑",
+      "tail": "脑干",
+      "relation": "包含"
+    },
+    {
+      "head": "脑",
+      "tail": "小脑",
+      "relation": "包含"
+    },
+    {
+      "head": "脑干",
+      "tail": "延髓",
+      "relation": "包含"
+    },
+    {
+      "head": "脑干",
+      "tail": "脑桥",
+      "relation": "包含"
+    },
+    {
+      "head": "脑干",
+      "tail": "中脑",
+      "relation": "包含"
+    },
+    {
+      "head": "端脑",
+      "tail": "大脑皮质",
+      "relation": "表层结构"
+    },
+    {
+      "head": "端脑",
+      "tail": "基底核",
+      "relation": "深部结构"
+    },
+    {
+      "head": "端脑",
+      "tail": "大脑白质",
+      "relation": "内部结构"
+    },
+    {
+      "head": "视觉传导通路",
+      "tail": "视网膜",
+      "relation": "起始于"
+    },
+    {
+      "head": "视觉传导通路",
+      "tail": "视神经",
+      "relation": "通过...传导"
+    },
+    {
+      "head": "视觉传导通路",
+      "tail": "视交叉",
+      "relation": "通过...交叉"
+    },
+    {
+      "head": "视觉传导通路",
+      "tail": "外侧膝状体",
+      "relation": "中继站"
+    },
+    {
+      "head": "视觉传导通路",
+      "tail": "视觉中枢",
+      "relation": "终止于"
+    },
+    {
+      "head": "锥体系",
+      "tail": "上运动神经元",
+      "relation": "由...组成"
+    },
+    {
+      "head": "锥体系",
+      "tail": "下运动神经元",
+      "relation": "由...组成"
+    },
+    {
+      "head": "锥体系",
+      "tail": "皮质脊髓束",
+      "relation": "运动传导通路"
+    },
+    {
+      "head": "锥体系",
+      "tail": "皮质核束",
+      "relation": "运动传导通路"
+    },
+    {
+      "head": "内脏神经系统",
+      "tail": "交感神经",
+      "relation": "包含"
+    },
+    {
+      "head": "内脏神经系统",
+      "tail": "副交感神经",
+      "relation": "包含"
+    },
+    {
+      "head": "交感神经",
+      "tail": "节前纤维",
+      "relation": "由...组成"
+    },
+    {
+      "head": "交感神经",
+      "tail": "节后纤维",
+      "relation": "由...组成"
+    },
+    {
+      "head": "副交感神经",
+      "tail": "节前纤维",
+      "relation": "由...组成"
+    },
+    {
+      "head": "副交感神经",
+      "tail": "节后纤维",
+      "relation": "由...组成"
+    },
+    {
+      "head": "脑的被膜",
+      "tail": "硬脑膜",
+      "relation": "外层"
+    },
+    {
+      "head": "脑的被膜",
+      "tail": "蛛网膜",
+      "relation": "中层"
+    },
+    {
+      "head": "脑的被膜",
+      "tail": "软脑膜",
+      "relation": "内层"
+    },
+    {
+      "head": "脑脊液",
+      "tail": "侧脑室",
+      "relation": "产生于"
+    },
+    {
+      "head": "脑脊液",
+      "tail": "第三脑室",
+      "relation": "流经"
+    },
+    {
+      "head": "脑脊液",
+      "tail": "第四脑室",
+      "relation": "流经"
+    },
+    {
+      "head": "脑脊液",
+      "tail": "蛛网膜下隙",
+      "relation": "循环于"
+    },
+    {
+      "head": "脑脊液",
+      "tail": "蛛网膜粒",
+      "relation": "通过...吸收"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 16:38:41",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "knowledge_tree": {
+    "title": "高中视唱练耳",
+    "content": "选择性必修课程，涵盖节奏、音高、旋律、和声等音乐基础训练",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "节奏训练",
+        "content": "包括节奏诵读和节奏组合练习",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "节奏诵读",
+            "content": "通过朗读节奏型培养节奏感",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "四二拍节奏诵读",
+                "content": "2/4拍子的节奏朗读练习",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "四三拍节奏诵读",
+                "content": "3/4拍子的节奏朗读练习",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "四四拍节奏诵读",
+                "content": "4/4拍子的节奏朗读练习",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "节奏组合",
+            "content": "通过接龙方式自由组合节奏型",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "基础节奏型组合",
+                "content": "基本节奏型的组合练习",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "复杂节奏型组合",
+                "content": "包含附点、切分等复杂节奏的组合",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "听音训练",
+        "content": "音高、音程、和弦的听辨训练",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "单音听辨",
+            "content": "单个音高的模唱和记写",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "单音模唱",
+                "content": "模唱听到的单个音高",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "二音组听辨",
+                "content": "两个音的音高组合听辨",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "三音组听辨",
+                "content": "三个音的音高组合听辨",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "四音组听辨",
+                "content": "四个音的音高组合听辨",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "调式音级听辨",
+                "content": "识别调式中的各个音级",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音程听辨",
+            "content": "和声音程与旋律音程的听辨",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "和声音程冠音听辨",
+                "content": "识别和声音程中的较高音",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "和声音程根音听辨",
+                "content": "识别和声音程中的较低音",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "音程性质识别",
+                "content": "辨别音程的大小、纯、增、减性质",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "和弦听辨",
+            "content": "三和弦及其转位的听辨",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "三和弦根音听辨",
+                "content": "识别三和弦的根音",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "三和弦五音听辨",
+                "content": "识别三和弦的五音",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "和弦性质识别",
+                "content": "辨别和弦的大、小、增、减性质",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "七和弦识别",
+                "content": "辨别各种七和弦的性质",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "旋律听记",
+            "content": "旋律片段的听辨和记谱",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "旋律填空",
+                "content": "填写旋律中空缺的音符",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "调号识别",
+                "content": "识别旋律的调号和调式",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "完整旋律听记",
+                "content": "完整记写听到的旋律",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "视唱训练",
+        "content": "单声部和二声部的视唱练习",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "单声部视唱",
+            "content": "单个旋律声部的视唱",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "无升降号调视唱",
+                "content": "C大调/a小调视唱",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "一个升号调视唱",
+                "content": "G大调/e小调视唱",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "一个降号调视唱",
+                "content": "F大调/d小调视唱",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "两个升号调视唱",
+                "content": "D大调/b小调视唱",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "两个降号调视唱",
+                "content": "降B大调/g小调视唱",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "二声部视唱",
+            "content": "两个声部的视唱练习",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "和声性二声部",
+                "content": "以和声进行为主的二声部",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "复调性二声部",
+                "content": "包含对位技术的二声部",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "拍子训练",
+        "content": "不同拍子的节奏和旋律训练",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "四二拍训练",
+            "content": "2/4拍子的节奏和旋律练习",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "四三拍训练",
+            "content": "3/4拍子的节奏和旋律练习",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "四四拍训练",
+            "content": "4/4拍子的节奏和旋律练习",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "八三拍训练",
+            "content": "3/8拍子的节奏和旋律练习",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "八六拍训练",
+            "content": "6/8拍子的节奏和旋律练习",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "综合拍训练",
+            "content": "混合拍子的综合练习",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "节奏训练",
+      "tail": "节奏诵读",
+      "relation": "包含"
+    },
+    {
+      "head": "节奏训练",
+      "tail": "节奏组合",
+      "relation": "包含"
+    },
+    {
+      "head": "听音训练",
+      "tail": "单音听辨",
+      "relation": "包含"
+    },
+    {
+      "head": "听音训练",
+      "tail": "音程听辨",
+      "relation": "包含"
+    },
+    {
+      "head": "听音训练",
+      "tail": "和弦听辨",
+      "relation": "包含"
+    },
+    {
+      "head": "听音训练",
+      "tail": "旋律听记",
+      "relation": "包含"
+    },
+    {
+      "head": "视唱训练",
+      "tail": "单声部视唱",
+      "relation": "包含"
+    },
+    {
+      "head": "视唱训练",
+      "tail": "二声部视唱",
+      "relation": "包含"
+    },
+    {
+      "head": "单音听辨",
+      "tail": "二音组听辨",
+      "relation": "进阶为"
+    },
+    {
+      "head": "单音听辨",
+      "tail": "三音组听辨",
+      "relation": "进阶为"
+    },
+    {
+      "head": "单音听辨",
+      "tail": "四音组听辨",
+      "relation": "进阶为"
+    },
+    {
+      "head": "单音听辨",
+      "tail": "调式音级听辨",
+      "relation": "进阶为"
+    },
+    {
+      "head": "音程听辨",
+      "tail": "和声音程冠音听辨",
+      "relation": "基础训练"
+    },
+    {
+      "head": "音程听辨",
+      "tail": "和声音程根音听辨",
+      "relation": "基础训练"
+    },
+    {
+      "head": "音程听辨",
+      "tail": "音程性质识别",
+      "relation": "进阶训练"
+    },
+    {
+      "head": "和弦听辨",
+      "tail": "三和弦根音听辨",
+      "relation": "基础训练"
+    },
+    {
+      "head": "和弦听辨",
+      "tail": "三和弦五音听辨",
+      "relation": "基础训练"
+    },
+    {
+      "head": "和弦听辨",
+      "tail": "和弦性质识别",
+      "relation": "进阶训练"
+    },
+    {
+      "head": "和弦听辨",
+      "tail": "七和弦识别",
+      "relation": "高级训练"
+    },
+    {
+      "head": "旋律听记",
+      "tail": "旋律填空",
+      "relation": "基础训练"
+    },
+    {
+      "head": "旋律听记",
+      "tail": "调号识别",
+      "relation": "必备技能"
+    },
+    {
+      "head": "旋律听记",
+      "tail": "完整旋律听记",
+      "relation": "综合应用"
+    },
+    {
+      "head": "单声部视唱",
+      "tail": "无升降号调视唱",
+      "relation": "起始级别"
+    },
+    {
+      "head": "单声部视唱",
+      "tail": "一个升号调视唱",
+      "relation": "进阶级别"
+    },
+    {
+      "head": "单声部视唱",
+      "tail": "一个降号调视唱",
+      "relation": "进阶级别"
+    },
+    {
+      "head": "单声部视唱",
+      "tail": "两个升号调视唱",
+      "relation": "高级级别"
+    },
+    {
+      "head": "单声部视唱",
+      "tail": "两个降号调视唱",
+      "relation": "高级级别"
+    },
+    {
+      "head": "二声部视唱",
+      "tail": "和声性二声部",
+      "relation": "基础训练"
+    },
+    {
+      "head": "二声部视唱",
+      "tail": "复调性二声部",
+      "relation": "高级训练"
+    },
+    {
+      "head": "拍子训练",
+      "tail": "四二拍训练",
+      "relation": "基础拍子"
+    },
+    {
+      "head": "拍子训练",
+      "tail": "四三拍训练",
+      "relation": "基础拍子"
+    },
+    {
+      "head": "拍子训练",
+      "tail": "四四拍训练",
+      "relation": "基础拍子"
+    },
+    {
+      "head": "拍子训练",
+      "tail": "八三拍训练",
+      "relation": "复合拍子"
+    },
+    {
+      "head": "拍子训练",
+      "tail": "八六拍训练",
+      "relation": "复合拍子"
+    },
+    {
+      "head": "拍子训练",
+      "tail": "综合拍训练",
+      "relation": "高级拍子"
+    },
+    {
+      "head": "节奏诵读",
+      "tail": "四二拍节奏诵读",
+      "relation": "应用于"
+    },
+    {
+      "head": "节奏诵读",
+      "tail": "四三拍节奏诵读",
+      "relation": "应用于"
+    },
+    {
+      "head": "节奏诵读",
+      "tail": "四四拍节奏诵读",
+      "relation": "应用于"
+    },
+    {
+      "head": "调式音级听辨",
+      "tail": "调号识别",
+      "relation": "相互关联"
+    },
+    {
+      "head": "和声音程冠音听辨",
+      "tail": "和声音程根音听辨",
+      "relation": "互补训练"
+    },
+    {
+      "head": "三和弦根音听辨",
+      "tail": "三和弦五音听辨",
+      "relation": "互补训练"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 15:57:19",
+    "version": "1.1"
+  }
+}

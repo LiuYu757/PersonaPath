@@ -1,0 +1,462 @@
+{
+  "knowledge_tree": {
+    "title": "自然地理基础",
+    "content": "高中自然地理核心概念，涵盖地球运动、地表形态、大气运动、水的运动及自然环境整体性与差异性",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "地球的运动",
+        "content": "地球自转和公转的基本规律及其地理意义",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "地球的自转",
+            "content": "地球绕地轴自西向东旋转的运动",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "自转方向",
+                "content": "自西向东，从北极上空看呈逆时针，从南极上空看呈顺时针",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "自转周期",
+                "content": "恒星日（23时56分4秒）是真正周期，太阳日（24小时）是日常使用周期",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "自转速度",
+                "content": "角速度除极点外均为15°/时，线速度自赤道向两极递减",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "地球的公转",
+            "content": "地球绕太阳自西向东的椭圆轨道运动",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "公转轨道",
+                "content": "近似正圆的椭圆轨道，太阳位于一个焦点",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "公转速度",
+                "content": "近日点（1月初）较快，远日点（7月初）较慢",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "黄赤交角",
+                "content": "赤道平面与黄道平面的交角，目前为23°26′",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "地球运动的地理意义",
+            "content": "地球运动产生的昼夜交替、时差、地转偏向力等现象",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "昼夜交替",
+                "content": "由于地球不发光不透明且自转，产生昼夜更替现象",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "时差与区时",
+                "content": "地方时因经度不同而不同，全球划分为24个时区",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "地转偏向力",
+                "content": "地球自转使水平运动物体发生偏转，北右南左",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "昼夜长短变化",
+                "content": "由于黄赤交角存在，太阳直射点回归运动导致昼夜长短变化",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "正午太阳高度变化",
+                "content": "正午太阳高度随纬度和季节变化而有规律地变化",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "地表形态的塑造",
+        "content": "内力作用和外力作用对地表形态的塑造过程",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "内力作用",
+            "content": "能量来自地球内部，塑造地表基本格局",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "地壳运动",
+                "content": "岩石圈变位或变形，包括水平运动和垂直运动",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "岩浆活动",
+                "content": "岩浆侵入或喷出地表的过程",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "变质作用",
+                "content": "岩石在高温高压下成分结构发生改变",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "外力作用",
+            "content": "能量来自太阳能，使地表趋于平缓",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "风化作用",
+                "content": "岩石在温度、水、生物等作用下发生破碎分解",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "侵蚀作用",
+                "content": "流水、风等外力对地表进行破坏",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "搬运作用",
+                "content": "风化侵蚀产物被搬运离开原位置",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "堆积作用",
+                "content": "被搬运物质沉积形成堆积地貌",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "岩石圈物质循环",
+            "content": "三大类岩石相互转化的循环过程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "岩浆岩形成",
+                "content": "岩浆冷却凝固形成，包括侵入岩和喷出岩",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "沉积岩形成",
+                "content": "风化侵蚀产物经搬运堆积固结成岩",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "变质岩形成",
+                "content": "已生成岩石在高温高压下发生变质",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "大气的运动",
+        "content": "大气环流系统及其对天气和气候的影响",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "常见天气系统",
+            "content": "影响天气变化的锋面、气旋和反气旋系统",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "锋与天气",
+                "content": "冷暖气团交界面，带来不同的天气现象",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "气旋与反气旋",
+                "content": "低压和高压系统及其对天气的影响",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "气压带和风带",
+            "content": "全球尺度的大气环流系统",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "三圈环流",
+                "content": "低纬、中纬、高纬环流圈的形成机制",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "气压带分布",
+                "content": "七个气压带的形成和分布规律",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "风带分布",
+                "content": "六个风带的形成和分布规律",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "季风环流",
+            "content": "海陆热力性质差异形成的季节性风向转换",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "水的运动",
+        "content": "陆地水体相互关系及海洋水运动规律",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "陆地水体及其相互关系",
+            "content": "河流、湖泊、地下水等水体的相互联系",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "河流与湖泊",
+                "content": "湖泊对河流径流的调节作用",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "河流与地下水",
+                "content": "河流与地下水的相互补给关系",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "河流与冰川",
+                "content": "冰川积雪融水对河流的补给作用",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "洋流",
+            "content": "海水的大规模定向流动",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "洋流成因",
+                "content": "盛行风、地转偏向力、海陆分布等因素影响",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "洋流分布规律",
+                "content": "全球洋流系统的基本分布模式",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "洋流地理意义",
+                "content": "对气候、航运、渔场等的影响",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "自然环境的整体性与差异性",
+        "content": "自然环境各要素的相互联系及地域分异规律",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "自然环境的整体性",
+            "content": "各要素通过物质能量交换形成统一整体",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "物质迁移",
+                "content": "水循环、生物循环、岩石圈物质循环过程",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "整体功能",
+                "content": "生产功能、稳定功能等整体性功能",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "自然环境的差异性",
+            "content": "不同地域自然环境的差异特征",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "纬度地带性",
+                "content": "因热量差异导致的纬向地域分异",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "干湿度地带性",
+                "content": "因水分差异导致的经向地域分异",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "垂直地带性",
+                "content": "因海拔高度导致的水热变化分异",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "地球自转",
+      "tail": "昼夜交替",
+      "relation": "导致"
+    },
+    {
+      "head": "地球自转",
+      "tail": "地转偏向力",
+      "relation": "产生"
+    },
+    {
+      "head": "地球公转",
+      "tail": "季节变化",
+      "relation": "引起"
+    },
+    {
+      "head": "黄赤交角",
+      "tail": "太阳直射点移动",
+      "relation": "决定"
+    },
+    {
+      "head": "太阳直射点移动",
+      "tail": "昼夜长短变化",
+      "relation": "影响"
+    },
+    {
+      "head": "太阳直射点移动",
+      "tail": "正午太阳高度变化",
+      "relation": "影响"
+    },
+    {
+      "head": "内力作用",
+      "tail": "地表基本格局",
+      "relation": "奠定"
+    },
+    {
+      "head": "外力作用",
+      "tail": "地表形态",
+      "relation": "塑造"
+    },
+    {
+      "head": "风化作用",
+      "tail": "侵蚀作用",
+      "relation": "为...创造条件"
+    },
+    {
+      "head": "岩石圈物质循环",
+      "tail": "三大类岩石",
+      "relation": "包含"
+    },
+    {
+      "head": "锋面系统",
+      "tail": "天气变化",
+      "relation": "影响"
+    },
+    {
+      "head": "气旋",
+      "tail": "阴雨天气",
+      "relation": "带来"
+    },
+    {
+      "head": "反气旋",
+      "tail": "晴朗天气",
+      "relation": "带来"
+    },
+    {
+      "head": "气压带风带",
+      "tail": "气候形成",
+      "relation": "影响"
+    },
+    {
+      "head": "海陆热力性质差异",
+      "tail": "季风环流",
+      "relation": "形成"
+    },
+    {
+      "head": "陆地水体",
+      "tail": "水资源供应",
+      "relation": "提供"
+    },
+    {
+      "head": "洋流",
+      "tail": "热量输送",
+      "relation": "实现"
+    },
+    {
+      "head": "洋流",
+      "tail": "气候影响",
+      "relation": "产生"
+    },
+    {
+      "head": "自然环境整体性",
+      "tail": "要素间物质能量交换",
+      "relation": "基于"
+    },
+    {
+      "head": "纬度地带性",
+      "tail": "热量差异",
+      "relation": "由于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:38:51",
+    "version": "1.1"
+  }
+}

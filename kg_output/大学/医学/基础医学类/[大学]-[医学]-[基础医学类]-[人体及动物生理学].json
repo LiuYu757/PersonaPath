@@ -1,0 +1,381 @@
+{
+  "knowledge_tree": {
+    "title": "人体及动物生理学",
+    "content": "研究生物体生命活动规律的科学，包括细胞、组织、器官和系统的功能及其调节机制",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "细胞生理学",
+        "content": "研究细胞的基本生命活动，包括物质转运、信号转导和生物电现象",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "细胞膜的物质转运",
+            "content": "物质通过细胞膜的方式和机制",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "被动转运",
+                "content": "顺浓度梯度或电位梯度的不耗能转运",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "单纯扩散",
+                    "content": "脂溶性物质顺浓度梯度通过细胞膜",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "易化扩散",
+                    "content": "非脂溶性物质借助膜蛋白顺浓度梯度转运",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "主动转运",
+                "content": "逆浓度梯度耗能的物质转运",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "原发性主动转运",
+                    "content": "直接利用ATP供能的转运，如钠泵",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "继发性主动转运",
+                    "content": "利用原发性主动转运建立的势能差进行转运",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "细胞的生物电现象",
+            "content": "细胞膜两侧电位变化及其产生机制",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "静息电位",
+                "content": "细胞未受刺激时膜内外存在的电位差",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "静息电位的产生机制",
+                    "content": "钾离子外流形成的钾平衡电位",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "动作电位",
+                "content": "可兴奋细胞受到刺激时产生的快速、可传播的电位变化",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "动作电位的特征",
+                    "content": "全或无、不衰减传导、不应期",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "动作电位的产生机制",
+                    "content": "电压门控钠通道激活导致的钠离子内流",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "神经系统生理",
+        "content": "研究神经系统功能及其调节机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "神经元与突触传递",
+            "content": "神经细胞的结构功能和信息传递",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "神经元的结构",
+                "content": "胞体、树突、轴突的基本结构和功能",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "突触传递",
+                "content": "神经元之间信息传递的方式",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "化学性突触传递",
+                    "content": "神经递质介导的突触传递",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "电突触传递",
+                    "content": "通过缝隙连接直接电信号传递",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "神经系统的感觉功能",
+            "content": "感觉信息的接收、传导和整合",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "感觉传导通路",
+                "content": "感觉信息从感受器到大脑皮层的传导路径",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "感觉信息的整合",
+                "content": "大脑对感觉信息的加工和处理",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "血液循环生理",
+        "content": "研究心脏、血管和血液的功能及其调节",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "心脏生理",
+            "content": "心脏的泵血功能及其调节",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "心肌细胞的电生理特性",
+                "content": "心肌细胞兴奋性和传导性的基础",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "自律性",
+                    "content": "心肌细胞自动产生节律性兴奋的能力",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "传导性",
+                    "content": "兴奋在心脏内的传播特性",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "心脏的泵血功能",
+                "content": "心脏收缩和舒张推动血液循环的机制",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "心输出量",
+                    "content": "每分钟一侧心室射出的血液总量",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "心输出量的调节",
+                    "content": "影响心输出量的各种因素和调节机制",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "细胞生理学",
+      "tail": "细胞膜的物质转运",
+      "relation": "包含"
+    },
+    {
+      "head": "细胞膜的物质转运",
+      "tail": "被动转运",
+      "relation": "包含"
+    },
+    {
+      "head": "被动转运",
+      "tail": "单纯扩散",
+      "relation": "包含"
+    },
+    {
+      "head": "被动转运",
+      "tail": "易化扩散",
+      "relation": "包含"
+    },
+    {
+      "head": "细胞膜的物质转运",
+      "tail": "主动转运",
+      "relation": "包含"
+    },
+    {
+      "head": "主动转运",
+      "tail": "原发性主动转运",
+      "relation": "包含"
+    },
+    {
+      "head": "主动转运",
+      "tail": "继发性主动转运",
+      "relation": "包含"
+    },
+    {
+      "head": "细胞生理学",
+      "tail": "细胞的生物电现象",
+      "relation": "包含"
+    },
+    {
+      "head": "细胞的生物电现象",
+      "tail": "静息电位",
+      "relation": "包含"
+    },
+    {
+      "head": "静息电位",
+      "tail": "静息电位的产生机制",
+      "relation": "基于"
+    },
+    {
+      "head": "细胞的生物电现象",
+      "tail": "动作电位",
+      "relation": "包含"
+    },
+    {
+      "head": "动作电位",
+      "tail": "动作电位的特征",
+      "relation": "描述"
+    },
+    {
+      "head": "动作电位",
+      "tail": "动作电位的产生机制",
+      "relation": "基于"
+    },
+    {
+      "head": "神经系统生理",
+      "tail": "神经元与突触传递",
+      "relation": "包含"
+    },
+    {
+      "head": "神经元与突触传递",
+      "tail": "神经元的结构",
+      "relation": "包含"
+    },
+    {
+      "head": "神经元与突触传递",
+      "tail": "突触传递",
+      "relation": "包含"
+    },
+    {
+      "head": "突触传递",
+      "tail": "化学性突触传递",
+      "relation": "包含"
+    },
+    {
+      "head": "突触传递",
+      "tail": "电突触传递",
+      "relation": "包含"
+    },
+    {
+      "head": "神经系统生理",
+      "tail": "神经系统的感觉功能",
+      "relation": "包含"
+    },
+    {
+      "head": "神经系统的感觉功能",
+      "tail": "感觉传导通路",
+      "relation": "包含"
+    },
+    {
+      "head": "神经系统的感觉功能",
+      "tail": "感觉信息的整合",
+      "relation": "包含"
+    },
+    {
+      "head": "血液循环生理",
+      "tail": "心脏生理",
+      "relation": "包含"
+    },
+    {
+      "head": "心脏生理",
+      "tail": "心肌细胞的电生理特性",
+      "relation": "包含"
+    },
+    {
+      "head": "心肌细胞的电生理特性",
+      "tail": "自律性",
+      "relation": "包含"
+    },
+    {
+      "head": "心肌细胞的电生理特性",
+      "tail": "传导性",
+      "relation": "包含"
+    },
+    {
+      "head": "心脏生理",
+      "tail": "心脏的泵血功能",
+      "relation": "包含"
+    },
+    {
+      "head": "心脏的泵血功能",
+      "tail": "心输出量",
+      "relation": "包含"
+    },
+    {
+      "head": "心脏的泵血功能",
+      "tail": "心输出量的调节",
+      "relation": "包含"
+    },
+    {
+      "head": "动作电位",
+      "tail": "电压门控钠通道",
+      "relation": "依赖于"
+    },
+    {
+      "head": "静息电位",
+      "tail": "钾离子外流",
+      "relation": "由...产生"
+    },
+    {
+      "head": "继发性主动转运",
+      "tail": "原发性主动转运",
+      "relation": "依赖于"
+    },
+    {
+      "head": "化学性突触传递",
+      "tail": "神经递质",
+      "relation": "通过...介导"
+    },
+    {
+      "head": "心输出量",
+      "tail": "心输出量的调节",
+      "relation": "受...影响"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 16:40:22",
+    "version": "1.1"
+  }
+}

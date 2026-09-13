@@ -1,0 +1,294 @@
+{
+  "knowledge_tree": {
+    "title": "创业管理",
+    "content": "工商管理类核心课程，系统讲授创业机会识别、资源整合、商业模式设计、成长与退出全过程",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "创业基础概念",
+        "content": "创业、创业者与创业过程的基本定义与特征",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "创业（entrepreneurship）",
+            "content": "在不确定性环境中识别机会并整合资源以创造新价值的过程",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "创业者（entrepreneur）",
+            "content": "承担风险并主动发起、组织与管理创业活动的个体或团队",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "创业过程模型",
+            "content": "从机会识别到成长退出的动态阶段划分与关键任务",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Timmons模型",
+                "content": "机会、资源、团队三要素动态平衡模型",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "效果逻辑（effectuation）",
+                "content": "从既有手段出发，通过与利益相关者互动塑造机会的非预测逻辑",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "创业机会",
+        "content": "市场与技术变化中产生的、可商业化的新价值可能性",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "机会识别",
+            "content": "通过系统搜索与偶然发现两种方式识别机会",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "机会来源",
+                "content": "技术变革、制度变化、市场需求缺口、产业价值链重构",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "创造力与机会",
+                "content": "发散思维、联想能力与先前知识对机会识别的影响",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "机会评估",
+            "content": "从市场、技术、团队、财务维度对机会可行性进行评价",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "市场容量测算",
+                "content": "TAM、SAM、SOM三层级市场容量估算公式",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "商业模式画布",
+                "content": "九大模块可视化描述价值创造、传递与获取逻辑",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "资源整合",
+        "content": "在资源约束下通过杠杆、拼凑等方式获取并配置资源",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "资源基础理论（RBT）",
+            "content": "稀缺、难以模仿、不可替代的资源产生持续竞争优势",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "拼凑（bricolage）",
+            "content": "利用手头资源即兴解决新问题的非传统资源获取方式",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "杠杆效应",
+            "content": "以少量自有资源撬动大量外部资源的机制",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "社会资本",
+                "content": "关系网络、信任与规范带来的资源获取便利",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "商业模式",
+        "content": "价值主张、价值创造、价值获取的系统设计",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "商业模式类型",
+            "content": "多边平台、长尾、免费、订阅等典型模式",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "精益创业",
+            "content": "通过MVP—验证—迭代降低不确定性的创业方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "最小可行产品（MVP）",
+                "content": "以最小功能集合验证核心假设的产品原型",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "收入模型",
+            "content": "一次性销售、订阅、广告、授权、交易佣金等收入机制",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "创业融资",
+        "content": "不同发展阶段的资金需求与融资方式",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "融资阶段",
+            "content": "天使轮、A轮、B轮、Pre-IPO等阶段特征与资金用途",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "估值方法",
+            "content": "可比公司法、DCF、风险投资法（VC Method）",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "风险投资法公式",
+                "content": "投后估值 = 退出价值 / 目标回报率；股权比例 = 投资额 / 投后估值",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "尽职调查",
+            "content": "财务、法律、商业、技术四维度核查",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "成长管理",
+        "content": "从初创到规模化扩张的组织与战略挑战",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "新创企业成长阶段",
+            "content": "生存期、成长期、成熟期关键任务与陷阱",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "合法性（legitimacy）",
+            "content": "获取利益相关者认可以降低失败风险",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": " ambidextrous组织",
+            "content": "同时管理探索式与利用式创新的双元能力",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "退出机制",
+        "content": "创业者与投资者实现收益的路径",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "IPO",
+            "content": "首次公开募股的条件与流程",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "并购（M&A）",
+            "content": "战略买家与财务买家的估值差异",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "股权回购",
+            "content": "创业者或公司回购投资者股权的条款设计",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "创业",
+      "tail": "机会识别",
+      "relation": "始于"
+    },
+    {
+      "head": "效果逻辑",
+      "tail": "因果逻辑",
+      "relation": "对立于"
+    },
+    {
+      "head": "MVP",
+      "tail": "精益创业",
+      "relation": "是核心工具"
+    },
+    {
+      "head": "资源拼凑",
+      "tail": "资源约束",
+      "relation": "应对策略"
+    },
+    {
+      "head": "风险投资法",
+      "tail": "估值",
+      "relation": "用于"
+    },
+    {
+      "head": "合法性",
+      "tail": "新创企业失败",
+      "relation": "降低风险"
+    },
+    {
+      "head": "商业模式画布",
+      "tail": "商业模式设计",
+      "relation": "可视化工具"
+    },
+    {
+      "head": "Timmons模型",
+      "tail": "机会-资源-团队",
+      "relation": "动态平衡"
+    },
+    {
+      "head": "天使投资",
+      "tail": "早期融资",
+      "relation": "提供"
+    },
+    {
+      "head": "IPO",
+      "tail": "退出",
+      "relation": "实现收益"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-19 09:46:14",
+    "version": "1.1"
+  }
+}

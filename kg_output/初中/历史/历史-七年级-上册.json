@@ -1,0 +1,853 @@
+{
+  "knowledge_tree": {
+    "title": "七年级上册中国历史",
+    "content": "涵盖史前时期至三国两晋南北朝时期的中国历史，包括原始社会、奴隶制王朝、统一多民族封建国家的建立与巩固，以及政权分立与民族交融",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "史前时期：原始社会与中华文明的起源",
+        "content": "我国远古人类活动、原始农业发展及中华文明起源",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "远古时期的人类活动",
+            "content": "元谋人、蓝田人、郧县人、北京人等古人类活动",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "我国境内的古人类",
+                "content": "我国是世界上发现古人类化石和旧石器时代遗址最多的国家之一",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "元谋人",
+                    "content": "我国境内目前已知最早的古人类之一，距今约170万年",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "蓝田人",
+                    "content": "发现于陕西蓝田，距今约160万年",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "郧县人",
+                    "content": "发现于湖北郧阳，距今约100万年",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "北京人",
+                    "content": "发现于北京周口店，距今约70万-20万年，会使用火",
+                    "difficulty": "1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "山顶洞人",
+                "content": "距今约3万年，属于晚期智人，掌握磨光和钻孔技术",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "原始农业与史前社会",
+            "content": "农业起源与发展，新石器时代文化遗址",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "农业的起源与定居生活",
+                "content": "我国是世界上农业起源地之一，距今约1万年出现人工栽培农作物",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "水稻栽培",
+                    "content": "世界上最早的栽培水稻发现于我国",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "粟和黍栽培",
+                    "content": "世界上最早的栽培粟和黍发现于我国",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "河姆渡文化",
+                "content": "距今约7000年，位于长江下游，稻作农业繁荣",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "干栏式建筑",
+                    "content": "河姆渡人的主要房屋形式",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "骨耜",
+                    "content": "河姆渡人使用的农业生产工具",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "仰韶文化",
+                "content": "距今约7000-5000年，主要分布在黄河中游地区",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "半坡遗址",
+                    "content": "重要的仰韶文化遗址，距今约6000年",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "彩陶",
+                    "content": "仰韶文化的重要特征",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "大汶口文化",
+                "content": "距今约5900-4400年，主要分布于黄河下游和淮河中下游",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "中华文明的起源",
+            "content": "早期国家形成与古史传说",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "早期国家和文明的起源",
+                "content": "5000多年前，我国原始社会出现早期城市，私有制、阶级和国家产生",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "良渚古城",
+                    "content": "距今约5300-4300年，规模巨大的古城遗址",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "陶寺古城",
+                    "content": "距今约4300-4000年，表明黄河中游地区已出现早期国家",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "远古的传说",
+                "content": "炎帝、黄帝等古史传说",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "炎黄部落联盟",
+                    "content": "黄帝联合炎帝，结成联盟，被尊为中华民族的人文初祖",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "尧舜禹禅让",
+                    "content": "传说中的部落联盟首领更替制度",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "夏商周时期：奴隶制王朝的更替和向封建社会的过渡",
+        "content": "夏商西周王朝更替、春秋战国社会变革与科技文化成就",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "夏商西周王朝的更替",
+            "content": "我国历史上第一个奴隶制王朝及其更替",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "夏朝的建立与家天下",
+                "content": "约公元前2070年禹建立夏朝，世袭制取代禅让制",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "二里头遗址",
+                    "content": "夏王朝后期都城遗址",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "商朝的统治",
+                "content": "约公元前1600年商汤灭夏，建立商朝",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "殷墟",
+                    "content": "商朝后期都城遗址",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "西周的兴衰",
+                "content": "公元前1046年周武王灭商，建立西周",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "分封制",
+                    "content": "西周巩固统治的政治制度",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "宗法制",
+                    "content": "以血缘关系为基础的政治制度",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "动荡变化中的春秋时期",
+            "content": "王室衰微，诸侯争霸，经济发展",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "王室衰微",
+                "content": "周王室权威削弱，分封制逐步瓦解",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "诸侯争霸",
+                "content": "齐桓公、晋文公、楚庄王等先后称霸",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "春秋时期的经济发展",
+                "content": "铁制农具和牛耕出现，手工业、商业发展",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "战国时期的社会变革",
+            "content": "战国七雄兼并战争，各国变法改革",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "战国七雄",
+                "content": "齐、楚、燕、韩、赵、魏、秦七国并立",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "商鞅变法",
+                "content": "公元前356年秦孝公任用商鞅变法，使秦国富强",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "战国时期的经济发展",
+                "content": "冶铁技术进步，水利工程兴修",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "都江堰",
+                    "content": "公元前256年李冰主持修建的大型水利工程",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "百家争鸣",
+            "content": "春秋战国时期思想学术繁荣局面",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "老子和道家",
+                "content": "道家学派创始人，主张无为而治",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "孔子和儒家",
+                "content": "儒家学派创始人，主张仁和礼",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "百家争鸣的局面",
+                "content": "儒家、墨家、道家、法家等学派相互辩论影响",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "夏商周时期的科技与文化",
+            "content": "天文历法、医学、文字、青铜器等科技文化成就",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "天文、历法和医学",
+                "content": "商朝甲骨文记载日食月食，战国时期名医扁鹊",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "甲骨文与青铜器",
+                "content": "商朝甲骨文是已发现的最早的成熟文字，商周青铜器制作精美",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "诗经和楚辞",
+                "content": "我国古代诗歌的两大源头",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "秦汉时期：统一多民族封建国家的建立和巩固",
+        "content": "秦朝统一与巩固，两汉兴衰，丝绸之路开通，科技文化发展",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "秦统一中国",
+            "content": "公元前221年秦完成统一，建立中央集权制度",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "秦灭六国",
+                "content": "公元前230-前221年，秦国先后灭韩、赵、魏、楚、燕、齐",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "建立中央集权制度",
+                "content": "创立皇帝制度，设三公九卿，推行郡县制",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "巩固统一的措施",
+                "content": "统一文字、货币、度量衡，修驰道，筑长城",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "秦末农民大起义",
+            "content": "秦朝暴政导致农民起义，秦朝灭亡",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "秦的暴政",
+                "content": "繁重徭役，严刑苛法，焚书坑儒",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "陈胜吴广起义",
+                "content": "公元前209年大泽乡起义，中国历史上第一次农民大起义",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "秦朝的灭亡",
+                "content": "公元前207年秦朝统治者在起义军包围下出城投降",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "西汉建立和文景之治",
+            "content": "汉初休养生息政策，社会经济恢复发展",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "楚汉之争与西汉建立",
+                "content": "公元前202年刘邦建立汉朝，定都长安",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "汉高祖的休养生息政策",
+                "content": "让士兵还乡务农，释放奴婢，轻徭薄赋",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "文景之治",
+                "content": "汉文帝、汉景帝时期政治清明，经济发展",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "大一统王朝的巩固",
+            "content": "汉武帝巩固中央集权，开拓疆域",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "削弱地方势力",
+                "content": "推行推恩令，设立刺史制度",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "加强经济管控",
+                "content": "将铸币权收归中央，实行盐铁官营",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "尊崇儒术",
+                "content": "采纳董仲舒建议，罢黜百家，独尊儒术",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "北击匈奴",
+                "content": "派卫青、霍去病北击匈奴，控制河西走廊",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "东汉的兴衰",
+            "content": "东汉建立与光武中兴，后期政治动荡",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "东汉建立与光武中兴",
+                "content": "25年刘秀建立东汉，采取稳定社会局面措施",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "东汉中后期的政局动荡",
+                "content": "外戚宦官交替专权，豪强大族势力膨胀",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "黄巾起义",
+                "content": "184年张角领导的大规模农民起义",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "丝绸之路的开通与经营西域",
+            "content": "张骞通西域，丝绸之路开通，汉朝对西域的管理",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "张骞通西域",
+                "content": "公元前138年和前119年两次出使西域",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "丝绸之路",
+                "content": "沟通欧亚的陆上交通道路，促进中外经济文化交流",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "汉朝对西域的管理",
+                "content": "公元前60年设置西域都护府，标志西域正式归属中央政权",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "秦汉时期的科技与文化",
+            "content": "造纸术发明，医学数学农学成就，史学文学发展",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "造纸术的发明",
+                "content": "西汉时期掌握造纸方法，东汉蔡伦改进造纸工艺",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "医学、数学与农学的成就",
+                "content": "张仲景《伤寒杂病论》，华佗麻沸散，《九章算术》",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "司马迁与《史记》",
+                "content": "我国古代第一部纪传体通史",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "道教和佛教",
+                "content": "东汉末年道教兴起，两汉之际佛教传入中国",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "三国两晋南北朝时期：政权分立与民族交融",
+        "content": "三国鼎立，西晋短暂统一，北方各族内迁，东晋南朝政治与江南开发，北朝政治与民族交融",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "三国鼎立",
+            "content": "官渡之战，赤壁之战，魏蜀吴三国建立",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "官渡之战",
+                "content": "200年曹操与袁绍决战，曹操以少胜多",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "赤壁之战",
+                "content": "208年孙刘联军与曹操决战，孙刘联军以少胜多",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "魏蜀吴的建立及发展",
+                "content": "220年曹丕建魏，221年刘备建蜀汉，229年孙权建吴",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "西晋的短暂统一和北方各族的内迁",
+            "content": "西晋统一与迅速灭亡，北方各族内迁",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "西晋的建立与统一",
+                "content": "266年司马炎建西晋，280年灭吴统一全国",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "八王之乱与西晋灭亡",
+                "content": "晋惠帝时期八王争权混战，316年西晋灭亡",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "北方各族的内迁",
+                "content": "匈奴、鲜卑、羯、氐、羌等族内迁",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "东晋南朝政治和江南地区开发",
+            "content": "东晋建立与门阀政治，南朝更替，江南经济发展",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "东晋的兴亡",
+                "content": "317年司马睿建东晋，420年东晋灭亡",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "南朝的政治",
+                "content": "420-589年宋、齐、梁、陈四个朝代更替",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "江南地区的开发",
+                "content": "北方人口南迁，带去了先进生产技术和工具",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "北朝政治和北方民族大交融",
+            "content": "淝水之战，北魏孝文帝改革，北方民族交融",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "淝水之战",
+                "content": "383年前秦与东晋决战，东晋以少胜多",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "北魏孝文帝改革",
+                "content": "迁都洛阳，推行汉化措施",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "北方地区的民族交融",
+                "content": "各族在生产生活、文化上相互学习影响",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "三国两晋南北朝时期的科技与文化",
+            "content": "农学、数学、天文历法进步，书法绘画石窟艺术发展",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "贾思勰和《齐民要术》",
+                "content": "我国现存最早的一部完整的农书",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "科学家祖冲之",
+                "content": "将圆周率精确到小数点后第七位，创制《大明历》",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "灿烂的文化",
+                "content": "书法艺术发展，绘画成就，石窟艺术，文学领域成就",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "元谋人",
+      "tail": "我国境内最早古人类",
+      "relation": "是"
+    },
+    {
+      "head": "北京人",
+      "tail": "使用火",
+      "relation": "掌握"
+    },
+    {
+      "head": "山顶洞人",
+      "tail": "磨光和钻孔技术",
+      "relation": "掌握"
+    },
+    {
+      "head": "河姆渡文化",
+      "tail": "稻作农业",
+      "relation": "以...为特征"
+    },
+    {
+      "head": "仰韶文化",
+      "tail": "彩陶",
+      "relation": "以...为特征"
+    },
+    {
+      "head": "良渚古城",
+      "tail": "早期国家",
+      "relation": "证明"
+    },
+    {
+      "head": "炎黄部落",
+      "tail": "中华民族人文初祖",
+      "relation": "被尊为"
+    },
+    {
+      "head": "夏朝",
+      "tail": "世袭制",
+      "relation": "开创"
+    },
+    {
+      "head": "商朝",
+      "tail": "甲骨文",
+      "relation": "使用"
+    },
+    {
+      "head": "西周",
+      "tail": "分封制",
+      "relation": "实行"
+    },
+    {
+      "head": "春秋时期",
+      "tail": "诸侯争霸",
+      "relation": "特征"
+    },
+    {
+      "head": "战国时期",
+      "tail": "各国变法",
+      "relation": "特征"
+    },
+    {
+      "head": "商鞅变法",
+      "tail": "秦国富强",
+      "relation": "促使"
+    },
+    {
+      "head": "都江堰",
+      "tail": "水利工程",
+      "relation": "是"
+    },
+    {
+      "head": "百家争鸣",
+      "tail": "思想学术繁荣",
+      "relation": "促进"
+    },
+    {
+      "head": "秦朝",
+      "tail": "中央集权制度",
+      "relation": "创立"
+    },
+    {
+      "head": "秦始皇",
+      "tail": "统一措施",
+      "relation": "推行"
+    },
+    {
+      "head": "陈胜吴广起义",
+      "tail": "秦朝统治",
+      "relation": "动摇"
+    },
+    {
+      "head": "西汉",
+      "tail": "休养生息政策",
+      "relation": "实行"
+    },
+    {
+      "head": "文景之治",
+      "tail": "社会稳定经济发展",
+      "relation": "带来"
+    },
+    {
+      "head": "汉武帝",
+      "tail": "大一统局面",
+      "relation": "巩固"
+    },
+    {
+      "head": "丝绸之路",
+      "tail": "中外交流",
+      "relation": "促进"
+    },
+    {
+      "head": "造纸术",
+      "tail": "蔡伦",
+      "relation": "由...改进"
+    },
+    {
+      "head": "史记",
+      "tail": "纪传体通史",
+      "relation": "是"
+    },
+    {
+      "head": "东汉",
+      "tail": "光武中兴",
+      "relation": "经历"
+    },
+    {
+      "head": "黄巾起义",
+      "tail": "东汉统治",
+      "relation": "打击"
+    },
+    {
+      "head": "三国鼎立",
+      "tail": "官渡之战",
+      "relation": "源于"
+    },
+    {
+      "head": "赤壁之战",
+      "tail": "三国鼎立局面",
+      "relation": "奠定"
+    },
+    {
+      "head": "西晋",
+      "tail": "短暂统一",
+      "relation": "实现"
+    },
+    {
+      "head": "北方各族内迁",
+      "tail": "民族交融",
+      "relation": "促进"
+    },
+    {
+      "head": "东晋",
+      "tail": "门阀政治",
+      "relation": "特征"
+    },
+    {
+      "head": "江南开发",
+      "tail": "北人南迁",
+      "relation": "得益于"
+    },
+    {
+      "head": "北魏孝文帝改革",
+      "tail": "民族交融",
+      "relation": "推动"
+    },
+    {
+      "head": "齐民要术",
+      "tail": "农业科学技术",
+      "relation": "总结"
+    },
+    {
+      "head": "祖冲之",
+      "tail": "圆周率",
+      "relation": "计算"
+    },
+    {
+      "head": "王羲之",
+      "tail": "书法艺术",
+      "relation": "发展"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:27:56",
+    "version": "1.1"
+  }
+}

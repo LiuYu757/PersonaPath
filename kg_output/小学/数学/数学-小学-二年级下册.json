@@ -1,0 +1,251 @@
+{
+  "knowledge_tree": {
+    "title": "二年级下册数学",
+    "content": "包含数据收集与整理、表内除法、图形的运动、万以内数的认识、克和千克、数学广角——推理等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "数据收集和整理",
+        "content": "学习收集数据的方法，用统计表呈现数据，并能根据数据回答问题",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "数据收集方法",
+            "content": "通过举手、投票等方式收集数据，确保每人只选一种",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "统计表",
+            "content": "用表格形式呈现统计数据，便于观察和分析",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "数据分析",
+            "content": "根据统计结果回答问题，如最多、最少等，并做出简单决策",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "表内除法",
+        "content": "认识除法，用乘法口诀求商，解决平均分问题",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "平均分",
+            "content": "每份分得同样多，叫平均分",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "除法算式",
+            "content": "用除法算式表示平均分的过程，如12÷4=3",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "除法各部分名称",
+            "content": "被除数、除数、商，如12÷4=3中，12是被除数，4是除数，3是商",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "用乘法口诀求商",
+            "content": "用乘法口诀计算除法，如想（四）六二十四，商是4",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "解决问题",
+            "content": "用除法解决实际问题，如求每份数或份数",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "图形的运动",
+        "content": "认识轴对称、平移和旋转现象",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "轴对称图形",
+            "content": "对折后能完全重合的图形是轴对称图形，折痕是对称轴",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "平移",
+            "content": "物体沿直线运动，形状、大小、方向不变",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "旋转",
+            "content": "物体绕一个点转动，如陀螺旋转",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "剪纸活动",
+            "content": "通过剪纸活动加深对轴对称的理解",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "万以内数的认识",
+        "content": "认识万以内的数，读写、组成、大小比较及近似数",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "数位顺序表",
+            "content": "个位、十位、百位、千位、万位",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "数的读写",
+            "content": "从高位读起，千位是几读几千，末尾0不读，中间0读一个零",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "数的组成",
+            "content": "如2458由2个千、4个百、5个十和8个一组成",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "数的大小比较",
+            "content": "位数不同，位数多的数大；位数相同，从高位比起",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "近似数",
+            "content": "接近整千、整百的数，如9985≈10000",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "整百整千数加减法",
+            "content": "如1000+2000=3000，想1个千加2个千是3个千",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "克和千克",
+        "content": "认识质量单位克和千克，会称量并解决问题",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "克的认识",
+            "content": "计量较轻物品，用天平称，如2个曲别针约重1克",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "千克的认识",
+            "content": "计量较重物品，1千克=1000克",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "秤的认识",
+            "content": "认识盘秤、弹簧秤、体重秤等，会看指针读数",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "解决问题",
+            "content": "如500元是否够买两件商品，需估算",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数学广角——推理",
+        "content": "简单推理和数独游戏",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "简单推理",
+            "content": "用排除法进行判断，如三人各拿什么书",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "数独游戏",
+            "content": "每行、每列都有1~4，且不重复",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "数据收集和整理",
+      "tail": "统计表",
+      "relation": "使用"
+    },
+    {
+      "head": "表内除法",
+      "tail": "平均分",
+      "relation": "基于"
+    },
+    {
+      "head": "表内除法",
+      "tail": "乘法口诀",
+      "relation": "用于求商"
+    },
+    {
+      "head": "图形的运动",
+      "tail": "轴对称图形",
+      "relation": "包含"
+    },
+    {
+      "head": "图形的运动",
+      "tail": "平移",
+      "relation": "包含"
+    },
+    {
+      "head": "图形的运动",
+      "tail": "旋转",
+      "relation": "包含"
+    },
+    {
+      "head": "万以内数的认识",
+      "tail": "数位顺序表",
+      "relation": "基于"
+    },
+    {
+      "head": "万以内数的认识",
+      "tail": "近似数",
+      "relation": "包含"
+    },
+    {
+      "head": "克和千克",
+      "tail": "秤",
+      "relation": "用于称量"
+    },
+    {
+      "head": "数学广角——推理",
+      "tail": "排除法",
+      "relation": "使用"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:14:39",
+    "version": "1.1"
+  }
+}

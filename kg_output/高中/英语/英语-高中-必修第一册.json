@@ -1,0 +1,399 @@
+{
+  "knowledge_tree": {
+    "title": "English for Senior High School (Compulsory 1)",
+    "content": "Comprehensive English language learning for first-year senior high students, covering listening, speaking, reading, writing, and cultural awareness.",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "Welcome Unit",
+        "content": "Introduction to senior high school life, making introductions, and describing feelings.",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "Making Introductions",
+            "content": "Learn formal and informal ways to introduce oneself and others.",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "Formal Introductions",
+                "content": "Using phrases like 'May I introduce...' in formal settings.",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Informal Greetings",
+                "content": "Casual greetings such as 'What's up?' and 'How's it going?'.",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Describing Feelings",
+            "content": "Vocabulary for emotions: anxious, annoyed, frightened, confident, etc.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Pronunciation: Vowel Sounds",
+            "content": "Practice pronunciation of vowels A, E, I, O, U in different words.",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 1: Teenage Life",
+        "content": "Exploring school life, extra-curricular activities, and teenage challenges.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "School Clubs",
+            "content": "Types of clubs: Ballet, Nature, Volunteer, Debate, etc.",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "Club Activities",
+                "content": "What students do in each club, e.g., grow plants in Nature Club.",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "The Freshman Challenge",
+            "content": "Adapting to senior high school, choosing courses, and joining activities.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Course Selection",
+                "content": "How to choose suitable courses with an adviser's help.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Dealing with Setbacks",
+                "content": "Handling failure, e.g., not making a sports team, and not giving up.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Learning Strategies",
+            "content": "Methods for effective learning: group work, note-taking, using dictionaries.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Writing a Student Profile",
+            "content": "Structure and content of a student profile, including personality and hobbies.",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Travelling Around",
+        "content": "Planning trips, making reservations, and exploring different cultures.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Travel Preparations",
+            "content": "Steps to prepare for a trip: passport, visa, booking tickets and hotels.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Essential Documents",
+                "content": "Importance of passport and visa for international travel.",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Booking Accommodation",
+                "content": "How to book a hotel room, including special requests.",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Reading a Brochure",
+            "content": "Understanding travel brochures, e.g., about Peru.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Types of Tours",
+                "content": "Different tours: Machu Picchu, Amazon Rainforest, etc.",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Present Continuous for Future Plans",
+            "content": "Using present continuous tense to talk about future arrangements.",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "Writing a Travel Plan",
+            "content": "How to write an email about a travel plan, including destinations and activities.",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: Sports and Fitness",
+        "content": "Learning about sports events, athletes, and healthy living.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Sports Events",
+            "content": "Types of events: soccer games, marathons, boxing matches.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Living Legends of Sports",
+            "content": "Profiles of athletes like Lang Ping and Michael Jordan.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Lang Ping's Achievements",
+                "content": "Her role as player and coach, and her determination.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Michael Jordan's Success",
+                "content": "His skills and mental strength, and his philosophy on failure.",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Tag Questions",
+            "content": "Formation and use of tag questions in conversations.",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "Writing a Wellness Page",
+            "content": "Sharing personal changes for better health and fitness.",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 4: Natural Disasters",
+        "content": "Understanding natural disasters, safety measures, and report writing.",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "Types of Disasters",
+            "content": "Earthquakes, tornadoes, tsunamis, floods, etc.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "The Tangshan Earthquake",
+            "content": "Description of the 1976 earthquake, its impact, and recovery.",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "Warning Signs",
+                "content": "Strange phenomena before the earthquake, e.g., well water changes.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Aftermath and Revival",
+                "content": "How the city recovered with government and people's efforts.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Restrictive Relative Clauses",
+            "content": "Using that, which, who, whose, whom to add information about nouns.",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "Writing a Summary",
+            "content": "How to summarize a news report about a disaster.",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 5: Languages Around the World",
+        "content": "Exploring language diversity, learning strategies, and the Chinese writing system.",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "Diversity of Languages",
+            "content": "Number of languages globally, official UN languages.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "The Chinese Writing System",
+            "content": "History and development of Chinese characters from ancient times.",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "Oracle Bone Script",
+                "content": "Early symbols carved on bones and shells.",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "Unification under Qinshihuang",
+                "content": "Standardization of characters during the Qin Dynasty.",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "Chinese Calligraphy",
+                "content": "Art form based on Chinese characters.",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Language Learning Challenges",
+            "content": "Common problems: listening, politeness, vocabulary.",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "Restrictive Relative Clauses with Adverbs",
+            "content": "Using where, when, why in relative clauses.",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "Writing a Blog Post",
+            "content": "Sharing language learning experiences and advice.",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "Making Introductions",
+      "tail": "Formal Introductions",
+      "relation": "includes"
+    },
+    {
+      "head": "School Clubs",
+      "tail": "Club Activities",
+      "relation": "includes"
+    },
+    {
+      "head": "The Freshman Challenge",
+      "tail": "Course Selection",
+      "relation": "includes"
+    },
+    {
+      "head": "The Freshman Challenge",
+      "tail": "Dealing with Setbacks",
+      "relation": "includes"
+    },
+    {
+      "head": "Travel Preparations",
+      "tail": "Essential Documents",
+      "relation": "includes"
+    },
+    {
+      "head": "Travel Preparations",
+      "tail": "Booking Accommodation",
+      "relation": "includes"
+    },
+    {
+      "head": "Reading a Brochure",
+      "tail": "Types of Tours",
+      "relation": "includes"
+    },
+    {
+      "head": "Living Legends of Sports",
+      "tail": "Lang Ping's Achievements",
+      "relation": "includes"
+    },
+    {
+      "head": "Living Legends of Sports",
+      "tail": "Michael Jordan's Success",
+      "relation": "includes"
+    },
+    {
+      "head": "The Tangshan Earthquake",
+      "tail": "Warning Signs",
+      "relation": "includes"
+    },
+    {
+      "head": "The Tangshan Earthquake",
+      "tail": "Aftermath and Revival",
+      "relation": "includes"
+    },
+    {
+      "head": "The Chinese Writing System",
+      "tail": "Oracle Bone Script",
+      "relation": "includes"
+    },
+    {
+      "head": "The Chinese Writing System",
+      "tail": "Unification under Qinshihuang",
+      "relation": "includes"
+    },
+    {
+      "head": "The Chinese Writing System",
+      "tail": "Chinese Calligraphy",
+      "relation": "includes"
+    },
+    {
+      "head": "Present Continuous for Future Plans",
+      "tail": "Travel Preparations",
+      "relation": "used in"
+    },
+    {
+      "head": "Tag Questions",
+      "tail": "Sports Events",
+      "relation": "used in discussions about"
+    },
+    {
+      "head": "Restrictive Relative Clauses",
+      "tail": "The Tangshan Earthquake",
+      "relation": "used to describe"
+    },
+    {
+      "head": "Restrictive Relative Clauses with Adverbs",
+      "tail": "The Chinese Writing System",
+      "relation": "used to explain"
+    },
+    {
+      "head": "Writing a Summary",
+      "tail": "The Tangshan Earthquake",
+      "relation": "applied to"
+    },
+    {
+      "head": "Writing a Blog Post",
+      "tail": "Language Learning Challenges",
+      "relation": "based on"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:25:36",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "knowledge_tree": {
+    "title": "刑法学",
+    "content": "研究刑法及其所规定的犯罪、刑事责任和刑罚的科学",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "刑法概述",
+        "content": "刑法的概念、性质、渊源、解释和基本原则",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "刑法的概念",
+            "content": "规定犯罪、刑事责任和刑罚的法律规范的总和",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "刑法的性质",
+            "content": "刑法是公法、实体法、强行法，具有严厉的制裁性",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "刑法的渊源",
+            "content": "刑法典、单行刑法、附属刑法等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "刑法的解释",
+            "content": "立法解释、司法解释、学理解释等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "刑法的基本原则",
+            "content": "罪刑法定原则、适用刑法平等原则、罪责刑相适应原则",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "罪刑法定原则",
+                "content": "法无明文规定不为罪，法无明文规定不处罚",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "适用刑法平等原则",
+                "content": "对任何人犯罪，在适用法律上一律平等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "罪责刑相适应原则",
+                "content": "刑罚的轻重，应当与犯罪分子所犯罪行和承担的刑事责任相适应",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "犯罪论",
+        "content": "关于犯罪的概念、构成、形态等一般理论",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "犯罪的概念",
+            "content": "具有社会危害性、刑事违法性、应受刑罚处罚性的行为",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "犯罪构成",
+            "content": "刑法规定的，决定某一行为的社会危害性及其程度，而为该行为构成犯罪所必需的一切客观和主观要件的有机统一",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "犯罪客体",
+                "content": "刑法所保护而为犯罪行为所侵犯的社会关系",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "犯罪客观方面",
+                "content": "刑法规定的，说明行为对刑法所保护的社会关系造成侵害的客观外在事实特征",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "危害行为",
+                    "content": "行为人意志支配下实施的危害社会的身体动静",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "危害结果",
+                    "content": "危害行为对犯罪客体所造成的实际损害或现实危险",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "因果关系",
+                    "content": "危害行为与危害结果之间存在的、符合规律的、内在的、必然的联系",
+                    "difficulty": "5",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "犯罪主体",
+                "content": "实施危害社会的行为，依法应当负刑事责任的自然人和单位",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "自然人犯罪主体",
+                    "content": "达到刑事责任年龄、具有刑事责任能力的自然人",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "单位犯罪主体",
+                    "content": "公司、企业、事业单位、机关、团体实施的危害社会的行为",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "犯罪主观方面",
+                "content": "犯罪主体对自己行为及其危害结果所持的心理态度",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "犯罪故意",
+                    "content": "明知自己的行为会发生危害社会的结果，并且希望或者放任这种结果发生的心理态度",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "犯罪过失",
+                    "content": "应当预见自己的行为可能发生危害社会的结果，因为疏忽大意而没有预见，或者已经预见而轻信能够避免的心理态度",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "正当行为",
+            "content": "客观上造成一定损害结果，形式上符合某些犯罪的客观要件，但实质上不具备社会危害性，也不具备刑事违法性的行为",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "正当防卫",
+                "content": "为了使国家、公共利益、本人或者他人的人身、财产和其他权利免受正在进行的不法侵害，而采取的制止不法侵害的行为",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "紧急避险",
+                "content": "为了使国家、公共利益、本人或者他人的人身、财产和其他权利免受正在发生的危险，不得已采取的损害另一较小合法权益的行为",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "故意犯罪的停止形态",
+            "content": "故意犯罪在其发生、发展和完成的过程及阶段中，因主客观原因而停止下来的各种犯罪状态",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "犯罪既遂",
+                "content": "行为人所故意实施的行为已经具备了某种犯罪构成的全部要件",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "犯罪预备",
+                "content": "为了犯罪，准备工具、制造条件的行为",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "犯罪未遂",
+                "content": "已经着手实行犯罪，由于犯罪分子意志以外的原因而未得逞",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "犯罪中止",
+                "content": "在犯罪过程中，自动放弃犯罪或者自动有效地防止犯罪结果发生",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "共同犯罪",
+            "content": "二人以上共同故意犯罪",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "共同犯罪的构成要件",
+                "content": "主体二人以上、共同的犯罪行为、共同的犯罪故意",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "共同犯罪人的分类",
+                "content": "主犯、从犯、胁从犯、教唆犯",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "罪数形态",
+            "content": "区分一罪与数罪的犯罪形态理论",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "实质的一罪",
+                "content": "继续犯、想象竞合犯、结果加重犯",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "法定的一罪",
+                "content": "结合犯、集合犯",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "处断的一罪",
+                "content": "连续犯、牵连犯、吸收犯",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "刑事责任",
+        "content": "行为人因其犯罪行为所应承受的、代表国家的司法机关根据刑事法律对该行为所作的否定评价和对行为人进行的谴责",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "刑事责任的概念",
+            "content": "刑事法律规定的，因实施犯罪行为而产生的，由司法机关强制犯罪者承受的刑事惩罚或单纯否定性法律评价的负担",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "刑事责任的根据",
+            "content": "行为符合犯罪构成是追究刑事责任的根据",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "刑事责任的发展阶段",
+            "content": "产生、确认、实现（或终结）",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "刑罚论",
+        "content": "关于刑罚的概念、目的、体系和种类以及刑罚的裁量与执行的理论",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "刑罚的概念和目的",
+            "content": "国家创制的、对犯罪分子适用的特殊制裁方法，目的是预防犯罪",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "刑罚的体系",
+            "content": "刑法所规定的并按照一定次序排列的各种刑罚方法的总和",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "主刑",
+                "content": "管制、拘役、有期徒刑、无期徒刑、死刑",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "附加刑",
+                "content": "罚金、剥夺政治权利、没收财产、驱逐出境",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "刑罚的裁量",
+            "content": "量刑，即依法对犯罪分子决定刑罚",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "量刑原则",
+                "content": "以犯罪事实为根据，以刑事法律为准绳",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "量刑情节",
+                "content": "法定情节与酌定情节，从重、从轻、减轻与免除处罚情节",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "刑罚的执行",
+            "content": "减刑、假释等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "刑罚的消灭",
+            "content": "时效、赦免等",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "刑法各论",
+        "content": "关于具体犯罪及其法定刑的理论",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "危害国家安全罪",
+            "content": "故意危害中华人民共和国国家主权、领土完整、国家政权和社会主义制度安全的行为",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "危害公共安全罪",
+            "content": "故意或者过失地实施危害不特定或者多数人的生命、健康或者重大公私财产安全的行为",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "破坏社会主义市场经济秩序罪",
+            "content": "违反国家经济管理法规，破坏国家经济管理活动，严重危害社会主义市场经济秩序的行为",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "侵犯公民人身权利、民主权利罪",
+            "content": "故意或者过失地侵犯公民的人身权利、民主权利以及与人身有直接关系的其他权利的行为",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "侵犯财产罪",
+            "content": "以非法占有为目的，攫取公私财物，或者故意毁坏公私财物，以及故意破坏生产经营的行为",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "妨害社会管理秩序罪",
+            "content": "妨害国家机关对社会的管理活动，破坏社会正常秩序，情节严重的行为",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "危害国防利益罪",
+            "content": "危害国防物质基础和国防建设活动，侵害国防利益的行为",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "贪污贿赂罪",
+            "content": "国家工作人员利用职务之便，贪污、挪用公共财物，收受贿赂，不履行法定义务，破坏职务行为廉洁性的行为",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "渎职罪",
+            "content": "国家机关工作人员滥用职权、玩忽职守或者徇私舞弊，妨害国家机关的正常活动，致使公共财产或者国家与人民利益遭受重大损失的行为",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "军人违反职责罪",
+            "content": "军人违反职责，危害国家军事利益，依照法律应当受刑罚处罚的行为",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "刑法学",
+      "tail": "犯罪论",
+      "relation": "包含"
+    },
+    {
+      "head": "刑法学",
+      "tail": "刑罚论",
+      "relation": "包含"
+    },
+    {
+      "head": "刑法学",
+      "tail": "刑事责任",
+      "relation": "包含"
+    },
+    {
+      "head": "刑法学",
+      "tail": "刑法各论",
+      "relation": "包含"
+    },
+    {
+      "head": "犯罪论",
+      "tail": "犯罪构成",
+      "relation": "核心理论"
+    },
+    {
+      "head": "犯罪构成",
+      "tail": "犯罪客体",
+      "relation": "由...组成"
+    },
+    {
+      "head": "犯罪构成",
+      "tail": "犯罪客观方面",
+      "relation": "由...组成"
+    },
+    {
+      "head": "犯罪构成",
+      "tail": "犯罪主体",
+      "relation": "由...组成"
+    },
+    {
+      "head": "犯罪构成",
+      "tail": "犯罪主观方面",
+      "relation": "由...组成"
+    },
+    {
+      "head": "犯罪客观方面",
+      "tail": "危害行为",
+      "relation": "包含"
+    },
+    {
+      "head": "犯罪客观方面",
+      "tail": "因果关系",
+      "relation": "包含"
+    },
+    {
+      "head": "犯罪主体",
+      "tail": "自然人犯罪主体",
+      "relation": "包含"
+    },
+    {
+      "head": "犯罪主体",
+      "tail": "单位犯罪主体",
+      "relation": "包含"
+    },
+    {
+      "head": "犯罪主观方面",
+      "tail": "犯罪故意",
+      "relation": "包含"
+    },
+    {
+      "head": "犯罪主观方面",
+      "tail": "犯罪过失",
+      "relation": "包含"
+    },
+    {
+      "head": "正当行为",
+      "tail": "正当防卫",
+      "relation": "包含"
+    },
+    {
+      "head": "正当行为",
+      "tail": "紧急避险",
+      "relation": "包含"
+    },
+    {
+      "head": "故意犯罪的停止形态",
+      "tail": "犯罪既遂",
+      "relation": "包含"
+    },
+    {
+      "head": "故意犯罪的停止形态",
+      "tail": "犯罪未遂",
+      "relation": "包含"
+    },
+    {
+      "head": "故意犯罪的停止形态",
+      "tail": "犯罪中止",
+      "relation": "包含"
+    },
+    {
+      "head": "共同犯罪",
+      "tail": "共同犯罪人的分类",
+      "relation": "包含"
+    },
+    {
+      "head": "刑罚的体系",
+      "tail": "主刑",
+      "relation": "包含"
+    },
+    {
+      "head": "刑罚的体系",
+      "tail": "附加刑",
+      "relation": "包含"
+    },
+    {
+      "head": "罪刑法定原则",
+      "tail": "犯罪构成",
+      "relation": "是...的适用基础"
+    },
+    {
+      "head": "危害行为",
+      "tail": "因果关系",
+      "relation": "是...的判断前提"
+    },
+    {
+      "head": "犯罪故意",
+      "tail": "犯罪既遂",
+      "relation": "是...的主观要件"
+    },
+    {
+      "head": "犯罪构成",
+      "tail": "刑事责任",
+      "relation": "是...的根据"
+    },
+    {
+      "head": "刑罚",
+      "tail": "刑事责任",
+      "relation": "是...的实现方式之一"
+    },
+    {
+      "head": "刑法各论",
+      "tail": "犯罪构成",
+      "relation": "应用...分析具体犯罪"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:28:45",
+    "version": "1.1"
+  }
+}

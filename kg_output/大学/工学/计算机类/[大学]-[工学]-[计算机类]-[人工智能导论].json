@@ -1,0 +1,377 @@
+{
+  "knowledge_tree": {
+    "title": "人工智能导论",
+    "content": "人工智能导论是计算机类专业的核心课程，介绍人工智能的基本概念、发展历史、主要流派、核心技术和典型应用。",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "人工智能概述",
+        "content": "介绍人工智能的定义、发展历程、研究目标和主要研究内容。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "人工智能的定义",
+            "content": "人工智能是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "图灵测试",
+            "content": "由艾伦·图灵提出，用于判断机器是否具有智能的测试方法。如果一台机器能够与人类展开对话而不能被辨别出其机器身份，则称这台机器具有智能。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "人工智能的发展历程",
+            "content": "从孕育期、形成期、知识应用期到现在的深度学习时期。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "人工智能的主要流派",
+            "content": "符号主义、连接主义和行为主义。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "搜索技术",
+        "content": "搜索是人工智能中求解问题的一种基本技术，通过状态空间的遍历来寻找问题的解。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "问题形式化",
+            "content": "将问题转化为状态空间表示，包括初始状态、目标状态、行动和路径代价。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "无信息搜索策略",
+            "content": "也称为盲目搜索，在搜索过程中不使用任何问题域的特有知识。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "广度优先搜索",
+                "content": "从根节点开始，逐层遍历所有节点。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "深度优先搜索",
+                "content": "从根节点开始，尽可能深地搜索树的分支。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "一致代价搜索",
+                "content": "优先扩展路径消耗最小的节点。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "有信息搜索策略",
+            "content": "也称为启发式搜索，使用问题域的特有知识来指导搜索方向。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "贪婪最佳优先搜索",
+                "content": "优先扩展距离目标估计代价最小的节点。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "A*搜索算法",
+                "content": "结合了到达此节点已花费的代价和从该节点到目标节点估计花费的代价。评估函数为 f(n) = g(n) + h(n)。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "知识表示与推理",
+        "content": "研究如何将人类知识形式化地表示出来，并基于这些表示进行推理。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "命题逻辑",
+            "content": "最基本的逻辑系统，由原子命题和逻辑连接词构成。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "一阶谓词逻辑",
+            "content": "比命题逻辑更强的表示能力，引入了个体、谓词、量词等概念。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "产生式系统",
+            "content": "一种常用的知识表示方法，形式为“IF 条件 THEN 动作”。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "语义网络",
+            "content": "一种通过概念及其语义关系来表示知识的有向图结构。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "机器学习基础",
+        "content": "研究计算机怎样模拟或实现人类的学习行为，以获取新的知识或技能，重新组织已有的知识结构使之不断改善自身的性能。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "机器学习的基本概念",
+            "content": "包括数据集、特征、标签、训练、测试、模型等。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "监督学习",
+            "content": "从带有标签的训练数据中学习模型，用于预测新数据的标签。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "线性回归",
+                "content": "试图学得一个线性模型以尽可能准确地预测实值输出标记。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "逻辑回归",
+                "content": "用于解决二分类问题，通过Sigmoid函数将线性回归的预测值映射到(0,1)区间。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "决策树",
+                "content": "一种基本的分类与回归方法，模型呈树形结构。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "支持向量机",
+                "content": "在特征空间中寻找间隔最大的线性分类器。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "无监督学习",
+            "content": "从无标签的数据中寻找隐藏的结构或模式。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "K均值聚类",
+                "content": "将数据集划分为K个簇，使得同一簇内的数据点尽可能相似。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "主成分分析",
+                "content": "一种常用的降维方法，通过正交变换将一组可能相关的变量转换为一组线性不相关的变量。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "神经网络与深度学习",
+        "content": "模拟人脑神经元网络进行信息处理的数学模型，是连接主义学派的核心技术。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "人工神经元模型",
+            "content": "模仿生物神经元的基本计算单元，如M-P模型。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "感知机",
+            "content": "一种二类分类的线性分类模型，是神经网络的基础。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "多层前馈神经网络",
+            "content": "包含输入层、隐藏层和输出层的神经网络结构。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "反向传播算法",
+            "content": "用于训练神经网络的核心算法，通过链式法则计算梯度并更新权重。",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "卷积神经网络",
+            "content": "专门用于处理具有网格结构数据（如图像）的神经网络。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "循环神经网络",
+            "content": "用于处理序列数据的神经网络，具有记忆功能。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "自然语言处理",
+        "content": "研究实现人与计算机之间用自然语言进行有效通信的各种理论和方法。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "词法分析",
+            "content": "将文本分割成单词或符号（词元）的过程。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "句法分析",
+            "content": "分析句子中词汇之间的语法关系，通常生成句法树。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "语义分析",
+            "content": "研究如何从文本中获取含义。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "词向量",
+            "content": "将词语映射到实数向量的技术，如Word2Vec。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "Transformer模型",
+            "content": "基于自注意力机制的深度学习模型，如BERT、GPT。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "人工智能",
+      "tail": "图灵测试",
+      "relation": "用于定义"
+    },
+    {
+      "head": "搜索技术",
+      "tail": "问题形式化",
+      "relation": "基础步骤"
+    },
+    {
+      "head": "无信息搜索策略",
+      "tail": "广度优先搜索",
+      "relation": "包含"
+    },
+    {
+      "head": "无信息搜索策略",
+      "tail": "深度优先搜索",
+      "relation": "包含"
+    },
+    {
+      "head": "有信息搜索策略",
+      "tail": "A*搜索算法",
+      "relation": "包含"
+    },
+    {
+      "head": "A*搜索算法",
+      "tail": "评估函数f(n)=g(n)+h(n)",
+      "relation": "基于"
+    },
+    {
+      "head": "知识表示",
+      "tail": "一阶谓词逻辑",
+      "relation": "包含方法"
+    },
+    {
+      "head": "机器学习",
+      "tail": "监督学习",
+      "relation": "包含分支"
+    },
+    {
+      "head": "监督学习",
+      "tail": "支持向量机",
+      "relation": "包含算法"
+    },
+    {
+      "head": "无监督学习",
+      "tail": "K均值聚类",
+      "relation": "包含算法"
+    },
+    {
+      "head": "神经网络",
+      "tail": "反向传播算法",
+      "relation": "训练方法"
+    },
+    {
+      "head": "深度学习",
+      "tail": "卷积神经网络",
+      "relation": "包含模型"
+    },
+    {
+      "head": "深度学习",
+      "tail": "循环神经网络",
+      "relation": "包含模型"
+    },
+    {
+      "head": "自然语言处理",
+      "tail": "Transformer模型",
+      "relation": "核心技术"
+    },
+    {
+      "head": "Transformer模型",
+      "tail": "自注意力机制",
+      "relation": "基于"
+    },
+    {
+      "head": "符号主义",
+      "tail": "知识表示与推理",
+      "relation": "对应技术"
+    },
+    {
+      "head": "连接主义",
+      "tail": "神经网络",
+      "relation": "对应技术"
+    },
+    {
+      "head": "逻辑回归",
+      "tail": "Sigmoid函数",
+      "relation": "使用"
+    },
+    {
+      "head": "主成分分析",
+      "tail": "降维",
+      "relation": "用于"
+    },
+    {
+      "head": "词向量",
+      "tail": "Word2Vec",
+      "relation": "实现技术"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:52:35",
+    "version": "1.1"
+  }
+}

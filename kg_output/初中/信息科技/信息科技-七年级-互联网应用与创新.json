@@ -1,0 +1,427 @@
+{
+  "knowledge_tree": {
+    "title": "互联网应用与创新",
+    "content": "七年级信息科技课程，涵盖互联网基础、应用与安全创新",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "互联网基础与原理",
+        "content": "互联网发展历程、协议分层与数据传输原理",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "互联网发展历程",
+            "content": "从诞生阶段到高速网络阶段的演进过程",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "诞生阶段",
+                "content": "面向终端的联机系统，多终端共享计算机",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "形成阶段",
+                "content": "计算机互联，阿帕网诞生",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "互联阶段",
+                "content": "TCP/IP协议标准化",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "高速网络阶段",
+                "content": "信息高速公路，社会应用普及",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "TCP/IP协议分层",
+            "content": "网络通信的分层模型与各层功能",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "应用层",
+                "content": "HTTP、HTTPS、FTP等协议，负责数据使用",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "传输层",
+                "content": "TCP、UDP协议，保证数据完整性与可靠性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "网络层",
+                "content": "IP协议，处理数据包路由",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "网络接口层",
+                "content": "以太网等，负责二进制数据传输",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据传输原理",
+            "content": "数据分包、存储转发与路由机制",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "数据分包",
+                "content": "将大数据分割为小包传输，提高可靠性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "存储转发",
+                "content": "节点接收数据后存储并转发，实现接力传输",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "路由服务",
+                "content": "根据IP地址选择路径，由路由器协同完成",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "网络标识与寻址",
+        "content": "IP地址、域名解析与设备标识",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "IP地址",
+            "content": "网络设备的数字标识，IPv4与IPv6",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "IPv4地址",
+                "content": "32位地址，点分十进制表示",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "IPv6地址",
+                "content": "128位地址，解决地址枯竭问题",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "公有与私有地址",
+                "content": "公有地址用于互联网，私有地址用于内部网",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "域名解析",
+            "content": "将域名转换为IP地址的过程",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "域名结构",
+                "content": "根域名、国家代码、机构类型等层级",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "DNS服务器",
+                "content": "提供域名解析服务的专用服务器",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "解析过程",
+                "content": "递归查询与迭代查询结合完成解析",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "互联网服务与应用",
+        "content": "典型服务如万维网、电子邮件、文件传输",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "万维网（WWW）",
+            "content": "基于浏览器-服务器结构的分布式服务",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "超文本与超链接",
+                "content": "通过超链接关联分散的资源",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "统一资源定位符（URL）",
+                "content": "协议、域名、路径等组成资源地址",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "HTTP与HTTPS",
+                "content": "HTTP明文传输，HTTPS加密传输更安全",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "其他典型服务",
+            "content": "文件传输、电子邮件等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "FTP文件传输",
+                "content": "使用FTP协议上传下载文件",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电子邮件系统",
+                "content": "SMTP发送邮件，POP3接收邮件",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "网页制作与网站建设",
+        "content": "HTML基础、CSS美化与网站发布",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "HTML基础",
+            "content": "超文本标记语言，定义网页结构",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "常用标签",
+                "content": "<html>、<head>、<body>、<img>、<a>等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "网页结构",
+                "content": "头部、主体部分，包含文本、图像、链接",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "CSS美化",
+            "content": "层叠样式表，控制网页外观",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "选择器与声明",
+                "content": "选择元素并设置样式属性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "常用样式",
+                "content": "颜色、字体、背景、布局等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "网站建设流程",
+            "content": "规划、制作、测试、发布",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "内容规划",
+                "content": "确定主题、结构、素材收集",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "协同制作",
+                "content": "使用Markdown等工具多人协作",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "发布与分享",
+                "content": "通过服务器或平台发布网站",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "互联网创新与安全",
+        "content": "移动互联、云服务、安全与伦理",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "移动互联网",
+            "content": "5G技术、应用特征与影响",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "5G技术特点",
+                "content": "高速、低延时、大容量，支持创新应用",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "应用创新",
+                "content": "新媒体、自媒体、线上线下融合",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "云计算与云存储",
+            "content": "云端资源提供计算与存储服务",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "云计算",
+                "content": "分布式计算，提供强大算力",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "云存储",
+                "content": "网盘备份、共享，数字摘要秒传",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "网络安全与伦理",
+            "content": "个人信息保护、版权、网络生态治理",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "个人信息保护",
+                "content": "防泄露、加密、法律法规",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "数字版权",
+                "content": "版权技术、法律法规保护",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "网络生态治理",
+                "content": "应对网络暴力、谣言、水军",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "互联网",
+      "tail": "TCP/IP协议",
+      "relation": "基于"
+    },
+    {
+      "head": "TCP/IP协议",
+      "tail": "分层结构",
+      "relation": "采用"
+    },
+    {
+      "head": "数据分包",
+      "tail": "可靠传输",
+      "relation": "实现"
+    },
+    {
+      "head": "IP地址",
+      "tail": "设备标识",
+      "relation": "用于"
+    },
+    {
+      "head": "域名解析",
+      "tail": "DNS服务器",
+      "relation": "通过"
+    },
+    {
+      "head": "万维网",
+      "tail": "超链接",
+      "relation": "使用"
+    },
+    {
+      "head": "HTTP",
+      "tail": "HTTPS",
+      "relation": "升级为"
+    },
+    {
+      "head": "HTML",
+      "tail": "网页结构",
+      "relation": "定义"
+    },
+    {
+      "head": "CSS",
+      "tail": "网页美化",
+      "relation": "用于"
+    },
+    {
+      "head": "移动互联网",
+      "tail": "5G技术",
+      "relation": "依托"
+    },
+    {
+      "head": "云计算",
+      "tail": "分布式计算",
+      "relation": "基于"
+    },
+    {
+      "head": "个人信息保护",
+      "tail": "加密技术",
+      "relation": "采用"
+    },
+    {
+      "head": "数字版权",
+      "tail": "法律法规",
+      "relation": "受保护"
+    },
+    {
+      "head": "网络生态治理",
+      "tail": "清朗专项行动",
+      "relation": "通过"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:53:45",
+    "version": "1.1"
+  }
+}

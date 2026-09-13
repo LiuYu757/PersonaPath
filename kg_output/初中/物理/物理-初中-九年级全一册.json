@@ -1,0 +1,905 @@
+{
+  "knowledge_tree": {
+    "title": "九年级物理全一册",
+    "content": "涵盖内能、内能的利用、电流和电路、电压电阻、欧姆定律、电功率、生活用电、电与磁、电磁波、能源与可持续发展等核心内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第十三章 内能",
+        "content": "研究热现象的能量本质",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第1节 热量 比热容",
+            "content": "热量的概念和比热容的定义",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "热量的定义",
+                "content": "在热传递过程中，传递的热的多少叫作热量",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "比热容的定义",
+                "content": "一定质量的某种物质，在温度升高时吸收的热量与它的质量和升高的温度乘积之比，叫作这种物质的比热容",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "比热容的单位",
+                "content": "焦每千克摄氏度，符号是J/(kg·℃)",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "热量的计算公式",
+                "content": "Q吸=cm(t-t0), Q放=cm(t0-t)",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "比热容的应用",
+                "content": "解释海陆温差、生物体温调节等现象",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2节 分子动理论的初步知识",
+            "content": "物质构成和分子热运动",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "物质的构成",
+                "content": "物质是由分子、原子等微观粒子构成的",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "分子热运动",
+                "content": "一切物质的分子都在不停地做无规则的运动",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "扩散现象",
+                "content": "不同的物质在互相接触时彼此进入对方的现象",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "分子间的作用力",
+                "content": "分子之间存在引力和斥力",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第3节 内能",
+            "content": "物体内部分子的动能和势能总和",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "内能的定义",
+                "content": "构成物体的所有分子，其热运动的动能与分子势能的总和",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "改变内能的方式",
+                "content": "热传递和做功",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "热传递与内能",
+                "content": "热传递可以改变物体的内能",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "做功与内能",
+                "content": "做功可以改变物体的内能",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十四章 内能的利用",
+        "content": "能量转化与热机工作原理",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第1节 能量的转化与守恒",
+            "content": "能量转化和守恒定律",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "能量守恒定律",
+                "content": "能量既不会凭空消失，也不会凭空产生，它只会从一种形式转化为其他形式，或者从一个物体转移到其他物体，而在转化和转移的过程中，能量的总量保持不变",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "各种能量转化",
+                "content": "机械能、内能、化学能、光能等之间的相互转化",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2节 热机",
+            "content": "内燃机的工作原理",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "热机的定义",
+                "content": "各种利用内能做功的机械",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "四冲程汽油机",
+                "content": "吸气、压缩、做功、排气四个冲程的循环工作",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "柴油机的工作原理",
+                "content": "通过压缩空气直接点燃柴油",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第3节 热机的效率",
+            "content": "燃料的热值和热机效率",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "燃料的热值",
+                "content": "某种燃料完全燃烧放出的热量与其质量之比",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "热机的效率",
+                "content": "用来做有用功的能量与燃料完全燃烧放出的热量之比",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十五章 电流和电路",
+        "content": "电荷、电流和电路基础知识",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第1节 两种电荷",
+            "content": "正负电荷及其相互作用",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "电荷的种类",
+                "content": "正电荷和负电荷",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "电荷间的相互作用",
+                "content": "同种电荷互相排斥，异种电荷互相吸引",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "验电器的原理",
+                "content": "利用同种电荷互相排斥检验物体是否带电",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2节 电流和电路",
+            "content": "电流的形成和电路组成",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "电流的形成",
+                "content": "电荷的定向移动形成电流",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电流的方向",
+                "content": "正电荷定向移动的方向规定为电流的方向",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电路的组成",
+                "content": "电源、用电器、导线、开关",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "电路图",
+                "content": "用符号表示电路连接的图",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第3节 串联和并联",
+            "content": "电路的基本连接方式",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "串联电路",
+                "content": "用电器依次相连的电路",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "并联电路",
+                "content": "用电器两端分别连在一起的电路",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "串并联的特点",
+                "content": "串联电路电流处处相等，并联电路干路电流等于各支路电流之和",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第4节 电流的测量",
+            "content": "电流表的使用方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "电流的强弱",
+                "content": "用电流表示电流的强弱",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "电流表的使用",
+                "content": "串联接入电路，正进负出",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第5节 串、并联电路中电流的规律",
+            "content": "串并联电路电流关系",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "串联电路电流规律",
+                "content": "串联电路中电流处处相等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "并联电路电流规律",
+                "content": "并联电路中干路电流等于各支路电流之和",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十六章 电压 电阻",
+        "content": "电压、电阻及其测量",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第1节 电压",
+            "content": "电压的概念和测量",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "电压的作用",
+                "content": "电压使电荷定向移动形成电流",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电压的测量",
+                "content": "用电压表测量电压",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2节 串、并联电路中电压的规律",
+            "content": "串并联电路电压关系",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "串联电路电压规律",
+                "content": "串联电路总电压等于各部分电压之和",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "并联电路电压规律",
+                "content": "并联电路各支路电压相等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第3节 电阻",
+            "content": "电阻的概念和影响因素",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "电阻的定义",
+                "content": "导体对电流的阻碍作用",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "影响电阻的因素",
+                "content": "材料、长度、横截面积和温度",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第4节 变阻器",
+            "content": "滑动变阻器的原理和使用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "变阻器的原理",
+                "content": "通过改变接入电路中电阻丝的长度来改变电阻",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "滑动变阻器的使用",
+                "content": "串联接入电路，一上一下接线",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十七章 欧姆定律",
+        "content": "电流与电压、电阻的关系",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第1节 电流与电压、电阻的关系",
+            "content": "探究欧姆定律的实验基础",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电阻一定时电流与电压的关系",
+                "content": "通过导体的电流与导体两端的电压成正比",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电压一定时电流与电阻的关系",
+                "content": "通过导体的电流与导体的电阻成反比",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2节 欧姆定律",
+            "content": "欧姆定律的表述和应用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "欧姆定律的公式",
+                "content": "I=U/R",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "欧姆定律的应用",
+                "content": "计算电路中的电流、电压或电阻",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第3节 电阻的测量",
+            "content": "伏安法测电阻",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "伏安法原理",
+                "content": "用电压表测电压，电流表测电流，通过R=U/I计算电阻",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第4节 欧姆定律在串、并联电路中的应用",
+            "content": "欧姆定律在复杂电路中的应用",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "串联电路的分压原理",
+                "content": "电压与电阻成正比",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "并联电路的分流原理",
+                "content": "电流与电阻成反比",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十八章 电功率",
+        "content": "电能、电功率和焦耳定律",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第1节 电能 电功",
+            "content": "电能和电功的概念",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "电能的单位",
+                "content": "千瓦时(kW·h)和焦耳(J)",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "电功的计算",
+                "content": "W=UIt",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2节 电功率",
+            "content": "电功率的概念和计算",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电功率的定义",
+                "content": "电流做功的快慢",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电功率的计算",
+                "content": "P=W/t=UI",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "额定功率和实际功率",
+                "content": "用电器在额定电压下的功率和实际电压下的功率",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第4节 焦耳定律",
+            "content": "电流热效应的规律",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "焦耳定律",
+                "content": "电流通过导体产生的热量跟电流的二次方成正比，跟导体的电阻成正比，跟通电时间成正比",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "焦耳定律公式",
+                "content": "Q=I²Rt",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十九章 生活用电",
+        "content": "家庭电路和安全用电",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第1节 安全用电",
+            "content": "安全用电常识",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "触电的类型",
+                "content": "单相触电、两相触电等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "安全用电原则",
+                "content": "不接触低压带电体，不靠近高压带电体",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2节 家庭电路的基本组成",
+            "content": "家庭电路的组成和各部分作用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "家庭电路的组成",
+                "content": "进户线、电能表、总开关、保险装置、用电器等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "测电笔的使用",
+                "content": "辨别火线和零线",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二十章 电与磁",
+        "content": "磁场、电流的磁效应和电磁感应",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第1节 磁现象 磁场",
+            "content": "基本磁现象和磁场",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "磁极间的相互作用",
+                "content": "同名磁极相互排斥，异名磁极相互吸引",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "磁场的方向",
+                "content": "小磁针北极所指的方向",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "地磁场",
+                "content": "地球周围存在的磁场",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2节 电生磁",
+            "content": "电流的磁效应",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "奥斯特实验",
+                "content": "通电导线周围存在磁场",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "通电螺线管的磁场",
+                "content": "类似条形磁铁的磁场",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "安培定则",
+                "content": "判断通电螺线管磁极的方法",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第6节 磁生电",
+            "content": "电磁感应现象",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电磁感应",
+                "content": "闭合电路的一部分导体在磁场中做切割磁感线运动时，导体中就会产生电流",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "感应电流的方向",
+                "content": "与导体运动方向和磁场方向有关",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二十一章 电磁波及其应用",
+        "content": "电磁波的性质和应用",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第1节 电磁波的海洋",
+            "content": "电磁波的产生和传播",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电磁波的产生",
+                "content": "迅速变化的电流产生电磁波",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电磁波的传播",
+                "content": "不需要介质，在真空中也能传播",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电磁波的速度",
+                "content": "在真空中的速度为3×10^8m/s",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二十二章 能源与可持续发展",
+        "content": "能源分类和可持续发展",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第1节 能源利用的现状和面临的挑战",
+            "content": "能源分类和利用现状",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "能源的分类",
+                "content": "一次能源和二次能源，可再生能源和不可再生能源",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "化石能源",
+                "content": "煤、石油、天然气等",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2节 新能源的发展",
+            "content": "核能、太阳能等新能源",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "核能",
+                "content": "原子核裂变和聚变释放的能量",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "太阳能",
+                "content": "太阳内部的核聚变反应产生的能量",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "热量",
+      "tail": "比热容",
+      "relation": "用于计算"
+    },
+    {
+      "head": "比热容",
+      "tail": "热量的计算",
+      "relation": "推导出"
+    },
+    {
+      "head": "分子动理论",
+      "tail": "内能",
+      "relation": "解释"
+    },
+    {
+      "head": "热传递",
+      "tail": "内能",
+      "relation": "改变"
+    },
+    {
+      "head": "做功",
+      "tail": "内能",
+      "relation": "改变"
+    },
+    {
+      "head": "能量守恒定律",
+      "tail": "各种能量转化",
+      "relation": "适用于"
+    },
+    {
+      "head": "热机",
+      "tail": "内能的利用",
+      "relation": "实现"
+    },
+    {
+      "head": "燃料的热值",
+      "tail": "热机的效率",
+      "relation": "影响"
+    },
+    {
+      "head": "电荷",
+      "tail": "电流",
+      "relation": "形成"
+    },
+    {
+      "head": "电压",
+      "tail": "电流",
+      "relation": "驱动"
+    },
+    {
+      "head": "电阻",
+      "tail": "电流",
+      "relation": "阻碍"
+    },
+    {
+      "head": "串联电路",
+      "tail": "电流规律",
+      "relation": "遵循"
+    },
+    {
+      "head": "并联电路",
+      "tail": "电流规律",
+      "relation": "遵循"
+    },
+    {
+      "head": "电压",
+      "tail": "电源",
+      "relation": "提供"
+    },
+    {
+      "head": "串联电路",
+      "tail": "电压规律",
+      "relation": "遵循"
+    },
+    {
+      "head": "并联电路",
+      "tail": "电压规律",
+      "relation": "遵循"
+    },
+    {
+      "head": "电阻",
+      "tail": "材料",
+      "relation": "取决于"
+    },
+    {
+      "head": "电阻",
+      "tail": "长度",
+      "relation": "取决于"
+    },
+    {
+      "head": "电阻",
+      "tail": "横截面积",
+      "relation": "取决于"
+    },
+    {
+      "head": "变阻器",
+      "tail": "电阻",
+      "relation": "改变"
+    },
+    {
+      "head": "欧姆定律",
+      "tail": "电流与电压关系",
+      "relation": "基于"
+    },
+    {
+      "head": "欧姆定律",
+      "tail": "电流与电阻关系",
+      "relation": "基于"
+    },
+    {
+      "head": "欧姆定律",
+      "tail": "串并联电路",
+      "relation": "应用于"
+    },
+    {
+      "head": "电能",
+      "tail": "电功",
+      "relation": "转化为"
+    },
+    {
+      "head": "电功率",
+      "tail": "电能",
+      "relation": "表示消耗快慢"
+    },
+    {
+      "head": "焦耳定律",
+      "tail": "电流热效应",
+      "relation": "描述"
+    },
+    {
+      "head": "家庭电路",
+      "tail": "安全用电",
+      "relation": "需要"
+    },
+    {
+      "head": "磁现象",
+      "tail": "磁场",
+      "relation": "产生于"
+    },
+    {
+      "head": "电流",
+      "tail": "磁场",
+      "relation": "产生"
+    },
+    {
+      "head": "电磁感应",
+      "tail": "发电机",
+      "relation": "应用于"
+    },
+    {
+      "head": "电磁波",
+      "tail": "信息传递",
+      "relation": "用于"
+    },
+    {
+      "head": "能源",
+      "tail": "可持续发展",
+      "relation": "关系到"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:50:30",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,804 @@
+{
+  "knowledge_tree": {
+    "title": "开源硬件项目设计",
+    "content": "普通高中教科书选择性必修6，涵盖开源硬件及其特征、项目剖析、创意设计与项目制作等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "开源硬件及其特征",
+        "content": "认识开源硬件、发展历程、特征及其与创新的关系",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "认识开源硬件",
+            "content": "开源与开源软件、开源硬件与开源协议、常见开源硬件平台",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "开源与开源软件",
+                "content": "开源即开放源代码，允许查看、修改和分享软件源代码",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "开源硬件与开源协议",
+                "content": "开源硬件公开设计图，允许学习、修改、发布、制作和销售，受开源协议保护",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "常见开源硬件平台",
+                "content": "包括Arduino、树莓派、虚谷号、掌控板等，各有不同特点和应用领域",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "Arduino",
+                    "content": "基于微控制器，适用于简单控制项目，通过扩展板拓展功能",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "树莓派",
+                    "content": "卡片式计算机，运行Linux系统，性能较高，支持复杂应用如人脸识别",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "虚谷号",
+                    "content": "中国原创开源硬件，集成高性能处理器和单片机，兼容Arduino扩展板",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "掌控板",
+                    "content": "为Python编程和物联网设计，内置传感器和显示模块，适合入门项目",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "开源硬件的发展",
+            "content": "发展背景、用户群体与影响力",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "发展背景",
+                "content": "从20世纪电子爱好者交流电路设计，到2005年Arduino出现推动开源硬件普及",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "用户群体与影响力",
+                "content": "涵盖媒体艺术、快速原型、教育应用等领域，用户群体不断扩展",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "媒体艺术",
+                    "content": "艺术家使用开源硬件创作互动艺术作品，如闪电演奏乐器",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "快速原型",
+                    "content": "利用开源硬件快速测试创意可行性，缩短研发周期",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "教育应用",
+                    "content": "广泛应用于高校和中小学教学，培养学生创新和实践能力",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "开源硬件的特征",
+            "content": "开源与开放、分享与协作、模块与复用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "开源与开放",
+                "content": "开放源代码和设计图，允许全球开发者协作改进",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "分享与协作",
+                "content": "通过开源社区分享项目，促进创新和知识传播",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "模块与复用",
+                "content": "硬件设计模块化，便于组合和复用，降低开发成本",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "开源硬件与创新",
+            "content": "激发创新兴趣、培养实践能力、助力创新型社会",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "激发创新兴趣",
+                "content": "降低硬件开发门槛，让更多人参与创新",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "培养实践能力",
+                "content": "通过项目实践提升技术能力和解决问题的能力",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "助力创新型社会",
+                "content": "开源硬件促进全社会创新协作，推动技术进步",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "开源硬件项目剖析",
+        "content": "设计工具与编程语言、开发基础、通信模块与扩展板、项目开发流程",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "设计工具与编程语言",
+            "content": "数字化设计工具、编程语言及集成开发环境",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "数字化设计工具",
+                "content": "包括平面设计工具如Inkscape，立体设计工具如OpenSCAD，以及3D打印机、激光切割机等加工工具",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "编程语言",
+                "content": "包括Arduino语言、Processing、Python、图形化编程等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "集成开发环境",
+                "content": "如Arduino IDE、mPython等，支持代码编写、编译和调试",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "开源硬件开发基础",
+            "content": "引脚控制、输入模块、输出模块",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "引脚控制",
+                "content": "核心板通过输入输出引脚与外部模块通信，如数字引脚、模拟引脚等",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "输入输出引脚",
+                    "content": "用于核心板与外界交换信息，如数字输入输出引脚、模拟输入引脚等",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "输入输出控制",
+                    "content": "通过编程设置引脚状态，读取输入信号或输出控制信号",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "输入模块",
+                "content": "用于采集环境信息，如传感器模块",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "数字与模拟检测",
+                    "content": "数字传感器输出高低电平，模拟传感器输出连续变化的数据",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "传感器的种类",
+                    "content": "包括距离传感器、环境传感器、动作传感器等",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "输出模块",
+                "content": "用于向外界发出行为，如显示模块、声音模块、电机类设备",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "显示模块",
+                    "content": "如LED灯、数码管、显示屏等，用于显示信息",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "声音模块",
+                    "content": "如蜂鸣器、语音播放模块，用于发声",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "电机类设备",
+                    "content": "如伺服舵机、步进电机、直流电机，用于控制运动",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "通信模块与扩展板",
+            "content": "通信方式、扩展模块功能",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "通信模块",
+                "content": "包括串口通信、I2C通信等，用于模块间数据交换",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "串口通信",
+                    "content": "如蓝牙、WiFi模块，实现无线数据传输",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "I2C通信",
+                    "content": "支持多设备连接，通过地址访问不同设备",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "扩展模块",
+                "content": "扩展核心板功能，如传感器扩展板、大功率驱动模块",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "扩展板",
+                    "content": "如传感器扩展板，增加核心板的接口和功能",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "大功率驱动模块",
+                    "content": "如继电器、电机驱动模块，用于控制大功率设备",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "项目开发流程剖析",
+            "content": "媒体艺术作品、3D打印机、快速原型及开发流程",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "媒体艺术作品",
+                "content": "如互动装置“最美丽的时候遇见你”，使用传感器和电机实现艺术交互",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "3D打印机",
+                "content": "如MakerBot开源3D打印机，通过开源硬件实现快速成型",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "快速原型",
+                "content": "如“智能鸟蛋”项目，通过开源硬件快速实现环境监测功能",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "项目开发基本流程",
+                "content": "包括创意与项目来源、项目设计与制作、项目测试与运行、分享",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "开源硬件创意设计",
+        "content": "分析事物特征、项目设计方案、选择硬件方案、审查并优化方案",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "分析事物特征",
+            "content": "需求分析、创意与创新",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "需求分析",
+                "content": "通过用户画像法、用户调查法挖掘用户核心需求和附加需求",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "创意与创新",
+                "content": "使用头脑风暴法生成创意，从无到有或从有到好改进方案",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "项目设计方案",
+            "content": "功能设计、外观设计、交互设计",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "功能设计",
+                "content": "根据需求设计功能列表，确定实现手段",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "外观设计",
+                "content": "包括形状、图案、色彩设计，考虑应用场景和用户体验",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "交互设计",
+                "content": "定义用户与产品的交互方式，提升易用性和用户体验",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "选择硬件方案",
+            "content": "核心板选择、周边模块选择",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "核心板选择",
+                "content": "根据运算性能、功耗、价格、社区资源等因素选择合适核心板",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "周边模块选择",
+                "content": "根据功能需求选择输入、输出、通信模块，注意接口兼容性",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "审查并优化方案",
+            "content": "方案审查、方案优化",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "方案审查",
+                "content": "审查硬件选型和外观设计，确保方案可行",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "方案优化",
+                "content": "遵循简化和易用原则，根据反馈信息优化方案",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "开源硬件项目制作",
+        "content": "实现功能、调控测试、开源与知识产权保护",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "实现功能",
+            "content": "启动项目、外形制作、技术实现、实现原型",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "启动项目",
+                "content": "依据项目立项书和功能分解图启动项目",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "外形制作",
+                "content": "使用激光切割、3D打印等技术制作作品外观",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "技术实现",
+                "content": "包括数据采集、数据输出、运算处理等功能实现",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "数据采集",
+                    "content": "通过传感器或网络采集数据，如光线、温度、网络天气数据",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "数据输出",
+                    "content": "通过显示、声音、电机等模块输出信息",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "运算处理",
+                    "content": "包括比较、计算、搜索等运算，处理采集的数据",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "实现原型",
+                "content": "组装硬件，初步完成作品制作",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "调控测试",
+            "content": "测试环境与仪器、项目测试、调控执行、完善项目",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "测试环境与仪器",
+                "content": "搭建模拟测试环境，使用万用表、示波器等仪器测试",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "项目测试",
+                "content": "包括硬件模块测试和功能联调测试",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "调控执行",
+                "content": "调整参数，优化系统功能",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "完善项目",
+                "content": "根据测试结果优化和扩展项目功能",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "开源与知识产权保护",
+            "content": "项目分享、知识产权保护的意义",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "项目分享",
+                "content": "通过开源社区或路演分享项目成果",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "知识产权保护的意义",
+                "content": "保护创作者权益，促进开源社区健康发展",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "开源硬件",
+      "tail": "开源软件",
+      "relation": "基于"
+    },
+    {
+      "head": "开源硬件",
+      "tail": "开源协议",
+      "relation": "受保护于"
+    },
+    {
+      "head": "Arduino",
+      "tail": "微控制器",
+      "relation": "基于"
+    },
+    {
+      "head": "树莓派",
+      "tail": "Linux系统",
+      "relation": "运行"
+    },
+    {
+      "head": "虚谷号",
+      "tail": "Arduino",
+      "relation": "兼容"
+    },
+    {
+      "head": "掌控板",
+      "tail": "Python编程",
+      "relation": "支持"
+    },
+    {
+      "head": "开源硬件",
+      "tail": "媒体艺术",
+      "relation": "应用于"
+    },
+    {
+      "head": "开源硬件",
+      "tail": "快速原型",
+      "relation": "用于"
+    },
+    {
+      "head": "开源硬件",
+      "tail": "教育应用",
+      "relation": "用于"
+    },
+    {
+      "head": "开源硬件",
+      "tail": "开源社区",
+      "relation": "通过分享"
+    },
+    {
+      "head": "输入模块",
+      "tail": "传感器",
+      "relation": "包括"
+    },
+    {
+      "head": "输出模块",
+      "tail": "显示模块",
+      "relation": "包括"
+    },
+    {
+      "head": "输出模块",
+      "tail": "声音模块",
+      "relation": "包括"
+    },
+    {
+      "head": "输出模块",
+      "tail": "电机类设备",
+      "relation": "包括"
+    },
+    {
+      "head": "通信模块",
+      "tail": "串口通信",
+      "relation": "采用"
+    },
+    {
+      "head": "通信模块",
+      "tail": "I2C通信",
+      "relation": "采用"
+    },
+    {
+      "head": "扩展板",
+      "tail": "传感器扩展板",
+      "relation": "包括"
+    },
+    {
+      "head": "扩展板",
+      "tail": "大功率驱动模块",
+      "relation": "包括"
+    },
+    {
+      "head": "项目开发流程",
+      "tail": "创意与项目来源",
+      "relation": "始于"
+    },
+    {
+      "head": "项目开发流程",
+      "tail": "项目设计与制作",
+      "relation": "包括"
+    },
+    {
+      "head": "项目开发流程",
+      "tail": "项目测试与运行",
+      "relation": "包括"
+    },
+    {
+      "head": "项目开发流程",
+      "tail": "分享",
+      "relation": "终于"
+    },
+    {
+      "head": "需求分析",
+      "tail": "用户画像法",
+      "relation": "使用"
+    },
+    {
+      "head": "需求分析",
+      "tail": "用户调查法",
+      "relation": "使用"
+    },
+    {
+      "head": "创意与创新",
+      "tail": "头脑风暴法",
+      "relation": "使用"
+    },
+    {
+      "head": "功能设计",
+      "tail": "功能列表",
+      "relation": "通过"
+    },
+    {
+      "head": "外观设计",
+      "tail": "形状设计",
+      "relation": "包括"
+    },
+    {
+      "head": "外观设计",
+      "tail": "图案设计",
+      "relation": "包括"
+    },
+    {
+      "head": "外观设计",
+      "tail": "色彩设计",
+      "relation": "包括"
+    },
+    {
+      "head": "交互设计",
+      "tail": "用户体验",
+      "relation": "关注"
+    },
+    {
+      "head": "核心板选择",
+      "tail": "运算性能",
+      "relation": "考虑"
+    },
+    {
+      "head": "核心板选择",
+      "tail": "功耗",
+      "relation": "考虑"
+    },
+    {
+      "head": "核心板选择",
+      "tail": "价格",
+      "relation": "考虑"
+    },
+    {
+      "head": "周边模块选择",
+      "tail": "输入模块",
+      "relation": "包括"
+    },
+    {
+      "head": "周边模块选择",
+      "tail": "输出模块",
+      "relation": "包括"
+    },
+    {
+      "head": "周边模块选择",
+      "tail": "通信模块",
+      "relation": "包括"
+    },
+    {
+      "head": "方案审查",
+      "tail": "硬件审查",
+      "relation": "包括"
+    },
+    {
+      "head": "方案审查",
+      "tail": "外观审查",
+      "relation": "包括"
+    },
+    {
+      "head": "方案优化",
+      "tail": "简化原则",
+      "relation": "遵循"
+    },
+    {
+      "head": "方案优化",
+      "tail": "易用原则",
+      "relation": "遵循"
+    },
+    {
+      "head": "数据采集",
+      "tail": "传感器数据采集",
+      "relation": "通过"
+    },
+    {
+      "head": "数据采集",
+      "tail": "网络数据采集",
+      "relation": "通过"
+    },
+    {
+      "head": "数据输出",
+      "tail": "显示模块",
+      "relation": "通过"
+    },
+    {
+      "head": "数据输出",
+      "tail": "声音模块",
+      "relation": "通过"
+    },
+    {
+      "head": "数据输出",
+      "tail": "电机类设备",
+      "relation": "通过"
+    },
+    {
+      "head": "运算处理",
+      "tail": "比较运算",
+      "relation": "包括"
+    },
+    {
+      "head": "运算处理",
+      "tail": "计算运算",
+      "relation": "包括"
+    },
+    {
+      "head": "运算处理",
+      "tail": "搜索运算",
+      "relation": "包括"
+    },
+    {
+      "head": "调控测试",
+      "tail": "测试环境",
+      "relation": "需要"
+    },
+    {
+      "head": "调控测试",
+      "tail": "测试仪器",
+      "relation": "使用"
+    },
+    {
+      "head": "项目测试",
+      "tail": "硬件模块测试",
+      "relation": "包括"
+    },
+    {
+      "head": "项目测试",
+      "tail": "功能联调测试",
+      "relation": "包括"
+    },
+    {
+      "head": "开源与知识产权保护",
+      "tail": "项目分享",
+      "relation": "通过"
+    },
+    {
+      "head": "开源与知识产权保护",
+      "tail": "知识产权保护",
+      "relation": "包括"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:49:30",
+    "version": "1.1"
+  }
+}

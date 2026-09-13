@@ -1,0 +1,393 @@
+{
+  "knowledge_tree": {
+    "title": "五年级下册语文",
+    "content": "人教版五年级下册语文教材，包含八个单元，涵盖古诗、散文、古典名著节选、综合性学习等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元",
+        "content": "童年往事单元，体会课文表达的思想感情",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "古诗三首",
+            "content": "《四时田园杂兴》《稚子弄冰》《村晚》，描绘古代儿童生活场景",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "四时田园杂兴",
+                "content": "范成大所作，描写农村夏日生活场景",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "稚子弄冰",
+                "content": "杨万里所作，描写儿童玩冰的乐趣",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "村晚",
+                "content": "雷震所作，描写牧童晚归的悠闲画面",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "祖父的园子",
+            "content": "萧红《呼兰河传》节选，描写童年与祖父在园中的生活",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "月是故乡明",
+            "content": "季羡林散文，表达思乡之情",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "梅花魂",
+            "content": "陈慧瑛散文，通过梅花表达爱国情怀",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第二单元",
+        "content": "古典名著单元，初步学习阅读古典名著的方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "草船借箭",
+            "content": "《三国演义》节选，诸葛亮智谋故事",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "景阳冈",
+            "content": "《水浒传》节选，武松打虎故事",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "猴王出世",
+            "content": "《西游记》节选，孙悟空出世故事",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "红楼春趣",
+            "content": "《红楼梦》节选，宝玉等人放风筝场景",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第三单元",
+        "content": "综合性学习：遨游汉字王国",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "汉字真有趣",
+            "content": "了解汉字的趣味性",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "字谜七则",
+                "content": "七个汉字字谜",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "门内添活字",
+                "content": "杨修猜字谜故事",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "有趣的谐音",
+                "content": "歇后语中的谐音现象",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "我爱你，汉字",
+            "content": "了解汉字文化和历史",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "汉字字体演变",
+                "content": "甲骨文、金文、小篆、隶书、楷书的演变过程",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "甲骨文的发现",
+                "content": "王懿荣发现甲骨文的故事",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "书法欣赏",
+                "content": "不同字体的书法作品欣赏",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第四单元",
+        "content": "家国情怀单元，通过动作、语言、神态描写体会人物内心",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "古诗三首",
+            "content": "《从军行》《秋夜将晓出篱门迎凉有感》《闻官军收河南河北》",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "青山处处埋忠骨",
+            "content": "毛主席与毛岸英的故事",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "军神",
+            "content": "刘伯承手术不用麻醉的故事",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "清贫",
+            "content": "方志敏的革命故事",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第五单元",
+        "content": "人物描写单元，学习描写人物的基本方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "人物描写一组",
+            "content": "《摔跤》《他像一棵挺脱的树》《两茎灯草》",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "刷子李",
+            "content": "冯骥才《俗世奇人》节选，描写粉刷匠人的技艺",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第六单元",
+        "content": "思维智慧单元，了解人物的思维过程",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "自相矛盾",
+            "content": "《韩非子》寓言故事",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "田忌赛马",
+            "content": "《史记》故事，孙膑的智慧",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "跳水",
+            "content": "列夫·托尔斯泰短篇小说",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第七单元",
+        "content": "异域风情单元，体会静态描写和动态描写的表达效果",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "威尼斯的小艇",
+            "content": "马克·吐温描写威尼斯水城",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "牧场之国",
+            "content": "描写荷兰牧场景象",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "金字塔",
+            "content": "《金字塔夕照》和《不可思议的金字塔》",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第八单元",
+        "content": "幽默智慧单元，感受课文风趣的语言",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "杨氏之子",
+            "content": "《世说新语》故事，体现语言智慧",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "手指",
+            "content": "丰子恺散文，幽默描写五根手指",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "童年的发现",
+            "content": "费奥多罗夫散文，童年趣事",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "古诗三首",
+      "tail": "四时田园杂兴",
+      "relation": "包含"
+    },
+    {
+      "head": "古诗三首",
+      "tail": "稚子弄冰",
+      "relation": "包含"
+    },
+    {
+      "head": "古诗三首",
+      "tail": "村晚",
+      "relation": "包含"
+    },
+    {
+      "head": "第二单元",
+      "tail": "古典名著阅读方法",
+      "relation": "学习"
+    },
+    {
+      "head": "草船借箭",
+      "tail": "诸葛亮",
+      "relation": "表现人物智慧"
+    },
+    {
+      "head": "景阳冈",
+      "tail": "武松",
+      "relation": "表现人物勇猛"
+    },
+    {
+      "head": "猴王出世",
+      "tail": "孙悟空",
+      "relation": "介绍人物起源"
+    },
+    {
+      "head": "红楼春趣",
+      "tail": "贾宝玉",
+      "relation": "表现人物性格"
+    },
+    {
+      "head": "汉字真有趣",
+      "tail": "字谜",
+      "relation": "包含"
+    },
+    {
+      "head": "汉字真有趣",
+      "tail": "谐音",
+      "relation": "包含"
+    },
+    {
+      "head": "我爱你汉字",
+      "tail": "汉字演变",
+      "relation": "介绍"
+    },
+    {
+      "head": "我爱你汉字",
+      "tail": "甲骨文",
+      "relation": "包含"
+    },
+    {
+      "head": "第四单元",
+      "tail": "人物描写方法",
+      "relation": "学习"
+    },
+    {
+      "head": "人物描写一组",
+      "tail": "动作描写",
+      "relation": "运用"
+    },
+    {
+      "head": "人物描写一组",
+      "tail": "神态描写",
+      "relation": "运用"
+    },
+    {
+      "head": "刷子李",
+      "tail": "技艺高超",
+      "relation": "表现"
+    },
+    {
+      "head": "自相矛盾",
+      "tail": "逻辑思维",
+      "relation": "培养"
+    },
+    {
+      "head": "田忌赛马",
+      "tail": "策略思维",
+      "relation": "培养"
+    },
+    {
+      "head": "跳水",
+      "tail": "应急思维",
+      "relation": "培养"
+    },
+    {
+      "head": "威尼斯的小艇",
+      "tail": "动态描写",
+      "relation": "运用"
+    },
+    {
+      "head": "牧场之国",
+      "tail": "静态描写",
+      "relation": "运用"
+    },
+    {
+      "head": "杨氏之子",
+      "tail": "语言智慧",
+      "relation": "表现"
+    },
+    {
+      "head": "手指",
+      "tail": "幽默语言",
+      "relation": "运用"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:10:03",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "knowledge_tree": {
+    "title": "English Grade 8 Semester 1",
+    "content": "Comprehensive English language learning for eighth graders, covering themes like holidays, home life, comparisons, nature, food, future plans, technology, and communication.",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "Unit 1: Happy Holiday",
+        "content": "Focuses on holiday activities, experiences, and the use of indefinite pronouns.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Holiday Activities",
+            "content": "Common activities people do during holidays, such as traveling, attending festivals, and relaxing.",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "Visiting Relatives",
+                "content": "Spending time with family members during holidays.",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Attending Festivals",
+                "content": "Participating in cultural or seasonal festivals.",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Indefinite Pronouns",
+            "content": "Pronouns like someone, anyone, everyone, nothing, etc., used to refer to non-specific people or things.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Usage in Questions",
+                "content": "Using indefinite pronouns in questions to ask about experiences.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Usage in Statements",
+                "content": "Using indefinite pronouns in positive and negative statements.",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Holiday Experiences",
+            "content": "Sharing personal stories and lessons learned from holidays.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Writing a Holiday Diary",
+                "content": "Describing events and feelings in a diary format.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Learning from Travel",
+                "content": "Understanding cultural and historical insights gained from traveling.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Home Sweet Home",
+        "content": "Discusses household chores, making polite requests, and the meaning of home.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Household Chores",
+            "content": "Tasks done to maintain a home, like cleaning, cooking, and organizing.",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "Common Chores",
+                "content": "Examples include sweeping, washing dishes, and making beds.",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Chores Frequency",
+                "content": "How often chores are done and by whom.",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Polite Requests",
+            "content": "Using can and could to ask for permission or make requests politely.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Asking for Permission",
+                "content": "Using Can I...? or Could I...? to request allowance to do something.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Making Requests",
+                "content": "Using Can you...? or Could you...? to ask someone to do something.",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Meaning of Home",
+            "content": "Exploring emotional and cultural aspects of what makes a home.",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "Family Traditions",
+                "content": "Customs and practices that define family life at home.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Home as a Safe Space",
+                "content": "The concept of home being a place of comfort and security.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: Same or Different?",
+        "content": "Focuses on making comparisons, discussing similarities and differences, and the value of diversity.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Comparatives",
+            "content": "Grammar for comparing two things using -er and more.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Forming Comparatives",
+                "content": "Rules for adding -er or using more with adjectives.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Irregular Comparatives",
+                "content": "Exceptions like better, worse, etc.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Similarities and Differences",
+            "content": "Discussing how people are alike and different.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Physical Comparisons",
+                "content": "Comparing height, appearance, etc.",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Personality Traits",
+                "content": "Comparing characteristics like shyness, outgoingness, etc.",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Value of Diversity",
+            "content": "Understanding why differences are important in friendships and society.",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "Learning from Others",
+                "content": "How differences can lead to personal growth.",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "Respecting Differences",
+                "content": "The importance of tolerance and acceptance.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unit 4: Amazing Plants and Animals",
+        "content": "Explores remarkable plants and animals, superlatives, and human-nature connections.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Superlatives",
+            "content": "Grammar for comparing three or more things using -est and most.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Forming Superlatives",
+                "content": "Rules for adding -est or using most with adjectives.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Irregular Superlatives",
+                "content": "Exceptions like best, worst, etc.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Remarkable Species",
+            "content": "Learning about unique plants and animals like blue whales, bamboo, etc.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Blue Whale",
+                "content": "The largest animal on Earth, its habitat, and diet.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Bamboo",
+                "content": "A fast-growing plant with cultural significance and multiple uses.",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Human-Nature Connection",
+            "content": "How humans and nature are interdependent.",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "Ecosystem Roles",
+                "content": "The importance of species like bees in pollination.",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "Conservation",
+                "content": "Why protecting plants and animals is crucial.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unit 5: What a Delicious Meal!",
+        "content": "Covers food, cooking instructions, adverbs of sequence, and exclamatory sentences.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Cooking Instructions",
+            "content": "Using imperative verbs to give step-by-step cooking directions.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Sequencing Adverbs",
+                "content": "Words like first, next, then, finally to order steps.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Recipe Language",
+                "content": "Common terms used in recipes, e.g., chop, mix, bake.",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Exclamatory Sentences",
+            "content": "Sentences expressing strong emotion with What or How.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "What + Noun Phrase",
+                "content": "e.g., What a beautiful day!",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "How + Adjective/Adverb",
+                "content": "e.g., How delicious!",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Food and Culture",
+            "content": "How food reflects cultural traditions and memories.",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "Traditional Dishes",
+                "content": "Foods that are part of cultural heritage, like pumpkin pie.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Food Memories",
+                "content": "How meals can evoke personal and family memories.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unit 6: Plan for Yourself",
+        "content": "Discusses future plans, dream jobs, and making resolutions.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Future with be going to",
+            "content": "Using be going to to talk about plans and intentions.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Affirmative Statements",
+                "content": "e.g., I am going to study law.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Questions and Negatives",
+                "content": "e.g., Are you going to...? I am not going to...",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Dream Jobs",
+            "content": "Aspirational careers and how to achieve them.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Career Vocabulary",
+                "content": "Words for jobs like engineer, musician, doctor, etc.",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Path to Achievement",
+                "content": "Steps needed to reach career goals, e.g., study, practice.",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Resolutions",
+            "content": "Promises to oneself for self-improvement, often at the New Year.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Types of Resolutions",
+                "content": "e.g., health, learning, habits.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Keeping Resolutions",
+                "content": "Strategies for sticking to goals, like setting mini-goals.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unit 7: When Tomorrow Comes",
+        "content": "Focuses on future predictions, technology, and preparation for the future.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Future with will",
+            "content": "Using will for predictions and spontaneous decisions about the future.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Predictions",
+                "content": "e.g., Robots will do housework.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Yes/No Questions",
+                "content": "e.g., Will people live longer?",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Technological Advances",
+            "content": "How technology might change life in the future.",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "AI and Robotics",
+                "content": "The role of artificial intelligence and robots.",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "Smart Homes",
+                "content": "Homes with automated systems for convenience.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Preparing for the Future",
+            "content": "Skills and attitudes needed for future success.",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "Lifelong Learning",
+                "content": "The importance of continuous education.",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "Adaptability",
+                "content": "Being open to change and new challenges.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unit 8: Let's Communicate!",
+        "content": "Covers communication methods, conversation skills, and conditionals.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Communication Methods",
+            "content": "Different ways to communicate, e.g., face-to-face, phone, text.",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "Verbal Communication",
+                "content": "Speaking directly or via calls.",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Non-verbal Cues",
+                "content": "Body language and facial expressions.",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Zero and First Conditionals",
+            "content": "Conditional sentences for real situations.",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "Zero Conditional",
+                "content": "For general truths, e.g., If you heat ice, it melts.",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "First Conditional",
+                "content": "For likely future events, e.g., If it rains, we will stay home.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Effective Communication",
+            "content": "Tips for better conversations, like listening and being sincere.",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "Active Listening",
+                "content": "Paying full attention and showing interest.",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "Appropriate Topics",
+                "content": "Choosing subjects that are polite and engaging.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "Indefinite Pronouns",
+      "tail": "Holiday Experiences",
+      "relation": "used to describe"
+    },
+    {
+      "head": "Can/Could",
+      "tail": "Polite Requests",
+      "relation": "used for"
+    },
+    {
+      "head": "Comparatives",
+      "tail": "Similarities and Differences",
+      "relation": "used to express"
+    },
+    {
+      "head": "Superlatives",
+      "tail": "Remarkable Species",
+      "relation": "used to describe"
+    },
+    {
+      "head": "Adverbs of Sequence",
+      "tail": "Cooking Instructions",
+      "relation": "used to order"
+    },
+    {
+      "head": "Exclamatory Sentences",
+      "tail": "Food and Culture",
+      "relation": "used to express enthusiasm about"
+    },
+    {
+      "head": "be going to",
+      "tail": "Future Plans",
+      "relation": "used to talk about"
+    },
+    {
+      "head": "will",
+      "tail": "Future Predictions",
+      "relation": "used for"
+    },
+    {
+      "head": "Zero Conditional",
+      "tail": "General Truths",
+      "relation": "used for"
+    },
+    {
+      "head": "First Conditional",
+      "tail": "Likely Future Events",
+      "relation": "used for"
+    },
+    {
+      "head": "Bamboo",
+      "tail": "Chinese Culture",
+      "relation": "symbol in"
+    },
+    {
+      "head": "Bees",
+      "tail": "Pollination",
+      "relation": "essential for"
+    },
+    {
+      "head": "Pumpkin Pie",
+      "tail": "Thanksgiving",
+      "relation": "associated with"
+    },
+    {
+      "head": "AI",
+      "tail": "Future Jobs",
+      "relation": "influences"
+    },
+    {
+      "head": "Body Language",
+      "tail": "Non-verbal Communication",
+      "relation": "part of"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:35:09",
+    "version": "1.1"
+  }
+}

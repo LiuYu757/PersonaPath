@@ -1,0 +1,610 @@
+{
+  "knowledge_tree": {
+    "title": "三年级上册音乐",
+    "content": "小学三年级上册音乐教材，涵盖音乐基础知识、歌唱、演奏、欣赏和创作等内容",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "音乐基础知识",
+        "content": "音乐基本概念和理论",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "音程",
+            "content": "两个音高之间的距离",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "三度音程",
+                "content": "两个音之间相隔三个音级",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "和弦",
+            "content": "多个音按照一定音程关系叠加形成的组合",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "三和弦",
+                "content": "三个音按照三度音程叠置而成的组合",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "根音",
+                    "content": "和弦中最基础的音",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "三音",
+                    "content": "距离根音三度的音",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "五音",
+                    "content": "距离根音五度的音",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "七和弦",
+                "content": "四个音按照三度音程叠置而成的组合",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "原位和弦",
+                "content": "以根音为低音的和弦",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "转位和弦",
+                "content": "将和弦中的其他音作为低音",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "第一转位",
+                    "content": "三音作为低音",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "第二转位",
+                    "content": "五音作为低音",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "柱式和弦",
+                "content": "和弦音同时发声",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "分解和弦",
+                "content": "和弦音分别发声",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "节奏",
+            "content": "音乐中时间组织的规律",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "均分节奏",
+                "content": "时值均匀分配的节奏",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "附点节奏",
+                "content": "带附点的节奏型",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "切分节奏",
+                "content": "重音转移的节奏型",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "歌唱技巧",
+        "content": "歌曲演唱的方法和技巧",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "发声练习",
+            "content": "基础的发声训练方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "字头咬字",
+                "content": "准确清晰地发出字头音",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "长音练习",
+                "content": "保持音高的稳定性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "短促发音",
+                "content": "快速有力的发音练习",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "合唱技巧",
+            "content": "多声部合唱的方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "声部协调",
+                "content": "各声部之间的和谐配合",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "音准控制",
+                "content": "保持准确的音高",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "乐器演奏",
+        "content": "各类乐器的演奏方法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "打击乐器",
+            "content": "通过敲击发声的乐器",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "小镲演奏",
+                "content": "小镲的基本演奏技巧",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "大镲演奏",
+                "content": "大镲的基本演奏技巧",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "鼓类演奏",
+                "content": "各种鼓的演奏方法",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "鼓面敲击",
+                    "content": "敲击鼓面的不同方式",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "鼓边敲击",
+                    "content": "敲击鼓边的技巧",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "键盘乐器",
+            "content": "钢琴等键盘乐器的基本演奏",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "音乐欣赏",
+        "content": "中外经典音乐作品赏析",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "中国民歌",
+            "content": "各地传统民歌欣赏",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "山西民歌",
+                "content": "山西地区特色民歌",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "交城山",
+                    "content": "山西传统民歌",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "桃花红杏花白",
+                    "content": "山西左权民歌",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "陕西民歌",
+                "content": "陕西地区特色民歌",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "信天游",
+                    "content": "陕北特色山歌体裁",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "蓝花花",
+                    "content": "陕北传统民歌",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "西北花儿",
+                "content": "甘肃、青海、宁夏地区的山歌",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "上去高山望平川",
+                    "content": "青海花儿代表作",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "下四川",
+                    "content": "甘肃传统花儿",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "德奥古典音乐",
+            "content": "德国奥地利古典音乐作品",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "巴赫作品",
+                "content": "巴洛克时期代表作曲家的作品",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "贝多芬作品",
+                "content": "古典乐派代表作曲家的作品",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "献给爱丽丝",
+                    "content": "贝多芬著名钢琴小品",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "门德尔松作品",
+                "content": "浪漫主义时期作曲家的作品",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "乘着歌声的翅膀",
+                    "content": "门德尔松艺术歌曲代表作",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "民族器乐",
+            "content": "中国传统器乐作品",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "绛州鼓乐",
+                "content": "山西新绛民间锣鼓乐",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "滚核桃",
+                    "content": "绛州鼓乐代表作",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "西安鼓乐",
+                "content": "西安地区传统鼓乐",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "音乐创作",
+        "content": "简单的音乐编创技巧",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "旋律加花",
+            "content": "对基本曲调进行装饰变化",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "和弦编配",
+            "content": "为旋律配伴奏和弦",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "音乐文化",
+        "content": "音乐历史和文化知识",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "中国古代音乐",
+            "content": "中国传统音乐文化",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "古埙",
+                "content": "中国古代吹奏乐器",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "埙的历史",
+                    "content": "埙的发展演变过程",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "埙的音色",
+                    "content": "古朴苍凉的音色特点",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "汉乐府",
+                "content": "汉代音乐机构与诗歌",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "地方戏曲",
+            "content": "各地传统戏曲形式",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "晋剧",
+                "content": "山西梆子戏代表",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "秦腔",
+                "content": "陕西地方戏曲",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "三和弦",
+      "tail": "根音",
+      "relation": "由...组成"
+    },
+    {
+      "head": "三和弦",
+      "tail": "三音",
+      "relation": "由...组成"
+    },
+    {
+      "head": "三和弦",
+      "tail": "五音",
+      "relation": "由...组成"
+    },
+    {
+      "head": "和弦",
+      "tail": "原位和弦",
+      "relation": "包含"
+    },
+    {
+      "head": "和弦",
+      "tail": "转位和弦",
+      "relation": "包含"
+    },
+    {
+      "head": "转位和弦",
+      "tail": "第一转位",
+      "relation": "包含"
+    },
+    {
+      "head": "转位和弦",
+      "tail": "第二转位",
+      "relation": "包含"
+    },
+    {
+      "head": "柱式和弦",
+      "tail": "分解和弦",
+      "relation": "对比关系"
+    },
+    {
+      "head": "发声练习",
+      "tail": "字头咬字",
+      "relation": "包含"
+    },
+    {
+      "head": "发声练习",
+      "tail": "长音练习",
+      "relation": "包含"
+    },
+    {
+      "head": "山西民歌",
+      "tail": "交城山",
+      "relation": "代表作品"
+    },
+    {
+      "head": "山西民歌",
+      "tail": "桃花红杏花白",
+      "relation": "代表作品"
+    },
+    {
+      "head": "信天游",
+      "tail": "蓝花花",
+      "relation": "代表作品"
+    },
+    {
+      "head": "西北花儿",
+      "tail": "上去高山望平川",
+      "relation": "代表作品"
+    },
+    {
+      "head": "西北花儿",
+      "tail": "下四川",
+      "relation": "代表作品"
+    },
+    {
+      "head": "贝多芬作品",
+      "tail": "献给爱丽丝",
+      "relation": "代表作品"
+    },
+    {
+      "head": "门德尔松作品",
+      "tail": "乘着歌声的翅膀",
+      "relation": "代表作品"
+    },
+    {
+      "head": "绛州鼓乐",
+      "tail": "滚核桃",
+      "relation": "代表作品"
+    },
+    {
+      "head": "旋律加花",
+      "tail": "基本曲调",
+      "relation": "装饰变化"
+    },
+    {
+      "head": "古埙",
+      "tail": "埙的历史",
+      "relation": "包含"
+    },
+    {
+      "head": "古埙",
+      "tail": "埙的音色",
+      "relation": "包含"
+    },
+    {
+      "head": "三度音程",
+      "tail": "三和弦",
+      "relation": "构成基础"
+    },
+    {
+      "head": "音程",
+      "tail": "三度音程",
+      "relation": "包含"
+    },
+    {
+      "head": "节奏",
+      "tail": "均分节奏",
+      "relation": "包含"
+    },
+    {
+      "head": "节奏",
+      "tail": "附点节奏",
+      "relation": "包含"
+    },
+    {
+      "head": "节奏",
+      "tail": "切分节奏",
+      "relation": "包含"
+    },
+    {
+      "head": "合唱技巧",
+      "tail": "声部协调",
+      "relation": "要求"
+    },
+    {
+      "head": "合唱技巧",
+      "tail": "音准控制",
+      "relation": "要求"
+    },
+    {
+      "head": "打击乐器",
+      "tail": "小镲演奏",
+      "relation": "包含"
+    },
+    {
+      "head": "打击乐器",
+      "tail": "大镲演奏",
+      "relation": "包含"
+    },
+    {
+      "head": "鼓类演奏",
+      "tail": "鼓面敲击",
+      "relation": "技巧之一"
+    },
+    {
+      "head": "鼓类演奏",
+      "tail": "鼓边敲击",
+      "relation": "技巧之一"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:59:44",
+    "version": "1.1"
+  }
+}

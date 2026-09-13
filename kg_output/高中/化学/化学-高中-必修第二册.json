@@ -1,0 +1,480 @@
+{
+  "knowledge_tree": {
+    "title": "高中化学必修第二册",
+    "content": "涵盖化工生产中的重要非金属元素、化学反应与能量、有机化合物及化学与可持续发展等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第五章 化工生产中的重要非金属元素",
+        "content": "研究硫、氮等非金属元素及其化合物的性质和转化",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第一节 硫及其化合物",
+            "content": "硫单质、二氧化硫、硫酸及硫酸根离子检验",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "硫单质的性质",
+                "content": "黄色晶体，难溶于水，易溶于二硫化碳，与金属、非金属反应",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "二氧化硫的性质",
+                "content": "无色有刺激性气味气体，易溶于水，具有漂白性和还原性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "硫酸的性质",
+                "content": "强酸，具有吸水性、脱水性和强氧化性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "硫酸根离子检验",
+                "content": "用BaCl2溶液和稀盐酸检验，生成不溶于酸的白色沉淀",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第二节 氮及其化合物",
+            "content": "氮气、氨气、铵盐、硝酸等氮的化合物",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "氮气的性质",
+                "content": "无色无味气体，化学性质稳定，需在高温高压下反应",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "氨气的性质",
+                "content": "有刺激性气味，易液化，易溶于水，显碱性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "铵盐的性质",
+                "content": "易溶于水，受热分解，与碱反应放出氨气",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "硝酸的性质",
+                "content": "强酸，具有强氧化性，与金属反应产物多样",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第三节 无机非金属材料",
+            "content": "硅酸盐材料、新型无机非金属材料等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "硅酸盐材料",
+                "content": "陶瓷、玻璃、水泥等传统材料",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "新型无机非金属材料",
+                "content": "硅、二氧化硅、碳纳米材料等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第六章 化学反应与能量",
+        "content": "化学反应中的能量变化、化学反应速率与限度",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第一节 化学反应与能量变化",
+            "content": "化学反应与热能、电能的转化",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "化学反应与热能",
+                "content": "放热反应和吸热反应，能量变化原因",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "化学反应与电能",
+                "content": "原电池原理，化学能转化为电能",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第二节 化学反应的速率与限度",
+            "content": "影响反应速率的因素，化学平衡",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "化学反应速率",
+                "content": "表示反应快慢，受浓度、温度、催化剂等影响",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "化学平衡",
+                "content": "可逆反应达到动态平衡，反应限度",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第七章 有机化合物",
+        "content": "认识有机化合物、乙烯、乙醇、乙酸及基本营养物质",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第一节 认识有机化合物",
+            "content": "有机化合物中碳原子的成键特点，烷烃",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "碳原子的成键特点",
+                "content": "碳原子可形成单键、双键、三键，构成链状或环状结构",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "烷烃",
+                "content": "饱和烃，通式CnH2n+2，可发生取代反应",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第二节 乙烯与有机高分子材料",
+            "content": "乙烯的性质、烃的分类及有机高分子材料",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "乙烯的性质",
+                "content": "含有碳碳双键，可发生加成反应和聚合反应",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "有机高分子材料",
+                "content": "塑料、合成纤维、合成橡胶等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第三节 乙醇与乙酸",
+            "content": "乙醇和乙酸的性质、官能团与有机化合物分类",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "乙醇的性质",
+                "content": "含有羟基，可发生氧化反应和酯化反应",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "乙酸的性质",
+                "content": "含有羧基，具有酸性和酯化反应",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第四节 基本营养物质",
+            "content": "糖类、蛋白质、油脂等基本营养物质",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "糖类",
+                "content": "葡萄糖、蔗糖、淀粉等，可发生水解反应",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "蛋白质",
+                "content": "由氨基酸组成，可发生水解和变性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "油脂",
+                "content": "高级脂肪酸甘油酯，可发生水解反应",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第八章 化学与可持续发展",
+        "content": "自然资源的开发利用、化学品的合理使用及环境保护",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第一节 自然资源的开发利用",
+            "content": "金属矿物、海水资源、化石燃料的综合利用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "金属矿物的开发利用",
+                "content": "金属冶炼的不同方法，如热分解法、电解法等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "海水资源的开发利用",
+                "content": "海水淡化、制盐、提溴等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "化石燃料的综合利用",
+                "content": "煤、石油、天然气的加工和利用",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第二节 化学品的合理使用",
+            "content": "化肥、农药的合理施用，合理用药，安全使用食品添加剂",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "化肥、农药的合理施用",
+                "content": "科学施用，减少环境污染",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "合理用药",
+                "content": "遵循安全、有效、经济、适当原则",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "安全使用食品添加剂",
+                "content": "着色剂、防腐剂、营养强化剂等的合理使用",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第三节 环境保护与绿色化学",
+            "content": "化学与环境保护，绿色化学",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "化学与环境保护",
+                "content": "环境质量监测，"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "硫",
+      "tail": "二氧化硫",
+      "relation": "氧化生成"
+    },
+    {
+      "head": "二氧化硫",
+      "tail": "三氧化硫",
+      "relation": "氧化生成"
+    },
+    {
+      "head": "三氧化硫",
+      "tail": "硫酸",
+      "relation": "与水反应生成"
+    },
+    {
+      "head": "浓硫酸",
+      "tail": "铜",
+      "relation": "氧化"
+    },
+    {
+      "head": "硫酸根离子",
+      "tail": "钡离子",
+      "relation": "形成沉淀"
+    },
+    {
+      "head": "氮气",
+      "tail": "氨气",
+      "relation": "加氢生成"
+    },
+    {
+      "head": "氨气",
+      "tail": "一氧化氮",
+      "relation": "催化氧化生成"
+    },
+    {
+      "head": "一氧化氮",
+      "tail": "二氧化氮",
+      "relation": "氧化生成"
+    },
+    {
+      "head": "二氧化氮",
+      "tail": "硝酸",
+      "relation": "与水反应生成"
+    },
+    {
+      "head": "铵盐",
+      "tail": "氨气",
+      "relation": "与碱反应生成"
+    },
+    {
+      "head": "浓硝酸",
+      "tail": "铜",
+      "relation": "氧化"
+    },
+    {
+      "head": "硅",
+      "tail": "二氧化硅",
+      "relation": "氧化生成"
+    },
+    {
+      "head": "二氧化硅",
+      "tail": "硅酸",
+      "relation": "与水反应生成"
+    },
+    {
+      "head": "化学反应",
+      "tail": "能量变化",
+      "relation": "伴随"
+    },
+    {
+      "head": "原电池",
+      "tail": "化学能",
+      "relation": "转化为电能"
+    },
+    {
+      "head": "反应速率",
+      "tail": "浓度",
+      "relation": "受影响因素"
+    },
+    {
+      "head": "反应速率",
+      "tail": "温度",
+      "relation": "受影响因素"
+    },
+    {
+      "head": "反应速率",
+      "tail": "催化剂",
+      "relation": "受影响因素"
+    },
+    {
+      "head": "可逆反应",
+      "tail": "化学平衡",
+      "relation": "达到"
+    },
+    {
+      "head": "碳原子",
+      "tail": "有机化合物",
+      "relation": "构成"
+    },
+    {
+      "head": "烷烃",
+      "tail": "取代反应",
+      "relation": "可发生"
+    },
+    {
+      "head": "乙烯",
+      "tail": "加成反应",
+      "relation": "可发生"
+    },
+    {
+      "head": "乙烯",
+      "tail": "聚合反应",
+      "relation": "可发生"
+    },
+    {
+      "head": "乙醇",
+      "tail": "氧化反应",
+      "relation": "可发生"
+    },
+    {
+      "head": "乙醇",
+      "tail": "酯化反应",
+      "relation": "可发生"
+    },
+    {
+      "head": "乙酸",
+      "tail": "酯化反应",
+      "relation": "可发生"
+    },
+    {
+      "head": "葡萄糖",
+      "tail": "银镜反应",
+      "relation": "可发生"
+    },
+    {
+      "head": "淀粉",
+      "tail": "葡萄糖",
+      "relation": "水解生成"
+    },
+    {
+      "head": "蛋白质",
+      "tail": "氨基酸",
+      "relation": "水解生成"
+    },
+    {
+      "head": "油脂",
+      "tail": "皂化反应",
+      "relation": "可发生"
+    },
+    {
+      "head": "金属冶炼",
+      "tail": "氧化还原反应",
+      "relation": "基于"
+    },
+    {
+      "head": "海水提溴",
+      "tail": "氧化还原反应",
+      "relation": "基于"
+    },
+    {
+      "head": "煤的干馏",
+      "tail": "化学变化",
+      "relation": "属于"
+    },
+    {
+      "head": "石油分馏",
+      "tail": "物理变化",
+      "relation": "属于"
+    },
+    {
+      "head": "绿色化学",
+      "tail": "原子经济性",
+      "relation": "追求"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:56:31",
+    "version": "1.1"
+  }
+}

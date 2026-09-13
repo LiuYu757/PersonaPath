@@ -1,0 +1,530 @@
+{
+  "knowledge_tree": {
+    "title": "工程估价",
+    "content": "工程估价是管理科学与工程类专业核心课程，研究工程项目投资估算、设计概算、施工图预算、竣工决算等全过程造价管理理论与方法",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "工程估价基本概念",
+        "content": "工程估价的定义、特点、作用及发展历程",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "工程估价定义",
+            "content": "在工程建设的各个阶段，根据有关资料，对工程项目投资数额进行估计的过程",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "工程估价特点",
+            "content": "单件性、多次性、组合性、方法的多样性、依据的复杂性",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "工程估价作用",
+            "content": "项目决策的依据、制定投资计划和控制投资的依据、筹集建设资金的依据、评价投资效果的重要指标",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "工程造价构成",
+        "content": "工程项目总投资及各组成部分的费用构成",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "建设项目总投资构成",
+            "content": "固定资产投资和流动资产投资两大部分",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "固定资产投资",
+                "content": "建设投资和建设期利息",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "建设投资",
+                    "content": "工程费用、工程建设其他费用、预备费",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "建设期利息",
+                    "content": "项目建设期间应偿还的贷款利息",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "流动资产投资",
+                "content": "流动资金，为维持正常生产经营活动所需的周转资金",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "建筑安装工程费用构成",
+            "content": "按费用构成要素划分和按造价形成划分两种方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "按费用构成要素划分",
+                "content": "人工费、材料费、施工机具使用费、企业管理费、利润、规费和税金",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "按造价形成划分",
+                "content": "分部分项工程费、措施项目费、其他项目费、规费和税金",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "工程估价依据",
+        "content": "工程估价过程中所依据的各种标准、规范、定额等",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "工程建设定额",
+            "content": "在正常的施工条件下，完成单位合格产品所消耗的人工、材料、机械台班的数量标准",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "施工定额",
+                "content": "企业内部使用的定额，是编制施工预算的依据",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "预算定额",
+                "content": "编制施工图预算的依据，是确定工程造价的主要基础",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "概算定额",
+                "content": "编制设计概算的依据，比预算定额综合程度更高",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "投资估算指标",
+                "content": "编制投资估算的依据，综合程度最高",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "工程量计算规则",
+            "content": "统一工程量计算口径、计量单位、计算方法的准则",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "建筑面积计算规则",
+                "content": "建筑工程建筑面积计算规范GB/T50353",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "工程量清单计价规范",
+                "content": "建设工程工程量清单计价规范GB50500",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "投资估算",
+        "content": "项目决策阶段对建设项目投资数额的估计",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "投资估算方法",
+            "content": "单位生产能力估算法、生产能力指数法、系数估算法、比例估算法等",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "生产能力指数法公式",
+                "content": "C2 = C1 × (Q2/Q1)^n × f，其中C2为拟建项目投资额，C1为已建类似项目投资额，Q2为拟建项目生产能力，Q1为已建类似项目生产能力，n为生产能力指数，f为综合调整系数",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "单位生产能力估算法",
+                "content": "根据已建成的、性质类似的建设项目单位生产能力投资乘以拟建项目的生产能力",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "投资估算精度要求",
+            "content": "不同阶段的投资估算应有不同的精度要求",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "项目建议书阶段",
+                "content": "误差控制在±30%以内",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "可行性研究阶段",
+                "content": "误差控制在±10%以内",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "设计概算",
+        "content": "初步设计阶段对建设项目从筹建到竣工交付使用所需全部费用的文件",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "设计概算编制方法",
+            "content": "概算定额法、概算指标法、类似工程预算法",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "概算定额法",
+                "content": "采用概算定额编制建筑工程概算的方法",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "概算指标法",
+                "content": "利用直接工程费指标或人工、材料、机械台班消耗量指标编制概算",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "设计概算审查",
+            "content": "对设计概算编制依据、内容、深度等进行全面审核",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "审查内容",
+                "content": "编制依据的合法性、时效性、适用范围；概算编制深度；概算内容",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "审查方法",
+                "content": "对比分析法、查询核实法、联合会审法",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "施工图预算",
+        "content": "根据施工图设计文件、预算定额和费用标准等编制的工程造价文件",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "施工图预算编制方法",
+            "content": "单价法和实物法",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "单价法",
+                "content": "采用地区统一单位估价表中的各分项工程工料单价乘以相应的各分项工程的工程量",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "实物法",
+                "content": "根据施工图计算的各分项工程量乘以预算定额中的人工、材料、机械台班消耗量，再乘以当时当地的人工、材料、机械台班实际单价",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "工程量计算",
+            "content": "按照工程量计算规则，对设计图纸中各分部分项工程的工程量进行计算",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "工程量计算顺序",
+                "content": "按施工顺序计算法、按定额顺序计算法、按图纸顺序计算法",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "工程量计算技巧",
+                "content": "统筹法计算工程量：统筹程序、合理安排；利用基数、连续计算；一次算出、多次使用；结合实际、灵活机动",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "工程量清单计价",
+        "content": "招标人提供工程量清单，投标人自主报价的计价模式",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "工程量清单编制",
+            "content": "分部分项工程量清单、措施项目清单、其他项目清单、规费项目清单、税金项目清单",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "分部分项工程量清单",
+                "content": "项目编码、项目名称、项目特征、计量单位、工程量",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "措施项目清单",
+                "content": "为完成工程项目施工，发生于该工程施工准备和施工过程中的技术、生活、安全、环境保护等方面的非工程实体项目",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "工程量清单计价方法",
+            "content": "综合单价法，包括人工费、材料费、机械使用费、管理费、利润和风险费用",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "综合单价计算公式",
+                "content": "综合单价 = (人工费+材料费+机械使用费+管理费+利润)/清单工程量",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "投标报价策略",
+                "content": "不平衡报价法、多方案报价法、突然降价法、先亏后盈法等",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "工程估价",
+      "tail": "工程造价构成",
+      "relation": "包含"
+    },
+    {
+      "head": "工程估价",
+      "tail": "投资估算",
+      "relation": "包含"
+    },
+    {
+      "head": "工程估价",
+      "tail": "设计概算",
+      "relation": "包含"
+    },
+    {
+      "head": "工程估价",
+      "tail": "施工图预算",
+      "relation": "包含"
+    },
+    {
+      "head": "工程估价",
+      "tail": "工程量清单计价",
+      "relation": "包含"
+    },
+    {
+      "head": "建设项目总投资",
+      "tail": "固定资产投资",
+      "relation": "由...组成"
+    },
+    {
+      "head": "建设项目总投资",
+      "tail": "流动资产投资",
+      "relation": "由...组成"
+    },
+    {
+      "head": "固定资产投资",
+      "tail": "建设投资",
+      "relation": "由...组成"
+    },
+    {
+      "head": "固定资产投资",
+      "tail": "建设期利息",
+      "relation": "由...组成"
+    },
+    {
+      "head": "建设投资",
+      "tail": "工程费用",
+      "relation": "由...组成"
+    },
+    {
+      "head": "建设投资",
+      "tail": "工程建设其他费用",
+      "relation": "由...组成"
+    },
+    {
+      "head": "建设投资",
+      "tail": "预备费",
+      "relation": "由...组成"
+    },
+    {
+      "head": "建筑安装工程费用",
+      "tail": "人工费",
+      "relation": "包含"
+    },
+    {
+      "head": "建筑安装工程费用",
+      "tail": "材料费",
+      "relation": "包含"
+    },
+    {
+      "head": "建筑安装工程费用",
+      "tail": "施工机具使用费",
+      "relation": "包含"
+    },
+    {
+      "head": "工程建设定额",
+      "tail": "施工定额",
+      "relation": "包含"
+    },
+    {
+      "head": "工程建设定额",
+      "tail": "预算定额",
+      "relation": "包含"
+    },
+    {
+      "head": "工程建设定额",
+      "tail": "概算定额",
+      "relation": "包含"
+    },
+    {
+      "head": "工程建设定额",
+      "tail": "投资估算指标",
+      "relation": "包含"
+    },
+    {
+      "head": "投资估算",
+      "tail": "生产能力指数法",
+      "relation": "采用"
+    },
+    {
+      "head": "投资估算",
+      "tail": "单位生产能力估算法",
+      "relation": "采用"
+    },
+    {
+      "head": "生产能力指数法",
+      "tail": "生产能力指数法公式",
+      "relation": "基于"
+    },
+    {
+      "head": "设计概算",
+      "tail": "概算定额法",
+      "relation": "采用"
+    },
+    {
+      "head": "设计概算",
+      "tail": "概算指标法",
+      "relation": "采用"
+    },
+    {
+      "head": "施工图预算",
+      "tail": "单价法",
+      "relation": "采用"
+    },
+    {
+      "head": "施工图预算",
+      "tail": "实物法",
+      "relation": "采用"
+    },
+    {
+      "head": "工程量清单计价",
+      "tail": "综合单价法",
+      "relation": "采用"
+    },
+    {
+      "head": "综合单价法",
+      "tail": "综合单价计算公式",
+      "relation": "基于"
+    },
+    {
+      "head": "工程量计算",
+      "tail": "统筹法计算工程量",
+      "relation": "应用"
+    },
+    {
+      "head": "预算定额",
+      "tail": "施工图预算",
+      "relation": "用于编制"
+    },
+    {
+      "head": "概算定额",
+      "tail": "设计概算",
+      "relation": "用于编制"
+    },
+    {
+      "head": "投资估算指标",
+      "tail": "投资估算",
+      "relation": "用于编制"
+    },
+    {
+      "head": "工程量清单计价规范",
+      "tail": "工程量清单计价",
+      "relation": "规范"
+    },
+    {
+      "head": "工程估价特点",
+      "tail": "单件性",
+      "relation": "包含"
+    },
+    {
+      "head": "工程估价特点",
+      "tail": "多次性",
+      "relation": "包含"
+    },
+    {
+      "head": "工程估价特点",
+      "tail": "组合性",
+      "relation": "包含"
+    },
+    {
+      "head": "工程量清单",
+      "tail": "分部分项工程量清单",
+      "relation": "包含"
+    },
+    {
+      "head": "工程量清单",
+      "tail": "措施项目清单",
+      "relation": "包含"
+    },
+    {
+      "head": "工程量清单",
+      "tail": "其他项目清单",
+      "relation": "包含"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:34:56",
+    "version": "1.1"
+  }
+}

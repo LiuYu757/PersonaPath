@@ -1,0 +1,619 @@
+{
+  "knowledge_tree": {
+    "title": "高中物理选择性必修第二册",
+    "content": "涵盖安培力、洛伦兹力、电磁感应、交变电流、电磁振荡与电磁波、传感器等核心内容",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "安培力与洛伦兹力",
+        "content": "磁场对电流和运动电荷的作用力",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "安培力",
+            "content": "通电导线在磁场中受到的力",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "安培力的方向",
+                "content": "用左手定则判断：伸开左手，使拇指与四指垂直，磁感线垂直穿入掌心，四指指向电流方向，拇指指向安培力方向",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "安培力的大小",
+                "content": "F = BILsinθ，其中θ为电流方向与磁场方向的夹角",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "安培力的应用",
+                "content": "磁电式电流表、电动机等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "洛伦兹力",
+            "content": "运动电荷在磁场中受到的力",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "洛伦兹力的方向",
+                "content": "用左手定则判断：正电荷运动方向为四指方向，负电荷则相反",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "洛伦兹力的大小",
+                "content": "F = qvBsinθ，其中θ为速度方向与磁场方向的夹角",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "洛伦兹力的应用",
+                "content": "显像管、速度选择器等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "带电粒子在匀强磁场中的运动",
+            "content": "带电粒子垂直进入匀强磁场时做匀速圆周运动",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "轨道半径",
+                "content": "r = mv/(qB)",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "运动周期",
+                "content": "T = 2πm/(qB)，与速度无关",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "质谱仪与回旋加速器",
+            "content": "利用电场和磁场控制带电粒子运动的装置",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "质谱仪原理",
+                "content": "通过电场加速和磁场偏转分离不同质量的粒子",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "回旋加速器原理",
+                "content": "利用交变电场和恒定磁场使粒子不断加速",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "电磁感应",
+        "content": "研究磁生电的现象和规律",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "楞次定律",
+            "content": "感应电流的磁场总要阻碍引起感应电流的磁通量的变化",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "楞次定律的应用",
+                "content": "判断感应电流方向",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "右手定则",
+                "content": "用于判断导线切割磁感线时感应电流的方向",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "法拉第电磁感应定律",
+            "content": "感应电动势的大小与磁通量变化率成正比",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "法拉第电磁感应定律公式",
+                "content": "E = nΔΦ/Δt",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "导线切割磁感线的感应电动势",
+                "content": "E = BLvsinθ",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "涡流、电磁阻尼和电磁驱动",
+            "content": "电磁感应在导体中产生的涡电流现象",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "涡流的热效应",
+                "content": "涡流产生热量，用于冶炼金属",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电磁阻尼",
+                "content": "导体在磁场中运动时受到的阻碍作用",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电磁驱动",
+                "content": "旋转磁场使导体跟随运动",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "互感和自感",
+            "content": "因电流变化而产生的电磁感应现象",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "互感",
+                "content": "一个线圈中电流变化在另一个线圈中产生感应电动势",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "自感",
+                "content": "线圈自身电流变化产生感应电动势",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "自感系数",
+                "content": "L，单位亨利(H)，表示线圈自感能力的强弱",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "交变电流",
+        "content": "大小和方向都随时间做周期性变化的电流",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "交变电流的产生",
+            "content": "线圈在匀强磁场中匀速转动产生正弦式交变电流",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "正弦式交变电流的表达式",
+                "content": "i = Imsin(ωt + φ)",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "交变电流的图像",
+                "content": "正弦曲线",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "交变电流的描述",
+            "content": "描述交变电流的物理量",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "周期和频率",
+                "content": "T = 1/f",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "峰值和有效值",
+                "content": "I = Im/√2, U = Um/√2",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "平均值",
+                "content": "用于计算电量",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电感和电容对交变电流的影响",
+            "content": "电感和电容对交变电流的阻碍作用",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "感抗",
+                "content": "XL = 2πfL",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "容抗",
+                "content": "XC = 1/(2πfC)",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "变压器",
+            "content": "改变交变电压的装置",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "变压器原理",
+                "content": "利用互感现象改变电压",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电压与匝数的关系",
+                "content": "U1/U2 = n1/n2",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电流与匝数的关系",
+                "content": "I1/I2 = n2/n1（理想变压器）",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电能的输送",
+            "content": "远距离输电技术",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "输电损耗",
+                "content": "P损 = I²R",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "高压输电",
+                "content": "提高电压减小电流以降低损耗",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "电磁振荡与电磁波",
+        "content": "电磁场的振荡和传播",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "电磁振荡",
+            "content": "电路中电荷和电流的周期性变化",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "LC振荡电路",
+                "content": "由电感和电容组成的振荡电路",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "电磁振荡的周期和频率",
+                "content": "T = 2π√(LC), f = 1/(2π√(LC))",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电磁场与电磁波",
+            "content": "变化的电场和磁场相互激发形成电磁波",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "麦克斯韦电磁场理论",
+                "content": "变化的电场产生磁场，变化的磁场产生电场",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "电磁波的产生",
+                "content": "由振荡电路产生",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "电磁波的传播",
+                "content": "在真空中以光速传播，c = 3×10^8 m/s",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "无线电波的发射和接收",
+            "content": "电磁波的发射和接收技术",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "调制",
+                "content": "将信号加载到载波上",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "调谐",
+                "content": "选择特定频率的电磁波",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "解调",
+                "content": "从载波中提取信号",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电磁波谱",
+            "content": "按波长或频率排列的电磁波序列",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "无线电波",
+                "content": "波长最长的电磁波，用于通信",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "红外线",
+                "content": "热效应显著，用于遥感、夜视",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "可见光",
+                "content": "人眼可以感知的电磁波",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "紫外线",
+                "content": "化学效应强，用于消毒、荧光",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "X射线和γ射线",
+                "content": "穿透能力强，用于医疗、探测",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "传感器",
+        "content": "将非电学量转换为电学量的装置",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "认识传感器",
+            "content": "传感器的基本概念和分类",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "传感器的组成",
+                "content": "敏感元件和转换元件",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "传感器的应用",
+                "content": "广泛应用于生产生活各个领域",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "常见传感器的工作原理及应用",
+            "content": "各种类型传感器的工作原理和用途",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "光敏电阻",
+                "content": "电阻随光照强度变化",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "热敏电阻",
+                "content": "电阻随温度变化",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "金属热电阻",
+                "content": "利用金属电阻随温度变化的特性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电阻应变片",
+                "content": "电阻随形变变化",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "霍尔元件",
+                "content": "利用霍尔效应测量磁场",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "利用传感器制作简单的自动控制装置",
+            "content": "应用传感器实现自动控制",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "光控开关",
+                "content": "利用光敏电阻控制电路通断",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "温度报警器",
+                "content": "利用热敏电阻实现温度监控",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "安培力",
+      "tail": "左手定则",
+      "relation": "方向判断方法"
+    },
+    {
+      "head": "洛伦兹力",
+      "tail": "左手定则",
+      "relation": "方向判断方法"
+    },
+    {
+      "head": "带电粒子在匀强磁场中的运动",
+      "tail": "洛伦兹力",
+      "relation": "提供向心力"
+    },
+    {
+      "head": "质谱仪",
+      "tail": "带电粒子在匀强磁场中的运动",
+      "relation": "基于原理"
+    },
+    {
+      "head": "回旋加速器",
+      "tail": "带电粒子在匀强磁场中的运动",
+      "relation": "基于原理"
+    },
+    {
+      "head": "楞次定律",
+      "tail": "感应电流方向",
+      "relation": "判断依据"
+    },
+    {
+      "head": "法拉第电磁感应定律",
+      "tail": "感应电动势",
+      "relation": "计算公式"
+    },
+    {
+      "head": "导线切割磁感线",
+      "tail": "感应电动势",
+      "relation": "产生方式"
+    },
+    {
+      "head": "涡流",
+      "tail": "电磁感应",
+      "relation": "是现象"
+    },
+    {
+      "head": "变压器",
+      "tail": "互感",
+      "relation": "工作原理"
+    },
+    {
+      "head": "交变电流",
+      "tail": "正弦式交变电流",
+      "relation": "是类型"
+    },
+    {
+      "head": "有效值",
+      "tail": "交变电流",
+      "relation": "描述参数"
+    },
+    {
+      "head": "电感",
+      "tail": "感抗",
+      "relation": "产生"
+    },
+    {
+      "head": "电容",
+      "tail": "容抗",
+      "relation": "产生"
+    },
+    {
+      "head": "高压输电",
+      "tail": "输电损耗",
+      "relation": "减少方法"
+    },
+    {
+      "head": "电磁振荡",
+      "tail": "LC振荡电路",
+      "relation": "实现方式"
+    },
+    {
+      "head": "电磁波",
+      "tail": "电磁振荡",
+      "relation": "由产生"
+    },
+    {
+      "head": "麦克斯韦电磁场理论",
+      "tail": "电磁波",
+      "relation": "理论基础"
+    },
+    {
+      "head": "传感器",
+      "tail": "非电学量转电学量",
+      "relation": "功能"
+    },
+    {
+      "head": "光敏电阻",
+      "tail": "传感器",
+      "relation": "是类型"
+    },
+    {
+      "head": "热敏电阻",
+      "tail": "传感器",
+      "relation": "是类型"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:20:30",
+    "version": "1.1"
+  }
+}

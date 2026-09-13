@@ -1,0 +1,320 @@
+{
+  "knowledge_tree": {
+    "title": "数学物理方法",
+    "content": "研究物理学中常用的数学理论和方法，主要包括复变函数、积分变换、数学物理方程和特殊函数等",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "复变函数论",
+        "content": "研究复变量函数的分析性质，包括解析函数、积分理论和级数展开等",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "复数与复变函数",
+            "content": "复数的基本概念和复变函数的定义",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "复数的定义",
+                "content": "形如z=x+iy的数，其中x,y为实数，i为虚数单位满足i²=-1",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "复数的表示形式",
+                "content": "代数形式z=x+iy、三角形式z=r(cosθ+isinθ)、指数形式z=re^iθ",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "复变函数的定义",
+                "content": "从复数域到复数域的映射w=f(z)，其中z=x+iy，w=u+iv",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "解析函数",
+            "content": "满足柯西-黎曼条件的复变函数",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "柯西-黎曼条件",
+                "content": "函数f(z)=u(x,y)+iv(x,y)解析的充要条件：∂u/∂x=∂v/∂y，∂u/∂y=-∂v/∂x",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "解析函数的性质",
+                "content": "解析函数具有任意阶导数，实部和虚部都是调和函数",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "复变函数积分",
+            "content": "复平面上的积分理论",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "柯西积分定理",
+                "content": "若f(z)在单连通区域D内解析，则沿D内任意闭曲线的积分为零",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "柯西积分公式",
+                "content": "f(z₀)=1/(2πi)∮f(z)/(z-z₀)dz，用于计算解析函数在区域内的值",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "积分变换",
+        "content": "通过积分运算将函数从一个域变换到另一个域",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "傅里叶变换",
+            "content": "将时域函数变换为频域函数",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "傅里叶变换定义",
+                "content": "F(ω)=∫f(t)e^(-iωt)dt，将时域信号分解为不同频率的谐波",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "傅里叶变换性质",
+                "content": "线性性、时移性、频移性、卷积定理等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "拉普拉斯变换",
+            "content": "用于求解微分方程的重要工具",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "拉普拉斯变换定义",
+                "content": "F(s)=∫f(t)e^(-st)dt，其中s=σ+iω为复变量",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "拉普拉斯变换的应用",
+                "content": "求解常系数线性微分方程，分析线性系统的响应特性",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "数学物理方程",
+        "content": "描述物理现象的偏微分方程",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "波动方程",
+            "content": "描述波动现象的偏微分方程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "一维波动方程",
+                "content": "∂²u/∂t²=c²∂²u/∂x²，描述弦振动等一维波动",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "三维波动方程",
+                "content": "∂²u/∂t²=c²∇²u，描述声波、电磁波等三维波动",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "热传导方程",
+            "content": "描述热传导和扩散过程的方程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "一维热传导方程",
+                "content": "∂u/∂t=a²∂²u/∂x²，描述杆状物体的热传导",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "分离变量法求解",
+                "content": "通过假设u(x,t)=X(x)T(t)将偏微分方程化为常微分方程求解",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "特殊函数",
+        "content": "在求解数学物理方程过程中出现的特殊函数",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "贝塞尔函数",
+            "content": "贝塞尔方程的解，出现在柱坐标系下的波动方程和热传导方程中",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "贝塞尔方程",
+                "content": "x²y''+xy'+(x²-ν²)y=0，其中ν为阶数",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "贝塞尔函数的性质",
+                "content": "正交性、递推关系、渐近展开等",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "勒让德多项式",
+            "content": "勒让德方程的解，出现在球坐标系下的拉普拉斯方程中",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "勒让德方程",
+                "content": "(1-x²)y''-2xy'+l(l+1)y=0，其中l为整数",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "勒让德多项式的正交性",
+                "content": "∫Pₗ(x)Pₘ(x)dx=0（当l≠m），用于函数展开",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "复变函数论",
+      "tail": "复数与复变函数",
+      "relation": "包含"
+    },
+    {
+      "head": "复变函数论",
+      "tail": "解析函数",
+      "relation": "包含"
+    },
+    {
+      "head": "复变函数论",
+      "tail": "复变函数积分",
+      "relation": "包含"
+    },
+    {
+      "head": "解析函数",
+      "tail": "柯西-黎曼条件",
+      "relation": "基于"
+    },
+    {
+      "head": "复变函数积分",
+      "tail": "柯西积分定理",
+      "relation": "包含"
+    },
+    {
+      "head": "复变函数积分",
+      "tail": "柯西积分公式",
+      "relation": "包含"
+    },
+    {
+      "head": "积分变换",
+      "tail": "傅里叶变换",
+      "relation": "包含"
+    },
+    {
+      "head": "积分变换",
+      "tail": "拉普拉斯变换",
+      "relation": "包含"
+    },
+    {
+      "head": "拉普拉斯变换",
+      "tail": "微分方程求解",
+      "relation": "应用于"
+    },
+    {
+      "head": "数学物理方程",
+      "tail": "波动方程",
+      "relation": "包含"
+    },
+    {
+      "head": "数学物理方程",
+      "tail": "热传导方程",
+      "relation": "包含"
+    },
+    {
+      "head": "波动方程",
+      "tail": "分离变量法",
+      "relation": "可通过求解"
+    },
+    {
+      "head": "热传导方程",
+      "tail": "分离变量法",
+      "relation": "可通过求解"
+    },
+    {
+      "head": "特殊函数",
+      "tail": "贝塞尔函数",
+      "relation": "包含"
+    },
+    {
+      "head": "特殊函数",
+      "tail": "勒让德多项式",
+      "relation": "包含"
+    },
+    {
+      "head": "贝塞尔函数",
+      "tail": "柱坐标系",
+      "relation": "应用于"
+    },
+    {
+      "head": "勒让德多项式",
+      "tail": "球坐标系",
+      "relation": "应用于"
+    },
+    {
+      "head": "傅里叶变换",
+      "tail": "频域分析",
+      "relation": "实现"
+    },
+    {
+      "head": "柯西积分公式",
+      "tail": "解析函数值计算",
+      "relation": "用于"
+    },
+    {
+      "head": "分离变量法",
+      "tail": "偏微分方程求解",
+      "relation": "方法"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:08:13",
+    "version": "1.1"
+  }
+}

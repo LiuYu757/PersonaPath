@@ -1,0 +1,663 @@
+{
+  "knowledge_tree": {
+    "title": "过程与控制",
+    "content": "六年级信息科技课程，涵盖控制系统的基本概念、工作过程、数据运算、反馈优化、系统描述及人工智能初步认识",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "初识过程与控制",
+        "content": "了解控制系统及其工作过程，认识开与关操作，体验控制过程",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "设备控制处处在",
+            "content": "了解常见设备的控制方法，知道生活中常用设备属于控制系统",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "控制教室里的设备",
+                "content": "通过实际场景操作了解设备控制方法",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "日常生活设备使用",
+                "content": "分享使用设备的经历，分析功能及控制方法",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "公共服务设备",
+                "content": "了解由专门机构控制的公共服务设备",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "一分为二开与关",
+            "content": "了解控制系统状态的切换，描述开与关操作对状态的影响",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "开与关操作方式",
+                "content": "观察各种开关类型及操作方式",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "状态切换算法",
+                "content": "用流程图描述状态切换的算法",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "多状态控制系统",
+                "content": "分析如交通信号灯等多状态系统的控制",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "我是小小控制员",
+            "content": "了解控制系统中控制的作用，体验控制过程",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "角色扮演体验",
+                "content": "通过推车等活动感受控制过程",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "自动控制系统设计",
+                "content": "设计自动送货机器人等控制系统",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "输入输出与计算",
+            "content": "了解控制系统工作过程的三个环节：输入、计算、输出",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "三个环节分析",
+                "content": "分析具体案例中的输入、计算、输出",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "工作过程示意图",
+                "content": "绘制控制系统工作过程示意图",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "计算模式应用",
+                "content": "应用输入-计算-输出模式分析问题",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "数据运算有逻辑",
+        "content": "学习控制系统中数据类型及逻辑运算",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "连续变化的数据",
+            "content": "了解连续量数据及其表现形式，阈值的作用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "连续量概念",
+                "content": "认识如温度、声音等连续变化的数据",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "阈值的作用",
+                "content": "了解阈值在控制系统中的比较作用",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "开关量的真与假",
+            "content": "认识开关量数据，了解非运算规则",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "开关量概念",
+                "content": "认识只有两种状态的开关量数据",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "真值表示",
+                "content": "用真和假表示开关量的状态",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "非运算规则",
+                "content": "学习取反逻辑运算",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "开关量的与运算",
+            "content": "学习与运算规则及其在控制系统中的应用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "与运算概念",
+                "content": "了解需要同时满足条件的逻辑运算",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "真值表分析",
+                "content": "用真值表描述与运算关系",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "实际应用",
+                "content": "分析如人体感应灯等实际应用",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "开关量的或运算",
+            "content": "学习或运算规则及其应用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "或运算概念",
+                "content": "了解满足任一条件的逻辑运算",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "实际应用分析",
+                "content": "分析如智能门锁等应用场景",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "有了反馈更优化",
+        "content": "了解反馈在控制系统中的作用，学习开环和闭环控制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "从人工到自动化",
+            "content": "了解人工控制和自动控制的特点及应用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "人工控制特点",
+                "content": "需要人工干预的控制方式",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "自动控制特点",
+                "content": "无需人工干预的自动控制方式",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "开环控制应用广",
+            "content": "学习开环控制的特点及应用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "开环控制特点",
+                "content": "输出不影响输入的控制方式",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "开环应用案例",
+                "content": "分析如洗衣机、电风扇等开环系统",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "通过反馈知效果",
+            "content": "了解反馈的作用，学习闭环控制",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "反馈概念",
+                "content": "输出结果返回影响输入的过程",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "闭环控制示意图",
+                "content": "绘制含反馈的控制系统工作过程示意图",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "闭环控制助稳定",
+            "content": "学习闭环控制的特点及应用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "闭环控制特点",
+                "content": "具有自我调节能力的控制方式",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "闭环应用案例",
+                "content": "分析如空调、冰箱等闭环系统",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "控制系统的描述",
+        "content": "学习控制系统的组成和描述方法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "控制系统有特点",
+            "content": "了解控制系统的主要特点：整体性、功能性、相关性",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "整体性",
+                "content": "系统由各部分按特定结构组成的整体",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "功能性",
+                "content": "系统具备的特定功能",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "相关性",
+                "content": "系统各部分之间及相关系统之间的关系",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "复杂系统可分解",
+            "content": "学习将复杂系统分解为子系统",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "子系统概念",
+                "content": "大系统中功能相对独立的小系统",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "系统分解方法",
+                "content": "学习如何分解复杂系统",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "模块组装很灵活",
+            "content": "了解模块化设计思想",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "模块概念",
+                "content": "具有特定功能的基本单元",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "模块化优点",
+                "content": "模块化设计的灵活性及维护便利性",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "智能种植有方法",
+        "content": "应用过程与控制知识设计智能种植系统",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "智能种植初探秘",
+            "content": "了解智能种植大棚的功能及子系统",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "设计我的种植园",
+            "content": "设计小型智能种植控制系统",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "土壤湿度控制好",
+            "content": "学习土壤湿度控制系统的工作原理",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "光照温度要适宜",
+            "content": "学习光照和温度控制系统的工作原理",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "电梯运行的控制",
+        "content": "分析电梯控制系统的工作过程",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "找找电梯子系统",
+            "content": "识别电梯系统中的各个子系统",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "到达指定的楼层",
+            "content": "学习电梯运行到指定楼层的控制逻辑",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "电梯门的开与关",
+            "content": "学习电梯门控制的或运算逻辑",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "如果超载电梯停",
+            "content": "学习电梯超载检测的非运算逻辑",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "汽车里的小奥秘",
+        "content": "分析汽车控制子系统的工作过程",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "自动熄灭转向灯",
+            "content": "学习汽车转向灯自动熄灭控制",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "安全带未系提醒",
+            "content": "学习安全带检测提醒系统",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "倒车防撞请注意",
+            "content": "学习倒车防撞报警系统",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "定速巡航的控制",
+            "content": "学习汽车定速巡航控制系统",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "自主可控与安全",
+        "content": "了解控制系统安全及自主可控的重要性",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "使用系统讲安全",
+            "content": "学习控制系统的安全使用规范",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "避免故障保安全",
+            "content": "了解控制系统故障及安全设计",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "自主可控变强大",
+            "content": "学习核心技术自主可控的重要性",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "人工智能再认识",
+        "content": "初步了解人工智能及其应用",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "人与机器的感知",
+            "content": "比较人与机器感知方式的差异",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "机器学习靠数据",
+            "content": "了解机器学习中的数据特征提取和标注",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "机器学习有训练",
+            "content": "了解模型训练和参数调整",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "争当安全小卫士",
+            "content": "学习人工智能安全使用规范",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "控制系统",
+      "tail": "输入",
+      "relation": "包含"
+    },
+    {
+      "head": "控制系统",
+      "tail": "计算",
+      "relation": "包含"
+    },
+    {
+      "head": "控制系统",
+      "tail": "输出",
+      "relation": "包含"
+    },
+    {
+      "head": "输入",
+      "tail": "传感器",
+      "relation": "通过采集"
+    },
+    {
+      "head": "计算",
+      "tail": "逻辑运算",
+      "relation": "基于"
+    },
+    {
+      "head": "输出",
+      "tail": "执行器",
+      "relation": "控制"
+    },
+    {
+      "head": "连续量",
+      "tail": "阈值",
+      "relation": "经由判断形成"
+    },
+    {
+      "head": "阈值",
+      "tail": "开关量",
+      "relation": "生成"
+    },
+    {
+      "head": "开关量",
+      "tail": "非运算",
+      "relation": "应用于"
+    },
+    {
+      "head": "开关量",
+      "tail": "与运算",
+      "relation": "应用于"
+    },
+    {
+      "head": "开关量",
+      "tail": "或运算",
+      "relation": "应用于"
+    },
+    {
+      "head": "开环控制",
+      "tail": "反馈",
+      "relation": "缺乏"
+    },
+    {
+      "head": "闭环控制",
+      "tail": "反馈",
+      "relation": "包含"
+    },
+    {
+      "head": "反馈",
+      "tail": "系统优化",
+      "relation": "用于"
+    },
+    {
+      "head": "复杂系统",
+      "tail": "子系统",
+      "relation": "可分解为"
+    },
+    {
+      "head": "系统",
+      "tail": "模块",
+      "relation": "由组成"
+    },
+    {
+      "head": "模块化设计",
+      "tail": "系统维护",
+      "relation": "便于"
+    },
+    {
+      "head": "智能种植大棚",
+      "tail": "土壤湿度控制",
+      "relation": "包含"
+    },
+    {
+      "head": "智能种植大棚",
+      "tail": "光照控制",
+      "relation": "包含"
+    },
+    {
+      "head": "智能种植大棚",
+      "tail": "温度控制",
+      "relation": "包含"
+    },
+    {
+      "head": "电梯系统",
+      "tail": "呼叫系统",
+      "relation": "包含"
+    },
+    {
+      "head": "电梯系统",
+      "tail": "门控制系统",
+      "relation": "包含"
+    },
+    {
+      "head": "电梯系统",
+      "tail": "超载检测系统",
+      "relation": "包含"
+    },
+    {
+      "head": "汽车系统",
+      "tail": "转向灯控制",
+      "relation": "包含"
+    },
+    {
+      "head": "汽车系统",
+      "tail": "安全带检测",
+      "relation": "包含"
+    },
+    {
+      "head": "汽车系统",
+      "tail": "定速巡航",
+      "relation": "包含"
+    },
+    {
+      "head": "自主可控",
+      "tail": "国家安全",
+      "relation": "关系到"
+    },
+    {
+      "head": "人工智能",
+      "tail": "机器学习",
+      "relation": "基于"
+    },
+    {
+      "head": "机器学习",
+      "tail": "数据特征",
+      "relation": "依赖"
+    },
+    {
+      "head": "机器学习",
+      "tail": "模型训练",
+      "relation": "通过"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 18:10:28",
+    "version": "1.1"
+  }
+}

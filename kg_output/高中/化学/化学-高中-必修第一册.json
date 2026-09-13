@@ -1,0 +1,869 @@
+{
+  "knowledge_tree": {
+    "title": "高中化学必修第一册",
+    "content": "涵盖物质及其变化、海水中的重要元素——钠和氯、铁金属材料、物质结构元素周期律等核心内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一章 物质及其变化",
+        "content": "研究物质的分类、离子反应和氧化还原反应",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第一节 物质的分类及转化",
+            "content": "学习物质的分类方法及不同类别物质间的转化关系",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "物质的分类",
+                "content": "根据组成和性质对物质进行分类",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "树状分类法",
+                    "content": "根据物质的组成进行分类的方法",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "交叉分类法",
+                    "content": "从不同角度对物质进行分类的方法",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "分散系",
+                    "content": "一种或多种物质以粒子形式分散到另一种或多种物质中形成的混合物",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "分散系及其分类",
+                "content": "根据分散质粒子大小对分散系进行分类",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "溶液",
+                    "content": "分散质粒子直径小于1nm的分散系",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "胶体",
+                    "content": "分散质粒子直径为1-100nm的分散系",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "乳浊液或悬浊液",
+                    "content": "分散质粒子直径大于100nm的分散系",
+                    "difficulty": "1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "丁达尔效应",
+                "content": "胶体粒子对光线散射形成光路的现像",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "酸、碱、盐的性质",
+                "content": "同类物质具有相似化学性质",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "物质的转化",
+                "content": "通过化学变化实现物质间的转化",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第二节 离子反应",
+            "content": "学习电解质的概念和离子反应",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电解质的电离",
+                "content": "电解质溶于水或熔融时形成自由移动离子的过程",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "电解质定义",
+                    "content": "在水溶液或熔融状态下能够导电的化合物",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "电离过程",
+                    "content": "电解质形成自由移动离子的过程",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "电离方程式",
+                    "content": "表示电解质电离过程的式子",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "离子反应",
+                "content": "电解质在溶液中的反应实质是离子之间的反应",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "离子方程式",
+                    "content": "用实际参加反应的离子符号表示反应的式子",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "离子方程式书写步骤",
+                    "content": "写、改、删、查四个步骤",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "复分解反应条件",
+                    "content": "生成沉淀、气体或水",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第三节 氧化还原反应",
+            "content": "学习氧化还原反应的概念和本质",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "氧化还原反应的特征",
+                "content": "反应前后元素化合价发生变化",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "氧化还原反应的本质",
+                "content": "电子的转移（得失或偏移）",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "氧化剂和还原剂",
+                "content": "氧化剂得电子被还原，还原剂失电子被氧化",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "常见氧化剂",
+                    "content": "O2、Cl2、浓硫酸、HNO3、KMnO4等",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "常见还原剂",
+                    "content": "活泼金属、C、H2、CO等",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二章 海水中的重要元素——钠和氯",
+        "content": "研究钠、氯及其化合物的性质和物质的量",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第一节 钠及其化合物",
+            "content": "学习钠单质及其重要化合物的性质",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "钠的单质",
+                "content": "活泼金属，具有很强的还原性",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "钠与氧气反应",
+                    "content": "常温生成氧化钠，加热生成过氧化钠",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "钠与水反应",
+                    "content": "剧烈反应生成氢氧化钠和氢气",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "钠的化合物",
+                "content": "氧化钠、过氧化钠、碳酸钠、碳酸氢钠等",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "过氧化钠",
+                    "content": "与水和二氧化碳反应生成氧气",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "碳酸钠和碳酸氢钠",
+                    "content": "性质比较和鉴别方法",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "焰色试验",
+                "content": "通过灼烧时火焰颜色鉴定金属元素",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第二节 氯及其化合物",
+            "content": "学习氯单质及其重要化合物的性质",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "氯气的性质",
+                "content": "黄绿色有刺激性气味的有毒气体",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "与金属反应",
+                    "content": "与大多数金属反应生成氯化物",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "与非金属反应",
+                    "content": "与氢气等非金属反应",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "与水的反应",
+                    "content": "部分反应生成次氯酸",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "氯水的成分",
+                "content": "氯气的水溶液，含多种成分",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "次氯酸的性质",
+                "content": "弱酸、不稳定、强氧化性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "氯气的实验室制法",
+                "content": "二氧化锰与浓盐酸反应",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "氯离子的检验",
+                "content": "用硝酸银溶液和稀硝酸检验",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第三节 物质的量",
+            "content": "学习物质的量及其相关计算",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "物质的量的单位",
+                "content": "摩尔，表示含有一定数目粒子的集合体",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "阿伏加德罗常数",
+                    "content": "1mol粒子集合体所含的粒子数",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "摩尔质量",
+                    "content": "单位物质的量的物质所具有的质量",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "气体摩尔体积",
+                "content": "单位物质的量的气体所占的体积",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "物质的量浓度",
+                "content": "单位体积溶液里所含溶质的物质的量",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "配制一定物质的量浓度的溶液",
+                    "content": "使用容量瓶进行精确配制",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三章 铁金属材料",
+        "content": "研究铁及其化合物和金属材料",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第一节 铁及其化合物",
+            "content": "学习铁单质及其重要化合物的性质",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "铁的单质",
+                "content": "金属元素，化学性质比较活泼",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "铁与水蒸气的反应",
+                    "content": "高温下反应生成四氧化三铁和氢气",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "铁的化合物",
+                "content": "氧化物、氢氧化物、盐等",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "铁的氧化物",
+                    "content": "氧化亚铁、氧化铁、四氧化三铁",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "铁的氢氧化物",
+                    "content": "氢氧化亚铁和氢氧化铁",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "铁盐和亚铁盐",
+                    "content": "Fe2+和Fe3+的相互转化",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "铁离子的检验",
+                "content": "用KSCN溶液检验Fe3+",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第二节 金属材料",
+            "content": "学习合金和常见金属材料",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "合金",
+                "content": "金属与金属或非金属熔合而成的具有金属特性的物质",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "铁合金",
+                    "content": "生铁和钢，根据含碳量分类",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "铝合金",
+                    "content": "铝中加入少量合金元素制成",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "新型合金",
+                "content": "储氢合金、钛合金、形状记忆合金等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "物质的量在化学方程式计算中的应用",
+                "content": "利用物质的量进行化学计算",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第四章 物质结构元素周期律",
+        "content": "学习原子结构、元素周期表和元素周期律",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "第一节 原子结构与元素周期表",
+            "content": "学习原子结构和元素周期表的关系",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "原子结构",
+                "content": "原子由原子核和核外电子构成",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "原子核组成",
+                    "content": "质子和中子",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "质量数",
+                    "content": "质子数和中子数之和",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "核外电子排布",
+                    "content": "电子在核外分层运动",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "元素周期表",
+                "content": "元素按原子序数排列的表格",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "周期",
+                    "content": "具有相同电子层数的元素横排",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "族",
+                    "content": "最外层电子数相同的元素纵列",
+                    "difficulty": "1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "核素和同位素",
+                "content": "具有一定数目质子和中子的原子",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "原子结构与元素性质的关系",
+                "content": "原子结构决定元素性质",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "碱金属元素",
+                    "content": "IA族元素，化学性质相似且有递变性",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "卤族元素",
+                    "content": "VIIA族元素，化学性质相似且有递变性",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第二节 元素周期律",
+            "content": "学习元素性质的周期性变化规律",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "元素性质的周期性变化",
+                "content": "原子核外电子排布、原子半径、化合价等的周期性变化",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "元素周期律",
+                "content": "元素性质随原子序数递增呈周期性变化",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "元素周期表和元素周期律的应用",
+                "content": "预测元素性质、寻找新材料等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第三节 化学键",
+            "content": "学习离子键和共价键",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "离子键",
+                "content": "阴、阳离子之间通过静电作用形成的化学键",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "共价键",
+                "content": "原子间通过共用电子对形成的化学键",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "非极性共价键",
+                    "content": "共用电子对不偏移的共价键",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "极性共价键",
+                    "content": "共用电子对偏移的共价键",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "化学键",
+                "content": "相邻原子之间强烈的相互作用",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "分子间作用力",
+                "content": "分子之间存在的一种较弱的作用力",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "物质的分类",
+      "tail": "树状分类法",
+      "relation": "采用"
+    },
+    {
+      "head": "物质的分类",
+      "tail": "交叉分类法",
+      "relation": "采用"
+    },
+    {
+      "head": "分散系",
+      "tail": "溶液",
+      "relation": "包含"
+    },
+    {
+      "head": "分散系",
+      "tail": "胶体",
+      "relation": "包含"
+    },
+    {
+      "head": "分散系",
+      "tail": "乳浊液或悬浊液",
+      "relation": "包含"
+    },
+    {
+      "head": "胶体",
+      "tail": "丁达尔效应",
+      "relation": "具有"
+    },
+    {
+      "head": "酸",
+      "tail": "H+",
+      "relation": "电离出"
+    },
+    {
+      "head": "碱",
+      "tail": "OH-",
+      "relation": "电离出"
+    },
+    {
+      "head": "电解质",
+      "tail": "电离",
+      "relation": "发生"
+    },
+    {
+      "head": "离子反应",
+      "tail": "离子方程式",
+      "relation": "用表示"
+    },
+    {
+      "head": "复分解反应",
+      "tail": "生成沉淀",
+      "relation": "条件之一"
+    },
+    {
+      "head": "复分解反应",
+      "tail": "放出气体",
+      "relation": "条件之一"
+    },
+    {
+      "head": "复分解反应",
+      "tail": "生成水",
+      "relation": "条件之一"
+    },
+    {
+      "head": "氧化还原反应",
+      "tail": "化合价变化",
+      "relation": "特征"
+    },
+    {
+      "head": "氧化还原反应",
+      "tail": "电子转移",
+      "relation": "本质"
+    },
+    {
+      "head": "氧化剂",
+      "tail": "得电子",
+      "relation": "性质"
+    },
+    {
+      "head": "还原剂",
+      "tail": "失电子",
+      "relation": "性质"
+    },
+    {
+      "head": "钠",
+      "tail": "氧化钠",
+      "relation": "与氧气反应生成"
+    },
+    {
+      "head": "钠",
+      "tail": "过氧化钠",
+      "relation": "与氧气反应生成"
+    },
+    {
+      "head": "钠",
+      "tail": "氢氧化钠",
+      "relation": "与水反应生成"
+    },
+    {
+      "head": "过氧化钠",
+      "tail": "氧气",
+      "relation": "与水反应生成"
+    },
+    {
+      "head": "过氧化钠",
+      "tail": "氧气",
+      "relation": "与二氧化碳反应生成"
+    },
+    {
+      "head": "碳酸氢钠",
+      "tail": "碳酸钠",
+      "relation": "受热分解生成"
+    },
+    {
+      "head": "氯气",
+      "tail": "氯化钠",
+      "relation": "与钠反应生成"
+    },
+    {
+      "head": "氯气",
+      "tail": "氯化氢",
+      "relation": "与氢气反应生成"
+    },
+    {
+      "head": "氯气",
+      "tail": "次氯酸",
+      "relation": "与水反应生成"
+    },
+    {
+      "head": "次氯酸",
+      "tail": "盐酸",
+      "relation": "光照分解生成"
+    },
+    {
+      "head": "氯气",
+      "tail": "次氯酸钠",
+      "relation": "与氢氧化钠反应生成"
+    },
+    {
+      "head": "氯气",
+      "tail": "次氯酸钙",
+      "relation": "与氢氧化钙反应生成"
+    },
+    {
+      "head": "物质的量",
+      "tail": "阿伏加德罗常数",
+      "relation": "与相关"
+    },
+    {
+      "head": "物质的量",
+      "tail": "摩尔质量",
+      "relation": "与相关"
+    },
+    {
+      "head": "气体摩尔体积",
+      "tail": "标准状况",
+      "relation": "在特定条件下测定"
+    },
+    {
+      "head": "物质的量浓度",
+      "tail": "溶液配制",
+      "relation": "用于"
+    },
+    {
+      "head": "铁",
+      "tail": "四氧化三铁",
+      "relation": "与水蒸气反应生成"
+    },
+    {
+      "head": "氢氧化亚铁",
+      "tail": "氢氧化铁",
+      "relation": "被氧气氧化生成"
+    },
+    {
+      "head": "Fe3+",
+      "tail": "Fe2+",
+      "relation": "与铁反应转化为"
+    },
+    {
+      "head": "Fe2+",
+      "tail": "Fe3+",
+      "relation": "与氯气反应转化为"
+    },
+    {
+      "head": "合金",
+      "tail": "金属材料",
+      "relation": "属于"
+    },
+    {
+      "head": "生铁",
+      "tail": "钢",
+      "relation": "根据含碳量区分"
+    },
+    {
+      "head": "原子",
+      "tail": "原子核",
+      "relation": "由构成"
+    },
+    {
+      "head": "原子核",
+      "tail": "质子",
+      "relation": "由构成"
+    },
+    {
+      "head": "原子核",
+      "tail": "中子",
+      "relation": "由构成"
+    },
+    {
+      "head": "质量数",
+      "tail": "质子数",
+      "relation": "等于加中子数"
+    },
+    {
+      "head": "元素周期表",
+      "tail": "周期",
+      "relation": "包含"
+    },
+    {
+      "head": "元素周期表",
+      "tail": "族",
+      "relation": "包含"
+    },
+    {
+      "head": "核素",
+      "tail": "同位素",
+      "relation": "互称为"
+    },
+    {
+      "head": "碱金属元素",
+      "tail": "最外层电子数",
+      "relation": "具有相同的"
+    },
+    {
+      "head": "卤族元素",
+      "tail": "最外层电子数",
+      "relation": "具有相同的"
+    },
+    {
+      "head": "元素周期律",
+      "tail": "原子序数",
+      "relation": "随递增呈现"
+    },
+    {
+      "head": "离子键",
+      "tail": "阴、阳离子",
+      "relation": "通过静电作用形成"
+    },
+    {
+      "head": "共价键",
+      "tail": "共用电子对",
+      "relation": "通过形成"
+    },
+    {
+      "head": "非极性共价键",
+      "tail": "同种原子",
+      "relation": "由形成"
+    },
+    {
+      "head": "极性共价键",
+      "tail": "不同种原子",
+      "relation": "由形成"
+    },
+    {
+      "head": "化学键",
+      "tail": "相邻原子",
+      "relation": "存在于之间"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:53:37",
+    "version": "1.1"
+  }
+}

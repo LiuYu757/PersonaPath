@@ -1,0 +1,568 @@
+{
+  "knowledge_tree": {
+    "title": "社会学概论新修",
+    "content": "社会学的基本概念、理论、方法及其应用",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "社会学的定义与研究对象",
+        "content": "社会学是研究社会结构、社会关系、社会行为及其变迁的科学",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "社会学的定义",
+            "content": "社会学是系统研究社会行为、社会结构、社会关系及其变迁的学科",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "社会学的研究对象",
+            "content": "包括社会结构、社会制度、社会互动、社会变迁等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "社会学的学科特点",
+            "content": "整体性、综合性、实证性、批判性",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "社会学的产生与发展",
+        "content": "社会学作为独立学科的形成过程及其主要发展阶段",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "社会学的产生背景",
+            "content": "工业革命、政治革命、科学革命等社会变革的产物",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "古典社会学理论",
+            "content": "孔德、斯宾塞、马克思、涂尔干、韦伯等奠基人的理论",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "孔德的社会学思想",
+                "content": "提出社会学概念，倡导实证主义，提出社会发展三阶段律",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "马克思的社会冲突理论",
+                "content": "强调阶级斗争是社会发展的动力，提出历史唯物主义",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "涂尔干的社会事实论",
+                "content": "强调社会事实的客观性，研究社会团结与社会分工",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "韦伯的理解社会学",
+                "content": "强调社会行动的意义理解，提出权威类型与科层制理论",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "现代社会学理论",
+            "content": "功能主义、冲突理论、符号互动论、交换理论等",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "社会学研究方法",
+        "content": "社会学研究的基本程序、方法与技术",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "社会学研究的基本程序",
+            "content": "选题、文献回顾、研究设计、资料收集、资料分析、得出结论",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "定量研究方法",
+            "content": "通过数量化资料进行统计分析的研究方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "问卷调查法",
+                "content": "通过问卷收集大量标准化资料的方法",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "实验法",
+                "content": "通过控制变量研究因果关系的方法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "统计分析方法",
+                "content": "对数量化资料进行描述和推断的统计技术",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "定性研究方法",
+            "content": "通过非数量化资料进行深入理解的研究方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "参与观察法",
+                "content": "研究者深入研究对象生活进行观察的方法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "深度访谈法",
+                "content": "通过与研究对象深入交谈获取资料的方法",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "个案研究法",
+                "content": "对单个对象或事件进行深入全面研究的方法",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "文化与社会",
+        "content": "文化的概念、结构与功能，文化与社会的关系",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "文化的概念与特征",
+            "content": "文化是人类创造的物质与精神成果的总和，具有共享性、习得性、象征性等特征",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "文化的结构",
+            "content": "包括物质文化、制度文化、精神文化三个层次",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "文化的功能",
+            "content": "满足需要、规范行为、整合社会、传递知识等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "文化变迁",
+            "content": "文化内容与结构随时间推移而发生的变化",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "社会化",
+        "content": "个体学习社会文化、内化社会规范、适应社会生活的过程",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "社会化的概念与意义",
+            "content": "个体从生物人转变为社会人的过程，是社会延续和发展的基础",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "社会化的类型",
+            "content": "初级社会化、预期社会化、发展社会化、再社会化等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "社会化的机构",
+            "content": "家庭、学校、同辈群体、大众传媒等社会化主体",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "社会化的理论",
+            "content": "库利的镜中我理论、米德的自我发展理论、弗洛伊德的人格发展理论等",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "社会互动与社会结构",
+        "content": "社会互动的形式与过程，社会结构的构成与特征",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "社会互动的概念",
+            "content": "个人与个人、个人与群体、群体与群体之间相互影响的社会行动",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "社会互动的形式",
+            "content": "合作、竞争、冲突、顺应、强制等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "社会结构的要素",
+            "content": "地位、角色、群体、制度等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "社会地位",
+                "content": "个人在社会关系体系中所处的位置",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "社会角色",
+                "content": "与特定社会地位相关联的行为模式",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "社会群体",
+                "content": "通过持续互动结合而成的社会共同体",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "社会制度",
+                "content": "规范社会关系、指导社会行为的稳定体系",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "社会分层与社会流动",
+        "content": "社会不平等的结构与过程，社会地位的变动机制",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "社会分层的概念",
+            "content": "社会成员被区分为不同等级层次的现象",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "社会分层理论",
+            "content": "马克思的阶级理论、韦伯的三元分层理论、功能主义分层理论等",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "社会流动的类型",
+            "content": "垂直流动、水平流动、代内流动、代际流动等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "社会流动的影响因素",
+            "content": "教育、职业、家庭背景、社会制度等",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "社会变迁与现代化",
+        "content": "社会结构与社会生活方式的变革过程",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "社会变迁的概念",
+            "content": "社会结构、社会制度、社会关系等发生的变化",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "社会变迁的类型",
+            "content": "渐进变迁与激进变迁、整体变迁与局部变迁、进步变迁与倒退变迁等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "社会变迁的动力",
+            "content": "技术发明、经济发展、文化传播、社会冲突等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "现代化理论",
+            "content": "传统社会向现代社会转变的理论解释",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "社会问题与社会控制",
+        "content": "社会运行中的失调现象及其调控机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "社会问题的特征",
+            "content": "普遍性、破坏性、复杂性、持续性等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "主要社会问题",
+            "content": "贫困、犯罪、环境污染、人口问题等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "社会控制的手段",
+            "content": "法律、道德、习俗、宗教、舆论等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "越轨行为的社会学解释",
+            "content": "标签理论、差异交往理论、紧张理论等",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "社会学",
+      "tail": "社会结构",
+      "relation": "研究"
+    },
+    {
+      "head": "社会学",
+      "tail": "社会关系",
+      "relation": "研究"
+    },
+    {
+      "head": "社会学",
+      "tail": "社会行为",
+      "relation": "研究"
+    },
+    {
+      "head": "社会学",
+      "tail": "社会变迁",
+      "relation": "研究"
+    },
+    {
+      "head": "孔德",
+      "tail": "实证主义",
+      "relation": "倡导"
+    },
+    {
+      "head": "马克思",
+      "tail": "阶级斗争",
+      "relation": "强调"
+    },
+    {
+      "head": "涂尔干",
+      "tail": "社会事实",
+      "relation": "强调"
+    },
+    {
+      "head": "韦伯",
+      "tail": "社会行动",
+      "relation": "强调"
+    },
+    {
+      "head": "定量研究方法",
+      "tail": "问卷调查法",
+      "relation": "包含"
+    },
+    {
+      "head": "定量研究方法",
+      "tail": "实验法",
+      "relation": "包含"
+    },
+    {
+      "head": "定量研究方法",
+      "tail": "统计分析方法",
+      "relation": "包含"
+    },
+    {
+      "head": "定性研究方法",
+      "tail": "参与观察法",
+      "relation": "包含"
+    },
+    {
+      "head": "定性研究方法",
+      "tail": "深度访谈法",
+      "relation": "包含"
+    },
+    {
+      "head": "定性研究方法",
+      "tail": "个案研究法",
+      "relation": "包含"
+    },
+    {
+      "head": "文化",
+      "tail": "物质文化",
+      "relation": "包含"
+    },
+    {
+      "head": "文化",
+      "tail": "制度文化",
+      "relation": "包含"
+    },
+    {
+      "head": "文化",
+      "tail": "精神文化",
+      "relation": "包含"
+    },
+    {
+      "head": "社会化",
+      "tail": "初级社会化",
+      "relation": "包含类型"
+    },
+    {
+      "head": "社会化",
+      "tail": "再社会化",
+      "relation": "包含类型"
+    },
+    {
+      "head": "家庭",
+      "tail": "社会化",
+      "relation": "促进"
+    },
+    {
+      "head": "学校",
+      "tail": "社会化",
+      "relation": "促进"
+    },
+    {
+      "head": "库利",
+      "tail": "镜中我理论",
+      "relation": "提出"
+    },
+    {
+      "head": "米德",
+      "tail": "自我发展理论",
+      "relation": "提出"
+    },
+    {
+      "head": "社会互动",
+      "tail": "合作",
+      "relation": "包含形式"
+    },
+    {
+      "head": "社会互动",
+      "tail": "竞争",
+      "relation": "包含形式"
+    },
+    {
+      "head": "社会互动",
+      "tail": "冲突",
+      "relation": "包含形式"
+    },
+    {
+      "head": "社会结构",
+      "tail": "社会地位",
+      "relation": "由...组成"
+    },
+    {
+      "head": "社会结构",
+      "tail": "社会角色",
+      "relation": "由...组成"
+    },
+    {
+      "head": "社会结构",
+      "tail": "社会群体",
+      "relation": "由...组成"
+    },
+    {
+      "head": "社会结构",
+      "tail": "社会制度",
+      "relation": "由...组成"
+    },
+    {
+      "head": "社会分层",
+      "tail": "马克思的阶级理论",
+      "relation": "基于"
+    },
+    {
+      "head": "社会分层",
+      "tail": "韦伯的三元分层理论",
+      "relation": "基于"
+    },
+    {
+      "head": "社会流动",
+      "tail": "垂直流动",
+      "relation": "包含类型"
+    },
+    {
+      "head": "社会流动",
+      "tail": "水平流动",
+      "relation": "包含类型"
+    },
+    {
+      "head": "教育",
+      "tail": "社会流动",
+      "relation": "影响"
+    },
+    {
+      "head": "社会变迁",
+      "tail": "技术发明",
+      "relation": "受...驱动"
+    },
+    {
+      "head": "社会变迁",
+      "tail": "经济发展",
+      "relation": "受...驱动"
+    },
+    {
+      "head": "社会问题",
+      "tail": "贫困",
+      "relation": "包含"
+    },
+    {
+      "head": "社会问题",
+      "tail": "犯罪",
+      "relation": "包含"
+    },
+    {
+      "head": "社会控制",
+      "tail": "法律",
+      "relation": "通过...实现"
+    },
+    {
+      "head": "社会控制",
+      "tail": "道德",
+      "relation": "通过...实现"
+    },
+    {
+      "head": "标签理论",
+      "tail": "越轨行为",
+      "relation": "解释"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:39:29",
+    "version": "1.1"
+  }
+}

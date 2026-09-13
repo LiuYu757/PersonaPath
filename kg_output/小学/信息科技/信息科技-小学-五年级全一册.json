@@ -1,0 +1,184 @@
+{
+  "knowledge_tree": {
+    "title": "重复操作用循环",
+    "content": "认识循环结构及其在生活中的应用，包括交通信号灯控制、温度控制等场景",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "循环结构的基本概念",
+        "content": "需要反复执行的步骤称为循环结构",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "循环结构的定义",
+            "content": "在算法中需要重复执行的操作步骤",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "循环结构的识别",
+            "content": "通过观察找出需要反复执行的操作步骤",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "行人过红绿灯算法",
+        "content": "用算法描述行人通过红绿灯路口的步骤",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "基本步骤描述",
+            "content": "1.到达路口 2.观察红绿灯 3.等待绿灯亮起 4.开始过马路 5.到达对面",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "顺序结构应用",
+            "content": "过马路步骤是按顺序依次执行各个步骤的顺序结构",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "循环结构应用",
+            "content": "'观察并等待绿灯亮'步骤需要反复执行，直到绿灯亮起",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "流程图表示方法",
+        "content": "用流程图直观描述算法结构",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "流程图基本符号",
+            "content": "开始/结束框、处理框、判断框、流程线等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "条件判断框",
+            "content": "菱形框表示需要进行条件判断",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "循环结构流程图",
+            "content": "用判断框和返回箭头表示循环执行",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "交通信号灯控制系统",
+        "content": "红绿灯时长设置的算法原理",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "固定时长设置",
+            "content": "早期红绿灯采用固定时长的设置方式",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "智能时长调整",
+            "content": "根据实时交通流量数据动态调整红绿灯时长",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "数据采集与处理",
+            "content": "通过摄像装置采集图像视频数据，计算处理获得实时交通流量",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "循环结构应用实例",
+        "content": "生活中常见的循环结构应用场景",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "热水壶自动断电",
+            "content": "水温达到100℃时自动断电的循环控制",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "空调温度控制",
+            "content": "实时获取室内温度并与预设值比较的循环控制",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "机动车信号灯控制",
+            "content": "红绿灯交替变换中的循环结构",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "循环结构",
+      "tail": "行人过红绿灯算法",
+      "relation": "应用于"
+    },
+    {
+      "head": "流程图",
+      "tail": "循环结构",
+      "relation": "用于描述"
+    },
+    {
+      "head": "条件判断框",
+      "tail": "循环结构",
+      "relation": "组成要素"
+    },
+    {
+      "head": "交通信号灯控制系统",
+      "tail": "循环结构",
+      "relation": "基于"
+    },
+    {
+      "head": "智能时长调整",
+      "tail": "数据采集与处理",
+      "relation": "依赖于"
+    },
+    {
+      "head": "空调温度控制",
+      "tail": "循环结构",
+      "relation": "应用实例"
+    },
+    {
+      "head": "热水壶自动断电",
+      "tail": "条件判断",
+      "relation": "包含"
+    },
+    {
+      "head": "机动车信号灯控制",
+      "tail": "循环结构",
+      "relation": "体现"
+    },
+    {
+      "head": "顺序结构",
+      "tail": "循环结构",
+      "relation": "算法结构类型"
+    },
+    {
+      "head": "算法描述",
+      "tail": "流程图",
+      "relation": "使用工具"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 18:04:16",
+    "version": "1.1"
+  }
+}

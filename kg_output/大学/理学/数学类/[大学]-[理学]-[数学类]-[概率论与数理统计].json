@@ -1,0 +1,547 @@
+{
+  "knowledge_tree": {
+    "title": "概率论与数理统计",
+    "content": "研究随机现象统计规律性的数学学科，包括概率论基础、随机变量及其分布、数字特征、大数定律与中心极限定理、数理统计基础、参数估计与假设检验等核心内容。",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "随机事件及其概率",
+        "content": "研究随机试验、样本空间、随机事件的定义、关系与运算，以及概率的公理化定义、古典概型、几何概型等基本概率模型。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "随机试验与样本空间",
+            "content": "随机试验是在相同条件下可重复进行、试验结果不止一个且无法预知的试验。样本空间是随机试验所有可能结果的集合。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "随机事件",
+            "content": "样本空间的子集称为随机事件。基本事件是单点集，必然事件是全集，不可能事件是空集。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "事件的关系与运算",
+                "content": "包含、相等、和（并）、积（交）、差、互斥（互不相容）、对立（逆事件）。运算满足交换律、结合律、分配律、德摩根律。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "概率的定义与性质",
+            "content": "概率是事件发生可能性大小的度量。公理化定义：非负性、规范性、可列可加性。性质包括有限可加性、减法公式、加法公式等。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "古典概型",
+                "content": "样本点有限且等可能，事件A的概率P(A)=A包含的样本点数/样本点总数。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "几何概型",
+                "content": "样本空间为可度量的几何区域，事件A的概率P(A)=A的几何度量/样本空间的几何度量。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "条件概率与独立性",
+            "content": "条件概率P(A|B)=P(AB)/P(B) (P(B)>0)。事件A与B相互独立当且仅当P(AB)=P(A)P(B)。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "乘法公式",
+                "content": "P(AB)=P(A)P(B|A)=P(B)P(A|B)。可推广到多个事件。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "全概率公式",
+                "content": "若B1,B2,...Bn为样本空间的一个划分，则对任意事件A，有P(A)=ΣP(Bi)P(A|Bi)。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "贝叶斯公式",
+                "content": "若B1,B2,...Bn为样本空间的一个划分，P(A)>0，则P(Bj|A)=P(Bj)P(A|Bj)/ΣP(Bi)P(A|Bi)。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "随机变量及其分布",
+        "content": "引入随机变量将随机事件数量化，研究其概率分布律（离散型）或概率密度函数（连续型）以及分布函数。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "随机变量的定义",
+            "content": "定义在样本空间上的实值函数，其取值随试验结果而定。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "离散型随机变量",
+            "content": "所有可能取值为有限个或可列个的随机变量。用分布律描述：P(X=xk)=pk, k=1,2,...",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "0-1分布",
+                "content": "X~B(1,p)，P(X=k)=p^k(1-p)^(1-k), k=0,1。描述一次伯努利试验。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "二项分布",
+                "content": "X~B(n,p)，P(X=k)=C(n,k)p^k(1-p)^(n-k), k=0,1,...,n。描述n重独立伯努利试验中成功次数。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "泊松分布",
+                "content": "X~P(λ)，P(X=k)=λ^k e^(-λ)/k!, k=0,1,2,...。描述单位时间内稀有事件发生次数。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "几何分布",
+                "content": "P(X=k)=p(1-p)^(k-1), k=1,2,...。描述首次成功所需的试验次数。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "连续型随机变量",
+            "content": "存在非负可积函数f(x)，使得分布函数F(x)=∫(-∞,x)f(t)dt，则称X为连续型随机变量，f(x)为其概率密度函数。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "均匀分布",
+                "content": "X~U(a,b)，f(x)=1/(b-a), x∈[a,b]。在区间内等可能取值。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "指数分布",
+                "content": "X~E(λ)，f(x)=λe^(-λx), x≥0。具有无记忆性，常用于描述寿命。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "正态分布",
+                "content": "X~N(μ,σ^2)，f(x)=1/(√(2π)σ) exp{-(x-μ)^2/(2σ^2)}。最重要的连续分布，中心极限定理的基础。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "分布函数",
+            "content": "F(x)=P(X≤x), x∈R。性质：单调不减、右连续、F(-∞)=0, F(+∞)=1。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "随机变量函数的分布",
+            "content": "已知X的分布，求Y=g(X)的分布。方法：分布函数法（通用）、公式法（g单调且可导）。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "多维随机变量及其分布",
+        "content": "研究两个或以上随机变量构成的向量的联合分布、边缘分布和条件分布，以及随机变量的独立性。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "联合分布函数",
+            "content": "F(x,y)=P(X≤x, Y≤y)。性质类似一维分布函数。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "边缘分布",
+            "content": "由联合分布导出单个随机变量的分布。FX(x)=F(x,+∞), FY(y)=F(+∞,y)。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "条件分布",
+            "content": "在已知一个随机变量取值的条件下，另一个随机变量的分布。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "随机变量的独立性",
+            "content": "X与Y独立当且仅当F(x,y)=FX(x)FY(y)对任意x,y成立。离散型等价于P(X=xi,Y=yj)=P(X=xi)P(Y=yj)；连续型等价于f(x,y)=fX(x)fY(y)。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "两个随机变量函数的分布",
+            "content": "Z=g(X,Y)的分布求法，如Z=X+Y, Z=max(X,Y), Z=X/Y等。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "随机变量的数字特征",
+        "content": "描述随机变量分布特征的数字，包括数学期望、方差、协方差、相关系数、矩等。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "数学期望",
+            "content": "随机变量取值的加权平均，反映其平均水平。离散型：E(X)=Σxk pk；连续型：E(X)=∫xf(x)dx。性质：E(C)=C, E(CX)=CE(X), E(X+Y)=E(X)+E(Y)，若X,Y独立则E(XY)=E(X)E(Y)。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "方差",
+            "content": "D(X)=E[(X-E(X))^2]=E(X^2)-[E(X)]^2，反映随机变量取值与其均值的偏离程度。性质：D(C)=0, D(CX)=C^2D(X), 若X,Y独立则D(X±Y)=D(X)+D(Y)。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "协方差与相关系数",
+            "content": "Cov(X,Y)=E[(X-E(X))(Y-E(Y))]=E(XY)-E(X)E(Y)。ρXY=Cov(X,Y)/√(D(X)D(Y))，衡量X与Y的线性相关程度。|ρXY|≤1。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "矩与协方差矩阵",
+            "content": "k阶原点矩E(X^k)，k阶中心矩E[(X-E(X))^k]。混合矩E(X^k Y^l)。协方差矩阵描述多维随机变量的协方差结构。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "大数定律与中心极限定理",
+        "content": "概率论中最重要的极限定理，揭示了大量随机现象的平均结果的稳定性（大数定律）和正态分布的普遍性（中心极限定理）。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "切比雪夫不等式",
+            "content": "P(|X-E(X)|≥ε) ≤ D(X)/ε^2，对任意ε>0成立。是证明大数定律的工具。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "大数定律",
+            "content": "大量独立同分布随机变量的算术平均值依概率收敛于其数学期望。包括切比雪夫大数定律、伯努利大数定律、辛钦大数定律。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "中心极限定理",
+            "content": "大量独立同分布随机变量的和近似服从正态分布，即ΣXi ~ N(nμ, nσ^2)（近似）。是数理统计中正态假设的理论基础。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数理统计的基础概念",
+        "content": "数理统计研究如何有效地收集、整理和分析带有随机性的数据，以对所考察的问题作出推断或预测。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "总体与样本",
+            "content": "研究对象的全体称为总体，每个对象为个体。从总体中随机抽取的n个个体称为样本，n为样本容量。样本是随机变量。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "统计量",
+            "content": "样本的不含任何未知参数的函数。是随机变量。常用统计量：样本均值、样本方差、样本k阶原点矩、样本k阶中心矩、次序统计量。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "抽样分布",
+            "content": "统计量的分布。是进行统计推断的基础。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "χ²分布",
+                "content": "若X1,...,Xn独立同分布于N(0,1)，则Y=ΣXi²服从自由度为n的χ²分布。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "t分布",
+                "content": "若X~N(0,1), Y~χ²(n)，且X,Y独立，则T=X/√(Y/n)服从自由度为n的t分布。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "F分布",
+                "content": "若U~χ²(n1), V~χ²(n2)，且U,V独立，则F=(U/n1)/(V/n2)服从自由度为(n1, n2)的F分布。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "参数估计",
+        "content": "根据样本对总体分布中的未知参数进行估计。包括点估计和区间估计。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "点估计",
+            "content": "用样本统计量的某个取值直接作为总体参数的估计值。常用方法：矩估计法、最大似然估计法。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "矩估计法",
+                "content": "用样本矩作为总体矩的估计，建立方程求解未知参数。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "最大似然估计法",
+                "content": "选择使样本出现概率最大的参数值作为估计值。通过求解似然方程得到。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "估计量的评价标准",
+                "content": "无偏性、有效性、一致性（相合性）。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "区间估计",
+            "content": "根据样本构造一个区间，使其以一定概率包含未知参数的真值。该概率称为置信水平。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "单个正态总体均值的区间估计",
+                "content": "方差已知用Z统计量，方差未知用t统计量。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "单个正态总体方差的区间估计",
+                "content": "用χ²统计量。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "两个正态总体均值差的区间估计",
+                "content": "方差已知/未知，独立/配对样本等不同情况。",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "两个正态总体方差比的区间估计",
+                "content": "用F统计量。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "假设检验",
+        "content": "先对总体参数或分布形式提出假设，然后利用样本信息判断假设是否成立。基本思想是小概率原理。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "假设检验的基本概念",
+            "content": "原假设H0与备择假设H1，检验统计量，拒绝域，显著性水平α，两类错误（弃真α，取伪β）。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "单个正态总体参数的假设检验",
+            "content": "均值的检验（Z检验，t检验），方差的检验（χ²检验）。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "两个正态总体参数的假设检验",
+            "content": "均值差的检验（Z检验，t检验），方差比的检验（F检验）。",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "非参数检验",
+            "content": "总体分布形式未知时的检验，如拟合优度检验（χ²检验）、独立性检验等。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "随机事件",
+      "tail": "样本空间",
+      "relation": "定义于"
+    },
+    {
+      "head": "概率",
+      "tail": "随机事件",
+      "relation": "度量其发生可能性"
+    },
+    {
+      "head": "条件概率",
+      "tail": "概率",
+      "relation": "基于事件发生条件的特殊形式"
+    },
+    {
+      "head": "贝叶斯公式",
+      "tail": "条件概率",
+      "relation": "由...推导"
+    },
+    {
+      "head": "全概率公式",
+      "tail": "条件概率",
+      "relation": "由...推导"
+    },
+    {
+      "head": "随机变量",
+      "tail": "随机事件",
+      "relation": "将...数量化"
+    },
+    {
+      "head": "分布函数",
+      "tail": "随机变量",
+      "relation": "描述其概率分布"
+    },
+    {
+      "head": "离散型随机变量",
+      "tail": "分布律",
+      "relation": "用...描述其分布"
+    },
+    {
+      "head": "连续型随机变量",
+      "tail": "概率密度函数",
+      "relation": "用...描述其分布"
+    },
+    {
+      "head": "二项分布",
+      "tail": "0-1分布",
+      "relation": "由...推广而来"
+    },
+    {
+      "head": "正态分布",
+      "tail": "中心极限定理",
+      "relation": "是...的理论基础"
+    },
+    {
+      "head": "数学期望",
+      "tail": "随机变量",
+      "relation": "描述其平均水平"
+    },
+    {
+      "head": "方差",
+      "tail": "数学期望",
+      "relation": "基于...定义"
+    },
+    {
+      "head": "协方差",
+      "tail": "数学期望",
+      "relation": "基于...定义"
+    },
+    {
+      "head": "大数定律",
+      "tail": "切比雪夫不等式",
+      "relation": "利用...证明"
+    },
+    {
+      "head": "总体",
+      "tail": "样本",
+      "relation": "从中抽取"
+    },
+    {
+      "head": "统计量",
+      "tail": "样本",
+      "relation": "由...构造"
+    },
+    {
+      "head": "抽样分布",
+      "tail": "统计量",
+      "relation": "描述其分布"
+    },
+    {
+      "head": "参数估计",
+      "tail": "样本",
+      "relation": "基于...进行"
+    },
+    {
+      "head": "点估计",
+      "tail": "参数估计",
+      "relation": "是...的一种方法"
+    },
+    {
+      "head": "区间估计",
+      "tail": "参数估计",
+      "relation": "是...的一种方法"
+    },
+    {
+      "head": "假设检验",
+      "tail": "小概率原理",
+      "relation": "基于"
+    },
+    {
+      "head": "t检验",
+      "tail": "t分布",
+      "relation": "基于"
+    },
+    {
+      "head": "F检验",
+      "tail": "F分布",
+      "relation": "基于"
+    },
+    {
+      "head": "χ²检验",
+      "tail": "χ²分布",
+      "relation": "基于"
+    },
+    {
+      "head": "最大似然估计",
+      "tail": "似然函数",
+      "relation": "通过最大化...进行"
+    },
+    {
+      "head": "矩估计",
+      "tail": "样本矩",
+      "relation": "利用...进行估计"
+    },
+    {
+      "head": "独立性",
+      "tail": "随机变量",
+      "relation": "描述...间的关系"
+    },
+    {
+      "head": "相关系数",
+      "tail": "协方差",
+      "relation": "由...标准化得到"
+    },
+    {
+      "head": "中心极限定理",
+      "tail": "正态分布",
+      "relation": "解释了...的普遍性"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:01:52",
+    "version": "1.1"
+  }
+}

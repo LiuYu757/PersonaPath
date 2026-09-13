@@ -1,0 +1,1249 @@
+{
+  "knowledge_tree": {
+    "title": "会计学",
+    "content": "会计学是研究财务信息的确认、计量、记录和报告的学科，为经济决策提供信息支持",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "会计基本理论",
+        "content": "会计学的基础理论框架和基本概念体系",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "会计的定义",
+            "content": "会计是以货币为主要计量单位，运用专门的方法，对经济活动进行连续、系统、全面的核算和监督的一种管理活动",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "会计的基本职能",
+            "content": "会计核算和会计监督是会计的两大基本职能",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "会计核算职能",
+                "content": "通过确认、计量、记录和报告等环节，对经济活动进行反映",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "会计监督职能",
+                "content": "对经济活动的合法性、合理性和有效性进行审查和监督",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "会计基本假设",
+            "content": "会计核算的基本前提条件",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "会计主体假设",
+                "content": "会计核算应当以企业发生的各项交易或事项为对象，记录和反映企业本身的各项生产经营活动",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "持续经营假设",
+                "content": "会计核算应当以企业持续、正常的生产经营活动为前提",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "会计分期假设",
+                "content": "将企业持续不断的生产经营活动划分为连续的、长短相同的期间",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "货币计量假设",
+                "content": "会计核算以货币为主要计量单位",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "会计信息质量要求",
+            "content": "会计信息应具备的基本质量特征",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "可靠性",
+                "content": "企业应当以实际发生的交易或事项为依据进行会计确认、计量和报告",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "相关性",
+                "content": "企业提供的会计信息应当与财务会计报告使用者的经济决策需要相关",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "可理解性",
+                "content": "企业提供的会计信息应当清晰明了，便于理解和使用",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "可比性",
+                "content": "企业提供的会计信息应当具有可比性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "实质重于形式",
+                "content": "企业应当按照交易或事项的经济实质进行会计确认、计量和报告",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "重要性",
+                "content": "企业提供的会计信息应当反映与企业财务状况、经营成果和现金流量等有关的所有重要交易或事项",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "谨慎性",
+                "content": "企业对交易或事项进行会计确认、计量和报告应当保持应有的谨慎",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "及时性",
+                "content": "企业对于已经发生的交易或事项，应当及时进行会计确认、计量和报告，不得提前或延后",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "会计要素与会计等式",
+        "content": "会计要素是对会计对象的基本分类，会计等式反映各要素之间的数量关系",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "资产",
+            "content": "企业过去的交易或事项形成的、由企业拥有或控制的、预期会给企业带来经济利益的资源",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "流动资产",
+                "content": "预计在一个正常营业周期中变现、出售或耗用的资产",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "货币资金",
+                    "content": "库存现金、银行存款和其他货币资金",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "应收账款",
+                    "content": "企业因销售商品、提供劳务等经营活动应收取的款项",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "存货",
+                    "content": "企业在日常活动中持有以备出售的产成品或商品、处在生产过程中的在产品等",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "非流动资产",
+                "content": "流动资产以外的资产",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "固定资产",
+                    "content": "为生产商品、提供劳务、出租或经营管理而持有的，使用寿命超过一个会计年度的有形资产",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "无形资产",
+                    "content": "企业拥有或控制的没有实物形态的可辨认非货币性资产",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "负债",
+            "content": "企业过去的交易或事项形成的、预期会导致经济利益流出企业的现时义务",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "流动负债",
+                "content": "预计在一个正常营业周期中清偿的负债",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "应付账款",
+                    "content": "企业因购买材料、商品或接受劳务供应等经营活动应支付的款项",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "短期借款",
+                    "content": "企业向银行或其他金融机构等借入的期限在一年以下的各种借款",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "非流动负债",
+                "content": "流动负债以外的负债",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "长期借款",
+                    "content": "企业向银行或其他金融机构借入的期限在一年以上的各项借款",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "应付债券",
+                    "content": "企业为筹集长期资金而发行的债券",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "所有者权益",
+            "content": "企业资产扣除负债后由所有者享有的剩余权益",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "实收资本",
+                "content": "投资者按照企业章程或合同、协议的约定，实际投入企业的资本",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "资本公积",
+                "content": "企业收到投资者出资超出其在注册资本或股本中所占份额的部分",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "留存收益",
+                "content": "企业历年实现的净利润留存于企业的部分",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "盈余公积",
+                    "content": "企业按照规定从净利润中提取的各种积累资金",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "未分配利润",
+                    "content": "企业实现的净利润经过弥补亏损、提取盈余公积和向投资者分配利润后留存在企业的、历年结存的利润",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "收入",
+            "content": "企业在日常活动中形成的、会导致所有者权益增加的、与所有者投入资本无关的经济利益的总流入",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "主营业务收入",
+                "content": "企业为完成其经营目标所从事的经常性活动实现的收入",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "其他业务收入",
+                "content": "企业除主营业务活动以外的其他经营活动实现的收入",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "费用",
+            "content": "企业在日常活动中发生的、会导致所有者权益减少的、与向所有者分配利润无关的经济利益的总流出",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "营业成本",
+                "content": "企业确认销售商品、提供劳务等主营业务收入时应结转的成本",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "期间费用",
+                "content": "企业本期发生的、不能直接或间接归入营业成本，而是直接计入当期损益的各项费用",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "销售费用",
+                    "content": "企业销售商品和材料、提供劳务的过程中发生的各种费用",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "管理费用",
+                    "content": "企业为组织和管理企业生产经营所发生的管理费用",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "财务费用",
+                    "content": "企业为筹集生产经营所需资金等而发生的筹资费用",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "利润",
+            "content": "企业在一定会计期间的经营成果",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "营业利润",
+                "content": "营业收入减去营业成本、税金及附加、期间费用、资产减值损失，加上公允价值变动收益和投资收益后的金额",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "利润总额",
+                "content": "营业利润加上营业外收入，减去营业外支出后的金额",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "净利润",
+                "content": "利润总额减去所得税费用后的净额",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "会计基本等式",
+            "content": "资产=负债+所有者权益",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "静态会计等式",
+                "content": "反映企业在某一特定时点的财务状况",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "动态会计等式",
+                "content": "收入-费用=利润，反映企业在一定会计期间的经营成果",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "会计核算方法",
+        "content": "会计确认、计量、记录和报告的具体方法和技术",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "会计科目与账户",
+            "content": "对会计要素的具体内容进行分类核算的项目",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "资产类科目",
+                "content": "反映企业资产增减变动的会计科目",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "负债类科目",
+                "content": "反映企业负债增减变动的会计科目",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "所有者权益类科目",
+                "content": "反映企业所有者权益增减变动的会计科目",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "成本类科目",
+                "content": "反映企业生产成本和劳务成本的会计科目",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "损益类科目",
+                "content": "反映企业收入、费用和利润的会计科目",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "借贷记账法",
+            "content": "以借和贷作为记账符号，反映会计要素增减变动情况的一种复式记账方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "记账规则",
+                "content": "有借必有贷，借贷必相等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "账户结构",
+                "content": "资产类账户借方登记增加，贷方登记减少；负债和所有者权益类账户贷方登记增加，借方登记减少",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "试算平衡",
+                "content": "根据资产与权益的恒等关系以及借贷记账法的记账规则，检查所有账户记录是否正确的过程",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "会计凭证",
+            "content": "记录经济业务、明确经济责任的书面证明，是登记账簿的依据",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "原始凭证",
+                "content": "在经济业务发生或完成时取得或填制的，用以记录或证明经济业务的发生或完成情况的原始凭据",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "记账凭证",
+                "content": "会计人员根据审核无误的原始凭证，按照经济业务事项的内容加以归类，并据以确定会计分录后所填制的会计凭证",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "会计账簿",
+            "content": "由一定格式的账页组成的，以经过审核的会计凭证为依据，全面、系统、连续地记录各项经济业务的簿籍",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "总分类账",
+                "content": "按照总分类账户分类登记经济业务事项的账簿",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "明细分类账",
+                "content": "按照明细分类账户分类登记经济业务事项的账簿",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "日记账",
+                "content": "按照经济业务发生时间的先后顺序逐日逐笔登记的账簿",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "财产清查",
+            "content": "通过对货币资金、实物资产和往来款项的盘点或核对，确定其实存数，查明账存数与实存数是否相符的一种专门方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "永续盘存制",
+                "content": "通过设置详细的存货明细账，逐笔或逐日地记录收入、发出的存货，并随时结出结余存货的数量和金额的盘存方法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "实地盘存制",
+                "content": "会计期末通过对全部存货进行实地盘点，以确定期末存货的结存数量，然后分别乘以各项存货的盘存单价，计算出期末存货的总金额的盘存方法",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "财务报表编制",
+            "content": "根据账簿记录和其他有关资料，按照规定的格式和内容，定期编制财务报表",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "资产负债表",
+                "content": "反映企业在某一特定日期财务状况的报表",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "利润表",
+                "content": "反映企业在一定会计期间经营成果的报表",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "现金流量表",
+                "content": "反映企业在一定会计期间现金和现金等价物流入和流出的报表",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "所有者权益变动表",
+                "content": "反映构成所有者权益的各组成部分当期的增减变动情况的报表",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "典型业务核算",
+        "content": "企业主要经济业务的会计核算方法",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "筹资业务核算",
+            "content": "企业筹集生产经营所需资金的会计核算",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "吸收投资核算",
+                "content": "企业接受投资者投入资本的会计处理",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "借款业务核算",
+                "content": "企业向银行或其他金融机构借款的会计处理",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "采购业务核算",
+            "content": "企业采购材料、商品等存货的会计核算",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "材料采购成本计算",
+                "content": "计算材料采购过程中发生的买价和采购费用",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "应付账款处理",
+                "content": "采购业务中应付账款的确认和支付",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "生产业务核算",
+            "content": "产品生产过程中各项费用的归集和分配的会计核算",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "材料费用归集",
+                "content": "生产过程中耗用材料的归集和分配",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "人工费用归集",
+                "content": "生产过程中发生的人工费用的归集和分配",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "制造费用分配",
+                "content": "制造费用在不同产品之间的分配",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "完工产品成本计算",
+                "content": "计算完工产品的总成本和单位成本",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "销售业务核算",
+            "content": "企业销售商品、提供劳务等业务的会计核算",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "销售收入确认",
+                "content": "销售商品收入确认的条件和时点",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "销售成本结转",
+                "content": "已销售产品成本的计算和结转",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "销售税金计算",
+                "content": "销售业务应交纳的各项税费的计算",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "利润形成与分配核算",
+            "content": "企业利润的形成和分配过程的会计核算",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "期间损益结转",
+                "content": "将各损益类账户的余额转入本年利润账户",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "所得税费用计算",
+                "content": "计算应交纳的企业所得税",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "利润分配顺序",
+                "content": "弥补亏损、提取盈余公积、向投资者分配利润",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "会计学",
+      "tail": "会计基本理论",
+      "relation": "包含"
+    },
+    {
+      "head": "会计学",
+      "tail": "会计要素与会计等式",
+      "relation": "包含"
+    },
+    {
+      "head": "会计学",
+      "tail": "会计核算方法",
+      "relation": "包含"
+    },
+    {
+      "head": "会计学",
+      "tail": "典型业务核算",
+      "relation": "包含"
+    },
+    {
+      "head": "会计基本理论",
+      "tail": "会计的定义",
+      "relation": "包含"
+    },
+    {
+      "head": "会计基本理论",
+      "tail": "会计的基本职能",
+      "relation": "包含"
+    },
+    {
+      "head": "会计基本理论",
+      "tail": "会计基本假设",
+      "relation": "包含"
+    },
+    {
+      "head": "会计基本理论",
+      "tail": "会计信息质量要求",
+      "relation": "包含"
+    },
+    {
+      "head": "会计的基本职能",
+      "tail": "会计核算职能",
+      "relation": "包含"
+    },
+    {
+      "head": "会计的基本职能",
+      "tail": "会计监督职能",
+      "relation": "包含"
+    },
+    {
+      "head": "会计基本假设",
+      "tail": "会计主体假设",
+      "relation": "包含"
+    },
+    {
+      "head": "会计基本假设",
+      "tail": "持续经营假设",
+      "relation": "包含"
+    },
+    {
+      "head": "会计基本假设",
+      "tail": "会计分期假设",
+      "relation": "包含"
+    },
+    {
+      "head": "会计基本假设",
+      "tail": "货币计量假设",
+      "relation": "包含"
+    },
+    {
+      "head": "会计信息质量要求",
+      "tail": "可靠性",
+      "relation": "包含"
+    },
+    {
+      "head": "会计信息质量要求",
+      "tail": "相关性",
+      "relation": "包含"
+    },
+    {
+      "head": "会计信息质量要求",
+      "tail": "可理解性",
+      "relation": "包含"
+    },
+    {
+      "head": "会计信息质量要求",
+      "tail": "可比性",
+      "relation": "包含"
+    },
+    {
+      "head": "会计信息质量要求",
+      "tail": "实质重于形式",
+      "relation": "包含"
+    },
+    {
+      "head": "会计信息质量要求",
+      "tail": "重要性",
+      "relation": "包含"
+    },
+    {
+      "head": "会计信息质量要求",
+      "tail": "谨慎性",
+      "relation": "包含"
+    },
+    {
+      "head": "会计信息质量要求",
+      "tail": "及时性",
+      "relation": "包含"
+    },
+    {
+      "head": "会计要素与会计等式",
+      "tail": "资产",
+      "relation": "包含"
+    },
+    {
+      "head": "会计要素与会计等式",
+      "tail": "负债",
+      "relation": "包含"
+    },
+    {
+      "head": "会计要素与会计等式",
+      "tail": "所有者权益",
+      "relation": "包含"
+    },
+    {
+      "head": "会计要素与会计等式",
+      "tail": "收入",
+      "relation": "包含"
+    },
+    {
+      "head": "会计要素与会计等式",
+      "tail": "费用",
+      "relation": "包含"
+    },
+    {
+      "head": "会计要素与会计等式",
+      "tail": "利润",
+      "relation": "包含"
+    },
+    {
+      "head": "会计要素与会计等式",
+      "tail": "会计基本等式",
+      "relation": "包含"
+    },
+    {
+      "head": "资产",
+      "tail": "流动资产",
+      "relation": "包含"
+    },
+    {
+      "head": "资产",
+      "tail": "非流动资产",
+      "relation": "包含"
+    },
+    {
+      "head": "流动资产",
+      "tail": "货币资金",
+      "relation": "包含"
+    },
+    {
+      "head": "流动资产",
+      "tail": "应收账款",
+      "relation": "包含"
+    },
+    {
+      "head": "流动资产",
+      "tail": "存货",
+      "relation": "包含"
+    },
+    {
+      "head": "非流动资产",
+      "tail": "固定资产",
+      "relation": "包含"
+    },
+    {
+      "head": "非流动资产",
+      "tail": "无形资产",
+      "relation": "包含"
+    },
+    {
+      "head": "负债",
+      "tail": "流动负债",
+      "relation": "包含"
+    },
+    {
+      "head": "负债",
+      "tail": "非流动负债",
+      "relation": "包含"
+    },
+    {
+      "head": "流动负债",
+      "tail": "应付账款",
+      "relation": "包含"
+    },
+    {
+      "head": "流动负债",
+      "tail": "短期借款",
+      "relation": "包含"
+    },
+    {
+      "head": "非流动负债",
+      "tail": "长期借款",
+      "relation": "包含"
+    },
+    {
+      "head": "非流动负债",
+      "tail": "应付债券",
+      "relation": "包含"
+    },
+    {
+      "head": "所有者权益",
+      "tail": "实收资本",
+      "relation": "包含"
+    },
+    {
+      "head": "所有者权益",
+      "tail": "资本公积",
+      "relation": "包含"
+    },
+    {
+      "head": "所有者权益",
+      "tail": "留存收益",
+      "relation": "包含"
+    },
+    {
+      "head": "留存收益",
+      "tail": "盈余公积",
+      "relation": "包含"
+    },
+    {
+      "head": "留存收益",
+      "tail": "未分配利润",
+      "relation": "包含"
+    },
+    {
+      "head": "收入",
+      "tail": "主营业务收入",
+      "relation": "包含"
+    },
+    {
+      "head": "收入",
+      "tail": "其他业务收入",
+      "relation": "包含"
+    },
+    {
+      "head": "费用",
+      "tail": "营业成本",
+      "relation": "包含"
+    },
+    {
+      "head": "费用",
+      "tail": "期间费用",
+      "relation": "包含"
+    },
+    {
+      "head": "期间费用",
+      "tail": "销售费用",
+      "relation": "包含"
+    },
+    {
+      "head": "期间费用",
+      "tail": "管理费用",
+      "relation": "包含"
+    },
+    {
+      "head": "期间费用",
+      "tail": "财务费用",
+      "relation": "包含"
+    },
+    {
+      "head": "利润",
+      "tail": "营业利润",
+      "relation": "包含"
+    },
+    {
+      "head": "利润",
+      "tail": "利润总额",
+      "relation": "包含"
+    },
+    {
+      "head": "利润",
+      "tail": "净利润",
+      "relation": "包含"
+    },
+    {
+      "head": "会计基本等式",
+      "tail": "静态会计等式",
+      "relation": "包含"
+    },
+    {
+      "head": "会计基本等式",
+      "tail": "动态会计等式",
+      "relation": "包含"
+    },
+    {
+      "head": "会计核算方法",
+      "tail": "会计科目与账户",
+      "relation": "包含"
+    },
+    {
+      "head": "会计核算方法",
+      "tail": "借贷记账法",
+      "relation": "包含"
+    },
+    {
+      "head": "会计核算方法",
+      "tail": "会计凭证",
+      "relation": "包含"
+    },
+    {
+      "head": "会计核算方法",
+      "tail": "会计账簿",
+      "relation": "包含"
+    },
+    {
+      "head": "会计核算方法",
+      "tail": "财产清查",
+      "relation": "包含"
+    },
+    {
+      "head": "会计核算方法",
+      "tail": "财务报表编制",
+      "relation": "包含"
+    },
+    {
+      "head": "会计科目与账户",
+      "tail": "资产类科目",
+      "relation": "包含"
+    },
+    {
+      "head": "会计科目与账户",
+      "tail": "负债类科目",
+      "relation": "包含"
+    },
+    {
+      "head": "会计科目与账户",
+      "tail": "所有者权益类科目",
+      "relation": "包含"
+    },
+    {
+      "head": "会计科目与账户",
+      "tail": "成本类科目",
+      "relation": "包含"
+    },
+    {
+      "head": "会计科目与账户",
+      "tail": "损益类科目",
+      "relation": "包含"
+    },
+    {
+      "head": "借贷记账法",
+      "tail": "记账规则",
+      "relation": "包含"
+    },
+    {
+      "head": "借贷记账法",
+      "tail": "账户结构",
+      "relation": "包含"
+    },
+    {
+      "head": "借贷记账法",
+      "tail": "试算平衡",
+      "relation": "包含"
+    },
+    {
+      "head": "会计凭证",
+      "tail": "原始凭证",
+      "relation": "包含"
+    },
+    {
+      "head": "会计凭证",
+      "tail": "记账凭证",
+      "relation": "包含"
+    },
+    {
+      "head": "会计账簿",
+      "tail": "总分类账",
+      "relation": "包含"
+    },
+    {
+      "head": "会计账簿",
+      "tail": "明细分类账",
+      "relation": "包含"
+    },
+    {
+      "head": "会计账簿",
+      "tail": "日记账",
+      "relation": "包含"
+    },
+    {
+      "head": "财产清查",
+      "tail": "永续盘存制",
+      "relation": "包含"
+    },
+    {
+      "head": "财产清查",
+      "tail": "实地盘存制",
+      "relation": "包含"
+    },
+    {
+      "head": "财务报表编制",
+      "tail": "资产负债表",
+      "relation": "包含"
+    },
+    {
+      "head": "财务报表编制",
+      "tail": "利润表",
+      "relation": "包含"
+    },
+    {
+      "head": "财务报表编制",
+      "tail": "现金流量表",
+      "relation": "包含"
+    },
+    {
+      "head": "财务报表编制",
+      "tail": "所有者权益变动表",
+      "relation": "包含"
+    },
+    {
+      "head": "典型业务核算",
+      "tail": "筹资业务核算",
+      "relation": "包含"
+    },
+    {
+      "head": "典型业务核算",
+      "tail": "采购业务核算",
+      "relation": "包含"
+    },
+    {
+      "head": "典型业务核算",
+      "tail": "生产业务核算",
+      "relation": "包含"
+    },
+    {
+      "head": "典型业务核算",
+      "tail": "销售业务核算",
+      "relation": "包含"
+    },
+    {
+      "head": "典型业务核算",
+      "tail": "利润形成与分配核算",
+      "relation": "包含"
+    },
+    {
+      "head": "筹资业务核算",
+      "tail": "吸收投资核算",
+      "relation": "包含"
+    },
+    {
+      "head": "筹资业务核算",
+      "tail": "借款业务核算",
+      "relation": "包含"
+    },
+    {
+      "head": "采购业务核算",
+      "tail": "材料采购成本计算",
+      "relation": "包含"
+    },
+    {
+      "head": "采购业务核算",
+      "tail": "应付账款处理",
+      "relation": "包含"
+    },
+    {
+      "head": "生产业务核算",
+      "tail": "材料费用归集",
+      "relation": "包含"
+    },
+    {
+      "head": "生产业务核算",
+      "tail": "人工费用归集",
+      "relation": "包含"
+    },
+    {
+      "head": "生产业务核算",
+      "tail": "制造费用分配",
+      "relation": "包含"
+    },
+    {
+      "head": "生产业务核算",
+      "tail": "完工产品成本计算",
+      "relation": "包含"
+    },
+    {
+      "head": "销售业务核算",
+      "tail": "销售收入确认",
+      "relation": "包含"
+    },
+    {
+      "head": "销售业务核算",
+      "tail": "销售成本结转",
+      "relation": "包含"
+    },
+    {
+      "head": "销售业务核算",
+      "tail": "销售税金计算",
+      "relation": "包含"
+    },
+    {
+      "head": "利润形成与分配核算",
+      "tail": "期间损益结转",
+      "relation": "包含"
+    },
+    {
+      "head": "利润形成与分配核算",
+      "tail": "所得税费用计算",
+      "relation": "包含"
+    },
+    {
+      "head": "利润形成与分配核算",
+      "tail": "利润分配顺序",
+      "relation": "包含"
+    },
+    {
+      "head": "会计基本等式",
+      "tail": "资产负债表",
+      "relation": "应用于"
+    },
+    {
+      "head": "动态会计等式",
+      "tail": "利润表",
+      "relation": "应用于"
+    },
+    {
+      "head": "借贷记账法",
+      "tail": "会计凭证",
+      "relation": "应用于"
+    },
+    {
+      "head": "会计凭证",
+      "tail": "会计账簿",
+      "relation": "登记依据"
+    },
+    {
+      "head": "会计账簿",
+      "tail": "财务报表",
+      "relation": "编制基础"
+    },
+    {
+      "head": "资产",
+      "tail": "负债",
+      "relation": "会计等式关系"
+    },
+    {
+      "head": "资产",
+      "tail": "所有者权益",
+      "relation": "会计等式关系"
+    },
+    {
+      "head": "收入",
+      "tail": "费用",
+      "relation": "利润计算关系"
+    },
+    {
+      "head": "收入",
+      "tail": "利润",
+      "relation": "利润计算关系"
+    },
+    {
+      "head": "费用",
+      "tail": "利润",
+      "relation": "利润计算关系"
+    },
+    {
+      "head": "会计基本假设",
+      "tail": "会计核算",
+      "relation": "前提条件"
+    },
+    {
+      "head": "会计信息质量要求",
+      "tail": "财务报表",
+      "relation": "质量保证"
+    },
+    {
+      "head": "借贷记账法",
+      "tail": "试算平衡",
+      "relation": "验证方法"
+    },
+    {
+      "head": "财产清查",
+      "tail": "账实相符",
+      "relation": "确保目标"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:29:40",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "knowledge_tree": {
+    "title": "数据与数据结构",
+    "content": "普通高中教科书选择性必修1，涵盖数据的基本概念、数据结构类型、算法与数据结构的关系等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "走进数据世界",
+        "content": "深入认识数据及其价值，理解数据作为新的原材料、生产资料和基础设施的意义",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "深入认识数据",
+            "content": "理解数据的概念，分析数据与社会各领域的关系，了解数据安全的重要性",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "数据",
+                "content": "对客观事物的符号化表示，包括数字、字符、图形、图像、音频、视频等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "大数据",
+                "content": "具有巨量性、多样性、迅变性和价值性的数据集合，通过分析可获取新的价值",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "数据安全与隐私保护",
+                "content": "保护数据不被泄露和滥用，遵守信息社会的伦理道德和法律法规",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据的价值",
+            "content": "数据作为新的原材料、生产资料和基础设施的价值与意义",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "数据作为新的原材料",
+                "content": "数据经过加工后能生成新的产品，产生新的价值",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "数据作为新的生产资料",
+                "content": "数据用于开发新价值的生产资料，通过数据挖掘发现潜在价值",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "数据作为新的基础设施",
+                "content": "数据中心作为新的基础设施，为各行各业提供多样化的数据服务",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "初识数据结构",
+        "content": "理解数据结构与数据类型的基本概念，认识数组与链表的存储方式及其比较",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "数据结构与数据类型",
+            "content": "数据结构是相互之间存在特定关系的数据元素的集合，数据类型是值的集合及操作的统称",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "数据结构",
+                "content": "数据元素之间关系的集合，包括逻辑结构和存储结构",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "数据类型",
+                "content": "一组性质相同的值的集合及定义在这个集合上的一组操作的总称",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "抽象数据类型",
+                "content": "数据对象、数据关系及基本操作的集合，用于构造自定义数据类型",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数组与链表",
+            "content": "数组是顺序存储结构，链表是链式存储结构，两者在存储分配、空间性能和时间性能上各有特点",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "数组",
+                "content": "一组具有相同数据类型的数据元素的集合，占用连续的存储空间",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "链表",
+                "content": "由多个节点链接成的序列，通过节点的指针域按逻辑顺序链接",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "数组与链表的比较",
+                "content": "在存储分配方式、空间性能和时间性能上的对比",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "数据结构基本类型",
+        "content": "线性表、栈、队列、字符串和二叉树的基本概念、实现及应用",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "线性表",
+            "content": "由n个相同类型的数据元素组成的有限序列，包括顺序存储和链式存储",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "线性表的概念",
+                "content": "线性表的定义、特点及抽象数据类型",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "线性表的实现",
+                "content": "顺序存储和链式存储的实现方式及基本操作",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "线性表的应用",
+                "content": "利用线性表进行信息分类和管理，如通信录、备忘录等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "栈",
+            "content": "操作受限的线性表，只允许在栈顶进行插入和删除操作，具有后进先出的特点",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "栈的概念",
+                "content": "栈的定义、特点及抽象数据类型",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "栈的实现",
+                "content": "顺序栈和链栈的实现方式及基本操作",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "栈的应用",
+                "content": "用于表达式求值、数制转换、括号匹配检查等",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "队列",
+            "content": "操作受限的线性表，只允许在队尾插入，在队头删除，具有先进先出的特点",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "队列的概念",
+                "content": "队列的定义、特点及抽象数据类型",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "队列的实现",
+                "content": "顺序队列、循环队列和链队列的实现方式及基本操作",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "队列的应用",
+                "content": "用于打印队列、银行排队系统、操作系统管理等",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "字符串",
+            "content": "元素受限的线性表，数据元素均为字符，作为整体进行处理",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "字符串的概念",
+                "content": "字符串的定义、特点及抽象数据类型",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "字符串的基本操作",
+                "content": "求长度、合并、比较、获取子串、定位子串等操作",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "字符串的应用",
+                "content": "用于文档编辑、查找替换、拼写检查等",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "二叉树",
+            "content": "非线性数据结构，每个节点至多有两棵子树，子树有左右之分",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "二叉树的概念",
+                "content": "二叉树的定义、特点及基本术语",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "二叉树的基本操作",
+                "content": "二叉树的遍历方式，包括先根序、中根序和后根序遍历",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "算法与数据结构",
+        "content": "算法与数据结构的关系，迭代法和递归法的概念、特征及应用",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "算法",
+            "content": "算法是描述解决问题过程的方法，与数据结构密切相关",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "算法与问题解决",
+                "content": "使用计算机解决问题的一般过程，包括提出问题、分析问题、设计方案等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "算法与数据结构的关系",
+                "content": "数据结构是算法实现的基础，算法总是依赖于某种数据结构",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "算法分析",
+                "content": "研究算法的效率，包括正确性、可读性、健壮性、时间效率和空间效率",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "迭代法",
+            "content": "通过变量的旧值递推新值的方法，包括确定迭代变量、建立迭代关系式和确定终止条件",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "迭代法的概念与特征",
+                "content": "迭代法的基本思想和要件，如背单词计数、求最大公因数等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "迭代法的应用",
+                "content": "用于排序（如冒泡排序）、查找（如顺序查找）等问题",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "递归法",
+            "content": "通过直接或间接调用自身解决问题的方法，包括递归定义和边界条件",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "递归法的概念与特征",
+                "content": "递归法的基本思想和要件，如阶乘计算、斐波那契数列等",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "递归法的应用",
+                "content": "用于汉诺塔问题、折半查找、分形绘制等",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "数据结构",
+      "tail": "逻辑结构",
+      "relation": "包含"
+    },
+    {
+      "head": "数据结构",
+      "tail": "存储结构",
+      "relation": "包含"
+    },
+    {
+      "head": "逻辑结构",
+      "tail": "线性结构",
+      "relation": "包含"
+    },
+    {
+      "head": "逻辑结构",
+      "tail": "树形结构",
+      "relation": "包含"
+    },
+    {
+      "head": "逻辑结构",
+      "tail": "图状结构",
+      "relation": "包含"
+    },
+    {
+      "head": "线性表",
+      "tail": "顺序表",
+      "relation": "实现方式"
+    },
+    {
+      "head": "线性表",
+      "tail": "链表",
+      "relation": "实现方式"
+    },
+    {
+      "head": "栈",
+      "tail": "顺序栈",
+      "relation": "实现方式"
+    },
+    {
+      "head": "栈",
+      "tail": "链栈",
+      "relation": "实现方式"
+    },
+    {
+      "head": "队列",
+      "tail": "顺序队列",
+      "relation": "实现方式"
+    },
+    {
+      "head": "队列",
+      "tail": "链队列",
+      "relation": "实现方式"
+    },
+    {
+      "head": "二叉树",
+      "tail": "先根序遍历",
+      "relation": "遍历方式"
+    },
+    {
+      "head": "二叉树",
+      "tail": "中根序遍历",
+      "relation": "遍历方式"
+    },
+    {
+      "head": "二叉树",
+      "tail": "后根序遍历",
+      "relation": "遍历方式"
+    },
+    {
+      "head": "算法",
+      "tail": "迭代法",
+      "relation": "包含"
+    },
+    {
+      "head": "算法",
+      "tail": "递归法",
+      "relation": "包含"
+    },
+    {
+      "head": "迭代法",
+      "tail": "冒泡排序",
+      "relation": "应用于"
+    },
+    {
+      "head": "迭代法",
+      "tail": "顺序查找",
+      "relation": "应用于"
+    },
+    {
+      "head": "递归法",
+      "tail": "汉诺塔问题",
+      "relation": "应用于"
+    },
+    {
+      "head": "递归法",
+      "tail": "折半查找",
+      "relation": "应用于"
+    },
+    {
+      "head": "数据",
+      "tail": "大数据",
+      "relation": "扩展"
+    },
+    {
+      "head": "数组",
+      "tail": "顺序存储",
+      "relation": "采用"
+    },
+    {
+      "head": "链表",
+      "tail": "链式存储",
+      "relation": "采用"
+    },
+    {
+      "head": "抽象数据类型",
+      "tail": "数据对象",
+      "relation": "由...组成"
+    },
+    {
+      "head": "抽象数据类型",
+      "tail": "数据关系",
+      "relation": "由...组成"
+    },
+    {
+      "head": "抽象数据类型",
+      "tail": "基本操作",
+      "relation": "由...组成"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:44:48",
+    "version": "1.1"
+  }
+}

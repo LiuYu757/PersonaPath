@@ -1,0 +1,268 @@
+{
+  "knowledge_tree": {
+    "title": "新编英国文学选读_1",
+    "content": "英国文学从古英语时期到18世纪的经典作品选读与文学史概述",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "古英语时期文学",
+        "content": "约5世纪至11世纪的英国文学，以盎格鲁-撒克逊文学为代表",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "《贝奥武夫》",
+            "content": "古英语史诗代表作，讲述英雄贝奥武夫战胜怪物格伦德尔及其母、以及火龙的故事",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "史诗结构",
+                "content": "分为两部分：青年贝奥武夫在丹麦的功绩和老年贝奥武夫与火龙的战斗",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "主题思想",
+                "content": "英雄主义、命运观念、基督教与异教文化的融合",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "凯德蒙的赞美诗",
+            "content": "最早的英语诗歌之一，记载于比德的《英吉利教会史》",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "中古英语时期文学",
+        "content": "11世纪至15世纪的英国文学，诺曼征服后法语与英语的融合时期",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "杰弗里·乔叟",
+            "content": "英国诗歌之父，代表作《坎特伯雷故事集》",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《坎特伯雷故事集》结构",
+                "content": "框架故事结构，一群朝圣者在前往坎特伯雷途中讲述的故事",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "语言贡献",
+                "content": "使用伦敦方言写作，促进了英语文学语言的形成",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "《高文爵士与绿衣骑士》",
+            "content": "亚瑟王传奇中的经典作品，以头韵体写成",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "文艺复兴时期文学",
+        "content": "16世纪至17世纪初的英国文学，人文主义思想兴盛时期",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "威廉·莎士比亚",
+            "content": "英国最伟大的戏剧家和诗人",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "四大悲剧",
+                "content": "《哈姆雷特》、《奥赛罗》、《李尔王》、《麦克白》",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "十四行诗",
+                "content": "154首十四行诗，采用莎士比亚式韵律（ABAB CDCD EFEF GG）",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "克里斯托弗·马洛",
+            "content": "莎士比亚之前最重要的戏剧家，代表作《浮士德博士的悲剧》",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "埃德蒙·斯宾塞",
+            "content": "诗人，代表作《仙后》采用斯宾塞诗节",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "17世纪文学",
+        "content": "包括玄学派诗歌、清教文学和王政复辟时期文学",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "约翰·弥尔顿",
+            "content": "清教诗人，代表作《失乐园》",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "《失乐园》主题",
+                "content": "人类的堕落、自由意志与神意、撒旦的形象塑造",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "约翰·邓恩",
+            "content": "玄学派诗歌代表，以奇喻（conceit）著称",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "18世纪文学",
+        "content": "启蒙运动时期，新古典主义文学兴盛",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "亚历山大·蒲柏",
+            "content": "新古典主义诗人，擅长英雄双韵体",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "乔纳森·斯威夫特",
+            "content": "讽刺作家，代表作《格列佛游记》",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "丹尼尔·笛福",
+            "content": "现代小说奠基人，代表作《鲁滨逊漂流记》",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "古英语时期文学",
+      "tail": "《贝奥武夫》",
+      "relation": "包含代表作"
+    },
+    {
+      "head": "《贝奥武夫》",
+      "tail": "史诗结构",
+      "relation": "具有"
+    },
+    {
+      "head": "《贝奥武夫》",
+      "tail": "主题思想",
+      "relation": "体现"
+    },
+    {
+      "head": "中古英语时期文学",
+      "tail": "杰弗里·乔叟",
+      "relation": "重要作家"
+    },
+    {
+      "head": "杰弗里·乔叟",
+      "tail": "《坎特伯雷故事集》",
+      "relation": "创作"
+    },
+    {
+      "head": "杰弗里·乔叟",
+      "tail": "语言贡献",
+      "relation": "做出"
+    },
+    {
+      "head": "文艺复兴时期文学",
+      "tail": "威廉·莎士比亚",
+      "relation": "核心代表"
+    },
+    {
+      "head": "威廉·莎士比亚",
+      "tail": "四大悲剧",
+      "relation": "创作"
+    },
+    {
+      "head": "威廉·莎士比亚",
+      "tail": "十四行诗",
+      "relation": "写作"
+    },
+    {
+      "head": "17世纪文学",
+      "tail": "约翰·弥尔顿",
+      "relation": "重要诗人"
+    },
+    {
+      "head": "约翰·弥尔顿",
+      "tail": "《失乐园》",
+      "relation": "代表作"
+    },
+    {
+      "head": "《失乐园》",
+      "tail": "主题",
+      "relation": "探讨"
+    },
+    {
+      "head": "18世纪文学",
+      "tail": "亚历山大·蒲柏",
+      "relation": "代表作家"
+    },
+    {
+      "head": "英雄主义",
+      "tail": "《贝奥武夫》",
+      "relation": "主题体现于"
+    },
+    {
+      "head": "框架故事结构",
+      "tail": "《坎特伯雷故事集》",
+      "relation": "应用于"
+    },
+    {
+      "head": "人文主义思想",
+      "tail": "文艺复兴时期文学",
+      "relation": "影响"
+    },
+    {
+      "head": "新古典主义",
+      "tail": "18世纪文学",
+      "relation": "文学流派"
+    },
+    {
+      "head": "玄学派诗歌",
+      "tail": "约翰·邓恩",
+      "relation": "代表诗人"
+    },
+    {
+      "head": "清教文学",
+      "tail": "约翰·弥尔顿",
+      "relation": "重要代表"
+    },
+    {
+      "head": "启蒙运动",
+      "tail": "18世纪文学",
+      "relation": "思想背景"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:20:14",
+    "version": "1.1"
+  }
+}

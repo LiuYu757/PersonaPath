@@ -1,0 +1,646 @@
+{
+  "knowledge_tree": {
+    "title": "现代心理与教育统计学",
+    "content": "研究如何运用统计学原理和方法处理心理与教育领域中的数据，包括描述统计、推断统计等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "描述统计",
+        "content": "对数据进行整理、概括和描述的方法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "数据的初步整理",
+            "content": "数据分类、统计表、统计图等基本整理方法",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "统计表",
+                "content": "用表格形式呈现数据分布",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "简单表",
+                    "content": "只列出名称、地点、时序或统计指标名称的统计表",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "分组表",
+                    "content": "只按一个标志分组的统计表",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "复合表",
+                    "content": "按两个或两个以上标志分组的统计表",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "统计图",
+                "content": "用几何图形或具体形象表现统计资料的方法",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "条形图",
+                    "content": "用直条的长短表示数量大小",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "圆形图",
+                    "content": "用圆的扇形面积表示各部分所占比例",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "线形图",
+                    "content": "用曲线表示数量关系的连续性和变化趋势",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "集中量数",
+            "content": "描述一组数据典型水平或集中趋势的统计量",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "算术平均数",
+                "content": "所有观察值的总和除以总次数",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "简单算术平均数",
+                    "content": "适用于未分组数据：M = ΣX/N",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "加权算术平均数",
+                    "content": "适用于分组数据：M = ΣfX/Σf",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "中数",
+                "content": "位于一组数据中间位置的数值",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "中数的计算方法",
+                    "content": "根据数据个数奇偶性采用不同计算方法",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "中数的应用条件",
+                    "content": "适用于有极端数据或分布不对称的情况",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "众数",
+                "content": "一组数据中出现次数最多的数值",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "众数的确定方法",
+                    "content": "直接观察法、金氏插补法",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "众数的特点",
+                    "content": "不受极端值影响，但稳定性较差",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "差异量数",
+            "content": "描述数据离散程度或变异程度的统计量",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "全距",
+                "content": "最大值与最小值之差",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "平均差",
+                "content": "各数据与平均数离差绝对值的平均数",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "方差",
+                "content": "离差平方和的平均数",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "总体方差",
+                    "content": "σ² = Σ(X-μ)²/N",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "样本方差",
+                    "content": "S² = Σ(X-M)²/(n-1)",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "标准差",
+                "content": "方差的平方根",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "标准差的计算公式",
+                    "content": "S = √[Σ(X-M)²/(n-1)]",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "标准差的意义",
+                    "content": "反映数据分布的离散程度",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "推断统计",
+        "content": "根据样本数据推断总体特征的方法",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "概率论基础",
+            "content": "推断统计的理论基础",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "概率的定义",
+                "content": "随机事件发生的可能性大小",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "正态分布",
+                "content": "重要的连续型概率分布",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "正态分布曲线",
+                    "content": "钟形对称曲线，由均值和标准差决定",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "标准正态分布",
+                    "content": "均值为0，标准差为1的正态分布",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "抽样分布",
+            "content": "样本统计量的概率分布",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "样本均值的抽样分布",
+                "content": "从同一总体中抽取的所有可能样本均值的分布",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "中心极限定理",
+                "content": "样本均值抽样分布趋近正态分布的定理",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "参数估计",
+            "content": "根据样本统计量估计总体参数的方法",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "点估计",
+                "content": "用单个数值估计总体参数",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "区间估计",
+                "content": "用数值区间估计总体参数",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "置信区间",
+                    "content": "以一定概率包含总体参数的区间",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "置信水平",
+                    "content": "置信区间包含总体参数的概率",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "假设检验",
+            "content": "对总体参数或分布提出假设并进行检验的方法",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "零假设与备择假设",
+                "content": "假设检验中的两种对立假设",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "显著性水平",
+                "content": "拒绝零假设时可能犯错误的概率",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "t检验",
+                "content": "适用于小样本的均值差异检验",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "单样本t检验",
+                    "content": "检验单个样本均值与已知总体均值的差异",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "独立样本t检验",
+                    "content": "检验两个独立样本均值的差异",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "配对样本t检验",
+                    "content": "检验两个相关样本均值的差异",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "相关与回归分析",
+        "content": "研究变量间关系的统计方法",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "相关分析",
+            "content": "研究变量间相关方向与程度的统计方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "积差相关",
+                "content": "适用于连续变量的线性相关",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "积差相关系数",
+                    "content": "r = Σ(X-Mx)(Y-My)/√[Σ(X-Mx)²Σ(Y-My)²]",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "相关系数的解释",
+                    "content": "-1≤r≤1，绝对值越大相关程度越高",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "等级相关",
+                "content": "适用于等级数据的相关分析",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "斯皮尔曼等级相关",
+                    "content": "适用于两列等级变量",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "肯德尔和谐系数",
+                    "content": "适用于多列等级变量的一致性检验",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "回归分析",
+            "content": "研究变量间因果关系的统计方法",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "一元线性回归",
+                "content": "一个自变量预测一个因变量的线性关系",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "回归方程",
+                    "content": "Y' = a + bX",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "回归系数",
+                    "content": "b = Σ(X-Mx)(Y-My)/Σ(X-Mx)²",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "回归模型的检验",
+                "content": "对回归方程有效性的统计检验",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "决定系数",
+                    "content": "r²，表示因变量变异中被自变量解释的比例",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "回归方程的显著性检验",
+                    "content": "F检验，检验回归关系的显著性",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "描述统计",
+      "tail": "数据的初步整理",
+      "relation": "包含"
+    },
+    {
+      "head": "描述统计",
+      "tail": "集中量数",
+      "relation": "包含"
+    },
+    {
+      "head": "描述统计",
+      "tail": "差异量数",
+      "relation": "包含"
+    },
+    {
+      "head": "推断统计",
+      "tail": "概率论基础",
+      "relation": "基于"
+    },
+    {
+      "head": "推断统计",
+      "tail": "抽样分布",
+      "relation": "包含"
+    },
+    {
+      "head": "推断统计",
+      "tail": "参数估计",
+      "relation": "包含"
+    },
+    {
+      "head": "推断统计",
+      "tail": "假设检验",
+      "relation": "包含"
+    },
+    {
+      "head": "算术平均数",
+      "tail": "简单算术平均数",
+      "relation": "包含"
+    },
+    {
+      "head": "算术平均数",
+      "tail": "加权算术平均数",
+      "relation": "包含"
+    },
+    {
+      "head": "集中量数",
+      "tail": "算术平均数",
+      "relation": "包含"
+    },
+    {
+      "head": "集中量数",
+      "tail": "中数",
+      "relation": "包含"
+    },
+    {
+      "head": "集中量数",
+      "tail": "众数",
+      "relation": "包含"
+    },
+    {
+      "head": "差异量数",
+      "tail": "方差",
+      "relation": "包含"
+    },
+    {
+      "head": "差异量数",
+      "tail": "标准差",
+      "relation": "包含"
+    },
+    {
+      "head": "方差",
+      "tail": "标准差",
+      "relation": "推导出"
+    },
+    {
+      "head": "正态分布",
+      "tail": "标准正态分布",
+      "relation": "特例"
+    },
+    {
+      "head": "中心极限定理",
+      "tail": "样本均值的抽样分布",
+      "relation": "描述"
+    },
+    {
+      "head": "参数估计",
+      "tail": "点估计",
+      "relation": "包含"
+    },
+    {
+      "head": "参数估计",
+      "tail": "区间估计",
+      "relation": "包含"
+    },
+    {
+      "head": "区间估计",
+      "tail": "置信区间",
+      "relation": "基于"
+    },
+    {
+      "head": "假设检验",
+      "tail": "t检验",
+      "relation": "包含"
+    },
+    {
+      "head": "t检验",
+      "tail": "单样本t检验",
+      "relation": "包含"
+    },
+    {
+      "head": "t检验",
+      "tail": "独立样本t检验",
+      "relation": "包含"
+    },
+    {
+      "head": "t检验",
+      "tail": "配对样本t检验",
+      "relation": "包含"
+    },
+    {
+      "head": "相关分析",
+      "tail": "积差相关",
+      "relation": "包含"
+    },
+    {
+      "head": "相关分析",
+      "tail": "等级相关",
+      "relation": "包含"
+    },
+    {
+      "head": "积差相关",
+      "tail": "积差相关系数",
+      "relation": "基于"
+    },
+    {
+      "head": "等级相关",
+      "tail": "斯皮尔曼等级相关",
+      "relation": "包含"
+    },
+    {
+      "head": "等级相关",
+      "tail": "肯德尔和谐系数",
+      "relation": "包含"
+    },
+    {
+      "head": "回归分析",
+      "tail": "一元线性回归",
+      "relation": "包含"
+    },
+    {
+      "head": "一元线性回归",
+      "tail": "回归方程",
+      "relation": "基于"
+    },
+    {
+      "head": "一元线性回归",
+      "tail": "回归系数",
+      "relation": "包含"
+    },
+    {
+      "head": "回归分析",
+      "tail": "回归模型的检验",
+      "relation": "包含"
+    },
+    {
+      "head": "统计表",
+      "tail": "简单表",
+      "relation": "包含"
+    },
+    {
+      "head": "统计表",
+      "tail": "分组表",
+      "relation": "包含"
+    },
+    {
+      "head": "统计表",
+      "tail": "复合表",
+      "relation": "包含"
+    },
+    {
+      "head": "统计图",
+      "tail": "条形图",
+      "relation": "包含"
+    },
+    {
+      "head": "统计图",
+      "tail": "圆形图",
+      "relation": "包含"
+    },
+    {
+      "head": "统计图",
+      "tail": "线形图",
+      "relation": "包含"
+    },
+    {
+      "head": "算术平均数",
+      "tail": "中数",
+      "relation": "关联关系"
+    },
+    {
+      "head": "算术平均数",
+      "tail": "众数",
+      "relation": "关联关系"
+    },
+    {
+      "head": "方差",
+      "tail": "标准差",
+      "relation": "数学关系"
+    },
+    {
+      "head": "相关分析",
+      "tail": "回归分析",
+      "relation": "基础关系"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:59:52",
+    "version": "1.1"
+  }
+}

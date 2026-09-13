@@ -1,0 +1,235 @@
+{
+  "knowledge_tree": {
+    "title": "九年级下册数学",
+    "content": "包含反比例函数、相似、锐角三角函数、投影与视图四个章节",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "反比例函数",
+        "content": "形如y=k/x（k为常数，k≠0）的函数",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "反比例函数的定义",
+            "content": "函数y=k/x（k为常数，k≠0）称为反比例函数",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "反比例函数的图象",
+            "content": "双曲线，当k>0时位于一、三象限；当k<0时位于二、四象限",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "反比例函数的性质",
+            "content": "当k>0时，在每个象限内y随x增大而减小；当k<0时，在每个象限内y随x增大而增大",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "实际问题与反比例函数",
+            "content": "利用反比例函数解决实际问题，如杠杆原理、电学问题等",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "相似",
+        "content": "形状相同的图形称为相似图形",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "相似图形",
+            "content": "形状相同的图形",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "相似多边形",
+            "content": "对应角相等，对应边成比例的两个多边形",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "相似三角形",
+            "content": "对应角相等，对应边成比例的两个三角形",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "相似三角形的判定",
+                "content": "AA、SAS、SSS、HL等判定方法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "相似三角形的性质",
+                "content": "对应高、中线、角平分线的比等于相似比，面积比等于相似比的平方",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "位似",
+            "content": "特殊相似，对应点连线交于一点（位似中心）",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "锐角三角函数",
+        "content": "直角三角形中锐角的对边、邻边与斜边的比值关系",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "正弦",
+            "content": "sinA=∠A的对边/斜边",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "余弦",
+            "content": "cosA=∠A的邻边/斜边",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "正切",
+            "content": "tanA=∠A的对边/∠A的邻边",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "特殊角的三角函数值",
+            "content": "30°、45°、60°角的三角函数值",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "解直角三角形",
+            "content": "利用三角函数解直角三角形",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "三角函数的应用",
+            "content": "利用三角函数解决测量等问题",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "投影与视图",
+        "content": "物体的投影与三视图",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "投影",
+            "content": "平行投影和中心投影",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "三视图",
+            "content": "主视图、俯视图、左视图",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "三视图的画法",
+                "content": "长对正、高平齐、宽相等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "由三视图还原立体图形",
+                "content": "根据三视图想象立体形状",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "反比例函数",
+      "tail": "双曲线",
+      "relation": "图象为"
+    },
+    {
+      "head": "反比例函数",
+      "tail": "k>0",
+      "relation": "图象位于一、三象限"
+    },
+    {
+      "head": "反比例函数",
+      "tail": "k<0",
+      "relation": "图象位于二、四象限"
+    },
+    {
+      "head": "相似三角形",
+      "tail": "对应角相等",
+      "relation": "性质"
+    },
+    {
+      "head": "相似三角形",
+      "tail": "对应边成比例",
+      "relation": "性质"
+    },
+    {
+      "head": "相似三角形",
+      "tail": "面积比等于相似比的平方",
+      "relation": "性质"
+    },
+    {
+      "head": "锐角三角函数",
+      "tail": "正弦",
+      "relation": "包含"
+    },
+    {
+      "head": "锐角三角函数",
+      "tail": "余弦",
+      "relation": "包含"
+    },
+    {
+      "head": "锐角三角函数",
+      "tail": "正切",
+      "relation": "包含"
+    },
+    {
+      "head": "解直角三角形",
+      "tail": "勾股定理",
+      "relation": "基于"
+    },
+    {
+      "head": "三视图",
+      "tail": "主视图",
+      "relation": "由...组成"
+    },
+    {
+      "head": "三视图",
+      "tail": "俯视图",
+      "relation": "由...组成"
+    },
+    {
+      "head": "三视图",
+      "tail": "左视图",
+      "relation": "由...组成"
+    },
+    {
+      "head": "位似",
+      "tail": "相似",
+      "relation": "是一种特殊相似"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:53:12",
+    "version": "1.1"
+  }
+}

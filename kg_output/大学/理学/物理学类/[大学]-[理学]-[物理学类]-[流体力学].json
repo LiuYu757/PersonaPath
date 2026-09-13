@@ -1,0 +1,839 @@
+{
+  "knowledge_tree": {
+    "title": "流体力学",
+    "content": "涵盖流体运动学、动力学、理想与粘性流体、水波、气体动力学及边界层理论",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "流体的物理性质",
+        "content": "连续介质模型、受力、粘性、压缩性与界面现象",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "连续介质模型",
+            "content": "流体视为连续可无限分割的宏观微元体，满足宏观尺度远大于分子平均自由程",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "体积力与表面力",
+            "content": "体积力与质量成正比，表面力与面积成正比，应力张量对称且可分解为正应力与剪应力",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "应力张量对称性",
+                "content": "T_ij = T_ji，由力矩平衡导出，减少独立分量至6个",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "理想流体应力",
+                "content": "T_ij = -p δ_ij，仅存在各向同性压强",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "粘性",
+            "content": "牛顿流体剪应力与速度梯度线性相关，μ为动力粘性系数",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "牛顿内摩擦定律",
+                "content": "τ = μ du/dy，μ为常数时为牛顿流体",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "雷诺数",
+                "content": "Re = ρUL/μ，判断粘性影响程度",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "压缩性",
+            "content": "密度随压强变化，气体可压缩，液体近似不可压缩",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "马赫数",
+                "content": "Ma = U/c，Ma≪1时可按不可压缩处理",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "界面现象",
+            "content": "表面张力、接触角、毛细现象及杨氏方程",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "表面张力",
+                "content": "单位长度张力γ，界面压差Δp = γ(1/R1 + 1/R2)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "毛细升高",
+                "content": "h = 2γ cosθ/(ρgR)，θ为接触角",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "流体运动学",
+        "content": "描述方法、几何描述、加速度、微团运动与涡量",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "描述方法",
+            "content": "欧拉法与拉格朗日法及其互换",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "欧拉法",
+                "content": "以固定空间坐标描述流动，U=U(x,t)",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "拉格朗日法",
+                "content": "追踪质点，x=x(A,t)，A为初始坐标",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "质点导数",
+                "content": "D/Dt = ∂/∂t + U·∇",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "几何描述",
+            "content": "流线、迹线、定常与非定常、流体线与面",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "流线",
+                "content": "速度矢量线，dr×U=0",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "迹线",
+                "content": "质点轨迹，dx/dt=U",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "定常流",
+                "content": "∂U/∂t=0，流线与迹线重合",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "微团运动",
+            "content": "Cauchy-Helmholtz分解：平移+转动+变形",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "变形率张量",
+                "content": "S_ij = ½(∂u_i/∂x_j + ∂u_j/∂x_i)",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "涡量",
+                "content": "ω = ∇×U，准刚体角速度ω/2",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "速度场唯一性",
+            "content": "给定散度、旋度与边界法向速度则速度场唯一",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "毕奥-萨伐尔公式",
+                "content": "U = 1/(4π) ∫ ω×R/R³ dV",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "流体动力学基本原理",
+        "content": "守恒方程、伯努利公式、控制体应用、微分方程",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "积分型守恒方程",
+            "content": "质量、动量、动量矩、能量方程及其输运公式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "输运公式",
+                "content": "D/Dt ∫_V Q dV = ∫_V ∂Q/∂t dV + ∮_S Q U·n dS",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "伯努利方程",
+            "content": "理想正压势力场定常沿流线：p/ρ + U²/2 + gz = const",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "应用示例",
+                "content": "小孔出流、文丘里管、U形管振荡",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "微分型方程",
+            "content": "连续性、欧拉方程、能量方程及封闭性讨论",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "欧拉方程",
+                "content": "ρ DU/Dt = -∇p + ρf",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "边界条件",
+                "content": "固壁无穿透、无穷远、界面应力平衡",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "流体静力学",
+            "content": "静止流体平衡、压强分布、浮力与力矩",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "阿基米德原理",
+                "content": "F = -ρVg，通过体心",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "理想流体动力学",
+        "content": "无旋流动、复势方法、附加惯性、涡动力学",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "无旋流动基本性质",
+            "content": "凯尔文定理、拉格朗日定理、亥姆霍兹定理",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "凯尔文定理",
+                "content": "理想正压势力场中沿封闭流体线环量守恒",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "拉格朗日定理",
+                "content": "无旋则永远无旋，涡量不生不灭",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "不可压缩无旋流动",
+            "content": "速度势满足拉普拉斯方程，基本解叠加",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "基本解",
+                "content": "均匀流、点源、偶极子、点涡及其复势",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "绕圆柱流动",
+                "content": "无环量与有环量解，马格努斯效应",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "复变函数方法",
+            "content": "保角映像、儒可夫斯基变换、翼型升力",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "库塔-儒可夫斯基条件",
+                "content": "后缘速度有限确定环量，升力L=ρU_∞×Γ",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "附加惯性",
+            "content": "物体加速运动时流体表现出的附加质量与惯矩",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "达朗贝尔定理",
+                "content": "匀速平移物体不受阻力",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "涡动力学",
+            "content": "涡量方程、斜压与科氏力生成涡、贸易风示例",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "涡量方程",
+                "content": "Dω/Dt = ω·∇U - ω(∇·U) + ∇ρ×∇p/ρ² + ∇×f",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "粘性流体力学基础",
+        "content": "本构方程、N-S方程、相似律、解析解",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "牛顿流体本构",
+            "content": "T_ij = -pδ_ij + 2μS_ij",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "纳维-斯托克斯方程",
+            "content": "ρ DU/Dt = -∇p + μ∇²U + ρf",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "相似律",
+            "content": "雷诺数、弗劳德数等相似准则",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "气体动力学",
+        "content": "研究可压缩流体运动规律，包括声波、激波与高速流动",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "线性浅水长波",
+            "content": "λ≫h≫a 条件下的二维理想流体运动简化模型",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "基本方程推导",
+                "content": "由二维理想流体方程经量级简化得到双曲型方程",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "流向速度垂向不变",
+                    "content": "u(x,z)≈u(x) 的泰勒展开近似",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "垂向速度小量级",
+                    "content": "w∼(h/λ)u 的连续性方程积分结果",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "水面边界条件线性化",
+                    "content": "w|_{z=0}≈∂η/∂t 的线性近似",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "解析解与性质",
+                "content": "得到非色散波解 c=√(gh) 及波形不变传播",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "非色散性",
+                    "content": "波速仅与水深有关，与波长无关",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "初始条件确定波形",
+                    "content": "F(x) 与 f(x) 由初始 η(x,0) 与 u(x,0) 给出",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "缓变地形推广",
+                "content": "用水深平均速度代替局部速度，保持方程形式",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "理想完全气体模型",
+            "content": "μ=0, λ=0 的可压缩流体状态方程与热力学关系",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "状态方程",
+                "content": "p=ρRT, h=c_pT, e=c_vT",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "热力学常数",
+                "content": "R=c_p−c_v, γ=c_p/c_v",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "声传播与马赫数",
+            "content": "微弱扰动传播速度及无量纲参数 Ma=u/c",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "声速公式",
+                "content": "c=√(γRT) 仅与当地温度有关",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "马赫数物理意义",
+                "content": "惯性力/压强力、动能/内能、压缩性度量",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "影响域与依赖域",
+                "content": "亚声速全空间、超声速马赫锥内",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "激波理论",
+            "content": "强压缩间断面的形成与 Rankine–Hugoniot 关系",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "正激波关系",
+                "content": "质量、动量、能量守恒给出 p_2/p_1, ρ_2/ρ_1, T_2/T_1",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "斜激波",
+                "content": "法向分量满足正激波关系，切向速度连续",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "普朗特关系",
+                "content": "u_1u_2=c^{*2}, Ma_1^*Ma_2^*=1",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "变截面绝热管流",
+            "content": "准一维等熵流动与拉瓦尔喷管设计",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "面积-速度关系",
+                "content": "(Ma^2−1)du/u=dA/A",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "堵塞流量",
+                "content": "喉部 Ma=1 时最大质量流量",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "粘性流体力学",
+        "content": "考虑粘性应力与热传导的真实流体运动",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "本构方程",
+            "content": "牛顿流体应力与变形率线性关系",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "广义牛顿定律",
+                "content": "p_{ij}=[−p+(μ'−2μ/3)∇·U]δ_{ij}+2μS_{ij}",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "斯托克斯假设",
+                "content": "μ'=0 时体积粘性为零",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "纳维-斯托克斯方程",
+            "content": "质量、动量、能量守恒的封闭方程组",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "不可压缩形式",
+                "content": "∇·U=0, ∂U/∂t+U·∇U=−∇p/ρ+ν∇^2U",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "边界条件",
+                "content": "无滑移、热平衡或绝热、界面连续",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "解析解示例",
+            "content": "简单几何下的精确层流解",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "哈根-泊肃叶流动",
+                "content": "圆管层流抛物线速度分布 u(r)=Δp(R^2−r^2)/(4μL)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "库埃特流动",
+                "content": "同心旋转圆柱间的速度分布 u_θ=A r+B/r",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "小雷诺数近似",
+            "content": "Re≪1 时惯性项可忽略的斯托克斯解",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "斯托克斯阻力",
+                "content": "圆球阻力 D=6πμaU_∞",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "奥辛修正",
+                "content": "保留一阶惯性项的改进阻力公式",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "相似律",
+            "content": "无量纲参数 Sr, Re, Fr, Eu, We 决定流动相似",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "湍流",
+        "content": "高雷诺数下不规则脉动流动的统计理论",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "稳定性分析",
+            "content": "线性小扰动理论预测临界 Re",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "奥尔-索末菲方程",
+                "content": "(D^2−α^2)^2φ=iαRe[(U−c)(D^2−α^2)−U'']φ",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "中性曲线",
+                "content": "ω_i(α,Re)=0 给出临界 Re_c",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "雷诺平均方程",
+            "content": "将瞬时量分解为平均与脉动，引入雷诺应力",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "雷诺应力",
+                "content": "R_{ij}=−ρ⟨u'_i u'_j⟩ 为未知二阶矩",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "湍动能方程",
+                "content": "k=⟨u'_i u'_i⟩/2 的输运与耗散 ε=ν⟨∂u'_i/∂x_j ∂u'_i/∂x_j⟩",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "封闭模式",
+            "content": "用模型假设使平均方程封闭",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "涡粘模型",
+                "content": "R_{ij}=2μ_t S_{ij}−2ρk δ_{ij}/3",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "k-ε 模型",
+                "content": "μ_t=C_μ k^2/ε 并补充 k,ε 输运方程",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "圆管湍流",
+            "content": "壁面分层与对数律速度分布",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "壁面律",
+                "content": "u^+=y^+ (y^+<5), u^+=κ^{−1}ln y^++B (y^+>30)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "尼古拉茨曲线",
+                "content": "λ=λ(Re,ε/D) 的实验阻力规律",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "拟序结构",
+            "content": "壁面条带、猝发、下扫等相干大尺度运动",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "边界层理论",
+        "content": "高 Re 下粘性薄层近似与分离",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "普朗特方程",
+            "content": "∂u/∂x+∂v/∂y=0, u∂u/∂x+v∂u/∂y=U_e dU_e/dx+ν∂^2u/∂y^2",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "布拉休斯解",
+            "content": "平板层流相似解 f'''+ff''/2=0",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "动量积分法",
+            "content": "dθ/dx+(H+2)θ/U_e dU_e/dx=C_f/2",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "分离判据",
+            "content": "逆压梯度下 (∂u/∂y)_w=0 为分离点",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "湍流边界层",
+            "content": "采用涡粘模型与对数律的近似解",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "连续介质模型",
+      "tail": "流体微团",
+      "relation": "由...组成"
+    },
+    {
+      "head": "应力张量",
+      "tail": "对称性",
+      "relation": "具有性质"
+    },
+    {
+      "head": "牛顿流体",
+      "tail": "牛顿内摩擦定律",
+      "relation": "服从"
+    },
+    {
+      "head": "马赫数",
+      "tail": "可压缩性判断",
+      "relation": "用于"
+    },
+    {
+      "head": "流线",
+      "tail": "速度矢量",
+      "relation": "切线重合"
+    },
+    {
+      "head": "涡量",
+      "tail": "速度旋度",
+      "relation": "定义为"
+    },
+    {
+      "head": "凯尔文定理",
+      "tail": "环量守恒",
+      "relation": "断言"
+    },
+    {
+      "head": "拉格朗日定理",
+      "tail": "无旋流动",
+      "relation": "保持"
+    },
+    {
+      "head": "速度势",
+      "tail": "拉普拉斯方程",
+      "relation": "满足"
+    },
+    {
+      "head": "伯努利方程",
+      "tail": "沿流线守恒",
+      "relation": "能量"
+    },
+    {
+      "head": "库塔-儒可夫斯基条件",
+      "tail": "环量确定",
+      "relation": "用于"
+    },
+    {
+      "head": "附加质量",
+      "tail": "物体加速",
+      "relation": "伴随"
+    },
+    {
+      "head": "线性浅水长波",
+      "tail": "双曲型方程",
+      "relation": "简化后得到"
+    },
+    {
+      "head": "声速",
+      "tail": "马赫数",
+      "relation": "用于定义"
+    },
+    {
+      "head": "激波",
+      "tail": "Rankine–Hugoniot 关系",
+      "relation": "满足"
+    },
+    {
+      "head": "雷诺应力",
+      "tail": "湍流封闭模式",
+      "relation": "需要模型假设"
+    },
+    {
+      "head": "边界层厚度",
+      "tail": "位移厚度",
+      "relation": "包含"
+    },
+    {
+      "head": "边界层分离",
+      "tail": "逆压梯度",
+      "relation": "由引起"
+    },
+    {
+      "head": "k-ε 模型",
+      "tail": "涡粘系数",
+      "relation": "提供表达式"
+    },
+    {
+      "head": "普朗特方程",
+      "tail": "布拉休斯解",
+      "relation": "存在相似解"
+    },
+    {
+      "head": "圆管湍流",
+      "tail": "对数律",
+      "relation": "速度分布满足"
+    },
+    {
+      "head": "斯托克斯阻力",
+      "tail": "小雷诺数近似",
+      "relation": "适用于"
+    }
+  ],
+  "metadata": {
+    "chunks_merged": 2,
+    "generated_at": "2025-11-18 22:39:12",
+    "version": "1.1"
+  }
+}

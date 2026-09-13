@@ -1,0 +1,553 @@
+{
+  "knowledge_tree": {
+    "title": "生物与环境",
+    "content": "研究生物与环境相互关系的科学，包括种群、群落、生态系统等层次",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "种群及其动态",
+        "content": "研究种群的数量特征、变化规律及其影响因素",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "种群的数量特征",
+            "content": "种群密度、出生率、死亡率、迁入率、迁出率、年龄结构、性别比例等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "种群密度",
+                "content": "单位面积或单位体积内的个体数量，是种群最基本的数量特征",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "样方法",
+                    "content": "通过随机取样估算种群密度的方法，适用于植物和活动范围小的动物",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "标记重捕法",
+                    "content": "通过标记和重捕来估算活动能力强、活动范围大的动物种群密度",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "出生率和死亡率",
+                "content": "直接影响种群密度的因素，决定种群数量的增长或下降",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "迁入率和迁出率",
+                "content": "影响种群密度的因素，特别是对于城市人口等流动性强的种群",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "年龄结构",
+                "content": "预测种群数量变化趋势的重要依据，分为增长型、稳定型和衰退型",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "性别比例",
+                "content": "影响出生率，进而影响种群密度",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "种群数量的变化",
+            "content": "种群数量随时间变化的规律，包括J形增长和S形增长",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "J形增长",
+                "content": "理想条件下种群数量呈指数增长，数学模型为Nt=N0λ^t",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "S形增长",
+                "content": "有限资源条件下种群增长曲线，存在环境容纳量(K值)",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "环境容纳量",
+                "content": "一定环境条件下所能维持的种群最大数量",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "种群数量的波动",
+                "content": "大多数种群数量在波动中保持相对稳定，某些条件下可能出现爆发",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "影响种群数量变化的因素",
+            "content": "生物因素和非生物因素对种群数量变化的影响",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "非生物因素",
+                "content": "阳光、温度、水等环境因素对种群数量的影响",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "生物因素",
+                "content": "种内竞争、种间关系（捕食、竞争、寄生等）对种群数量的影响",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "密度制约因素",
+                "content": "作用强度与种群密度相关的因素，如食物、天敌等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "非密度制约因素",
+                "content": "作用强度与种群密度无关的因素，如气候因素、自然灾害等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "群落及其演替",
+        "content": "研究生物群落的结构、类型及演替过程",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "群落的结构",
+            "content": "群落的物种组成、种间关系和空间结构",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "物种组成",
+                "content": "区别不同群落的重要特征，包括物种丰富度和优势种",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "种间关系",
+                "content": "原始合作、互利共生、种间竞争、捕食、寄生等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "垂直结构",
+                "content": "群落在垂直方向上的分层现象，提高对资源的利用效率",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "水平结构",
+                "content": "群落在水平方向上的镶嵌分布",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "生态位",
+                "content": "物种在群落中的地位和作用，包括空间位置、资源利用等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "群落的主要类型",
+            "content": "根据外貌和物种组成划分的陆地生物群落类型",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "荒漠生物群落",
+                "content": "极度干旱区，物种少，结构简单，生物具有耐旱特性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "草原生物群落",
+                "content": "半干旱地区，草本植物占优势，动物有挖洞或快速奔跑的特点",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "森林生物群落",
+                "content": "湿润或较湿润地区，结构复杂且相对稳定",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "群落的演替",
+            "content": "群落随时间变化而被另一个群落代替的过程",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "初生演替",
+                "content": "在从未被植物覆盖的地面或原有植被被彻底消灭的地方发生的演替",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "次生演替",
+                "content": "在原有植被虽不存在但土壤条件基本保留的地方发生的演替",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "人类活动对群落演替的影响",
+                "content": "人类活动往往使群落演替按照不同于自然演替的方向和速度进行",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "生态系统及其稳定性",
+        "content": "研究生态系统的结构、功能及其稳定性机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "生态系统的结构",
+            "content": "生态系统的组成成分和营养结构",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "组成成分",
+                "content": "生产者、消费者、分解者和非生物的物质和能量",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "食物链和食物网",
+                "content": "生态系统的营养结构，物质循环和能量流动的渠道",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "生态系统的能量流动",
+            "content": "能量在生态系统中的输入、传递、转化和散失过程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "能量流动的过程",
+                "content": "太阳能通过生产者输入生态系统，沿食物链逐级流动",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "能量流动的特点",
+                "content": "单向流动、逐级递减，传递效率为10%-20%",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "生态金字塔",
+                "content": "能量金字塔、生物量金字塔和数量金字塔",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "生态系统的物质循环",
+            "content": "物质在生物群落与非生物环境之间的循环过程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "碳循环",
+                "content": "碳在生物群落与非生物环境之间主要以二氧化碳形式循环",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "生物富集",
+                "content": "有害物质通过食物链逐渐积累的现象",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "生态系统的信息传递",
+            "content": "物理信息、化学信息和行为信息在生态系统中的作用",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "生态系统的稳定性",
+            "content": "生态系统维持或恢复自身结构与功能处于相对平衡状态的能力",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "抵抗力稳定性",
+                "content": "抵抗外界干扰并使自身结构与功能保持原状的能力",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "恢复力稳定性",
+                "content": "受到外界干扰因素的破坏后恢复到原状的能力",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "人与环境",
+        "content": "研究人类活动对生态环境的影响及可持续发展",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "人类活动对生态环境的影响",
+            "content": "人口增长、生态足迹和全球性生态环境问题",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "人口增长与生态足迹",
+                "content": "人口增长导致生态足迹增大，对生态环境造成压力",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "全球性生态环境问题",
+                "content": "全球气候变化、水资源短缺、臭氧层破坏、土地荒漠化等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "生物多样性及其保护",
+            "content": "生物多样性的价值、丧失原因及保护措施",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "生物多样性的价值",
+                "content": "直接价值、间接价值和潜在价值",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "生物多样性丧失的原因",
+                "content": "栖息地破坏、掠夺式利用、环境污染等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "保护生物多样性的措施",
+                "content": "就地保护、易地保护以及加强立法、执法和宣传教育",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "生态工程",
+            "content": "应用生态学原理设计的可持续发展工程技术",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "生态工程的基本原理",
+                "content": "整体、协调、循环、自生等基本原理",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "生态工程的实例",
+                "content": "农村综合发展型生态工程、湿地生态恢复工程等",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "种群密度",
+      "tail": "样方法",
+      "relation": "调查方法"
+    },
+    {
+      "head": "种群密度",
+      "tail": "标记重捕法",
+      "relation": "调查方法"
+    },
+    {
+      "head": "出生率和死亡率",
+      "tail": "种群密度",
+      "relation": "直接决定"
+    },
+    {
+      "head": "迁入率和迁出率",
+      "tail": "种群密度",
+      "relation": "直接决定"
+    },
+    {
+      "head": "年龄结构",
+      "tail": "出生率和死亡率",
+      "relation": "影响"
+    },
+    {
+      "head": "性别比例",
+      "tail": "出生率",
+      "relation": "影响"
+    },
+    {
+      "head": "J形增长",
+      "tail": "理想条件",
+      "relation": "发生于"
+    },
+    {
+      "head": "S形增长",
+      "tail": "环境容纳量",
+      "relation": "具有"
+    },
+    {
+      "head": "环境容纳量",
+      "tail": "种群数量",
+      "relation": "限制"
+    },
+    {
+      "head": "种间关系",
+      "tail": "种群数量变化",
+      "relation": "影响"
+    },
+    {
+      "head": "群落",
+      "tail": "物种组成",
+      "relation": "由...构成"
+    },
+    {
+      "head": "群落",
+      "tail": "种间关系",
+      "relation": "由...构成"
+    },
+    {
+      "head": "群落",
+      "tail": "空间结构",
+      "relation": "具有"
+    },
+    {
+      "head": "垂直结构",
+      "tail": "资源利用效率",
+      "relation": "提高"
+    },
+    {
+      "head": "生态位",
+      "tail": "资源利用",
+      "relation": "涉及"
+    },
+    {
+      "head": "初生演替",
+      "tail": "次生演替",
+      "relation": "区别于"
+    },
+    {
+      "head": "生态系统",
+      "tail": "生物群落",
+      "relation": "包含"
+    },
+    {
+      "head": "生态系统",
+      "tail": "非生物环境",
+      "relation": "包含"
+    },
+    {
+      "head": "生产者",
+      "tail": "光合作用",
+      "relation": "通过...固定能量"
+    },
+    {
+      "head": "食物链",
+      "tail": "能量流动",
+      "relation": "是...的渠道"
+    },
+    {
+      "head": "食物网",
+      "tail": "生态系统稳定性",
+      "relation": "增强"
+    },
+    {
+      "head": "能量流动",
+      "tail": "单向流动",
+      "relation": "特点"
+    },
+    {
+      "head": "能量流动",
+      "tail": "逐级递减",
+      "relation": "特点"
+    },
+    {
+      "head": "物质循环",
+      "tail": "全球性",
+      "relation": "具有"
+    },
+    {
+      "head": "碳循环",
+      "tail": "二氧化碳",
+      "relation": "以...形式进行"
+    },
+    {
+      "head": "信息传递",
+      "tail": "种间关系调节",
+      "relation": "用于"
+    },
+    {
+      "head": "抵抗力稳定性",
+      "tail": "生物多样性",
+      "relation": "与...正相关"
+    },
+    {
+      "head": "生态足迹",
+      "tail": "人口增长",
+      "relation": "随...增大"
+    },
+    {
+      "head": "生物多样性",
+      "tail": "生态系统稳定性",
+      "relation": "维持"
+    },
+    {
+      "head": "就地保护",
+      "tail": "自然保护区",
+      "relation": "通过...实现"
+    },
+    {
+      "head": "易地保护",
+      "tail": "动植物园",
+      "relation": "通过...实现"
+    },
+    {
+      "head": "生态工程",
+      "tail": "可持续发展",
+      "relation": "促进"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:29:42",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "knowledge_tree": {
+    "title": "七年级下册语文",
+    "content": "包含人物传记、家国情怀、平凡人物、中华美德、托物言志、科学探索等主题的课文",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元：杰出人物",
+        "content": "通过人物传记展现杰出人物的精神品格",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "邓稼先",
+            "content": "记述'两弹元勋'邓稼先的生平事迹和奉献精神",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "人物形象分析",
+                "content": "通过具体事件展现邓稼先无私奉献、严谨求实的科学精神",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "写作手法",
+                "content": "运用对比、细节描写、抒情议论相结合的手法",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "说和做——记闻一多先生言行片段",
+            "content": "展现闻一多作为学者和革命家的双重品格",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "学者方面",
+                "content": "做了再说，做了不说——潜心学术研究",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "革命家方面",
+                "content": "说了就做——英勇无畏的革命精神",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元：家国情怀",
+        "content": "表现爱国主义和革命精神的作品",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "黄河颂",
+            "content": "歌颂黄河，赞美中华民族的伟大精神",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "抒情方式",
+                "content": "直接抒情与间接抒情相结合",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "象征意义",
+                "content": "黄河象征中华民族的精神力量",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "老山界",
+            "content": "记述红军长征中翻越老山界的艰难历程",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "红军精神",
+                "content": "艰苦奋斗、团结互助的革命乐观主义精神",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "邓稼先",
+      "tail": "无私奉献精神",
+      "relation": "体现"
+    },
+    {
+      "head": "闻一多",
+      "tail": "学者风范",
+      "relation": "具有"
+    },
+    {
+      "head": "闻一多",
+      "tail": "革命精神",
+      "relation": "具有"
+    },
+    {
+      "head": "黄河颂",
+      "tail": "中华民族精神",
+      "relation": "象征"
+    },
+    {
+      "head": "老山界",
+      "tail": "红军长征精神",
+      "relation": "展现"
+    },
+    {
+      "head": "直接抒情",
+      "tail": "黄河颂",
+      "relation": "运用"
+    },
+    {
+      "head": "间接抒情",
+      "tail": "土地的誓言",
+      "relation": "运用"
+    },
+    {
+      "head": "细节描写",
+      "tail": "人物塑造",
+      "relation": "用于"
+    },
+    {
+      "head": "对比手法",
+      "tail": "邓稼先",
+      "relation": "运用"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:38:21",
+    "version": "1.1"
+  }
+}

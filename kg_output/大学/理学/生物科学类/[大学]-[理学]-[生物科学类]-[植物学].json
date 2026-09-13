@@ -1,0 +1,1215 @@
+{
+  "knowledge_tree": {
+    "title": "植物学",
+    "content": "系统阐述植物形态、结构、分类、生理与进化规律",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "植物细胞与组织",
+        "content": "植物体结构与功能的基本单元",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "植物细胞特有结构",
+            "content": "细胞壁、质体、液泡、胞间连丝",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "细胞壁",
+                "content": "胞间层、初生壁、次生壁；纹孔与胞间连丝",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "质体",
+                "content": "叶绿体、有色体、白色体；半自主性基因组",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "液泡",
+                "content": "中央大液泡；调节渗透、贮藏、消化",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "胞间连丝",
+                "content": "直径40–50 nm通道；共质体运输与信号",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "细胞分裂与分化",
+            "content": "有丝分裂、无丝分裂、减数分裂；细胞周期调控",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "有丝分裂",
+                "content": "G1-S-G2-M；纺锤体形成；细胞板构建",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "减数分裂",
+                "content": "同源染色体配对、交换；四分体形成",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "细胞分化",
+                "content": "基因选择性表达；形态与功能特化",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "植物组织类型",
+            "content": "分生组织、保护组织、薄壁组织、机械组织、输导组织、分泌结构",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "分生组织",
+                "content": "顶端、侧生、居间；原分生、初生、次生",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "输导组织",
+                "content": "木质部（导管、管胞、木纤维）、韧皮部（筛管、伴胞、韧皮纤维）",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "机械组织",
+                "content": "厚角组织（初生壁角隅加厚）、厚壁组织（次生壁均匀加厚）",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "植物营养器官",
+        "content": "根、茎、叶的形态建成与生理功能",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "根",
+            "content": "吸收、固着、输导、合成、贮藏",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "根尖分区",
+                "content": "根冠、分生区、伸长区、成熟区（根毛区）",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "双子叶根初生结构",
+                "content": "表皮、皮层（内皮层凯氏带）、中柱（中柱鞘、辐射维管束）",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "双子叶根次生生长",
+                "content": "维管形成层→次生木质部/韧皮部；木栓形成层→周皮",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "侧根发生",
+                "content": "中柱鞘恢复分裂→内起源；位置与原生木质部束数相关",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "根瘤与菌根",
+                "content": "豆科植物-根瘤菌共生固氮；外生/内生菌根增强吸收",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "茎",
+            "content": "支持、输导、贮藏、光合、繁殖",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "茎尖分区",
+                "content": "原套-原体学说；中央区、周围区、肋状分生组织",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "双子叶茎初生结构",
+                "content": "表皮、皮层（厚角组织）、维管束环、髓与髓射线",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "双子叶茎次生生长",
+                "content": "束中+束间形成层→维管形成层；木栓形成层→周皮与皮孔",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "禾本科茎结构",
+                "content": "表皮（长/短细胞、硅/栓细胞）、机械组织环、散生维管束、髓腔",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "分枝方式",
+                "content": "单轴、合轴、假二叉、二叉；禾本科分蘖",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "叶",
+            "content": "光合作用、蒸腾作用、吸收、繁殖",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "双子叶叶结构",
+                "content": "异面叶：上表皮、栅栏组织、海绵组织、下表皮；网状脉",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "禾本科叶结构",
+                "content": "等面叶：泡状细胞（运动细胞）、平行脉、维管束鞘（C3/C4标志）",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "气孔器",
+                "content": "保卫细胞+副卫细胞；ABA调控开闭；旱生下陷、水生上浮",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "生态类型",
+                "content": "旱生（厚角/厚壁、复表皮）、水生（通气组织、无气孔）、中生（阳生/阴生）",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "落叶与离层",
+                "content": "离区→离层+保护层；ABA、乙烯促进；IAA抑制",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "植物繁殖器官",
+        "content": "花、果实、种子的发生与发育",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "花的组成与发育",
+            "content": "花是变态短枝；花芽分化受LFY、ABC基因调控",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "花器官ABC模型",
+                "content": "A(萼片)、A+B(花瓣)、B+C(雄蕊)、C(心皮)；E为SEP辅助因子",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "雄蕊发育",
+                "content": "花药→孢原细胞→花粉母细胞→减数分裂→小孢子→2-细胞/3-细胞花粉",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "雌蕊发育",
+                "content": "心皮→子房、花柱、柱头；子房内胚珠→大孢子母细胞→胚囊",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "传粉与受精",
+            "content": "双受精是被子植物特有现象",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "花粉管生长",
+                "content": "营养细胞引导；钙梯度与信号；自交不亲和（S-位点）",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "双受精",
+                "content": "1精+卵→合子(2n)；1精+中央细胞→初生胚乳核(3n)",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "果实与种子",
+            "content": "子房→果实；胚珠→种子；胚、胚乳、种皮三部分",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "胚发育",
+                "content": "合子→原胚→球形→心形→鱼雷形→成熟胚（胚芽、胚轴、胚根、子叶）",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "胚乳发育",
+                "content": "核型、细胞型、沼生目型；贮藏淀粉、蛋白质、脂肪",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "无融合生殖",
+                "content": "未受精形成种子；二倍体孢子生殖、不定胚生殖",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "植物系统与进化",
+        "content": "分类原理、系统发育与多样性保护",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "植物分类系统",
+            "content": "APG IV系统；形态、解剖、胚胎、细胞、分子综合证据",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "藻类",
+                "content": "原核蓝藻→真核绿藻、褐藻、红藻；生活史类型多样",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "苔藓植物",
+                "content": "配子体占优势；假根/真根；无维管；颈卵器、精子器",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "石松类与蕨类",
+                "content": "孢子体独立；真根、茎、叶；原叶体；维管组织分化",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "裸子植物",
+                "content": "种子裸露；球花；管胞、筛胞；针叶、球果",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "被子植物",
+                "content": "真花、双受精、果实；导管、筛管；单子叶与双子叶",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "系统发育原理",
+            "content": "共同祖先、单系群；形态与分子性状；最大简约法、贝叶斯推断",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "分子系统学",
+                "content": "叶绿体基因组、核rDNA、低拷贝核基因；系统发育基因组学",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "关键创新性状",
+                "content": "胚、维管组织、种子、花、果实；适应陆地与传粉方式",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "植物多样性保护",
+            "content": "物种形成与灭绝；IUCN红色名录；就地与迁地保护",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "濒危机制",
+                "content": "生境丧失、过度采伐、外来种、气候变化；遗传多样性下降",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "保护策略",
+                "content": "自然保护区、种子库、离体培养；可持续利用与惠益分享",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "花器官的形态与发生",
+        "content": "花是被子植物的生殖枝，由萼片、花瓣、雄蕊群、雌蕊群四轮基本结构组成",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "典型花的组成",
+            "content": "花梗、花托、花萼、花冠、雄蕊群、雌蕊群六部分",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "禾本科小花的特化结构",
+            "content": "外稃、内稃、浆片、雄蕊、雌蕊，适应风媒传粉",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "花芽分化过程",
+            "content": "从萼片原基→花瓣原基→雄蕊原基→雌蕊原基的顺序发生",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "ABC模型与花器官决定",
+            "content": "A、B、C三类同源异形基因按“AB-BC-C”组合调控四轮花器官身份",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "雄蕊与花粉发育",
+        "content": "雄蕊由花丝和花药组成，花药内小孢子母细胞经减数分裂产生花粉粒",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "花药壁结构",
+            "content": "表皮、药室内壁(纤维层)、中层、绒毡层四层，绒毡层提供营养",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "小孢子发生",
+            "content": "小孢子母细胞→四分体→单核花粉→2-细胞或3-细胞花粉(雄配子体)",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "花粉粒结构",
+            "content": "外壁(孢粉素)、内壁(纤维素+蛋白质)、营养细胞、生殖细胞(或2精细胞)",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "花粉形态与纹饰",
+            "content": "球形、椭球形、三沟、多孔等，外壁纹饰为科属鉴定依据",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "雌蕊与胚珠发育",
+        "content": "雌蕊由1至多个心皮卷合而成，内含胚珠，胚珠内产生胚囊(雌配子体)",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "心皮与胎座",
+            "content": "心皮边缘愈合形成腹缝线，胚珠沿胎座着生",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "胚珠类型",
+            "content": "直生、倒生、弯生、横生，倒生胚珠最普遍",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "大孢子发生与胚囊形成",
+            "content": "大孢子母细胞→四分体→单核胚囊→三次有丝分裂→7细胞8核胚囊(蓼型)",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "蓼型胚囊结构",
+                "content": "1卵细胞、2助细胞、1中央细胞(2极核)、3反足细胞",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "双孢型与四孢型胚囊",
+            "content": "二分体或四分体全部参与发育，形成不同倍性的胚囊",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "传粉与受精",
+        "content": "花粉粒经传粉落到柱头，萌发花粉管完成双受精",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "传粉方式",
+            "content": "自花传粉、异花传粉；风媒、虫媒、水媒、鸟媒等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "花粉-柱头识别",
+            "content": "蛋白质-蛋白质识别，亲和则吸水萌发，不亲和则胼胝质封闭",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "花粉管生长",
+            "content": "顶端生长，沿花柱道或引导组织胞间隙下行，经珠孔进入胚囊",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "双受精过程",
+            "content": "一精细胞+卵细胞→合子(2n)；另一精细胞+中央细胞→初生胚乳核(3n)",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "雄性生殖单位与精细胞二型性",
+            "content": "营养核与两精细胞紧密连接，两精细胞在大小、细胞器含量上差异显著",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "种子形成与结构",
+        "content": "受精后胚珠发育为种子，由胚、胚乳(或外胚乳)、种皮组成",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "胚的发育",
+            "content": "合子→原胚→球形胚→心形胚→鱼雷胚→成熟胚(具子叶、胚轴、胚根)",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "胚乳发育类型",
+            "content": "核型(游离核→细胞壁)、细胞型(每次分裂均成壁)、沼生目型(先分室后游离核)",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "种皮来源与结构",
+            "content": "由珠被发育而来，可分化出表皮毛(棉纤维)、石细胞层(硬种皮)、肉质层(石榴)等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "胚胎晚期丰富蛋白(LEA)",
+            "content": "与种子耐脱水性相关的小分子多肽，受ABA调控",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "果实发育与类型",
+        "content": "子房受精后发育为果实，果皮的形态结构高度多样化",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "真果与假果",
+            "content": "仅子房发育→真果(桃、柑橘)；花托/萼筒参与→假果(苹果、梨、瓜类)",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "肉果类型",
+            "content": "浆果(番茄)、核果(桃)、柑果(柑橘)、梨果(苹果)、瓠果(黄瓜)",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "干果类型",
+            "content": "裂果：荚果(大豆)、角果(油菜)、蒴果(棉花)；闭果：瘦果(向日葵)、颖果(水稻)、坚果(板栗)",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "单性结实",
+            "content": "未经受精子房直接发育成果实，如香蕉、无籽葡萄，可人工诱导(2,4-D、GA)",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "植物系统分类基础",
+        "content": "分类等级、命名法规、系统发育重建原理",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "分类等级与命名",
+            "content": "界门纲目科属种；双名法：属名+种加词+命名人；优先律、模式标本",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "物种概念",
+            "content": "形态学种、生物学种(生殖隔离)、系统发育种(单系群)",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "性状来源与系统发育重建",
+            "content": "形态、解剖、细胞(染色体)、化学、分子(DNA序列)；分支系统学(共衍征)、分子系统学",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "APG系统与四大类群",
+            "content": "无油樟目、睡莲目、木兰藤目(基部群)；单子叶植物；木兰类；真双子叶植物(eudicots)",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "藻类与低等植物概述",
+        "content": "光合自养原核与真核原生生物的多样性及系统位置",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "蓝藻门(原核)",
+            "content": "含叶绿素a、藻蓝素，无真正细胞核，可固氮(鱼腥藻)",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "绿藻门(真核)",
+            "content": "含叶绿素a、b，贮藏淀粉，衣藻、团藻、水绵、轮藻为代表，与陆生植物最近缘",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "硅藻门",
+            "content": "硅质壳壁，含叶绿素a、c，金藻昆布糖，复大孢子恢复细胞大小",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "褐藻门",
+            "content": "含岩藻黄素，大型薄壁组织体，海带具异形世代交替",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "苔藓、石松、蕨类与裸子植物",
+        "content": "陆生植物主要谱系的特征与分类",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "苔藓植物",
+            "content": "配子体占优势，无真根，具颈卵器，原丝体阶段，分苔纲、藓纲、角苔纲",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "石松类与蕨类",
+            "content": "真根维管，小型叶(石松)与大型叶(蕨)，同型或异型孢子，水龙骨纲占现存蕨类90%",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "裸子植物",
+            "content": "种子裸露，具形成层，花粉管，保留颈卵器，分苏铁、银杏、松科、买麻藤、杉柏类五大谱系",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "被子植物系统发育",
+        "content": "单系起源，花与果实的关键创新，APG IV系统框架",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "基部被子植物",
+            "content": "无油樟目、睡莲目、木兰藤目，保留原始特征(无导管、螺旋状花被)",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "单子叶植物",
+            "content": "菖蒲目最基部，随后分泽泻目、百合目、禾本目等11目，具散生中柱、三数花",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "真双子叶植物",
+            "content": "三沟花粉为共衍征，分超蔷薇类(Superrosids)与超菊类(Superasterids)两大支",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "核心真双子叶",
+            "content": "蔷薇类(豆类、蔷薇类、葫芦类)与菊类(唇形类、茄类、菊类)构成物种最丰富的分支",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "单子叶植物基部类群",
+        "content": "包括菖蒲目、泽泻目等，保留原始性状，为系统发育关键节点",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "菖蒲目 Acorales",
+            "content": "仅1科1属2种，叶具中肋，肉穗花序，染色体基数x=12，为单子叶最基部类群",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "菖蒲科 Acoraceae",
+                "content": "菖蒲Acorus calamus与金钱蒲A. gramineus，根茎入药，叶剑状线形，佛焰苞绿色",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "泽泻目 Alismatales",
+            "content": "多为水生或沼生，心皮多数离生，聚合瘦果或蓇葖果",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "天南星科 Araceae",
+                "content": "约117属4000种，具块茎/根茎，佛焰苞+肉穗花序，浆果，染色体x=7-17",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "属级特征与代表种",
+                    "content": "半夏属Pinellia、天南星属Arisaema、芋属Colocasia等，块茎药用或食用",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "泽泻科 Alismataceae",
+                "content": "水生草本，花被6，心皮多数离生，瘦果，慈姑Sagittaria trifolia为常见蔬菜",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "薯蓣目 Dioscoreales",
+        "content": "缠绕藤本，具根茎或块茎，叶掌状脉，花被6，雄蕊6，子房上位，蒴果",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "薯蓣科 Dioscoreaceae",
+            "content": "约4属800种，含薯蓣皂苷元，为合成避孕药及甾体激素原料",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "薯蓣属 Dioscorea",
+                "content": "穿龙薯蓣D. nipponica、参薯D. alata等，块茎药用或食用，叶具3-9基出脉",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "百合目 Liliales",
+        "content": "多年生草本，常具鳞茎或根状茎，花被6，雄蕊6，子房上位，蒴果或浆果",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "百合科 Liliaceae s.str.",
+            "content": "约16属635种，主产北温带，具鳞茎，花大，蒴果，染色体x=5-16",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "百合属 Lilium",
+                "content": "百合L. brownii、岷江百合L. regale等，鳞茎食用或药用，花漏斗状",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "贝母属 Fritillaria",
+                "content": "浙贝母F. thunbergii、川贝母F. cirrhosa，鳞茎入药，花被具暗紫色脉纹",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "菝葜科 Smilacaceae",
+            "content": "木质藤本，叶互生，具网状脉，伞形花序单生叶腋，浆果，根状茎药用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "菝葜属 Smilax",
+                "content": "菝葜S. china、土茯苓S. glabra，根状茎入药，茎具刺，叶柄具卷须",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "天门冬目 Asparagales",
+        "content": "含兰科、鸢尾科、石蒜科等，花被6，雄蕊3或6，子房上位或下位，蒴果或浆果",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "兰科 Orchidaceae",
+            "content": "被子植物第二大科，约750属28000种，花高度特化，合蕊柱，花粉块，侧膜胎座",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "花结构与传粉适应",
+                "content": "唇瓣、合蕊柱、花粉块、子房扭转180°，适应昆虫传粉，种子无胚乳",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "代表属种",
+                "content": "春兰Cymbidium goeringii、铁皮石斛Dendrobium officinale、白及Bletilla striata，观赏或药用",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "鸢尾科 Iridaceae",
+            "content": "多年生草本，具根状茎或球茎，叶二列，花被6，雄蕊3，子房下位，蒴果",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "鸢尾属 Iris",
+                "content": "鸢尾I. tectorum、马蔺I. lactea，花柱上部3分枝呈花瓣状，栽培观赏",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "石蒜科 Amaryllidaceae",
+            "content": "具鳞茎，叶基生，伞形花序，花被裂片6，雄蕊6，子房下位，蒴果",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "石蒜属 Lycoris",
+                "content": "石蒜L. radiata，花鲜红色，叶秋季抽出，鳞茎有毒，可入药",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "棕榈目 Arecales",
+        "content": "仅棕榈科，常绿乔木或灌木，叶掌状或羽状分裂，肉穗花序，核果或浆果",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "棕榈科 Arecaceae",
+            "content": "约183属2450种，主产热带，叶鞘纤维可制棕绳，果实可食或榨油",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "棕榈属 Trachycarpus",
+                "content": "棕榈T. fortunei，叶掌状分裂，分布至长江流域，栽培作绿化",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "椰子属 Cocos",
+                "content": "椰子C. nucifera，果实大型，椰汁可饮，胚乳可食，热带海岸分布",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "鸭跖草目 Commelinales",
+        "content": "草本，叶互生，具叶鞘，聚伞花序，花被3+3，雄蕊6，蒴果",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "鸭跖草科 Commelinaceae",
+            "content": "约40属650种，主产热带，花两侧对称，能育雄蕊3，退化雄蕊2-3",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "鸭跖草属 Commelina",
+                "content": "鸭跖草C. communis，花蓝色，蒴果藏于佛焰苞状总苞内，全草药用",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "姜目 Zingiberales",
+        "content": "多年生芳香草本，具根茎，叶二列，花两侧对称，发育雄蕊1，子房下位",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "姜科 Zingiberaceae",
+            "content": "约50属1300种，花被外轮萼状，内轮花冠状，唇瓣具色彩，蒴果",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "姜属 Zingiber",
+                "content": "姜Z. officinale，根茎黄色，具辛辣味，原产太平洋群岛，现广栽作调味品",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "姜黄属 Curcuma",
+                "content": "姜黄C. longa，根茎含姜黄素，作咖喱主料，亦入药",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "禾本目 Poales",
+        "content": "含莎草科、禾本科等，叶常具叶舌、叶耳，小穗为基本单位，颖果或小坚果",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "莎草科 Cyperaceae",
+            "content": "约106属5400种，秆三棱形，实心无节，叶鞘闭合，小坚果，主产温带",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "莎草属 Cyperus",
+                "content": "香附子C. rotundus，块茎药用，为恶性杂草之一，叶基生，聚伞花序",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "荸荠属 Eleocharis",
+                "content": "荸荠E. dulcis，球茎可生食或熟食，秆圆柱形，仅具叶鞘，小穗顶生",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "禾本科 Poaceae",
+            "content": "约700属11000种，被子植物第五大科，颖果，含大量粮食、饲料及工业原料",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "竹亚科 Bambusoideae",
+                "content": "木本，秆散生或丛生，箨叶与枝生叶异型，雄蕊3或6，如毛竹Phyllostachys edulis",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "稻亚科 Oryzoideae",
+                "content": "水生或陆生，小穗含3小花仅1结实，雄蕊6，颖果与稃片难分离，如稻Oryza sativa",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "早熟禾亚科 Pooideae",
+                "content": "含小麦、大麦、黑麦等，穗状或圆锥花序，小穗背腹压扁，雄蕊3，颖果与稃片易分离",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "小麦属 Triticum",
+                    "content": "小麦T. aestivum，世界三大粮食之一，颖果制面粉，原产西亚，现全球广栽",
+                    "difficulty": "1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "黍亚科 Panicoideae",
+                "content": "含玉米、高粱、甘蔗等，圆锥花序，小穗孪生，雄蕊3，如玉米Zea mays",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "植物细胞壁",
+      "relation": "由...组成",
+      "tail": "胞间层、初生壁、次生壁"
+    },
+    {
+      "head": "质体",
+      "relation": "可转化为",
+      "tail": "叶绿体、有色体、白色体"
+    },
+    {
+      "head": "胞间连丝",
+      "relation": "贯穿",
+      "tail": "初生纹孔场与纹孔膜"
+    },
+    {
+      "head": "根尖分生区",
+      "relation": "分化形成",
+      "tail": "原表皮、基本分生组织、原形成层"
+    },
+    {
+      "head": "双子叶根次生生长",
+      "relation": "依赖于",
+      "tail": "维管形成层与木栓形成层"
+    },
+    {
+      "head": "侧根",
+      "relation": "起源于",
+      "tail": "中柱鞘细胞（内起源）"
+    },
+    {
+      "head": "根瘤",
+      "relation": "由...共生形成",
+      "tail": "豆科植物与根瘤菌"
+    },
+    {
+      "head": "菌根",
+      "relation": "增强",
+      "tail": "植物对水分与养分的吸收"
+    },
+    {
+      "head": "茎尖原套",
+      "relation": "进行",
+      "tail": "垂周分裂扩大表面积"
+    },
+    {
+      "head": "茎尖原体",
+      "relation": "进行",
+      "tail": "各向分裂增加体积"
+    },
+    {
+      "head": "束中形成层",
+      "relation": "连接",
+      "tail": "束间形成层构成维管形成层环"
+    },
+    {
+      "head": "木栓形成层",
+      "relation": "产生",
+      "tail": "木栓层与栓内层（周皮）"
+    },
+    {
+      "head": "双子叶叶肉",
+      "relation": "分化为",
+      "tail": "栅栏组织与海绵组织"
+    },
+    {
+      "head": "禾本科叶脉维管束鞘",
+      "relation": "作为",
+      "tail": "C3与C4植物的解剖标志"
+    },
+    {
+      "head": "气孔开闭",
+      "relation": "受...调控",
+      "tail": "保卫细胞膨压与ABA信号"
+    },
+    {
+      "head": "花芽分化",
+      "relation": "由...基因启动",
+      "tail": "LFY、AP1等花分生组织特征基因"
+    },
+    {
+      "head": "ABC模型",
+      "relation": "解释",
+      "tail": "花器官身份决定机制"
+    },
+    {
+      "head": "雄蕊花粉母细胞",
+      "relation": "经过",
+      "tail": "减数分裂形成小孢子四分体"
+    },
+    {
+      "head": "双受精",
+      "relation": "产生",
+      "tail": "合子(2n)与初生胚乳核(3n)"
+    },
+    {
+      "head": "APG IV系统",
+      "relation": "基于",
+      "tail": "形态与分子证据的被子植物分类系统"
+    },
+    {
+      "head": "系统发育基因组学",
+      "relation": "利用",
+      "tail": "全基因组数据重建植物进化树"
+    },
+    {
+      "head": "植物多样性保护",
+      "relation": "依赖",
+      "tail": "就地保护与迁地保护相结合的策略"
+    },
+    {
+      "head": "花药壁",
+      "relation": "由...组成",
+      "tail": "表皮、药室内壁、中层、绒毡层"
+    },
+    {
+      "head": "绒毡层",
+      "relation": "提供营养给",
+      "tail": "小孢子母细胞"
+    },
+    {
+      "head": "小孢子",
+      "relation": "经减数分裂来源于",
+      "tail": "小孢子母细胞"
+    },
+    {
+      "head": "花粉粒",
+      "relation": "包含",
+      "tail": "营养细胞与生殖细胞(或2精细胞)"
+    },
+    {
+      "head": "胚珠",
+      "relation": "由...组成",
+      "tail": "珠被、珠心、珠柄、珠孔、合点"
+    },
+    {
+      "head": "大孢子母细胞",
+      "relation": "经减数分裂产生",
+      "tail": "大孢子四分体"
+    },
+    {
+      "head": "单核胚囊",
+      "relation": "经三次有丝分裂形成",
+      "tail": "7细胞8核胚囊"
+    },
+    {
+      "head": "卵细胞",
+      "relation": "位于",
+      "tail": "胚囊珠孔端"
+    },
+    {
+      "head": "中央细胞",
+      "relation": "包含",
+      "tail": "2极核"
+    },
+    {
+      "head": "胚乳",
+      "relation": "由...发育而来",
+      "tail": "初生胚乳核"
+    },
+    {
+      "head": "种皮",
+      "relation": "由...发育而来",
+      "tail": "珠被"
+    },
+    {
+      "head": "果实",
+      "relation": "由...发育而来",
+      "tail": "子房"
+    },
+    {
+      "head": "真果",
+      "relation": "仅由...发育",
+      "tail": "子房"
+    },
+    {
+      "head": "假果",
+      "relation": "由...共同发育",
+      "tail": "子房及其他花部"
+    },
+    {
+      "head": "APG系统",
+      "relation": "将被子植物划分为",
+      "tail": "基部群、单子叶植物、木兰类、真双子叶植物"
+    },
+    {
+      "head": "无油樟",
+      "relation": "是...的姐妹群",
+      "tail": "所有其他被子植物"
+    },
+    {
+      "head": "单子叶植物",
+      "relation": "与...为姐妹群",
+      "tail": "真双子叶植物+木兰类+金粟兰目"
+    },
+    {
+      "head": "三沟花粉",
+      "relation": "是...的共衍征",
+      "tail": "真双子叶植物"
+    },
+    {
+      "head": "绿藻门",
+      "relation": "与...共享最近共同祖先",
+      "tail": "陆生植物"
+    },
+    {
+      "head": "轮藻",
+      "relation": "位于",
+      "tail": "绿藻与陆生植物之间"
+    },
+    {
+      "head": "石松类",
+      "relation": "是...的基部谱系",
+      "tail": "维管植物"
+    },
+    {
+      "head": "松科",
+      "relation": "与...为姐妹群",
+      "tail": "买麻藤纲"
+    },
+    {
+      "head": "银杏",
+      "relation": "与...为姐妹群",
+      "tail": "苏铁纲"
+    }
+  ],
+  "metadata": {
+    "chunks_merged": 3,
+    "generated_at": "2025-11-19 09:58:47",
+    "version": "1.1"
+  }
+}

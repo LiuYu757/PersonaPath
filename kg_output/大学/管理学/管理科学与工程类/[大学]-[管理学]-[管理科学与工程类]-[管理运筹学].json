@@ -1,0 +1,658 @@
+{
+  "knowledge_tree": {
+    "title": "管理运筹学",
+    "content": "管理运筹学是运用数学方法和系统分析原理，为管理决策提供定量依据的学科。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "线性规划",
+        "content": "在满足一组线性约束条件下，求解线性目标函数极值的方法。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "线性规划数学模型",
+            "content": "由决策变量、目标函数和约束条件三部分构成。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "决策变量",
+                "content": "问题中需要确定的未知量，通常用x1, x2, ..., xn表示。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "目标函数",
+                "content": "决策者要达到的目标的数学表达式，如max Z = c1x1 + c2x2 + ... + cnxn。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "约束条件",
+                "content": "决策变量需要满足的限制条件，用线性等式或不等式表示。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "图解法",
+            "content": "用几何图形求解两个变量线性规划问题的方法。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "可行域",
+                "content": "满足所有约束条件的解的集合，在图上表现为一个凸多边形区域。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "等值线",
+                "content": "目标函数值相等的点的轨迹。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "最优解判定",
+                "content": "通过目标函数等值线平移，在可行域顶点找到最优解。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "单纯形法",
+            "content": "求解多变量线性规划问题的通用代数方法。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "单纯形表",
+                "content": "将线性规划问题用表格形式表示，便于迭代计算。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "基变量与非基变量",
+                "content": "单纯形法中，基变量对应约束方程组的基，非基变量取零值。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "最优性检验",
+                "content": "通过检验数判断当前解是否最优。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "换基迭代",
+                "content": "通过入基变量和出基变量的选择，改进当前解。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "对偶理论",
+            "content": "每个线性规划问题都存在一个与之对应的对偶问题。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "对偶问题构建",
+                "content": "将原问题的约束条件转化为对偶问题的变量，原问题变量转化为对偶问题约束。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "对偶定理",
+                "content": "若原问题有最优解，则对偶问题也有最优解，且目标函数值相等。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "影子价格",
+                "content": "对偶变量的经济意义，表示对应资源每增加一单位对目标函数的边际贡献。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "灵敏度分析",
+            "content": "分析模型参数变化对最优解的影响。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "目标函数系数变化范围",
+                "content": "保持最优基不变条件下，目标函数系数的允许变化区间。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "资源限量变化范围",
+                "content": "保持最优基不变条件下，约束右端项的允许变化区间。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "运输问题",
+        "content": "研究如何以最小成本将物资从多个供应地运往多个需求地的特殊线性规划问题。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "运输问题数学模型",
+            "content": "目标为总运输成本最小，约束为供应量和需求量的平衡。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "表上作业法",
+            "content": "在运输表上求解运输问题的特殊方法。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "最小元素法",
+                "content": "优先满足单位运价最小的运输路线，用于求初始基可行解。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "伏格尔法",
+                "content": "考虑机会成本，求更好初始解的方法。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "闭回路法",
+                "content": "用于检验当前解是否最优和确定调整量的方法。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "整数规划",
+        "content": "要求部分或全部决策变量取整数值的数学规划问题。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "分支定界法",
+            "content": "通过不断分支和定界，求解整数规划问题的通用方法。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "0-1规划",
+            "content": "决策变量仅取0或1的整数规划，用于表示是/否决策。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "动态规划",
+        "content": "将多阶段决策问题转化为一系列单阶段问题求解的方法。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "最优化原理",
+            "content": "一个最优策略的子策略总是最优的。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "状态变量",
+            "content": "描述过程状态的变量，具有无后效性。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "递推方程",
+            "content": "建立各阶段状态之间关系的方程。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "图与网络分析",
+        "content": "用图论方法研究网络结构及其优化问题。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "最小生成树问题",
+            "content": "求连接所有点的最小权值树形图。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "破圈法",
+                "content": "不断去掉圈中最大边，求最小生成树的方法。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "避圈法",
+                "content": "按权值从小到大选边，避免形成圈的方法。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "最短路问题",
+            "content": "求网络中两点间路径权值和最小的路径。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "Dijkstra算法",
+                "content": "求解非负权网络最短路问题的标号法。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "最大流问题",
+            "content": "求网络中从发点到收点的最大流量。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "Ford-Fulkerson算法",
+                "content": "通过寻找增广链求解最大流的方法。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "排队论",
+        "content": "研究服务系统中排队现象随机特性的理论。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "排队系统组成",
+            "content": "包括输入过程、排队规则和服务机构三部分。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": " Kendall记号",
+            "content": "描述排队系统特征的标准记号X/Y/Z/A/B/C。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "M/M/1排队模型",
+            "content": "顾客到达和服务时间均服从指数分布的单服务台模型。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "存储论",
+        "content": "研究最优存储策略的定量分析方法。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "经济订货批量模型",
+            "content": "平衡订货成本和存储成本，确定最优订货批量的模型。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "决策分析",
+        "content": "研究不确定条件下决策问题的理论和方法。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "风险型决策",
+            "content": "自然状态概率已知的决策问题。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "期望值准则",
+                "content": "选择期望收益最大或期望损失最小的方案。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "不确定型决策",
+            "content": "自然状态概率未知的决策问题。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "乐观准则",
+                "content": "从各方案最大收益中再取最大值的决策准则。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "悲观准则",
+                "content": "从各方案最小收益中取最大值的决策准则。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "管理运筹学",
+      "tail": "线性规划",
+      "relation": "包含"
+    },
+    {
+      "head": "线性规划",
+      "tail": "图解法",
+      "relation": "包含"
+    },
+    {
+      "head": "线性规划",
+      "tail": "单纯形法",
+      "relation": "包含"
+    },
+    {
+      "head": "线性规划",
+      "tail": "对偶理论",
+      "relation": "包含"
+    },
+    {
+      "head": "线性规划",
+      "tail": "灵敏度分析",
+      "relation": "包含"
+    },
+    {
+      "head": "图解法",
+      "tail": "可行域",
+      "relation": "基于"
+    },
+    {
+      "head": "图解法",
+      "tail": "等值线",
+      "relation": "基于"
+    },
+    {
+      "head": "图解法",
+      "tail": "最优解判定",
+      "relation": "基于"
+    },
+    {
+      "head": "单纯形法",
+      "tail": "单纯形表",
+      "relation": "使用"
+    },
+    {
+      "head": "单纯形法",
+      "tail": "基变量与非基变量",
+      "relation": "基于"
+    },
+    {
+      "head": "单纯形法",
+      "tail": "最优性检验",
+      "relation": "包含"
+    },
+    {
+      "head": "单纯形法",
+      "tail": "换基迭代",
+      "relation": "包含"
+    },
+    {
+      "head": "对偶理论",
+      "tail": "对偶问题构建",
+      "relation": "包含"
+    },
+    {
+      "head": "对偶理论",
+      "tail": "对偶定理",
+      "relation": "包含"
+    },
+    {
+      "head": "对偶理论",
+      "tail": "影子价格",
+      "relation": "解释"
+    },
+    {
+      "head": "灵敏度分析",
+      "tail": "目标函数系数变化范围",
+      "relation": "分析"
+    },
+    {
+      "head": "灵敏度分析",
+      "tail": "资源限量变化范围",
+      "relation": "分析"
+    },
+    {
+      "head": "管理运筹学",
+      "tail": "运输问题",
+      "relation": "包含"
+    },
+    {
+      "head": "运输问题",
+      "tail": "表上作业法",
+      "relation": "使用"
+    },
+    {
+      "head": "表上作业法",
+      "tail": "最小元素法",
+      "relation": "包含"
+    },
+    {
+      "head": "表上作业法",
+      "tail": "伏格尔法",
+      "relation": "包含"
+    },
+    {
+      "head": "表上作业法",
+      "tail": "闭回路法",
+      "relation": "包含"
+    },
+    {
+      "head": "管理运筹学",
+      "tail": "整数规划",
+      "relation": "包含"
+    },
+    {
+      "head": "整数规划",
+      "tail": "分支定界法",
+      "relation": "使用"
+    },
+    {
+      "head": "整数规划",
+      "tail": "0-1规划",
+      "relation": "包含"
+    },
+    {
+      "head": "管理运筹学",
+      "tail": "动态规划",
+      "relation": "包含"
+    },
+    {
+      "head": "动态规划",
+      "tail": "最优化原理",
+      "relation": "基于"
+    },
+    {
+      "head": "动态规划",
+      "tail": "状态变量",
+      "relation": "使用"
+    },
+    {
+      "head": "动态规划",
+      "tail": "递推方程",
+      "relation": "使用"
+    },
+    {
+      "head": "管理运筹学",
+      "tail": "图与网络分析",
+      "relation": "包含"
+    },
+    {
+      "head": "图与网络分析",
+      "tail": "最小生成树问题",
+      "relation": "包含"
+    },
+    {
+      "head": "最小生成树问题",
+      "tail": "破圈法",
+      "relation": "使用"
+    },
+    {
+      "head": "最小生成树问题",
+      "tail": "避圈法",
+      "relation": "使用"
+    },
+    {
+      "head": "图与网络分析",
+      "tail": "最短路问题",
+      "relation": "包含"
+    },
+    {
+      "head": "最短路问题",
+      "tail": "Dijkstra算法",
+      "relation": "使用"
+    },
+    {
+      "head": "图与网络分析",
+      "tail": "最大流问题",
+      "relation": "包含"
+    },
+    {
+      "head": "最大流问题",
+      "tail": "Ford-Fulkerson算法",
+      "relation": "使用"
+    },
+    {
+      "head": "管理运筹学",
+      "tail": "排队论",
+      "relation": "包含"
+    },
+    {
+      "head": "排队论",
+      "tail": "排队系统组成",
+      "relation": "描述"
+    },
+    {
+      "head": "排队论",
+      "tail": "Kendall记号",
+      "relation": "使用"
+    },
+    {
+      "head": "排队论",
+      "tail": "M/M/1排队模型",
+      "relation": "包含"
+    },
+    {
+      "head": "管理运筹学",
+      "tail": "存储论",
+      "relation": "包含"
+    },
+    {
+      "head": "存储论",
+      "tail": "经济订货批量模型",
+      "relation": "包含"
+    },
+    {
+      "head": "管理运筹学",
+      "tail": "决策分析",
+      "relation": "包含"
+    },
+    {
+      "head": "决策分析",
+      "tail": "风险型决策",
+      "relation": "包含"
+    },
+    {
+      "head": "风险型决策",
+      "tail": "期望值准则",
+      "relation": "使用"
+    },
+    {
+      "head": "决策分析",
+      "tail": "不确定型决策",
+      "relation": "包含"
+    },
+    {
+      "head": "不确定型决策",
+      "tail": "乐观准则",
+      "relation": "使用"
+    },
+    {
+      "head": "不确定型决策",
+      "tail": "悲观准则",
+      "relation": "使用"
+    },
+    {
+      "head": "线性规划数学模型",
+      "tail": "决策变量",
+      "relation": "由...组成"
+    },
+    {
+      "head": "线性规划数学模型",
+      "tail": "目标函数",
+      "relation": "由...组成"
+    },
+    {
+      "head": "线性规划数学模型",
+      "tail": "约束条件",
+      "relation": "由...组成"
+    },
+    {
+      "head": "运输问题",
+      "tail": "线性规划",
+      "relation": "是特殊类型"
+    },
+    {
+      "head": "对偶理论",
+      "tail": "线性规划",
+      "relation": "应用于"
+    },
+    {
+      "head": "灵敏度分析",
+      "tail": "线性规划",
+      "relation": "应用于"
+    },
+    {
+      "head": "分支定界法",
+      "tail": "整数规划",
+      "relation": "求解"
+    },
+    {
+      "head": "最优化原理",
+      "tail": "动态规划",
+      "relation": "是理论基础"
+    },
+    {
+      "head": "Dijkstra算法",
+      "tail": "最短路问题",
+      "relation": "求解"
+    },
+    {
+      "head": "Ford-Fulkerson算法",
+      "tail": "最大流问题",
+      "relation": "求解"
+    },
+    {
+      "head": "经济订货批量模型",
+      "tail": "存储论",
+      "relation": "是核心模型"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:37:54",
+    "version": "1.1"
+  }
+}

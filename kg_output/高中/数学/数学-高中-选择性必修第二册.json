@@ -1,0 +1,433 @@
+{
+  "knowledge_tree": {
+    "title": "数列",
+    "content": "数列是一类特殊的函数，是按确定顺序排列的一列数。本章学习数列的概念、表示方法，以及等差数列、等比数列的性质、通项公式、前n项和公式，并介绍数学归纳法。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "数列的概念",
+        "content": "按照确定的顺序排列的一列数称为数列，数列中的每一个数叫做这个数列的项。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "数列的定义",
+            "content": "数列是从正整数集（或其有限子集）到实数集的函数，其自变量是序号n，对应的函数值是数列的第n项。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "数列的表示方法",
+            "content": "数列可以用列表、图象、通项公式、递推公式等方式表示。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "数列的分类",
+            "content": "按项数分为有穷数列和无穷数列；按单调性分为递增数列、递减数列和常数列。",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "等差数列",
+        "content": "从第2项起，每一项与它的前一项的差都等于同一个常数的数列称为等差数列。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "等差数列的定义",
+            "content": "如果一个数列从第2项起，每一项与它的前一项的差都等于同一个常数，那么这个数列叫做等差数列，这个常数叫做公差。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "等差中项",
+            "content": "如果a, A, b成等差数列，那么A叫做a与b的等差中项，且2A = a + b。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "等差数列的通项公式",
+            "content": "首项为a₁，公差为d的等差数列的通项公式为aₙ = a₁ + (n-1)d。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "等差数列的前n项和公式",
+            "content": "首项为a₁，公差为d的等差数列的前n项和公式为Sₙ = n(a₁ + aₙ)/2 或 Sₙ = na₁ + n(n-1)d/2。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "等差数列的性质",
+            "content": "若p + q = s + t，则aₚ + a_q = a_s + a_t。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "等比数列",
+        "content": "从第2项起，每一项与它的前一项的比都等于同一个常数的数列称为等比数列。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "等比数列的定义",
+            "content": "如果一个数列从第2项起，每一项与它的前一项的比都等于同一个常数，那么这个数列叫做等比数列，这个常数叫做公比。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "等比中项",
+            "content": "如果a, G, b成等比数列，那么G叫做a与b的等比中项，且G² = ab。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "等比数列的通项公式",
+            "content": "首项为a₁，公比为q的等比数列的通项公式为aₙ = a₁qⁿ⁻¹。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "等比数列的前n项和公式",
+            "content": "首项为a₁，公比为q的等比数列的前n项和公式为Sₙ = a₁(1 - qⁿ)/(1 - q) (q ≠ 1)。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "等比数列的性质",
+            "content": "若p + q = s + t，则aₚ · a_q = a_s · a_t。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数学归纳法",
+        "content": "数学归纳法是一种证明与正整数n有关的命题的方法，包括归纳奠基和归纳递推两个步骤。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "数学归纳法的原理",
+            "content": "证明当n=n₀时命题成立，然后假设n=k时命题成立，证明n=k+1时命题也成立，从而断定命题对所有n≥n₀的正整数都成立。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "数学归纳法的应用",
+            "content": "用于证明等差数列、等比数列的通项公式和前n项和公式，以及其他与正整数n有关的等式和不等式。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数列的定义",
+        "content": "数列是按一定顺序排列的一列数，可以看作定义在正整数集或其有限子集上的函数",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "数列的表示",
+            "content": "数列可以用通项公式、递推公式、列表或图象表示",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "数列的分类",
+            "content": "按项数分为有穷数列和无穷数列；按增减性分为递增数列、递减数列、常数列和摆动数列",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "等差数列",
+        "content": "从第二项起，每一项与它的前一项的差等于同一个常数的数列",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "等差数列的定义",
+            "content": "a_{n+1} - a_n = d (d为常数，n∈N*)",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "等差数列的通项公式",
+            "content": "a_n = a_1 + (n-1)d",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "等差中项",
+            "content": "若a, A, b成等差数列，则A = (a+b)/2",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "等差数列的前n项和公式",
+            "content": "S_n = n(a_1 + a_n)/2 或 S_n = na_1 + n(n-1)d/2",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "等差数列的性质",
+            "content": "若m+n=p+q，则a_m + a_n = a_p + a_q",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "等比数列",
+        "content": "从第二项起，每一项与它的前一项的比等于同一个常数的数列",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "等比数列的定义",
+            "content": "a_{n+1}/a_n = q (q为常数且q≠0, n∈N*)",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "等比数列的通项公式",
+            "content": "a_n = a_1 * q^(n-1)",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "等比中项",
+            "content": "若a, G, b成等比数列，则G = ±√(ab)",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "等比数列的前n项和公式",
+            "content": "S_n = a_1(1-q^n)/(1-q) (q≠1) 或 S_n = na_1 (q=1)",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "等比数列的性质",
+            "content": "若m+n=p+q，则a_m * a_n = a_p * a_q",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数学归纳法",
+        "content": "证明与正整数n有关的命题的一种方法，包含归纳奠基和归纳递推两个步骤",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "数学归纳法的原理",
+            "content": "基于自然数的良序原理，通过有限步骤证明无限多个命题成立",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "数学归纳法的步骤",
+            "content": "1. 证明n=1时命题成立；2. 假设n=k时命题成立，证明n=k+1时命题也成立",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "数学归纳法的应用",
+            "content": "用于证明与正整数有关的恒等式、不等式、整除性问题等",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "数列的综合应用问题，包括数列模型建立、最值问题、实际应用等",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "数列的通项与求和",
+            "content": "已知递推关系求通项公式，或求数列的前n项和",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "数列的单调性与最值",
+            "content": "判断数列的增减性，求数列的最大项或最小项",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "数列的实际应用",
+            "content": "建立数列模型解决实际问题，如人口增长、贷款利息、资源分配等",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "数列与其它知识的综合",
+            "content": "数列与函数、不等式、解析几何等知识的综合应用",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "数列",
+      "tail": "等差数列",
+      "relation": "包含"
+    },
+    {
+      "head": "数列",
+      "tail": "等比数列",
+      "relation": "包含"
+    },
+    {
+      "head": "等差数列",
+      "tail": "等差中项",
+      "relation": "包含"
+    },
+    {
+      "head": "等比数列",
+      "tail": "等比中项",
+      "relation": "包含"
+    },
+    {
+      "head": "等差数列",
+      "tail": "等差数列的通项公式",
+      "relation": "具有"
+    },
+    {
+      "head": "等差数列",
+      "tail": "等差数列的前n项和公式",
+      "relation": "具有"
+    },
+    {
+      "head": "等比数列",
+      "tail": "等比数列的通项公式",
+      "relation": "具有"
+    },
+    {
+      "head": "等比数列",
+      "tail": "等比数列的前n项和公式",
+      "relation": "具有"
+    },
+    {
+      "head": "数学归纳法",
+      "tail": "等差数列的通项公式",
+      "relation": "用于证明"
+    },
+    {
+      "head": "数学归纳法",
+      "tail": "等比数列的通项公式",
+      "relation": "用于证明"
+    },
+    {
+      "head": "等差数列的通项公式",
+      "tail": "等差数列的前n项和公式",
+      "relation": "推导出"
+    },
+    {
+      "head": "等比数列的通项公式",
+      "tail": "等比数列的前n项和公式",
+      "relation": "推导出"
+    },
+    {
+      "head": "等差数列",
+      "tail": "一次函数",
+      "relation": "类比于"
+    },
+    {
+      "head": "等比数列",
+      "tail": "指数函数",
+      "relation": "类比于"
+    },
+    {
+      "head": "等差数列",
+      "tail": "公差",
+      "relation": "具有属性"
+    },
+    {
+      "head": "等差数列",
+      "tail": "通项公式",
+      "relation": "具有"
+    },
+    {
+      "head": "等差数列",
+      "tail": "前n项和公式",
+      "relation": "具有"
+    },
+    {
+      "head": "等比数列",
+      "tail": "公比",
+      "relation": "具有属性"
+    },
+    {
+      "head": "等比数列",
+      "tail": "通项公式",
+      "relation": "具有"
+    },
+    {
+      "head": "等比数列",
+      "tail": "前n项和公式",
+      "relation": "具有"
+    },
+    {
+      "head": "通项公式",
+      "tail": "递推公式",
+      "relation": "可相互推导"
+    },
+    {
+      "head": "前n项和公式",
+      "tail": "通项公式",
+      "relation": "基于"
+    },
+    {
+      "head": "数学归纳法",
+      "tail": "归纳奠基",
+      "relation": "包含步骤"
+    },
+    {
+      "head": "数学归纳法",
+      "tail": "归纳递推",
+      "relation": "包含步骤"
+    },
+    {
+      "head": "等差数列",
+      "tail": "等差中项",
+      "relation": "具有性质"
+    },
+    {
+      "head": "等比数列",
+      "tail": "等比中项",
+      "relation": "具有性质"
+    },
+    {
+      "head": "数列",
+      "tail": "函数",
+      "relation": "是一种特殊"
+    },
+    {
+      "head": "等差数列",
+      "tail": "一次函数",
+      "relation": "通项公式类似"
+    },
+    {
+      "head": "等比数列",
+      "tail": "指数函数",
+      "relation": "通项公式类似"
+    },
+    {
+      "head": "数列模型",
+      "tail": "实际问题",
+      "relation": "用于解决"
+    }
+  ],
+  "metadata": {
+    "chunks_merged": 2,
+    "generated_at": "2025-11-13 15:23:49",
+    "version": "1.1"
+  }
+}

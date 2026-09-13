@@ -1,0 +1,572 @@
+{
+  "knowledge_tree": {
+    "title": "习近平新时代中国特色社会主义思想学生读本（小学低年级）",
+    "content": "小学低年级学生读本，聚焦爱国主义、党的领导、新时代特征、中国梦、少先队使命和新时代好少年要求",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "美丽中国是我家",
+        "content": "介绍中国的基本国情、国旗、国歌、国徽等国家象征，以及国土资源和人民勤劳建设家园的故事",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "国家的象征",
+            "content": "国旗是五星红旗，国徽中间是五星照耀下的天安门，周围是谷穗和齿轮",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "国旗的含义",
+                "content": "五颗五角星象征中国共产党领导下的革命人民大团结",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "国徽的组成",
+                "content": "天安门代表民族精神，谷穗和齿轮象征工农联盟",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "国歌《义勇军进行曲》",
+            "content": "由田汉作词、聂耳作曲，创作于抗日战争时期，号召中国人民万众一心保卫祖国",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "国土与资源",
+            "content": "中国国土辽阔，物产丰富，包括草原、平原、矿产、河流等资源",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "我自豪 我是中国人",
+        "content": "介绍中华文明的历史成就、杰出人物和现代发展成就",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "中华文明与杰出人物",
+            "content": "包括孔子、毕昇、郑成功等历史人物，以及老子、墨子等思想巨匠",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "孔子的贡献",
+                "content": "古代思想家和教育家，言论记载于《论语》，影响深远",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "毕昇的活字印刷术",
+                "content": "发明活字印刷术，比欧洲早400年，促进文化传播",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "现代成就",
+            "content": "包括原子弹爆炸、人造卫星发射、改革开放、经济特区建设等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "改革开放",
+                "content": "1978年开始改革开放，深圳经济特区成立",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "科技成就",
+                "content": "包括北斗导航、复兴号动车、空间站建设等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "一心跟着共产党",
+        "content": "讲述中国共产党的历史、初心使命以及党与人民的关系",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "没有共产党就没有新中国",
+            "content": "中国共产党1921年成立，领导人民经过28年奋斗建立新中国",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "党的重要事件",
+                "content": "包括南昌起义、抗日战争、解放战争等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "党和人民心连心",
+            "content": "通过“半条被子”等故事体现党与人民的紧密联系",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "优秀党员故事",
+                "content": "包括刘胡兰、张思德、王进喜、雷锋、焦裕禄等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "习近平爷爷心系人民群众",
+            "content": "习近平深入群众，体现“我将无我，不负人民”的信念",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "走进新时代",
+        "content": "介绍新时代的特征、成就和奋斗目标",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "新时代新生活",
+            "content": "经济建设、科技发展、环境改善、国防建设等方面的成就",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "科技成就",
+                "content": "蛟龙潜海、嫦娥探月、射电望远镜等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "环境保护",
+                "content": "天更蓝、山更绿、水更清，推广太阳能、垃圾分类等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "新时代新征程",
+            "content": "“两个一百年”奋斗目标，全面建成社会主义现代化强国",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "第一个百年目标",
+                "content": "2021年完成脱贫攻坚、全面建成小康社会",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "第二个百年目标",
+                "content": "2049年建成社会主义现代化强国",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "我们的中国梦",
+        "content": "阐述个人梦想与国家梦想的关系，以及实现梦想的途径",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "我有一个梦想",
+            "content": "鼓励学生树立梦想，并通过努力实现梦想",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "榜样故事",
+                "content": "屠呦呦、袁隆平、竺士杰、孙景南等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "伟大的中国梦",
+            "content": "国家富强、民族振兴、人民幸福，凝聚亿万中国人的梦想",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "航天梦的实现",
+                "content": "一代代航天人通过努力实现中国航天梦",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "实干成就梦想",
+            "content": "强调梦想需要通过努力和奋斗实现",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "张桂梅的故事",
+                "content": "创办免费女子高中，帮助女孩圆大学梦",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "大陈岛垦荒精神",
+                "content": "年轻人响应号召，垦荒建设，实现梦想",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "我们是共产主义接班人",
+        "content": "介绍少先队的使命、历史及习近平对少年的期望",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "光荣的少先队",
+            "content": "少先队的象征、入队仪式及历史",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "红领巾的含义",
+                "content": "代表红旗的一角，是革命先烈的鲜血染成",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "队旗的含义",
+                "content": "五角星代表党的领导，火炬象征光明",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "习近平爷爷对我们的期望",
+            "content": "期望少年儿童成长为合格的社会主义建设者和接班人",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "做新时代的好少年",
+        "content": "强调价值观养成及如何通过行动成为好少年",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "扣好人生第一粒扣子",
+            "content": "践行社会主义核心价值观，养成爱国、敬业、诚信、友善的品质",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "榜样故事",
+                "content": "布茹玛汗·毛勒朵刻“中国”石，黄大发修渠引水",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "好少年在行动",
+            "content": "从自身做起，勤俭节约、关心他人、热爱劳动",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "美丽中国是我家",
+      "tail": "国家的象征",
+      "relation": "包含"
+    },
+    {
+      "head": "国家的象征",
+      "tail": "国旗的含义",
+      "relation": "包含"
+    },
+    {
+      "head": "国家的象征",
+      "tail": "国徽的组成",
+      "relation": "包含"
+    },
+    {
+      "head": "美丽中国是我家",
+      "tail": "国歌《义勇军进行曲》",
+      "relation": "包含"
+    },
+    {
+      "head": "美丽中国是我家",
+      "tail": "国土与资源",
+      "relation": "包含"
+    },
+    {
+      "head": "我自豪 我是中国人",
+      "tail": "中华文明与杰出人物",
+      "relation": "包含"
+    },
+    {
+      "head": "中华文明与杰出人物",
+      "tail": "孔子的贡献",
+      "relation": "包含"
+    },
+    {
+      "head": "中华文明与杰出人物",
+      "tail": "毕昇的活字印刷术",
+      "relation": "包含"
+    },
+    {
+      "head": "我自豪 我是中国人",
+      "tail": "现代成就",
+      "relation": "包含"
+    },
+    {
+      "head": "现代成就",
+      "tail": "改革开放",
+      "relation": "包含"
+    },
+    {
+      "head": "现代成就",
+      "tail": "科技成就",
+      "relation": "包含"
+    },
+    {
+      "head": "一心跟着共产党",
+      "tail": "没有共产党就没有新中国",
+      "relation": "包含"
+    },
+    {
+      "head": "没有共产党就没有新中国",
+      "tail": "党的重要事件",
+      "relation": "包含"
+    },
+    {
+      "head": "一心跟着共产党",
+      "tail": "党和人民心连心",
+      "relation": "包含"
+    },
+    {
+      "head": "党和人民心连心",
+      "tail": "优秀党员故事",
+      "relation": "包含"
+    },
+    {
+      "head": "一心跟着共产党",
+      "tail": "习近平爷爷心系人民群众",
+      "relation": "包含"
+    },
+    {
+      "head": "走进新时代",
+      "tail": "新时代新生活",
+      "relation": "包含"
+    },
+    {
+      "head": "新时代新生活",
+      "tail": "科技成就",
+      "relation": "包含"
+    },
+    {
+      "head": "新时代新生活",
+      "tail": "环境保护",
+      "relation": "包含"
+    },
+    {
+      "head": "走进新时代",
+      "tail": "新时代新征程",
+      "relation": "包含"
+    },
+    {
+      "head": "新时代新征程",
+      "tail": "第一个百年目标",
+      "relation": "包含"
+    },
+    {
+      "head": "新时代新征程",
+      "tail": "第二个百年目标",
+      "relation": "包含"
+    },
+    {
+      "head": "我们的中国梦",
+      "tail": "我有一个梦想",
+      "relation": "包含"
+    },
+    {
+      "head": "我有一个梦想",
+      "tail": "榜样故事",
+      "relation": "包含"
+    },
+    {
+      "head": "我们的中国梦",
+      "tail": "伟大的中国梦",
+      "relation": "包含"
+    },
+    {
+      "head": "伟大的中国梦",
+      "tail": "航天梦的实现",
+      "relation": "包含"
+    },
+    {
+      "head": "我们的中国梦",
+      "tail": "实干成就梦想",
+      "relation": "包含"
+    },
+    {
+      "head": "实干成就梦想",
+      "tail": "张桂梅的故事",
+      "relation": "包含"
+    },
+    {
+      "head": "实干成就梦想",
+      "tail": "大陈岛垦荒精神",
+      "relation": "包含"
+    },
+    {
+      "head": "我们是共产主义接班人",
+      "tail": "光荣的少先队",
+      "relation": "包含"
+    },
+    {
+      "head": "光荣的少先队",
+      "tail": "红领巾的含义",
+      "relation": "包含"
+    },
+    {
+      "head": "光荣的少先队",
+      "tail": "队旗的含义",
+      "relation": "包含"
+    },
+    {
+      "head": "我们是共产主义接班人",
+      "tail": "习近平爷爷对我们的期望",
+      "relation": "包含"
+    },
+    {
+      "head": "做新时代的好少年",
+      "tail": "扣好人生第一粒扣子",
+      "relation": "包含"
+    },
+    {
+      "head": "扣好人生第一粒扣子",
+      "tail": "榜样故事",
+      "relation": "包含"
+    },
+    {
+      "head": "做新时代的好少年",
+      "tail": "好少年在行动",
+      "relation": "包含"
+    },
+    {
+      "head": "社会主义核心价值观",
+      "tail": "爱国",
+      "relation": "包含"
+    },
+    {
+      "head": "社会主义核心价值观",
+      "tail": "敬业",
+      "relation": "包含"
+    },
+    {
+      "head": "社会主义核心价值观",
+      "tail": "诚信",
+      "relation": "包含"
+    },
+    {
+      "head": "社会主义核心价值观",
+      "tail": "友善",
+      "relation": "包含"
+    },
+    {
+      "head": "中国梦",
+      "tail": "国家富强",
+      "relation": "包含"
+    },
+    {
+      "head": "中国梦",
+      "tail": "民族振兴",
+      "relation": "包含"
+    },
+    {
+      "head": "中国梦",
+      "tail": "人民幸福",
+      "relation": "包含"
+    },
+    {
+      "head": "新时代",
+      "tail": "经济建设",
+      "relation": "包含"
+    },
+    {
+      "head": "新时代",
+      "tail": "科技发展",
+      "relation": "包含"
+    },
+    {
+      "head": "新时代",
+      "tail": "环境改善",
+      "relation": "包含"
+    },
+    {
+      "head": "中国共产党",
+      "tail": "初心使命",
+      "relation": "包含"
+    },
+    {
+      "head": "中国共产党",
+      "tail": "与人民心连心",
+      "relation": "包含"
+    },
+    {
+      "head": "少先队",
+      "tail": "听党话",
+      "relation": "基于"
+    },
+    {
+      "head": "少先队",
+      "tail": "跟党走",
+      "relation": "基于"
+    },
+    {
+      "head": "习近平",
+      "tail": "关心少年儿童",
+      "relation": "体现"
+    },
+    {
+      "head": "习近平",
+      "tail": "期望少年成长",
+      "relation": "体现"
+    },
+    {
+      "head": "好少年",
+      "tail": "践行社会主义核心价值观",
+      "relation": "基于"
+    },
+    {
+      "head": "好少年",
+      "tail": "勤俭节约",
+      "relation": "基于"
+    },
+    {
+      "head": "好少年",
+      "tail": "关心他人",
+      "relation": "基于"
+    },
+    {
+      "head": "好少年",
+      "tail": "热爱劳动",
+      "relation": "基于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:32:56",
+    "version": "1.1"
+  }
+}

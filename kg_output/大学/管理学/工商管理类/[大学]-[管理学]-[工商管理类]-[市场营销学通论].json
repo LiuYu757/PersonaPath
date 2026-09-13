@@ -1,0 +1,299 @@
+{
+  "knowledge_tree": {
+    "title": "市场营销学通论",
+    "content": "工商管理类核心课程，系统阐述营销原理、策略与工具",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "营销基础概念",
+        "content": "市场、需要、欲望、需求、产品、价值、交换、交易、关系营销等核心定义",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "市场定义",
+            "content": "具有特定需要或欲望、愿意且能够通过交换来满足该需要或欲望的全部潜在顾客",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "需要、欲望与需求",
+            "content": "需要：人类基本生存与发展要求；欲望：文化背景下的具体满足形式；需求：有支付能力的欲望",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "产品概念",
+            "content": "能够提供到市场供注意、获取、使用或消费，以满足需要或欲望的任何东西",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "顾客价值",
+            "content": "顾客拥有或使用某种产品所获得的利益与为之付出的成本之间的差额",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "顾客感知价值模型",
+                "content": "CPV = 感知利益 − 感知成本",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "营销哲学演进",
+        "content": "从生产观念到全方位营销观念的演变路径",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "生产观念",
+            "content": "消费者偏好廉价且广泛可得的产品，企业应致力于提高生产效率",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "产品观念",
+            "content": "消费者偏好高质量、高性能的产品，企业应不断改进产品",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "推销观念",
+            "content": "消费者不会主动购买足够的产品，企业需积极推销与促销",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "营销观念",
+            "content": "实现组织目标的关键在于比竞争者更有效地满足目标市场的需求",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "社会营销观念",
+            "content": "企业应在满足消费者需求、企业利益与社会长远福利之间取得平衡",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "营销4P组合",
+        "content": "产品(Product)、价格(Price)、渠道(Place)、促销(Promotion)四大可控变量",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "产品策略",
+            "content": "产品层次、生命周期、品牌、包装、服务、新产品开发",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "产品三层次模型",
+                "content": "核心利益、实体产品、附加服务",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "产品生命周期曲线",
+                "content": "导入、成长、成熟、衰退四阶段销售额与利润变化规律",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "定价策略",
+            "content": "成本导向、需求导向、竞争导向定价及心理定价技巧",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "盈亏平衡定价公式",
+                "content": "P = (FC/Q) + VC，其中FC为固定成本，Q为销量，VC为单位变动成本",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "渠道策略",
+            "content": "渠道层级、密集/选择/独家分销、垂直与水平渠道系统",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "促销组合",
+            "content": "广告、销售促进、公关、人员推销、直复营销工具整合",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "DAGMAR模型",
+                "content": "广告目标按知晓—理解—信服—行动四阶段设定",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "STP营销战略",
+        "content": "市场细分(Segmentation)、目标市场选择(Targeting)、市场定位(Positioning)三步曲",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "细分变量",
+            "content": "地理、人口、心理、行为四大变量及多变量组合",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "目标市场策略",
+            "content": "无差异、差异化、集中化、微市场营销四种模式",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "定位图工具",
+            "content": "以价格与质量为坐标轴绘制竞争品牌位置图",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "消费者行为分析",
+        "content": "购买决策过程与影响因素模型",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "黑箱模型",
+            "content": "营销刺激与环境刺激→购买者黑箱(特征+决策过程)→购买者反应",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "五阶段购买决策",
+            "content": "需求认知→信息搜集→方案评估→购买决策→购后行为",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Fishbein模型",
+            "content": "Attitude = Σ(Bi × Ei)，其中Bi为信念强度，Ei为属性评价",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "品牌资产管理",
+        "content": "品牌知名度、品牌忠诚度、感知质量、品牌联想测评与提升",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "品牌价值链模型",
+            "content": "营销投入→顾客心智→市场绩效→股东价值四阶段价值传递",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "Aaker品牌资产五星模型",
+            "content": "品牌忠诚度、品牌知名度、感知质量、品牌联想、其他专有资产",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数字营销工具",
+        "content": "SEO、SEM、社交媒体营销、内容营销、大数据精准营销",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "AARRR漏斗模型",
+            "content": "Acquisition获取→Activation激活→Retention留存→Revenue收入→Referral推荐",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "RTB实时竞价公式",
+            "content": "eCPM = CPC × CTR × 1000，其中eCPM为有效千次展示收益",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "营销绩效测量",
+        "content": "销售分析、市场份额分析、营销费用率、顾客终身价值(CLV)",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "CLV计算公式",
+            "content": "CLV = (平均订单利润 × 年购买频次 × 顾客寿命年数) − 获客成本",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "市场细分",
+      "relation": "应用于",
+      "tail": "目标市场选择"
+    },
+    {
+      "head": "目标市场选择",
+      "relation": "应用于",
+      "tail": "市场定位"
+    },
+    {
+      "head": "产品生命周期",
+      "relation": "指导",
+      "tail": "产品策略制定"
+    },
+    {
+      "head": "品牌资产五星模型",
+      "relation": "由...组成",
+      "tail": "品牌忠诚度、品牌知名度、感知质量、品牌联想、其他专有资产"
+    },
+    {
+      "head": "Fishbein模型",
+      "relation": "用于",
+      "tail": "消费者态度测量"
+    },
+    {
+      "head": "AARRR漏斗模型",
+      "relation": "用于",
+      "tail": "数字营销效果评估"
+    },
+    {
+      "head": "盈亏平衡定价公式",
+      "relation": "基于",
+      "tail": "成本导向定价策略"
+    },
+    {
+      "head": "CLV计算公式",
+      "relation": "用于",
+      "tail": "顾客终身价值评估"
+    },
+    {
+      "head": "DAGMAR模型",
+      "relation": "用于",
+      "tail": "广告目标设定"
+    },
+    {
+      "head": "RTB实时竞价公式",
+      "relation": "用于",
+      "tail": "程序化广告投放"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-19 09:48:23",
+    "version": "1.1"
+  }
+}

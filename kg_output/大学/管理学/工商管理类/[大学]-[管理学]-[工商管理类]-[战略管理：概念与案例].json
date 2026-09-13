@@ -1,0 +1,1255 @@
+{
+  "knowledge_tree": {
+    "title": "战略管理：概念与案例",
+    "content": "系统梳理战略管理核心概念、分析工具与典型案例，覆盖从战略制定到实施、从业务层到企业层、从国内到国际的完整知识框架",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "战略管理基础",
+        "content": "奠定战略管理学科的基本概念与理论根基",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "战略(Strategy)",
+            "content": "组织为获取可持续竞争优势而制定的长期方向与资源配置决策",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "战略管理过程(Strategic Management Process)",
+            "content": "包含战略分析、战略制定、战略实施与战略控制四阶段的循环模型",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "战略分析",
+                "content": "内外部环境扫描与资源能力评估",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "战略制定",
+                "content": "选择公司层、业务层与职能层战略",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "战略实施",
+                "content": "通过结构、文化与控制将战略落地",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "战略控制",
+                "content": "监测绩效并动态调整战略",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "战略竞争力(Strategic Competitiveness)",
+            "content": "企业通过实施创造价值战略而获得的市场优势地位",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "竞争优势(Competitive Advantage)",
+            "content": "企业相对竞争对手能为顾客创造更高价值的能力",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "战略灵活性(Strategic Flexibility)",
+            "content": "快速调整战略以应对环境变化的动态能力",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "外部环境分析",
+        "content": "评估宏观与行业环境对战略的影响",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "一般环境(PESTEL)",
+            "content": "政治、经济、社会、技术、环境、法律六维度宏观扫描",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "政治/法律维度",
+                "content": "政府政策、法规、反垄断与贸易限制",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "经济维度",
+                "content": "增长、利率、汇率、通胀与周期",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "社会文化维度",
+                "content": "人口结构、价值观与生活方式变迁",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "技术维度",
+                "content": "技术生命周期与颠覆性创新",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "环境维度",
+                "content": "可持续发展与碳中和要求",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "行业环境(Porter五力)",
+            "content": "分析行业吸引力与利润潜力",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "现有竞争者 rivalry",
+                "content": "行业集中度、增长率与退出壁垒",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "潜在进入者 threat of entry",
+                "content": "进入壁垒：规模经济、品牌忠诚、资本需求",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "替代品威胁 threat of substitutes",
+                "content": "性价比与转换成本",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "供应商议价力 supplier power",
+                "content": "集中度与转换成本",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "买方议价力 buyer power",
+                "content": "集中度与价格敏感度",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "竞争者分析",
+            "content": "识别竞争对手、预测其行动与反应",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "战略群组 Strategic Group",
+                "content": "行业内采用相似战略的企业集群",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "竞争情报 Competitive Intelligence",
+                "content": "合法收集并解读对手信息",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "互补者 Complementors",
+                "content": "增加本行业产品价值的合作方",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "机会与威胁",
+            "content": "外部环境中可被利用或需防范的关键因素",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "内部环境分析",
+        "content": "评估资源、能力与核心竞争力",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "资源基础观 RBV",
+            "content": "企业是异质资源 bundle 的集合",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "有形资源 Tangible Resources",
+                "content": "财务、实物、技术资产",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "无形资源 Intangible Resources",
+                "content": "品牌、专利、声誉、文化",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "能力 Capabilities",
+            "content": "整合资源以完成任务的重复性活动",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "价值链分析 Value Chain",
+                "content": "识别基本与支持活动中的成本或差异化驱动因素",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "核心 competencies",
+            "content": "能为顾客创造独特价值且难模仿的能力组合",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "VRIO框架",
+                "content": "价值、稀缺、模仿成本、组织四检验",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "资源可持续标准",
+            "content": "Valuable, Rare, Costly-to-imitate, Non-substitutable",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "业务层战略",
+        "content": "在单一产品市场获取竞争优势的战略",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "成本领先 Cost Leadership",
+            "content": "通过规模、学习曲线与严格控制实现最低成本",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "规模经济 Economies of Scale",
+                "content": "产量扩大导致单位成本下降",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "学习曲线 Learning Curve",
+                "content": "累积产量增加带来效率提升",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "总成本领先公式",
+                "content": "单位成本 = (固定成本/产量) + 变动成本",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "差异化 Differentiation",
+            "content": "通过独特产品属性获得溢价",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "差异化溢价公式",
+                "content": "溢价 ≥ 差异化成本",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "聚焦 Focus",
+            "content": "在狭窄细分市场实施成本或差异化战略",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "整合成本/差异化 Integrated Strategy",
+            "content": "同时追求成本领先与差异化，依赖柔性制造与TQM",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "全面质量管理 TQM",
+                "content": "持续改进、零缺陷、顾客满意",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "柔性制造系统 FMS",
+                "content": "小批量多品种低成本生产",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "商业模式创新",
+            "content": "价值主张、收入来源与成本结构的新组合",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "订阅模式 Subscription",
+                "content": "经常性收入降低现金流波动",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "免费增值 Freemium",
+                "content": "免费基础+付费高级功能",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "平台/网络效应 Platform",
+                "content": "用户规模扩大带来价值指数增长",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "竞争动态",
+        "content": "企业在快速变化环境中的行动-反应序列",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "竞争行为 Competitive Behavior",
+            "content": "企业发起的具体市场或战略行动",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "竞争反应 Competitive Response",
+            "content": "对手对行动的反击",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "先动优势 First-mover Advantage",
+            "content": "率先进入带来的品牌、规模与转换成本优势",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "次动/后动优势",
+            "content": "通过模仿与快速迭代降低不确定性",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "市场生命周期与速度",
+            "content": "慢周期、快周期与标准周期市场的竞争规则差异",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "公司层战略",
+        "content": "多业务组合与多元化逻辑",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "多元化类型",
+            "content": "按业务相关性与收入占比分类",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "单一/主导业务",
+                "content": ">95%收入来自单一业务",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "相关多元化 Related Diversification",
+                "content": "共享资源、能力或分销渠道",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "范围经济 Economies of Scope",
+                    "content": "共享资源降低多业务总成本",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "非相关多元化 Unrelated Diversification",
+                "content": "财务协同与资本市场套利",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "财务经济 Financial Economies",
+                    "content": "内部资本市场与风险分散",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "纵向一体化 Vertical Integration",
+            "content": "沿产业链延伸控制上下游",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "前向一体化 Forward",
+                "content": "控制分销或零售",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "后向一体化 Backward",
+                "content": "控制原材料或零部件",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "公司层核心能力 Corporate Core Competence",
+            "content": "跨业务共享的复杂能力与知识",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "多元化与绩效",
+            "content": "倒U型关系：适度相关多元化绩效最佳",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "并购与重组",
+        "content": "外部增长与内部调整机制",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "并购类型",
+            "content": "按交易性质与目的分类",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "横向并购 Horizontal",
+                "content": "同行业竞争者合并，提高市场势力",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "纵向并购 Vertical",
+                "content": "产业链上下游合并，降低交易成本",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "相关并购 Related",
+                "content": "共享市场或技术的相邻行业合并",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "并购动因",
+            "content": "协同效应、速度、市场势力与资源获取",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "协同效应 Synergy",
+                "content": "2+2>5 的价值增值",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "收入协同 Revenue Synergy",
+                    "content": "交叉销售与市场份额提升",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "成本协同 Cost Synergy",
+                    "content": "规模经济与重复职能削减",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "并购流程",
+            "content": "目标筛选、估值、谈判、整合四阶段",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "估值方法",
+                "content": "DCF、可比公司、可比交易",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "整合挑战",
+                "content": "文化、系统、人员与流程融合",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "重组策略",
+            "content": "通过缩减、聚焦或杠杆收购提升价值",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "缩减规模 Downsizing",
+                "content": "裁员与关闭低效业务",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "业务聚焦 Downscoping",
+                "content": "剥离非核心业务回归主业",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "杠杆收购 LBO",
+                "content": "高负债收购后通过效率提升偿债",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "国际化战略",
+        "content": "跨国经营与全球竞争优势",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "国际化动因",
+            "content": "市场、资源、效率与战略资产寻求",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "进入模式",
+            "content": "按资源投入与控制程度排序",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "出口 Exporting",
+                "content": "低投入、低控制、低风险",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "许可 Licensing",
+                "content": "技术授权，低投入但易流失核心知识",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "战略联盟 Strategic Alliance",
+                "content": "共享资源与风险，需平衡合作与竞争",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "跨国并购 Cross-border M&A",
+                "content": "快速获取市场与资源，面临政治与文化风险",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "绿地投资 Greenfield Venture",
+                "content": "新建全资子公司，高投入高控制",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "国际化战略类型",
+            "content": "按全球整合与本地响应压力划分",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "多国本土化 Multidomestic",
+                "content": "高度本地响应，低全球整合",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "全球战略 Global",
+                "content": "高度全球整合，低本地响应",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "跨国战略 Transnational",
+                "content": "同时追求全球效率与本地响应",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "外来者劣势 Liability of Foreignness",
+            "content": "跨国经营额外成本：文化、制度与距离",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "战略实施与控制",
+        "content": "通过组织设计、文化与评价体系落地战略",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "组织结构",
+            "content": "结构跟随战略",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "职能结构 Functional",
+                "content": "单一业务企业，专业化分工",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "事业部结构 Divisional",
+                "content": "多业务企业，按产品或地区划分",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "矩阵结构 Matrix",
+                "content": "双重汇报，平衡全球与本地需求",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "战略领导",
+            "content": "高层管理者在战略形成与变革中的角色",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "愿景 Vision",
+                "content": "未来期望状态的图景",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "使命 Mission",
+                "content": "企业存在的根本目的与价值观",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "战略控制与绩效",
+            "content": "平衡财务与非财务指标",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "平衡计分卡 BSC",
+                "content": "财务、客户、内部流程、学习成长四维度",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "公司治理",
+            "content": "利益相关者激励与监督机制",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "代理问题 Agency Problem",
+                "content": "所有者与管理者利益冲突",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "利益相关者 Stakeholders",
+                "content": "影响或受企业影响的群体",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "战略变革与创新",
+        "content": "在动态环境中持续更新战略",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "战略变革类型",
+            "content": "按幅度与速度划分",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "渐进式 Incremental",
+                "content": "小幅持续改进",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "激进式 Radical",
+                "content": "大幅快速重构",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "创新战略",
+            "content": "通过产品、流程或商业模式创新获取优势",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "开放式创新 Open Innovation",
+                "content": "跨越边界利用外部知识",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "颠覆式创新 Disruptive Innovation",
+                "content": "从低端市场切入最终重塑行业",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数字化战略",
+            "content": "利用大数据、AI与平台重塑竞争规则",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "数据驱动决策",
+                "content": "实时数据替代经验直觉",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "平台战略 Platform Strategy",
+                "content": "连接多边市场，赢家通吃",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "战略管理基础",
+        "content": "战略定义、层次与过程模型",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "战略定义",
+            "content": "企业为获取持续竞争优势而制定的长期、全局性行动计划",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "战略三层次",
+            "content": "公司层、业务层、职能层战略",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "战略管理过程模型",
+            "content": "战略分析→战略制定→战略实施→战略控制",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "外部环境分析",
+        "content": "宏观、行业与竞争环境评估",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "PESTEL 模型",
+            "content": "政治、经济、社会、技术、环境、法律六维度宏观分析",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "五力模型",
+            "content": "波特提出的行业结构分析框架：现有竞争者、潜在进入者、替代品、供应商、买方议价能力",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "战略群组",
+            "content": "行业内具有相似战略特征的企业集合",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "内部环境分析",
+        "content": "资源、能力与核心竞争力评估",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "VRIO 框架",
+            "content": "价值、稀缺性、模仿性、组织四维度检验资源与能力",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "价值链分析",
+            "content": "波特提出的企业内部活动价值增值模型",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "核心竞争力",
+            "content": "能为企业带来持续竞争优势的集体学习与技能",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "业务层战略",
+        "content": "竞争战略选择与执行",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "成本领先战略",
+            "content": "通过规模经济与效率降低成本获取优势",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "差异化战略",
+            "content": "通过独特产品/服务获取溢价",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "集中化战略",
+            "content": "聚焦特定细分市场实施成本或差异化战略",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "蓝海战略",
+            "content": "通过价值创新开辟无竞争市场空间",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "公司层战略",
+        "content": "多元化、并购与国际化",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "相关多元化",
+            "content": "进入与现有业务共享资源/能力的领域",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "非相关多元化",
+            "content": "进入与现有业务无显著协同的领域",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "并购动因",
+            "content": "协同效应、市场力量、资源获取、速度",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "国际化进入模式",
+            "content": "出口、许可、特许经营、合资、绿地、并购",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "战略实施",
+        "content": "组织结构、控制与治理",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "组织结构类型",
+            "content": "职能制、事业部制、矩阵制、网络型",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "战略控制",
+            "content": "财务控制与战略控制平衡",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "公司治理",
+            "content": "董事会、高管激励、股东监督机制",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "战略创业与创新",
+        "content": "通过创业活动实现持续战略更新",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "战略创业",
+            "content": "将创业精神嵌入战略管理过程",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "开放式创新",
+            "content": "跨越组织边界利用外部创新资源",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "商业模式创新",
+            "content": "重构价值创造、传递与获取逻辑",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "战略变革与领导力",
+        "content": "动态环境下的战略调整与领导机制",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "战略变革类型",
+            "content": "渐进式 vs. 激进式",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "变革阻力与克服",
+            "content": "认知、政治、资源障碍及干预措施",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "战略领导力",
+            "content": "高层团队在战略形成与变革中的关键作用",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "可持续与利益相关者战略",
+        "content": "ESG、共享价值与长期竞争优势",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "三重底线",
+            "content": "财务、社会、环境绩效并重",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "共享价值",
+            "content": "通过解决社会问题创造经济价值",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "利益相关者管理",
+            "content": "识别、优先排序与协同多元利益相关者",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型案例类型",
+        "content": "课程中反复出现的分析模板与案例类别",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "五力案例",
+            "content": "航空、制药、餐饮等行业五力应用",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "蓝海案例",
+            "content": "iTunes、任天堂Wii、太阳马戏团",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "并购整合案例",
+            "content": "辉瑞-惠氏、大众-保时捷",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "国际化案例",
+            "content": "Zara、丰田、华为进入模式比较",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "战略管理过程",
+      "relation": "包含",
+      "tail": "战略分析"
+    },
+    {
+      "head": "战略管理过程",
+      "relation": "包含",
+      "tail": "战略制定"
+    },
+    {
+      "head": "战略管理过程",
+      "relation": "包含",
+      "tail": "战略实施"
+    },
+    {
+      "head": "战略管理过程",
+      "relation": "包含",
+      "tail": "战略控制"
+    },
+    {
+      "head": "Porter五力模型",
+      "relation": "用于",
+      "tail": "行业环境分析"
+    },
+    {
+      "head": "VRIO框架",
+      "relation": "用于评估",
+      "tail": "核心 competencies"
+    },
+    {
+      "head": "价值链分析",
+      "relation": "用于识别",
+      "tail": "成本或差异化驱动因素"
+    },
+    {
+      "head": "成本领先战略",
+      "relation": "依赖",
+      "tail": "规模经济"
+    },
+    {
+      "head": "差异化战略",
+      "relation": "依赖",
+      "tail": "品牌溢价"
+    },
+    {
+      "head": "聚焦战略",
+      "relation": "是",
+      "tail": "成本领先或差异化在细分市场中的应用"
+    },
+    {
+      "head": "TQM",
+      "relation": "支持",
+      "tail": "整合成本/差异化战略"
+    },
+    {
+      "head": "先动优势",
+      "relation": "在",
+      "tail": "慢周期市场"
+    },
+    {
+      "head": "后动优势",
+      "relation": "在",
+      "tail": "快周期市场"
+    },
+    {
+      "head": "相关多元化",
+      "relation": "追求",
+      "tail": "范围经济"
+    },
+    {
+      "head": "非相关多元化",
+      "relation": "追求",
+      "tail": "财务经济"
+    },
+    {
+      "head": "纵向一体化",
+      "relation": "降低",
+      "tail": "交易成本"
+    },
+    {
+      "head": "横向并购",
+      "relation": "提高",
+      "tail": "市场势力"
+    },
+    {
+      "head": "跨国并购",
+      "relation": "面临",
+      "tail": "外来者劣势"
+    },
+    {
+      "head": "绿地投资",
+      "relation": "提供",
+      "tail": "最高控制权"
+    },
+    {
+      "head": "多国本土化战略",
+      "relation": "强调",
+      "tail": "本地响应"
+    },
+    {
+      "head": "全球战略",
+      "relation": "强调",
+      "tail": "全球整合"
+    },
+    {
+      "head": "跨国战略",
+      "relation": "同时追求",
+      "tail": "全球整合与本地响应"
+    },
+    {
+      "head": "平衡计分卡",
+      "relation": "衡量",
+      "tail": "战略绩效"
+    },
+    {
+      "head": "颠覆式创新",
+      "relation": "重塑",
+      "tail": "行业规则"
+    },
+    {
+      "head": "平台战略",
+      "relation": "利用",
+      "tail": "网络效应"
+    },
+    {
+      "head": "五力模型",
+      "tail": "行业结构分析",
+      "relation": "应用于"
+    },
+    {
+      "head": "VRIO 框架",
+      "tail": "核心竞争力识别",
+      "relation": "用于评估"
+    },
+    {
+      "head": "成本领先战略",
+      "tail": "规模经济",
+      "relation": "依赖于"
+    },
+    {
+      "head": "差异化战略",
+      "tail": "品牌价值",
+      "relation": "依赖于"
+    },
+    {
+      "head": "蓝海战略",
+      "tail": "价值创新",
+      "relation": "核心在于"
+    },
+    {
+      "head": "相关多元化",
+      "tail": "资源协同",
+      "relation": "追求"
+    },
+    {
+      "head": "并购",
+      "tail": "协同效应",
+      "relation": "旨在实现"
+    },
+    {
+      "head": "国际化",
+      "tail": "进入模式选择",
+      "relation": "需要"
+    },
+    {
+      "head": "战略控制",
+      "tail": "平衡计分卡",
+      "relation": "工具包括"
+    },
+    {
+      "head": "公司治理",
+      "tail": "代理成本",
+      "relation": "旨在降低"
+    },
+    {
+      "head": "战略创业",
+      "tail": "商业模式创新",
+      "relation": "包含"
+    },
+    {
+      "head": "三重底线",
+      "tail": "可持续竞争优势",
+      "relation": "有助于实现"
+    },
+    {
+      "head": "iTunes 案例",
+      "tail": "蓝海战略",
+      "relation": "典型例证"
+    },
+    {
+      "head": "辉瑞-惠氏并购",
+      "tail": "相关多元化",
+      "relation": "属于"
+    },
+    {
+      "head": "Zara 国际化",
+      "tail": "快速时尚模式",
+      "relation": "依托"
+    }
+  ],
+  "metadata": {
+    "chunks_merged": 2,
+    "generated_at": "2025-11-19 10:03:59",
+    "version": "1.1"
+  }
+}

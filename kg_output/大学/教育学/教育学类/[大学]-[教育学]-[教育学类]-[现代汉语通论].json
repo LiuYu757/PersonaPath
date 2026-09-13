@@ -1,0 +1,757 @@
+{
+  "knowledge_tree": {
+    "title": "现代汉语通论",
+    "content": "现代汉语通论是教育学类中汉语言文学专业的基础课程，系统介绍现代汉语的语音、文字、词汇、语法、修辞等基本理论和知识。",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "语音",
+        "content": "语音是语言的声音形式，是语言的物质外壳。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "语音的性质",
+            "content": "语音具有物理属性、生理属性和社会属性。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "物理属性",
+                "content": "语音同其他声音一样，具有音高、音强、音长、音色四要素。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "生理属性",
+                "content": "语音是由人的发音器官发出来的。发音器官可分为呼吸器官、喉头和声带、咽腔、口腔和鼻腔三大部分。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "社会属性",
+                "content": "语音的社会属性是语音的本质属性。语音的形式和意义的结合是约定俗成的。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "声母",
+            "content": "声母指音节开头的辅音。普通话有21个辅音声母。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "声母的发音部位",
+                "content": "发音时气流受到阻碍的位置。分为双唇音、唇齿音、舌尖前音、舌尖中音、舌尖后音、舌面音、舌根音。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "声母的发音方法",
+                "content": "发音时喉头、口腔和鼻腔节制气流的方式和状况。包括阻碍方式、声带是否振动、气流的强弱。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "韵母",
+            "content": "韵母指音节中声母后面的部分。普通话有39个韵母。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "韵母的结构",
+                "content": "韵母可以分为韵头、韵腹、韵尾三部分。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "韵母的分类",
+                "content": "按结构分为单韵母、复韵母、鼻韵母；按韵头分为开口呼、齐齿呼、合口呼、撮口呼。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "声调",
+            "content": "声调指音节中具有区别意义作用的音高变化。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "调值和调类",
+                "content": "调值指音节高低升降曲直长短的变化形式，即声调的实际读法。调类是声调的种类，即把调值相同的字归纳在一起所建立的类。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "普通话的声调",
+                "content": "普通话有四个基本调类：阴平、阳平、上声、去声。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "文字",
+        "content": "文字是记录语言的书写符号系统，是最重要的辅助性交际工具。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "汉字的性质",
+            "content": "汉字是表意体系的文字。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "表意文字",
+                "content": "汉字用象征性的书写符号记录词或语素的意义，而不直接或不单纯表示语音。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "汉字的形体",
+            "content": "汉字的形体指汉字的书写外形。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "汉字形体的演变",
+                "content": "汉字形体经历了甲骨文、金文、篆书、隶书、楷书等阶段。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "现行汉字的形体",
+                "content": "现行汉字的标准形体是楷书，主要辅助形体是行书。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "汉字的结构",
+            "content": "汉字的结构包括结构单位和笔顺。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "结构单位",
+                "content": "汉字的结构单位有笔画、部件和整字。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "笔顺",
+                "content": "笔顺指书写汉字时笔画的先后顺序。基本规则有先横后竖、先撇后捺、从上到下、从左到右等。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "词汇",
+        "content": "词汇又称语汇，是一种语言里所有的（或特定范围的）词和固定短语的总和。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "词汇的构成",
+            "content": "词汇包括词和固定短语。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "词",
+                "content": "词是最小的能够独立运用的语言单位。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "固定短语",
+                "content": "固定短语是词与词的固定组合，包括成语、惯用语、歇后语等。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "词的结构",
+            "content": "词的结构指词的内部构成方式。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "语素",
+                "content": "语素是语言中最小的音义结合体。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "词的类型",
+                "content": "根据语素的多少，词可分为单纯词和合成词。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "词义",
+            "content": "词义是词的内容，是客观事物或现象在人们头脑中的概括反映。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "词义的性质",
+                "content": "词义具有概括性、模糊性和民族性。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "词义的构成",
+                "content": "词义由理性义和色彩义构成。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "语法",
+        "content": "语法是词、短语、句子等语言单位的结构规律。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "语法单位",
+            "content": "语法单位包括语素、词、短语和句子。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "语素",
+                "content": "语素是语言中最小的音义结合体，是构词单位。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "词",
+                "content": "词是最小的能够独立运用的语言单位，是造句单位。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "短语",
+                "content": "短语是词和词按照一定的语法规则组合起来的造句单位。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "句子",
+                "content": "句子是具有一个句调、能够表达一个相对完整意思的语言单位。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "词类",
+            "content": "词类指词的语法分类。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "实词",
+                "content": "实词有词汇意义，能充当句法成分。包括名词、动词、形容词、数词、量词、代词、副词。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "虚词",
+                "content": "虚词没有词汇意义，不能充当句法成分，主要表示语法意义。包括介词、连词、助词、语气词。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "句法成分",
+            "content": "句法成分是句法结构的组成成分。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "主语和谓语",
+                "content": "主语是谓语陈述的对象，谓语是陈述主语的内容。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "动语和宾语",
+                "content": "动语是支配、关涉宾语的成分，宾语是动语支配、关涉的对象。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "定语、状语、补语和中心语",
+                "content": "定语是名词性短语里中心语前面的修饰语，状语是谓词性短语里中心语前面的修饰语，补语是动词、形容词性短语里中心语后面的补充成分，中心语是被修饰、被补充的成分。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "修辞",
+        "content": "修辞是依据题旨情境，运用各种语言材料、各种表现手法，恰当地表现写说者所要表达的内容的一种活动。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "修辞与语境",
+            "content": "语境是修辞活动赖以进行的重要因素。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "语境的含义",
+                "content": "语境指语言环境，包括上下文语境和情景语境。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "语境对修辞的制约",
+                "content": "语境对词语的选择、句式的调整、辞格的运用都有制约作用。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "词语的锤炼",
+            "content": "词语的锤炼指在深刻理解词义的基础上，根据表达的需要，选择最贴切、最富有表现力的词语。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "意义的锤炼",
+                "content": "使词语的意义搭配得当，表达精准。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "声音的锤炼",
+                "content": "使词语的声音和谐悦耳，富有韵律美。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "句式的选择",
+            "content": "句式的选择指根据表达的需要，选择不同的句式，以取得最佳的修辞效果。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "长句和短句",
+                "content": "长句表意严密、精确、细致，短句表意简洁、明快、有力。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "整句和散句",
+                "content": "整句形式整齐，声音和谐，气势贯通；散句形式灵活，富于变化。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "辞格",
+            "content": "辞格也称修辞格，是为了使语言生动有力而运用的一些特殊的修辞方法。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "比喻",
+                "content": "比喻就是打比方，是用本质不同又有相似点的事物描绘事物或说明道理的辞格。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "比拟",
+                "content": "比拟是根据想象把物当作人写或把人当作物写，或把甲物当作乙物来写的辞格。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "夸张",
+                "content": "夸张是故意言过其实，对客观的人、事物作扩大或缩小的描述的辞格。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "现代汉语通论",
+      "tail": "语音",
+      "relation": "包含"
+    },
+    {
+      "head": "现代汉语通论",
+      "tail": "文字",
+      "relation": "包含"
+    },
+    {
+      "head": "现代汉语通论",
+      "tail": "词汇",
+      "relation": "包含"
+    },
+    {
+      "head": "现代汉语通论",
+      "tail": "语法",
+      "relation": "包含"
+    },
+    {
+      "head": "现代汉语通论",
+      "tail": "修辞",
+      "relation": "包含"
+    },
+    {
+      "head": "语音",
+      "tail": "语音的性质",
+      "relation": "包含"
+    },
+    {
+      "head": "语音的性质",
+      "tail": "物理属性",
+      "relation": "包含"
+    },
+    {
+      "head": "语音的性质",
+      "tail": "生理属性",
+      "relation": "包含"
+    },
+    {
+      "head": "语音的性质",
+      "tail": "社会属性",
+      "relation": "包含"
+    },
+    {
+      "head": "语音",
+      "tail": "声母",
+      "relation": "包含"
+    },
+    {
+      "head": "声母",
+      "tail": "声母的发音部位",
+      "relation": "包含"
+    },
+    {
+      "head": "声母",
+      "tail": "声母的发音方法",
+      "relation": "包含"
+    },
+    {
+      "head": "语音",
+      "tail": "韵母",
+      "relation": "包含"
+    },
+    {
+      "head": "韵母",
+      "tail": "韵母的结构",
+      "relation": "包含"
+    },
+    {
+      "head": "韵母",
+      "tail": "韵母的分类",
+      "relation": "包含"
+    },
+    {
+      "head": "语音",
+      "tail": "声调",
+      "relation": "包含"
+    },
+    {
+      "head": "声调",
+      "tail": "调值和调类",
+      "relation": "包含"
+    },
+    {
+      "head": "声调",
+      "tail": "普通话的声调",
+      "relation": "包含"
+    },
+    {
+      "head": "文字",
+      "tail": "汉字的性质",
+      "relation": "包含"
+    },
+    {
+      "head": "汉字的性质",
+      "tail": "表意文字",
+      "relation": "是"
+    },
+    {
+      "head": "文字",
+      "tail": "汉字的形体",
+      "relation": "包含"
+    },
+    {
+      "head": "汉字的形体",
+      "tail": "汉字形体的演变",
+      "relation": "包含"
+    },
+    {
+      "head": "汉字的形体",
+      "tail": "现行汉字的形体",
+      "relation": "包含"
+    },
+    {
+      "head": "文字",
+      "tail": "汉字的结构",
+      "relation": "包含"
+    },
+    {
+      "head": "汉字的结构",
+      "tail": "结构单位",
+      "relation": "包含"
+    },
+    {
+      "head": "汉字的结构",
+      "tail": "笔顺",
+      "relation": "包含"
+    },
+    {
+      "head": "词汇",
+      "tail": "词汇的构成",
+      "relation": "包含"
+    },
+    {
+      "head": "词汇的构成",
+      "tail": "词",
+      "relation": "包含"
+    },
+    {
+      "head": "词汇的构成",
+      "tail": "固定短语",
+      "relation": "包含"
+    },
+    {
+      "head": "词汇",
+      "tail": "词的结构",
+      "relation": "包含"
+    },
+    {
+      "head": "词的结构",
+      "tail": "语素",
+      "relation": "包含"
+    },
+    {
+      "head": "词的结构",
+      "tail": "词的类型",
+      "relation": "包含"
+    },
+    {
+      "head": "词汇",
+      "tail": "词义",
+      "relation": "包含"
+    },
+    {
+      "head": "词义",
+      "tail": "词义的性质",
+      "relation": "包含"
+    },
+    {
+      "head": "词义",
+      "tail": "词义的构成",
+      "relation": "包含"
+    },
+    {
+      "head": "语法",
+      "tail": "语法单位",
+      "relation": "包含"
+    },
+    {
+      "head": "语法单位",
+      "tail": "语素",
+      "relation": "包含"
+    },
+    {
+      "head": "语法单位",
+      "tail": "词",
+      "relation": "包含"
+    },
+    {
+      "head": "语法单位",
+      "tail": "短语",
+      "relation": "包含"
+    },
+    {
+      "head": "语法单位",
+      "tail": "句子",
+      "relation": "包含"
+    },
+    {
+      "head": "语法",
+      "tail": "词类",
+      "relation": "包含"
+    },
+    {
+      "head": "词类",
+      "tail": "实词",
+      "relation": "包含"
+    },
+    {
+      "head": "词类",
+      "tail": "虚词",
+      "relation": "包含"
+    },
+    {
+      "head": "语法",
+      "tail": "句法成分",
+      "relation": "包含"
+    },
+    {
+      "head": "句法成分",
+      "tail": "主语和谓语",
+      "relation": "包含"
+    },
+    {
+      "head": "句法成分",
+      "tail": "动语和宾语",
+      "relation": "包含"
+    },
+    {
+      "head": "句法成分",
+      "tail": "定语、状语、补语和中心语",
+      "relation": "包含"
+    },
+    {
+      "head": "修辞",
+      "tail": "修辞与语境",
+      "relation": "包含"
+    },
+    {
+      "head": "修辞与语境",
+      "tail": "语境的含义",
+      "relation": "包含"
+    },
+    {
+      "head": "修辞与语境",
+      "tail": "语境对修辞的制约",
+      "relation": "包含"
+    },
+    {
+      "head": "修辞",
+      "tail": "词语的锤炼",
+      "relation": "包含"
+    },
+    {
+      "head": "词语的锤炼",
+      "tail": "意义的锤炼",
+      "relation": "包含"
+    },
+    {
+      "head": "词语的锤炼",
+      "tail": "声音的锤炼",
+      "relation": "包含"
+    },
+    {
+      "head": "修辞",
+      "tail": "句式的选择",
+      "relation": "包含"
+    },
+    {
+      "head": "句式的选择",
+      "tail": "长句和短句",
+      "relation": "包含"
+    },
+    {
+      "head": "句式的选择",
+      "tail": "整句和散句",
+      "relation": "包含"
+    },
+    {
+      "head": "修辞",
+      "tail": "辞格",
+      "relation": "包含"
+    },
+    {
+      "head": "辞格",
+      "tail": "比喻",
+      "relation": "包含"
+    },
+    {
+      "head": "辞格",
+      "tail": "比拟",
+      "relation": "包含"
+    },
+    {
+      "head": "辞格",
+      "tail": "夸张",
+      "relation": "包含"
+    },
+    {
+      "head": "语素",
+      "tail": "词",
+      "relation": "构成"
+    },
+    {
+      "head": "词",
+      "tail": "短语",
+      "relation": "构成"
+    },
+    {
+      "head": "短语",
+      "tail": "句子",
+      "relation": "构成"
+    },
+    {
+      "head": "语音的性质",
+      "tail": "声母的发音部位",
+      "relation": "是...的基础"
+    },
+    {
+      "head": "语音的性质",
+      "tail": "声母的发音方法",
+      "relation": "是...的基础"
+    },
+    {
+      "head": "汉字的性质",
+      "tail": "汉字的结构",
+      "relation": "决定"
+    },
+    {
+      "head": "词义的性质",
+      "tail": "词语的锤炼",
+      "relation": "是...的基础"
+    },
+    {
+      "head": "语法单位",
+      "tail": "句法成分",
+      "relation": "是...的分析基础"
+    },
+    {
+      "head": "语境",
+      "tail": "修辞",
+      "relation": "制约"
+    },
+    {
+      "head": "语音",
+      "tail": "词汇",
+      "relation": "是...的物质外壳"
+    },
+    {
+      "head": "词汇",
+      "tail": "语法",
+      "relation": "是...的构建材料"
+    },
+    {
+      "head": "语法",
+      "tail": "修辞",
+      "relation": "是...的语言结构基础"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:07:52",
+    "version": "1.1"
+  }
+}

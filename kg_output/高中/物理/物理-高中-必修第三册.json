@@ -1,0 +1,409 @@
+{
+  "knowledge_tree": {
+    "title": "高中物理必修第三册",
+    "content": "涵盖静电场、电路、电能与能量守恒、电磁感应与电磁波初步等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "静电场及其应用",
+        "content": "研究电荷、电场、电场强度、静电防止与利用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "电荷",
+            "content": "物体所带的电性质，分正电荷和负电荷",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "电荷的定义",
+                "content": "物体带电的多少，用Q或q表示，单位库仑(C)",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "元电荷",
+                "content": "最小电荷量，e=1.60×10⁻¹⁹C，所有带电体电荷量都是e的整数倍",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电荷守恒定律",
+                "content": "电荷既不会创生也不会消灭，只能转移，总量保持不变",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "库仑定律",
+            "content": "真空中两个静止点电荷间相互作用力的规律",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "库仑定律公式",
+                "content": "F=kq₁q₂/r²，其中k=9.0×10⁹N·m²/C²",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "点电荷",
+                "content": "带电体的大小和形状对相互作用的影响可忽略时的理想模型",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电场",
+            "content": "电荷周围存在的特殊物质，对放入其中的电荷有力的作用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电场强度",
+                "content": "描述电场强弱的物理量，E=F/q，单位N/C",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电场线",
+                "content": "形象描述电场分布的曲线，切线方向表示电场方向，疏密表示强弱",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "匀强电场",
+                "content": "电场强度大小和方向处处相同的电场",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "静电场中的能量",
+        "content": "研究电势能、电势、电势差、电容器等",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "电势能",
+            "content": "电荷在电场中具有的势能",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电势能的定义",
+                "content": "Ep=qφ，与零势能点的选择有关",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "静电力做功与电势能",
+                "content": "WAB=EpA-EpB，静电力做功等于电势能的减少量",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电势",
+            "content": "描述电场能的性质的物理量",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电势的定义",
+                "content": "φ=Ep/q，单位伏特(V)",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电势差",
+                "content": "UAB=φA-φB，又称电压",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电容器",
+            "content": "储存电荷的装置",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电容的定义",
+                "content": "C=Q/U，单位法拉(F)",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "平行板电容器",
+                "content": "C=εrS/4πkd，电容与极板正对面积、介电常数成正比，与距离成反比",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "电路及其应用",
+        "content": "研究电源、电流、电阻、串并联电路等",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "电源和电流",
+            "content": "提供电能的装置和电荷的定向移动",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "电流的定义",
+                "content": "I=q/t，单位安培(A)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电源电动势",
+                "content": "表征电源将其他形式能转化为电能的本领，E=W/q",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "导体的电阻",
+            "content": "导体对电流的阻碍作用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "电阻定律",
+                "content": "R=ρl/S，电阻与长度成正比，与横截面积成反比",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电阻率",
+                "content": "ρ=RS/l，表征材料导电性能的物理量",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "串联和并联电路",
+            "content": "电路的基本连接方式",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "串联电路特点",
+                "content": "电流处处相等，总电压等于各部分电压之和，总电阻等于各电阻之和",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "并联电路特点",
+                "content": "各支路电压相等，总电流等于各支路电流之和，总电阻的倒数等于各电阻倒数之和",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "电能能量守恒定律",
+        "content": "研究电功、电功率、闭合电路欧姆定律等",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "电功和电功率",
+            "content": "电能转化为其他形式能的过程和快慢",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "电功公式",
+                "content": "W=UIt，单位焦耳(J)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电功率公式",
+                "content": "P=UI，单位瓦特(W)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "焦耳定律",
+                "content": "Q=I²Rt，电流通过导体产生的热量",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "闭合电路欧姆定律",
+            "content": "全电路中的电流、电压关系",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "闭合电路欧姆定律公式",
+                "content": "I=E/(R+r)，电流与电动势成正比，与总电阻成反比",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "路端电压",
+                "content": "U=E-Ir，随外电阻增大而增大",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "电磁感应与电磁波初步",
+        "content": "研究磁场、电磁感应、电磁波等",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "磁场",
+            "content": "磁体周围存在的特殊物质",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "磁感应强度",
+                "content": "描述磁场强弱的物理量，B=F/Il，单位特斯拉(T)",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "磁通量",
+                "content": "Φ=BScosθ，表示穿过某一面积的磁感线条数",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电磁感应",
+            "content": "利用磁场产生电流的现象",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "法拉第电磁感应定律",
+                "content": "E=nΔΦ/Δt，感应电动势与磁通量变化率成正比",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "楞次定律",
+                "content": "感应电流的方向总是使它的磁场阻碍引起感应电流的磁通量的变化",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电磁波",
+            "content": "变化的电场和磁场相互激发并在空间传播",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电磁波谱",
+                "content": "按波长或频率顺序排列的电磁波序列",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电磁波速度",
+                "content": "c=3.0×10⁸m/s，在真空中传播",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "电荷",
+      "tail": "电场",
+      "relation": "产生"
+    },
+    {
+      "head": "电场",
+      "tail": "电场强度",
+      "relation": "描述"
+    },
+    {
+      "head": "点电荷",
+      "tail": "库仑定律",
+      "relation": "适用于"
+    },
+    {
+      "head": "电场强度",
+      "tail": "电势",
+      "relation": "积分关系"
+    },
+    {
+      "head": "电势",
+      "tail": "电势能",
+      "relation": "定义关系"
+    },
+    {
+      "head": "电容器",
+      "tail": "电容",
+      "relation": "表征"
+    },
+    {
+      "head": "电源",
+      "tail": "电动势",
+      "relation": "表征"
+    },
+    {
+      "head": "电阻",
+      "tail": "电阻率",
+      "relation": "决定因素"
+    },
+    {
+      "head": "串联电路",
+      "tail": "并联电路",
+      "relation": "对比关系"
+    },
+    {
+      "head": "电功",
+      "tail": "电功率",
+      "relation": "时间关系"
+    },
+    {
+      "head": "闭合电路欧姆定律",
+      "tail": "部分电路欧姆定律",
+      "relation": "扩展"
+    },
+    {
+      "head": "磁场",
+      "tail": "磁感应强度",
+      "relation": "描述"
+    },
+    {
+      "head": "磁通量",
+      "tail": "电磁感应",
+      "relation": "变化产生"
+    },
+    {
+      "head": "法拉第电磁感应定律",
+      "tail": "楞次定律",
+      "relation": "补充方向判断"
+    },
+    {
+      "head": "电磁场",
+      "tail": "电磁波",
+      "relation": "激发并传播"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:21:58",
+    "version": "1.1"
+  }
+}

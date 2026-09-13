@@ -1,0 +1,366 @@
+{
+  "knowledge_tree": {
+    "title": "九年级上册数学",
+    "content": "义务教育教科书，包含一元二次方程、二次函数、旋转、圆、概率初步五个章节",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "一元二次方程",
+        "content": "含有一个未知数且未知数的最高次数是2的整式方程",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "一元二次方程的定义",
+            "content": "等号两边都是整式，只含有一个未知数，并且未知数的最高次数是2的方程",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "一元二次方程的一般形式",
+            "content": "ax² + bx + c = 0 (a≠0)，其中a是二次项系数，b是一次项系数，c是常数项",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "配方法",
+            "content": "通过配方将一元二次方程转化为(x+n)²=p的形式求解",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "配方法步骤",
+                "content": "1. 移项 2. 二次项系数化为1 3. 配方 4. 开平方求解",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "公式法",
+            "content": "使用求根公式x=[-b±√(b²-4ac)]/(2a)解一元二次方程",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "判别式",
+                "content": "Δ=b²-4ac，决定根的情况：Δ>0有两个不等实根，Δ=0有两个相等实根，Δ<0无实根",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "因式分解法",
+            "content": "将方程化为两个一次因式的乘积等于0的形式求解",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "根与系数的关系",
+            "content": "对于ax²+bx+c=0，有x1+x2=-b/a，x1x2=c/a",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "实际问题与一元二次方程",
+            "content": "运用一元二次方程解决实际问题，如增长率、面积、传播等问题",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "二次函数",
+        "content": "形如y=ax²+bx+c(a≠0)的函数",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "二次函数的定义",
+            "content": "形如y=ax²+bx+c(a≠0)的函数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "二次函数的图象和性质",
+            "content": "抛物线，开口方向由a决定，对称轴为x=-b/2a，顶点坐标为(-b/2a,(4ac-b²)/4a)",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "y=ax²的图象和性质",
+                "content": "当a>0时开口向上，a<0时开口向下，顶点在原点",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "y=a(x-h)²+k的图象和性质",
+                "content": "顶点为(h,k)，对称轴为x=h",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "二次函数与一元二次方程",
+            "content": "二次函数y=ax²+bx+c的图象与x轴的交点对应方程ax²+bx+c=0的根",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "实际问题与二次函数",
+            "content": "运用二次函数解决最值问题，如最大利润、最大面积等",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "旋转",
+        "content": "图形绕着某一点转动一个角度的图形变换",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "旋转的定义",
+            "content": "把一个平面图形绕着平面内某一点转动一个角度",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "旋转的性质",
+            "content": "对应点到旋转中心的距离相等，对应点与旋转中心所连线段的夹角等于旋转角，旋转前后的图形全等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "中心对称",
+            "content": "把一个图形绕着某一点旋转180°，如果它能够与另一个图形重合，那么就说这两个图形关于这个点对称",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "中心对称图形",
+            "content": "把一个图形绕着某一点旋转180°，如果旋转后的图形能够与原来的图形重合，那么这个图形叫做中心对称图形",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "关于原点对称的点的坐标",
+            "content": "点P(x,y)关于原点的对称点为P'(-x,-y)",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "圆",
+        "content": "平面上到定点的距离等于定长的所有点组成的图形",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "圆的有关性质",
+            "content": "圆的定义、弦、弧、圆心角、圆周角等基本概念和性质",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "垂径定理",
+                "content": "垂直于弦的直径平分弦，并且平分弦所对的两条弧",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "弧、弦、圆心角的关系",
+                "content": "在同圆或等圆中，相等的圆心角所对的弧相等，所对的弦也相等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "圆周角定理",
+                "content": "一条弧所对的圆周角等于它所对的圆心角的一半",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "点和圆、直线和圆的位置关系",
+            "content": "点与圆的位置关系有三种：点在圆内、点在圆上、点在圆外；直线与圆的位置关系有三种：相离、相切、相交",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "切线的判定和性质",
+                "content": "经过半径的外端并且垂直于这条半径的直线是圆的切线；圆的切线垂直于过切点的半径",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "切线长定理",
+                "content": "从圆外一点引圆的两条切线，它们的切线长相等，这一点和圆心的连线平分两条切线的夹角",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "正多边形和圆",
+            "content": "正多边形的外接圆和内切圆",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "弧长和扇形面积",
+            "content": "弧长公式：l=nπr/180；扇形面积公式：S=nπr²/360或S=1/2lr",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "概率初步",
+        "content": "研究随机事件发生的可能性的大小",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "随机事件",
+            "content": "在一定条件下，可能发生也可能不发生的事件",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "概率",
+            "content": "刻画随机事件发生的可能性大小的数值",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "用列举法求概率",
+            "content": "通过列举所有可能的结果来求概率",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "列表法",
+                "content": "通过列表列出所有可能的结果",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "树状图法",
+                "content": "通过画树状图列出所有可能的结果",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "用频率估计概率",
+            "content": "通过大量重复试验，用频率来估计概率",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "一元二次方程",
+      "tail": "配方法",
+      "relation": "解法之一"
+    },
+    {
+      "head": "一元二次方程",
+      "tail": "公式法",
+      "relation": "解法之一"
+    },
+    {
+      "head": "一元二次方程",
+      "tail": "因式分解法",
+      "relation": "解法之一"
+    },
+    {
+      "head": "公式法",
+      "tail": "判别式",
+      "relation": "基于"
+    },
+    {
+      "head": "二次函数",
+      "tail": "抛物线",
+      "relation": "图象是"
+    },
+    {
+      "head": "二次函数",
+      "tail": "顶点坐标",
+      "relation": "有"
+    },
+    {
+      "head": "二次函数",
+      "tail": "对称轴",
+      "relation": "有"
+    },
+    {
+      "head": "二次函数",
+      "tail": "一元二次方程",
+      "relation": "与有联系"
+    },
+    {
+      "head": "旋转",
+      "tail": "中心对称",
+      "relation": "特殊情形"
+    },
+    {
+      "head": "旋转",
+      "tail": "中心对称图形",
+      "relation": "产生"
+    },
+    {
+      "head": "圆",
+      "tail": "垂径定理",
+      "relation": "性质之一"
+    },
+    {
+      "head": "圆",
+      "tail": "圆周角定理",
+      "relation": "性质之一"
+    },
+    {
+      "head": "圆",
+      "tail": "切线的判定",
+      "relation": "判定方法"
+    },
+    {
+      "head": "圆",
+      "tail": "切线的性质",
+      "relation": "性质之一"
+    },
+    {
+      "head": "概率",
+      "tail": "随机事件",
+      "relation": "描述"
+    },
+    {
+      "head": "概率",
+      "tail": "用列举法求概率",
+      "relation": "求法之一"
+    },
+    {
+      "head": "概率",
+      "tail": "用频率估计概率",
+      "relation": "求法之一"
+    },
+    {
+      "head": "配方法",
+      "tail": "公式法",
+      "relation": "推导基础"
+    },
+    {
+      "head": "判别式",
+      "tail": "根的情况",
+      "relation": "决定"
+    },
+    {
+      "head": "二次函数",
+      "tail": "最值问题",
+      "relation": "应用于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:48:08",
+    "version": "1.1"
+  }
+}

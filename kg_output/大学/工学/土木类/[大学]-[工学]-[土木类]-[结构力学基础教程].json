@@ -1,0 +1,500 @@
+{
+  "knowledge_tree": {
+    "title": "结构力学基础教程",
+    "content": "土木工程学科中研究结构物在荷载作用下的强度、刚度、稳定性和动力响应的学科基础。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "绪论",
+        "content": "介绍结构力学的研究对象、任务、基本假设以及其在土木工程中的地位。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "结构力学的研究对象",
+            "content": "研究工程结构（如房屋、桥梁、水坝等）的受力、变形和稳定性。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "结构力学的基本任务",
+            "content": "保证结构在荷载作用下满足强度、刚度和稳定性的要求。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "结构计算简图",
+            "content": "将实际结构抽象化为便于力学分析的简化模型，包括杆件、结点和支座的简化。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "结点的简化",
+                "content": "将杆件交汇处简化为铰结点、刚结点或组合结点。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "支座的简化",
+                "content": "将结构与基础的连接简化为可动铰支座、固定铰支座或固定端支座。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "平面体系的几何组成分析",
+        "content": "研究杆件体系是否具有保持几何形状不变的能力，即判断其是否为几何不变体系。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "几何不变体系与几何可变体系",
+            "content": "几何不变体系在任意荷载下能保持原有形状，几何可变体系则不能。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "自由度",
+            "content": "确定体系位置所需的独立坐标数目。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "约束",
+            "content": "减少体系自由度的装置，如链杆（单铰、复铰）。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "二元体规则",
+            "content": "在一个体系上增加或拆除一个二元体（两根不共线的链杆连接一个新结点），不改变原体系的几何组成性质。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "两刚片规则",
+            "content": "两个刚片用三根既不完全平行也不完全交于一点的链杆相连，组成几何不变体系。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "三刚片规则",
+            "content": "三个刚片用三个不共线的铰两两相连，组成几何不变体系。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "静定结构内力分析",
+        "content": "分析无多余约束的静定结构（如梁、刚架、桁架、拱）在荷载作用下的内力（弯矩、剪力、轴力）。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "单跨静定梁",
+            "content": "包括简支梁、悬臂梁、外伸梁的内力计算与内力图绘制。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "截面法",
+                "content": "用假想截面将结构截开，取隔离体，通过平衡方程求内力。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "弯矩图",
+                "content": "表示杆件各截面弯矩大小的图形，规定使杆件下侧受拉为正。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "剪力图",
+                "content": "表示杆件各截面剪力大小的图形。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "多跨静定梁",
+            "content": "由若干单跨梁通过铰连接而成的静定结构，需分清基本部分和附属部分。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "静定平面刚架",
+            "content": "由梁和柱刚性连接而成的结构，内力分析需绘制M、FQ、FN图。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "三铰拱",
+            "content": "杆轴为曲线且在竖向荷载下产生水平推力的结构。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "合理拱轴线",
+                "content": "在特定荷载下，使拱各截面只承受轴力而无弯矩的轴线形状。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "静定平面桁架",
+            "content": "由直杆通过铰连接而成的格构式体系，假定结点为理想铰，荷载作用于结点，杆件只受轴力。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "结点法",
+                "content": "取桁架结点为隔离体，利用平面汇交力系平衡方程求解杆件轴力。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "截面法",
+                "content": "用截面截断桁架，取一部分为隔离体，利用平面一般力系平衡方程求解杆件轴力。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "静定结构位移计算",
+        "content": "计算结构在荷载、温度变化、支座移动等因素作用下产生的位移。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "虚功原理",
+            "content": "外力在可能位移上所做的虚功等于内力在可能变形上所做的虚功。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "单位荷载法",
+            "content": "基于虚功原理，在所求位移点沿位移方向虚设单位力，计算位移。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "图乘法",
+            "content": "计算直杆结构在荷载作用下位移的简化方法，适用于等截面直杆段，公式：Δ = Σ (ω * yc) / (E*I)。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "力法",
+        "content": "求解超静定结构的基本方法之一，以多余未知力为基本未知量。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "基本体系",
+            "content": "撤除超静定结构的多余约束，代之以多余未知力，得到的静定结构。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "力法典型方程",
+            "content": "根据基本体系在多余未知力和荷载共同作用下，在撤除约束处的位移应与原结构一致的条件建立的方程。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "位移法",
+        "content": "求解超静定结构的基本方法之一，以结点位移（角位移和线位移）为基本未知量。",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "等截面直杆的转角位移方程",
+            "content": "表达杆端弯矩、剪力与杆端位移、荷载之间关系的方程。",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "位移法基本未知量",
+            "content": "独立的结点角位移和结点线位移。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "位移法典型方程",
+            "content": "根据平衡条件（结点力矩平衡、截面剪力平衡）建立的方程。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "力矩分配法",
+        "content": "适用于连续梁和无侧移刚架的渐近解法，基于位移法原理。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "转动刚度",
+            "content": "杆端抵抗转动的能力，表示使杆端产生单位转角所需施加的力矩。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "分配系数",
+            "content": "结点处各杆件的转动刚度与交汇于该结点所有杆件转动刚度总和的比值。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "传递系数",
+            "content": "杆件近端发生转角时，远端弯矩与近端弯矩的比值。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "影响线",
+        "content": "表示单位移动荷载在结构上移动时，某一量值（反力、内力等）变化规律的图形。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "静力法作影响线",
+            "content": "利用平衡条件，建立量值与荷载位置之间的函数关系，然后绘图。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "机动法作影响线",
+            "content": "基于虚功原理，通过作撤除与所求量值相应约束后体系的位移图来得到影响线形状。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "结构力学基础教程",
+      "tail": "绪论",
+      "relation": "包含"
+    },
+    {
+      "head": "结构力学基础教程",
+      "tail": "平面体系的几何组成分析",
+      "relation": "包含"
+    },
+    {
+      "head": "结构力学基础教程",
+      "tail": "静定结构内力分析",
+      "relation": "包含"
+    },
+    {
+      "head": "结构力学基础教程",
+      "tail": "静定结构位移计算",
+      "relation": "包含"
+    },
+    {
+      "head": "结构力学基础教程",
+      "tail": "力法",
+      "relation": "包含"
+    },
+    {
+      "head": "结构力学基础教程",
+      "tail": "位移法",
+      "relation": "包含"
+    },
+    {
+      "head": "结构力学基础教程",
+      "tail": "力矩分配法",
+      "relation": "包含"
+    },
+    {
+      "head": "结构力学基础教程",
+      "tail": "影响线",
+      "relation": "包含"
+    },
+    {
+      "head": "结构计算简图",
+      "tail": "结点的简化",
+      "relation": "包含"
+    },
+    {
+      "head": "结构计算简图",
+      "tail": "支座的简化",
+      "relation": "包含"
+    },
+    {
+      "head": "平面体系的几何组成分析",
+      "tail": "二元体规则",
+      "relation": "包含"
+    },
+    {
+      "head": "平面体系的几何组成分析",
+      "tail": "两刚片规则",
+      "relation": "包含"
+    },
+    {
+      "head": "平面体系的几何组成分析",
+      "tail": "三刚片规则",
+      "relation": "包含"
+    },
+    {
+      "head": "静定结构内力分析",
+      "tail": "单跨静定梁",
+      "relation": "包含"
+    },
+    {
+      "head": "静定结构内力分析",
+      "tail": "多跨静定梁",
+      "relation": "包含"
+    },
+    {
+      "head": "静定结构内力分析",
+      "tail": "静定平面刚架",
+      "relation": "包含"
+    },
+    {
+      "head": "静定结构内力分析",
+      "tail": "三铰拱",
+      "relation": "包含"
+    },
+    {
+      "head": "静定结构内力分析",
+      "tail": "静定平面桁架",
+      "relation": "包含"
+    },
+    {
+      "head": "单跨静定梁",
+      "tail": "截面法",
+      "relation": "应用于"
+    },
+    {
+      "head": "单跨静定梁",
+      "tail": "弯矩图",
+      "relation": "用于表示"
+    },
+    {
+      "head": "单跨静定梁",
+      "tail": "剪力图",
+      "relation": "用于表示"
+    },
+    {
+      "head": "静定平面桁架",
+      "tail": "结点法",
+      "relation": "求解方法"
+    },
+    {
+      "head": "静定平面桁架",
+      "tail": "截面法",
+      "relation": "求解方法"
+    },
+    {
+      "head": "三铰拱",
+      "tail": "合理拱轴线",
+      "relation": "相关概念"
+    },
+    {
+      "head": "静定结构位移计算",
+      "tail": "虚功原理",
+      "relation": "基于"
+    },
+    {
+      "head": "静定结构位移计算",
+      "tail": "单位荷载法",
+      "relation": "基于"
+    },
+    {
+      "head": "静定结构位移计算",
+      "tail": "图乘法",
+      "relation": "简化计算方法"
+    },
+    {
+      "head": "力法",
+      "tail": "基本体系",
+      "relation": "核心概念"
+    },
+    {
+      "head": "力法",
+      "tail": "力法典型方程",
+      "relation": "核心方程"
+    },
+    {
+      "head": "位移法",
+      "tail": "等截面直杆的转角位移方程",
+      "relation": "基于"
+    },
+    {
+      "head": "位移法",
+      "tail": "位移法基本未知量",
+      "relation": "核心概念"
+    },
+    {
+      "head": "位移法",
+      "tail": "位移法典型方程",
+      "relation": "核心方程"
+    },
+    {
+      "head": "力矩分配法",
+      "tail": "转动刚度",
+      "relation": "基于"
+    },
+    {
+      "head": "力矩分配法",
+      "tail": "分配系数",
+      "relation": "基于"
+    },
+    {
+      "head": "力矩分配法",
+      "tail": "传递系数",
+      "relation": "基于"
+    },
+    {
+      "head": "影响线",
+      "tail": "静力法作影响线",
+      "relation": "绘制方法"
+    },
+    {
+      "head": "影响线",
+      "tail": "机动法作影响线",
+      "relation": "绘制方法"
+    },
+    {
+      "head": "几何不变体系",
+      "tail": "两刚片规则",
+      "relation": "判定依据"
+    },
+    {
+      "head": "几何不变体系",
+      "tail": "三刚片规则",
+      "relation": "判定依据"
+    },
+    {
+      "head": "结点法",
+      "tail": "平面汇交力系平衡方程",
+      "relation": "应用"
+    },
+    {
+      "head": "截面法",
+      "tail": "平面一般力系平衡方程",
+      "relation": "应用"
+    },
+    {
+      "head": "单位荷载法",
+      "tail": "虚功原理",
+      "relation": "具体应用"
+    },
+    {
+      "head": "力矩分配法",
+      "tail": "位移法",
+      "relation": "基于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:00:51",
+    "version": "1.1"
+  }
+}

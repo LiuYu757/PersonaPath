@@ -1,0 +1,543 @@
+{
+  "knowledge_tree": {
+    "title": "模拟电子技术基础",
+    "content": "研究用于处理模拟信号的电子电路，核心是半导体器件及其应用电路的分析与设计。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "常用半导体器件",
+        "content": "构成模拟电路的基本元件，主要包括二极管、双极型晶体管和场效应管。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "PN结",
+            "content": "采用不同的掺杂工艺，通过扩散作用，将P型半导体与N型半导体制作在同一块半导体基片上，在它们的交界面形成的空间电荷区。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "PN结的形成",
+                "content": "由于载流子浓度差引起的扩散运动和内建电场引起的漂移运动达到动态平衡，形成稳定的空间电荷区。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "PN结的单向导电性",
+                "content": "正向偏置时导通，反向偏置时截止的特性。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "PN结的伏安特性方程",
+                "content": "I = I_S (e^(V/V_T) - 1)，其中I_S为反向饱和电流，V_T为热电压（约26mV）。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "PN结的电容效应",
+                "content": "包括势垒电容和扩散电容，影响高频特性。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "二极管",
+            "content": "由一个PN结加上相应的电极引线和管壳构成。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "二极管的特性",
+                "content": "主要表现为单向导电性，其伏安特性曲线与PN结类似，但存在体电阻和引线电阻的影响。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "二极管的主要参数",
+                "content": "最大整流电流、最高反向工作电压、反向电流、最高工作频率等。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "二极管的等效模型",
+                "content": "包括理想模型、恒压降模型、折线模型和小信号模型，用于不同精度的电路分析。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "稳压二极管",
+                "content": "利用PN结反向击穿状态下的稳压特性制成的二极管。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "双极型晶体管（BJT）",
+            "content": "一种电流控制电流的半导体器件，由两个PN结（发射结和集电结）背靠背构成，分为NPN和PNP型。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "BJT的结构与工作原理",
+                "content": "通过基极电流控制集电极电流，实现放大作用。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "BJT的三种组态",
+                "content": "共射、共集、共基放大电路，具有不同的输入输出特性和应用场景。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "BJT的特性曲线",
+                "content": "包括输入特性曲线和输出特性曲线，输出特性曲线可分为截止区、放大区和饱和区。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "BJT的主要参数",
+                "content": "电流放大系数（β）、极间反向电流、极限参数等。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "场效应晶体管（FET）",
+            "content": "一种电压控制电流的半导体器件，利用电场效应控制导电沟道的形成与消失。分为结型场效应管（JFET）和绝缘栅型场效应管（MOSFET）。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "FET的工作原理",
+                "content": "通过栅源电压控制漏极电流。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "FET的特性曲线",
+                "content": "包括转移特性曲线和输出特性曲线，输出特性曲线可分为可变电阻区、饱和区（恒流区）和击穿区。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "FET的主要参数",
+                "content": "跨导（gm）、开启电压/夹断电压、极间电容等。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "基本放大电路",
+        "content": "将微弱的电信号（电压、电流或功率）不失真地放大到所需水平的电路。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "放大电路的基本概念",
+            "content": "包括放大倍数、输入电阻、输出电阻、通频带、非线性失真等性能指标。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "放大倍数的定义",
+                "content": "输出信号量与输入信号量的比值，如电压放大倍数Au=Vo/Vi。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "输入电阻和输出电阻",
+                "content": "输入电阻Ri反映放大电路对信号源索取的电流大小；输出电阻Ro反映放大电路带负载的能力。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "放大电路的分析方法",
+            "content": "包括图解分析法和微变等效电路法（小信号模型分析法）。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "静态工作点（Q点）",
+                "content": "无输入信号时，晶体管各电极的直流电流和电压值，设置Q点是保证不失真放大的前提。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "微变等效电路法",
+                "content": "在静态工作点附近，将非线性器件用线性模型等效，用于计算动态性能指标（如Au, Ri, Ro）。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "放大电路的三神组态",
+            "content": "针对BJT的共射、共集、共基放大电路，以及FET的共源、共漏、共栅放大电路。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "共射放大电路",
+                "content": "电压和电流放大倍数都较大，输入输出反相，应用最广。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "共集放大电路（射极跟随器）",
+                "content": "电压放大倍数接近1但小于1，输入电阻高，输出电阻低，常用于输入级或输出级。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "共基放大电路",
+                "content": "电压放大倍数大，输入电阻低，输出电阻高，高频特性好。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "放大电路的频率响应",
+            "content": "放大倍数随信号频率变化的关系，主要由电路中的电容（耦合电容、旁路电容、极间电容）引起。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "下限频率fL和上限频率fH",
+                "content": "当放大倍数下降到中频时的0.707倍时所对应的频率。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "波特图",
+                "content": "用于描述频率响应的对数坐标图，包括幅频特性和相频特性。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "集成运算放大器",
+        "content": "采用集成电路工艺制成的、具有高增益的多级直接耦合放大器。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "集成运放的组成",
+            "content": "通常包括输入级（差分放大电路）、中间级（电压放大级）、输出级（功率放大级）和偏置电路。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "差分放大电路",
+                "content": "抑制共模信号，放大差模信号，是集成运放的核心。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "电流源电路",
+                "content": "为各级放大电路提供稳定的偏置电流或作为有源负载。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "集成运放的电压传输特性",
+            "content": "输出电压与输入电压之间的关系曲线，分为线性区和非线性区（饱和区）。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "集成运放的主要参数",
+            "content": "开环差模增益、共模抑制比、输入失调电压、输入失调电流、单位增益带宽等。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "理想运算放大器",
+            "content": "开环增益无穷大、输入电阻无穷大、输出电阻为零、带宽无穷大、无失调和漂移。其工作在线性区时存在“虚短”和“虚断”两个重要概念。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "虚短概念",
+                "content": "同相输入端和反相输入端的电压近似相等，即V+ ≈ V-。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "虚断概念",
+                "content": "流入同相输入端和反相输入端的电流近似为零，即I+ = I- ≈ 0。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "放大电路中的反馈",
+        "content": "将输出量（电压或电流）的一部分或全部，通过一定的方式引回到输入回路，与输入量进行比较，从而影响净输入量的过程。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "反馈的基本概念与判断",
+            "content": "包括有无反馈、直流反馈与交流反馈、正反馈与负反馈、电压反馈与电流反馈、串联反馈与并联反馈的判断。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "负反馈对放大电路性能的影响",
+            "content": "稳定放大倍数、展宽通频带、减小非线性失真、改变输入输出电阻。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "负反馈放大电路的分析计算",
+            "content": "深度负反馈条件下，可利用Af ≈ 1/F估算闭环增益。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "负反馈放大电路的稳定性",
+            "content": "可能产生自激振荡，需采用频率补偿技术消除。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "信号的运算和处理",
+        "content": "利用集成运放构成各种运算电路（如比例、加减、积分微分）和信号处理电路（如有源滤波、电压比较器）。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "基本运算电路",
+            "content": "基于理想运放的“虚短”和“虚断”特性构成的比例、加、减、积分、微分等电路。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "反相比例运算电路",
+                "content": "Au = -Rf/R1，输入电阻小，存在虚地。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "同相比例运算电路",
+                "content": "Au = 1 + Rf/R1，输入电阻大。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "差分比例运算电路（减法电路）",
+                "content": "实现对两个输入信号之差的放大。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "有源滤波电路",
+            "content": "由集成运放和RC网络组成，用于选取所需频段的信号，抑制无用频段的信号。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "低通滤波器（LPF）",
+                "content": "允许低频信号通过，抑制高频信号。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "高通滤波器（HPF）",
+                "content": "允许高频信号通过，抑制低频信号。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电压比较器",
+            "content": "对输入电压进行鉴幅与比较的电路，运放通常工作在非线性区。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "单限比较器",
+                "content": "只有一个阈值电压。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "滞回比较器（施密特触发器）",
+                "content": "具有两个阈值电压，抗干扰能力强。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "模拟电子技术基础的常见题型和解题思路。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "半导体器件特性分析题",
+            "content": "给定电路或条件，分析二极管、BJT、FET的工作状态（导通/截止/放大/饱和）及相关参数计算。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "基本放大电路分析计算题",
+            "content": "求解静态工作点，利用微变等效电路法计算动态指标（Au, Ri, Ro）。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "集成运放应用电路分析题",
+            "content": "分析由集成运放构成的比例、加减、积分微分、有源滤波、比较器等电路，求解输出输入关系。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "负反馈放大电路判断题",
+            "content": "判断反馈类型，并定性分析其对放大电路性能的影响。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "PN结",
+      "tail": "二极管",
+      "relation": "构成"
+    },
+    {
+      "head": "PN结",
+      "tail": "PN结的伏安特性方程",
+      "relation": "由...描述"
+    },
+    {
+      "head": "二极管",
+      "tail": "二极管的等效模型",
+      "relation": "用于分析"
+    },
+    {
+      "head": "双极型晶体管（BJT）",
+      "tail": "放大电路",
+      "relation": "作为核心元件用于"
+    },
+    {
+      "head": "场效应晶体管（FET）",
+      "tail": "双极型晶体管（BJT）",
+      "relation": "与...同为基本放大器件"
+    },
+    {
+      "head": "放大电路",
+      "tail": "静态工作点（Q点）",
+      "relation": "设置...以保证正常工作"
+    },
+    {
+      "head": "放大电路",
+      "tail": "微变等效电路法",
+      "relation": "采用...进行动态分析"
+    },
+    {
+      "head": "集成运算放大器",
+      "tail": "差分放大电路",
+      "relation": "其输入级包含"
+    },
+    {
+      "head": "理想运算放大器",
+      "tail": "虚短概念",
+      "relation": "工作在线性区时满足"
+    },
+    {
+      "head": "理想运算放大器",
+      "tail": "虚断概念",
+      "relation": "工作在线性区时满足"
+    },
+    {
+      "head": "反馈",
+      "tail": "负反馈对放大电路性能的影响",
+      "relation": "引入...以产生"
+    },
+    {
+      "head": "信号的运算和处理",
+      "tail": "基本运算电路",
+      "relation": "包含"
+    },
+    {
+      "head": "有源滤波电路",
+      "tail": "低通滤波器（LPF）",
+      "relation": "是...的一种类型"
+    },
+    {
+      "head": "电压比较器",
+      "tail": "集成运算放大器",
+      "relation": "基于...构成"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "半导体器件特性分析题",
+      "relation": "包含"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "基本放大电路分析计算题",
+      "relation": "包含"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "集成运放应用电路分析题",
+      "relation": "包含"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "负反馈放大电路判断题",
+      "relation": "包含"
+    },
+    {
+      "head": "放大电路的频率响应",
+      "tail": "波特图",
+      "relation": "使用...进行描述"
+    },
+    {
+      "head": "BJT的特性曲线",
+      "tail": "放大区",
+      "relation": "包含...作为工作区域之一"
+    },
+    {
+      "head": "负反馈",
+      "tail": "深度负反馈",
+      "relation": "在...条件下可简化增益计算"
+    },
+    {
+      "head": "PN结的单向导电性",
+      "tail": "二极管",
+      "relation": "是...的核心特性"
+    },
+    {
+      "head": "放大电路的三神组态",
+      "tail": "共射放大电路",
+      "relation": "包含"
+    },
+    {
+      "head": "放大电路的三神组态",
+      "tail": "共集放大电路",
+      "relation": "包含"
+    },
+    {
+      "head": "放大电路的三神组态",
+      "tail": "共基放大电路",
+      "relation": "包含"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:50:11",
+    "version": "1.1"
+  }
+}

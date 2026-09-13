@@ -1,0 +1,886 @@
+{
+  "knowledge_tree": {
+    "title": "美术鉴赏",
+    "content": "高中美术鉴赏课程，涵盖中外美术史、艺术理论与作品分析",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "鉴赏基础",
+        "content": "美术鉴赏的基本方法与理论框架",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "美术作品的创作",
+            "content": "艺术源于生活又高于生活的创作规律",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "艺术与生活的关系",
+                "content": "生活是美术创作的原因与动力，提供灵感与素材",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "创作过程与提炼",
+                "content": "对素材进行高度提炼，运用形式要素表达精神力量",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "如何鉴赏美术作品",
+            "content": "从形式要素和内容要素入手进行多角度鉴赏",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "形式要素",
+                "content": "包括线条、色彩、材质、空间等视觉元素",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "线条的表现",
+                    "content": "勾勒形状、引导视线、具有独立审美价值",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "色彩的运用",
+                    "content": "吸引注意、唤起情感，不同搭配产生丰富效果",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "材质的表现",
+                    "content": "不同质地唤起不同情感反应，在二维三维艺术中各有特色",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "空间的营造",
+                    "content": "在二维艺术中模拟三维空间，中西有不同表现方式",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "内容要素",
+                "content": "包括题材、主题、情境等作品内涵",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "题材的分类",
+                    "content": "历史神话、山水、风俗、人物、花鸟等不同类型",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "主题的表达",
+                    "content": "作品所要表达的中心思想，一切元素为主题服务",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "情境的理解",
+                    "content": "需要了解创作背景和文化语境才能深入理解作品",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "中国美术鉴赏",
+        "content": "中国传统美术的发展历程与特色",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "中国传统山水画",
+            "content": "体现中国人独特的山水情怀和审美理想",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "山水情怀的内涵",
+                "content": "畅神、寄寓情怀、感受天地规律的精神需求",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "创作方法",
+                "content": "外师造化，中得心源，融会贯通",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "意境的营造",
+                "content": "情与景的统一，创造丰富的审美空间",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "中国传统花鸟画、人物画",
+            "content": "注重传神写意而非单纯写实",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "花鸟画的写生与寄寓",
+                "content": "表现生机意趣，托物言志",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "人物画的传神",
+                "content": "以形写神，表现人物的精神特质",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "风俗画的特点",
+                "content": "描绘日常生活，反映社会风貌",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "中国书法",
+            "content": "以汉字书写表现审美意趣的艺术形式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "笔法技巧",
+                "content": "平动、提按、绞转三种基本用笔方法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "结体规律",
+                "content": "汉字的间架结构安排",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "章法布局",
+                "content": "字与字、行与行之间的整体关系",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "墨法运用",
+                "content": "浓淡枯润的墨色变化",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "中国传统雕塑",
+            "content": "反映古代风俗与宗教观念的三维艺术",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "陵墓雕塑",
+                "content": "体现事死如事生的丧葬观念",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "宗教雕塑",
+                "content": "主要是佛教雕塑，具有丰富的象征意义",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "雕塑的特点",
+                "content": "重视着色，强调以形写神",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "中国传统建筑与园林艺术",
+            "content": "具有独特意匠的建筑体系",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "建筑主要特点",
+                "content": "框架式木结构、建筑群组合、单体建筑外形、装饰色彩",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "园林造园特色",
+                "content": "虽由人作，宛自天开",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "皇家园林",
+                    "content": "规模宏大，气势恢宏",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "私家园林",
+                    "content": "精巧雅致，富有文人气息",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "中国传统工艺美术",
+            "content": "功能与审美统一的造物艺术",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "功能与美观的统一",
+                "content": "造型要符合适用原则",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "材料与技术的协调",
+                "content": "因材施艺，展现材质之美",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "历史与文化的增色",
+                "content": "反映不同时代的思想文化和审美理念",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "中国民间美术",
+            "content": "劳动人民创作的大众艺术",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "大众的艺术特性",
+                "content": "由劳动人民创作，具有原发性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "生活化的艺术",
+                "content": "与衣食住行紧密关联，实用与审美统一",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "民俗活动的组成部分",
+                "content": "与岁时节令等民俗活动密不可分",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "民间信仰的造型载体",
+                "content": "反映原始宗教和神话观念",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "中国近现代美术",
+            "content": "在继承与创新中发展的美术历程",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "传统的继承与创新",
+                "content": "延续传统又吸收西方美术影响",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "反映社会变革的美术",
+                "content": "参与社会变革，发挥社会功能",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "多样化艺术探索",
+                "content": "改革开放后艺术思潮活跃，题材形式丰富",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "外国美术鉴赏",
+        "content": "世界美术的发展历程与多元面貌",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "史前与早期文明的美术",
+            "content": "美术起源时期的原始表现",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "原始的冲动",
+                "content": "为生存与繁衍而创作的巫术目的",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "权力的叙事",
+                "content": "为政治权力服务，发展出叙事技巧",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "永恒的祈愿",
+                "content": "表达对永恒的追求，具有丰富的象征意义",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "古希腊与古罗马美术",
+            "content": "西方古典艺术的源头",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "理想的人体",
+                "content": "追求完美比例和和谐姿态",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "建筑的典范",
+                "content": "梁柱结构与拱券结构的运用",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "欧洲中世纪美术",
+            "content": "以基督教为主题的美术时期",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "手抄本艺术",
+                "content": "装饰精美的宗教典籍",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "教堂建筑",
+                "content": "罗马式与哥特式教堂的特点与发展",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "象征的形象",
+                "content": "用象征手法塑造宗教形象",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "文艺复兴美术",
+            "content": "人文主义兴起的美术复兴",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "古典的再生",
+                "content": "复兴古典文化并展开创新",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "人性的光辉",
+                "content": "在作品中注入人性的力量",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "色彩的发现",
+                "content": "威尼斯画派对色彩的重视",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "细节的胜利",
+                "content": "北方文艺复兴对细节的精致表现",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "17、18世纪西方美术",
+            "content": "欧洲各国不同风格的发展",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "教会的权威",
+                "content": "巴洛克美术为教会服务",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "皇室的荣耀与贵族的浮华",
+                "content": "宣扬皇室权威，追求奢华效果",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "市民生活的礼赞",
+                "content": "荷兰绘画对市民生活的表现",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "理性的光芒",
+                "content": "法国古典主义追求理性至上",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "19世纪西方美术",
+            "content": "变革与突破的时期",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "浪漫与自由",
+                "content": "解放想象力，表现热烈情感",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "忠于现实",
+                "content": "客观表现现实，揭示社会本质",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "色彩革命",
+                "content": "印象派对外光与色彩的探索",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "现代主义的源头",
+                "content": "后印象派开启现代艺术篇章",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "20世纪以来的西方美术",
+            "content": "实验与多元的现代艺术发展",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "色彩解放与内在表达",
+                "content": "野兽派和表现派的情感表达",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "构成与抽象",
+                "content": "立体派和抽象艺术的形式探索",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "荒诞与梦境",
+                "content": "达达派和超现实主义的幻想表现",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "消费文化的图像",
+                "content": "波普艺术对大众文化的反思",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "亚非拉美术",
+            "content": "世界多元美术文化的展现",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "日本美术",
+                "content": "琳派与浮世绘的特色与影响",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "印度美术",
+                "content": "宗教美术为主体，各宗教相互影响",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "拉丁美洲美术",
+                "content": "古代文明的独特艺术表现",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "古代非洲雕刻",
+                "content": "具有鲜明本土特色的雕塑传统",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "美术作品的创作",
+      "tail": "艺术与生活的关系",
+      "relation": "基于"
+    },
+    {
+      "head": "如何鉴赏美术作品",
+      "tail": "形式要素",
+      "relation": "包含"
+    },
+    {
+      "head": "如何鉴赏美术作品",
+      "tail": "内容要素",
+      "relation": "包含"
+    },
+    {
+      "head": "形式要素",
+      "tail": "线条的表现",
+      "relation": "包含"
+    },
+    {
+      "head": "形式要素",
+      "tail": "色彩的运用",
+      "relation": "包含"
+    },
+    {
+      "head": "形式要素",
+      "tail": "材质的表现",
+      "relation": "包含"
+    },
+    {
+      "head": "形式要素",
+      "tail": "空间的营造",
+      "relation": "包含"
+    },
+    {
+      "head": "内容要素",
+      "tail": "题材的分类",
+      "relation": "包含"
+    },
+    {
+      "head": "内容要素",
+      "tail": "主题的表达",
+      "relation": "包含"
+    },
+    {
+      "head": "内容要素",
+      "tail": "情境的理解",
+      "relation": "包含"
+    },
+    {
+      "head": "中国传统山水画",
+      "tail": "山水情怀的内涵",
+      "relation": "体现"
+    },
+    {
+      "head": "中国传统山水画",
+      "tail": "创作方法",
+      "relation": "运用"
+    },
+    {
+      "head": "中国传统山水画",
+      "tail": "意境的营造",
+      "relation": "注重"
+    },
+    {
+      "head": "中国传统花鸟画、人物画",
+      "tail": "花鸟画的写生与寄寓",
+      "relation": "包含"
+    },
+    {
+      "head": "中国传统花鸟画、人物画",
+      "tail": "人物画的传神",
+      "relation": "包含"
+    },
+    {
+      "head": "中国传统花鸟画、人物画",
+      "tail": "风俗画的特点",
+      "relation": "包含"
+    },
+    {
+      "head": "中国书法",
+      "tail": "笔法技巧",
+      "relation": "基于"
+    },
+    {
+      "head": "中国书法",
+      "tail": "结体规律",
+      "relation": "基于"
+    },
+    {
+      "head": "中国书法",
+      "tail": "章法布局",
+      "relation": "基于"
+    },
+    {
+      "head": "中国书法",
+      "tail": "墨法运用",
+      "relation": "基于"
+    },
+    {
+      "head": "中国传统雕塑",
+      "tail": "陵墓雕塑",
+      "relation": "包含"
+    },
+    {
+      "head": "中国传统雕塑",
+      "tail": "宗教雕塑",
+      "relation": "包含"
+    },
+    {
+      "head": "中国传统雕塑",
+      "tail": "雕塑的特点",
+      "relation": "具有"
+    },
+    {
+      "head": "中国传统建筑与园林艺术",
+      "tail": "建筑主要特点",
+      "relation": "具有"
+    },
+    {
+      "head": "中国传统建筑与园林艺术",
+      "tail": "园林造园特色",
+      "relation": "具有"
+    },
+    {
+      "head": "园林造园特色",
+      "tail": "皇家园林",
+      "relation": "包含"
+    },
+    {
+      "head": "园林造园特色",
+      "tail": "私家园林",
+      "relation": "包含"
+    },
+    {
+      "head": "中国传统工艺美术",
+      "tail": "功能与美观的统一",
+      "relation": "追求"
+    },
+    {
+      "head": "中国传统工艺美术",
+      "tail": "材料与技术的协调",
+      "relation": "注重"
+    },
+    {
+      "head": "中国传统工艺美术",
+      "tail": "历史与文化的增色",
+      "relation": "反映"
+    },
+    {
+      "head": "中国民间美术",
+      "tail": "大众的艺术特性",
+      "relation": "具有"
+    },
+    {
+      "head": "中国民间美术",
+      "tail": "生活化的艺术",
+      "relation": "具有"
+    },
+    {
+      "head": "中国民间美术",
+      "tail": "民俗活动的组成部分",
+      "relation": "作为"
+    },
+    {
+      "head": "中国民间美术",
+      "tail": "民间信仰的造型载体",
+      "relation": "作为"
+    },
+    {
+      "head": "中国近现代美术",
+      "tail": "传统的继承与创新",
+      "relation": "体现"
+    },
+    {
+      "head": "中国近现代美术",
+      "tail": "反映社会变革的美术",
+      "relation": "包含"
+    },
+    {
+      "head": "中国近现代美术",
+      "tail": "多样化艺术探索",
+      "relation": "包含"
+    },
+    {
+      "head": "史前与早期文明的美术",
+      "tail": "原始的冲动",
+      "relation": "源于"
+    },
+    {
+      "head": "史前与早期文明的美术",
+      "tail": "权力的叙事",
+      "relation": "服务于"
+    },
+    {
+      "head": "史前与早期文明的美术",
+      "tail": "永恒的祈愿",
+      "relation": "表达"
+    },
+    {
+      "head": "古希腊与古罗马美术",
+      "tail": "理想的人体",
+      "relation": "追求"
+    },
+    {
+      "head": "古希腊与古罗马美术",
+      "tail": "建筑的典范",
+      "relation": "创立"
+    },
+    {
+      "head": "欧洲中世纪美术",
+      "tail": "手抄本艺术",
+      "relation": "包含"
+    },
+    {
+      "head": "欧洲中世纪美术",
+      "tail": "教堂建筑",
+      "relation": "包含"
+    },
+    {
+      "head": "欧洲中世纪美术",
+      "tail": "象征的形象",
+      "relation": "运用"
+    },
+    {
+      "head": "文艺复兴美术",
+      "tail": "古典的再生",
+      "relation": "体现"
+    },
+    {
+      "head": "文艺复兴美术",
+      "tail": "人性的光辉",
+      "relation": "注入"
+    },
+    {
+      "head": "文艺复兴美术",
+      "tail": "色彩的发现",
+      "relation": "包括"
+    },
+    {
+      "head": "文艺复兴美术",
+      "tail": "细节的胜利",
+      "relation": "包括"
+    },
+    {
+      "head": "17、18世纪西方美术",
+      "tail": "教会的权威",
+      "relation": "服务于"
+    },
+    {
+      "head": "17、18世纪西方美术",
+      "tail": "皇室的荣耀与贵族的浮华",
+      "relation": "宣扬"
+    },
+    {
+      "head": "17、18世纪西方美术",
+      "tail": "市民生活的礼赞",
+      "relation": "表现"
+    },
+    {
+      "head": "17、18世纪西方美术",
+      "tail": "理性的光芒",
+      "relation": "追求"
+    },
+    {
+      "head": "19世纪西方美术",
+      "tail": "浪漫与自由",
+      "relation": "倡导"
+    },
+    {
+      "head": "19世纪西方美术",
+      "tail": "忠于现实",
+      "relation": "主张"
+    },
+    {
+      "head": "19世纪西方美术",
+      "tail": "色彩革命",
+      "relation": "进行"
+    },
+    {
+      "head": "19世纪西方美术",
+      "tail": "现代主义的源头",
+      "relation": "开启"
+    },
+    {
+      "head": "20世纪以来的西方美术",
+      "tail": "色彩解放与内在表达",
+      "relation": "实现"
+    },
+    {
+      "head": "20世纪以来的西方美术",
+      "tail": "构成与抽象",
+      "relation": "探索"
+    },
+    {
+      "head": "20世纪以来的西方美术",
+      "tail": "荒诞与梦境",
+      "relation": "表现"
+    },
+    {
+      "head": "20世纪以来的西方美术",
+      "tail": "消费文化的图像",
+      "relation": "反思"
+    },
+    {
+      "head": "亚非拉美术",
+      "tail": "日本美术",
+      "relation": "包含"
+    },
+    {
+      "head": "亚非拉美术",
+      "tail": "印度美术",
+      "relation": "包含"
+    },
+    {
+      "head": "亚非拉美术",
+      "tail": "拉丁美洲美术",
+      "relation": "包含"
+    },
+    {
+      "head": "亚非拉美术",
+      "tail": "古代非洲雕刻",
+      "relation": "包含"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:03:16",
+    "version": "1.1"
+  }
+}

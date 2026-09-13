@@ -1,0 +1,626 @@
+{
+  "knowledge_tree": {
+    "title": "人体生理与健康（二）",
+    "content": "涵盖人体生命活动的调节、健康地生活等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "人体生命活动的调节",
+        "content": "包括神经调节和激素调节，协调各系统活动",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "人体对外界环境的感知",
+            "content": "通过感觉器官接收外界信息",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "眼和视觉",
+                "content": "眼球结构包括角膜、瞳孔、晶状体、视网膜等",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "眼球结构",
+                    "content": "由眼球壁和内容物组成，包括角膜、虹膜、晶状体、视网膜等",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "视觉的形成",
+                    "content": "光线通过角膜、晶状体折射，在视网膜成像，经视神经传至大脑",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "近视及其预防",
+                    "content": "因眼球前后径过长或晶状体曲度过大导致，戴凹透镜矫正",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "耳和听觉",
+                "content": "耳结构包括外耳、中耳、内耳",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "耳的结构",
+                    "content": "包括外耳（耳郭、外耳道）、中耳（鼓膜、听小骨）、内耳（耳蜗、前庭、半规管）",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "听觉的形成",
+                    "content": "声波经外耳道传至鼓膜，振动听小骨，刺激耳蜗内感觉细胞，经听神经传至大脑",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "保护耳和听力",
+                    "content": "避免长时间使用耳机，防噪声，不用尖锐物掏耳",
+                    "difficulty": "1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "其他感觉器官",
+                "content": "包括鼻、舌、皮肤等",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "嗅觉",
+                    "content": "鼻腔黏膜中的嗅细胞感受气味刺激",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "味觉",
+                    "content": "舌上味细胞感受酸、甜、苦、咸等味道",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "皮肤感觉",
+                    "content": "感受冷、热、触、压等刺激",
+                    "difficulty": "1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "神经调节",
+            "content": "通过神经系统对刺激作出反应",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "神经系统的组成",
+                "content": "包括脑、脊髓和神经",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "中枢神经系统",
+                    "content": "包括脑（大脑、小脑、脑干）和脊髓",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "周围神经系统",
+                    "content": "包括脑神经和脊神经",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "神经元",
+                "content": "神经系统结构和功能的基本单位",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "神经元的结构",
+                    "content": "包括胞体和突起（树突和轴突）",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "神经元的功能",
+                    "content": "接受和传导神经冲动",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "神经调节的基本方式",
+                "content": "反射是神经调节的基本方式",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "反射",
+                    "content": "机体通过神经系统对刺激作出的有规律的反应",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "反射弧",
+                    "content": "包括感受器、传入神经、神经中枢、传出神经、效应器",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "非条件反射和条件反射",
+                    "content": "非条件反射是生来就有的，条件反射是后天形成的",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "神经系统支配下的运动",
+            "content": "运动系统在神经系统支配下完成动作",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "运动系统的组成",
+                "content": "包括骨、关节和肌肉",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "骨",
+                    "content": "构成骨骼，支持身体，保护内脏",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "关节",
+                    "content": "骨与骨之间的连接，包括关节面、关节囊、关节腔",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "肌肉",
+                    "content": "骨骼肌附着在骨上，收缩产生运动",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "运动的产生",
+                "content": "神经系统支配骨骼肌收缩，牵动骨绕关节活动",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "体育运动与健康",
+                "content": "促进血液循环，改善运动系统营养，提高神经系统灵敏度",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "激素调节",
+            "content": "内分泌腺分泌激素调节生命活动",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "内分泌腺和激素",
+                "content": "内分泌腺无导管，激素直接进入血液",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "人体主要内分泌腺",
+                    "content": "包括垂体、甲状腺、肾上腺、胰岛、性腺等",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "激素的特点",
+                    "content": "含量少，作用大，对代谢和生理功能起调节作用",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "激素的功能",
+                "content": "不同激素有不同功能",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "生长激素",
+                    "content": "调节生长发育，幼年分泌不足致侏儒症，过多致巨人症",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "甲状腺激素",
+                    "content": "促进代谢和生长发育，提高神经系统兴奋性，缺碘致呆小病",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "胰岛素",
+                    "content": "调节血糖，促进组织细胞吸收利用葡萄糖，分泌不足致糖尿病",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "激素调节与神经调节的关系",
+                "content": "相互协调，共同调节生命活动",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "健康地生活",
+        "content": "包括传染病预防、免疫、用药急救、健康生活方式",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "传染病及其预防",
+            "content": "由病原体引起的，能在人与人之间或人与动物之间传播的疾病",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "传染病及其危害",
+                "content": "由细菌、病毒、寄生虫等病原体引起，具有传染性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "传染病流行的基本环节",
+                "content": "包括传染源、传播途径和易感人群",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "传染病的预防措施",
+                "content": "控制传染源、切断传播途径、保护易感人群",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "免疫与免疫规划",
+            "content": "人体识别自己和非己成分，维持健康",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "人体的三道防线",
+                "content": "第一道防线（皮肤和黏膜）、第二道防线（杀菌物质和吞噬细胞）、第三道防线（免疫器官和免疫细胞）",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "免疫的功能",
+                "content": "防御、自我稳定、免疫监视",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "免疫规划",
+                "content": "有计划地进行预防接种，提高人群免疫力",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "用药与急救",
+            "content": "安全合理用药，掌握基本急救方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "合理用药",
+                "content": "区分处方药和非处方药，阅读药品说明书",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "急救",
+                "content": "包括紧急呼救、心肺复苏、出血止血等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "选择健康的生活方式",
+            "content": "包括合理膳食、体育锻炼、拒绝烟酒毒品等",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "生活方式对健康的影响",
+                "content": "不健康生活方式如吸烟、饮酒等增加疾病风险",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "健康的生活方式",
+                "content": "合理营养、坚持锻炼、按时作息、拒绝烟酒毒品",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "保持身心健康",
+                "content": "调节情绪，保持愉快心情",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "眼",
+      "tail": "视觉",
+      "relation": "用于"
+    },
+    {
+      "head": "角膜",
+      "tail": "眼球",
+      "relation": "属于"
+    },
+    {
+      "head": "晶状体",
+      "tail": "眼球",
+      "relation": "属于"
+    },
+    {
+      "head": "视网膜",
+      "tail": "眼球",
+      "relation": "属于"
+    },
+    {
+      "head": "视觉",
+      "tail": "大脑",
+      "relation": "形成于"
+    },
+    {
+      "head": "近视",
+      "tail": "凹透镜",
+      "relation": "矫正于"
+    },
+    {
+      "head": "耳",
+      "tail": "听觉",
+      "relation": "用于"
+    },
+    {
+      "head": "鼓膜",
+      "tail": "耳",
+      "relation": "属于"
+    },
+    {
+      "head": "听小骨",
+      "tail": "耳",
+      "relation": "属于"
+    },
+    {
+      "head": "耳蜗",
+      "tail": "耳",
+      "relation": "属于"
+    },
+    {
+      "head": "听觉",
+      "tail": "大脑",
+      "relation": "形成于"
+    },
+    {
+      "head": "神经系统",
+      "tail": "脑",
+      "relation": "包括"
+    },
+    {
+      "head": "神经系统",
+      "tail": "脊髓",
+      "relation": "包括"
+    },
+    {
+      "head": "神经系统",
+      "tail": "神经",
+      "relation": "包括"
+    },
+    {
+      "head": "神经元",
+      "tail": "神经系统",
+      "relation": "构成"
+    },
+    {
+      "head": "反射",
+      "tail": "反射弧",
+      "relation": "基于"
+    },
+    {
+      "head": "感受器",
+      "tail": "反射弧",
+      "relation": "属于"
+    },
+    {
+      "head": "传入神经",
+      "tail": "反射弧",
+      "relation": "属于"
+    },
+    {
+      "head": "神经中枢",
+      "tail": "反射弧",
+      "relation": "属于"
+    },
+    {
+      "head": "传出神经",
+      "tail": "反射弧",
+      "relation": "属于"
+    },
+    {
+      "head": "效应器",
+      "tail": "反射弧",
+      "relation": "属于"
+    },
+    {
+      "head": "运动系统",
+      "tail": "骨",
+      "relation": "包括"
+    },
+    {
+      "head": "运动系统",
+      "tail": "关节",
+      "relation": "包括"
+    },
+    {
+      "head": "运动系统",
+      "tail": "肌肉",
+      "relation": "包括"
+    },
+    {
+      "head": "运动",
+      "tail": "神经系统",
+      "relation": "支配于"
+    },
+    {
+      "head": "内分泌系统",
+      "tail": "激素",
+      "relation": "分泌"
+    },
+    {
+      "head": "垂体",
+      "tail": "内分泌系统",
+      "relation": "属于"
+    },
+    {
+      "head": "甲状腺",
+      "tail": "内分泌系统",
+      "relation": "属于"
+    },
+    {
+      "head": "肾上腺",
+      "tail": "内分泌系统",
+      "relation": "属于"
+    },
+    {
+      "head": "胰岛",
+      "tail": "内分泌系统",
+      "relation": "属于"
+    },
+    {
+      "head": "性腺",
+      "tail": "内分泌系统",
+      "relation": "属于"
+    },
+    {
+      "head": "生长激素",
+      "tail": "垂体",
+      "relation": "分泌于"
+    },
+    {
+      "head": "甲状腺激素",
+      "tail": "甲状腺",
+      "relation": "分泌于"
+    },
+    {
+      "head": "胰岛素",
+      "tail": "胰岛",
+      "relation": "分泌于"
+    },
+    {
+      "head": "激素调节",
+      "tail": "神经调节",
+      "relation": "协调于"
+    },
+    {
+      "head": "传染病",
+      "tail": "病原体",
+      "relation": "由引起"
+    },
+    {
+      "head": "传染病流行",
+      "tail": "传染源",
+      "relation": "需要"
+    },
+    {
+      "head": "传染病流行",
+      "tail": "传播途径",
+      "relation": "需要"
+    },
+    {
+      "head": "传染病流行",
+      "tail": "易感人群",
+      "relation": "需要"
+    },
+    {
+      "head": "预防传染病",
+      "tail": "控制传染源",
+      "relation": "通过"
+    },
+    {
+      "head": "预防传染病",
+      "tail": "切断传播途径",
+      "relation": "通过"
+    },
+    {
+      "head": "预防传染病",
+      "tail": "保护易感人群",
+      "relation": "通过"
+    },
+    {
+      "head": "免疫",
+      "tail": "三道防线",
+      "relation": "依靠"
+    },
+    {
+      "head": "抗体",
+      "tail": "抗原",
+      "relation": "针对"
+    },
+    {
+      "head": "免疫规划",
+      "tail": "预防接种",
+      "relation": "通过"
+    },
+    {
+      "head": "安全用药",
+      "tail": "药品说明书",
+      "relation": "参考"
+    },
+    {
+      "head": "急救",
+      "tail": "心肺复苏",
+      "relation": "包括"
+    },
+    {
+      "head": "健康生活方式",
+      "tail": "合理膳食",
+      "relation": "包括"
+    },
+    {
+      "head": "健康生活方式",
+      "tail": "体育锻炼",
+      "relation": "包括"
+    },
+    {
+      "head": "健康生活方式",
+      "tail": "拒绝烟酒",
+      "relation": "包括"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:58:15",
+    "version": "1.1"
+  }
+}

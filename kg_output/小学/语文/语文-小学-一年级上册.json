@@ -1,0 +1,426 @@
+{
+  "knowledge_tree": {
+    "title": "一年级上册语文",
+    "content": "人教版一年级上册语文教材，涵盖识字、汉语拼音、阅读等内容",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "我上学了",
+        "content": "入学教育单元，培养身份认同和爱国情感",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "我是中国人",
+            "content": "认识中国人的身份，了解中华民族",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "我爱我们的祖国",
+            "content": "认识五星红旗、北京天安门、长江黄河等国家象征",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "我是小学生",
+            "content": "通过《上学歌》适应小学生身份",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "我爱学语文",
+            "content": "初步了解语文学习的内容：读书、写字、讲故事、听故事",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第一单元·识字",
+        "content": "基础汉字识字单元",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "天地人",
+            "content": "认识天、地、人、你、我、他等基础汉字",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "金木水火土",
+            "content": "认识数字一至五和五行基础汉字",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "口耳目手足",
+            "content": "认识身体部位相关汉字",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "日月山川",
+            "content": "认识自然景物相关汉字",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "语文园地一",
+            "content": "综合练习和拓展",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "识字加油站",
+                "content": "通过猜谜连线巩固识字",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "字词句运用",
+                "content": "比较形近字：日-目、人-天、口-田",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元·汉语拼音",
+        "content": "汉语拼音基础学习",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "a o e",
+            "content": "学习单韵母a、o、e",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "i u ü",
+            "content": "学习单韵母i、u、ü",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "b p m f",
+            "content": "学习声母b、p、m、f",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "d t n l",
+            "content": "学习声母d、t、n、l",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "语文园地二",
+            "content": "拼音综合练习",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "用拼音",
+                "content": "练习声调标注和拼读",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三单元·汉语拼音",
+        "content": "汉语拼音继续学习",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "g k h",
+            "content": "学习声母g、k、h",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "j q x",
+            "content": "学习声母j、q、x",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "z c s",
+            "content": "学习声母z、c、s",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "zh ch sh r",
+            "content": "学习声母zh、ch、sh、r",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "y w",
+            "content": "学习声母y、w",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第四单元·汉语拼音",
+        "content": "复韵母学习",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "ai ei ui",
+            "content": "学习复韵母ai、ei、ui",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "ao ou iu",
+            "content": "学习复韵母ao、ou、iu",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "ie üe er",
+            "content": "学习复韵母ie、üe、er",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "an en in un ün",
+            "content": "学习前鼻韵母",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "ang eng ing ong",
+            "content": "学习后鼻韵母",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第五单元·阅读",
+        "content": "简单课文阅读",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "秋天",
+            "content": "描写秋天景色的短文",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "江南",
+            "content": "汉乐府民歌《江南》",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "雪地里的小画家",
+            "content": "童趣课文，认识动物脚印",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "四季",
+            "content": "认识四季特征",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第六单元·识字",
+        "content": "进一步识字学习",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "对韵歌",
+            "content": "通过对韵形式识字",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "日月明",
+            "content": "会意字学习",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "小书包",
+            "content": "学习文具相关汉字",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "升国旗",
+            "content": "爱国主义教育识字",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第七单元·阅读",
+        "content": "课文阅读训练",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "小小的船",
+            "content": "叶圣陶的儿童诗",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "影子",
+            "content": "认识影子现象",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "两件宝",
+            "content": "认识手和脑的重要性",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第八单元·阅读",
+        "content": "课文阅读训练",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "比尾巴",
+            "content": "比较动物尾巴特征",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "乌鸦喝水",
+            "content": "寓言故事，明白道理",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "雨点儿",
+            "content": "童话故事",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "汉语拼音",
+      "tail": "识字",
+      "relation": "学习基础"
+    },
+    {
+      "head": "汉语拼音",
+      "tail": "阅读",
+      "relation": "辅助工具"
+    },
+    {
+      "head": "单韵母",
+      "tail": "复韵母",
+      "relation": "基础知识"
+    },
+    {
+      "head": "声母",
+      "tail": "韵母",
+      "relation": "拼读基础"
+    },
+    {
+      "head": "前鼻韵母",
+      "tail": "后鼻韵母",
+      "relation": "发音区别"
+    },
+    {
+      "head": "识字",
+      "tail": "阅读",
+      "relation": "应用提升"
+    },
+    {
+      "head": "身体部位识字",
+      "tail": "口耳目手足",
+      "relation": "具体内容"
+    },
+    {
+      "head": "自然景物识字",
+      "tail": "日月山川",
+      "relation": "具体内容"
+    },
+    {
+      "head": "数字识字",
+      "tail": "金木水火土",
+      "relation": "具体内容"
+    },
+    {
+      "head": "对韵歌",
+      "tail": "识字方法",
+      "relation": "采用形式"
+    },
+    {
+      "head": "日月明",
+      "tail": "会意字",
+      "relation": "造字方法"
+    },
+    {
+      "head": "小小的船",
+      "tail": "儿童诗",
+      "relation": "文学体裁"
+    },
+    {
+      "head": "乌鸦喝水",
+      "tail": "寓言故事",
+      "relation": "文学体裁"
+    },
+    {
+      "head": "雪地里的小画家",
+      "tail": "动物知识",
+      "relation": "包含内容"
+    },
+    {
+      "head": "四季",
+      "tail": "自然常识",
+      "relation": "包含内容"
+    },
+    {
+      "head": "升国旗",
+      "tail": "爱国主义教育",
+      "relation": "教育目标"
+    },
+    {
+      "head": "我上学了",
+      "tail": "身份认同",
+      "relation": "培养目标"
+    },
+    {
+      "head": "语文园地",
+      "tail": "综合练习",
+      "relation": "主要功能"
+    },
+    {
+      "head": "字词句运用",
+      "tail": "形近字辨析",
+      "relation": "训练重点"
+    },
+    {
+      "head": "识字加油站",
+      "tail": "巩固识字",
+      "relation": "训练目的"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:10:51",
+    "version": "1.1"
+  }
+}

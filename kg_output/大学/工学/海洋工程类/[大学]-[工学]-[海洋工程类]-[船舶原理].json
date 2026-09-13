@@ -1,0 +1,374 @@
+{
+  "knowledge_tree": {
+    "title": "船舶原理",
+    "content": "船舶原理是研究船舶航行性能、船体受力与结构、推进与操纵等基本原理的学科，是海洋工程类专业的核心课程。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "船舶静力学",
+        "content": "研究船舶在静水中的平衡性、稳定性和浮性。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "浮性",
+            "content": "船舶在一定装载情况下漂浮于水面的能力。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "浮力",
+                "content": "物体在流体中受到的垂直向上的力，等于其排开流体的重量。",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "阿基米德原理",
+                    "content": "浸在静止流体中的物体受到流体作用的合力等于该物体排开的流体重力，方向竖直向上。",
+                    "difficulty": "1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "排水量",
+                "content": "船舶排开水的重量，等于船舶的总重量。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "浮心",
+                "content": "船舶排水体积的几何中心，即浮力的作用点。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "稳性",
+            "content": "船舶在外力作用下偏离平衡位置，当外力消除后能回复到原平衡位置的能力。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "初稳性",
+                "content": "船舶在小角度倾斜时的稳性。",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "稳心",
+                    "content": "船舶正浮时浮力作用线与微倾后浮力作用线的交点。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "稳心高度（GM）",
+                    "content": "重心与稳心之间的垂直距离，是衡量初稳性的重要指标。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "初稳性公式",
+                    "content": "复原力矩 = 排水量 × GM × sinθ（θ为横倾角）",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "大倾角稳性",
+                "content": "船舶在大角度倾斜时的稳性，通常用静稳性曲线表示。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "船舶阻力与推进",
+        "content": "研究船舶航行时受到的阻力以及为克服阻力所需的推进装置工作原理。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "船舶阻力",
+            "content": "船舶航行时，水对船体运动产生的阻碍力。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "摩擦阻力",
+                "content": "由于水的粘性，船体表面与水摩擦产生的阻力。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "兴波阻力",
+                "content": "船舶航行时兴起波浪所消耗的能量对应的阻力。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "形状阻力",
+                "content": "由于船体形状导致水流分离、产生漩涡所造成的阻力。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "总阻力",
+                "content": "摩擦阻力、兴波阻力和形状阻力之和。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "船舶推进",
+            "content": "研究将主机功率转化为推船前进的有效推力的原理和方法。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "螺旋桨",
+                "content": "将主机旋转功率转化为推力的主要推进器。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "进速",
+                    "content": "螺旋桨相对于水的轴向前进速度。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "推力",
+                    "content": "螺旋桨旋转时对水作用产生的反作用力，推动船舶前进。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "转矩",
+                    "content": "主机为驱动螺旋桨旋转所需提供的力矩。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "推进效率",
+                "content": "螺旋桨有效功率与收到功率的比值。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "船舶操纵性与耐波性",
+        "content": "研究船舶在航行中改变运动状态的能力以及在波浪中的运动性能。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "操纵性",
+            "content": "船舶遵循操舵者的意图保持或改变航向、航速的性能。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "回转性",
+                "content": "船舶操舵后进入曲线运动的能力。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "航向稳定性",
+                "content": "船舶在直线航行时，抵抗外界干扰保持既定航向的能力。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "耐波性",
+            "content": "船舶在波浪中维持一定运动性能和安全性的能力。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "横摇",
+                "content": "船舶绕纵轴所做的周期性摇摆运动。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "纵摇",
+                "content": "船舶绕横轴所做的周期性摇摆运动。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "垂荡",
+                "content": "船舶沿垂直方向所做的升降运动。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "船舶静力学",
+      "tail": "浮性",
+      "relation": "包含"
+    },
+    {
+      "head": "船舶静力学",
+      "tail": "稳性",
+      "relation": "包含"
+    },
+    {
+      "head": "浮性",
+      "tail": "浮力",
+      "relation": "基于"
+    },
+    {
+      "head": "浮力",
+      "tail": "阿基米德原理",
+      "relation": "由...定义"
+    },
+    {
+      "head": "浮性",
+      "tail": "排水量",
+      "relation": "涉及"
+    },
+    {
+      "head": "浮性",
+      "tail": "浮心",
+      "relation": "涉及"
+    },
+    {
+      "head": "稳性",
+      "tail": "初稳性",
+      "relation": "包含"
+    },
+    {
+      "head": "稳性",
+      "tail": "大倾角稳性",
+      "relation": "包含"
+    },
+    {
+      "head": "初稳性",
+      "tail": "稳心",
+      "relation": "基于"
+    },
+    {
+      "head": "初稳性",
+      "tail": "稳心高度（GM）",
+      "relation": "核心参数"
+    },
+    {
+      "head": "初稳性公式",
+      "tail": "稳心高度（GM）",
+      "relation": "应用"
+    },
+    {
+      "head": "船舶阻力与推进",
+      "tail": "船舶阻力",
+      "relation": "包含"
+    },
+    {
+      "head": "船舶阻力与推进",
+      "tail": "船舶推进",
+      "relation": "包含"
+    },
+    {
+      "head": "船舶阻力",
+      "tail": "摩擦阻力",
+      "relation": "包含"
+    },
+    {
+      "head": "船舶阻力",
+      "tail": "兴波阻力",
+      "relation": "包含"
+    },
+    {
+      "head": "船舶阻力",
+      "tail": "形状阻力",
+      "relation": "包含"
+    },
+    {
+      "head": "船舶阻力",
+      "tail": "总阻力",
+      "relation": "由...组成"
+    },
+    {
+      "head": "船舶推进",
+      "tail": "螺旋桨",
+      "relation": "主要装置"
+    },
+    {
+      "head": "螺旋桨",
+      "tail": "推力",
+      "relation": "产生"
+    },
+    {
+      "head": "螺旋桨",
+      "tail": "转矩",
+      "relation": "需要"
+    },
+    {
+      "head": "船舶推进",
+      "tail": "推进效率",
+      "relation": "评价指标"
+    },
+    {
+      "head": "船舶操纵性与耐波性",
+      "tail": "操纵性",
+      "relation": "包含"
+    },
+    {
+      "head": "船舶操纵性与耐波性",
+      "tail": "耐波性",
+      "relation": "包含"
+    },
+    {
+      "head": "操纵性",
+      "tail": "回转性",
+      "relation": "包含"
+    },
+    {
+      "head": "操纵性",
+      "tail": "航向稳定性",
+      "relation": "包含"
+    },
+    {
+      "head": "耐波性",
+      "tail": "横摇",
+      "relation": "研究运动"
+    },
+    {
+      "head": "耐波性",
+      "tail": "纵摇",
+      "relation": "研究运动"
+    },
+    {
+      "head": "耐波性",
+      "tail": "垂荡",
+      "relation": "研究运动"
+    },
+    {
+      "head": "阿基米德原理",
+      "tail": "排水量",
+      "relation": "用于计算"
+    },
+    {
+      "head": "稳心高度（GM）",
+      "tail": "初稳性",
+      "relation": "衡量"
+    },
+    {
+      "head": "推力",
+      "tail": "船舶阻力",
+      "relation": "用于克服"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:24:01",
+    "version": "1.1"
+  }
+}

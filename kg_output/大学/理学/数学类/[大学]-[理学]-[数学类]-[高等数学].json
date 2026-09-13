@@ -1,0 +1,580 @@
+{
+  "knowledge_tree": {
+    "title": "高等数学",
+    "content": "大学理学数学类核心课程，主要研究变量、函数、极限、微积分、级数等",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "函数与极限",
+        "content": "研究变量的依赖关系及变化趋势的基本概念",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "函数的概念",
+            "content": "设x和y是两个变量，D是一个给定的数集。如果对于每个数x∈D，变量y按照一定的法则总有确定的数值和它对应，则称y是x的函数，记作y=f(x)",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "定义域",
+                "content": "自变量x的取值范围D称为函数的定义域",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "值域",
+                "content": "函数值f(x)的全体构成的集合称为函数的值域",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "函数的表示法",
+                "content": "解析法、表格法、图像法",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "函数的特性",
+            "content": "描述函数行为的基本性质",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "有界性",
+                "content": "存在正数M，使得对任意x∈D，有|f(x)|≤M",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "单调性",
+                "content": "在区间I上，对于任意x1<x2，恒有f(x1)<f(x2)（单调增加）或f(x1)>f(x2)（单调减少）",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "奇偶性",
+                "content": "若f(-x)=f(x)，则为偶函数；若f(-x)=-f(x)，则为奇函数",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "周期性",
+                "content": "存在正数T，使得对任意x∈D，有f(x+T)=f(x)",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "极限的概念",
+            "content": "描述函数在某个点附近或无穷远处的变化趋势",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "数列极限",
+                "content": "对于数列{xn}，如果存在常数a，对于任意给定的正数ε，总存在正整数N，使得当n>N时，不等式|xn-a|<ε都成立，那么常数a称为数列{xn}的极限",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "函数极限",
+                "content": "设函数f(x)在点x0的某一去心邻域内有定义。如果存在常数A，对于任意给定的正数ε，总存在正数δ，使得当x满足不等式0<|x-x0|<δ时，对应的函数值f(x)都满足不等式|f(x)-A|<ε，那么常数A就叫做函数f(x)当x→x0时的极限",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "无穷小与无穷大",
+                "content": "极限为零的变量称为无穷小；绝对值无限增大的变量称为无穷大",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "极限的运算法则",
+            "content": "极限计算的基本规则",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "四则运算法则",
+                "content": "若lim f(x)=A, lim g(x)=B，则lim[f(x)±g(x)]=A±B, lim[f(x)·g(x)]=A·B, lim[f(x)/g(x)]=A/B (B≠0)",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "复合函数极限法则",
+                "content": "若lim φ(x)=u0, lim f(u)=A，且存在x0的某去心邻域，使得φ(x)≠u0，则lim f[φ(x)]=A",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "极限存在准则",
+            "content": "判断极限是否存在的定理",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "夹逼准则",
+                "content": "如果函数g(x), f(x), h(x)满足g(x)≤f(x)≤h(x)，且lim g(x)=lim h(x)=A，则lim f(x)=A",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "单调有界准则",
+                "content": "单调有界数列必有极限",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "两个重要极限",
+            "content": "微积分中的基础极限公式",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "第一个重要极限",
+                "content": "lim(x→0) sinx/x = 1",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "第二个重要极限",
+                "content": "lim(x→∞) (1+1/x)^x = e",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "导数与微分",
+        "content": "研究函数变化率与局部线性近似的工具",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "导数的概念",
+            "content": "函数在某一点的变化率",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "导数的定义",
+                "content": "f'(x0)=lim(Δx→0) [f(x0+Δx)-f(x0)]/Δx",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "导数的几何意义",
+                "content": "曲线y=f(x)在点(x0,f(x0))处的切线斜率",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "可导与连续的关系",
+                "content": "可导必连续，连续不一定可导",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "求导法则",
+            "content": "导数计算的基本方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "基本初等函数导数公式",
+                "content": "(C)'=0, (x^μ)'=μx^(μ-1), (sinx)'=cosx, (cosx)'=-sinx, (e^x)'=e^x, (lnx)'=1/x等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "四则运算法则",
+                "content": "(u±v)'=u'±v', (uv)'=u'v+uv', (u/v)'=(u'v-uv')/v^2",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "复合函数求导法则",
+                "content": "链式法则：dy/dx = dy/du · du/dx",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "高阶导数",
+            "content": "导数的导数",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "二阶导数",
+                "content": "f''(x) = [f'(x)]'",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "n阶导数",
+                "content": "函数f(x)的n次求导结果",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "隐函数求导",
+            "content": "由方程F(x,y)=0所确定的函数y=f(x)的导数求法",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "参数方程求导",
+            "content": "由参数方程x=φ(t), y=ψ(t)所确定的函数的导数求法",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "微分的概念",
+            "content": "函数增量的线性主部",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "微分的定义",
+                "content": "dy = f'(x)dx",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "微分的几何意义",
+                "content": "切线纵坐标的增量",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "微分中值定理与导数的应用",
+        "content": "利用导数研究函数性质的重要定理和方法",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "微分中值定理",
+            "content": "连接函数局部性质与整体性质的桥梁",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "罗尔定理",
+                "content": "如果函数f(x)在闭区间[a,b]上连续，在开区间(a,b)内可导，且f(a)=f(b)，则至少存在一点ξ∈(a,b)，使得f'(ξ)=0",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "拉格朗日中值定理",
+                "content": "如果函数f(x)在闭区间[a,b]上连续，在开区间(a,b)内可导，则至少存在一点ξ∈(a,b)，使得f'(ξ)=[f(b)-f(a)]/(b-a)",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "柯西中值定理",
+                "content": "如果函数f(x)和g(x)在闭区间[a,b]上连续，在开区间(a,b)内可导，且g'(x)≠0，则至少存在一点ξ∈(a,b)，使得[f(b)-f(a)]/[g(b)-g(a)]=f'(ξ)/g'(ξ)",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "洛必达法则",
+            "content": "求未定式极限的重要方法",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "0/0型未定式",
+                "content": "lim f(x)/g(x) = lim f'(x)/g'(x) (当极限存在或为无穷大时)",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "∞/∞型未定式",
+                "content": "同样适用洛必达法则",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "泰勒公式",
+            "content": "用多项式逼近函数的方法",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "泰勒中值定理",
+                "content": "f(x)=f(x0)+f'(x0)(x-x0)+...+f^(n)(x0)/n!·(x-x0)^n+Rn(x)",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "麦克劳林公式",
+                "content": "x0=0时的泰勒公式",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "函数单调性的判定",
+            "content": "利用导数判断函数单调性",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "单调性判定定理",
+                "content": "设函数f(x)在[a,b]上连续，在(a,b)内可导。如果在(a,b)内f'(x)>0，则f(x)在[a,b]上单调增加；如果在(a,b)内f'(x)<0，则f(x)在[a,b]上单调减少",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "函数的极值与最值",
+            "content": "研究函数局部和全局的极值点",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "极值的必要条件",
+                "content": "可导函数在极值点处的导数为零",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "极值的第一充分条件",
+                "content": "通过一阶导数符号变化判断极值",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "极值的第二充分条件",
+                "content": "通过二阶导数判断极值",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "函数",
+      "tail": "定义域",
+      "relation": "具有"
+    },
+    {
+      "head": "函数",
+      "tail": "值域",
+      "relation": "具有"
+    },
+    {
+      "head": "函数",
+      "tail": "有界性",
+      "relation": "具有特性"
+    },
+    {
+      "head": "函数",
+      "tail": "单调性",
+      "relation": "具有特性"
+    },
+    {
+      "head": "函数",
+      "tail": "奇偶性",
+      "relation": "具有特性"
+    },
+    {
+      "head": "函数",
+      "tail": "周期性",
+      "relation": "具有特性"
+    },
+    {
+      "head": "极限",
+      "tail": "数列极限",
+      "relation": "包含"
+    },
+    {
+      "head": "极限",
+      "tail": "函数极限",
+      "relation": "包含"
+    },
+    {
+      "head": "极限",
+      "tail": "无穷小",
+      "relation": "相关概念"
+    },
+    {
+      "head": "极限",
+      "tail": "无穷大",
+      "relation": "相关概念"
+    },
+    {
+      "head": "极限运算法则",
+      "tail": "四则运算法则",
+      "relation": "包含"
+    },
+    {
+      "head": "极限运算法则",
+      "tail": "复合函数极限法则",
+      "relation": "包含"
+    },
+    {
+      "head": "极限存在准则",
+      "tail": "夹逼准则",
+      "relation": "包含"
+    },
+    {
+      "head": "极限存在准则",
+      "tail": "单调有界准则",
+      "relation": "包含"
+    },
+    {
+      "head": "两个重要极限",
+      "tail": "第一个重要极限",
+      "relation": "包含"
+    },
+    {
+      "head": "两个重要极限",
+      "tail": "第二个重要极限",
+      "relation": "包含"
+    },
+    {
+      "head": "导数",
+      "tail": "导数的定义",
+      "relation": "基于"
+    },
+    {
+      "head": "导数",
+      "tail": "导数的几何意义",
+      "relation": "具有"
+    },
+    {
+      "head": "导数",
+      "tail": "可导与连续的关系",
+      "relation": "描述"
+    },
+    {
+      "head": "求导法则",
+      "tail": "基本初等函数导数公式",
+      "relation": "包含"
+    },
+    {
+      "head": "求导法则",
+      "tail": "四则运算法则",
+      "relation": "包含"
+    },
+    {
+      "head": "求导法则",
+      "tail": "复合函数求导法则",
+      "relation": "包含"
+    },
+    {
+      "head": "高阶导数",
+      "tail": "二阶导数",
+      "relation": "包含"
+    },
+    {
+      "head": "高阶导数",
+      "tail": "n阶导数",
+      "relation": "包含"
+    },
+    {
+      "head": "微分",
+      "tail": "微分的定义",
+      "relation": "基于"
+    },
+    {
+      "head": "微分",
+      "tail": "微分的几何意义",
+      "relation": "具有"
+    },
+    {
+      "head": "微分中值定理",
+      "tail": "罗尔定理",
+      "relation": "包含"
+    },
+    {
+      "head": "微分中值定理",
+      "tail": "拉格朗日中值定理",
+      "relation": "包含"
+    },
+    {
+      "head": "微分中值定理",
+      "tail": "柯西中值定理",
+      "relation": "包含"
+    },
+    {
+      "head": "洛必达法则",
+      "tail": "0/0型未定式",
+      "relation": "应用于"
+    },
+    {
+      "head": "洛必达法则",
+      "tail": "∞/∞型未定式",
+      "relation": "应用于"
+    },
+    {
+      "head": "泰勒公式",
+      "tail": "泰勒中值定理",
+      "relation": "基于"
+    },
+    {
+      "head": "泰勒公式",
+      "tail": "麦克劳林公式",
+      "relation": "包含"
+    },
+    {
+      "head": "函数单调性的判定",
+      "tail": "单调性判定定理",
+      "relation": "基于"
+    },
+    {
+      "head": "函数的极值与最值",
+      "tail": "极值的必要条件",
+      "relation": "基于"
+    },
+    {
+      "head": "函数的极值与最值",
+      "tail": "极值的第一充分条件",
+      "relation": "基于"
+    },
+    {
+      "head": "函数的极值与最值",
+      "tail": "极值的第二充分条件",
+      "relation": "基于"
+    },
+    {
+      "head": "可导",
+      "tail": "连续",
+      "relation": "蕴含"
+    },
+    {
+      "head": "导数",
+      "tail": "微分",
+      "relation": "相关概念"
+    },
+    {
+      "head": "极限",
+      "tail": "导数",
+      "relation": "是基础"
+    },
+    {
+      "head": "微分中值定理",
+      "tail": "导数的应用",
+      "relation": "是理论基础"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:05:16",
+    "version": "1.1"
+  }
+}

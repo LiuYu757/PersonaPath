@@ -1,0 +1,259 @@
+{
+  "knowledge_tree": {
+    "title": "金融学",
+    "content": "研究资金融通、资产定价、风险管理和金融市场运行规律的经济学分支学科",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "货币与货币制度",
+        "content": "货币的本质、职能及货币制度的演变",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "货币的定义与职能",
+            "content": "货币是固定充当一般等价物的特殊商品，具有价值尺度、流通手段、贮藏手段、支付手段和世界货币五大职能",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "货币制度的演变",
+            "content": "从金属货币制度到信用货币制度的发展过程，包括银本位制、金银复本位制、金本位制和现代不兑现信用货币制度",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "货币层次划分",
+            "content": "根据流动性强弱将货币供应量划分为M0、M1、M2等不同层次",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "利息与利率",
+        "content": "资金的时间价值与利率决定理论",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "利息的本质",
+            "content": "利息是资金所有者让渡资金使用权而获得的报酬，是资金时间价值的体现",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "利率的种类",
+            "content": "包括名义利率与实际利率、固定利率与浮动利率、市场利率与官定利率等分类",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "利率决定理论",
+            "content": "古典利率理论、流动性偏好理论、可贷资金理论等主要利率决定理论",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "利率期限结构",
+            "content": "研究不同期限债券利率之间的关系，包括预期理论、市场分割理论和流动性溢价理论",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "金融市场",
+        "content": "资金融通和金融工具交易的场所与机制",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "货币市场",
+            "content": "短期资金融通市场，包括同业拆借市场、票据市场、国库券市场等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "资本市场",
+            "content": "长期资金融通市场，主要包括股票市场和债券市场",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "金融衍生品市场",
+            "content": "以远期、期货、期权和互换等衍生金融工具为交易对象的市场",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "金融市场效率",
+            "content": "研究金融市场信息反映程度，包括弱式有效、半强式有效和强式有效市场假说",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "资产定价理论",
+        "content": "金融资产价值评估的基本原理和方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "现值原理",
+            "content": "资产价值等于其未来预期现金流的现值之和",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "资本资产定价模型(CAPM)",
+            "content": "E(Ri) = Rf + βi[E(Rm) - Rf]，描述资产预期收益与系统风险的关系",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "套利定价理论(APT)",
+            "content": "基于无套利原则的多因素资产定价模型",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "期权定价模型",
+            "content": "布莱克-斯科尔斯期权定价公式等衍生品定价理论",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "风险管理",
+        "content": "识别、衡量和控制金融风险的理论与方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "风险的类型",
+            "content": "包括市场风险、信用风险、流动性风险、操作风险等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "风险度量方法",
+            "content": "方差、在险价值(VaR)、期望亏空(ES)等风险量化指标",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "风险管理工具",
+            "content": "包括 diversification、hedging、insurance 等风险管理技术",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "资产负债管理",
+            "content": "通过协调资产和负债的期限、利率结构来管理金融机构的整体风险",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "金融学",
+      "tail": "货币与货币制度",
+      "relation": "包含"
+    },
+    {
+      "head": "金融学",
+      "tail": "利息与利率",
+      "relation": "包含"
+    },
+    {
+      "head": "金融学",
+      "tail": "金融市场",
+      "relation": "包含"
+    },
+    {
+      "head": "金融学",
+      "tail": "资产定价理论",
+      "relation": "包含"
+    },
+    {
+      "head": "金融学",
+      "tail": "风险管理",
+      "relation": "包含"
+    },
+    {
+      "head": "货币",
+      "tail": "利息",
+      "relation": "资金时间价值体现"
+    },
+    {
+      "head": "利率",
+      "tail": "资产定价",
+      "relation": "作为贴现率应用于"
+    },
+    {
+      "head": "现值原理",
+      "tail": "资产定价理论",
+      "relation": "构成基础"
+    },
+    {
+      "head": "资本资产定价模型",
+      "tail": "风险管理",
+      "relation": "提供风险度量基础"
+    },
+    {
+      "head": "金融市场",
+      "tail": "资产定价",
+      "relation": "提供交易场所"
+    },
+    {
+      "head": "利率期限结构",
+      "tail": "债券定价",
+      "relation": "直接影响"
+    },
+    {
+      "head": "风险管理",
+      "tail": "金融衍生品",
+      "relation": "利用工具进行"
+    },
+    {
+      "head": "货币市场",
+      "tail": "短期利率",
+      "relation": "决定"
+    },
+    {
+      "head": "资本市场",
+      "tail": "长期资金配置",
+      "relation": "实现"
+    },
+    {
+      "head": "有效市场假说",
+      "tail": "投资策略",
+      "relation": "影响"
+    },
+    {
+      "head": "套利定价理论",
+      "tail": "多因素风险模型",
+      "relation": "扩展了"
+    },
+    {
+      "head": "期权定价模型",
+      "tail": "金融衍生品定价",
+      "relation": "核心理论"
+    },
+    {
+      "head": "风险度量",
+      "tail": "风险管理决策",
+      "relation": "为...提供依据"
+    },
+    {
+      "head": "资产负债管理",
+      "tail": "金融机构稳健性",
+      "relation": "保障"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:49:09",
+    "version": "1.1"
+  }
+}

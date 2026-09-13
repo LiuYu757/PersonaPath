@@ -1,0 +1,201 @@
+{
+  "knowledge_tree": {
+    "title": "七年级上册生物学",
+    "content": "涵盖生物的基本特征、细胞结构、动植物细胞、微生物及生物分类等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "认识生物",
+        "content": "生物的定义及共同特征",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "生物的特征",
+            "content": "生物的生活需要营养；生物能进行呼吸；生物能排出体内产生的废物；生物能对外界刺激作出反应；生物能生长和繁殖；生物都有遗传和变异的特性；除病毒外，生物都是由细胞构成的",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "观察生物的方法",
+            "content": "观察是科学探究的一种基本方法，需要有明确的目的、计划，并借助工具如放大镜、显微镜等",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "细胞的结构与功能",
+        "content": "细胞是生物体结构和功能的基本单位",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "植物细胞",
+            "content": "具有细胞壁、细胞膜、细胞质、细胞核、液泡、线粒体，绿色部分还有叶绿体",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "细胞壁",
+                "content": "位于植物细胞最外层，起保护和支持作用",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "叶绿体",
+                "content": "进行光合作用的场所，将光能转化为化学能",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "动物细胞",
+            "content": "具有细胞膜、细胞质、细胞核、线粒体，无细胞壁和叶绿体",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "细胞的生活",
+            "content": "细胞的生活需要物质和能量，细胞膜控制物质进出，细胞核是控制中心",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "细胞膜的功能",
+                "content": "控制物质进出细胞，保持细胞内环境的相对稳定",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "细胞核的功能",
+                "content": "含有遗传物质DNA，是细胞的控制中心",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "细胞怎样构成生物体",
+        "content": "细胞通过分裂和分化形成组织、器官、系统，进而构成生物体",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "细胞分裂",
+            "content": "细胞分裂就是一个细胞分成两个细胞的过程",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "分裂过程",
+                "content": "细胞核先分成两个，随后细胞质分成两份，每份各含有一个细胞核",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "染色体变化",
+                "content": "细胞分裂时，染色体的变化最明显，染色体先复制再均分",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "动物体的结构层次",
+            "content": "细胞→组织→器官→系统→动物体",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "组织",
+                "content": "由形态相似、结构功能相同的细胞联合在一起形成的细胞群",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "器官",
+                "content": "由不同的组织按照一定的次序结合在一起构成的行使一定功能的结构",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "生物圈中的绿色植物",
+        "content": "包括藻类、苔藓、蕨类植物和种子植物",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "藻类植物",
+            "content": "结构简单，无根、茎、叶的分化，大多生活在水中",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "种子植物",
+            "content": "能产生种子，种子外面有果皮包被的植物称为被子植物，种子裸露的植物称为裸子植物",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "种子的结构",
+                "content": "包括种皮和胚，胚由胚芽、胚轴、胚根和子叶组成",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "生物",
+      "tail": "细胞",
+      "relation": "由...构成"
+    },
+    {
+      "head": "植物细胞",
+      "tail": "细胞壁",
+      "relation": "具有"
+    },
+    {
+      "head": "动物细胞",
+      "tail": "细胞壁",
+      "relation": "不具有"
+    },
+    {
+      "head": "细胞",
+      "tail": "细胞分裂",
+      "relation": "通过...增加数量"
+    },
+    {
+      "head": "细胞分裂",
+      "tail": "染色体",
+      "relation": "涉及...的复制和均分"
+    },
+    {
+      "head": "组织",
+      "tail": "器官",
+      "relation": "构成"
+    },
+    {
+      "head": "器官",
+      "tail": "系统",
+      "relation": "构成"
+    },
+    {
+      "head": "藻类植物",
+      "tail": "叶绿体",
+      "relation": "具有"
+    },
+    {
+      "head": "种子植物",
+      "tail": "种子",
+      "relation": "产生"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:00:52",
+    "version": "1.1"
+  }
+}

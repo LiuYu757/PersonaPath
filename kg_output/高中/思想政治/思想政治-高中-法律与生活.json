@@ -1,0 +1,112 @@
+{
+  "knowledge_tree": {
+    "title": "法律与生活",
+    "content": "高中思想政治选择性必修2教材，涵盖民事权利与义务、家庭与婚姻、就业与创业、社会争议解决等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "民事权利与义务",
+        "content": "民法调整平等主体间的人身关系和财产关系",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "民事法律关系",
+            "content": "由民法调整的人身关系和财产关系，包含主体、客体和内容三要素",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "民事主体",
+                "content": "包括自然人、法人和非法人组织",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "自然人",
+                    "content": "从出生时起到死亡时止具有民事权利能力",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "法人",
+                    "content": "具有民事权利能力和行为能力的组织",
+                    "difficulty": "1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "民法基本原则",
+            "content": "平等、自愿、公平、诚信、守法和公序良俗、绿色原则",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "家庭与婚姻",
+        "content": "调整基于婚姻、血缘等关系的家庭权利义务",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "婚姻制度",
+            "content": "法律确认的男女两性结合及夫妻关系",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "民事权利",
+      "tail": "民事义务",
+      "relation": "相互对应"
+    },
+    {
+      "head": "民法",
+      "tail": "民事法律关系",
+      "relation": "调整"
+    },
+    {
+      "head": "自然人",
+      "tail": "民事权利能力",
+      "relation": "享有"
+    },
+    {
+      "head": "合同",
+      "tail": "要约",
+      "relation": "订立阶段"
+    },
+    {
+      "head": "合同",
+      "tail": "承诺",
+      "relation": "订立阶段"
+    },
+    {
+      "head": "婚姻",
+      "tail": "夫妻关系",
+      "relation": "确立"
+    },
+    {
+      "head": "劳动合同",
+      "tail": "劳动者权利",
+      "relation": "保障"
+    },
+    {
+      "head": "诉讼",
+      "tail": "证据",
+      "relation": "依据"
+    },
+    {
+      "head": "法律援助",
+      "tail": "经济困难公民",
+      "relation": "帮助"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:40:44",
+    "version": "1.1"
+  }
+}

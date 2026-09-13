@@ -1,0 +1,340 @@
+{
+  "knowledge_tree": {
+    "title": "质量管理学",
+    "content": "研究质量策划、质量控制、质量保证和质量改进的理论与方法的学科",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "质量与质量管理的基本概念",
+        "content": "质量的定义、特性及质量管理的基本思想",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "质量的定义",
+            "content": "一组固有特性满足要求的程度",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "固有特性",
+                "content": "事物本身所具有的、永久的特性",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "要求",
+                "content": "明示的、通常隐含的或必须履行的需求或期望",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "质量的特性",
+            "content": "性能、可靠性、安全性、适应性、经济性、时间性",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "质量管理的定义",
+            "content": "在质量方面指挥和控制组织的协调的活动",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "全面质量管理",
+            "content": "以质量为中心，以全员参与为基础，旨在通过让顾客满意和本组织所有成员及社会受益而达到长期成功的管理途径",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "三全一多样",
+                "content": "全员、全过程、全企业的质量管理，方法多样",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "质量管理体系",
+        "content": "ISO9000族标准及体系建立、实施与审核",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "ISO9000族标准",
+            "content": "国际标准化组织制定的质量管理体系标准",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "七项质量管理原则",
+                "content": "以顾客为关注焦点、领导作用、全员积极参与、过程方法、改进、循证决策、关系管理",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "PDCA循环",
+                "content": "Plan-Do-Check-Act，质量管理的基本方法",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "质量管理体系建立与实施",
+            "content": "体系策划、文件编写、运行与保持",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "质量管理体系审核",
+            "content": "系统检查质量管理体系是否符合标准要求",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "质量管理工具与方法",
+        "content": "用于质量数据收集、分析和改进的统计工具与技术",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "老七种工具",
+            "content": "因果图、排列图、直方图、检查表、散布图、控制图、分层法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "控制图原理",
+                "content": "基于统计过程控制理论，区分偶然波动与异常波动",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "过程能力指数",
+                "content": "Cp, Cpk，衡量过程满足技术要求的能力",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "新七种工具",
+            "content": "关联图、KJ法、系统图、矩阵图、PDPC法、箭条图、矩阵数据分析法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "质量功能展开",
+            "content": "将顾客需求转化为产品设计和生产要求的方法",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "故障模式与影响分析",
+            "content": "系统分析潜在故障模式及其影响的方法",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "质量管理统计基础",
+        "content": "概率统计知识在质量管理中的应用",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "数据类型",
+            "content": "计量值数据与计数值数据",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "常用概率分布",
+            "content": "正态分布、二项分布、泊松分布",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "正态分布的性质",
+                "content": "均值、标准差与分布形态的关系",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "统计推断",
+            "content": "参数估计与假设检验",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "方差分析",
+            "content": "比较多个总体均值是否相等的统计方法",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "回归分析",
+            "content": "研究变量间相关关系的统计方法",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "六西格玛管理",
+        "content": "以数据为基础，追求近乎完美的质量管理方法",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "六西格玛的含义",
+            "content": "百万机会缺陷数为3.4的质量水平",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "DMAIC改进模式",
+            "content": "定义、测量、分析、改进、控制",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "DMADV设计模式",
+            "content": "定义、测量、分析、设计、验证",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "质量管理学常见题型与解题思路",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "概念辨析题",
+            "content": "区分质量相关概念的内涵与外延",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "工具应用题",
+            "content": "运用质量管理工具解决实际问题",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "控制图绘制与分析",
+                "content": "根据数据绘制控制图并判断过程状态",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "过程能力分析计算",
+                "content": "计算Cp、Cpk等过程能力指数",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "案例分析题",
+            "content": "综合运用质量管理理论分析企业案例",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "质量",
+      "tail": "固有特性",
+      "relation": "由...定义"
+    },
+    {
+      "head": "质量",
+      "tail": "要求",
+      "relation": "由...定义"
+    },
+    {
+      "head": "全面质量管理",
+      "tail": "三全一多样",
+      "relation": "核心思想是"
+    },
+    {
+      "head": "ISO9000族标准",
+      "tail": "七项质量管理原则",
+      "relation": "基于"
+    },
+    {
+      "head": "PDCA循环",
+      "tail": "质量管理体系",
+      "relation": "是...的基本方法"
+    },
+    {
+      "head": "控制图",
+      "tail": "统计过程控制理论",
+      "relation": "基于"
+    },
+    {
+      "head": "控制图",
+      "tail": "过程能力指数",
+      "relation": "用于计算"
+    },
+    {
+      "head": "过程能力指数",
+      "tail": "技术要求",
+      "relation": "衡量满足程度"
+    },
+    {
+      "head": "质量管理统计基础",
+      "tail": "控制图",
+      "relation": "提供理论支持"
+    },
+    {
+      "head": "正态分布",
+      "tail": "过程能力分析",
+      "relation": "是...的基础"
+    },
+    {
+      "head": "六西格玛管理",
+      "tail": "DMAIC改进模式",
+      "relation": "采用"
+    },
+    {
+      "head": "六西格玛管理",
+      "tail": "DMADV设计模式",
+      "relation": "采用"
+    },
+    {
+      "head": "质量功能展开",
+      "tail": "顾客需求",
+      "relation": "用于转化"
+    },
+    {
+      "head": "故障模式与影响分析",
+      "tail": "潜在故障",
+      "relation": "用于分析"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "工具应用题",
+      "relation": "包含"
+    },
+    {
+      "head": "工具应用题",
+      "tail": "控制图绘制与分析",
+      "relation": "包含"
+    },
+    {
+      "head": "工具应用题",
+      "tail": "过程能力分析计算",
+      "relation": "包含"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:33:31",
+    "version": "1.1"
+  }
+}

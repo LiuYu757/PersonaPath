@@ -1,0 +1,395 @@
+{
+  "knowledge_tree": {
+    "title": "电动力学",
+    "content": "研究电磁场基本属性、运动规律以及电磁场与带电物质相互作用的理论物理学分支",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "电磁场基本定律",
+        "content": "描述电磁现象的基本实验定律和理论基础",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "库仑定律",
+            "content": "描述静止点电荷之间相互作用力的定律，F=kq₁q₂/r²",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "点电荷概念",
+                "content": "理想化的电荷模型，尺寸远小于距离的带电体",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "库仑力性质",
+                "content": "与电荷量乘积成正比，与距离平方成反比，沿连线方向",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "高斯定律",
+            "content": "∮E·dA = Q/ε₀，描述电场通量与闭合曲面内电荷量的关系",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电通量定义",
+                "content": "电场通过某一曲面的量度，Φ=∫E·dA",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "高斯面选择",
+                "content": "利用对称性简化计算的技巧性曲面",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "安培定律",
+            "content": "∮B·dl = μ₀I，描述磁场环流与穿过闭合路径电流的关系",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "磁感应强度",
+                "content": "描述磁场强弱和方向的物理量，矢量",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电流元概念",
+                "content": "Idl，电流与长度微元的乘积",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "法拉第电磁感应定律",
+            "content": "ε=-dΦ/dt，描述变化磁场产生感应电动势",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "磁通量变化率",
+                "content": "磁场变化快慢的物理量",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "楞次定律",
+                "content": "感应电流方向总是阻碍磁通量变化",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "麦克斯韦方程组",
+        "content": "电磁场理论的完整数学描述，统一了电与磁的现象",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "积分形式",
+            "content": "适用于宏观区域的方程组形式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电场高斯定律",
+                "content": "∮D·dA = Q_f，电位移通量等于自由电荷",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "磁场高斯定律",
+                "content": "∮B·dA = 0，磁通连续无磁单极",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "法拉第定律",
+                "content": "∮E·dl = -dΦ_B/dt，变化磁场产生涡旋电场",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "安培-麦克斯韦定律",
+                "content": "∮H·dl = I_f + dΦ_D/dt，全电流定律",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "微分形式",
+            "content": "适用于空间某点的方程组形式",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "∇·D = ρ_f",
+                "content": "电场散度方程",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "∇·B = 0",
+                "content": "磁场无散性方程",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "∇×E = -∂B/∂t",
+                "content": "法拉第定律微分形式",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "∇×H = J_f + ∂D/∂t",
+                "content": "全电流定律微分形式",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "电磁波理论",
+        "content": "由麦克斯韦方程组推导出的波动现象",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "波动方程推导",
+            "content": "从麦克斯韦方程组导出电磁波方程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "真空波动方程",
+                "content": "∇²E = μ₀ε₀∂²E/∂t²，c=1/√(μ₀ε₀)",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "介质波动方程",
+                "content": "考虑介质特性的波动方程形式",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "平面电磁波",
+            "content": "最简单的电磁波传播形式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "横波特性",
+                "content": "E、B垂直于传播方向且相互垂直",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "波阻抗",
+                "content": "Z=E/H，真空为377Ω",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电磁波能量",
+            "content": "坡印廷矢量描述能流密度",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "坡印廷矢量",
+                "content": "S=E×H，瞬时能流密度",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "能量密度",
+                "content": "u=1/2(E·D+B·H)",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "电动力学中常见的解题类型和方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "静电场问题",
+            "content": "求解电荷分布的电场问题",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "对称性电场计算",
+                "content": "利用高斯定律求解对称电荷分布的电场",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电势计算",
+                "content": "通过积分求电势分布",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "静磁场问题",
+            "content": "求解电流分布的磁场问题",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "毕奥-萨伐尔定律应用",
+                "content": "通过积分求磁场分布",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "安培环路定律应用",
+                "content": "利用对称性求解磁场",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电磁波传播问题",
+            "content": "求解电磁波在介质中的传播特性",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "反射折射计算",
+                "content": "应用边界条件求解",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "波导问题",
+                "content": "求解受限空间中电磁波模式",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "库仑定律",
+      "tail": "点电荷概念",
+      "relation": "基于"
+    },
+    {
+      "head": "高斯定律",
+      "tail": "电通量定义",
+      "relation": "基于"
+    },
+    {
+      "head": "安培定律",
+      "tail": "磁感应强度",
+      "relation": "描述"
+    },
+    {
+      "head": "法拉第电磁感应定律",
+      "tail": "磁通量变化率",
+      "relation": "基于"
+    },
+    {
+      "head": "麦克斯韦方程组",
+      "tail": "库仑定律",
+      "relation": "推广"
+    },
+    {
+      "head": "麦克斯韦方程组",
+      "tail": "安培定律",
+      "relation": "完善"
+    },
+    {
+      "head": "麦克斯韦方程组",
+      "tail": "法拉第电磁感应定律",
+      "relation": "包含"
+    },
+    {
+      "head": "麦克斯韦方程组",
+      "tail": "电磁波理论",
+      "relation": "推导出"
+    },
+    {
+      "head": "电磁波理论",
+      "tail": "平面电磁波",
+      "relation": "包含"
+    },
+    {
+      "head": "电磁波理论",
+      "tail": "坡印廷矢量",
+      "relation": "应用于"
+    },
+    {
+      "head": "平面电磁波",
+      "tail": "横波特性",
+      "relation": "具有"
+    },
+    {
+      "head": "对称性电场计算",
+      "tail": "高斯定律",
+      "relation": "应用"
+    },
+    {
+      "head": "毕奥-萨伐尔定律应用",
+      "tail": "磁感应强度",
+      "relation": "计算"
+    },
+    {
+      "head": "安培环路定律应用",
+      "tail": "安培定律",
+      "relation": "基于"
+    },
+    {
+      "head": "电磁波传播问题",
+      "tail": "波动方程推导",
+      "relation": "基于"
+    },
+    {
+      "head": "电势计算",
+      "tail": "库仑定律",
+      "relation": "基于"
+    },
+    {
+      "head": "波导问题",
+      "tail": "麦克斯韦方程组",
+      "relation": "应用"
+    },
+    {
+      "head": "反射折射计算",
+      "tail": "边界条件",
+      "relation": "基于"
+    },
+    {
+      "head": "电场高斯定律",
+      "tail": "电位移矢量",
+      "relation": "涉及"
+    },
+    {
+      "head": "磁场高斯定律",
+      "tail": "磁单极不存在",
+      "relation": "表明"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:13:37",
+    "version": "1.1"
+  }
+}

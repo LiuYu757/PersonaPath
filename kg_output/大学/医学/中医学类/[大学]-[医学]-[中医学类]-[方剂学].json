@@ -1,0 +1,430 @@
+{
+  "knowledge_tree": {
+    "title": "方剂学",
+    "content": "研究中医方剂配伍理论、组方规律、临床应用及现代研究的学科",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "方剂学基础概念",
+        "content": "方剂、方剂学、治法、组方原则等核心术语的定义与范畴",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "方剂",
+            "content": "在辨证审因、确定治法之后，选择适宜药物，酌定用量、剂型，按照配伍原则组成的药用组合",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "方剂学",
+            "content": "研究并阐明治法与方剂理论及其临床运用规律的一门学科",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "治法",
+            "content": "针对证候而设立的治疗方法，是组方与遣药的依据",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "组方原则",
+            "content": "君臣佐使的配伍结构与主次关系",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "君臣佐使理论",
+        "content": "方剂配伍中药物主次与功能分工的基本结构",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "君药",
+            "content": "针对主病或主证起主要治疗作用的药物，是方中核心",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "臣药",
+            "content": "辅助君药加强疗效或针对兼病兼证起主要治疗作用的药物",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "佐药",
+            "content": "佐助药、佐制药与反佐药三类，分别起协助、减毒、防拒药作用",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "使药",
+            "content": "引经药与调和药，引导诸药直达病所或调和诸药",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "方剂分类",
+        "content": "按治法、病证、剂型、组成等不同维度的分类体系",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "八法分类",
+            "content": "汗、吐、下、和、温、清、消、补八法对应方剂的归类",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "病证分类",
+            "content": "按内科、妇科、儿科、外科等各科病证列方",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "剂型分类",
+            "content": "汤剂、丸剂、散剂、膏剂、丹剂等剂型特征与适用范围",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "方剂组成变化",
+        "content": "药味加减、用量调整、剂型更换等动态变化规律",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "药味加减变化",
+            "content": "随证加减、兼证加减、体质加减等原则",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "用量比例变化",
+            "content": "量变导致功效趋向改变，如小承气汤与厚朴三物汤",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "剂型更换变化",
+            "content": "汤者荡也、丸者缓也、散者散也的剂型效用差异",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "常用剂型与煎服法",
+        "content": "剂型特点、制备要点与临床服用规范",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "汤剂",
+            "content": "水煎煮取汁，吸收快、作用速，适用于急重病证",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "丸剂",
+            "content": "分蜜丸、水丸、浓缩丸，药效持久，适于慢性调理",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "散剂",
+            "content": "粉末状内服或外用，节省药材、便于携带",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "煎药火候",
+            "content": "先煎、后下、包煎、烊化、冲服等特殊煎法",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "代表方解析",
+        "content": "经典名方的组成、功用、主治、方义与临床应用",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "麻黄汤",
+            "content": "发汗解表、宣肺平喘，主治外感风寒表实证",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "组成与用量",
+                "content": "麻黄三两、桂枝二两、杏仁七十个、甘草一两",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "方义分析",
+                "content": "麻黄为君发汗解表宣肺，桂枝为臣助阳解表，杏仁佐肃降肺气，甘草使调和诸药",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "辨证要点",
+                "content": "恶寒发热、无汗而喘、脉浮紧",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "现代应用",
+                "content": "流感、急性支气管炎、哮喘属风寒表实者",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "桂枝汤",
+            "content": "解肌发表、调和营卫，主治外感风寒表虚证",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "组成与用量",
+                "content": "桂枝三两、芍药三两、甘草二两、生姜三两、大枣十二枚",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "方义分析",
+                "content": "桂枝解肌发表为君，芍药敛阴和营为臣，姜枣草调和脾胃为佐使",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "服法要点",
+                "content": "啜热稀粥、温覆取微汗，以助药力",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "银翘散",
+            "content": "辛凉透表、清热解毒，主治温病初起风热表证",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "组成与用量",
+                "content": "银花一两、连翘一两、桔梗六钱、薄荷六钱、竹叶四钱等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "方义分析",
+                "content": "银花、连翘清热解毒共为君，薄荷、牛蒡辛凉透表为臣，芦根、竹叶生津止渴为佐，甘草调和为使",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "四君子汤",
+            "content": "益气健脾，主治脾胃气虚证",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "组成与用量",
+                "content": "人参、白术、茯苓各三钱，炙甘草二钱",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "方义分析",
+                "content": "人参大补元气为君，白术健脾燥湿为臣，茯苓渗湿健脾为佐，甘草益气和中为使",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "加减化裁",
+                "content": "四物汤合为八珍汤，加黄芪肉桂为十全大补汤",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "四物汤",
+            "content": "补血调血，主治营血虚滞证",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "组成与用量",
+                "content": "当归三钱、川芎二钱、白芍三钱、熟地三钱",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "方义分析",
+                "content": "熟地滋阴补血为君，当归补血养肝为臣，白芍敛阴和营、川芎活血行气共为佐使",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "配伍禁忌与毒性中药",
+        "content": "十八反、十九畏、妊娠禁忌及毒性药物使用规范",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "十八反",
+            "content": "乌头反半夏、瓜蒌、贝母、白蔹、白及；甘草反海藻、大戟、甘遂、芫花；藜芦反人参、丹参、玄参、沙参、细辛、芍药",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "十九畏",
+            "content": "硫黄畏朴硝、水银畏砒霜、狼毒畏密陀僧等配伍禁忌",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "妊娠禁忌",
+            "content": "禁用：毒性大、药性猛烈如巴豆、麝香；慎用：活血行气滑利如大黄、桃仁",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "考试中常见的方剂学题型与解题思路",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "方义分析题",
+            "content": "给出方歌或组成，要求指出君臣佐使及配伍意义",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "辨证选方题",
+            "content": "提供病例资料，要求辨证立法选方",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "组成填空题",
+            "content": "根据功用或主治填写缺失药味",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "比较鉴别题",
+            "content": "比较相似方剂在组成、功用、主治上的异同",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "方剂学",
+      "tail": "方剂",
+      "relation": "研究对象"
+    },
+    {
+      "head": "方剂",
+      "tail": "君臣佐使",
+      "relation": "遵循结构"
+    },
+    {
+      "head": "治法",
+      "tail": "方剂",
+      "relation": "指导组成"
+    },
+    {
+      "head": "八法分类",
+      "tail": "汗法",
+      "relation": "包含"
+    },
+    {
+      "head": "麻黄汤",
+      "tail": "汗法",
+      "relation": "属于"
+    },
+    {
+      "head": "桂枝汤",
+      "tail": "解肌发表",
+      "relation": "体现治法"
+    },
+    {
+      "head": "四君子汤",
+      "tail": "补气剂",
+      "relation": "属于"
+    },
+    {
+      "head": "四物汤",
+      "tail": "补血剂",
+      "relation": "属于"
+    },
+    {
+      "head": "十八反",
+      "tail": "配伍禁忌",
+      "relation": "属于"
+    },
+    {
+      "head": "妊娠禁忌",
+      "tail": "禁用",
+      "relation": "分类为"
+    },
+    {
+      "head": "方义分析题",
+      "tail": "君臣佐使",
+      "relation": "基于"
+    },
+    {
+      "head": "辨证选方题",
+      "tail": "治法",
+      "relation": "依赖"
+    },
+    {
+      "head": "剂型更换变化",
+      "tail": "汤剂",
+      "relation": "可变为"
+    },
+    {
+      "head": "剂型更换变化",
+      "tail": "丸剂",
+      "relation": "可变为"
+    },
+    {
+      "head": "先煎",
+      "tail": "煎药火候",
+      "relation": "属于"
+    },
+    {
+      "head": "银翘散",
+      "tail": "辛凉解表剂",
+      "relation": "属于"
+    },
+    {
+      "head": "小承气汤",
+      "tail": "用量比例变化",
+      "relation": "体现"
+    },
+    {
+      "head": "厚朴三物汤",
+      "tail": "小承气汤",
+      "relation": "源于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 11:37:39",
+    "version": "1.1"
+  }
+}

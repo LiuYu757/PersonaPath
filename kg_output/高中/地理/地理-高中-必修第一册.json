@@ -1,0 +1,876 @@
+{
+  "knowledge_tree": {
+    "title": "地理必修第一册",
+    "content": "高中地理必修第一册内容，涵盖宇宙中的地球、地球上的大气、地球上的水、地貌、植被与土壤、自然灾害等核心知识",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "宇宙中的地球",
+        "content": "地球的宇宙环境、太阳对地球的影响、地球的历史和圈层结构",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "地球的宇宙环境",
+            "content": "天体类型、天体系统层次、地球在太阳系中的位置",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "天体类型",
+                "content": "恒星、行星、卫星、星云、流星体、彗星等宇宙物质存在形式",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "天体系统层次",
+                "content": "地月系→太阳系→银河系→可观测宇宙的四级天体系统",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "地球的普通性",
+                "content": "地球是太阳系中一颗普通的类地行星，具有同向性、共面性、近圆性特征",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "地球的特殊性",
+                "content": "地球是太阳系中唯一存在高级智慧生命的行星，具有适宜的温度、水和大气条件",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "太阳对地球的影响",
+            "content": "太阳辐射和太阳活动对地球的影响",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "太阳辐射对地球的影响",
+                "content": "维持地表温度、水循环和生命活动的主要动力，产生纬度地带性差异",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "太阳活动类型",
+                "content": "太阳黑子、耀斑、日珥、日冕物质抛射等太阳大气变化现象",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "太阳活动影响",
+                "content": "扰动地球磁场和大气层，产生磁暴、极光，影响导航、通信等人类活动",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "地球的历史",
+            "content": "地球演化历程和地质年代划分",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "地层与化石",
+                "content": "地层具有时间顺序，化石反映生物演化阶段和古地理环境",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "地质年代表",
+                "content": "宙、代、纪等时间单位的地球历史系统性编年",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "地球演化历程",
+                "content": "前寒武纪→古生代→中生代→新生代的生物与环境协同演化",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "地球的圈层结构",
+            "content": "地球内部圈层和外部圈层结构特征",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "内部圈层划分",
+                "content": "以莫霍界面和古登堡界面为界，分为地壳、地幔、地核三个圈层",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "岩石圈概念",
+                "content": "地壳和上地幔顶部（软流层以上）由坚硬岩石组成的圈层",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "外部圈层组成",
+                "content": "大气圈、水圈、生物圈等圈层相互联系、相互渗透",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "地球上的大气",
+        "content": "大气的组成和垂直分层、大气受热过程和大气运动",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "大气的组成",
+            "content": "干洁空气、水汽和杂质的成分及作用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "干洁空气成分",
+                "content": "氮气(78%)、氧气(21%)、氩气(0.93%)、二氧化碳(0.04%)等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "水汽和杂质作用",
+                "content": "成云致雨的必要条件，影响天气变化",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "人类活动影响",
+                "content": "污染物排放改变大气成分，产生大气污染",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "大气的垂直分层",
+            "content": "对流层、平流层和高层大气的特征及与人类关系",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "对流层特征",
+                "content": "大气圈最底层，集中3/4大气质量，天气现象复杂，人类生活于此",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "平流层特征",
+                "content": "臭氧层吸收紫外线，大气平稳，适合航空飞行",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "高层大气特征",
+                "content": "存在电离层，反射无线电波，对通信有重要作用",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "大气受热过程",
+            "content": "太阳辐射、地面辐射和大气逆辐射的能量传递过程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "大气对太阳辐射的作用",
+                "content": "吸收少部分，大部分到达地面，大气对太阳短波辐射吸收较少",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "地面辐射作用",
+                "content": "地面吸收太阳辐射增温，以长波辐射形式向大气传递热量",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "大气保温作用",
+                "content": "大气逆辐射补偿地面热量损失，对地面起保温作用",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "大气运动",
+            "content": "热力环流和风的形成原理",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "热力环流形成",
+                "content": "地面冷热不均→空气垂直运动→同一水平面气压差异→空气水平运动",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "水平气压梯度力",
+                "content": "形成风的直接原因，方向垂直于等压线，高压指向低压",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "风向影响因素",
+                "content": "水平气压梯度力、地转偏向力、摩擦力共同作用决定风向",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "地球上的水",
+        "content": "水循环、海水性质和海水运动",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "水循环",
+            "content": "水在水圈、大气圈、岩石圈、生物圈中的连续运动过程",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "水循环环节",
+                "content": "蒸发(蒸腾)、水汽输送、降水、下渗、径流等基本环节",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "水循环类型",
+                "content": "海陆间循环、陆地内循环、海上内循环三种空间范围类型",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "水循环意义",
+                "content": "维持全球水量平衡，联系四大圈层，实现物质迁移和能量转换",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "海水的性质",
+            "content": "海水温度、盐度和密度的分布规律及影响因素",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "海水温度分布",
+                "content": "表层水温由低纬向高纬递减，垂直方向1000米内变化较大",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "海水盐度分布",
+                "content": "副热带海域最高，向赤道和两极逐渐降低，近岸受径流影响",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "海水密度分布",
+                "content": "表层密度随纬度增高而增大，垂直方向出现密度突变层",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "海水运动",
+            "content": "海浪、潮汐和洋流的基本形式及影响",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "海浪类型",
+                "content": "风浪、海啸、风暴潮等波浪形式及其成因",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "潮汐现象",
+                "content": "海水周期性涨落，与月球和太阳引力有关，初一十五最明显",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "洋流分类",
+                "content": "按水温分为暖流和寒流，对气候、渔场、航行等有重要影响",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "地貌",
+        "content": "常见地貌类型和地貌观察方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "喀斯特地貌",
+            "content": "可溶性岩石受水溶蚀形成的地表和地下形态",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "地表喀斯特",
+                "content": "溶沟、洼地、峰林、孤峰、残丘等地面形态",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "地下喀斯特",
+                "content": "溶洞、石钟乳、石笋、石柱等地下形态",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "分布地区",
+                "content": "广西、贵州、云南等可溶性岩石分布区",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "河流地貌",
+            "content": "河流侵蚀、搬运和堆积作用形成的地貌",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "河谷演变",
+                "content": "V形谷→槽形谷→河曲→牛轭湖的发育过程",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "冲积平原",
+                "content": "山前倾斜平原、中部平原、河口三角洲的沉积特征",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "三角洲形成",
+                "content": "河流入海处泥沙淤积，形成多种形态的三角洲平原",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "风沙地貌",
+            "content": "风力作用形成的侵蚀和堆积地貌",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "风蚀地貌",
+                "content": "风蚀柱、风蚀蘑菇、雅丹等地貌形态",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "风积地貌",
+                "content": "沙丘、沙丘链等堆积形态，以新月形沙丘常见",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "分布地区",
+                "content": "主要分布在西北干旱地区",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "海岸地貌",
+            "content": "海浪作用形成的侵蚀和堆积地貌",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "海蚀地貌",
+                "content": "海蚀崖、海蚀平台、海蚀穴、海蚀拱桥、海蚀柱等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "海积地貌",
+                "content": "海滩、沙坝等堆积地貌，按物质分为砾滩、沙滩、泥滩",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "地貌观察",
+            "content": "地貌观察的顺序、内容和方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "观察顺序",
+                "content": "从宏观到微观、从面到点的顺序进行观察",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "观察内容",
+                "content": "高度、坡度、坡向、形状、面积、空间分布等要素",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "高度测量",
+                "content": "绝对高度和相对高度的区别与意义",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "植被与土壤",
+        "content": "植被类型、土壤形成及两者关系",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "植被与环境",
+            "content": "植被类型分布与环境关系，植被的垂直结构",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "植被分层",
+                "content": "不同植物群体通过生存竞争占据垂直空间，形成分层结构",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "天然植被分布",
+                "content": "按类型有规律分布，具有适应当地环境的特征",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "主要植被类型",
+            "content": "森林、草原、荒漠等植被类型的特征和分布",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "森林植被",
+                "content": "热带雨林、常绿阔叶林、落叶阔叶林、针叶林的特征差异",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "草原植被",
+                "content": "热带草原和温带草原的生态环境特征",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "荒漠植被",
+                "content": "旱生灌木为主，具有耐长期干旱的形态和结构",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "土壤观察",
+            "content": "土壤颜色、质地、剖面构造等观察内容",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "土壤组成",
+                "content": "矿物质、有机质、水分和空气四种物质组成",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "土壤颜色",
+                "content": "最重要的外部特征之一，如黑土、红壤等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "土壤质地",
+                "content": "砂土、壤土、黏土的颗粒组成和特性差异",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "土壤形成",
+            "content": "成土母质、生物、气候、地貌、时间等形成因素",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "成土母质",
+                "content": "岩石风化产物，土壤发育的物质基础",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "生物作用",
+                "content": "最活跃的因素，提供有机质，促进营养元素富集",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "气候影响",
+                "content": "温度降水影响风化强度和速度，决定土壤分布规律",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "自然灾害",
+        "content": "气象灾害、地质灾害及防灾减灾",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "气象灾害",
+            "content": "洪涝、干旱、台风、寒潮等灾害特征和分布",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "洪涝灾害",
+                "content": "连续性降水或短时强降水导致江河泛滥或积水淹没",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "干旱灾害",
+                "content": "长时间无降水或降水异常偏少造成空气干燥土壤缺水",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "台风灾害",
+                "content": "热带洋面形成的气旋，伴随狂风暴雨风暴潮",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "地质灾害",
+            "content": "地震、滑坡、泥石流等灾害成因和危害",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "地震成因",
+                "content": "岩层断裂错位释放能量，以地震波形式传播",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "滑坡形成",
+                "content": "斜坡岩体土体在重力作用下沿滑动面整体下滑",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "泥石流形成",
+                "content": "山区沟谷由暴雨激发的含大量泥沙石块的特殊洪流",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "防灾减灾",
+            "content": "灾害监测、防御、救援与救助、灾后恢复等措施",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "灾害监测",
+                "content": "人造卫星、气象站、水文站等组成的自然灾害监测系统",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "灾害防御",
+                "content": "修建防灾工程，施行减灾法律法规，开展减灾教育",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "自救互救",
+                "content": "灾前准备、灾中救助和灾后自我保护的常识和技能",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "地理信息技术应用",
+            "content": "遥感、全球卫星导航系统、地理信息系统在防灾中的应用",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "遥感技术",
+                "content": "实时动态监测灾害形成过程，快速识别影响范围",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "全球卫星导航系统",
+                "content": "精确定位导航，帮助灾害时发出求救信号报告位置",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "地理信息系统",
+                "content": "空间查询分析功能，进行灾害动态监测预报预警",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "地球",
+      "tail": "太阳系",
+      "relation": "属于"
+    },
+    {
+      "head": "太阳系",
+      "tail": "银河系",
+      "relation": "属于"
+    },
+    {
+      "head": "银河系",
+      "tail": "可观测宇宙",
+      "relation": "属于"
+    },
+    {
+      "head": "太阳辐射",
+      "tail": "地球温度",
+      "relation": "维持"
+    },
+    {
+      "head": "太阳活动",
+      "tail": "地球磁场",
+      "relation": "扰动"
+    },
+    {
+      "head": "地层",
+      "tail": "化石",
+      "relation": "包含"
+    },
+    {
+      "head": "化石",
+      "tail": "生物演化",
+      "relation": "反映"
+    },
+    {
+      "head": "地震波",
+      "tail": "地球内部结构",
+      "relation": "探测"
+    },
+    {
+      "head": "大气组成",
+      "tail": "干洁空气",
+      "relation": "包括"
+    },
+    {
+      "head": "干洁空气",
+      "tail": "氮气",
+      "relation": "主要成分"
+    },
+    {
+      "head": "大气分层",
+      "tail": "对流层",
+      "relation": "包括"
+    },
+    {
+      "head": "对流层",
+      "tail": "天气现象",
+      "relation": "发生"
+    },
+    {
+      "head": "平流层",
+      "tail": "臭氧层",
+      "relation": "包含"
+    },
+    {
+      "head": "臭氧层",
+      "tail": "紫外线",
+      "relation": "吸收"
+    },
+    {
+      "head": "太阳辐射",
+      "tail": "地面辐射",
+      "relation": "转化为"
+    },
+    {
+      "head": "地面辐射",
+      "tail": "大气逆辐射",
+      "relation": "引发"
+    },
+    {
+      "head": "大气逆辐射",
+      "tail": "地面保温",
+      "relation": "实现"
+    },
+    {
+      "head": "热力环流",
+      "tail": "地面冷热不均",
+      "relation": "由于"
+    },
+    {
+      "head": "水平气压梯度力",
+      "tail": "风",
+      "relation": "形成"
+    },
+    {
+      "head": "水循环",
+      "tail": "海陆间循环",
+      "relation": "包括"
+    },
+    {
+      "head": "水循环",
+      "tail": "陆地内循环",
+      "relation": "包括"
+    },
+    {
+      "head": "水循环",
+      "tail": "海上内循环",
+      "relation": "包括"
+    },
+    {
+      "head": "海水温度",
+      "tail": "纬度",
+      "relation": "随变化"
+    },
+    {
+      "head": "海水盐度",
+      "tail": "副热带海域",
+      "relation": "最高"
+    },
+    {
+      "head": "海水密度",
+      "tail": "温度",
+      "relation": "受影响"
+    },
+    {
+      "head": "海浪",
+      "tail": "风力",
+      "relation": "由形成"
+    },
+    {
+      "head": "潮汐",
+      "tail": "月球引力",
+      "relation": "由引起"
+    },
+    {
+      "head": "洋流",
+      "tail": "暖流",
+      "relation": "分为"
+    },
+    {
+      "head": "洋流",
+      "tail": "寒流",
+      "relation": "分为"
+    },
+    {
+      "head": "喀斯特地貌",
+      "tail": "可溶性岩石",
+      "relation": "形成于"
+    },
+    {
+      "head": "河流地貌",
+      "tail": "河流作用",
+      "relation": "由形成"
+    },
+    {
+      "head": "风沙地貌",
+      "tail": "风力作用",
+      "relation": "由形成"
+    },
+    {
+      "head": "海岸地貌",
+      "tail": "海浪作用",
+      "relation": "由形成"
+    },
+    {
+      "head": "地貌观察",
+      "tail": "高度",
+      "relation": "包括"
+    },
+    {
+      "head": "地貌观察",
+      "tail": "坡度",
+      "relation": "包括"
+    },
+    {
+      "head": "植被",
+      "tail": "自然环境",
+      "relation": "适应"
+    },
+    {
+      "head": "森林植被",
+      "tail": "垂直结构",
+      "relation": "具有"
+    },
+    {
+      "head": "土壤",
+      "tail": "成土母质",
+      "relation": "来源于"
+    },
+    {
+      "head": "土壤",
+      "tail": "生物作用",
+      "relation": "通过形成"
+    },
+    {
+      "head": "气象灾害",
+      "tail": "洪涝",
+      "relation": "包括"
+    },
+    {
+      "head": "地质灾害",
+      "tail": "地震",
+      "relation": "包括"
+    },
+    {
+      "head": "防灾减灾",
+      "tail": "地理信息技术",
+      "relation": "应用"
+    },
+    {
+      "head": "遥感技术",
+      "tail": "灾害监测",
+      "relation": "用于"
+    },
+    {
+      "head": "全球卫星导航系统",
+      "tail": "定位导航",
+      "relation": "提供"
+    },
+    {
+      "head": "地理信息系统",
+      "tail": "空间分析",
+      "relation": "进行"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:36:16",
+    "version": "1.1"
+  }
+}

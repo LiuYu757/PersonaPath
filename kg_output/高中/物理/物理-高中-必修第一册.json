@@ -1,0 +1,292 @@
+{
+  "knowledge_tree": {
+    "title": "高中物理必修第一册",
+    "content": "涵盖运动描述、匀变速直线运动、相互作用与牛顿运动定律等核心内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "运动的描述",
+        "content": "研究物体位置随时间变化的规律",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "质点",
+            "content": "忽略物体大小和形状的理想化模型，用于简化运动描述",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "质点的定义",
+                "content": "当物体大小和形状对研究问题无影响时，可简化为质点",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "质点条件",
+                "content": "物体各点运动相同或物体大小远小于运动范围",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "参考系",
+            "content": "描述物体运动时选作参考的其他物体",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "参考系的定义",
+                "content": "用于判断物体运动和静止的参照物",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "惯性参考系",
+                "content": "牛顿定律成立的参考系，如地面参考系",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "位移",
+            "content": "描述物体位置变化的物理量，是矢量",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "位移的定义",
+                "content": "由初位置指向末位置的有向线段",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "位移公式",
+                "content": "Δx = x₂ - x₁（一维情况）",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "速度",
+            "content": "描述物体运动快慢和方向的物理量",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "平均速度",
+                "content": "位移与时间的比值，v = Δx/Δt",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "瞬时速度",
+                "content": "极短时间内的平均速度，v = lim(Δt→0)Δx/Δt",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "加速度",
+            "content": "描述速度变化快慢的物理量",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "加速度的定义",
+                "content": "速度变化量与时间的比值，a = Δv/Δt",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "加速度的方向",
+                "content": "与速度变化量Δv方向相同",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "匀变速直线运动",
+        "content": "加速度保持不变的直线运动",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "速度公式",
+            "content": "v = v₀ + at",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "位移公式",
+            "content": "x = v₀t + ½at²",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "速度位移关系",
+            "content": "v² - v₀² = 2ax",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "自由落体运动",
+            "content": "初速为零的匀加速直线运动，a = g",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "自由落体公式",
+                "content": "v = gt, h = ½gt²",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "相互作用",
+        "content": "物体间的相互作用力",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "重力",
+            "content": "地球对物体的吸引力",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "重力公式",
+                "content": "G = mg",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "弹力",
+            "content": "发生形变的物体对接触物体的力",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "胡克定律",
+                "content": "F = kx（弹性限度内）",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "摩擦力",
+            "content": "阻碍相对运动或相对运动趋势的力",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "滑动摩擦力",
+                "content": "F_f = μF_N",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "静摩擦力",
+                "content": "0 < F ≤ F_max",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "牛顿运动定律",
+        "content": "描述力与运动关系的基本定律",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "牛顿第一定律",
+            "content": "惯性定律，物体保持运动状态不变",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "牛顿第二定律",
+            "content": "F = ma",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "牛顿第三定律",
+            "content": "作用力与反作用力定律",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "质点",
+      "tail": "参考系",
+      "relation": "用于描述运动"
+    },
+    {
+      "head": "位移",
+      "tail": "速度",
+      "relation": "变化率"
+    },
+    {
+      "head": "速度",
+      "tail": "加速度",
+      "relation": "变化率"
+    },
+    {
+      "head": "匀变速直线运动",
+      "tail": "加速度",
+      "relation": "特征量"
+    },
+    {
+      "head": "自由落体运动",
+      "tail": "匀变速直线运动",
+      "relation": "特例"
+    },
+    {
+      "head": "重力",
+      "tail": "质量",
+      "relation": "正比于"
+    },
+    {
+      "head": "弹力",
+      "tail": "形变",
+      "relation": "由...产生"
+    },
+    {
+      "head": "胡克定律",
+      "tail": "弹力",
+      "relation": "描述"
+    },
+    {
+      "head": "摩擦力",
+      "tail": "正压力",
+      "relation": "正比于"
+    },
+    {
+      "head": "牛顿第一定律",
+      "tail": "惯性",
+      "relation": "定义"
+    },
+    {
+      "head": "牛顿第二定律",
+      "tail": "加速度",
+      "relation": "决定"
+    },
+    {
+      "head": "牛顿第三定律",
+      "tail": "作用力与反作用力",
+      "relation": "描述"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:23:06",
+    "version": "1.1"
+  }
+}

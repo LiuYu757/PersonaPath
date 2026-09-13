@@ -1,0 +1,644 @@
+{
+  "knowledge_tree": {
+    "title": "数据管理与分析",
+    "content": "高中信息技术选择性必修3课程，涵盖数据科学、数据管理、数据分析等核心概念",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "数据与数据科学",
+        "content": "从数据到数据科学的演进过程",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "数据及其价值",
+            "content": "数据是描述事物的符号记录，是信息的载体",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "数据的定义",
+                "content": "描述事物的符号记录，计算机识别、存储和加工的对象",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "DIKW金字塔模型",
+                "content": "数据-信息-知识-智慧的转化过程",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "数据的价值体现",
+                "content": "通过加工处理转化为信息、知识和智慧",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "大数据及其应用价值",
+            "content": "大数据的概念、特征和应用价值",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "大数据的定义",
+                "content": "超出传统数据处理能力的数据集合",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "大数据的特征",
+                "content": "巨量性、多样性、迅变性、价值性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "大数据的应用价值",
+                "content": "商业价值、产业价值、科研价值、社会价值",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "大数据的来源",
+                "content": "传统数据库、互联网数据、物联网数据",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据科学",
+            "content": "以数据为中心的科学",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "数据科学的兴起",
+                "content": "1974年彼得·诺尔首次提出数据科学概念",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "数据科学的内涵",
+                "content": "以数据为中心，横跨多个领域的交叉学科",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "数据科学的知识体系",
+                "content": "数据加工、数据计算、数据管理、数据分析、数据产品开发",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "数据管理",
+        "content": "数据管理技术的发展和应用",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "数据管理的发展",
+            "content": "从人工管理到数据库系统的发展历程",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "人工管理阶段",
+                "content": "20世纪50年代中期以前的数据管理方式",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "文件系统阶段",
+                "content": "20世纪60年代的数据管理方式",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "数据库系统阶段",
+                "content": "20世纪60年代后期至今的数据管理方式",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "大数据存储与管理",
+            "content": "大数据环境下的数据存储技术",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "分布式文件系统",
+                "content": "将文件系统扩展到多个地点的分布式存储",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "非关系数据库",
+                "content": "对关系数据库局限性的补充",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "云数据库",
+                "content": "基于云计算技术的数据库服务",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据库系统",
+            "content": "数据库管理系统的基本概念和操作",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "数据库与DBMS",
+                "content": "数据库是数据的集合，DBMS是管理软件",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "关系数据库",
+                "content": "基于关系模型的数据库系统",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "MySQL数据类型",
+                "content": "数值型、字符串型、日期和时间型数据",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "数据分析",
+        "content": "数据分析的方法、工具和过程",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "数据分析概述",
+            "content": "数据分析的基本概念和目的",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "数据分析的定义",
+                "content": "用统计分析方法提取有用信息的过程",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "数据分析工具",
+                "content": "电子表格、SPSS、Python等分析工具",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "数据分析的基本过程",
+                "content": "了解目标问题、数据获取、整理清洗、计算统计、建模应用等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据分析方法",
+            "content": "常用的数据分析方法",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "对比分析法",
+                "content": "将两个相互关联的指标数据加以比较",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "分组分析法",
+                "content": "通过统计分组认识分析对象的不同特征",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "交叉分析法",
+                "content": "从交叉、立体的角度进行数据分析",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "平均分析法",
+                "content": "分析数据在一定条件下的一般水平",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "相关分析法",
+                "content": "对总体中具有联系的标志进行分析",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据挖掘",
+            "content": "从大量数据中提取隐含信息的过程",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "数据挖掘的概念",
+                "content": "从大量数据中提取隐含的、未知的、潜在有用的信息",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "数据挖掘与数据分析的区别",
+                "content": "数据挖掘更侧重于发现未知模式",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "数据挖掘的应用",
+                "content": "商业智能、科学研究、社会管理等领域",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "数据可视化与数据报告",
+        "content": "数据可视化方法和数据分析报告撰写",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "数据可视化",
+            "content": "将数据转换为可视化图表的过程",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "数据可视化的意义",
+                "content": "更直观地理解数据中隐藏的信息",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "常用统计图形",
+                "content": "饼图、柱状图、折线图、散点图等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "数据可视化的步骤",
+                "content": "明确问题、选择图形、确定指标、突出关键信息",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "Python可视化编程",
+                "content": "使用Matplotlib等库实现数据可视化",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据分析报告",
+            "content": "数据分析结果的总结和呈现",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "报告的类型",
+                "content": "专题性分析报告和综合性分析报告",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "撰写原则",
+                "content": "规范、严谨、突出重点、有创新",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "报告的基本框架",
+                "content": "标题页、前言、正文、结论和建议、附录",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "需求分析与数据采集",
+        "content": "数据需求分析和数据采集方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "业务需求分析",
+            "content": "分析业务目标、用户需求和可行性",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "业务需求分析的概念",
+                "content": "针对问题分析业务目标、用户需求和可行性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "需求分析的过程",
+                "content": "计划、建立方案、分析评价方案、优化需求分析",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据需求分析",
+            "content": "确定需要什么数据以及如何获取",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "数据需求分析的内容",
+                "content": "要获得什么数据、数据类型、获取范围、获取途径",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "数据需求分析报告",
+                "content": "汇总业务需求分析、解决方案和数据需求分析结果",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据采集",
+            "content": "获取数据的途径和方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "数据采集途径",
+                "content": "现场实测、调研访谈、获取他人数据",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "数据采集工具",
+                "content": "传感器、智能终端、监控系统等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "网络数据采集",
+                "content": "通过网络爬虫或API获取网站数据",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据文件处理",
+            "content": "数据文件的创建和格式转换",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "CSV文件",
+                "content": "逗号分隔值文件，纯文本格式",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "创建CSV文件",
+                "content": "使用文本编辑器或编程语言创建CSV文件",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "数据导入导出",
+                "content": "不同格式数据文件之间的转换",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "数据结构化与数据清洗",
+        "content": "数据预处理和清洗技术",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "数据结构化程度",
+            "content": "不同结构化程度的数据特点",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "结构化数据",
+                "content": "能用统一结构表示的数据，如二维表",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "非结构化数据",
+                "content": "数据结构不规则或不完整的数据",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "半结构化数据",
+                "content": "介于结构化和非结构化之间的数据",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "噪声数据",
+            "content": "数据中存在的错误或异常",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "噪声数据的定义",
+                "content": "存在错误或异常（偏离期望值）的数据",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "噪声数据的成因",
+                "content": "采集工具误差、人为输入错误、传输错误",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据清洗",
+            "content": "发现并纠正数据文件中的可识别错误",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "数据清洗的步骤",
+                "content": "纠正错误、删除重复、统一规格、修正逻辑等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "数据缺失处理",
+                "content": "检查和处理数据中的缺失值",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "异常值检测与过滤",
+                "content": "检测和过滤数据中的异常值",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "重复数据移除",
+                "content": "移除数据中的重复项和冗余信息",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据预处理",
+            "content": "数据分析前的数据处理工作",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "数据审查",
+                "content": "检查数据数量和质量是否满足要求",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "数据转换",
+                "content": "将数据转换为适合分析的格式",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "数据验证",
+                "content": "评估数据是否满足统计分析需要",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "数据",
+      "tail": "信息",
+      "relation": "转化为"
+    },
+    {
+      "head": "信息",
+      "tail": "知识",
+      "relation": "转化为"
+    },
+    {
+      "head": "知识",
+      "tail": "智慧",
+      "relation": "转化为"
+    },
+    {
+      "head": "大数据",
+      "tail": "数据科学",
+      "relation": "推动发展"
+    },
+    {
+      "head": "数据管理",
+      "tail": "数据库系统",
+      "relation": "基于"
+    },
+    {
+      "head": "数据库系统",
+      "tail": "关系数据库",
+      "relation": "包含"
+    },
+    {
+      "head": "数据分析",
+      "tail": "数据挖掘",
+      "relation": "延伸"
+    },
+    {
+      "head": "数据可视化",
+      "tail": "数据分析报告",
+      "relation": "支持"
+    },
+    {
+      "head": "业务需求分析",
+      "tail": "数据需求分析",
+      "relation": "引导"
+    },
+    {
+      "head": "数据采集",
+      "tail": "数据清洗",
+      "relation": "前置步骤"
+    },
+    {
+      "head": "结构化数据",
+      "tail": "非结构化数据",
+      "relation": "区别于"
+    },
+    {
+      "head": "噪声数据",
+      "tail": "数据清洗",
+      "relation": "需要通过处理"
+    },
+    {
+      "head": "Python",
+      "tail": "数据分析",
+      "relation": "用于实现"
+    },
+    {
+      "head": "MySQL",
+      "tail": "数据管理",
+      "relation": "用于"
+    },
+    {
+      "head": "对比分析法",
+      "tail": "数据分析",
+      "relation": "属于"
+    },
+    {
+      "head": "分组分析法",
+      "tail": "数据分析",
+      "relation": "属于"
+    },
+    {
+      "head": "交叉分析法",
+      "tail": "数据分析",
+      "relation": "属于"
+    },
+    {
+      "head": "平均分析法",
+      "tail": "数据分析",
+      "relation": "属于"
+    },
+    {
+      "head": "相关分析法",
+      "tail": "数据分析",
+      "relation": "属于"
+    },
+    {
+      "head": "DIKW模型",
+      "tail": "数据价值",
+      "relation": "描述"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:47:34",
+    "version": "1.1"
+  }
+}

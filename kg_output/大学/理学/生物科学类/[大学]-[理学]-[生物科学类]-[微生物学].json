@@ -1,0 +1,653 @@
+{
+  "knowledge_tree": {
+    "title": "微生物学",
+    "content": "微生物学是研究微生物及其生命活动规律的科学，涵盖微生物的形态结构、生理代谢、遗传变异、生态分布、分类进化以及与人类关系等方面。",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "绪论",
+        "content": "介绍微生物学的研究对象、发展历史及发展趋势。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "微生物的定义和特点",
+            "content": "微生物是形体微小、结构简单的生物总称，包括细菌、古菌、真菌、病毒等，具有体积小、面积大、吸收多、转化快、生长旺、繁殖快、适应强、易变异、分布广、种类多等特点。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "微生物学发展史",
+            "content": "包括微生物的发现（列文虎克）、微生物学奠基（巴斯德、科赫）、现代微生物学的发展等阶段。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "21世纪微生物学发展趋势",
+            "content": "趋向交叉学科发展，如微生物基因组学、环境微生物学、微生物生物技术等。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "微生物的纯培养和显微技术",
+        "content": "微生物分离、纯培养及显微观察技术。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "无菌技术",
+            "content": "防止杂菌污染的操作技术，是微生物学实验的基础。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "纯培养的获得方法",
+            "content": "包括固体培养基分离法（划线、涂布、倾注）、液体培养基稀释法、单细胞分离法、选择培养法等。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "微生物保藏技术",
+            "content": "如斜面传代、冷冻干燥、液氮超低温保藏等，旨在长期保持菌种活力。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "显微镜的种类及原理",
+            "content": "包括明场、暗场、相差、荧光、电子显微镜等的工作原理和适用范围。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "显微样品制备",
+            "content": "如涂片、染色（简单染色、革兰氏染色、抗酸染色等）、负染色、悬滴法等。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "显微镜下的微生物形态",
+            "content": "观察细菌、古菌、真菌、藻类、原生动物的形态特征。",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "微生物细胞的结构与功能",
+        "content": "原核与真核微生物细胞的结构、化学成分及功能。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "原核微生物细胞结构",
+            "content": "包括细胞壁、细胞膜、细胞质、核区、核糖体及特殊结构（荚膜、鞭毛、菌毛、芽孢等）。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "细胞壁",
+                "content": "位于细胞膜外，维持细胞形状，保护细胞。革兰氏阳性菌壁厚，肽聚糖含量高；革兰氏阴性菌壁薄，含外膜。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "细胞膜",
+                "content": "磷脂双分子层，具选择性通透性，是物质运输、能量代谢场所。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "核区",
+                "content": "含环状DNA，无核膜，是遗传物质储存区域。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "真核微生物细胞结构",
+            "content": "包括细胞壁、细胞膜、细胞核、细胞器（线粒体、内质网、高尔基体等）。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "细胞核",
+                "content": "有核膜包裹，内含染色体，是遗传控制中心。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "细胞器",
+                "content": "如线粒体（产能）、叶绿体（光合作用，存在于某些藻类）、内质网（蛋白质合成与运输）等。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "微生物的营养",
+        "content": "微生物的营养需求、营养类型及营养物质进入细胞的方式。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "微生物的营养要求",
+            "content": "微生物需要碳源、氮源、能源、生长因子、无机盐和水。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "营养类型",
+            "content": "根据碳源和能源分为光能自养、光能异养、化能自养、化能异养四种类型。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "培养基",
+            "content": "人工配制的适合微生物生长的营养基质，按用途分为选择、鉴别、富集培养基等。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "营养物质进入细胞的方式",
+            "content": "包括单纯扩散、促进扩散、主动运输、基团转位、膜泡运输等。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "微生物的代谢",
+        "content": "微生物的能量代谢、合成代谢及代谢调节。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "产能代谢",
+            "content": "包括呼吸（有氧、无氧）、发酵、光合作用等生物氧化过程。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "异养微生物的生物氧化",
+                "content": "以有机物为底物，通过糖酵解、三羧酸循环、呼吸链等途径产生ATP。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "自养微生物的生物氧化",
+                "content": "如硝化细菌、硫细菌通过氧化无机物获得能量。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "耗能代谢",
+            "content": "包括细胞物质（蛋白质、核酸、多糖等）的合成及其他耗能过程。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "代谢调节",
+            "content": "酶活性调节（反馈抑制、激活）和酶合成调节（诱导、阻遏）。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "次级代谢",
+            "content": "产生抗生素、毒素等次级代谢产物的代谢过程，受严格调控。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "微生物的生长繁殖及其控制",
+        "content": "微生物个体与群体生长规律、影响因素及控制方法。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "细菌的个体生长",
+            "content": "包括染色体复制、分离，细胞壁扩增，分裂调控。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "群体生长规律",
+            "content": "典型生长曲线分为延滞期、指数期、稳定期、衰亡期。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "环境对生长的影响",
+            "content": "温度、pH、氧气、水活度等物理化学因素影响微生物生长。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "生长的测定方法",
+            "content": "包括直接计数法、活菌计数法、生物量测定法等。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "生长控制",
+            "content": "利用化学物质（消毒剂、抗生素）和物理因素（温度、辐射）控制微生物。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "病毒",
+        "content": "非细胞生物，依赖宿主复制，包括形态结构、复制周期、与宿主相互作用等。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "病毒的特点和定义",
+            "content": "病毒是一类非细胞生物，具感染性，含一种核酸（DNA或RNA），必须在活细胞内复制。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "毒粒的结构",
+            "content": "由核酸核心和蛋白衣壳构成，部分有包膜。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "病毒的复制周期",
+            "content": "包括吸附、侵入、脱壳、生物合成、装配、释放等阶段。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "病毒与宿主的相互作用",
+            "content": "包括裂解性感染、溶源性感染（噬菌体）、潜伏感染、持续感染（动物病毒）等。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "亚病毒因子",
+            "content": "包括卫星病毒、类病毒、朊病毒等。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "微生物遗传",
+        "content": "微生物遗传物质、基因组、基因突变、转移重组及育种技术。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "遗传的物质基础",
+            "content": "DNA是主要遗传物质，RNA在部分病毒中作为遗传物质，朊病毒由蛋白质构成。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "微生物基因组",
+            "content": "如大肠杆菌、酵母菌、古生菌的基因组结构特点。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "质粒和转座因子",
+            "content": "质粒是染色体外遗传因子，转座因子可在基因组内移动。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "基因突变及修复",
+            "content": "突变类型（点突变、缺失、插入等）及DNA损伤修复机制（光复活、切除修复等）。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "基因转移和重组",
+            "content": "包括接合、转导、转化等机制。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "微生物育种",
+            "content": "如诱变育种、代谢工程育种、基因重组育种等。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "微生物基因表达的调控",
+        "content": "转录水平、转录后水平的基因表达调控机制。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "转录水平调控",
+            "content": "如操纵子模型（乳糖操纵子）、分解代谢物阻遏、σ因子更换、二组分调节系统等。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "转录后调控",
+            "content": "包括翻译起始调控、mRNA稳定性、反义RNA、翻译阻遏等。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "古生菌的转录调控",
+            "content": "古生菌的转录装置兼具细菌和真核生物特点。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "微生物与基因工程",
+        "content": "基因工程基本原理、工具、载体及在微生物中的应用。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "基因工程基本过程",
+            "content": "包括目的基因获取、载体构建、导入宿主、筛选鉴定、表达产物。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "克隆载体",
+            "content": "如质粒载体、λ噬菌体载体、酵母人工染色体等。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "工具酶",
+            "content": "如限制性内切酶、DNA连接酶、逆转录酶等。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "外源基因在细菌中的表达",
+            "content": "涉及转录、翻译及表达产物的加工。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "微生物的生态",
+        "content": "微生物在生态系统中的作用、分布及与环境的关系。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "微生物在生态系统中的作用",
+            "content": "参与物质循环（碳、氮、硫、磷等），是分解者、生产者、消费者。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "环境中的微生物分布",
+            "content": "存在于土壤、水体、空气、极端环境、动植物体等。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "微生物与环境保护",
+            "content": "包括污染物降解、重金属转化、废水处理、生物修复、环境监测等。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "微生物的进化、系统发育和分类鉴定",
+        "content": "微生物进化测量指征、分类系统及鉴定技术。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "进化指征",
+            "content": "如rRNA序列作为进化钟，用于构建系统发育树。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "细菌分类",
+            "content": "分类单元、命名规则及《伯杰氏手册》的使用。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "分类鉴定技术",
+            "content": "包括形态、生理生化、血清学、分子生物学（GC含量、核酸杂交等）方法。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "微生物物种的多样性",
+        "content": "真细菌、古生菌、真核微生物的多样性及资源保护。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "真细菌多样性",
+            "content": "包括放线菌、蓝细菌、变形菌门等主要类群。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "古生菌多样性",
+            "content": "包括极端嗜盐菌、产甲烷菌、超嗜热菌等。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "真核微生物多样性",
+            "content": "包括藻类、真菌、黏菌、原生动物等。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "感染与免疫",
+        "content": "微生物感染机制、宿主免疫应答及免疫学应用。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "感染的一般概念",
+            "content": "感染途径、方式及微生物致病性（毒力因子）。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "非特异免疫",
+            "content": "包括生理屏障、体液因素（补体、干扰素等）、细胞因素（吞噬细胞）、炎症反应。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "特异性免疫",
+            "content": "由B细胞（体液免疫）和T细胞（细胞免疫）介导，具特异性和记忆性。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "免疫学应用",
+            "content": "如抗体制备、免疫学技术（ELISA、Western blot）、免疫预防（疫苗）。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "微生物生物技术",
+        "content": "微生物在工业发酵、产品生产及广泛领域的应用。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "工业发酵",
+            "content": "包括菌种选育、发酵方式（连续、固定化、固态发酵等）。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "微生物产品",
+            "content": "如抗生素、酶制剂、氨基酸、有机酸、疫苗、微生物农药、肥料等。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "广泛应用",
+            "content": "涉及微生物能源（沼气、乙醇）、冶金、石油工业、传感器、生物塑料等。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "微生物学",
+      "tail": "微生物",
+      "relation": "研究"
+    },
+    {
+      "head": "微生物",
+      "tail": "细菌",
+      "relation": "包括"
+    },
+    {
+      "head": "微生物",
+      "tail": "古菌",
+      "relation": "包括"
+    },
+    {
+      "head": "微生物",
+      "tail": "真菌",
+      "relation": "包括"
+    },
+    {
+      "head": "微生物",
+      "tail": "病毒",
+      "relation": "包括"
+    },
+    {
+      "head": "无菌技术",
+      "tail": "纯培养",
+      "relation": "是获得的基础"
+    },
+    {
+      "head": "固体培养基",
+      "tail": "划线分离法",
+      "relation": "用于"
+    },
+    {
+      "head": "革兰氏染色",
+      "tail": "细菌分类",
+      "relation": "用于"
+    },
+    {
+      "head": "原核微生物",
+      "tail": "细胞壁",
+      "relation": "具有"
+    },
+    {
+      "head": "细胞壁",
+      "tail": "肽聚糖",
+      "relation": "主要成分"
+    },
+    {
+      "head": "营养类型",
+      "tail": "碳源",
+      "relation": "依据"
+    },
+    {
+      "head": "营养类型",
+      "tail": "能源",
+      "relation": "依据"
+    },
+    {
+      "head": "主动运输",
+      "tail": "ATP",
+      "relation": "消耗"
+    },
+    {
+      "head": "产能代谢",
+      "tail": "呼吸",
+      "relation": "包括"
+    },
+    {
+      "head": "产能代谢",
+      "tail": "发酵",
+      "relation": "包括"
+    },
+    {
+      "head": "生长曲线",
+      "tail": "指数期",
+      "relation": "包含"
+    },
+    {
+      "head": "病毒",
+      "tail": "宿主细胞",
+      "relation": "依赖"
+    },
+    {
+      "head": "病毒的复制周期",
+      "tail": "吸附",
+      "relation": "起始于"
+    },
+    {
+      "head": "DNA",
+      "tail": "遗传物质",
+      "relation": "作为"
+    },
+    {
+      "head": "质粒",
+      "tail": "接合作用",
+      "relation": "可通过转移"
+    },
+    {
+      "head": "基因突变",
+      "tail": "DNA损伤修复",
+      "relation": "可被"
+    },
+    {
+      "head": "操纵子",
+      "tail": "转录水平调控",
+      "relation": "是机制"
+    },
+    {
+      "head": "限制性内切酶",
+      "tail": "基因工程",
+      "relation": "是工具酶"
+    },
+    {
+      "head": "微生物",
+      "tail": "物质循环",
+      "relation": "参与"
+    },
+    {
+      "head": "rRNA序列",
+      "tail": "系统发育树",
+      "relation": "用于构建"
+    },
+    {
+      "head": "非特异免疫",
+      "tail": "吞噬作用",
+      "relation": "包括"
+    },
+    {
+      "head": "B细胞",
+      "tail": "抗体",
+      "relation": "产生"
+    },
+    {
+      "head": "工业发酵",
+      "tail": "抗生素",
+      "relation": "生产"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:16:16",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,537 @@
+{
+  "knowledge_tree": {
+    "title": "一年级上册音乐",
+    "content": "小学一年级音乐上册内容，涵盖声音认知、节奏、旋律、乐器认知和音乐活动",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "奇妙的声音世界",
+        "content": "认识生活中的各种声音和音乐的基本元素",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "声音的分类",
+            "content": "区分自然声音、人声和乐器声音",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "自然声音",
+                "content": "风声、水声、动物叫声等自然界产生的声音",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "人声分类",
+                "content": "男声、女声、童声等不同嗓音类型",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "乐器声音",
+                "content": "不同乐器发出的独特音色",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音量控制",
+            "content": "学习声音的强弱变化和音量分级",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "音量等级",
+                "content": "从一级到五级的音量分级体系",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "声音模仿",
+                "content": "用不同音量表现各种场景",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音乐会礼仪",
+            "content": "学习参加音乐会的正确行为规范",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "入场礼仪",
+                "content": "音乐会开始前的行为规范",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "演出中礼仪",
+                "content": "演出过程中的安静聆听",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "鼓掌时机",
+                "content": "正确的鼓掌时间和方式",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "节奏密码",
+        "content": "基础节奏知识学习",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "均拍概念",
+            "content": "均匀稳定的拍子感",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "均拍练习",
+                "content": "用身体动作感受均匀拍子",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "速度变化",
+                "content": "不同速度的均拍训练",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音符认知",
+            "content": "认识各种音符时值",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "全音符",
+                "content": "四拍时值的音符",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "二分音符",
+                "content": "二拍时值的音符",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "四分音符",
+                "content": "一拍时值的音符",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "八分音符",
+                "content": "半拍时值的音符",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "休止符",
+            "content": "音乐中的静默时刻",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "四分休止符",
+                "content": "一拍时值的休止",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "八分休止符",
+                "content": "半拍时值的休止",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "节奏型组合",
+            "content": "不同节奏型的组合练习",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "基本节奏型",
+                "content": "常见的节奏模式",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "节奏变奏",
+                "content": "节奏的变化和发展",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "旋律密码",
+        "content": "基础旋律知识学习",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "简谱识读",
+            "content": "认识数字简谱",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "唱名体系",
+                "content": "do re mi fa sol la xi 唱名",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "音高顺序",
+                "content": "音符的上行和下行",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音程关系",
+            "content": "音符之间的距离关系",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "相邻音级",
+                "content": "相邻音符之间的关系",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "跳进音程",
+                "content": "跨越音级的进行",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "乐器认知",
+        "content": "认识各类乐器",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "打击乐器",
+            "content": "通过敲击发声的乐器",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "课堂打击乐器",
+                "content": "三角铁、响板、沙锤等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "身体打击乐",
+                "content": "用身体部位创造节奏",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "弹拨乐器",
+            "content": "通过拨弦发声的乐器",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "民族弹拨乐器",
+                "content": "古筝、琵琶、古琴等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "西洋弹拨乐器",
+                "content": "吉他、竖琴等",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "管乐器",
+            "content": "通过吹奏发声的乐器",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "铜管乐器",
+                "content": "小号、长号、圆号等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "木管乐器",
+                "content": "长笛、单簧管、双簧管等",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "弓弦乐器",
+            "content": "通过弓拉弦发声的乐器",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "小提琴",
+                "content": "高音乐器，四根弦",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "大提琴",
+                "content": "中低音乐器",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "歌曲演唱",
+        "content": "学唱各类歌曲",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "儿童歌曲",
+            "content": "适合儿童演唱的歌曲",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "《do re mi之歌》",
+                "content": "学习音阶的歌曲",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "《数鸭子》",
+                "content": "节奏明快的儿歌",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "民歌",
+            "content": "各民族传统歌曲",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "《乃哟乃》",
+                "content": "土家族民歌",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "《娃哈哈》",
+                "content": "新疆民歌",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "爱国歌曲",
+            "content": "培养爱国情感的歌曲",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "《中华人民共和国国歌》",
+                "content": "国家的象征歌曲",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "《祖国祖国我们爱你》",
+                "content": "表达爱国情感的歌曲",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "音乐活动",
+        "content": "参与式音乐体验",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "节奏游戏",
+            "content": "通过游戏学习节奏",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "节奏模仿",
+                "content": "模仿老师或同学的节奏",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "节奏创作",
+                "content": "自己创作节奏模式",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "身体律动",
+            "content": "用身体表现音乐",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "跟随音乐动作",
+                "content": "随音乐做简单动作",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "舞蹈动作学习",
+                "content": "学习简单的舞蹈步伐",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "乐器制作",
+            "content": "自制简单乐器",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "小箜篌制作",
+                "content": "用纸板和皮筋制作",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "打击乐器制作",
+                "content": "利用日常材料制作",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "音量控制",
+      "tail": "音乐会礼仪",
+      "relation": "应用于"
+    },
+    {
+      "head": "均拍概念",
+      "tail": "节奏游戏",
+      "relation": "基础于"
+    },
+    {
+      "head": "音符认知",
+      "tail": "简谱识读",
+      "relation": "组成部分"
+    },
+    {
+      "head": "身体打击乐",
+      "tail": "节奏游戏",
+      "relation": "实现方式"
+    },
+    {
+      "head": "《do re mi之歌》",
+      "tail": "唱名体系",
+      "relation": "教学应用"
+    },
+    {
+      "head": "打击乐器",
+      "tail": "节奏密码",
+      "relation": "演奏工具"
+    },
+    {
+      "head": "儿童歌曲",
+      "tail": "简谱识读",
+      "relation": "阅读材料"
+    },
+    {
+      "head": "民歌",
+      "tail": "民族文化",
+      "relation": "体现"
+    },
+    {
+      "head": "乐器制作",
+      "tail": "声音认知",
+      "relation": "实践应用"
+    },
+    {
+      "head": "铜管乐器",
+      "tail": "管乐器",
+      "relation": "属于"
+    },
+    {
+      "head": "木管乐器",
+      "tail": "管乐器",
+      "relation": "属于"
+    },
+    {
+      "head": "弹拨乐器",
+      "tail": "民族乐器",
+      "relation": "包含"
+    },
+    {
+      "head": "弓弦乐器",
+      "tail": "交响乐队",
+      "relation": "重要组成"
+    },
+    {
+      "head": "休止符",
+      "tail": "节奏表现",
+      "relation": "创造变化"
+    },
+    {
+      "head": "节奏型组合",
+      "tail": "音乐创作",
+      "relation": "基础要素"
+    },
+    {
+      "head": "音程关系",
+      "tail": "旋律进行",
+      "relation": "决定"
+    },
+    {
+      "head": "爱国歌曲",
+      "tail": "情感教育",
+      "relation": "培养"
+    },
+    {
+      "head": "身体律动",
+      "tail": "音乐感受",
+      "relation": "增强"
+    },
+    {
+      "head": "音乐会礼仪",
+      "tail": "社会规范",
+      "relation": "学习"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:56:08",
+    "version": "1.1"
+  }
+}

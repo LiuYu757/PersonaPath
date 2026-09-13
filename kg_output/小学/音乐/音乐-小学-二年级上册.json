@@ -1,0 +1,1266 @@
+{
+  "knowledge_tree": {
+    "title": "二年级上册音乐",
+    "content": "小学二年级音乐上册内容，涵盖中国民间音乐、戏曲、曲艺、器乐及音乐基础知识",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "京剧艺术",
+        "content": "中国国粹戏曲形式，包含唱念做打四种艺术表现手段",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "京剧行当",
+            "content": "生旦净丑四大行当分类",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "生角",
+                "content": "男性角色，如老生、小生",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "旦角",
+                "content": "女性角色，如青衣、花旦",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "净角",
+                "content": "花脸角色，性格鲜明",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "丑角",
+                "content": "喜剧角色，分文丑武丑",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "脸谱艺术",
+            "content": "不同颜色代表不同人物性格",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "京剧唱段",
+            "content": "经典京剧唱段学习",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "报灯名",
+                "content": "选自京剧《打龙袍》数板唱段",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "龙里格龙",
+                "content": "京剧韵味歌曲",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "京剧伴奏",
+            "content": "文场武场伴奏乐器",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "文场乐器",
+                "content": "京胡、京二胡、月琴、三弦等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "武场乐器",
+                "content": "鼓板、大锣、小锣、铙钹等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "锣鼓经",
+                "content": "京剧打击乐谱，如急急风、四击头",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "曲艺音乐",
+        "content": "各种说唱艺术形式",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "京韵大鼓",
+            "content": "北京天津地区的曲艺形式",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "丑末寅初",
+                "content": "经典京韵大鼓曲目",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "单弦",
+            "content": "又称单弦牌子曲，用八角鼓击节",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "风雨归舟",
+                "content": "单弦代表性曲目",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "北京琴书",
+            "content": "流传于北京天津河北的曲种",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "长寿村",
+                "content": "北京琴书经典曲目",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "天津快板",
+            "content": "用天津方言表演的快板书",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "武松打虎",
+                "content": "天津快板经典段子",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "西河大鼓",
+            "content": "起源于河北中部的曲艺形式",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "玲珑塔",
+                "content": "西河大鼓经典曲目",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "河南坠子",
+            "content": "流行于河南等地的曲艺形式",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "民间音乐",
+        "content": "各地民歌和民间器乐",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "北京民歌",
+            "content": "具有北京特色的民歌",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "水牛儿",
+                "content": "北京民歌，体现儿化音特点",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "河北民歌",
+            "content": "河北省民间歌曲",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "小白菜",
+                "content": "河北民歌，凄凉悲伤",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "孟姜女",
+                "content": "河北民歌，讲述民间故事",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "小放牛",
+                "content": "河北民歌，欢乐活泼",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "大逛灯",
+                "content": "河北民歌，节日气氛浓厚",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "河南民歌",
+            "content": "河南省民间歌曲",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "编花篮",
+                "content": "河南民歌，活泼风趣",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "王大娘钉缸",
+                "content": "河南民歌，幽默诙谐",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "十枝花",
+                "content": "河南民歌，节奏鲜明",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "山东民歌",
+            "content": "山东省民间歌曲",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "沂蒙山小调",
+                "content": "山东民歌，颂扬沂蒙山",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "花蛤蟆",
+                "content": "山东民歌，轻快活泼",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "放风筝",
+                "content": "山东各地民歌变体",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "河北吹歌",
+            "content": "河北传统吹打乐",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "小放驴",
+                "content": "河北吹歌代表作",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "音乐基础知识",
+        "content": "音乐理论和演奏技巧",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "节奏节拍",
+            "content": "音乐中的时间组织",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "八三拍",
+                "content": "以八分音符为一拍，每小节三拍",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "八六拍",
+                "content": "以八分音符为一拍，每小节六拍",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "切分节奏",
+                "content": "改变强弱规律的节奏型",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "附点节奏",
+                "content": "带附点的节奏型",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "演奏技巧",
+            "content": "乐器演奏方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "扩指",
+                "content": "键盘乐器演奏技巧",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "跨指",
+                "content": "键盘乐器演奏技巧",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音乐结构",
+            "content": "乐曲组织形式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "乐句",
+                "content": "音乐中的基本语句单位",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "乐段",
+                "content": "由乐句组成的音乐段落",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "重复与对比",
+                "content": "音乐创作发展手法",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音乐记号",
+            "content": "乐谱中的各种标记",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "力度记号",
+                "content": "表示音强弱的标记",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "速度记号",
+                "content": "表示速度快慢的标记",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "装饰音",
+                "content": "装饰旋律的音符",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "倚音",
+                    "content": "装饰音的一种",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "颤音",
+                    "content": "快速交替的音",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "音乐实践活动",
+        "content": "演唱演奏和创作活动",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "歌曲演唱",
+            "content": "学唱各类歌曲",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "爷爷为我打月饼",
+                "content": "电影插曲，表达亲情",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "彩云追月",
+                "content": "优美抒情歌曲",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "愉快的梦",
+                "content": "日本歌曲，优美梦幻",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "春游",
+                "content": "李叔同作词作曲",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "嘀哩嘀哩",
+                "content": "儿童歌曲，表现春天",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "梅花",
+                "content": "古诗词歌曲",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "小池",
+                "content": "古诗词歌曲",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "蜗牛与黄鹂鸟",
+                "content": "台湾民歌，活泼有趣",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "器乐演奏",
+            "content": "打击乐和键盘乐器演奏",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "打击乐器合奏",
+                "content": "多种打击乐器配合演奏",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "键盘乐器演奏",
+                "content": "用键盘乐器演奏旋律",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音乐创作",
+            "content": "简单的音乐编创活动",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "节奏创作",
+                "content": "编创节奏型",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "旋律创作",
+                "content": "用重复对比手法创作乐句",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音乐表演",
+            "content": "综合艺术表演",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "情境表演",
+                "content": "根据音乐内容进行表演",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "小小音乐剧",
+                "content": "综合音乐戏剧表演",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "音乐文化与历史",
+        "content": "音乐文化背景和历史知识",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "八音分类法",
+            "content": "周朝按材料划分的乐器分类法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "金类乐器",
+                "content": "金属制作的乐器",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "石类乐器",
+                "content": "石头制作的乐器",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "土类乐器",
+                "content": "陶土制作的乐器",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "革类乐器",
+                "content": "皮革制作的乐器",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "丝类乐器",
+                "content": "丝弦乐器",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "木类乐器",
+                "content": "木头制作的乐器",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "匏类乐器",
+                "content": "葫芦制作的乐器",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "竹类乐器",
+                "content": "竹子制作的乐器",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "古代乐器",
+            "content": "历史悠久的传统乐器",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "贾湖骨笛",
+                "content": "距今7800-9000年的古老乐器",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "骨排箫",
+                "content": "距今3000多年的骨制排箫",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音乐人物",
+            "content": "著名音乐家和表演艺术家",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "四大名旦",
+                "content": "梅兰芳、程砚秋、尚小云、荀慧生",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "四大须生",
+                "content": "余叔岩、马连良、言菊朋、高庆奎",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "骆玉笙",
+                "content": "京韵大鼓表演艺术家",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "关学曾",
+                "content": "北京琴书表演艺术家",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "新凤霞",
+                "content": "评剧表演艺术家",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "常香玉",
+                "content": "豫剧表演艺术家",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "高元钧",
+                "content": "山东快书表演艺术家",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "李叔同",
+                "content": "音乐家、教育家",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "孔子与音乐",
+            "content": "孔子作为音乐家和音乐理论家",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "京剧艺术",
+      "tail": "京剧行当",
+      "relation": "包含"
+    },
+    {
+      "head": "京剧艺术",
+      "tail": "脸谱艺术",
+      "relation": "包含"
+    },
+    {
+      "head": "京剧艺术",
+      "tail": "京剧唱段",
+      "relation": "包含"
+    },
+    {
+      "head": "京剧艺术",
+      "tail": "京剧伴奏",
+      "relation": "包含"
+    },
+    {
+      "head": "京剧行当",
+      "tail": "生角",
+      "relation": "包含"
+    },
+    {
+      "head": "京剧行当",
+      "tail": "旦角",
+      "relation": "包含"
+    },
+    {
+      "head": "京剧行当",
+      "tail": "净角",
+      "relation": "包含"
+    },
+    {
+      "head": "京剧行当",
+      "tail": "丑角",
+      "relation": "包含"
+    },
+    {
+      "head": "京剧唱段",
+      "tail": "报灯名",
+      "relation": "包含"
+    },
+    {
+      "head": "京剧唱段",
+      "tail": "龙里格龙",
+      "relation": "包含"
+    },
+    {
+      "head": "京剧伴奏",
+      "tail": "文场乐器",
+      "relation": "包含"
+    },
+    {
+      "head": "京剧伴奏",
+      "tail": "武场乐器",
+      "relation": "包含"
+    },
+    {
+      "head": "京剧伴奏",
+      "tail": "锣鼓经",
+      "relation": "包含"
+    },
+    {
+      "head": "文场乐器",
+      "tail": "京胡",
+      "relation": "包含"
+    },
+    {
+      "head": "文场乐器",
+      "tail": "京二胡",
+      "relation": "包含"
+    },
+    {
+      "head": "文场乐器",
+      "tail": "月琴",
+      "relation": "包含"
+    },
+    {
+      "head": "文场乐器",
+      "tail": "三弦",
+      "relation": "包含"
+    },
+    {
+      "head": "武场乐器",
+      "tail": "鼓板",
+      "relation": "包含"
+    },
+    {
+      "head": "武场乐器",
+      "tail": "大锣",
+      "relation": "包含"
+    },
+    {
+      "head": "武场乐器",
+      "tail": "小锣",
+      "relation": "包含"
+    },
+    {
+      "head": "武场乐器",
+      "tail": "铙钹",
+      "relation": "包含"
+    },
+    {
+      "head": "曲艺音乐",
+      "tail": "京韵大鼓",
+      "relation": "包含"
+    },
+    {
+      "head": "曲艺音乐",
+      "tail": "单弦",
+      "relation": "包含"
+    },
+    {
+      "head": "曲艺音乐",
+      "tail": "北京琴书",
+      "relation": "包含"
+    },
+    {
+      "head": "曲艺音乐",
+      "tail": "天津快板",
+      "relation": "包含"
+    },
+    {
+      "head": "曲艺音乐",
+      "tail": "西河大鼓",
+      "relation": "包含"
+    },
+    {
+      "head": "曲艺音乐",
+      "tail": "河南坠子",
+      "relation": "包含"
+    },
+    {
+      "head": "京韵大鼓",
+      "tail": "丑末寅初",
+      "relation": "包含"
+    },
+    {
+      "head": "单弦",
+      "tail": "风雨归舟",
+      "relation": "包含"
+    },
+    {
+      "head": "北京琴书",
+      "tail": "长寿村",
+      "relation": "包含"
+    },
+    {
+      "head": "天津快板",
+      "tail": "武松打虎",
+      "relation": "包含"
+    },
+    {
+      "head": "西河大鼓",
+      "tail": "玲珑塔",
+      "relation": "包含"
+    },
+    {
+      "head": "民间音乐",
+      "tail": "北京民歌",
+      "relation": "包含"
+    },
+    {
+      "head": "民间音乐",
+      "tail": "河北民歌",
+      "relation": "包含"
+    },
+    {
+      "head": "民间音乐",
+      "tail": "河南民歌",
+      "relation": "包含"
+    },
+    {
+      "head": "民间音乐",
+      "tail": "山东民歌",
+      "relation": "包含"
+    },
+    {
+      "head": "民间音乐",
+      "tail": "河北吹歌",
+      "relation": "包含"
+    },
+    {
+      "head": "北京民歌",
+      "tail": "水牛儿",
+      "relation": "包含"
+    },
+    {
+      "head": "河北民歌",
+      "tail": "小白菜",
+      "relation": "包含"
+    },
+    {
+      "head": "河北民歌",
+      "tail": "孟姜女",
+      "relation": "包含"
+    },
+    {
+      "head": "河北民歌",
+      "tail": "小放牛",
+      "relation": "包含"
+    },
+    {
+      "head": "河北民歌",
+      "tail": "大逛灯",
+      "relation": "包含"
+    },
+    {
+      "head": "河南民歌",
+      "tail": "编花篮",
+      "relation": "包含"
+    },
+    {
+      "head": "河南民歌",
+      "tail": "王大娘钉缸",
+      "relation": "包含"
+    },
+    {
+      "head": "河南民歌",
+      "tail": "十枝花",
+      "relation": "包含"
+    },
+    {
+      "head": "山东民歌",
+      "tail": "沂蒙山小调",
+      "relation": "包含"
+    },
+    {
+      "head": "山东民歌",
+      "tail": "花蛤蟆",
+      "relation": "包含"
+    },
+    {
+      "head": "山东民歌",
+      "tail": "放风筝",
+      "relation": "包含"
+    },
+    {
+      "head": "河北吹歌",
+      "tail": "小放驴",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐基础知识",
+      "tail": "节奏节拍",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐基础知识",
+      "tail": "演奏技巧",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐基础知识",
+      "tail": "音乐结构",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐基础知识",
+      "tail": "音乐记号",
+      "relation": "包含"
+    },
+    {
+      "head": "节奏节拍",
+      "tail": "八三拍",
+      "relation": "包含"
+    },
+    {
+      "head": "节奏节拍",
+      "tail": "八六拍",
+      "relation": "包含"
+    },
+    {
+      "head": "节奏节拍",
+      "tail": "切分节奏",
+      "relation": "包含"
+    },
+    {
+      "head": "节奏节拍",
+      "tail": "附点节奏",
+      "relation": "包含"
+    },
+    {
+      "head": "演奏技巧",
+      "tail": "扩指",
+      "relation": "包含"
+    },
+    {
+      "head": "演奏技巧",
+      "tail": "跨指",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐结构",
+      "tail": "乐句",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐结构",
+      "tail": "乐段",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐结构",
+      "tail": "重复与对比",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐记号",
+      "tail": "力度记号",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐记号",
+      "tail": "速度记号",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐记号",
+      "tail": "装饰音",
+      "relation": "包含"
+    },
+    {
+      "head": "装饰音",
+      "tail": "倚音",
+      "relation": "包含"
+    },
+    {
+      "head": "装饰音",
+      "tail": "颤音",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐实践活动",
+      "tail": "歌曲演唱",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐实践活动",
+      "tail": "器乐演奏",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐实践活动",
+      "tail": "音乐创作",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐实践活动",
+      "tail": "音乐表演",
+      "relation": "包含"
+    },
+    {
+      "head": "歌曲演唱",
+      "tail": "爷爷为我打月饼",
+      "relation": "包含"
+    },
+    {
+      "head": "歌曲演唱",
+      "tail": "彩云追月",
+      "relation": "包含"
+    },
+    {
+      "head": "歌曲演唱",
+      "tail": "愉快的梦",
+      "relation": "包含"
+    },
+    {
+      "head": "歌曲演唱",
+      "tail": "春游",
+      "relation": "包含"
+    },
+    {
+      "head": "歌曲演唱",
+      "tail": "嘀哩嘀哩",
+      "relation": "包含"
+    },
+    {
+      "head": "歌曲演唱",
+      "tail": "梅花",
+      "relation": "包含"
+    },
+    {
+      "head": "歌曲演唱",
+      "tail": "小池",
+      "relation": "包含"
+    },
+    {
+      "head": "歌曲演唱",
+      "tail": "蜗牛与黄鹂鸟",
+      "relation": "包含"
+    },
+    {
+      "head": "器乐演奏",
+      "tail": "打击乐器合奏",
+      "relation": "包含"
+    },
+    {
+      "head": "器乐演奏",
+      "tail": "键盘乐器演奏",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐创作",
+      "tail": "节奏创作",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐创作",
+      "tail": "旋律创作",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐表演",
+      "tail": "情境表演",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐表演",
+      "tail": "小小音乐剧",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐文化与历史",
+      "tail": "八音分类法",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐文化与历史",
+      "tail": "古代乐器",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐文化与历史",
+      "tail": "音乐人物",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐文化与历史",
+      "tail": "孔子与音乐",
+      "relation": "包含"
+    },
+    {
+      "head": "八音分类法",
+      "tail": "金类乐器",
+      "relation": "包含"
+    },
+    {
+      "head": "八音分类法",
+      "tail": "石类乐器",
+      "relation": "包含"
+    },
+    {
+      "head": "八音分类法",
+      "tail": "土类乐器",
+      "relation": "包含"
+    },
+    {
+      "head": "八音分类法",
+      "tail": "革类乐器",
+      "relation": "包含"
+    },
+    {
+      "head": "八音分类法",
+      "tail": "丝类乐器",
+      "relation": "包含"
+    },
+    {
+      "head": "八音分类法",
+      "tail": "木类乐器",
+      "relation": "包含"
+    },
+    {
+      "head": "八音分类法",
+      "tail": "匏类乐器",
+      "relation": "包含"
+    },
+    {
+      "head": "八音分类法",
+      "tail": "竹类乐器",
+      "relation": "包含"
+    },
+    {
+      "head": "古代乐器",
+      "tail": "贾湖骨笛",
+      "relation": "包含"
+    },
+    {
+      "head": "古代乐器",
+      "tail": "骨排箫",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐人物",
+      "tail": "四大名旦",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐人物",
+      "tail": "四大须生",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐人物",
+      "tail": "骆玉笙",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐人物",
+      "tail": "关学曾",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐人物",
+      "tail": "新凤霞",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐人物",
+      "tail": "常香玉",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐人物",
+      "tail": "高元钧",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐人物",
+      "tail": "李叔同",
+      "relation": "包含"
+    },
+    {
+      "head": "京剧伴奏",
+      "tail": "京剧唱段",
+      "relation": "伴奏支持"
+    },
+    {
+      "head": "锣鼓经",
+      "tail": "武场乐器",
+      "relation": "演奏依据"
+    },
+    {
+      "head": "脸谱艺术",
+      "tail": "京剧行当",
+      "relation": "表征对应"
+    },
+    {
+      "head": "重复与对比",
+      "tail": "旋律创作",
+      "relation": "创作手法"
+    },
+    {
+      "head": "乐句",
+      "tail": "乐段",
+      "relation": "组成"
+    },
+    {
+      "head": "八三拍",
+      "tail": "八六拍",
+      "relation": "节拍关联"
+    },
+    {
+      "head": "扩指",
+      "tail": "键盘乐器演奏",
+      "relation": "演奏技巧"
+    },
+    {
+      "head": "跨指",
+      "tail": "键盘乐器演奏",
+      "relation": "演奏技巧"
+    },
+    {
+      "head": "装饰音",
+      "tail": "歌曲演唱",
+      "relation": "演唱技巧"
+    },
+    {
+      "head": "河北吹歌",
+      "tail": "小放驴",
+      "relation": "代表作品"
+    },
+    {
+      "head": "孔子与音乐",
+      "tail": "音乐理论",
+      "relation": "贡献"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:51:51",
+    "version": "1.1"
+  }
+}

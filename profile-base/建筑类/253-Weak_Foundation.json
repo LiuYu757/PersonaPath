@@ -1,0 +1,1752 @@
+{
+  "student_id": "253",
+  "target_major": "建筑类",
+  "archetype": "Weak_Foundation",
+  "current_grade_level": 5.6,
+  "textbook_layer": {
+    "mastered": [
+      "数学-小学-一年级上册",
+      "数学-小学-一年级下册",
+      "数学-小学-二年级上册",
+      "数学-小学-二年级下册",
+      "数学-小学-三年级上册",
+      "数学-小学-三年级下册",
+      "数学-小学-四年级上册",
+      "数学-小学-四年级下册",
+      "美术-一年级-上册",
+      "美术-小学-一年级下册",
+      "美术-小学-二年级上册",
+      "美术-小学-二年级下册",
+      "美术-小学-三年级上册",
+      "美术-小学-三年级下册",
+      "美术-小学-四年级上册",
+      "美术-小学-四年级下册"
+    ],
+    "learning": [
+      "数学-小学-五年级上册",
+      "数学-小学-五年级下册",
+      "美术-五年级-上册",
+      "美术-小学-五年级下册"
+    ],
+    "not_mastered": [
+      "数学-小学-六年级上册",
+      "数学-小学-六年级下册",
+      "数学-七年级-上册",
+      "数学-七年级-下册",
+      "数学-八年级-上册",
+      "数学-初中-八年级下册",
+      "数学-初中-九年级上册",
+      "数学-初中-九年级下册",
+      "数学-高中-必修第一册",
+      "数学-高中-必修第二册",
+      "数学-高中-选择性必修第一册",
+      "数学-高中-选择性必修第二册",
+      "数学-高中-选择性必修第三册",
+      "物理-初中-八年级上册",
+      "物理-初中-八年级下册",
+      "物理-初中-九年级全一册",
+      "物理-高中-必修第一册",
+      "物理-高中-必修第二册",
+      "物理-高中-必修第三册",
+      "物理-高中-选择性必修第一册",
+      "物理-高中-选择性必修第二册",
+      "物理-高中-选择性必修第三册",
+      "美术-六年级-上册",
+      "美术-小学-六年级下册",
+      "美术-七年级-上册",
+      "美术-七年级-下册",
+      "美术-初中-八年级上册",
+      "美术-初中-八年级下册",
+      "美术-初中-九年级上册",
+      "美术-初中-九年级下册",
+      "美术-高中-美术鉴赏",
+      "美术-高中-选择性必修1绘画",
+      "美术-高中-中国书画",
+      "美术-高中-雕塑",
+      "美术-高中-设计",
+      "美术-高中-工艺",
+      "美术-高中-现代媒体艺术",
+      "中国建筑史"
+    ]
+  },
+  "knowledge_layer": [
+    {
+      "book_name": "数学-小学-一年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-一年级上册",
+        "children": [
+          {
+            "title": "数的认识与运算",
+            "mastery": 0.5316
+          },
+          {
+            "title": "图形与空间",
+            "mastery": 0.8566
+          },
+          {
+            "title": "时间认知与应用",
+            "mastery": 0.802
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-一年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-一年级下册",
+        "children": [
+          {
+            "title": "100以内数的认识",
+            "mastery": 0.786
+          },
+          {
+            "title": "20以内的退位减法",
+            "mastery": 0.8833
+          },
+          {
+            "title": "分类与整理",
+            "mastery": 0.4674
+          },
+          {
+            "title": "认识人民币",
+            "mastery": 0.7311
+          },
+          {
+            "title": "100以内的加法和减法",
+            "mastery": 0.6257
+          },
+          {
+            "title": "找规律",
+            "mastery": 0.9124
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-二年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-二年级上册",
+        "children": [
+          {
+            "title": "长度单位",
+            "mastery": 0.5186
+          },
+          {
+            "title": "100以内的加法和减法",
+            "mastery": 0.728
+          },
+          {
+            "title": "角的初步认识",
+            "mastery": 0.6062
+          },
+          {
+            "title": "表内乘法",
+            "mastery": 0.8144
+          },
+          {
+            "title": "观察物体",
+            "mastery": 0.6139
+          },
+          {
+            "title": "认识时间",
+            "mastery": 0.6762
+          },
+          {
+            "title": "数学广角——搭配",
+            "mastery": 0.7311
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-二年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-二年级下册",
+        "children": [
+          {
+            "title": "数据收集和整理",
+            "mastery": 0.8033
+          },
+          {
+            "title": "表内除法",
+            "mastery": 0.6589
+          },
+          {
+            "title": "图形的运动",
+            "mastery": 0.4897
+          },
+          {
+            "title": "万以内数的认识",
+            "mastery": 0.5154
+          },
+          {
+            "title": "克和千克",
+            "mastery": 0.359
+          },
+          {
+            "title": "数学广角——推理",
+            "mastery": 0.5091
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-三年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-三年级上册",
+        "children": [
+          {
+            "title": "时、分、秒",
+            "mastery": 0.1224
+          },
+          {
+            "title": "万以内的加法和减法",
+            "mastery": 0.5986
+          },
+          {
+            "title": "测量",
+            "mastery": 0.6582
+          },
+          {
+            "title": "倍的认识",
+            "mastery": 0.4897
+          },
+          {
+            "title": "多位数乘一位数",
+            "mastery": 0.8908
+          },
+          {
+            "title": "长方形和正方形",
+            "mastery": 0.4917
+          },
+          {
+            "title": "分数的初步认识",
+            "mastery": 0.7793
+          },
+          {
+            "title": "数学广角——集合",
+            "mastery": 0.4686
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-三年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-三年级下册",
+        "children": [
+          {
+            "title": "除数是一位数的除法",
+            "mastery": 0.9209
+          },
+          {
+            "title": "两位数乘两位数",
+            "mastery": 0.3914
+          },
+          {
+            "title": "面积概念与计算",
+            "mastery": 0.7328
+          },
+          {
+            "title": "年、月、日认识",
+            "mastery": 0.6992
+          },
+          {
+            "title": "小数初步认识",
+            "mastery": 0.466
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-四年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-四年级上册",
+        "children": [
+          {
+            "title": "大数的认识",
+            "mastery": 0.5706
+          },
+          {
+            "title": "面积单位与几何图形",
+            "mastery": 0.2536
+          },
+          {
+            "title": "数的运算与规律",
+            "mastery": 0.6398
+          },
+          {
+            "title": "数据表示与数学思想",
+            "mastery": 0.9093
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-四年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-四年级下册",
+        "children": [
+          {
+            "title": "四则运算",
+            "mastery": 0.7187
+          },
+          {
+            "title": "观察物体",
+            "mastery": 0.4065
+          },
+          {
+            "title": "运算律",
+            "mastery": 0.7829
+          },
+          {
+            "title": "小数的意义和性质",
+            "mastery": 0.9523
+          },
+          {
+            "title": "三角形",
+            "mastery": 0.8381
+          },
+          {
+            "title": "小数的加法和减法",
+            "mastery": 0.6375
+          },
+          {
+            "title": "图形的运动",
+            "mastery": 0.84
+          },
+          {
+            "title": "平均数与条形统计图",
+            "mastery": 0.5493
+          },
+          {
+            "title": "鸡兔同笼问题",
+            "mastery": 0.6345
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-一年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-一年级-上册",
+        "children": [
+          {
+            "title": "龙的传人",
+            "mastery": 0.8305
+          },
+          {
+            "title": "奉献最美",
+            "mastery": 0.7431
+          },
+          {
+            "title": "成长足迹",
+            "mastery": 0.8079
+          },
+          {
+            "title": "我的祖国",
+            "mastery": 0.537
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-一年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-小学-一年级下册",
+        "children": [
+          {
+            "title": "自然观察与表现",
+            "mastery": 0.6885
+          },
+          {
+            "title": "艺术技法学习",
+            "mastery": 0.603
+          },
+          {
+            "title": "文化传承理解",
+            "mastery": 0.8802
+          },
+          {
+            "title": "人文关怀表达",
+            "mastery": 0.7264
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-二年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-小学-二年级上册",
+        "children": [
+          {
+            "title": "身边的自然",
+            "mastery": 0.8519
+          },
+          {
+            "title": "爱我家园",
+            "mastery": 0.6859
+          },
+          {
+            "title": "我是小工匠",
+            "mastery": 0.3915
+          },
+          {
+            "title": "寻找年味儿",
+            "mastery": 0.7774
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-二年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-小学-二年级下册",
+        "children": [
+          {
+            "title": "造型表现领域",
+            "mastery": 0.6415
+          },
+          {
+            "title": "设计应用领域",
+            "mastery": 0.7621
+          },
+          {
+            "title": "综合探索领域",
+            "mastery": 0.884
+          },
+          {
+            "title": "技术应用领域",
+            "mastery": 0.6742
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-三年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-小学-三年级上册",
+        "children": [
+          {
+            "title": "童年生活",
+            "mastery": 0.4719
+          },
+          {
+            "title": "我和家人",
+            "mastery": 0.8333
+          },
+          {
+            "title": "爱集体爱劳动",
+            "mastery": 0.5617
+          },
+          {
+            "title": "走进儿童剧",
+            "mastery": 0.7612
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-三年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-小学-三年级下册",
+        "children": [
+          {
+            "title": "水墨游戏",
+            "mastery": 0.3985
+          },
+          {
+            "title": "图形构成原理",
+            "mastery": 0.6488
+          },
+          {
+            "title": "线条艺术表现",
+            "mastery": 0.5051
+          },
+          {
+            "title": "色彩与情感表达",
+            "mastery": 0.7578
+          },
+          {
+            "title": "创意造型设计",
+            "mastery": 0.609
+          },
+          {
+            "title": "人物与场景表现",
+            "mastery": 0.3603
+          },
+          {
+            "title": "手工制作技艺",
+            "mastery": 0.8226
+          },
+          {
+            "title": "立体造型创作",
+            "mastery": 0.4195
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-四年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-小学-四年级上册",
+        "children": [
+          {
+            "title": "色彩基础知识",
+            "mastery": 0.956
+          },
+          {
+            "title": "造型与表现技法",
+            "mastery": 0.7
+          },
+          {
+            "title": "主题创作与实践",
+            "mastery": 0.927
+          },
+          {
+            "title": "综合技法与创意设计",
+            "mastery": 0.6448
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-四年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-小学-四年级下册",
+        "children": [
+          {
+            "title": "绘画基础技法",
+            "mastery": 0.5308
+          },
+          {
+            "title": "手工制作技艺",
+            "mastery": 0.8878
+          },
+          {
+            "title": "数字艺术创作",
+            "mastery": 0.7161
+          },
+          {
+            "title": "艺术欣赏素养",
+            "mastery": 0.9237
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-五年级上册",
+      "status": "learning",
+      "detail": {
+        "title": "数学-小学-五年级上册",
+        "children": [
+          {
+            "title": "小数乘法",
+            "mastery": 0.3872
+          },
+          {
+            "title": "位置",
+            "mastery": 0.5112
+          },
+          {
+            "title": "小数除法",
+            "mastery": 0.1095
+          },
+          {
+            "title": "简易方程",
+            "mastery": 0.0934
+          },
+          {
+            "title": "多边形的面积",
+            "mastery": 0.4169
+          },
+          {
+            "title": "可能性",
+            "mastery": 0.115
+          },
+          {
+            "title": "数学广角",
+            "mastery": 0.1411
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-五年级下册",
+      "status": "learning",
+      "detail": {
+        "title": "数学-小学-五年级下册",
+        "children": [
+          {
+            "title": "观察物体（三）",
+            "mastery": 0.1437
+          },
+          {
+            "title": "因数和倍数",
+            "mastery": 0.4342
+          },
+          {
+            "title": "长方体和正方体",
+            "mastery": 0.359
+          },
+          {
+            "title": "分数的意义和性质",
+            "mastery": 0.2304
+          },
+          {
+            "title": "图形的运动（三）",
+            "mastery": 0.244
+          },
+          {
+            "title": "分数的加法和减法",
+            "mastery": 0.3473
+          },
+          {
+            "title": "折线统计图",
+            "mastery": 0.2785
+          },
+          {
+            "title": "数学广角——找次品",
+            "mastery": 0.2529
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-五年级-上册",
+      "status": "learning",
+      "detail": {
+        "title": "美术-五年级-上册",
+        "children": [
+          {
+            "title": "色彩原理与应用",
+            "mastery": 0.1948
+          },
+          {
+            "title": "图案设计与制作",
+            "mastery": 0.1669
+          },
+          {
+            "title": "绘画技法探索",
+            "mastery": 0.4877
+          },
+          {
+            "title": "手工制作与传统文化",
+            "mastery": 0.1419
+          },
+          {
+            "title": "现代美术技术",
+            "mastery": 0.771
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-五年级下册",
+      "status": "learning",
+      "detail": {
+        "title": "美术-小学-五年级下册",
+        "children": [
+          {
+            "title": "造型表现领域",
+            "mastery": 0.6379
+          },
+          {
+            "title": "设计应用领域",
+            "mastery": 0.1689
+          },
+          {
+            "title": "欣赏评述领域",
+            "mastery": 0.3563
+          },
+          {
+            "title": "综合探索领域",
+            "mastery": 0.6208
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-六年级上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-小学-六年级上册",
+        "children": [
+          {
+            "title": "分数乘法",
+            "mastery": 0.1876
+          },
+          {
+            "title": "位置与方向",
+            "mastery": 0.007
+          },
+          {
+            "title": "分数除法",
+            "mastery": 0.0393
+          },
+          {
+            "title": "比",
+            "mastery": 0.3535
+          },
+          {
+            "title": "圆",
+            "mastery": 0.1311
+          },
+          {
+            "title": "百分数",
+            "mastery": 0.0125
+          },
+          {
+            "title": "扇形统计图",
+            "mastery": 0.1877
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-六年级下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-小学-六年级下册",
+        "children": [
+          {
+            "title": "负数",
+            "mastery": 0.0721
+          },
+          {
+            "title": "百分数（二）",
+            "mastery": 0.1776
+          },
+          {
+            "title": "圆柱与圆锥",
+            "mastery": 0.1665
+          },
+          {
+            "title": "比例",
+            "mastery": 0.0723
+          },
+          {
+            "title": "数学广角—鸽巢问题",
+            "mastery": 0.0541
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-七年级-上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-七年级-上册",
+        "children": [
+          {
+            "title": "有理数",
+            "mastery": 0.2999
+          },
+          {
+            "title": "代数式与整式",
+            "mastery": 0.2343
+          },
+          {
+            "title": "一元一次方程",
+            "mastery": 0.1175
+          },
+          {
+            "title": "几何图形初步",
+            "mastery": 0.3009
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-七年级-下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-七年级-下册",
+        "children": [
+          {
+            "title": "相交线与平行线",
+            "mastery": 0.1313
+          },
+          {
+            "title": "实数",
+            "mastery": 0.1109
+          },
+          {
+            "title": "平面直角坐标系",
+            "mastery": 0.2798
+          },
+          {
+            "title": "二元一次方程组",
+            "mastery": 0.008
+          },
+          {
+            "title": "不等式与不等式组",
+            "mastery": 0.2474
+          },
+          {
+            "title": "数据的收集整理与描述",
+            "mastery": 0.3142
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-八年级-上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-八年级-上册",
+        "children": [
+          {
+            "title": "三角形",
+            "mastery": 0.0646
+          },
+          {
+            "title": "全等三角形",
+            "mastery": 0.1752
+          },
+          {
+            "title": "轴对称",
+            "mastery": 0.2383
+          },
+          {
+            "title": "整式与分式运算",
+            "mastery": 0.1863
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-初中-八年级下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-初中-八年级下册",
+        "children": [
+          {
+            "title": "二次根式",
+            "mastery": 0.2257
+          },
+          {
+            "title": "勾股定理",
+            "mastery": 0.0116
+          },
+          {
+            "title": "平行四边形",
+            "mastery": 0.0503
+          },
+          {
+            "title": "一次函数",
+            "mastery": 0.0996
+          },
+          {
+            "title": "数据的分析",
+            "mastery": 0.0816
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-初中-九年级上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-初中-九年级上册",
+        "children": [
+          {
+            "title": "一元二次方程",
+            "mastery": 0.2189
+          },
+          {
+            "title": "二次函数",
+            "mastery": 0.0231
+          },
+          {
+            "title": "旋转",
+            "mastery": 0.0487
+          },
+          {
+            "title": "圆",
+            "mastery": 0.0063
+          },
+          {
+            "title": "概率初步",
+            "mastery": 0.1626
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-初中-九年级下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-初中-九年级下册",
+        "children": [
+          {
+            "title": "反比例函数",
+            "mastery": 0.0875
+          },
+          {
+            "title": "相似",
+            "mastery": 0.0873
+          },
+          {
+            "title": "锐角三角函数",
+            "mastery": 0.0321
+          },
+          {
+            "title": "投影与视图",
+            "mastery": 0.015
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-必修第一册",
+        "children": [
+          {
+            "title": "集合与常用逻辑用语",
+            "mastery": 0.0091
+          },
+          {
+            "title": "对数函数",
+            "mastery": 0.2174
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-必修第二册",
+        "children": [
+          {
+            "title": "平面向量及其应用",
+            "mastery": 0.1099
+          },
+          {
+            "title": "空间直线与平面的垂直",
+            "mastery": 0.1282
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-选择性必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-选择性必修第一册",
+        "children": [
+          {
+            "title": "空间向量与立体几何",
+            "mastery": 0.2758
+          },
+          {
+            "title": "直线与圆",
+            "mastery": 0.4972
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-选择性必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-选择性必修第二册",
+        "children": [
+          {
+            "title": "数列的概念与表示",
+            "mastery": 0.0202
+          },
+          {
+            "title": "等差数列",
+            "mastery": 0.0369
+          },
+          {
+            "title": "等比数列",
+            "mastery": 0.0758
+          },
+          {
+            "title": "数学归纳法",
+            "mastery": 0.1072
+          },
+          {
+            "title": "数列的综合应用",
+            "mastery": 0.0908
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-选择性必修第三册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-选择性必修第三册",
+        "children": [
+          {
+            "title": "计数原理",
+            "mastery": 0.0461
+          },
+          {
+            "title": "随机变量及其分布",
+            "mastery": 0.0211
+          },
+          {
+            "title": "成对数据的统计分析",
+            "mastery": 0.0338
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-初中-八年级上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-初中-八年级上册",
+        "children": [
+          {
+            "title": "机械运动",
+            "mastery": 0.0203
+          },
+          {
+            "title": "声现象",
+            "mastery": 0.0114
+          },
+          {
+            "title": "物态变化",
+            "mastery": 0.0209
+          },
+          {
+            "title": "光现象",
+            "mastery": 0.0215
+          },
+          {
+            "title": "透镜及其应用",
+            "mastery": 0.1008
+          },
+          {
+            "title": "质量与密度",
+            "mastery": 0.1335
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-初中-八年级下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-初中-八年级下册",
+        "children": [
+          {
+            "title": "力",
+            "mastery": 0.0377
+          },
+          {
+            "title": "运动和力",
+            "mastery": 0.1777
+          },
+          {
+            "title": "压强",
+            "mastery": 0.1945
+          },
+          {
+            "title": "浮力",
+            "mastery": 0.342
+          },
+          {
+            "title": "功和机械能",
+            "mastery": 0.0082
+          },
+          {
+            "title": "简单机械",
+            "mastery": 0.0024
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-初中-九年级全一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-初中-九年级全一册",
+        "children": [
+          {
+            "title": "内能",
+            "mastery": 0.0151
+          },
+          {
+            "title": "内能的利用",
+            "mastery": 0.1876
+          },
+          {
+            "title": "电流和电路",
+            "mastery": 0.128
+          },
+          {
+            "title": "电压与电阻",
+            "mastery": 0.0045
+          },
+          {
+            "title": "欧姆定律",
+            "mastery": 0.0603
+          },
+          {
+            "title": "电功率",
+            "mastery": 0.0084
+          },
+          {
+            "title": "生活用电",
+            "mastery": 0.2813
+          },
+          {
+            "title": "电与磁",
+            "mastery": 0.0876
+          },
+          {
+            "title": "电磁波与应用",
+            "mastery": 0.2546
+          },
+          {
+            "title": "能源与可持续发展",
+            "mastery": 0.0956
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-必修第一册",
+        "children": [
+          {
+            "title": "运动的描述",
+            "mastery": 0.0054
+          },
+          {
+            "title": "匀变速直线运动",
+            "mastery": 0.1276
+          },
+          {
+            "title": "相互作用",
+            "mastery": 0.1469
+          },
+          {
+            "title": "牛顿运动定律",
+            "mastery": 0.0623
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-必修第二册",
+        "children": [
+          {
+            "title": "抛体运动",
+            "mastery": 0.0954
+          },
+          {
+            "title": "圆周运动",
+            "mastery": 0.0613
+          },
+          {
+            "title": "万有引力与宇宙航行",
+            "mastery": 0.1371
+          },
+          {
+            "title": "机械能守恒定律",
+            "mastery": 0.003
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-必修第三册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-必修第三册",
+        "children": [
+          {
+            "title": "静电场及其应用",
+            "mastery": 0.0293
+          },
+          {
+            "title": "静电场中的能量",
+            "mastery": 0.2558
+          },
+          {
+            "title": "电路及其应用",
+            "mastery": 0.023
+          },
+          {
+            "title": "电能能量守恒定律",
+            "mastery": 0.0833
+          },
+          {
+            "title": "电磁感应与电磁波初步",
+            "mastery": 0.07
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-选择性必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-选择性必修第一册",
+        "children": [
+          {
+            "title": "动量守恒定律",
+            "mastery": 0.0199
+          },
+          {
+            "title": "机械振动",
+            "mastery": 0.1201
+          },
+          {
+            "title": "机械波",
+            "mastery": 0.1205
+          },
+          {
+            "title": "光",
+            "mastery": 0.1974
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-选择性必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-选择性必修第二册",
+        "children": [
+          {
+            "title": "安培力与洛伦兹力",
+            "mastery": 0.0845
+          },
+          {
+            "title": "电磁感应",
+            "mastery": 0.1566
+          },
+          {
+            "title": "交变电流",
+            "mastery": 0.1719
+          },
+          {
+            "title": "电磁振荡与电磁波",
+            "mastery": 0.0924
+          },
+          {
+            "title": "传感器技术",
+            "mastery": 0.1602
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-选择性必修第三册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-选择性必修第三册",
+        "children": [
+          {
+            "title": "分子动理论",
+            "mastery": 0.1124
+          },
+          {
+            "title": "气体、固体和液体",
+            "mastery": 0.3076
+          },
+          {
+            "title": "热力学定律",
+            "mastery": 0.1238
+          },
+          {
+            "title": "原子结构和波粒二象性",
+            "mastery": 0.0054
+          },
+          {
+            "title": "原子核",
+            "mastery": 0.1953
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-六年级-上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "美术-六年级-上册",
+        "children": [
+          {
+            "title": "造型表现领域",
+            "mastery": 0.0264
+          },
+          {
+            "title": "设计应用领域",
+            "mastery": 0.0051
+          },
+          {
+            "title": "传统绘画技法",
+            "mastery": 0.0768
+          },
+          {
+            "title": "艺术欣赏与保护",
+            "mastery": 0.1125
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-六年级下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "美术-小学-六年级下册",
+        "children": [
+          {
+            "title": "明暗与立体",
+            "mastery": 0.1388
+          },
+          {
+            "title": "美的发现与记录",
+            "mastery": 0.0058
+          },
+          {
+            "title": "色彩观察与表现",
+            "mastery": 0.1157
+          },
+          {
+            "title": "雕刻艺术技法",
+            "mastery": 0.0305
+          },
+          {
+            "title": "浮雕艺术创作",
+            "mastery": 0.2305
+          },
+          {
+            "title": "扇面画艺术",
+            "mastery": 0.0708
+          },
+          {
+            "title": "工笔花卉技法",
+            "mastery": 0.1136
+          },
+          {
+            "title": "服装设计基础",
+            "mastery": 0.0153
+          },
+          {
+            "title": "图文创作艺术",
+            "mastery": 0.0838
+          },
+          {
+            "title": "宇宙主题创作",
+            "mastery": 0.0071
+          },
+          {
+            "title": "奥运精神表现",
+            "mastery": 0.0128
+          },
+          {
+            "title": "未来学校规划",
+            "mastery": 0.0838
+          },
+          {
+            "title": "毕业纪念活动",
+            "mastery": 0.1539
+          },
+          {
+            "title": "电脑美术创作",
+            "mastery": 0.0061
+          },
+          {
+            "title": "古代建筑艺术",
+            "mastery": 0.1825
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-七年级-上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "美术-七年级-上册",
+        "children": [
+          {
+            "title": "革命历史题材美术",
+            "mastery": 0.1281
+          },
+          {
+            "title": "线与色的造型表现",
+            "mastery": 0.0368
+          },
+          {
+            "title": "视觉传达设计",
+            "mastery": 0.1084
+          },
+          {
+            "title": "舞台美术设计",
+            "mastery": 0.1093
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-七年级-下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "美术-七年级-下册",
+        "children": [
+          {
+            "title": "社会主义建设成就欣赏",
+            "mastery": 0.0378
+          },
+          {
+            "title": "校园生活表现技法",
+            "mastery": 0.3559
+          },
+          {
+            "title": "艺术节设计策划",
+            "mastery": 0.0735
+          },
+          {
+            "title": "革命遗址记录表现",
+            "mastery": 0.2302
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-初中-八年级上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "美术-初中-八年级上册",
+        "children": [
+          {
+            "title": "中国传统色彩",
+            "mastery": 0.0637
+          },
+          {
+            "title": "中国园林艺术",
+            "mastery": 0.039
+          },
+          {
+            "title": "中国山水画艺术",
+            "mastery": 0.4249
+          },
+          {
+            "title": "书籍装帧艺术",
+            "mastery": 0.0003
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-初中-八年级下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "美术-初中-八年级下册",
+        "children": [
+          {
+            "title": "美术作品的深层意蕴",
+            "mastery": 0.1298
+          },
+          {
+            "title": "纹样与生活",
+            "mastery": 0.4268
+          },
+          {
+            "title": "生活情趣营造",
+            "mastery": 0.1591
+          },
+          {
+            "title": "居住环境设计",
+            "mastery": 0.0012
+          },
+          {
+            "title": "中国古典园林欣赏",
+            "mastery": 0.0968
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-初中-九年级上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "美术-初中-九年级上册",
+        "children": [
+          {
+            "title": "中国古代美术名作欣赏",
+            "mastery": 0.0375
+          },
+          {
+            "title": "民间工艺制作技艺",
+            "mastery": 0.4847
+          },
+          {
+            "title": "陶瓷艺术实践",
+            "mastery": 0.2143
+          },
+          {
+            "title": "民俗文化考察研究",
+            "mastery": 0.2087
+          },
+          {
+            "title": "民间美术体系认知",
+            "mastery": 0.0242
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-初中-九年级下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "美术-初中-九年级下册",
+        "children": [
+          {
+            "title": "外国美术名作巡礼",
+            "mastery": 0.2648
+          },
+          {
+            "title": "保护世界遗产",
+            "mastery": 0.076
+          },
+          {
+            "title": "动漫艺术创作",
+            "mastery": 0.0236
+          },
+          {
+            "title": "20世纪中国美术",
+            "mastery": 0.1761
+          },
+          {
+            "title": "毕业创作实践",
+            "mastery": 0.1248
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-高中-美术鉴赏",
+      "status": "not_mastered",
+      "detail": {
+        "title": "美术-高中-美术鉴赏",
+        "children": [
+          {
+            "title": "鉴赏基础",
+            "mastery": 0.1068
+          },
+          {
+            "title": "中国美术鉴赏",
+            "mastery": 0.1202
+          },
+          {
+            "title": "外国美术鉴赏",
+            "mastery": 0.0048
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-高中-选择性必修1绘画",
+      "status": "not_mastered",
+      "detail": {
+        "title": "美术-高中-选择性必修1绘画",
+        "children": [
+          {
+            "title": "点线面构成基础",
+            "mastery": 0.0516
+          },
+          {
+            "title": "色彩理论与应用",
+            "mastery": 0.0928
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-高中-中国书画",
+      "status": "not_mastered",
+      "detail": {
+        "title": "美术-高中-中国书画",
+        "children": [
+          {
+            "title": "中国画",
+            "mastery": 0.0039
+          },
+          {
+            "title": "书法",
+            "mastery": 0.117
+          },
+          {
+            "title": "篆刻",
+            "mastery": 0.1025
+          },
+          {
+            "title": "诗书画印结合",
+            "mastery": 0.1574
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-高中-雕塑",
+      "status": "not_mastered",
+      "detail": {
+        "title": "美术-高中-雕塑",
+        "children": [
+          {
+            "title": "雕塑概述",
+            "mastery": 0.089
+          },
+          {
+            "title": "雕塑创作技术",
+            "mastery": 0.0329
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-高中-设计",
+      "status": "not_mastered",
+      "detail": {
+        "title": "美术-高中-设计",
+        "children": [
+          {
+            "title": "设计概述",
+            "mastery": 0.1776
+          },
+          {
+            "title": "视觉传达设计",
+            "mastery": 0.1562
+          },
+          {
+            "title": "产品设计",
+            "mastery": 0.1719
+          },
+          {
+            "title": "环境设计",
+            "mastery": 0.0018
+          },
+          {
+            "title": "创造价值服务人民",
+            "mastery": 0.1434
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-高中-工艺",
+      "status": "not_mastered",
+      "detail": {
+        "title": "美术-高中-工艺",
+        "children": [
+          {
+            "title": "工艺基础理论",
+            "mastery": 0.0079
+          },
+          {
+            "title": "陶瓷工艺",
+            "mastery": 0.0065
+          },
+          {
+            "title": "染织工艺",
+            "mastery": 0.0742
+          },
+          {
+            "title": "编织与纸艺",
+            "mastery": 0.1335
+          },
+          {
+            "title": "木工与雕刻工艺",
+            "mastery": 0.2015
+          },
+          {
+            "title": "民俗工艺制作",
+            "mastery": 0.1193
+          },
+          {
+            "title": "工艺传承与保护",
+            "mastery": 0.0958
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-高中-现代媒体艺术",
+      "status": "not_mastered",
+      "detail": {
+        "title": "美术-高中-现代媒体艺术",
+        "children": [
+          {
+            "title": "导论",
+            "mastery": 0.0166
+          },
+          {
+            "title": "摄影艺术",
+            "mastery": 0.0217
+          },
+          {
+            "title": "摄像艺术",
+            "mastery": 0.438
+          },
+          {
+            "title": "数字媒体艺术",
+            "mastery": 0.2042
+          },
+          {
+            "title": "交互设计思维",
+            "mastery": 0.1474
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "中国建筑史",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-工学-建筑类-中国建筑史",
+        "children": [
+          {
+            "title": "原始社会建筑",
+            "mastery": 0.0359
+          },
+          {
+            "title": "奴隶社会建筑",
+            "mastery": 0.1545
+          },
+          {
+            "title": "封建社会前期建筑",
+            "mastery": 0.1707
+          },
+          {
+            "title": "封建社会中后期建筑",
+            "mastery": 0.0013
+          }
+        ]
+      }
+    }
+  ]
+}

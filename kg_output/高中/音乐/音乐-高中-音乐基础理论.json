@@ -1,0 +1,252 @@
+{
+  "knowledge_tree": {
+    "title": "音乐基础理论",
+    "content": "高中音乐选择性必修课程，涵盖节奏、节拍与音值组合等核心内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "节奏与节拍",
+        "content": "音乐中时间组织的基本概念，包括节奏型、节拍类型等",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "节奏的定义",
+            "content": "音乐中音的长短关系组合",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "节拍的定义",
+            "content": "音乐中强拍与弱拍有规律的循环",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "拍号",
+            "content": "表示每小节拍数和音符时值的符号",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "拍号的写法",
+                "content": "上下数字表示每小节拍数和以何种音符为一拍",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "常见拍号类型",
+                "content": "如2/4、3/4、4/4、3/8、6/8等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "节奏型",
+            "content": "典型的节奏 patterns",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "音值组合",
+        "content": "音符时值的组合规则与方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "音值组合的基本原则",
+            "content": "按照节拍结构将音符组合成符杠连接的音群",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "单拍子音值组合",
+                "content": "每小节只有一个强拍的音值组合规则",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "复拍子音值组合",
+                "content": "每小节有多个强拍的音值组合规则",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "特殊节奏型的组合",
+            "content": "如三连音、切分音、附点节奏等的组合方法",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "节拍划分",
+        "content": "不同节拍类型的划分方法与特点",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "单拍子",
+            "content": "每小节只有一个强拍的节拍",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "二拍子",
+                "content": "如2/4、2/2拍",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "三拍子",
+                "content": "如3/4、3/8拍",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "复拍子",
+            "content": "由两个或多个同类型单拍子组合而成",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "四拍子",
+                "content": "如4/4拍，由两个二拍子组成",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "六拍子",
+                "content": "如6/8拍，由两个三拍子组成",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "混合拍子",
+            "content": "由不同类型单拍子组合而成",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "节奏与节拍",
+      "tail": "节奏的定义",
+      "relation": "包含"
+    },
+    {
+      "head": "节奏与节拍",
+      "tail": "节拍的定义",
+      "relation": "包含"
+    },
+    {
+      "head": "节奏与节拍",
+      "tail": "拍号",
+      "relation": "包含"
+    },
+    {
+      "head": "拍号",
+      "tail": "拍号的写法",
+      "relation": "包含"
+    },
+    {
+      "head": "拍号",
+      "tail": "常见拍号类型",
+      "relation": "包含"
+    },
+    {
+      "head": "音值组合",
+      "tail": "音值组合的基本原则",
+      "relation": "包含"
+    },
+    {
+      "head": "音值组合的基本原则",
+      "tail": "单拍子音值组合",
+      "relation": "包含"
+    },
+    {
+      "head": "音值组合的基本原则",
+      "tail": "复拍子音值组合",
+      "relation": "包含"
+    },
+    {
+      "head": "音值组合",
+      "tail": "特殊节奏型的组合",
+      "relation": "包含"
+    },
+    {
+      "head": "节拍划分",
+      "tail": "单拍子",
+      "relation": "包含"
+    },
+    {
+      "head": "节拍划分",
+      "tail": "复拍子",
+      "relation": "包含"
+    },
+    {
+      "head": "节拍划分",
+      "tail": "混合拍子",
+      "relation": "包含"
+    },
+    {
+      "head": "单拍子",
+      "tail": "二拍子",
+      "relation": "包含"
+    },
+    {
+      "head": "单拍子",
+      "tail": "三拍子",
+      "relation": "包含"
+    },
+    {
+      "head": "复拍子",
+      "tail": "四拍子",
+      "relation": "包含"
+    },
+    {
+      "head": "复拍子",
+      "tail": "六拍子",
+      "relation": "包含"
+    },
+    {
+      "head": "音值组合",
+      "tail": "节拍划分",
+      "relation": "基于"
+    },
+    {
+      "head": "特殊节奏型的组合",
+      "tail": "三连音",
+      "relation": "包括"
+    },
+    {
+      "head": "特殊节奏型的组合",
+      "tail": "切分音",
+      "relation": "包括"
+    },
+    {
+      "head": "特殊节奏型的组合",
+      "tail": "附点节奏",
+      "relation": "包括"
+    },
+    {
+      "head": "拍号",
+      "tail": "音值组合",
+      "relation": "指导"
+    },
+    {
+      "head": "节拍划分",
+      "tail": "音值组合",
+      "relation": "决定"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:01:24",
+    "version": "1.1"
+  }
+}

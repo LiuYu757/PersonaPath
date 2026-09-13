@@ -1,0 +1,753 @@
+{
+  "knowledge_tree": {
+    "title": "材料力学",
+    "content": "研究材料在各种外力作用下产生的应变、应力、强度、刚度和稳定性等力学性能的学科。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "基本概念",
+        "content": "材料力学的基础定义和基本假设。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "外力与内力",
+            "content": "外力是外部物体对构件的作用力；内力是构件内部相连部分之间的相互作用力。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "应力",
+            "content": "单位面积上的内力，表示内力的分布集度。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "正应力",
+                "content": "垂直于截面的应力分量，用符号σ表示。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "切应力",
+                "content": "相切于截面的应力分量，用符号τ表示。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "应变",
+            "content": "构件单位长度的变形量，描述变形的程度。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "线应变",
+                "content": "单位长度的伸长或缩短，用符号ε表示。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "切应变",
+                "content": "描述角度改变量的无量纲量，用符号γ表示。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "基本假设",
+            "content": "材料力学理论建立的基础。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "连续性假设",
+                "content": "认为物质毫无空隙地充满了物体所占的整个空间。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "均匀性假设",
+                "content": "认为物体内各点的力学性能是相同的。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "各向同性假设",
+                "content": "认为材料沿各个方向的力学性能是相同的。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "轴向拉伸与压缩",
+        "content": "杆件受到大小相等、方向相反、作用线与杆件轴线重合的一对外力作用。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "轴力与轴力图",
+            "content": "横截面上的内力，其作用线垂直于横截面并通过其形心。表示轴力沿杆件轴线变化情况的图形。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "横截面上的应力",
+            "content": "轴向拉压杆横截面上只有正应力，且均匀分布。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "应力公式",
+                "content": "σ = F_N / A，其中F_N为轴力，A为横截面积。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "强度条件",
+            "content": "保证杆件安全工作而不发生强度破坏的条件。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "强度条件公式",
+                "content": "σ_max = (F_N / A)_max ≤ [σ]，其中[σ]为许用应力。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "胡克定律",
+            "content": "描述材料在弹性范围内应力与应变关系的定律。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "胡克定律公式",
+                "content": "σ = Eε，其中E为弹性模量。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "剪切与挤压",
+        "content": "构件受到一对大小相等、方向相反、作用线相距很近的横向力作用。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "剪切变形特点",
+            "content": "介于两力之间的截面发生相对错动。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "剪切强度条件",
+            "content": "保证连接件不发生剪切破坏的条件。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "切应力计算公式",
+                "content": "τ = F_Q / A_s，其中F_Q为剪力，A_s为剪切面面积。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "挤压强度条件",
+            "content": "保证连接件与被连接件接触表面不因局部承压而破坏的条件。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "挤压应力计算公式",
+                "content": "σ_bs = F_bs / A_bs，其中F_bs为挤压力，A_bs为有效挤压面积。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "扭转",
+        "content": "杆件受到大小相等、方向相反、作用面垂直于杆件轴线的两个力偶作用。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "扭矩与扭矩图",
+            "content": "杆件受扭时横截面上的内力偶矩。表示扭矩沿杆件轴线变化情况的图形。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "圆轴扭转横截面上的应力",
+            "content": "横截面上只有切应力，沿半径方向线性分布。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "切应力公式",
+                "content": "τ_ρ = (T * ρ) / I_p，其中T为扭矩，ρ为点到圆心的距离，I_p为极惯性矩。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "扭转强度条件",
+            "content": "保证圆轴不发生扭转强度破坏的条件。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "强度条件公式",
+                "content": "τ_max = T_max / W_p ≤ [τ]，其中W_p为抗扭截面系数。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "扭转角计算",
+            "content": "计算圆轴扭转变形时两横截面间的相对转角。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "扭转角公式",
+                "content": "φ = (T L) / (G I_p)，其中L为长度，G为切变模量。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "弯曲内力",
+        "content": "杆件受到垂直于其轴线的外力作用时，轴线由直线变为曲线。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "剪力与弯矩",
+            "content": "弯曲时横截面上的内力分量：平行于截面的力为剪力，作用面在纵向对称面内的内力偶矩为弯矩。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "剪力方程与弯矩方程",
+            "content": "表示剪力和弯矩随截面位置变化的函数关系。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "剪力图与弯矩图",
+            "content": "表示剪力和弯矩沿梁轴线变化情况的图形。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "弯曲应力",
+        "content": "研究梁弯曲时横截面上的正应力和切应力分布规律。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "纯弯曲与横力弯曲",
+            "content": "纯弯曲：梁段内各横截面上的剪力为零，弯矩为常数；横力弯曲：梁段内既有弯矩又有剪力。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "弯曲正应力",
+            "content": "纯弯曲梁横截面上只有正应力，沿截面高度线性分布。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "弯曲正应力公式",
+                "content": "σ = (M * y) / I_z，其中M为弯矩，y为点到中性轴的距离，I_z为截面对中性轴的惯性矩。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "弯曲切应力",
+            "content": "横力弯曲梁横截面上存在的切应力。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "矩形截面梁弯曲切应力公式",
+                "content": "τ = (F_S * S_z*) / (I_z * b)，其中F_S为剪力，S_z*为横截面上距中性轴为y的横线以外部分面积对中性轴的静矩，b为截面宽度。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "弯曲强度条件",
+            "content": "保证梁不发生弯曲强度破坏的条件。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "正应力强度条件",
+                "content": "σ_max = M_max / W_z ≤ [σ]，其中W_z为抗弯截面系数。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "应力状态与强度理论",
+        "content": "研究一点处不同方位截面上应力的关系，以及材料在各种应力状态下的失效判据。",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "一点的应力状态",
+            "content": "通过一点所有不同方位截面上应力的集合。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "平面应力状态分析",
+            "content": "分析平面应力状态下任意斜截面上的应力、主应力和主方向。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "应力圆（莫尔圆）",
+                "content": "用图解法表示一点应力状态的方法。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "强度理论",
+            "content": "关于材料破坏或失效原因的假说。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "最大拉应力理论（第一强度理论）",
+                "content": "认为材料的破坏是由最大拉应力引起的。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "最大伸长线应变理论（第二强度理论）",
+                "content": "认为材料的破坏是由最大伸长线应变引起的。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "最大切应力理论（第三强度理论）",
+                "content": "认为材料的屈服是由最大切应力引起的。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "形状改变比能理论（第四强度理论）",
+                "content": "认为材料的屈服是由形状改变比能达到极限值引起的。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "压杆稳定",
+        "content": "研究细长压杆保持直线平衡状态稳定性的问题。",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "压杆失稳的概念",
+            "content": "细长压杆在轴向压力作用下，不能维持直线平衡状态而突然变弯的现象。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "临界力与临界应力",
+            "content": "使压杆保持微弯平衡状态的最小压力称为临界力，相应的应力称为临界应力。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "欧拉公式",
+            "content": "计算理想细长压杆临界力的公式。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "欧拉公式表达式",
+                "content": "F_cr = (π² E I) / (μ l)²，其中μ为长度因数，与杆端约束有关。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "压杆的稳定性计算",
+            "content": "对实际压杆进行稳定性校核的方法。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "安全因数法",
+                "content": "F ≤ F_cr / n_st，其中n_st为稳定安全因数。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "材料力学",
+      "tail": "基本概念",
+      "relation": "包含"
+    },
+    {
+      "head": "基本概念",
+      "tail": "应力",
+      "relation": "包含"
+    },
+    {
+      "head": "应力",
+      "tail": "正应力",
+      "relation": "包含"
+    },
+    {
+      "head": "应力",
+      "tail": "切应力",
+      "relation": "包含"
+    },
+    {
+      "head": "基本概念",
+      "tail": "应变",
+      "relation": "包含"
+    },
+    {
+      "head": "应变",
+      "tail": "线应变",
+      "relation": "包含"
+    },
+    {
+      "head": "应变",
+      "tail": "切应变",
+      "relation": "包含"
+    },
+    {
+      "head": "基本概念",
+      "tail": "基本假设",
+      "relation": "包含"
+    },
+    {
+      "head": "基本假设",
+      "tail": "连续性假设",
+      "relation": "包含"
+    },
+    {
+      "head": "基本假设",
+      "tail": "均匀性假设",
+      "relation": "包含"
+    },
+    {
+      "head": "基本假设",
+      "tail": "各向同性假设",
+      "relation": "包含"
+    },
+    {
+      "head": "材料力学",
+      "tail": "轴向拉伸与压缩",
+      "relation": "包含"
+    },
+    {
+      "head": "轴向拉伸与压缩",
+      "tail": "轴力与轴力图",
+      "relation": "包含"
+    },
+    {
+      "head": "轴向拉伸与压缩",
+      "tail": "横截面上的应力",
+      "relation": "包含"
+    },
+    {
+      "head": "横截面上的应力",
+      "tail": "应力公式",
+      "relation": "推导出"
+    },
+    {
+      "head": "轴向拉伸与压缩",
+      "tail": "强度条件",
+      "relation": "包含"
+    },
+    {
+      "head": "强度条件",
+      "tail": "强度条件公式",
+      "relation": "推导出"
+    },
+    {
+      "head": "轴向拉伸与压缩",
+      "tail": "胡克定律",
+      "relation": "包含"
+    },
+    {
+      "head": "胡克定律",
+      "tail": "胡克定律公式",
+      "relation": "推导出"
+    },
+    {
+      "head": "胡克定律公式",
+      "tail": "弹性模量",
+      "relation": "涉及"
+    },
+    {
+      "head": "材料力学",
+      "tail": "剪切与挤压",
+      "relation": "包含"
+    },
+    {
+      "head": "剪切与挤压",
+      "tail": "剪切强度条件",
+      "relation": "包含"
+    },
+    {
+      "head": "剪切强度条件",
+      "tail": "切应力计算公式",
+      "relation": "推导出"
+    },
+    {
+      "head": "剪切与挤压",
+      "tail": "挤压强度条件",
+      "relation": "包含"
+    },
+    {
+      "head": "挤压强度条件",
+      "tail": "挤压应力计算公式",
+      "relation": "推导出"
+    },
+    {
+      "head": "材料力学",
+      "tail": "扭转",
+      "relation": "包含"
+    },
+    {
+      "head": "扭转",
+      "tail": "扭矩与扭矩图",
+      "relation": "包含"
+    },
+    {
+      "head": "扭转",
+      "tail": "圆轴扭转横截面上的应力",
+      "relation": "包含"
+    },
+    {
+      "head": "圆轴扭转横截面上的应力",
+      "tail": "切应力公式",
+      "relation": "推导出"
+    },
+    {
+      "head": "扭转",
+      "tail": "扭转强度条件",
+      "relation": "包含"
+    },
+    {
+      "head": "扭转强度条件",
+      "tail": "强度条件公式",
+      "relation": "推导出"
+    },
+    {
+      "head": "扭转",
+      "tail": "扭转角计算",
+      "relation": "包含"
+    },
+    {
+      "head": "扭转角计算",
+      "tail": "扭转角公式",
+      "relation": "推导出"
+    },
+    {
+      "head": "扭转角公式",
+      "tail": "切变模量",
+      "relation": "涉及"
+    },
+    {
+      "head": "材料力学",
+      "tail": "弯曲内力",
+      "relation": "包含"
+    },
+    {
+      "head": "弯曲内力",
+      "tail": "剪力与弯矩",
+      "relation": "包含"
+    },
+    {
+      "head": "弯曲内力",
+      "tail": "剪力方程与弯矩方程",
+      "relation": "包含"
+    },
+    {
+      "head": "弯曲内力",
+      "tail": "剪力图与弯矩图",
+      "relation": "包含"
+    },
+    {
+      "head": "材料力学",
+      "tail": "弯曲应力",
+      "relation": "包含"
+    },
+    {
+      "head": "弯曲应力",
+      "tail": "纯弯曲与横力弯曲",
+      "relation": "包含"
+    },
+    {
+      "head": "弯曲应力",
+      "tail": "弯曲正应力",
+      "relation": "包含"
+    },
+    {
+      "head": "弯曲正应力",
+      "tail": "弯曲正应力公式",
+      "relation": "推导出"
+    },
+    {
+      "head": "弯曲应力",
+      "tail": "弯曲切应力",
+      "relation": "包含"
+    },
+    {
+      "head": "弯曲切应力",
+      "tail": "矩形截面梁弯曲切应力公式",
+      "relation": "推导出"
+    },
+    {
+      "head": "弯曲应力",
+      "tail": "弯曲强度条件",
+      "relation": "包含"
+    },
+    {
+      "head": "弯曲强度条件",
+      "tail": "正应力强度条件",
+      "relation": "推导出"
+    },
+    {
+      "head": "材料力学",
+      "tail": "应力状态与强度理论",
+      "relation": "包含"
+    },
+    {
+      "head": "应力状态与强度理论",
+      "tail": "一点的应力状态",
+      "relation": "包含"
+    },
+    {
+      "head": "应力状态与强度理论",
+      "tail": "平面应力状态分析",
+      "relation": "包含"
+    },
+    {
+      "head": "平面应力状态分析",
+      "tail": "应力圆（莫尔圆）",
+      "relation": "应用于"
+    },
+    {
+      "head": "应力状态与强度理论",
+      "tail": "强度理论",
+      "relation": "包含"
+    },
+    {
+      "head": "强度理论",
+      "tail": "最大拉应力理论",
+      "relation": "包含"
+    },
+    {
+      "head": "强度理论",
+      "tail": "最大伸长线应变理论",
+      "relation": "包含"
+    },
+    {
+      "head": "强度理论",
+      "tail": "最大切应力理论",
+      "relation": "包含"
+    },
+    {
+      "head": "强度理论",
+      "tail": "形状改变比能理论",
+      "relation": "包含"
+    },
+    {
+      "head": "材料力学",
+      "tail": "压杆稳定",
+      "relation": "包含"
+    },
+    {
+      "head": "压杆稳定",
+      "tail": "压杆失稳的概念",
+      "relation": "包含"
+    },
+    {
+      "head": "压杆稳定",
+      "tail": "临界力与临界应力",
+      "relation": "包含"
+    },
+    {
+      "head": "压杆稳定",
+      "tail": "欧拉公式",
+      "relation": "包含"
+    },
+    {
+      "head": "欧拉公式",
+      "tail": "欧拉公式表达式",
+      "relation": "推导出"
+    },
+    {
+      "head": "压杆稳定",
+      "tail": "压杆的稳定性计算",
+      "relation": "包含"
+    },
+    {
+      "head": "压杆的稳定性计算",
+      "tail": "安全因数法",
+      "relation": "应用于"
+    },
+    {
+      "head": "胡克定律",
+      "tail": "轴向拉伸与压缩",
+      "relation": "应用于"
+    },
+    {
+      "head": "应力",
+      "tail": "强度条件",
+      "relation": "是计算基础"
+    },
+    {
+      "head": "应变",
+      "tail": "胡克定律",
+      "relation": "是计算基础"
+    },
+    {
+      "head": "弯曲内力",
+      "tail": "弯曲应力",
+      "relation": "是计算基础"
+    },
+    {
+      "head": "一点的应力状态",
+      "tail": "强度理论",
+      "relation": "是应用前提"
+    },
+    {
+      "head": "欧拉公式",
+      "tail": "压杆的稳定性计算",
+      "relation": "是计算基础"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 16:53:50",
+    "version": "1.1"
+  }
+}

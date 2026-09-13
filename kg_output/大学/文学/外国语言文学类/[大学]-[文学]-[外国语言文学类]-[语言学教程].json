@@ -1,0 +1,322 @@
+{
+  "knowledge_tree": {
+    "title": "语言学教程",
+    "content": "语言学基础理论与核心概念",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "语言的定义与特征",
+        "content": "语言是人类用于交际的符号系统，具有任意性、双重性、创造性、移位性等特征",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "任意性",
+            "content": "语言符号的形式和意义之间没有必然联系",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "双重性",
+            "content": "语言具有音系和语法两个层次结构",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "创造性",
+            "content": "语言使用者可以生成和理解无限数量的新句子",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "语音学",
+        "content": "研究语言声音的物理属性和生理特性",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "音段音位",
+            "content": "元音和辅音的发音特征分类",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "元音分类",
+                "content": "根据舌位高低、前后和唇形圆展分类",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "辅音分类",
+                "content": "根据发音部位和发音方法分类",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "超音段音位",
+            "content": "重音、语调、音高等韵律特征",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "音系学",
+        "content": "研究语言中语音的功能和模式",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "音位",
+            "content": "能够区别意义的最小语音单位",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "音位变体",
+            "content": "同一音位在不同语境中的实际发音变体",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "音位规则",
+            "content": "制约音位组合和变化的规律",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "形态学",
+        "content": "研究词的内部结构和构词规则",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "语素",
+            "content": "最小的有意义的语言单位",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "自由语素",
+                "content": "能够独立成词的语素",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "粘着语素",
+                "content": "必须依附于其他语素才能出现的语素",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "构词法",
+            "content": "派生、复合、转化等构词方式",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "句法学",
+        "content": "研究句子结构和组词成句的规则",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "短语结构规则",
+            "content": "S→NP VP等生成句子的基本规则",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "转换规则",
+            "content": "被动化、疑问句转换等句法操作",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "X-bar理论",
+            "content": "描述短语结构的普遍模式",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "语义学",
+        "content": "研究语言单位的意义",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "指称意义",
+            "content": "词语与外部世界事物的关系",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "涵义关系",
+            "content": "同义、反义、上下义等语义关系",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "语用学",
+        "content": "研究语言在语境中的使用和理解",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "言语行为理论",
+            "content": "表述、指令、承诺等言语行为分类",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "合作原则",
+            "content": "格赖斯的会话合作原则",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "语言的定义与特征",
+      "tail": "任意性",
+      "relation": "包含"
+    },
+    {
+      "head": "语言的定义与特征",
+      "tail": "双重性",
+      "relation": "包含"
+    },
+    {
+      "head": "语言的定义与特征",
+      "tail": "创造性",
+      "relation": "包含"
+    },
+    {
+      "head": "语音学",
+      "tail": "音段音位",
+      "relation": "研究"
+    },
+    {
+      "head": "语音学",
+      "tail": "超音段音位",
+      "relation": "研究"
+    },
+    {
+      "head": "音段音位",
+      "tail": "元音分类",
+      "relation": "包含"
+    },
+    {
+      "head": "音段音位",
+      "tail": "辅音分类",
+      "relation": "包含"
+    },
+    {
+      "head": "音系学",
+      "tail": "音位",
+      "relation": "基于"
+    },
+    {
+      "head": "音系学",
+      "tail": "音位规则",
+      "relation": "研究"
+    },
+    {
+      "head": "音位",
+      "tail": "音位变体",
+      "relation": "具有"
+    },
+    {
+      "head": "形态学",
+      "tail": "语素",
+      "relation": "研究"
+    },
+    {
+      "head": "形态学",
+      "tail": "构词法",
+      "relation": "研究"
+    },
+    {
+      "head": "语素",
+      "tail": "自由语素",
+      "relation": "分类为"
+    },
+    {
+      "head": "语素",
+      "tail": "粘着语素",
+      "relation": "分类为"
+    },
+    {
+      "head": "句法学",
+      "tail": "短语结构规则",
+      "relation": "基于"
+    },
+    {
+      "head": "句法学",
+      "tail": "转换规则",
+      "relation": "应用"
+    },
+    {
+      "head": "句法学",
+      "tail": "X-bar理论",
+      "relation": "基于"
+    },
+    {
+      "head": "语义学",
+      "tail": "指称意义",
+      "relation": "研究"
+    },
+    {
+      "head": "语义学",
+      "tail": "涵义关系",
+      "relation": "研究"
+    },
+    {
+      "head": "语用学",
+      "tail": "言语行为理论",
+      "relation": "基于"
+    },
+    {
+      "head": "语用学",
+      "tail": "合作原则",
+      "relation": "基于"
+    },
+    {
+      "head": "双重性",
+      "tail": "音系层次",
+      "relation": "体现于"
+    },
+    {
+      "head": "双重性",
+      "tail": "语法层次",
+      "relation": "体现于"
+    },
+    {
+      "head": "构词法",
+      "tail": "派生构词",
+      "relation": "包含"
+    },
+    {
+      "head": "构词法",
+      "tail": "复合构词",
+      "relation": "包含"
+    },
+    {
+      "head": "短语结构规则",
+      "tail": "句子生成",
+      "relation": "用于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:21:46",
+    "version": "1.1"
+  }
+}

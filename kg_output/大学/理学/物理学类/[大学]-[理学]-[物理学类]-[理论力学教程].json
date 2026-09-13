@@ -1,0 +1,573 @@
+{
+  "knowledge_tree": {
+    "title": "理论力学教程",
+    "content": "理论力学是研究物体机械运动基本规律的学科，是物理学的重要基础。",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "牛顿力学",
+        "content": "以牛顿运动定律为基础，研究宏观物体在惯性系中的运动规律。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "质点运动学",
+            "content": "描述质点位置、速度、加速度随时间的变化，不涉及力的原因。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "位置矢量",
+                "content": "描述质点在空间中位置的矢量，通常用r表示。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "速度矢量",
+                "content": "位置矢量对时间的一阶导数，v=dr/dt，描述运动快慢和方向。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "加速度矢量",
+                "content": "速度矢量对时间的一阶导数，a=dv/dt，描述速度变化率。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "直角坐标系中的运动描述",
+                "content": "将运动分解为x、y、z三个方向的独立运动进行分析。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "自然坐标系中的运动描述",
+                "content": "沿轨迹切线方向和法线方向分解运动，适用于曲线运动分析。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "质点动力学",
+            "content": "研究质点运动与受力之间的关系，以牛顿定律为核心。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "牛顿第一定律",
+                "content": "惯性定律：物体在不受外力作用时保持静止或匀速直线运动状态。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "牛顿第二定律",
+                "content": "F=ma，物体加速度与合外力成正比，与质量成反比，方向与外力相同。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "牛顿第三定律",
+                "content": "作用力与反作用力定律：两个物体间的作用力大小相等、方向相反。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "动量定理",
+                "content": "质点动量的变化率等于所受合外力，dp/dt=F。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "角动量定理",
+                "content": "质点角动量的变化率等于所受合外力矩，dL/dt=M。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "质点系力学",
+            "content": "研究多个质点组成的系统的运动规律。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "质心运动定理",
+                "content": "质点系质心的运动如同一个质点，其质量等于系统总质量，所受合外力等于系统所受合外力。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "动量守恒定律",
+                "content": "当系统所受合外力为零时，系统总动量守恒。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "角动量守恒定律",
+                "content": "当系统所受合外力矩为零时，系统总角动量守恒。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "机械能守恒定律",
+                "content": "当只有保守力做功时，系统机械能守恒。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "刚体力学",
+            "content": "研究形状和大小不变的理想物体的运动规律。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "刚体的平动",
+                "content": "刚体上所有点的运动轨迹相同，可用质心运动描述。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "刚体的定轴转动",
+                "content": "刚体绕固定轴旋转，用角位移、角速度、角加速度描述。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "转动惯量",
+                "content": "刚体转动惯性的量度，与质量分布和转轴位置有关。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "刚体平面运动",
+                "content": "刚体在平面内的运动，可分解为平动和转动的合成。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "分析力学",
+        "content": "以能量和功为基础，用广义坐标描述力学系统的更普遍方法。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "约束与广义坐标",
+            "content": "用最少的独立坐标描述受约束系统的位形。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "完整约束",
+                "content": "约束方程可积，仅限制系统位形，不限制速度。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "非完整约束",
+                "content": "约束方程不可积，既限制位形又限制速度。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "广义坐标",
+                "content": "描述系统位形的独立变量，数目等于系统自由度。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "虚功原理",
+            "content": "受理想约束的力学系统平衡的充要条件是所有主动力在任意虚位移上做功之和为零。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "达朗贝尔原理",
+            "content": "将动力学问题转化为静力学问题处理的方法。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "拉格朗日方程",
+            "content": "基于广义坐标的动力学基本方程，d(∂L/∂q̇)/dt - ∂L/∂q = Q。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "拉格朗日函数",
+                "content": "L=T-V，动能与势能之差。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "保守系统的拉格朗日方程",
+                "content": "当主动力均为保守力时，d(∂L/∂q̇)/dt - ∂L/∂q = 0。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "哈密顿力学",
+            "content": "用广义坐标和广义动量描述力学系统的另一种方法。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "哈密顿函数",
+                "content": "H=Σp_i q̇_i - L，系统的总能量。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "哈密顿正则方程",
+                "content": "q̇_i = ∂H/∂p_i, ṗ_i = -∂H/∂q_i，一阶微分方程组。",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "泊松括号",
+                "content": "{f,g} = Σ(∂f/∂q_i ∂g/∂p_i - ∂f/∂p_i ∂g/∂q_i)，描述物理量随时间演化的工具。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "专题与应用",
+        "content": "理论力学在具体问题中的应用和拓展。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "振动理论",
+            "content": "研究物体在平衡位置附近的周期性运动。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "简谐振动",
+                "content": "最简单的周期性振动，位移随时间按正弦或余弦规律变化。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "阻尼振动",
+                "content": "考虑阻力作用的振动，振幅随时间衰减。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "受迫振动",
+                "content": "在周期性外力作用下的振动，可能出现共振现象。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "有心力场运动",
+            "content": "研究质点在指向固定中心的力场中的运动。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "开普勒定律",
+                "content": "描述行星绕太阳运动的三条经验定律。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "比耐公式",
+                "content": "求解有心力场中轨道微分方程的重要公式。",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "散射问题",
+                "content": "研究粒子流在有心力场中的偏转问题。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "刚体定点转动",
+            "content": "研究刚体绕固定点转动的复杂运动。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "欧拉角",
+                "content": "描述刚体方位的三个独立角度参数。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "欧拉动力学方程",
+                "content": "描述刚体定点转动的动力学方程。",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "陀螺运动",
+                "content": "刚体定点转动的典型实例，具有进动和章动现象。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "理论力学教程",
+      "tail": "牛顿力学",
+      "relation": "包含"
+    },
+    {
+      "head": "理论力学教程",
+      "tail": "分析力学",
+      "relation": "包含"
+    },
+    {
+      "head": "理论力学教程",
+      "tail": "专题与应用",
+      "relation": "包含"
+    },
+    {
+      "head": "牛顿力学",
+      "tail": "质点运动学",
+      "relation": "包含"
+    },
+    {
+      "head": "牛顿力学",
+      "tail": "质点动力学",
+      "relation": "包含"
+    },
+    {
+      "head": "牛顿力学",
+      "tail": "质点系力学",
+      "relation": "包含"
+    },
+    {
+      "head": "牛顿力学",
+      "tail": "刚体力学",
+      "relation": "包含"
+    },
+    {
+      "head": "质点运动学",
+      "tail": "位置矢量",
+      "relation": "基于"
+    },
+    {
+      "head": "质点运动学",
+      "tail": "速度矢量",
+      "relation": "基于"
+    },
+    {
+      "head": "质点运动学",
+      "tail": "加速度矢量",
+      "relation": "基于"
+    },
+    {
+      "head": "质点动力学",
+      "tail": "牛顿第一定律",
+      "relation": "基于"
+    },
+    {
+      "head": "质点动力学",
+      "tail": "牛顿第二定律",
+      "relation": "基于"
+    },
+    {
+      "head": "质点动力学",
+      "tail": "牛顿第三定律",
+      "relation": "基于"
+    },
+    {
+      "head": "质点动力学",
+      "tail": "动量定理",
+      "relation": "推导出"
+    },
+    {
+      "head": "质点动力学",
+      "tail": "角动量定理",
+      "relation": "推导出"
+    },
+    {
+      "head": "质点系力学",
+      "tail": "质心运动定理",
+      "relation": "基于"
+    },
+    {
+      "head": "质点系力学",
+      "tail": "动量守恒定律",
+      "relation": "推导出"
+    },
+    {
+      "head": "质点系力学",
+      "tail": "角动量守恒定律",
+      "relation": "推导出"
+    },
+    {
+      "head": "质点系力学",
+      "tail": "机械能守恒定律",
+      "relation": "推导出"
+    },
+    {
+      "head": "刚体力学",
+      "tail": "刚体的平动",
+      "relation": "包含"
+    },
+    {
+      "head": "刚体力学",
+      "tail": "刚体的定轴转动",
+      "relation": "包含"
+    },
+    {
+      "head": "刚体力学",
+      "tail": "转动惯量",
+      "relation": "基于"
+    },
+    {
+      "head": "刚体力学",
+      "tail": "刚体平面运动",
+      "relation": "包含"
+    },
+    {
+      "head": "分析力学",
+      "tail": "约束与广义坐标",
+      "relation": "基于"
+    },
+    {
+      "head": "分析力学",
+      "tail": "虚功原理",
+      "relation": "基于"
+    },
+    {
+      "head": "分析力学",
+      "tail": "达朗贝尔原理",
+      "relation": "基于"
+    },
+    {
+      "head": "分析力学",
+      "tail": "拉格朗日方程",
+      "relation": "基于"
+    },
+    {
+      "head": "分析力学",
+      "tail": "哈密顿力学",
+      "relation": "包含"
+    },
+    {
+      "head": "拉格朗日方程",
+      "tail": "拉格朗日函数",
+      "relation": "基于"
+    },
+    {
+      "head": "哈密顿力学",
+      "tail": "哈密顿函数",
+      "relation": "基于"
+    },
+    {
+      "head": "哈密顿力学",
+      "tail": "哈密顿正则方程",
+      "relation": "基于"
+    },
+    {
+      "head": "哈密顿力学",
+      "tail": "泊松括号",
+      "relation": "基于"
+    },
+    {
+      "head": "专题与应用",
+      "tail": "振动理论",
+      "relation": "包含"
+    },
+    {
+      "head": "专题与应用",
+      "tail": "有心力场运动",
+      "relation": "包含"
+    },
+    {
+      "head": "专题与应用",
+      "tail": "刚体定点转动",
+      "relation": "包含"
+    },
+    {
+      "head": "振动理论",
+      "tail": "简谐振动",
+      "relation": "包含"
+    },
+    {
+      "head": "振动理论",
+      "tail": "阻尼振动",
+      "relation": "包含"
+    },
+    {
+      "head": "振动理论",
+      "tail": "受迫振动",
+      "relation": "包含"
+    },
+    {
+      "head": "有心力场运动",
+      "tail": "开普勒定律",
+      "relation": "应用于"
+    },
+    {
+      "head": "有心力场运动",
+      "tail": "比耐公式",
+      "relation": "基于"
+    },
+    {
+      "head": "刚体定点转动",
+      "tail": "欧拉角",
+      "relation": "基于"
+    },
+    {
+      "head": "刚体定点转动",
+      "tail": "欧拉动力学方程",
+      "relation": "基于"
+    },
+    {
+      "head": "刚体定点转动",
+      "tail": "陀螺运动",
+      "relation": "实例"
+    },
+    {
+      "head": "牛顿第二定律",
+      "tail": "动量定理",
+      "relation": "等价于"
+    },
+    {
+      "head": "角动量定理",
+      "tail": "角动量守恒定律",
+      "relation": "推导出"
+    },
+    {
+      "head": "动量定理",
+      "tail": "动量守恒定律",
+      "relation": "推导出"
+    },
+    {
+      "head": "拉格朗日方程",
+      "tail": "哈密顿力学",
+      "relation": "发展为"
+    },
+    {
+      "head": "虚功原理",
+      "tail": "达朗贝尔原理",
+      "relation": "扩展为"
+    },
+    {
+      "head": "达朗贝尔原理",
+      "tail": "拉格朗日方程",
+      "relation": "推导出"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:12:14",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "knowledge_tree": {
+    "title": "纺织品染整工艺学",
+    "content": "研究纺织品染整加工的基本原理、工艺过程、设备及质量控制",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "染整前处理",
+        "content": "去除纤维上的天然杂质、浆料及油剂，提高织物润湿性和白度",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "退浆",
+            "content": "去除织造过程中施加的浆料",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "退浆方法",
+                "content": "包括酶退浆、碱退浆、氧化剂退浆等",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "酶退浆原理",
+                    "content": "利用淀粉酶水解淀粉浆料",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "碱退浆原理",
+                    "content": "利用热碱液使浆料膨化溶解",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "退浆质量评定",
+                "content": "通过失重法、碘试法评定退浆效果",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "精炼",
+            "content": "去除纤维上的蜡质、果胶、蛋白质等天然杂质",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "棉织物精炼",
+                "content": "采用烧碱高温处理去除棉纤维共生物",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "毛织物精炼",
+                "content": "采用洗毛工艺去除羊毛脂、羊汗等杂质",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "漂白",
+            "content": "破坏纤维中的天然色素，提高织物白度",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "次氯酸钠漂白",
+                "content": "利用次氯酸钠的氧化作用破坏色素",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "双氧水漂白",
+                "content": "利用过氧化氢的氧化作用，白度稳定性好",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "染色",
+        "content": "使染料与纤维结合，赋予纺织品颜色",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "染色基本理论",
+            "content": "染料在纤维上的吸附、扩散、固着过程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "吸附等温线",
+                "content": "描述染料在纤维与溶液间的分配关系",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "朗缪尔吸附",
+                    "content": "适用于染料在纤维定位吸附",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "弗莱因德利希吸附",
+                    "content": "适用于非定位吸附",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "扩散系数",
+                "content": "染料在纤维内部扩散速率的度量",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "染色方法",
+            "content": "按设备和工艺分类的染色方式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "浸染",
+                "content": "织物浸渍在染液中的间歇式染色",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "轧染",
+                "content": "织物浸轧染液后的连续式染色",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "染料分类",
+            "content": "按化学结构和应用性能分类",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "直接染料",
+                "content": "直接上染纤维素纤维的水溶性染料",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "活性染料",
+                "content": "与纤维形成共价键的染料，湿处理牢度高",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "印花",
+        "content": "在织物上局部施加染料或颜料形成图案",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "印花方法",
+            "content": "按工艺特点分类的印花技术",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "直接印花",
+                "content": "将色浆直接印于白布或浅色布上",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "防染印花",
+                "content": "先印防染浆后染地色",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "印花糊料",
+            "content": "赋予色浆粘稠度的亲水性高分子化合物",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "糊料作用",
+                "content": "防止花纹渗化，作为染料传递载体",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "整理",
+        "content": "改善纺织品外观、手感、形态稳定性和服用性能",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "机械整理",
+            "content": "通过物理机械作用改善织物性能",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "拉幅整理",
+                "content": "调整织物门幅，消除内应力",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "预缩整理",
+                "content": "降低织物缩水率",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "化学整理",
+            "content": "通过化学药剂赋予织物特殊功能",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "树脂整理",
+                "content": "提高棉织物抗皱性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "防水整理",
+                "content": "赋予织物拒水性能",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "染整前处理",
+      "tail": "退浆",
+      "relation": "包含"
+    },
+    {
+      "head": "染整前处理",
+      "tail": "精炼",
+      "relation": "包含"
+    },
+    {
+      "head": "染整前处理",
+      "tail": "漂白",
+      "relation": "包含"
+    },
+    {
+      "head": "退浆",
+      "tail": "退浆方法",
+      "relation": "包含"
+    },
+    {
+      "head": "退浆方法",
+      "tail": "酶退浆原理",
+      "relation": "包含"
+    },
+    {
+      "head": "退浆方法",
+      "tail": "碱退浆原理",
+      "relation": "包含"
+    },
+    {
+      "head": "酶退浆原理",
+      "tail": "淀粉酶",
+      "relation": "使用"
+    },
+    {
+      "head": "碱退浆原理",
+      "tail": "热碱液",
+      "relation": "使用"
+    },
+    {
+      "head": "退浆",
+      "tail": "退浆质量评定",
+      "relation": "包含"
+    },
+    {
+      "head": "退浆质量评定",
+      "tail": "失重法",
+      "relation": "采用"
+    },
+    {
+      "head": "退浆质量评定",
+      "tail": "碘试法",
+      "relation": "采用"
+    },
+    {
+      "head": "精炼",
+      "tail": "棉织物精炼",
+      "relation": "包含"
+    },
+    {
+      "head": "精炼",
+      "tail": "毛织物精炼",
+      "relation": "包含"
+    },
+    {
+      "head": "棉织物精炼",
+      "tail": "烧碱",
+      "relation": "使用"
+    },
+    {
+      "head": "毛织物精炼",
+      "tail": "洗毛工艺",
+      "relation": "采用"
+    },
+    {
+      "head": "漂白",
+      "tail": "次氯酸钠漂白",
+      "relation": "包含"
+    },
+    {
+      "head": "漂白",
+      "tail": "双氧水漂白",
+      "relation": "包含"
+    },
+    {
+      "head": "次氯酸钠漂白",
+      "tail": "氧化作用",
+      "relation": "基于"
+    },
+    {
+      "head": "双氧水漂白",
+      "tail": "氧化作用",
+      "relation": "基于"
+    },
+    {
+      "head": "染色",
+      "tail": "染色基本理论",
+      "relation": "包含"
+    },
+    {
+      "head": "染色",
+      "tail": "染色方法",
+      "relation": "包含"
+    },
+    {
+      "head": "染色",
+      "tail": "染料分类",
+      "relation": "包含"
+    },
+    {
+      "head": "染色基本理论",
+      "tail": "吸附等温线",
+      "relation": "包含"
+    },
+    {
+      "head": "染色基本理论",
+      "tail": "扩散系数",
+      "relation": "包含"
+    },
+    {
+      "head": "吸附等温线",
+      "tail": "朗缪尔吸附",
+      "relation": "包含"
+    },
+    {
+      "head": "吸附等温线",
+      "tail": "弗莱因德利希吸附",
+      "relation": "包含"
+    },
+    {
+      "head": "染色方法",
+      "tail": "浸染",
+      "relation": "包含"
+    },
+    {
+      "head": "染色方法",
+      "tail": "轧染",
+      "relation": "包含"
+    },
+    {
+      "head": "染料分类",
+      "tail": "直接染料",
+      "relation": "包含"
+    },
+    {
+      "head": "染料分类",
+      "tail": "活性染料",
+      "relation": "包含"
+    },
+    {
+      "head": "直接染料",
+      "tail": "纤维素纤维",
+      "relation": "应用于"
+    },
+    {
+      "head": "活性染料",
+      "tail": "共价键",
+      "relation": "形成"
+    },
+    {
+      "head": "印花",
+      "tail": "印花方法",
+      "relation": "包含"
+    },
+    {
+      "head": "印花",
+      "tail": "印花糊料",
+      "relation": "包含"
+    },
+    {
+      "head": "印花方法",
+      "tail": "直接印花",
+      "relation": "包含"
+    },
+    {
+      "head": "印花方法",
+      "tail": "防染印花",
+      "relation": "包含"
+    },
+    {
+      "head": "印花糊料",
+      "tail": "糊料作用",
+      "relation": "包含"
+    },
+    {
+      "head": "整理",
+      "tail": "机械整理",
+      "relation": "包含"
+    },
+    {
+      "head": "整理",
+      "tail": "化学整理",
+      "relation": "包含"
+    },
+    {
+      "head": "机械整理",
+      "tail": "拉幅整理",
+      "relation": "包含"
+    },
+    {
+      "head": "机械整理",
+      "tail": "预缩整理",
+      "relation": "包含"
+    },
+    {
+      "head": "化学整理",
+      "tail": "树脂整理",
+      "relation": "包含"
+    },
+    {
+      "head": "化学整理",
+      "tail": "防水整理",
+      "relation": "包含"
+    },
+    {
+      "head": "树脂整理",
+      "tail": "抗皱性",
+      "relation": "提高"
+    },
+    {
+      "head": "防水整理",
+      "tail": "拒水性能",
+      "relation": "赋予"
+    },
+    {
+      "head": "染整前处理",
+      "tail": "染色",
+      "relation": " precedes "
+    },
+    {
+      "head": "染色",
+      "tail": "印花",
+      "relation": " precedes "
+    },
+    {
+      "head": "印花",
+      "tail": "整理",
+      "relation": " precedes "
+    },
+    {
+      "head": "吸附等温线",
+      "tail": "染色基本理论",
+      "relation": "属于"
+    },
+    {
+      "head": "扩散系数",
+      "tail": "染色基本理论",
+      "relation": "属于"
+    },
+    {
+      "head": "朗缪尔吸附",
+      "tail": "定位吸附",
+      "relation": "适用于"
+    },
+    {
+      "head": "弗莱因德利希吸附",
+      "tail": "非定位吸附",
+      "relation": "适用于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:44:40",
+    "version": "1.1"
+  }
+}

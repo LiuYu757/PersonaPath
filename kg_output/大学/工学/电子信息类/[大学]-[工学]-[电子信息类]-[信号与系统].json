@@ -1,0 +1,652 @@
+{
+  "knowledge_tree": {
+    "title": "信号与系统",
+    "content": "研究确定性信号的特性和线性时不变系统的分析方法",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "信号的基本概念",
+        "content": "信号是信息的载体，通常表示为时间的函数",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "信号的分类",
+            "content": "按不同特性对信号进行分类的方法",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "连续时间信号与离散时间信号",
+                "content": "连续时间信号在时间上连续变化，离散时间信号只在离散时间点有定义",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "周期信号与非周期信号",
+                "content": "周期信号满足x(t+T)=x(t)，非周期信号不满足周期性",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "能量信号与功率信号",
+                "content": "能量信号的总能量有限，功率信号的平均功率有限",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "确定信号与随机信号",
+                "content": "确定信号可以用明确的数学表达式描述，随机信号具有不确定性",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "基本信号",
+            "content": "构成复杂信号的基本单元信号",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "单位阶跃信号",
+                "content": "u(t) = 1当t≥0，u(t) = 0当t<0",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "单位冲激信号",
+                "content": "δ(t)在t=0处为无穷大，其他位置为0，且积分为1",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "复指数信号",
+                "content": "e^(st)其中s=σ+jω为复频率",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "正弦信号",
+                "content": "Asin(ωt+φ)或Acos(ωt+φ)",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "信号的基本运算",
+            "content": "对信号进行的基本数学操作",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "信号的时移",
+                "content": "x(t) → x(t-t₀)",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "信号的尺度变换",
+                "content": "x(t) → x(at)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "信号的翻转",
+                "content": "x(t) → x(-t)",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "信号的微分与积分",
+                "content": "对信号进行微分或积分运算",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "系统的基本概念",
+        "content": "系统是对信号进行处理的物理装置或算法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "系统的分类",
+            "content": "按不同特性对系统进行分类",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "线性系统与非线性系统",
+                "content": "线性系统满足叠加性和齐次性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "时变系统与时不变系统",
+                "content": "时不变系统的特性不随时间变化",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "因果系统与非因果系统",
+                "content": "因果系统的输出只取决于当前和过去的输入",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "稳定系统与不稳定系统",
+                "content": "稳定系统对有界输入产生有界输出",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "LTI系统的特性",
+            "content": "线性时不变系统的基本性质",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "卷积特性",
+                "content": "LTI系统的输出等于输入与冲激响应的卷积",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "频率响应",
+                "content": "系统对不同频率正弦信号的响应特性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "微分方程描述",
+                "content": "连续时间LTI系统可以用线性常系数微分方程描述",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "傅里叶分析",
+        "content": "将信号分解为不同频率正弦分量的分析方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "连续时间傅里叶级数",
+            "content": "将周期信号表示为正弦信号的加权和",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "傅里叶级数公式",
+                "content": "x(t) = Σ[aₖcos(kω₀t) + bₖsin(kω₀t)]",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "指数形式傅里叶级数",
+                "content": "x(t) = Σcₖe^(jkω₀t)",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "傅里叶系数计算",
+                "content": "通过积分计算各频率分量的系数",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "连续时间傅里叶变换",
+            "content": "将非周期信号表示为连续频率谱",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "傅里叶变换对",
+                "content": "X(ω) = ∫x(t)e^(-jωt)dt, x(t) = (1/2π)∫X(ω)e^(jωt)dω",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "傅里叶变换的性质",
+                "content": "线性、时移、频移、尺度变换、卷积等性质",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "常见信号的傅里叶变换",
+                "content": "冲激信号、阶跃信号、矩形脉冲、正弦信号等的频谱",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "拉普拉斯变换",
+        "content": "扩展的傅里叶变换，用于分析不稳定系统和瞬态响应",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "拉普拉斯变换定义",
+            "content": "X(s) = ∫x(t)e^(-st)dt，其中s=σ+jω",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "双边拉普拉斯变换",
+                "content": "积分区间为(-∞, +∞)",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "单边拉普拉斯变换",
+                "content": "积分区间为[0, +∞)，用于因果系统",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "拉普拉斯变换的性质",
+            "content": "线性、时移、s域平移、卷积、微分、积分等性质",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "拉普拉斯逆变换",
+            "content": "从s域变换回时域的方法",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "部分分式展开法",
+                "content": "将有理函数分解为简单分式之和",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Z变换",
+        "content": "离散时间系统的频域分析工具",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "Z变换定义",
+            "content": "X(z) = Σx[n]z^(-n)",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "Z变换的性质",
+            "content": "线性、时移、z域尺度变换、卷积等性质",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "Z逆变换",
+            "content": "从z域变换回时域的方法",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "信号与系统课程中的典型问题类型",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "信号运算题",
+            "content": "对给定信号进行基本运算",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "系统特性判断题",
+            "content": "判断给定系统的线性、时不变性、因果性等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "卷积计算题",
+            "content": "计算两个信号的卷积",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "傅里叶变换计算题",
+            "content": "计算信号的傅里叶变换或逆变换",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "系统响应分析题",
+            "content": "分析LTI系统对特定输入的响应",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "信号与系统",
+      "tail": "信号的基本概念",
+      "relation": "包含"
+    },
+    {
+      "head": "信号与系统",
+      "tail": "系统的基本概念",
+      "relation": "包含"
+    },
+    {
+      "head": "信号与系统",
+      "tail": "傅里叶分析",
+      "relation": "包含"
+    },
+    {
+      "head": "信号与系统",
+      "tail": "拉普拉斯变换",
+      "relation": "包含"
+    },
+    {
+      "head": "信号与系统",
+      "tail": "Z变换",
+      "relation": "包含"
+    },
+    {
+      "head": "信号与系统",
+      "tail": "典型例题类型",
+      "relation": "包含"
+    },
+    {
+      "head": "信号的基本概念",
+      "tail": "信号的分类",
+      "relation": "包含"
+    },
+    {
+      "head": "信号的基本概念",
+      "tail": "基本信号",
+      "relation": "包含"
+    },
+    {
+      "head": "信号的基本概念",
+      "tail": "信号的基本运算",
+      "relation": "包含"
+    },
+    {
+      "head": "信号的分类",
+      "tail": "连续时间信号与离散时间信号",
+      "relation": "包含"
+    },
+    {
+      "head": "信号的分类",
+      "tail": "周期信号与非周期信号",
+      "relation": "包含"
+    },
+    {
+      "head": "信号的分类",
+      "tail": "能量信号与功率信号",
+      "relation": "包含"
+    },
+    {
+      "head": "信号的分类",
+      "tail": "确定信号与随机信号",
+      "relation": "包含"
+    },
+    {
+      "head": "基本信号",
+      "tail": "单位阶跃信号",
+      "relation": "包含"
+    },
+    {
+      "head": "基本信号",
+      "tail": "单位冲激信号",
+      "relation": "包含"
+    },
+    {
+      "head": "基本信号",
+      "tail": "复指数信号",
+      "relation": "包含"
+    },
+    {
+      "head": "基本信号",
+      "tail": "正弦信号",
+      "relation": "包含"
+    },
+    {
+      "head": "信号的基本运算",
+      "tail": "信号的时移",
+      "relation": "包含"
+    },
+    {
+      "head": "信号的基本运算",
+      "tail": "信号的尺度变换",
+      "relation": "包含"
+    },
+    {
+      "head": "信号的基本运算",
+      "tail": "信号的翻转",
+      "relation": "包含"
+    },
+    {
+      "head": "信号的基本运算",
+      "tail": "信号的微分与积分",
+      "relation": "包含"
+    },
+    {
+      "head": "系统的基本概念",
+      "tail": "系统的分类",
+      "relation": "包含"
+    },
+    {
+      "head": "系统的基本概念",
+      "tail": "LTI系统的特性",
+      "relation": "包含"
+    },
+    {
+      "head": "系统的分类",
+      "tail": "线性系统与非线性系统",
+      "relation": "包含"
+    },
+    {
+      "head": "系统的分类",
+      "tail": "时变系统与时不变系统",
+      "relation": "包含"
+    },
+    {
+      "head": "系统的分类",
+      "tail": "因果系统与非因果系统",
+      "relation": "包含"
+    },
+    {
+      "head": "系统的分类",
+      "tail": "稳定系统与不稳定系统",
+      "relation": "包含"
+    },
+    {
+      "head": "LTI系统的特性",
+      "tail": "卷积特性",
+      "relation": "包含"
+    },
+    {
+      "head": "LTI系统的特性",
+      "tail": "频率响应",
+      "relation": "包含"
+    },
+    {
+      "head": "LTI系统的特性",
+      "tail": "微分方程描述",
+      "relation": "包含"
+    },
+    {
+      "head": "傅里叶分析",
+      "tail": "连续时间傅里叶级数",
+      "relation": "包含"
+    },
+    {
+      "head": "傅里叶分析",
+      "tail": "连续时间傅里叶变换",
+      "relation": "包含"
+    },
+    {
+      "head": "连续时间傅里叶级数",
+      "tail": "傅里叶级数公式",
+      "relation": "包含"
+    },
+    {
+      "head": "连续时间傅里叶级数",
+      "tail": "指数形式傅里叶级数",
+      "relation": "包含"
+    },
+    {
+      "head": "连续时间傅里叶级数",
+      "tail": "傅里叶系数计算",
+      "relation": "包含"
+    },
+    {
+      "head": "连续时间傅里叶变换",
+      "tail": "傅里叶变换对",
+      "relation": "包含"
+    },
+    {
+      "head": "连续时间傅里叶变换",
+      "tail": "傅里叶变换的性质",
+      "relation": "包含"
+    },
+    {
+      "head": "连续时间傅里叶变换",
+      "tail": "常见信号的傅里叶变换",
+      "relation": "包含"
+    },
+    {
+      "head": "拉普拉斯变换",
+      "tail": "拉普拉斯变换定义",
+      "relation": "包含"
+    },
+    {
+      "head": "拉普拉斯变换",
+      "tail": "拉普拉斯变换的性质",
+      "relation": "包含"
+    },
+    {
+      "head": "拉普拉斯变换",
+      "tail": "拉普拉斯逆变换",
+      "relation": "包含"
+    },
+    {
+      "head": "拉普拉斯变换定义",
+      "tail": "双边拉普拉斯变换",
+      "relation": "包含"
+    },
+    {
+      "head": "拉普拉斯变换定义",
+      "tail": "单边拉普拉斯变换",
+      "relation": "包含"
+    },
+    {
+      "head": "拉普拉斯逆变换",
+      "tail": "部分分式展开法",
+      "relation": "包含"
+    },
+    {
+      "head": "Z变换",
+      "tail": "Z变换定义",
+      "relation": "包含"
+    },
+    {
+      "head": "Z变换",
+      "tail": "Z变换的性质",
+      "relation": "包含"
+    },
+    {
+      "head": "Z变换",
+      "tail": "Z逆变换",
+      "relation": "包含"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "信号运算题",
+      "relation": "包含"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "系统特性判断题",
+      "relation": "包含"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "卷积计算题",
+      "relation": "包含"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "傅里叶变换计算题",
+      "relation": "包含"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "系统响应分析题",
+      "relation": "包含"
+    },
+    {
+      "head": "单位冲激信号",
+      "tail": "卷积特性",
+      "relation": "用于推导"
+    },
+    {
+      "head": "线性系统",
+      "tail": "叠加性",
+      "relation": "具有"
+    },
+    {
+      "head": "线性系统",
+      "tail": "齐次性",
+      "relation": "具有"
+    },
+    {
+      "head": "傅里叶变换",
+      "tail": "频域分析",
+      "relation": "用于"
+    },
+    {
+      "head": "拉普拉斯变换",
+      "tail": "s域分析",
+      "relation": "用于"
+    },
+    {
+      "head": "Z变换",
+      "tail": "z域分析",
+      "relation": "用于"
+    },
+    {
+      "head": "卷积特性",
+      "tail": "系统响应分析",
+      "relation": "应用于"
+    },
+    {
+      "head": "傅里叶级数",
+      "tail": "周期信号分析",
+      "relation": "专门用于"
+    },
+    {
+      "head": "拉普拉斯变换",
+      "tail": "微分方程求解",
+      "relation": "简化"
+    },
+    {
+      "head": "稳定系统",
+      "tail": "有界输入有界输出",
+      "relation": "定义为"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:30:56",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,607 @@
+{
+  "knowledge_tree": {
+    "title": "空间向量与立体几何",
+    "content": "空间向量的概念、运算、坐标表示及其在立体几何中的应用",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "空间向量及其运算",
+        "content": "空间向量的定义、表示、模、零向量、单位向量、相反向量、共线向量、相等向量",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "空间向量的概念",
+            "content": "具有大小和方向的量叫做空间向量，用有向线段表示，长度表示模",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "向量的模",
+                "content": "空间向量的大小叫做向量的长度或模",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "零向量",
+                "content": "长度为0的向量，记为0",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "单位向量",
+                "content": "模为1的向量",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "相反向量",
+                "content": "与向量长度相等而方向相反的向量",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "共线向量",
+                "content": "表示向量的有向线段所在直线互相平行或重合",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "相等向量",
+                "content": "方向相同且模相等的向量",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "空间向量的线性运算",
+            "content": "加法、减法、数乘运算及运算律",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "加法运算",
+                "content": "平行四边形法则或三角形法则",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "减法运算",
+                "content": "加上相反向量",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "数乘运算",
+                "content": "实数与向量的乘法",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "运算律",
+                "content": "交换律、结合律、分配律",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "共线向量定理",
+            "content": "向量a与b共线的充要条件是存在实数λ，使a=λb",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "共面向量定理",
+            "content": "向量p与不共线向量a,b共面的充要条件是存在唯一实数对(x,y)，使p=xa+yb",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "空间向量的数量积",
+        "content": "空间向量数量积的定义、运算律、投影",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "数量积定义",
+            "content": "a·b=|a||b|cos⟨a,b⟩",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "运算律",
+            "content": "(λa)·b=λ(a·b), a·b=b·a, (a+b)·c=a·c+b·c",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "投影向量",
+            "content": "向量在另一向量或平面上的投影",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "空间向量基本定理",
+        "content": "如果三个向量a,b,c不共面，那么对任意空间向量p，存在唯一有序实数组(x,y,z)，使p=xa+yb+zc",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "基底",
+            "content": "空间任意三个不共面的向量都可以构成空间的一个基底",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "单位正交基底",
+            "content": "三个基向量两两垂直且长度都为1，常用{i,j,k}表示",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "坐标表示",
+            "content": "在单位正交基底下，向量可表示为坐标形式",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "空间向量的坐标表示",
+        "content": "空间直角坐标系的建立，点和向量的坐标表示",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "空间直角坐标系",
+            "content": "以O为原点，以i,j,k的方向为正方向建立x,y,z轴",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "点的坐标",
+            "content": "点P的坐标(x,y,z)满足OP=xi+yj+zk",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "向量的坐标",
+            "content": "向量a=(x,y,z)表示a=xi+yj+zk",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "坐标运算",
+            "content": "向量的加减、数乘、数量积的坐标表示",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "平行与垂直的坐标条件",
+            "content": "a∥b⇔坐标成比例，a⊥b⇔x1x2+y1y2+z1z2=0",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "距离公式",
+            "content": "两点间距离公式",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "空间向量的应用",
+        "content": "用空间向量解决立体几何中的位置关系和度量问题",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "点的向量表示",
+            "content": "用位置向量表示点",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "直线的向量表示",
+            "content": "用点和方向向量表示直线",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "平面的向量表示",
+            "content": "用点和两个不共线向量或点法式表示平面",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "法向量",
+            "content": "与平面垂直的非零向量称为平面的法向量",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "平行与垂直的向量判定",
+            "content": "用方向向量和法向量判定直线、平面间的平行垂直关系",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "距离问题",
+            "content": "点到直线、点到平面、直线到平面、平面到平面的距离计算",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "角度问题",
+            "content": "异面直线所成角、直线与平面所成角、二面角的计算",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "直线的倾斜角与斜率",
+        "content": "直线的倾斜角和斜率是描述直线方向的重要概念。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "倾斜角的定义",
+            "content": "直线与x轴正方向所成的角称为倾斜角，范围是0°到180°。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "斜率的定义",
+            "content": "斜率是倾斜角的正切值，表示直线的倾斜程度。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "斜率公式",
+            "content": "给定两点P1(x1,y1)和P2(x2,y2)，斜率k=(y2-y1)/(x2-x1)。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "直线方程",
+        "content": "直线的方程有多种形式，包括点斜式、斜截式、两点式、截距式和一般式。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "点斜式方程",
+            "content": "已知一点(x0,y0)和斜率k，方程为y-y0=k(x-x0)。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "斜截式方程",
+            "content": "已知斜率k和y轴截距b，方程为y=kx+b。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "两点式方程",
+            "content": "已知两点(x1,y1)和(x2,y2)，方程为(y-y1)/(y2-y1)=(x-x1)/(x2-x1)。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "截距式方程",
+            "content": "已知x轴截距a和y轴截距b，方程为x/a + y/b =1。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "一般式方程",
+            "content": "直线的一般方程为Ax+By+C=0，其中A、B不同时为0。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "交点坐标与距离公式",
+        "content": "研究两条直线的交点坐标，以及点到直线的距离、两点间距离等公式。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "两条直线的交点",
+            "content": "解两条直线的方程组成的方程组，得到交点坐标。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "两点间距离公式",
+            "content": "两点P1(x1,y1)和P2(x2,y2)的距离为√[(x2-x1)²+(y2-y1)²]。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "点到直线的距离公式",
+            "content": "点P(x0,y0)到直线Ax+By+C=0的距离为|Ax0+By0+C|/√(A²+B²)。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "两条平行直线间的距离",
+            "content": "两条平行直线Ax+By+C1=0和Ax+By+C2=0的距离为|C1-C2|/√(A²+B²)。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "圆的方程",
+        "content": "圆的方程包括标准方程和一般方程。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "圆的标准方程",
+            "content": "圆心为(a,b)，半径为r的圆的标准方程为(x-a)²+(y-b)²=r²。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "圆的一般方程",
+            "content": "圆的一般方程为x²+y²+Dx+Ey+F=0，需满足D²+E²-4F>0。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "直线与圆、圆与圆的位置关系",
+        "content": "研究直线与圆、圆与圆之间的位置关系，包括相交、相切和相离。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "直线与圆的位置关系",
+            "content": "通过比较圆心到直线的距离与半径的大小来判断位置关系。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "圆与圆的位置关系",
+            "content": "通过比较圆心距与两圆半径之和或差的大小来判断位置关系。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "空间向量",
+      "tail": "向量的模",
+      "relation": "具有"
+    },
+    {
+      "head": "空间向量",
+      "tail": "零向量",
+      "relation": "包含"
+    },
+    {
+      "head": "空间向量",
+      "tail": "单位向量",
+      "relation": "包含"
+    },
+    {
+      "head": "空间向量",
+      "tail": "相反向量",
+      "relation": "包含"
+    },
+    {
+      "head": "空间向量",
+      "tail": "共线向量",
+      "relation": "包含"
+    },
+    {
+      "head": "空间向量",
+      "tail": "相等向量",
+      "relation": "包含"
+    },
+    {
+      "head": "空间向量",
+      "tail": "线性运算",
+      "relation": "具有"
+    },
+    {
+      "head": "线性运算",
+      "tail": "加法运算",
+      "relation": "包含"
+    },
+    {
+      "head": "线性运算",
+      "tail": "减法运算",
+      "relation": "包含"
+    },
+    {
+      "head": "线性运算",
+      "tail": "数乘运算",
+      "relation": "包含"
+    },
+    {
+      "head": "线性运算",
+      "tail": "运算律",
+      "relation": "遵循"
+    },
+    {
+      "head": "空间向量",
+      "tail": "数量积",
+      "relation": "具有"
+    },
+    {
+      "head": "数量积",
+      "tail": "投影向量",
+      "relation": "产生"
+    },
+    {
+      "head": "空间向量",
+      "tail": "空间向量基本定理",
+      "relation": "基于"
+    },
+    {
+      "head": "空间向量基本定理",
+      "tail": "基底",
+      "relation": "需要"
+    },
+    {
+      "head": "基底",
+      "tail": "单位正交基底",
+      "relation": "特殊形式"
+    },
+    {
+      "head": "空间向量",
+      "tail": "坐标表示",
+      "relation": "可以表示为"
+    },
+    {
+      "head": "坐标表示",
+      "tail": "空间直角坐标系",
+      "relation": "建立在"
+    },
+    {
+      "head": "坐标表示",
+      "tail": "点的坐标",
+      "relation": "表示"
+    },
+    {
+      "head": "坐标表示",
+      "tail": "向量的坐标",
+      "relation": "表示"
+    },
+    {
+      "head": "坐标表示",
+      "tail": "坐标运算",
+      "relation": "支持"
+    },
+    {
+      "head": "坐标表示",
+      "tail": "平行与垂直的坐标条件",
+      "relation": "提供"
+    },
+    {
+      "head": "坐标表示",
+      "tail": "距离公式",
+      "relation": "推导出"
+    },
+    {
+      "head": "空间向量",
+      "tail": "立体几何应用",
+      "relation": "用于解决"
+    },
+    {
+      "head": "立体几何应用",
+      "tail": "点的向量表示",
+      "relation": "使用"
+    },
+    {
+      "head": "立体几何应用",
+      "tail": "直线的向量表示",
+      "relation": "使用"
+    },
+    {
+      "head": "立体几何应用",
+      "tail": "平面的向量表示",
+      "relation": "使用"
+    },
+    {
+      "head": "平面的向量表示",
+      "tail": "法向量",
+      "relation": "涉及"
+    },
+    {
+      "head": "立体几何应用",
+      "tail": "平行与垂直的向量判定",
+      "relation": "通过"
+    },
+    {
+      "head": "立体几何应用",
+      "tail": "距离问题",
+      "relation": "解决"
+    },
+    {
+      "head": "立体几何应用",
+      "tail": "角度问题",
+      "relation": "解决"
+    },
+    {
+      "head": "共线向量定理",
+      "tail": "方向向量",
+      "relation": "用于确定"
+    },
+    {
+      "head": "共面向量定理",
+      "tail": "平面内的向量",
+      "relation": "描述"
+    },
+    {
+      "head": "数量积",
+      "tail": "夹角计算",
+      "relation": "用于"
+    },
+    {
+      "head": "法向量",
+      "tail": "平面方程",
+      "relation": "用于表示"
+    },
+    {
+      "head": "直线的倾斜角",
+      "tail": "斜率",
+      "relation": "定义关系"
+    },
+    {
+      "head": "点斜式方程",
+      "tail": "斜截式方程",
+      "relation": "特殊形式"
+    },
+    {
+      "head": "两点式方程",
+      "tail": "斜截式方程",
+      "relation": "推导关系"
+    },
+    {
+      "head": "截距式方程",
+      "tail": "一般式方程",
+      "relation": "特殊形式"
+    },
+    {
+      "head": "两点间距离公式",
+      "tail": "勾股定理",
+      "relation": "基于"
+    },
+    {
+      "head": "点到直线的距离公式",
+      "tail": "向量法",
+      "relation": "推导方法"
+    },
+    {
+      "head": "圆的标准方程",
+      "tail": "圆的一般方程",
+      "relation": "等价形式"
+    },
+    {
+      "head": "直线与圆的位置关系",
+      "tail": "圆心到直线的距离",
+      "relation": "判断依据"
+    },
+    {
+      "head": "圆与圆的位置关系",
+      "tail": "圆心距",
+      "relation": "判断依据"
+    },
+    {
+      "head": "斜率",
+      "tail": "方向向量",
+      "relation": "关联关系"
+    }
+  ],
+  "metadata": {
+    "chunks_merged": 2,
+    "generated_at": "2025-11-13 15:25:41",
+    "version": "1.1"
+  }
+}

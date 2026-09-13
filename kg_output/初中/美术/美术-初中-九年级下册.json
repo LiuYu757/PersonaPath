@@ -1,0 +1,618 @@
+{
+  "knowledge_tree": {
+    "title": "美术九年级下册",
+    "content": "九年级下册美术课程，涵盖外国美术名作欣赏、世界遗产保护、动漫艺术、20世纪中国美术及毕业创作等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元 外国美术名作巡礼",
+        "content": "欣赏亚洲、非洲、欧洲、美洲等地区的美术名作，了解不同文化的艺术特色",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第1课 丰富多彩的亚非拉美术作品",
+            "content": "欣赏亚洲、非洲、拉丁美洲地区的美术作品，了解其文化背景和艺术特色",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "亚洲美术作品",
+                "content": "包括伊朗浮雕、印度壁画、日本浮世绘、柬埔寨吴哥窟等",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "伊朗武士浮雕",
+                    "content": "约公元前500年，表现戎装武士形象，展现古代波斯艺术风格",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "印度阿旃陀石窟壁画",
+                    "content": "6世纪佛教壁画，持莲花菩萨形象对佛教造像影响深远",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "非洲美术作品",
+                "content": "包括埃及狮身人面像等古埃及艺术",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "埃及狮身人面像",
+                    "content": "公元前2600-前2500年，古埃及统治者建立的人工纪念碑",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "拉丁美洲美术作品",
+                "content": "包括墨西哥太阳金字塔等古代印第安人艺术",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "墨西哥太阳金字塔",
+                    "content": "约2世纪，古印第安人祭祀太阳神的建筑",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第2课 各具特色的欧美美术作品",
+            "content": "欣赏欧洲和美国从古典到现代的美术作品",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "古典时期美术",
+                "content": "古希腊古罗马至文艺复兴时期的美术",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "罗马大角斗场",
+                    "content": "72-82年，古代罗马公共建筑，采用多重拱廊结构",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "雅典学院",
+                    "content": "拉斐尔1510-1511年创作的壁画，表现古希腊学者群像",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "17-19世纪美术",
+                "content": "巴洛克、印象派等艺术流派",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "夜巡",
+                    "content": "伦勃1638-1642年油画，运用光影表现技巧",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "日出·印象",
+                    "content": "莫奈1872年油画，印象派代表作",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "20世纪现代美术",
+                "content": "现代主义和后现代主义艺术流派",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "野兽派",
+                    "content": "马蒂斯等艺术家，强调色彩表现",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "立体派",
+                    "content": "毕加索等艺术家，打破传统造型方法",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "抽象派",
+                    "content": "康定斯基、波洛克等，追求非具象表现",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元 保护世界遗产",
+        "content": "了解世界遗产的概念、分类和保护意义",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "世界文化遗产",
+            "content": "具有突出普遍价值的文物、建筑群和遗址",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "中国世界文化遗产",
+                "content": "长城、莫高窟、布达拉宫、苏州园林等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "国外世界文化遗产",
+                "content": "埃及金字塔、印度泰姬陵、法国凡尔赛宫等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "世界自然遗产",
+            "content": "独特的自然面貌和生态环境",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "中国世界自然遗产",
+                "content": "九寨沟、武陵源、三江并流等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "文化与自然双重遗产",
+            "content": "人文与自然完美结合的世界遗产",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "泰山",
+                "content": "中国文化与自然双重遗产的典型代表",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三单元 动漫艺术",
+        "content": "学习动漫的基本知识和创作技巧",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第1课 形式和内容丰富的动漫",
+            "content": "了解动漫的多样表现形式和创作手法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "动漫表现形式",
+                "content": "包括动画片、漫画、动漫周边等多种形式",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "动漫发展历史",
+                "content": "从草图到漫画再到动漫的演变过程",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2课 动漫形象设计",
+            "content": "学习动漫角色的造型设计和表现方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "角色造型类型",
+                "content": "漫画风格、写实风格和其他绘画风格",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "角色表现特点",
+                "content": "夸张、拟人等表现手法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "表情设计",
+                "content": "喜、怒、哀、乐等基本表情的表现方法",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第3课 动画作品设计制作",
+            "content": "学习动画制作的基本流程和技巧",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "脚本设计",
+                "content": "文本脚本和绘图脚本的创作方法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "分镜设计",
+                "content": "运用电影镜头语言叙述故事",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "动画软件使用",
+                "content": "基本动画制作软件的操作方法",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第四单元 20世纪中国美术巡礼",
+        "content": "了解20世纪中国美术的发展历程和代表作品",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "20世纪上半期中国美术",
+            "content": "辛亥革命至新中国成立期间的中国美术",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "中国画改革与创新",
+                "content": "吴昌硕、齐白石、徐悲鸿等人的艺术创新",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "新兴木刻运动",
+                "content": "反映现实生活的木刻艺术发展",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "20世纪下半期中国美术",
+            "content": "新中国成立后的中国美术发展",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "中国画新高潮",
+                "content": "傅抱石、关山月、潘天寿等人的艺术成就",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "油画本土化",
+                "content": "中国油画民族化的发展历程",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "雕塑艺术发展",
+                "content": "人民英雄纪念碑等雕塑作品的创作",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第五单元 留下眷恋 带走真情",
+        "content": "综合运用美术技能进行毕业创作和表达",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "毕业纪念品设计",
+            "content": "设计制作各种形式的毕业纪念品",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "书画工艺作品",
+                "content": "绘画、书法、贺卡、剪纸等手工艺纪念品",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电子图像作品",
+                "content": "电子相册、电子纪念册等数字媒体作品",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "校园壁画设计",
+            "content": "为校园设计制作装饰性壁画",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "壁画构图形式",
+                "content": "平面式、空间式、分段式、向心式等构图方法",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "壁画表现手法",
+                "content": "写实、装饰、抽象、象征等艺术表现手法",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "摄影摄像技术",
+            "content": "学习基本的摄影摄像知识和技巧",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "摄影构图",
+                "content": "主体、陪体、环境的关系处理",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "光线运用",
+                "content": "顺光、侧光、逆光等光线效果",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "摄像技巧",
+                "content": "基本摄像知识和拍摄方法",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "外国美术名作巡礼",
+      "tail": "亚非拉美术作品",
+      "relation": "包含"
+    },
+    {
+      "head": "外国美术名作巡礼",
+      "tail": "欧美美术作品",
+      "relation": "包含"
+    },
+    {
+      "head": "亚非拉美术作品",
+      "tail": "伊朗武士浮雕",
+      "relation": "包含"
+    },
+    {
+      "head": "亚非拉美术作品",
+      "tail": "印度阿旃陀石窟壁画",
+      "relation": "包含"
+    },
+    {
+      "head": "欧美美术作品",
+      "tail": "古典时期美术",
+      "relation": "包含"
+    },
+    {
+      "head": "欧美美术作品",
+      "tail": "17-19世纪美术",
+      "relation": "包含"
+    },
+    {
+      "head": "欧美美术作品",
+      "tail": "20世纪现代美术",
+      "relation": "包含"
+    },
+    {
+      "head": "20世纪现代美术",
+      "tail": "野兽派",
+      "relation": "包含"
+    },
+    {
+      "head": "20世纪现代美术",
+      "tail": "立体派",
+      "relation": "包含"
+    },
+    {
+      "head": "20世纪现代美术",
+      "tail": "抽象派",
+      "relation": "包含"
+    },
+    {
+      "head": "保护世界遗产",
+      "tail": "世界文化遗产",
+      "relation": "包含"
+    },
+    {
+      "head": "保护世界遗产",
+      "tail": "世界自然遗产",
+      "relation": "包含"
+    },
+    {
+      "head": "保护世界遗产",
+      "tail": "文化与自然双重遗产",
+      "relation": "包含"
+    },
+    {
+      "head": "动漫艺术",
+      "tail": "动漫表现形式",
+      "relation": "包含"
+    },
+    {
+      "head": "动漫艺术",
+      "tail": "动漫形象设计",
+      "relation": "包含"
+    },
+    {
+      "head": "动漫艺术",
+      "tail": "动画作品制作",
+      "relation": "包含"
+    },
+    {
+      "head": "动漫形象设计",
+      "tail": "角色造型类型",
+      "relation": "包含"
+    },
+    {
+      "head": "动漫形象设计",
+      "tail": "角色表现特点",
+      "relation": "包含"
+    },
+    {
+      "head": "动漫形象设计",
+      "tail": "表情设计",
+      "relation": "包含"
+    },
+    {
+      "head": "20世纪中国美术",
+      "tail": "上半期中国美术",
+      "relation": "包含"
+    },
+    {
+      "head": "20世纪中国美术",
+      "tail": "下半期中国美术",
+      "relation": "包含"
+    },
+    {
+      "head": "毕业创作",
+      "tail": "毕业纪念品设计",
+      "relation": "包含"
+    },
+    {
+      "head": "毕业创作",
+      "tail": "校园壁画设计",
+      "relation": "包含"
+    },
+    {
+      "head": "毕业创作",
+      "tail": "摄影摄像技术",
+      "relation": "包含"
+    },
+    {
+      "head": "罗马大角斗场",
+      "tail": "多重拱廊结构",
+      "relation": "采用"
+    },
+    {
+      "head": "雅典学院",
+      "tail": "古希腊学者群像",
+      "relation": "表现"
+    },
+    {
+      "head": "夜巡",
+      "tail": "光影表现技巧",
+      "relation": "运用"
+    },
+    {
+      "head": "日出·印象",
+      "tail": "印象派",
+      "relation": "属于"
+    },
+    {
+      "head": "野兽派",
+      "tail": "色彩表现",
+      "relation": "强调"
+    },
+    {
+      "head": "立体派",
+      "tail": "打破传统造型",
+      "relation": "追求"
+    },
+    {
+      "head": "抽象派",
+      "tail": "非具象表现",
+      "relation": "追求"
+    },
+    {
+      "head": "世界文化遗产",
+      "tail": "突出普遍价值",
+      "relation": "具有"
+    },
+    {
+      "head": "动漫表现形式",
+      "tail": "多样艺术形式",
+      "relation": "包含"
+    },
+    {
+      "head": "角色造型类型",
+      "tail": "漫画风格",
+      "relation": "包括"
+    },
+    {
+      "head": "角色造型类型",
+      "tail": "写实风格",
+      "relation": "包括"
+    },
+    {
+      "head": "角色表现特点",
+      "tail": "夸张手法",
+      "relation": "运用"
+    },
+    {
+      "head": "角色表现特点",
+      "tail": "拟人手法",
+      "relation": "运用"
+    },
+    {
+      "head": "中国画改革",
+      "tail": "艺术创新",
+      "relation": "体现"
+    },
+    {
+      "head": "新兴木刻运动",
+      "tail": "反映现实生活",
+      "relation": "注重"
+    },
+    {
+      "head": "毕业纪念品设计",
+      "tail": "手工艺作品",
+      "relation": "包括"
+    },
+    {
+      "head": "毕业纪念品设计",
+      "tail": "数字媒体作品",
+      "relation": "包括"
+    },
+    {
+      "head": "校园壁画设计",
+      "tail": "多种构图形式",
+      "relation": "运用"
+    },
+    {
+      "head": "校园壁画设计",
+      "tail": "多样表现手法",
+      "relation": "运用"
+    },
+    {
+      "head": "摄影摄像技术",
+      "tail": "构图技巧",
+      "relation": "包含"
+    },
+    {
+      "head": "摄影摄像技术",
+      "tail": "光线运用",
+      "relation": "包含"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:15:16",
+    "version": "1.1"
+  }
+}

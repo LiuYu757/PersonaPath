@@ -1,0 +1,622 @@
+{
+  "knowledge_tree": {
+    "title": "选择性必修第三册数学",
+    "content": "高中选择性必修第三册数学，包含计数原理、随机变量及其分布、成对数据的统计分析三章内容",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "第六章 计数原理",
+        "content": "研究分类加法计数原理和分步乘法计数原理，以及排列、组合、二项式定理等问题",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "6.1 分类加法计数原理与分步乘法计数原理",
+            "content": "两个基本计数原理及其应用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "分类加法计数原理",
+                "content": "完成一件事有两类不同方案，在第1类方案中有m种方法，在第2类方案中有n种方法，那么完成这件事共有N=m+n种方法",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "分步乘法计数原理",
+                "content": "完成一件事需要两个步骤，做第1步有m种方法，做第2步有n种方法，那么完成这件事共有N=m×n种方法",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "原理的综合应用",
+                "content": "区分分类和分步问题，解决实际计数问题",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "6.2 排列与组合",
+            "content": "排列数、组合数的概念、公式和性质",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "排列的定义",
+                "content": "从n个不同元素中取出m(m≤n)个元素，并按照一定的顺序排成一列，叫做从n个不同元素中取出m个元素的一个排列",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "排列数公式",
+                "content": "Aₘⁿ = n(n-1)(n-2)...(n-m+1) = n!/(n-m)!",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "组合的定义",
+                "content": "从n个不同元素中取出m(m≤n)个元素作为一组，叫做从n个不同元素中取出m个元素的一个组合",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "组合数公式",
+                "content": "Cₘⁿ = Aₘⁿ/Aₘᵐ = n!/[m!(n-m)!]",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "组合数的性质",
+                "content": "Cₘⁿ = Cⁿ⁻ᵐⁿ, Cₘⁿ⁺¹ = Cₘⁿ + Cₘ⁻₁ⁿ",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "6.3 二项式定理",
+            "content": "二项式定理及其性质和应用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "二项式定理",
+                "content": "(a+b)ⁿ = ΣCₖⁿaⁿ⁻ᵏbᵏ, k=0 to n",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "通项公式",
+                "content": "Tₖ₊₁ = Cₖⁿaⁿ⁻ᵏbᵏ",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "二项式系数的性质",
+                "content": "对称性、增减性与最大值、各二项式系数的和",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第七章 随机变量及其分布",
+        "content": "研究条件概率、全概率公式、随机变量及其分布、数字特征等",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "7.1 条件概率与全概率公式",
+            "content": "条件概率的概念、计算和应用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "条件概率定义",
+                "content": "P(B|A) = P(AB)/P(A), P(A)>0",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "概率的乘法公式",
+                "content": "P(AB) = P(A)P(B|A)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "全概率公式",
+                "content": "P(B) = ΣP(Aᵢ)P(B|Aᵢ)",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "贝叶斯公式",
+                "content": "P(Aᵢ|B) = P(Aᵢ)P(B|Aᵢ)/P(B)",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "7.2 离散型随机变量及其分布列",
+            "content": "随机变量的概念和离散型随机变量的分布列",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "随机变量的定义",
+                "content": "对于样本空间Ω中的每个样本点ω，都有唯一的实数X(ω)与之对应，称X为随机变量",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "离散型随机变量",
+                "content": "可能取值为有限个或可以一一列举的随机变量",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "分布列",
+                "content": "表示随机变量取各个值的概率的表格或公式",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "两点分布",
+                "content": "X服从两点分布，P(X=1)=p, P(X=0)=1-p",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "7.3 离散型随机变量的数字特征",
+            "content": "随机变量的期望和方差",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "数学期望",
+                "content": "E(X) = Σxᵢpᵢ，反映随机变量取值的平均水平",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "方差",
+                "content": "D(X) = Σ(xᵢ-E(X))²pᵢ，反映随机变量取值的离散程度",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "期望的性质",
+                "content": "E(aX+b) = aE(X)+b",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "方差的性质",
+                "content": "D(aX+b) = a²D(X)",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "7.4 二项分布与超几何分布",
+            "content": "两种重要的离散型概率分布",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "二项分布",
+                "content": "X~B(n,p), P(X=k)=Cₖⁿpᵏ(1-p)ⁿ⁻ᵏ",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "超几何分布",
+                "content": "P(X=k)=CₖᴹCⁿ⁻ᵏᴺ⁻ᴹ/Cⁿᴺ",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "二项分布的期望和方差",
+                "content": "E(X)=np, D(X)=np(1-p)",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "随机变量",
+        "content": "表示随机试验结果的变量，分为离散型和连续型",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "离散型随机变量",
+            "content": "取值可以一一列出的随机变量",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "分布列",
+                "content": "描述离散型随机变量取各个值的概率",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "分布列的性质",
+                    "content": "非负性：P(X=x_i)≥0；规范性：ΣP(X=x_i)=1",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "连续型随机变量",
+            "content": "取值充满某个区间甚至整个实轴的随机变量，取一点的概率为0",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "概率密度函数",
+                "content": "描述连续型随机变量在某个取值附近的概率密度",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "数字特征",
+        "content": "描述随机变量分布特征的数字，如均值和方差",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "均值（数学期望）",
+            "content": "随机变量取值的加权平均，E(X)=Σx_i·P(X=x_i)（离散型）",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "均值的性质",
+                "content": "E(aX+b)=aE(X)+b，其中a,b为常数",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "方差",
+            "content": "描述随机变量取值与其均值的偏离程度，D(X)=E[(X-E(X))^2]",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "方差的性质",
+                "content": "D(aX+b)=a^2D(X)，其中a,b为常数",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "标准差",
+            "content": "方差的算术平方根，σ(X)=√D(X)",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "二项分布",
+        "content": "描述n重伯努利试验中成功次数的概率分布",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "伯努利试验",
+            "content": "只有两种可能结果的试验，如成功和失败",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "二项分布的定义",
+            "content": "若X~B(n,p)，则P(X=k)=C(n,k)p^k(1-p)^(n-k)，k=0,1,...,n",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "二项分布的均值和方差",
+            "content": "E(X)=np，D(X)=np(1-p)",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "二项分布的性质",
+            "content": "当p=0.5时对称；当p<0.5时向左偏倚；当p>0.5时向右偏倚",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "超几何分布",
+        "content": "描述不放回抽样中次品数的概率分布",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "超几何分布的定义",
+            "content": "若X~H(N,M,n)，则P(X=k)=C(M,k)C(N-M,n-k)/C(N,n)，k=max(0,n-N+M),...,min(n,M)",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "超几何分布的均值和方差",
+            "content": "E(X)=nM/N，D(X)=nM(N-M)(N-n)/[N^2(N-1)]",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "超几何分布与二项分布的关系",
+            "content": "当N远大于n时，超几何分布可用二项分布近似",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "正态分布",
+        "content": "连续型随机变量的分布，广泛存在于自然现象和生产实践中",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "正态分布的定义",
+            "content": "若X~N(μ,σ^2)，则其概率密度函数为f(x)=1/(σ√(2π))e^{-(x-μ)^2/(2σ^2)}",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "标准正态分布",
+            "content": "μ=0,σ=1的正态分布，记为N(0,1)",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "正态曲线的特点",
+            "content": "单峰，关于x=μ对称，在x=μ处取得最大值1/(σ√(2π))",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "3σ原则",
+            "content": "P(μ-3σ≤X≤μ+3σ)≈0.9973，即X的取值几乎总是落在[μ-3σ,μ+3σ]内",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "正态分布的均值和方差",
+            "content": "E(X)=μ，D(X)=σ^2",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "包括概率计算、分布列求解、数字特征计算、分布应用等",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "二项分布应用题",
+            "content": "如多次独立试验中成功次数的概率计算",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "超几何分布应用题",
+            "content": "如不放回抽样中次品数的概率计算",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "正态分布应用题",
+            "content": "如误差分析、质量控制等",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "分类加法计数原理",
+      "tail": "分步乘法计数原理",
+      "relation": "互为补充"
+    },
+    {
+      "head": "排列",
+      "tail": "组合",
+      "relation": "有序与无序的区别"
+    },
+    {
+      "head": "排列数公式",
+      "tail": "组合数公式",
+      "relation": "推导关系"
+    },
+    {
+      "head": "二项式定理",
+      "tail": "组合数",
+      "relation": "基于"
+    },
+    {
+      "head": "条件概率",
+      "tail": "概率的乘法公式",
+      "relation": "推导关系"
+    },
+    {
+      "head": "全概率公式",
+      "tail": "条件概率",
+      "relation": "基于"
+    },
+    {
+      "head": "贝叶斯公式",
+      "tail": "条件概率",
+      "relation": "基于"
+    },
+    {
+      "head": "随机变量",
+      "tail": "分布列",
+      "relation": "描述工具"
+    },
+    {
+      "head": "数学期望",
+      "tail": "随机变量",
+      "relation": "数字特征"
+    },
+    {
+      "head": "方差",
+      "tail": "数学期望",
+      "relation": "基于"
+    },
+    {
+      "head": "二项分布",
+      "tail": "伯努利试验",
+      "relation": "基于"
+    },
+    {
+      "head": "超几何分布",
+      "tail": "不放回抽样",
+      "relation": "应用于"
+    },
+    {
+      "head": "二项分布",
+      "tail": "超几何分布",
+      "relation": "抽样方式的区别"
+    },
+    {
+      "head": "随机变量",
+      "tail": "离散型随机变量",
+      "relation": "包含"
+    },
+    {
+      "head": "随机变量",
+      "tail": "连续型随机变量",
+      "relation": "包含"
+    },
+    {
+      "head": "离散型随机变量",
+      "tail": "分布列",
+      "relation": "具有"
+    },
+    {
+      "head": "分布列",
+      "tail": "分布列的性质",
+      "relation": "具有"
+    },
+    {
+      "head": "连续型随机变量",
+      "tail": "概率密度函数",
+      "relation": "具有"
+    },
+    {
+      "head": "随机变量",
+      "tail": "数字特征",
+      "relation": "具有"
+    },
+    {
+      "head": "数字特征",
+      "tail": "均值",
+      "relation": "包含"
+    },
+    {
+      "head": "数字特征",
+      "tail": "方差",
+      "relation": "包含"
+    },
+    {
+      "head": "数字特征",
+      "tail": "标准差",
+      "relation": "包含"
+    },
+    {
+      "head": "均值",
+      "tail": "均值的性质",
+      "relation": "具有"
+    },
+    {
+      "head": "方差",
+      "tail": "方差的性质",
+      "relation": "具有"
+    },
+    {
+      "head": "二项分布",
+      "tail": "二项分布的定义",
+      "relation": "由...定义"
+    },
+    {
+      "head": "二项分布",
+      "tail": "二项分布的均值和方差",
+      "relation": "具有"
+    },
+    {
+      "head": "二项分布",
+      "tail": "二项分布的性质",
+      "relation": "具有"
+    },
+    {
+      "head": "超几何分布",
+      "tail": "超几何分布的定义",
+      "relation": "由...定义"
+    },
+    {
+      "head": "超几何分布",
+      "tail": "超几何分布的均值和方差",
+      "relation": "具有"
+    },
+    {
+      "head": "超几何分布",
+      "tail": "二项分布",
+      "relation": "近似于"
+    },
+    {
+      "head": "正态分布",
+      "tail": "正态分布的定义",
+      "relation": "由...定义"
+    },
+    {
+      "head": "正态分布",
+      "tail": "标准正态分布",
+      "relation": "特殊形式"
+    },
+    {
+      "head": "正态分布",
+      "tail": "正态曲线的特点",
+      "relation": "具有"
+    },
+    {
+      "head": "正态分布",
+      "tail": "3σ原则",
+      "relation": "遵循"
+    },
+    {
+      "head": "正态分布",
+      "tail": "正态分布的均值和方差",
+      "relation": "具有"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "二项分布应用题",
+      "relation": "包含"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "超几何分布应用题",
+      "relation": "包含"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "正态分布应用题",
+      "relation": "包含"
+    }
+  ],
+  "metadata": {
+    "chunks_merged": 2,
+    "generated_at": "2025-11-12 22:32:22",
+    "version": "1.1"
+  }
+}

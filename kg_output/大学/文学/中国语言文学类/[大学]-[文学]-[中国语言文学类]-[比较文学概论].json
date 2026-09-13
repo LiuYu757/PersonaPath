@@ -1,0 +1,234 @@
+{
+  "knowledge_tree": {
+    "title": "比较文学概论",
+    "content": "比较文学是研究不同国家、民族、语言、文化背景下的文学现象之间相互关系、相互影响及其规律的学科。它跨越单一文学体系的界限，注重文学的国际性、跨文化性与跨学科性。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "比较文学的定义与性质",
+        "content": "比较文学是一门以国际视野研究文学关系与规律的学科，具有跨国界、跨语言、跨文化的特性。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "定义",
+            "content": "比较文学是对两种或多种民族文学之间相互作用的过程，以及文学与其他学科（如哲学、历史、艺术等）之间相互关系的比较研究。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "研究对象",
+            "content": "包括不同国家文学之间的影响关系、平行比较、跨学科比较等。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "学科性质",
+            "content": "具有开放性、交叉性和国际性，强调文学的世界性联系。",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "比较文学的研究方法",
+        "content": "比较文学的研究方法主要包括影响研究、平行研究、跨学科研究等。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "影响研究",
+            "content": "研究一国文学对另一国文学的实际影响关系，包括传播途径、接受过程与变异现象。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "流传学",
+                "content": "研究文学作品的传播路径与接受情况。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "媒介学",
+                "content": "研究文学传播的中介因素，如翻译、旅行、期刊等。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "渊源学",
+                "content": "追溯文学作品的来源与影响源头。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "平行研究",
+            "content": "研究无直接关联的文学现象之间的相似性与差异性，注重美学与文化的比较。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "主题学",
+                "content": "比较不同文学中相同或相似主题的表现。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "文类学",
+                "content": "研究文学体裁在不同文化中的演变与差异。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "比较诗学",
+                "content": "比较不同文化背景下的文学理论与批评方法。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "跨学科研究",
+            "content": "研究文学与其他学科（如哲学、历史、艺术、心理学等）的相互关系。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "比较文学的核心概念",
+        "content": "比较文学中的核心概念包括“影响”、“接受”、“变异”、“文化过滤”等。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "影响",
+            "content": "指一国文学对另一国文学在思想、题材、风格等方面的直接或间接作用。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "接受",
+            "content": "指外来文学在本土文化中被理解、吸收与再创造的过程。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "变异",
+            "content": "文学在跨文化传播中因文化差异而产生的变化现象。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "文化过滤",
+            "content": "接受者根据自身文化背景对外来文学进行选择与改造的过程。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "比较文学的典型例题包括影响关系分析、平行比较论证、跨学科阐释等。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "影响关系分析题",
+            "content": "例如：分析鲁迅作品如何受俄国文学影响。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "平行比较论证题",
+            "content": "例如：比较《红楼梦》与《源氏物语》中的女性形象。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "跨学科阐释题",
+            "content": "例如：探讨道家思想对中国古典小说叙事结构的影响。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "比较文学",
+      "tail": "影响研究",
+      "relation": "包含"
+    },
+    {
+      "head": "比较文学",
+      "tail": "平行研究",
+      "relation": "包含"
+    },
+    {
+      "head": "影响研究",
+      "tail": "流传学",
+      "relation": "包含"
+    },
+    {
+      "head": "影响研究",
+      "tail": "媒介学",
+      "relation": "包含"
+    },
+    {
+      "head": "影响研究",
+      "tail": "渊源学",
+      "relation": "包含"
+    },
+    {
+      "head": "平行研究",
+      "tail": "主题学",
+      "relation": "包含"
+    },
+    {
+      "head": "平行研究",
+      "tail": "文类学",
+      "relation": "包含"
+    },
+    {
+      "head": "平行研究",
+      "tail": "比较诗学",
+      "relation": "包含"
+    },
+    {
+      "head": "影响",
+      "tail": "接受",
+      "relation": "关联"
+    },
+    {
+      "head": "接受",
+      "tail": "文化过滤",
+      "relation": "基于"
+    },
+    {
+      "head": "文化过滤",
+      "tail": "变异",
+      "relation": "导致"
+    },
+    {
+      "head": "比较诗学",
+      "tail": "跨学科研究",
+      "relation": "关联"
+    },
+    {
+      "head": "主题学",
+      "tail": "典型例题类型",
+      "relation": "应用于"
+    },
+    {
+      "head": "文类学",
+      "tail": "典型例题类型",
+      "relation": "应用于"
+    },
+    {
+      "head": "影响研究",
+      "tail": "典型例题类型",
+      "relation": "应用于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:18:44",
+    "version": "1.1"
+  }
+}

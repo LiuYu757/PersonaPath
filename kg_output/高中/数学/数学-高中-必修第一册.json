@@ -1,0 +1,416 @@
+{
+  "knowledge_tree": {
+    "title": "集合与常用逻辑用语",
+    "content": "集合的基本概念、关系和运算；充分条件、必要条件、充要条件；全称量词与存在量词",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "集合的概念",
+        "content": "集合的定义、元素的特性（确定性、互异性、无序性）",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "集合的定义",
+            "content": "一般地，我们把研究对象统称为元素，把一些元素组成的总体叫做集合",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "元素的特性",
+            "content": "确定性：给定一个集合，元素在或不在集合中确定；互异性：集合中的元素互不相同；无序性：集合中的元素没有顺序",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "集合的表示方法",
+            "content": "列举法、描述法",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "列举法",
+                "content": "把集合的所有元素一一列举出来，用花括号括起来",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "描述法",
+                "content": "用集合中元素的共同特征表示集合，形式为{ x∈A | P(x) }",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "常见数集及其符号",
+            "content": "自然数集N、正整数集N*或N+、整数集Z、有理数集Q、实数集R",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "集合间的基本关系",
+        "content": "子集、真子集、集合相等",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "子集",
+            "content": "如果集合A中任意一个元素都是集合B的元素，则A是B的子集，记作A⊆B",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "真子集",
+            "content": "如果A⊆B，但存在元素x∈B且x∉A，则A是B的真子集，记作A⊂B",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "集合相等",
+            "content": "如果A⊆B且B⊆A，则集合A与B相等，记作A=B",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "空集",
+            "content": "不含任何元素的集合，记作∅，空集是任何集合的子集",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "集合的基本运算",
+        "content": "并集、交集、补集",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "并集",
+            "content": "由所有属于集合A或属于集合B的元素组成的集合，记作A∪B",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "交集",
+            "content": "由所有属于集合A且属于集合B的元素组成的集合，记作A∩B",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "补集",
+            "content": "对于一个集合A，由全集U中不属于集合A的所有元素组成的集合，记作∁UA",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "充分条件与必要条件",
+        "content": "充分条件、必要条件、充要条件",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "充分条件",
+            "content": "如果p能推出q，则p是q的充分条件",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "必要条件",
+            "content": "如果q能推出p，则p是q的必要条件",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "充要条件",
+            "content": "如果p能推出q且q能推出p，则p是q的充要条件",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "全称量词与存在量词",
+        "content": "全称量词命题与存在量词命题及其否定",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "全称量词",
+            "content": "短语'所有的''任意一个'等，用符号∀表示",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "存在量词",
+            "content": "短语'存在一个''至少有一个'等，用符号∃表示",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "全称量词命题的否定",
+            "content": "∀x∈M, p(x)的否定是∃x∈M, ¬p(x)",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "存在量词命题的否定",
+            "content": "∃x∈M, p(x)的否定是∀x∈M, ¬p(x)",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "集合的运算、充分必要条件的判断、量词命题的真假判断",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "集合的运算例题",
+            "content": "求集合的交、并、补集，如已知A={x|0<x<2}, B={x|1<x<3}, 求A∪B, A∩B",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "充分必要条件例题",
+            "content": "判断p是q的什么条件，如'x>1'是'x>0'的什么条件",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "量词命题例题",
+            "content": "判断全称量词命题和存在量词命题的真假，如'∀x∈R, x²≥0'的真假",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "对数函数的概念",
+        "content": "函数 y = log_a x (a > 0, a ≠ 1) 叫做对数函数，其中 x 是自变量，定义域为 (0, +∞)。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "对数函数的定义",
+            "content": "通过对数与指数的互逆关系定义：如果 a^y = x (a > 0, a ≠ 1)，那么 y = log_a x。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "定义域",
+            "content": "对数函数的定义域为 (0, +∞)，即真数必须大于0。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "值域",
+            "content": "对数函数的值域为全体实数 R。",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "对数函数的图象与性质",
+        "content": "对数函数的图象特征和单调性、奇偶性等性质。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "图象特征",
+            "content": "当 a > 1 时，图象上升；当 0 < a < 1 时，图象下降。都经过点 (1, 0)。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "单调性",
+            "content": "当 a > 1 时，函数在 (0, +∞) 上单调递增；当 0 < a < 1 时，函数在 (0, +∞) 上单调递减。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "奇偶性",
+            "content": "对数函数既不是奇函数也不是偶函数。",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "反函数",
+        "content": "指数函数与对数函数互为反函数。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "反函数的概念",
+            "content": "如果函数 y = f(x) 的反函数是 x = g(y)，那么 y = g(x) 是 x = f(y) 的反函数。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "指数与对数的互逆",
+            "content": "指数函数 y = a^x 与对数函数 y = log_a x 互为反函数，定义域与值域互换。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "涉及定义域求解、比较大小、实际应用等问题。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "求定义域",
+            "content": "例如：求 y = log_3(x^2) 的定义域，需满足 x^2 > 0，即 x ≠ 0。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "比较大小",
+            "content": "例如：比较 log_2 3.4 与 log_2 8.5 的大小，利用单调性判断。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "实际应用",
+            "content": "例如：碳14年代测定、人口增长模型等。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "集合",
+      "tail": "元素",
+      "relation": "由...组成"
+    },
+    {
+      "head": "集合",
+      "tail": "子集",
+      "relation": "包含"
+    },
+    {
+      "head": "子集",
+      "tail": "真子集",
+      "relation": "特殊形式"
+    },
+    {
+      "head": "集合",
+      "tail": "并集",
+      "relation": "进行运算得到"
+    },
+    {
+      "head": "集合",
+      "tail": "交集",
+      "relation": "进行运算得到"
+    },
+    {
+      "head": "集合",
+      "tail": "补集",
+      "relation": "进行运算得到"
+    },
+    {
+      "head": "充分条件",
+      "tail": "必要条件",
+      "relation": "互为逆关系"
+    },
+    {
+      "head": "充要条件",
+      "tail": "充分条件",
+      "relation": "同时包含"
+    },
+    {
+      "head": "充要条件",
+      "tail": "必要条件",
+      "relation": "同时包含"
+    },
+    {
+      "head": "全称量词",
+      "tail": "全称量词命题",
+      "relation": "用于构成"
+    },
+    {
+      "head": "存在量词",
+      "tail": "存在量词命题",
+      "relation": "用于构成"
+    },
+    {
+      "head": "全称量词命题",
+      "tail": "存在量词命题",
+      "relation": "否定关系"
+    },
+    {
+      "head": "存在量词命题",
+      "tail": "全称量词命题",
+      "relation": "否定关系"
+    },
+    {
+      "head": "集合的表示",
+      "tail": "列举法",
+      "relation": "包含"
+    },
+    {
+      "head": "集合的表示",
+      "tail": "描述法",
+      "relation": "包含"
+    },
+    {
+      "head": "数集",
+      "tail": "自然数集",
+      "relation": "特殊类型"
+    },
+    {
+      "head": "数集",
+      "tail": "整数集",
+      "relation": "特殊类型"
+    },
+    {
+      "head": "数集",
+      "tail": "有理数集",
+      "relation": "特殊类型"
+    },
+    {
+      "head": "数集",
+      "tail": "实数集",
+      "relation": "特殊类型"
+    },
+    {
+      "head": "对数函数",
+      "tail": "指数函数",
+      "relation": "互为反函数"
+    },
+    {
+      "head": "对数函数",
+      "tail": "真数",
+      "relation": "定义基于"
+    },
+    {
+      "head": "对数函数",
+      "tail": "单调性",
+      "relation": "具有"
+    },
+    {
+      "head": "对数函数",
+      "tail": "图象",
+      "relation": "通过点(1,0)"
+    },
+    {
+      "head": "对数函数",
+      "tail": "实际应用",
+      "relation": "用于刻画增长/衰减"
+    },
+    {
+      "head": "反函数",
+      "tail": "定义域与值域互换",
+      "relation": "性质"
+    }
+  ],
+  "metadata": {
+    "chunks_merged": 2,
+    "generated_at": "2025-11-13 15:22:26",
+    "version": "1.1"
+  }
+}

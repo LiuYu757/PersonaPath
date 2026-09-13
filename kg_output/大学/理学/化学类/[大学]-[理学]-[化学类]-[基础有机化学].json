@@ -1,0 +1,294 @@
+{
+  "knowledge_tree": {
+    "title": "基础有机化学",
+    "content": "有机化学是研究碳化合物的化学，主要涉及结构与性质、反应机理、合成方法等核心内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "有机化学导论",
+        "content": "有机化学的定义、发展历史及研究范围",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "有机化合物定义",
+            "content": "含碳的化合物（除CO、CO₂、碳酸盐等少数简单化合物）",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "有机化学特点",
+            "content": "同分异构现象普遍、共价键为主、反应速率较慢、反应复杂",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "有机化合物结构与性质",
+        "content": "有机分子的结构表征及其与物理/化学性质的关系",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "共价键理论",
+            "content": "原子轨道重叠形成共价键，包括σ键和π键",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "σ键",
+                "content": "沿键轴方向头对头重叠，可自由旋转",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "π键",
+                "content": "平行重叠形成，电子云分布在键轴上下方，不能自由旋转",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "杂化轨道理论",
+            "content": "碳原子的sp³、sp²、sp杂化方式决定分子几何构型",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "sp³杂化",
+                "content": "四面体构型，如甲烷",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "sp²杂化",
+                "content": "平面三角形，如乙烯",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "sp杂化",
+                "content": "直线形，如乙炔",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "官能团",
+            "content": "决定有机化合物主要化学性质的原子或原子团",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "烷烃",
+                "content": "C-C单键，饱和烃",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "烯烃",
+                "content": "含C=C双键",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "炔烃",
+                "content": "含C≡C三键",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "醇",
+                "content": "含-OH羟基",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "立体化学",
+        "content": "研究分子中原子或基团的空间排列及其对性质的影响",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "手性",
+            "content": "分子与其镜像不能重合的性质",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "手性碳",
+                "content": "连接四个不同原子或基团的碳原子",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "对映异构体",
+                "content": "互为镜像且不能重合的立体异构体",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "构象异构",
+            "content": "因单键旋转而产生的不同空间排列",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "乙烷构象",
+                "content": "交叉式与重叠式构象的能量差异",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "有机反应机理",
+        "content": "有机化学反应中键的断裂与形成过程",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "亲核取代反应",
+            "content": "亲核试剂进攻带正电或部分正电的碳原子",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "SN1机理",
+                "content": "单分子亲核取代，分两步进行，生成碳正离子中间体",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "SN2机理",
+                "content": "双分子亲核取代，一步协同反应",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "亲电加成反应",
+            "content": "亲电试剂进攻不饱和键",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "马氏规则",
+                "content": "氢加在含氢较多的碳上",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "典型有机反应类型",
+        "content": "常见有机反应分类及实例",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "取代反应",
+            "content": "原子或基团被其他原子或基团取代",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "加成反应",
+            "content": "不饱和键打开加原子或基团",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "消除反应",
+            "content": "从分子中脱去小分子形成不饱和键",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "有机化合物",
+      "tail": "碳元素",
+      "relation": "主要组成元素"
+    },
+    {
+      "head": "σ键",
+      "tail": "π键",
+      "relation": "与...同为共价键类型"
+    },
+    {
+      "head": "杂化轨道理论",
+      "tail": "分子几何构型",
+      "relation": "决定"
+    },
+    {
+      "head": "sp³杂化",
+      "tail": "四面体构型",
+      "relation": "对应"
+    },
+    {
+      "head": "官能团",
+      "tail": "化学性质",
+      "relation": "决定"
+    },
+    {
+      "head": "手性碳",
+      "tail": "手性分子",
+      "relation": "导致"
+    },
+    {
+      "head": "对映异构体",
+      "tail": "旋光性",
+      "relation": "具有"
+    },
+    {
+      "head": "SN1机理",
+      "tail": "碳正离子中间体",
+      "relation": "生成"
+    },
+    {
+      "head": "马氏规则",
+      "tail": "亲电加成反应",
+      "relation": "应用于"
+    },
+    {
+      "head": "烯烃",
+      "tail": "亲电加成反应",
+      "relation": "特征反应"
+    },
+    {
+      "head": "醇",
+      "tail": "羟基",
+      "relation": "含有"
+    },
+    {
+      "head": "立体化学",
+      "tail": "空间排列",
+      "relation": "研究"
+    },
+    {
+      "head": "构象异构",
+      "tail": "单键旋转",
+      "relation": "由...产生"
+    },
+    {
+      "head": "取代反应",
+      "tail": "卤代烃",
+      "relation": "典型反应物"
+    },
+    {
+      "head": "消除反应",
+      "tail": "烯烃",
+      "relation": "生成"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:47:16",
+    "version": "1.1"
+  }
+}

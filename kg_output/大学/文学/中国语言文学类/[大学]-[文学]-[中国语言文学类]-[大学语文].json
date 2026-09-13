@@ -1,0 +1,390 @@
+{
+  "knowledge_tree": {
+    "title": "大学语文",
+    "content": "全日制高校通用教材，精选古今中外文学经典名篇，注重中华优秀文化传统的审美熏陶，提高语文修养和人文素质",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "以民为本",
+        "content": "探讨民本思想、君臣关系、民生疾苦等主题",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "民贵君轻",
+            "content": "孟子提出的民本思想核心观点",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "孟子民本思想",
+                "content": "民为贵，社稷次之，君为轻",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "冯谖客孟尝君",
+                "content": "战国策中冯谖为孟尝君营造三窟的故事",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "民生疾苦",
+            "content": "反映百姓生活困苦的文学作品",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "羌村三首",
+                "content": "杜甫描写战乱中归家见闻的诗作",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "山坡羊·潼关怀古",
+                "content": "张养浩怀古伤今，揭示百姓苦难的散曲",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "心怀天下",
+        "content": "表现爱国情怀、忧患意识、民族精神的文学作品",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "忧患意识",
+            "content": "君子安而不忘危的警示",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "北征",
+                "content": "杜甫记述安史之乱中个人遭遇的五言古诗",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "早雁",
+                "content": "杜牧以雁喻人，关心边地人民的七律",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "民族精神",
+            "content": "弘扬爱国主义和民族自信的作品",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "少年中国说",
+                "content": "梁启超充满激情的政论散文",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "中国人失掉自信力了吗",
+                "content": "鲁迅驳斥民族虚无主义的杂文",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "和而不同",
+        "content": "探讨包容差异、独立思考、言论自由等主题",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "包容思想",
+            "content": "和而不同的哲学理念",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "晏子对齐侯问",
+                "content": "左传中晏婴论和与同的区别",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "秋水",
+                "content": "庄子相对主义哲学的名篇",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "独立思考",
+            "content": "强调理性思考和批判精神",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "容忍与自由",
+                "content": "胡适论述容忍与自由关系的文章",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "谈独立思考",
+                "content": "茅盾关于独立思考的论述",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "品格修养",
+        "content": "关于个人品德修养、人生境界的文学作品",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "修身之道",
+            "content": "传统儒家修身养性的理念",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "孔子论修身",
+                "content": "论语中关于品德修养的论述",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "以修身为本",
+                "content": "大学中修齐治平的思想",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "人生境界",
+            "content": "表现高尚情操和人生追求的作品",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "前赤壁赋",
+                "content": "苏轼表现旷达胸怀的散文赋",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "我的世界观",
+                "content": "爱因斯坦的人生哲学论述",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "文学体裁与鉴赏",
+        "content": "各种文学体裁的特点和鉴赏方法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "诗词格律",
+            "content": "古代诗词的格律要求",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "我国古代诗词格律常识",
+                "content": "诗词格律的基本知识",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "近体诗格律",
+                "content": "律诗、绝句的平仄对仗要求",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "散文鉴赏",
+            "content": "散文的文体特点和鉴赏方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "叙事散文",
+                "content": "以记叙为主的散文",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "抒情散文",
+                "content": "以抒情为主的散文",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "以民为本",
+      "tail": "民贵君轻",
+      "relation": "包含"
+    },
+    {
+      "head": "以民为本",
+      "tail": "民生疾苦",
+      "relation": "包含"
+    },
+    {
+      "head": "孟子",
+      "tail": "民贵君轻",
+      "relation": "提出"
+    },
+    {
+      "head": "冯谖客孟尝君",
+      "tail": "民本思想",
+      "relation": "体现"
+    },
+    {
+      "head": "心怀天下",
+      "tail": "忧患意识",
+      "relation": "包含"
+    },
+    {
+      "head": "心怀天下",
+      "tail": "民族精神",
+      "relation": "包含"
+    },
+    {
+      "head": "君子安而不忘危",
+      "tail": "忧患意识",
+      "relation": "体现"
+    },
+    {
+      "head": "少年中国说",
+      "tail": "爱国主义",
+      "relation": "弘扬"
+    },
+    {
+      "head": "和而不同",
+      "tail": "包容思想",
+      "relation": "包含"
+    },
+    {
+      "head": "和而不同",
+      "tail": "独立思考",
+      "relation": "包含"
+    },
+    {
+      "head": "晏子对齐侯问",
+      "tail": "和而不同",
+      "relation": "阐释"
+    },
+    {
+      "head": "容忍与自由",
+      "tail": "独立思考",
+      "relation": "促进"
+    },
+    {
+      "head": "品格修养",
+      "tail": "修身之道",
+      "relation": "包含"
+    },
+    {
+      "head": "品格修养",
+      "tail": "人生境界",
+      "relation": "包含"
+    },
+    {
+      "head": "孔子论修身",
+      "tail": "儒家思想",
+      "relation": "属于"
+    },
+    {
+      "head": "前赤壁赋",
+      "tail": "人生境界",
+      "relation": "表现"
+    },
+    {
+      "head": "文学体裁与鉴赏",
+      "tail": "诗词格律",
+      "relation": "包含"
+    },
+    {
+      "head": "文学体裁与鉴赏",
+      "tail": "散文鉴赏",
+      "relation": "包含"
+    },
+    {
+      "head": "我国古代诗词格律常识",
+      "tail": "诗词创作",
+      "relation": "指导"
+    },
+    {
+      "head": "叙事散文",
+      "tail": "散文鉴赏",
+      "relation": "属于"
+    },
+    {
+      "head": "诗经",
+      "tail": "四言诗",
+      "relation": "开创"
+    },
+    {
+      "head": "楚辞",
+      "tail": "骚体",
+      "relation": "创立"
+    },
+    {
+      "head": "汉赋",
+      "tail": "铺陈夸张",
+      "relation": "特征"
+    },
+    {
+      "head": "唐诗",
+      "tail": "近体诗",
+      "relation": "成熟"
+    },
+    {
+      "head": "宋词",
+      "tail": "词牌",
+      "relation": "依托"
+    },
+    {
+      "head": "元曲",
+      "tail": "散曲杂剧",
+      "relation": "包含"
+    },
+    {
+      "head": "明清小说",
+      "tail": "章回体",
+      "relation": "采用"
+    },
+    {
+      "head": "现代文学",
+      "tail": "白话文",
+      "relation": "推广"
+    },
+    {
+      "head": "文学鉴赏",
+      "tail": "文本分析",
+      "relation": "基于"
+    },
+    {
+      "head": "文学鉴赏",
+      "tail": "背景理解",
+      "relation": "需要"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:18:05",
+    "version": "1.1"
+  }
+}

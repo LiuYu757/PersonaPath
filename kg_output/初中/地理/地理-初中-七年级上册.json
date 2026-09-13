@@ -1,0 +1,634 @@
+{
+  "knowledge_tree": {
+    "title": "七年级上册地理",
+    "content": "涵盖地球、地图、陆地和海洋、天气与气候、居民与文化、发展与合作等核心内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "地球",
+        "content": "地球的宇宙环境、地球仪与地球运动",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "地球的宇宙环境",
+            "content": "地球在太阳系中的位置及适宜生命存在的条件",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "太阳系组成",
+                "content": "太阳系包括太阳、八大行星、小行星带、彗星等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "地球的独特性",
+                "content": "与金星、火星比较，地球具有适宜的温度、大气和水条件",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "人类太空探索",
+                "content": "人类太空探索的历程与成就，包括人造卫星、载人航天、月球与火星探测等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "地球与地球仪",
+            "content": "地球的形状、大小及地球仪的基本概念",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "地球的形状",
+                "content": "地球是一个球体，人类对地球形状的认识历程",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "地球的大小",
+                "content": "平均半径约6371千米，表面积约5.1亿平方千米，最大周长约4万千米",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "地球仪",
+                "content": "地球的模型，用于表示地理事物的位置和分布",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "经线和经度",
+                "content": "连接南北两极的半圆弧，指示南北方向；本初子午线为0°经线",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "纬线和纬度",
+                "content": "与赤道平行的圆圈，指示东西方向；赤道为0°纬线",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "经纬网定位",
+                "content": "利用经纬网确定地球表面任意地点的位置",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "地球的运动",
+            "content": "地球自转和公转的基本特征及其地理意义",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "地球自转",
+                "content": "地球绕地轴自西向东旋转，周期为一天，导致昼夜交替和地方时差",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "地球公转",
+                "content": "地球绕太阳自西向东公转，周期为一年，导致季节变化和五带划分",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "季节变换",
+                "content": "由于地球公转和地轴倾斜，同一纬度地带太阳照射情况变化形成季节",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "五带划分",
+                "content": "根据太阳光热多少，地球表面划分为热带、北温带、南温带、北寒带和南寒带",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "地图",
+        "content": "地图的基本要素、地形图的判读及地图的选择和应用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "地图的阅读",
+            "content": "地图的三要素：方向、比例尺、图例",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "方向的判定",
+                "content": "一般地图：上北下南，左西右东；有指向标的地图：按指向标定向；有经纬网的地图：按经纬线定向",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "比例尺",
+                "content": "表示图上距离比实地距离缩小的程度，公式：比例尺=图上距离/实地距离",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "图例",
+                "content": "地图上表示地理事物的符号和注记",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "地形图的判读",
+            "content": "等高线地形图和分层设色地形图的判读",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "海拔与相对高度",
+                "content": "海拔：地面某个地点高出海平面的垂直距离；相对高度：某个地点高出另一个地点的垂直距离",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "等高线",
+                "content": "在地图上，把海拔相同的各点连接成线",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "等高线地形图",
+                "content": "用等高线表示地形的地图，可以判断坡度陡缓及识别地形部位",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "分层设色地形图",
+                "content": "在等高线基础上，用不同颜色表示不同高度和深度的地形图",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "地图的选择和应用",
+            "content": "根据目的选择合适的地图，数字地图的应用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "地图的选择",
+                "content": "根据使用目的选择地图类型，如政区图、地形图、交通图等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "数字地图",
+                "content": "计算机化的地图，用于导航、城市管理、资源调查、灾害监测等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "陆地和海洋",
+        "content": "海陆分布、大洲大洋、世界地形及海陆变迁",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "大洲和大洋",
+            "content": "全球海陆分布特点及七大洲、四大洋的分布",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "海陆分布",
+                "content": "地球表面71%是海洋，29%是陆地；海陆分布不均，陆地主要集中在北半球",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "七大洲",
+                "content": "亚洲、非洲、北美洲、南美洲、南极洲、欧洲、大洋洲；亚洲面积最大，大洋洲面积最小",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "四大洋",
+                "content": "太平洋、大西洋、印度洋、北冰洋；太平洋面积最大，北冰洋面积最小",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "海洋的意义",
+                "content": "海洋是生命的摇篮、资源的宝库，提供鱼盐之利、舟楫之便",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "世界的地形",
+            "content": "陆地地形和海底地形的类型与分布",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "陆地地形",
+                "content": "山地、高原、丘陵、平原、盆地五种基本类型",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "海底地形",
+                "content": "大陆架、大陆坡、海沟、洋盆、洋中脊等类型",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "海陆变迁",
+            "content": "海陆变迁的证据及板块构造学说",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "海陆变迁的证据",
+                "content": "化石、古河道、古森林遗迹及填海造陆等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "大陆漂移说",
+                "content": "魏格纳提出，认为大陆曾经是连在一起的，后来漂移分离",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "板块构造学说",
+                "content": "地球岩石圈由六大板块组成，板块交界处地壳活跃，多火山地震",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "天气与气候",
+        "content": "天气、气温、降水、气候类型及其影响因素",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "多变的天气",
+            "content": "天气的概念、天气预报及天气符号",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "天气的概念",
+                "content": "一个地区短时间里的大气状况，常用阴晴、风雨、冷热等描述",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "天气预报",
+                "content": "预报一日或多日内阴晴、气温、降水、风等情况",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "天气符号",
+                "content": "表示天气状况的专用符号，如晴、多云、阴、雨、雪等",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "气温的变化与分布",
+            "content": "气温的变化规律及世界气温的分布",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "气温的变化",
+                "content": "气温日变化：最高气温出现在午后2时左右，最低气温出现在日出前后；气温年变化：北半球陆地7月最高，1月最低",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "等温线",
+                "content": "在地图上，把气温相同的点连接成线，用于表示气温的分布",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "世界气温分布",
+                "content": "世界气温从低纬向高纬逐渐降低；同纬度地区，夏季陆地气温高于海洋，冬季相反",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "降水的变化与分布",
+            "content": "降水的形式、变化及世界降水的分布",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "降水的形式",
+                "content": "雨、雪、冰雹等，降雨是主要形式",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "降水的变化",
+                "content": "降水季节变化：有的地区季节分配均匀，有的地区集中",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "世界降水分布",
+                "content": "赤道附近降水多，两极地区降水少；回归线附近，大陆东岸降水多，西岸降水少；中纬度沿海降水多，内陆降水少",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "世界的气候",
+            "content": "气候类型的分布、特征及影响因素",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "气候类型的分布",
+                "content": "热带、温带、寒带气候的分布规律",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "气候影响因素",
+                "content": "纬度位置、海陆位置、地形等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "气候与人类活动",
+                "content": "气候影响日常生活、生产活动，人类活动也影响气候",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "居民与文化",
+        "content": "人口与人种、城镇与乡村、多样的文化",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "人口与人种",
+            "content": "世界人口的增长、分布及三大人种",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "人口增长",
+                "content": "世界人口增长趋势及人口自然增长率",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "人口分布",
+                "content": "世界人口分布不均，亚洲东部和南部、欧洲西部、北美东部人口稠密",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "三大人种",
+                "content": "黄种人、白种人、黑种人，所有人种都是平等的",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "城镇与乡村",
+            "content": "乡村与城镇的景观特征及变化",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "乡村景观",
+                "content": "人口较少，从事农业生产，保留更多自然风貌",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "城镇景观",
+                "content": "人口较多，从事工业、服务业，建筑密集，设施齐全",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "城乡变化",
+                "content": "城镇化进程加快，乡村景观改变",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "多样的文化",
+            "content": "语言、宗教、文化习俗的多样性",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "世界主要语言",
+                "content": "汉语、英语、法语、俄语、西班牙语、阿拉伯语",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "世界三大宗教",
+                "content": "基督教、伊斯兰教、佛教",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "文化习俗",
+                "content": "饮食、服饰、交通、民居等与自然环境的关系",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "发展与合作",
+        "content": "国家发展水平差异、全球经济联系及国际合作",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "发展水平差异",
+            "content": "发达国家与发展中国家的差异及分布",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "全球经济联系",
+            "content": "经济全球化背景下，交通运输的作用及“一带一路”倡议",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "国际合作",
+            "content": "国际合作在经济发展、环境治理、应对全球性问题中的重要性",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "地球",
+      "tail": "太阳系",
+      "relation": "属于"
+    },
+    {
+      "head": "地球",
+      "tail": "适宜生命存在的条件",
+      "relation": "具有"
+    },
+    {
+      "head": "地球仪",
+      "tail": "经线",
+      "relation": "包含"
+    },
+    {
+      "head": "地球仪",
+      "tail": "纬线",
+      "relation": "包含"
+    },
+    {
+      "head": "经线",
+      "tail": "经度",
+      "relation": "用于表示"
+    },
+    {
+      "head": "纬线",
+      "tail": "纬度",
+      "relation": "用于表示"
+    },
+    {
+      "head": "地球自转",
+      "tail": "昼夜交替",
+      "relation": "导致"
+    },
+    {
+      "head": "地球公转",
+      "tail": "季节变化",
+      "relation": "导致"
+    },
+    {
+      "head": "地图",
+      "tail": "方向",
+      "relation": "包含要素"
+    },
+    {
+      "head": "地图",
+      "tail": "比例尺",
+      "relation": "包含要素"
+    },
+    {
+      "head": "地图",
+      "tail": "图例",
+      "relation": "包含要素"
+    },
+    {
+      "head": "等高线地形图",
+      "tail": "海拔",
+      "relation": "表示"
+    },
+    {
+      "head": "分层设色地形图",
+      "tail": "等高线",
+      "relation": "基于"
+    },
+    {
+      "head": "海陆分布",
+      "tail": "七大洲",
+      "relation": "包括"
+    },
+    {
+      "head": "海陆分布",
+      "tail": "四大洋",
+      "relation": "包括"
+    },
+    {
+      "head": "板块构造学说",
+      "tail": "火山地震带",
+      "relation": "解释分布"
+    },
+    {
+      "head": "天气",
+      "tail": "气温",
+      "relation": "包含要素"
+    },
+    {
+      "head": "天气",
+      "tail": "降水",
+      "relation": "包含要素"
+    },
+    {
+      "head": "气候",
+      "tail": "气温",
+      "relation": "包含要素"
+    },
+    {
+      "head": "气候",
+      "tail": "降水",
+      "relation": "包含要素"
+    },
+    {
+      "head": "世界气候类型",
+      "tail": "纬度位置",
+      "relation": "受影响因素"
+    },
+    {
+      "head": "世界气候类型",
+      "tail": "海陆位置",
+      "relation": "受影响因素"
+    },
+    {
+      "head": "世界气候类型",
+      "tail": "地形",
+      "relation": "受影响因素"
+    },
+    {
+      "head": "人口分布",
+      "tail": "自然环境",
+      "relation": "受影响因素"
+    },
+    {
+      "head": "文化习俗",
+      "tail": "自然环境",
+      "relation": "受影响因素"
+    },
+    {
+      "head": "发达国家",
+      "tail": "发展中国家",
+      "relation": "存在发展水平差异"
+    },
+    {
+      "head": "经济全球化",
+      "tail": "国际合作",
+      "relation": "促进"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:07:11",
+    "version": "1.1"
+  }
+}

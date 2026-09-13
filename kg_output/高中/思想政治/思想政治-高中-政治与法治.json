@@ -1,0 +1,556 @@
+{
+  "knowledge_tree": {
+    "title": "政治与法治",
+    "content": "普通高中教科书思想政治必修3，涵盖中国共产党的领导、人民当家作主、全面依法治国三大单元",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元 中国共产党的领导",
+        "content": "阐述中国共产党的历史地位、先进性和领导核心作用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第一课 历史和人民的选择",
+            "content": "近代中国基本国情与各种政治力量的比较",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "近代中国的基本国情",
+                "content": "半殖民地半封建社会性质及其主要矛盾",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "三种建国方案的较量",
+                "content": "国民党维护旧制度、中间派资产阶级共和国、共产党人民共和国的方案对比",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "没有共产党就没有新中国",
+                "content": "中国共产党领导新民主主义革命胜利的历史必然性",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第二课 中国共产党的先进性",
+            "content": "党的性质、宗旨和指导思想",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "党的性质和宗旨",
+                "content": "两个先锋队性质与全心全意为人民服务宗旨",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "党的执政理念",
+                "content": "立党为公、执政为民",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "党的指导思想",
+                "content": "马克思列宁主义、毛泽东思想、邓小平理论、'三个代表'重要思想、科学发展观、习近平新时代中国特色社会主义思想",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第三课 坚持和加强党的全面领导",
+            "content": "党的领导地位和执政方式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "党的领导核心地位",
+                "content": "中国特色社会主义最本质的特征",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "全面从严治党和自我革命",
+                "content": "党的建设新的伟大工程",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "科学执政、民主执政、依法执政",
+                "content": "党的三种基本执政方式及其关系",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元 人民当家作主",
+        "content": "我国的国家性质和根本政治制度、基本政治制度",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第四课 人民民主专政的社会主义国家",
+            "content": "我国国体与全过程人民民主",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "我国的国体",
+                "content": "工人阶级领导的、以工农联盟为基础的人民民主专政",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "全过程人民民主",
+                "content": "最广泛、最真实、最管用的民主",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "坚持人民民主专政",
+                "content": "民主与专政的辩证统一",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第五课 我国的根本政治制度",
+            "content": "人民代表大会制度",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "人民代表大会",
+                "content": "国家权力机关体系",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "人大代表的产生与职责",
+                "content": "民主选举产生，代表人民行使国家权力",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "人民代表大会制度的优势",
+                "content": "根本政治制度安排，坚持党的领导、人民当家作主、依法治国有机统一",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第六课 我国的基本政治制度",
+            "content": "政党制度、民族区域自治制度和基层群众自治制度",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "中国共产党领导的多党合作和政治协商制度",
+                "content": "新型政党制度，政协是重要机构",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "民族区域自治制度",
+                "content": "在国家统一领导下，各少数民族聚居地方实行区域自治",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "基层群众自治制度",
+                "content": "自我管理、自我服务、自我教育、自我监督",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三单元 全面依法治国",
+        "content": "法治建设历程、法治中国建设和全面依法治国基本要求",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第七课 治国理政的基本方式",
+            "content": "法治内涵及我国法治建设成就",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "我国法律发展的历史",
+                "content": "中华法系源远流长，马克思主义法治理论指导",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "全面推进依法治国的总目标与原则",
+                "content": "建设中国特色社会主义法治体系、建设社会主义法治国家",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第八课 法治中国建设",
+            "content": "法治国家、法治政府、法治社会一体建设",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "法治国家的内涵",
+                "content": "坚持宪法法律至上",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "法治政府的内涵",
+                "content": "职能科学、权责法定、执法严明、公开公正、智能高效、廉洁诚信、人民满意",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "法治社会的内涵",
+                "content": "法律得到公认和普遍遵从",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第九课 全面推进依法治国的基本要求",
+            "content": "科学立法、严格执法、公正司法、全民守法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "科学立法的内涵",
+                "content": "尊重和体现社会发展的客观规律",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "严格执法的内涵",
+                "content": "执法机关在执法过程中严格依法办事",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "公正司法的内涵",
+                "content": "在司法活动的过程和结果中坚持和体现公平正义",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "全民守法的内涵",
+                "content": "所有社会成员普遍尊重和信仰法律、依法行使权利和履行义务",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "中国共产党",
+      "tail": "工人阶级先锋队",
+      "relation": "是"
+    },
+    {
+      "head": "中国共产党",
+      "tail": "中国人民和中华民族先锋队",
+      "relation": "是"
+    },
+    {
+      "head": "中国共产党",
+      "tail": "全心全意为人民服务",
+      "relation": "坚持"
+    },
+    {
+      "head": "中国共产党",
+      "tail": "马克思主义",
+      "relation": "以...为指导思想"
+    },
+    {
+      "head": "中国共产党",
+      "tail": "中国特色社会主义最本质的特征",
+      "relation": "是"
+    },
+    {
+      "head": "中国共产党",
+      "tail": "最高政治领导力量",
+      "relation": "是"
+    },
+    {
+      "head": "中国共产党",
+      "tail": "全面领导",
+      "relation": "坚持"
+    },
+    {
+      "head": "中国共产党",
+      "tail": "科学执政",
+      "relation": "坚持"
+    },
+    {
+      "head": "中国共产党",
+      "tail": "民主执政",
+      "relation": "坚持"
+    },
+    {
+      "head": "中国共产党",
+      "tail": "依法执政",
+      "relation": "坚持"
+    },
+    {
+      "head": "中国共产党",
+      "tail": "全面从严治党",
+      "relation": "推进"
+    },
+    {
+      "head": "中国共产党",
+      "tail": "自我革命",
+      "relation": "进行"
+    },
+    {
+      "head": "中华人民共和国",
+      "tail": "人民民主专政的社会主义国家",
+      "relation": "是"
+    },
+    {
+      "head": "人民民主专政",
+      "tail": "工人阶级领导",
+      "relation": "以...为基础"
+    },
+    {
+      "head": "人民民主专政",
+      "tail": "工农联盟",
+      "relation": "以...为基础"
+    },
+    {
+      "head": "人民民主专政",
+      "tail": "民主与专政统一",
+      "relation": "坚持"
+    },
+    {
+      "head": "全过程人民民主",
+      "tail": "最广泛、最真实、最管用的民主",
+      "relation": "是"
+    },
+    {
+      "head": "人民代表大会制度",
+      "tail": "根本政治制度",
+      "relation": "是"
+    },
+    {
+      "head": "人民代表大会制度",
+      "tail": "人民当家作主",
+      "relation": "保证"
+    },
+    {
+      "head": "人民代表大会",
+      "tail": "国家权力机关",
+      "relation": "是"
+    },
+    {
+      "head": "全国人民代表大会",
+      "tail": "最高国家权力机关",
+      "relation": "是"
+    },
+    {
+      "head": "人大代表",
+      "tail": "民主选举产生",
+      "relation": "由"
+    },
+    {
+      "head": "人大代表",
+      "tail": "代表人民行使国家权力",
+      "relation": "依法"
+    },
+    {
+      "head": "中国共产党领导的多党合作和政治协商制度",
+      "tail": "基本政治制度",
+      "relation": "是"
+    },
+    {
+      "head": "中国共产党领导的多党合作和政治协商制度",
+      "tail": "新型政党制度",
+      "relation": "是"
+    },
+    {
+      "head": "中国人民政治协商会议",
+      "tail": "爱国统一战线组织",
+      "relation": "是"
+    },
+    {
+      "head": "中国人民政治协商会议",
+      "tail": "多党合作和政治协商的重要机构",
+      "relation": "是"
+    },
+    {
+      "head": "中国人民政治协商会议",
+      "tail": "政治协商",
+      "relation": "履行职能"
+    },
+    {
+      "head": "中国人民政治协商会议",
+      "tail": "民主监督",
+      "relation": "履行职能"
+    },
+    {
+      "head": "中国人民政治协商会议",
+      "tail": "参政议政",
+      "relation": "履行职能"
+    },
+    {
+      "head": "民族区域自治制度",
+      "tail": "基本政治制度",
+      "relation": "是"
+    },
+    {
+      "head": "民族区域自治制度",
+      "tail": "国家统一",
+      "relation": "坚持"
+    },
+    {
+      "head": "民族区域自治制度",
+      "tail": "民族团结",
+      "relation": "促进"
+    },
+    {
+      "head": "民族区域自治制度",
+      "tail": "各民族共同繁荣",
+      "relation": "促进"
+    },
+    {
+      "head": "基层群众自治制度",
+      "tail": "基本政治制度",
+      "relation": "是"
+    },
+    {
+      "head": "基层群众自治制度",
+      "tail": "自我管理",
+      "relation": "实行"
+    },
+    {
+      "head": "基层群众自治制度",
+      "tail": "自我服务",
+      "relation": "实行"
+    },
+    {
+      "head": "基层群众自治制度",
+      "tail": "自我教育",
+      "relation": "实行"
+    },
+    {
+      "head": "基层群众自治制度",
+      "tail": "自我监督",
+      "relation": "实行"
+    },
+    {
+      "head": "全面依法治国",
+      "tail": "治国理政的基本方式",
+      "relation": "是"
+    },
+    {
+      "head": "全面依法治国",
+      "tail": "中国特色社会主义法治道路",
+      "relation": "坚持"
+    },
+    {
+      "head": "全面依法治国",
+      "tail": "建设中国特色社会主义法治体系",
+      "relation": "总目标"
+    },
+    {
+      "head": "全面依法治国",
+      "tail": "建设社会主义法治国家",
+      "relation": "总目标"
+    },
+    {
+      "head": "全面依法治国",
+      "tail": "科学立法",
+      "relation": "要求"
+    },
+    {
+      "head": "全面依法治国",
+      "tail": "严格执法",
+      "relation": "要求"
+    },
+    {
+      "head": "全面依法治国",
+      "tail": "公正司法",
+      "relation": "要求"
+    },
+    {
+      "head": "全面依法治国",
+      "tail": "全民守法",
+      "relation": "要求"
+    },
+    {
+      "head": "法治国家",
+      "tail": "宪法法律至上",
+      "relation": "坚持"
+    },
+    {
+      "head": "法治政府",
+      "tail": "职能科学",
+      "relation": "要求"
+    },
+    {
+      "head": "法治政府",
+      "tail": "权责法定",
+      "relation": "要求"
+    },
+    {
+      "head": "法治政府",
+      "tail": "执法严明",
+      "relation": "要求"
+    },
+    {
+      "head": "法治政府",
+      "tail": "公开公正",
+      "relation": "要求"
+    },
+    {
+      "head": "法治政府",
+      "tail": "智能高效",
+      "relation": "要求"
+    },
+    {
+      "head": "法治政府",
+      "tail": "廉洁诚信",
+      "relation": "要求"
+    },
+    {
+      "head": "法治政府",
+      "tail": "人民满意",
+      "relation": "要求"
+    },
+    {
+      "head": "法治社会",
+      "tail": "法律得到公认和普遍遵从",
+      "relation": "要求"
+    },
+    {
+      "head": "党的领导",
+      "tail": "人民当家作主",
+      "relation": "与...有机统一"
+    },
+    {
+      "head": "党的领导",
+      "tail": "依法治国",
+      "relation": "与...有机统一"
+    },
+    {
+      "head": "人民当家作主",
+      "tail": "依法治国",
+      "relation": "与...有机统一"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:48:17",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "knowledge_tree": {
+    "title": "新闻采访与写作",
+    "content": "新闻采访与写作是新闻传播学类的核心课程，涵盖新闻采访的基本理论、方法、技巧以及新闻写作的各类体裁、结构和规范。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "新闻采访",
+        "content": "新闻采访是新闻工作者为搜集新闻素材而进行的调查研究活动，是新闻写作的基础。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "采访的定义与性质",
+            "content": "新闻采访是记者认识客观事物，寻找与挖掘新闻事实的调查研究活动，具有求实性、时效性、公开性等性质。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "采访的准备工作",
+            "content": "采访前的准备工作包括明确报道思想、熟悉采访对象、背景资料搜集、拟定采访提纲和做好事务性准备等。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "明确报道思想",
+                "content": "根据编辑部的报道意图和当前宣传重点，确定本次采访的主题和目的。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "熟悉采访对象",
+                "content": "了解采访对象的基本情况、背景、特点以及与新闻事件的关系。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "背景资料搜集",
+                "content": "通过查阅文献、网络搜索等方式，搜集与采访主题相关的背景信息。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "拟定采访提纲",
+                "content": "根据报道思想和搜集的资料，设计一系列有逻辑、有层次的问题。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "采访的方法与技巧",
+            "content": "采访过程中运用的具体方法和技巧，直接影响采访的深度和效果。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "提问技巧",
+                "content": "包括开放式提问、闭合式提问、引导式提问、追问等多种方式。",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "开放式提问",
+                    "content": "提出范围较广、不限定具体答案的问题，便于对方自由发挥，获取丰富信息。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "闭合式提问",
+                    "content": "提出答案范围有限，通常是“是”或“否”的问题，用于核实事实。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "追问",
+                    "content": "根据对方的回答，紧追不舍地提出更深层次的问题，以挖掘细节和真相。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "观察法",
+                "content": "记者通过视觉、听觉等感官，直接感知和记录新闻现场的情况。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "倾听与记录",
+                "content": "全神贯注地倾听采访对象的讲述，并准确、完整地记录关键信息。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "特殊类型的采访",
+            "content": "针对不同情境和对象所采用的特定采访方式。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "人物专访",
+                "content": "对新闻人物进行的深入访谈，侧重于人物的经历、思想、情感等。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "事件性新闻采访",
+                "content": "对突发或预知的事件进行的快速、准确的现场采访。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "调查性报道采访",
+                "content": "针对某些被掩盖的真相或社会问题进行的系统、深入的采访，难度较大。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "新闻写作",
+        "content": "新闻写作是将采访获得的新闻素材，按照新闻规律和文体要求，加工制作成新闻作品的过程。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "新闻写作的基本要求",
+            "content": "新闻写作需遵循真实性、时效性、准确性、客观性、简洁性等基本原则。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "真实性",
+                "content": "新闻报道的内容必须完全符合客观事实，不能虚构、夸张或歪曲。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "时效性",
+                "content": "新闻报道要迅速及时，讲究时间效率。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "准确性",
+                "content": "新闻报道中的人物、时间、地点、数字、引语等必须准确无误。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "客观性",
+                "content": "记者在报道中应避免主观臆断和偏见，用事实说话。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "新闻要素与结构",
+            "content": "新闻作品通常包含五个W和一个H等基本要素，并采用倒金字塔结构等组织形式。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "新闻五要素（5W1H）",
+                "content": "何时（When）、何地（Where）、何人（Who）、何事（What）、何故（Why）以及如何（How）。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "倒金字塔结构",
+                "content": "将最重要的新闻事实放在导语中，然后按重要性递减的顺序安排材料。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "导语写作",
+                    "content": "消息的开头部分，用简洁的语言概括新闻的核心内容，吸引读者。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "主体写作",
+                    "content": "导语之后，对新闻事实进行具体的叙述和展开。",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "新闻标题制作",
+                "content": "标题是新闻的眼睛，要求准确、鲜明、生动、简洁。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "主要新闻体裁写作",
+            "content": "根据不同报道需要而形成的相对稳定的文本样式。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "消息写作",
+                "content": "迅速、简要地报道新近发生的事实，是新闻报道中最常用、最基本的体裁。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "动态消息",
+                    "content": "报道刚刚发生或正在发生的单一事件。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "综合消息",
+                    "content": "围绕一个主题，综合反映带有全局性的情况、动向、成就或问题。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "通讯写作",
+                "content": "比消息更详细、生动地报道人物、事件或情况，注重情节、细节和感染力。",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "人物通讯",
+                    "content": "具体、形象地报道新闻人物的言行、事迹和精神风貌。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "事件通讯",
+                    "content": "相对完整地记述新闻事件的发生、发展、结果，深入挖掘其意义。",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "新闻特写",
+                "content": "抓住新闻事件中富有特征的片断或瞬间，加以放大和描绘，给人以强烈印象。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "深度报道",
+                "content": "对重大新闻事件或社会问题进行系统调查、深入剖析的报道形式。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "新闻语言",
+            "content": "新闻写作中使用的符合新闻传播要求的语言，要求具体、准确、简明、通俗、生动。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "新闻伦理与法规",
+        "content": "新闻工作者在采访与写作过程中必须遵守的道德准则和法律规范。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "新闻真实性原则",
+            "content": "确保新闻报道内容真实可靠，反对虚假新闻和失实报道。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "隐私权保护",
+            "content": "在新闻报道中尊重和保护个人隐私，避免不当侵犯。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "著作权相关规范",
+            "content": "遵守著作权法，尊重他人知识产权，规范引用和转载行为。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "新闻采访",
+      "tail": "新闻写作",
+      "relation": "是基础"
+    },
+    {
+      "head": "采访的准备工作",
+      "tail": "明确报道思想",
+      "relation": "包括"
+    },
+    {
+      "head": "采访的准备工作",
+      "tail": "熟悉采访对象",
+      "relation": "包括"
+    },
+    {
+      "head": "采访的准备工作",
+      "tail": "背景资料搜集",
+      "relation": "包括"
+    },
+    {
+      "head": "采访的准备工作",
+      "tail": "拟定采访提纲",
+      "relation": "包括"
+    },
+    {
+      "head": "提问技巧",
+      "tail": "开放式提问",
+      "relation": "包括"
+    },
+    {
+      "head": "提问技巧",
+      "tail": "闭合式提问",
+      "relation": "包括"
+    },
+    {
+      "head": "提问技巧",
+      "tail": "追问",
+      "relation": "包括"
+    },
+    {
+      "head": "特殊类型的采访",
+      "tail": "人物专访",
+      "relation": "包括"
+    },
+    {
+      "head": "特殊类型的采访",
+      "tail": "事件性新闻采访",
+      "relation": "包括"
+    },
+    {
+      "head": "特殊类型的采访",
+      "tail": "调查性报道采访",
+      "relation": "包括"
+    },
+    {
+      "head": "新闻写作的基本要求",
+      "tail": "真实性",
+      "relation": "遵循"
+    },
+    {
+      "head": "新闻写作的基本要求",
+      "tail": "时效性",
+      "relation": "遵循"
+    },
+    {
+      "head": "新闻写作的基本要求",
+      "tail": "准确性",
+      "relation": "遵循"
+    },
+    {
+      "head": "新闻写作的基本要求",
+      "tail": "客观性",
+      "relation": "遵循"
+    },
+    {
+      "head": "新闻要素与结构",
+      "tail": "新闻五要素（5W1H）",
+      "relation": "包含"
+    },
+    {
+      "head": "新闻要素与结构",
+      "tail": "倒金字塔结构",
+      "relation": "采用"
+    },
+    {
+      "head": "倒金字塔结构",
+      "tail": "导语写作",
+      "relation": "起始于"
+    },
+    {
+      "head": "倒金字塔结构",
+      "tail": "主体写作",
+      "relation": "展开于"
+    },
+    {
+      "head": "主要新闻体裁写作",
+      "tail": "消息写作",
+      "relation": "包括"
+    },
+    {
+      "head": "主要新闻体裁写作",
+      "tail": "通讯写作",
+      "relation": "包括"
+    },
+    {
+      "head": "主要新闻体裁写作",
+      "tail": "新闻特写",
+      "relation": "包括"
+    },
+    {
+      "head": "主要新闻体裁写作",
+      "tail": "深度报道",
+      "relation": "包括"
+    },
+    {
+      "head": "消息写作",
+      "tail": "动态消息",
+      "relation": "包括"
+    },
+    {
+      "head": "消息写作",
+      "tail": "综合消息",
+      "relation": "包括"
+    },
+    {
+      "head": "通讯写作",
+      "tail": "人物通讯",
+      "relation": "包括"
+    },
+    {
+      "head": "通讯写作",
+      "tail": "事件通讯",
+      "relation": "包括"
+    },
+    {
+      "head": "新闻伦理与法规",
+      "tail": "新闻真实性原则",
+      "relation": "包含"
+    },
+    {
+      "head": "新闻伦理与法规",
+      "tail": "隐私权保护",
+      "relation": "包含"
+    },
+    {
+      "head": "新闻伦理与法规",
+      "tail": "著作权相关规范",
+      "relation": "包含"
+    },
+    {
+      "head": "新闻采访",
+      "tail": "采访的方法与技巧",
+      "relation": "运用"
+    },
+    {
+      "head": "新闻写作",
+      "tail": "新闻语言",
+      "relation": "使用"
+    },
+    {
+      "head": "调查性报道采访",
+      "tail": "深度报道",
+      "relation": "服务于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:25:13",
+    "version": "1.1"
+  }
+}

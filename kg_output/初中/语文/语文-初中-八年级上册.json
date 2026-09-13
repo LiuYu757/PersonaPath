@@ -1,0 +1,941 @@
+{
+  "knowledge_tree": {
+    "title": "八年级上册语文",
+    "content": "包含新闻阅读与写作、回忆性散文、古诗文鉴赏、说明文写作等多个模块",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元：活动·探究",
+        "content": "新闻阅读、采访与写作的综合实践活动",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "新闻阅读",
+            "content": "学习阅读消息、新闻特写、通讯、新闻评论等不同体裁的新闻作品",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "消息",
+                "content": "迅速、简要地报道新近发生的事件，真实客观和时效性强",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "消息的结构",
+                    "content": "包括标题、导语、主体、背景和结语四部分",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "消息的语言特点",
+                    "content": "准确、简练、易懂，适当讲究生动形象",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "新闻特写",
+                "content": "截取新闻事件中最具价值的片段予以放大，再现典型人物、事件、场景",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "通讯",
+                "content": "相对完整地记述新闻事件，展示发展过程与社会意义",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "新闻评论",
+                "content": "对新闻事件进行评论，表达观点和态度",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "新闻采访",
+            "content": "熟悉新闻采访的一般方法和步骤，进行采访实践",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "采访准备",
+                "content": "确定报道题材，制订采访方案",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "采访提纲",
+                "content": "包括时间、地点、对象、目的、方式、问题等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "采访过程",
+                "content": "尊重采访对象，注意言行得体",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "素材整理",
+                "content": "及时整理所获得的素材，核实关键信息",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "新闻写作",
+            "content": "根据采访素材撰写新闻作品",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "消息写作",
+                "content": "确定恰当的标题，合理安排正文结构，写好导语",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "其他新闻体裁写作",
+                "content": "包括新闻特写、人物通讯、事件通讯等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "编辑制作",
+                "content": "将新闻作品编辑制作成报纸页面、新闻网页、短视频等",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元：阅读",
+        "content": "学习回忆性散文和传记，把握文章内容真实、事件典型等特点",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "回忆性散文",
+            "content": "通过叙述难忘的人与事，展现人物的品格与精神",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《藤野先生》",
+                "content": "鲁迅回忆留学日本时的老师藤野先生，表达感激之情",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "人物描写",
+                    "content": "通过细节描写刻画藤野先生的形象",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "情感表达",
+                    "content": "融入作者对藤野先生的感激和怀念之情",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《回忆鲁迅先生》",
+                "content": "萧红回忆与鲁迅先生的交往，展现鲁迅的日常生活和人格魅力",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "细节描写",
+                    "content": "通过生活细节表现鲁迅的性格特点",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "语言风格",
+                    "content": "平淡自然，富有生活气息",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "传记",
+            "content": "记述人物生平事迹，真实可信，生动传神",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《天上有颗“南仁东星”》",
+                "content": "记述南仁东为建成“中国天眼”付出的巨大努力",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "传记特点",
+                    "content": "真实还原传主的主要经历，展现其品格",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "写作手法",
+                    "content": "穿插具体的语言、环境、场景描写，融入深沉的情感",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《美丽的颜色》",
+                "content": "记述居里夫妇在棚屋中用四年时间提取镭的过程",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "叙事手法",
+                    "content": "像摄影师一样展示一个个镜头，让读者身临其境",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "引用传主的话",
+                    "content": "增强文章的真实性，展示传主的心理感受",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三单元：古诗文鉴赏",
+        "content": "学习文言文和古诗词，感受文言之美，体会作者情怀",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "文言文",
+            "content": "借助注释和工具书，把握文章大意，积累常见文言实词、虚词",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《三峡》",
+                "content": "郦道元描绘三峡不同季节的景物特征",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "写景顺序",
+                    "content": "按季节顺序写三峡景物，突出各自特征",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "语言特点",
+                    "content": "句式整齐，声韵和谐",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《短文二篇》",
+                "content": "包括《答谢中书书》和《记承天寺夜游》，写景抒情",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "《答谢中书书》",
+                    "content": "陶弘景描绘山川之美，表达隐居之乐",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "《记承天寺夜游》",
+                    "content": "苏轼记录夜游承天寺的经历，表达闲适之情",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《与朱元思书》",
+                "content": "吴均描绘富春江的奇山异水，表达忘情山水之志",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "古诗词",
+            "content": "反复诵读，体会韵律，借助联想和想象进入意境",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《唐诗五首》",
+                "content": "包括《野望》《黄鹤楼》《使至塞上》《渡荆门送别》《钱塘湖春行》",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "《野望》",
+                    "content": "王绩描绘田园风光，表达隐居之志",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "《黄鹤楼》",
+                    "content": "崔颢将神话传说与眼前景物融为一体，抒发思乡之情",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "《使至塞上》",
+                    "content": "王维描绘边塞风光，表达孤寂之情",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "《渡荆门送别》",
+                    "content": "李白描绘出蜀入楚的所见所感，表达对故乡的留恋",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "《钱塘湖春行》",
+                    "content": "白居易描绘西湖早春景色，表达喜悦之情",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第四单元：散文阅读",
+        "content": "学习不同类型散文的主要特点，体会作者对生活的感受和思考",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "叙事散文",
+            "content": "通过记事写人表达情感",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《背影》",
+                "content": "朱自清回忆父亲送站的情景，表达父子深情",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "细节描写",
+                    "content": "通过父亲过铁道买橘子等细节表现父爱",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "语言特点",
+                    "content": "素朴而又典雅，简净而又细致",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "抒情散文",
+            "content": "通过托物言志或写景抒情表达情感",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《白杨礼赞》",
+                "content": "茅盾赞美白杨树的顽强生命力，象征北方农民的精神",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "象征手法",
+                    "content": "用白杨树象征北方农民的朴质、坚强、力求上进",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "语言特点",
+                    "content": "感情充沛，文气酣畅",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《昆明的雨》",
+                "content": "汪曾祺回忆昆明雨季的人、事、景、物，表达喜爱与想念",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "写景状物",
+                    "content": "描绘昆明雨季的景物，富有美感和诗意",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "语言风格",
+                    "content": "信笔所至，无拘无束，如话家常",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "哲理散文",
+            "content": "通过畅谈哲理表达人生感悟",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "《永久的生命》",
+                "content": "严文井感慨个人生命的短暂，歌颂生命自身的神奇和不朽",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "《我为什么而活着》",
+                "content": "罗素阐述支配其一生的三种感情：爱情、知识、同情心",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第五单元：说明文阅读",
+        "content": "学习说明文的阅读和写作，把握说明对象的特征",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "事物说明文",
+            "content": "介绍事物的特征、构造、功能等",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《中国石拱桥》",
+                "content": "茅以昇介绍中国石拱桥的特点和成就",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "说明方法",
+                    "content": "运用举例子、列数字、作比较等说明方法",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "语言特点",
+                    "content": "准确、严谨，适当生动",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《苏州园林》",
+                "content": "叶圣陶介绍苏州园林的总体特征和具体表现",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "说明顺序",
+                    "content": "从整体到局部，从主要到次要",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "语言特点",
+                    "content": "简洁明了，生动形象",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "事理说明文",
+            "content": "阐述事物的原理、规律等",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "《梦回繁华》",
+                "content": "毛宁介绍《清明上河图》的内容和艺术价值",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "说明方法",
+                    "content": "引用资料，描述画面，阐释意义",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "语言特点",
+                    "content": "使用大量四字短语，富有文化韵味",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第六单元：古诗文深度阅读",
+        "content": "学习文言文和古诗词，理解作者的观点与感情，感受古人的智慧与胸襟",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "文言文",
+            "content": "借助注释或工具书疏通文意，理清文章脉络层次",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "《孟子》三章",
+                "content": "包括《得道多助，失道寡助》《富贵不能淫》《生于忧患，死于安乐》",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "《得道多助，失道寡助》",
+                    "content": "阐述仁政的重要性",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "《富贵不能淫》",
+                    "content": "界定大丈夫的标准",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "《生于忧患，死于安乐》",
+                    "content": "论述忧患激励人奋发图强",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《愚公移山》",
+                "content": "通过寓言故事表达坚持不懈的精神",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "《周亚夫军细柳》",
+                "content": "通过对比衬托刻画周亚夫治军严谨的形象",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "古诗词",
+            "content": "反复诵读，体会情感，领略意境",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "《诗词五首》",
+                "content": "包括《饮酒》《春望》《雁门太守行》《赤壁》《渔家傲》",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "《饮酒》",
+                    "content": "陶渊明表达隐居生活的闲适自得",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "《春望》",
+                    "content": "杜甫表达战乱中的忧国忧民之情",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "《雁门太守行》",
+                    "content": "李贺描绘边塞战争场景，表达英勇无畏",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "《赤壁》",
+                    "content": "杜牧借古讽今，表达怀才不遇之感",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "《渔家傲》",
+                    "content": "李清照表达对自由生活的向往",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "新闻阅读",
+      "tail": "消息",
+      "relation": "包含"
+    },
+    {
+      "head": "新闻阅读",
+      "tail": "新闻特写",
+      "relation": "包含"
+    },
+    {
+      "head": "新闻阅读",
+      "tail": "通讯",
+      "relation": "包含"
+    },
+    {
+      "head": "新闻阅读",
+      "tail": "新闻评论",
+      "relation": "包含"
+    },
+    {
+      "head": "消息",
+      "tail": "消息的结构",
+      "relation": "由...组成"
+    },
+    {
+      "head": "消息",
+      "tail": "消息的语言特点",
+      "relation": "具有"
+    },
+    {
+      "head": "新闻采访",
+      "tail": "采访准备",
+      "relation": "包含"
+    },
+    {
+      "head": "新闻采访",
+      "tail": "采访提纲",
+      "relation": "包含"
+    },
+    {
+      "head": "新闻采访",
+      "tail": "采访过程",
+      "relation": "包含"
+    },
+    {
+      "head": "新闻采访",
+      "tail": "素材整理",
+      "relation": "包含"
+    },
+    {
+      "head": "新闻写作",
+      "tail": "消息写作",
+      "relation": "包含"
+    },
+    {
+      "head": "新闻写作",
+      "tail": "其他新闻体裁写作",
+      "relation": "包含"
+    },
+    {
+      "head": "新闻写作",
+      "tail": "编辑制作",
+      "relation": "包含"
+    },
+    {
+      "head": "回忆性散文",
+      "tail": "《藤野先生》",
+      "relation": "包含"
+    },
+    {
+      "head": "回忆性散文",
+      "tail": "《回忆鲁迅先生》",
+      "relation": "包含"
+    },
+    {
+      "head": "《藤野先生》",
+      "tail": "人物描写",
+      "relation": "运用"
+    },
+    {
+      "head": "《藤野先生》",
+      "tail": "情感表达",
+      "relation": "运用"
+    },
+    {
+      "head": "《回忆鲁迅先生》",
+      "tail": "细节描写",
+      "relation": "运用"
+    },
+    {
+      "head": "《回忆鲁迅先生》",
+      "tail": "语言风格",
+      "relation": "具有"
+    },
+    {
+      "head": "传记",
+      "tail": "《天上有颗“南仁东星”》",
+      "relation": "包含"
+    },
+    {
+      "head": "传记",
+      "tail": "《美丽的颜色》",
+      "relation": "包含"
+    },
+    {
+      "head": "《天上有颗“南仁东星”》",
+      "tail": "传记特点",
+      "relation": "具有"
+    },
+    {
+      "head": "《天上有颗“南仁东星”》",
+      "tail": "写作手法",
+      "relation": "运用"
+    },
+    {
+      "head": "《美丽的颜色》",
+      "tail": "叙事手法",
+      "relation": "运用"
+    },
+    {
+      "head": "《美丽的颜色》",
+      "tail": "引用传主的话",
+      "relation": "运用"
+    },
+    {
+      "head": "文言文",
+      "tail": "《三峡》",
+      "relation": "包含"
+    },
+    {
+      "head": "文言文",
+      "tail": "《短文二篇》",
+      "relation": "包含"
+    },
+    {
+      "head": "文言文",
+      "tail": "《与朱元思书》",
+      "relation": "包含"
+    },
+    {
+      "head": "《三峡》",
+      "tail": "写景顺序",
+      "relation": "运用"
+    },
+    {
+      "head": "《三峡》",
+      "tail": "语言特点",
+      "relation": "具有"
+    },
+    {
+      "head": "《短文二篇》",
+      "tail": "《答谢中书书》",
+      "relation": "包含"
+    },
+    {
+      "head": "《短文二篇》",
+      "tail": "《记承天寺夜游》",
+      "relation": "包含"
+    },
+    {
+      "head": "古诗词",
+      "tail": "《唐诗五首》",
+      "relation": "包含"
+    },
+    {
+      "head": "《唐诗五首》",
+      "tail": "《野望》",
+      "relation": "包含"
+    },
+    {
+      "head": "《唐诗五首》",
+      "tail": "《黄鹤楼》",
+      "relation": "包含"
+    },
+    {
+      "head": "《唐诗五首》",
+      "tail": "《使至塞上》",
+      "relation": "包含"
+    },
+    {
+      "head": "《唐诗五首》",
+      "tail": "《渡荆门送别》",
+      "relation": "包含"
+    },
+    {
+      "head": "《唐诗五首》",
+      "tail": "《钱塘湖春行》",
+      "relation": "包含"
+    },
+    {
+      "head": "叙事散文",
+      "tail": "《背影》",
+      "relation": "包含"
+    },
+    {
+      "head": "《背影》",
+      "tail": "细节描写",
+      "relation": "运用"
+    },
+    {
+      "head": "《背影》",
+      "tail": "语言特点",
+      "relation": "具有"
+    },
+    {
+      "head": "抒情散文",
+      "tail": "《白杨礼赞》",
+      "relation": "包含"
+    },
+    {
+      "head": "抒情散文",
+      "tail": "《昆明的雨》",
+      "relation": "包含"
+    },
+    {
+      "head": "《白杨礼赞》",
+      "tail": "象征手法",
+      "relation": "运用"
+    },
+    {
+      "head": "《白杨礼赞》",
+      "tail": "语言特点",
+      "relation": "具有"
+    },
+    {
+      "head": "《昆明的雨》",
+      "tail": "写景状物",
+      "relation": "运用"
+    },
+    {
+      "head": "《昆明的雨》",
+      "tail": "语言风格",
+      "relation": "具有"
+    },
+    {
+      "head": "哲理散文",
+      "tail": "《永久的生命》",
+      "relation": "包含"
+    },
+    {
+      "head": "哲理散文",
+      "tail": "《我为什么而活着》",
+      "relation": "包含"
+    },
+    {
+      "head": "事物说明文",
+      "tail": "《中国石拱桥》",
+      "relation": "包含"
+    },
+    {
+      "head": "事物说明文",
+      "tail": "《苏州园林》",
+      "relation": "包含"
+    },
+    {
+      "head": "《中国石拱桥》",
+      "tail": "说明方法",
+      "relation": "运用"
+    },
+    {
+      "head": "《中国石拱桥》",
+      "tail": "语言特点",
+      "relation": "具有"
+    },
+    {
+      "head": "《苏州园林》",
+      "tail": "说明顺序",
+      "relation": "运用"
+    },
+    {
+      "head": "《苏州园林》",
+      "tail": "语言特点",
+      "relation": "具有"
+    },
+    {
+      "head": "事理说明文",
+      "tail": "《梦回繁华》",
+      "relation": "包含"
+    },
+    {
+      "head": "《梦回繁华》",
+      "tail": "说明方法",
+      "relation": "运用"
+    },
+    {
+      "head": "《梦回繁华》",
+      "tail": "语言特点",
+      "relation": "具有"
+    },
+    {
+      "head": "文言文",
+      "tail": "《孟子》三章",
+      "relation": "包含"
+    },
+    {
+      "head": "文言文",
+      "tail": "《愚公移山》",
+      "relation": "包含"
+    },
+    {
+      "head": "文言文",
+      "tail": "《周亚夫军细柳》",
+      "relation": "包含"
+    },
+    {
+      "head": "《孟子》三章",
+      "tail": "《得道多助，失道寡助》",
+      "relation": "包含"
+    },
+    {
+      "head": "《孟子》三章",
+      "tail": "《富贵不能淫》",
+      "relation": "包含"
+    },
+    {
+      "head": "《孟子》三章",
+      "tail": "《生于忧患，死于安乐》",
+      "relation": "包含"
+    },
+    {
+      "head": "古诗词",
+      "tail": "《诗词五首》",
+      "relation": "包含"
+    },
+    {
+      "head": "《诗词五首》",
+      "tail": "《饮酒》",
+      "relation": "包含"
+    },
+    {
+      "head": "《诗词五首》",
+      "tail": "《春望》",
+      "relation": "包含"
+    },
+    {
+      "head": "《诗词五首》",
+      "tail": "《雁门太守行》",
+      "relation": "包含"
+    },
+    {
+      "head": "《诗词五首》",
+      "tail": "《赤壁》",
+      "relation": "包含"
+    },
+    {
+      "head": "《诗词五首》",
+      "tail": "《渔家傲》",
+      "relation": "包含"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:37:24",
+    "version": "1.1"
+  }
+}

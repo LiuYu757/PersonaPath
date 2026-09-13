@@ -1,0 +1,372 @@
+{
+  "knowledge_tree": {
+    "title": "社会工作概论",
+    "content": "社会工作是一门应用性社会科学，以利他主义为指导，运用专业方法帮助弱势群体解决社会问题、提升社会功能",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "社会工作的定义与性质",
+        "content": "社会工作的基本概念、特征和本质属性",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "社会工作的定义",
+            "content": "社会工作是以利他主义为指导，以科学知识为基础，运用专业方法帮助有困难的人或群体解决社会问题的职业活动",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "社会工作的本质",
+            "content": "助人自助，通过专业介入帮助服务对象增强自身能力，实现自我发展",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "社会工作的特征",
+            "content": "专业性、科学性、实践性、价值导向性、系统性",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "社会工作的历史发展",
+        "content": "社会工作在西方和中国的起源与发展历程",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "西方社会工作的起源",
+            "content": "起源于19世纪末20世纪初的慈善组织运动和睦邻组织运动",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "中国社会工作的发展",
+            "content": "20世纪20年代引入，80年代恢复重建，21世纪专业化发展",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "专业化的标志",
+            "content": "专业教育体系建立、职业资格认证制度、专业伦理规范形成",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "社会工作的价值体系",
+        "content": "指导社会工作实践的价值理念和伦理原则",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "核心价值观",
+            "content": "尊重人的尊严和价值、追求社会正义、强调服务、重视人际关系",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "伦理原则",
+            "content": "保密原则、非评判原则、自决原则、接纳原则",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "伦理困境",
+            "content": "保密与保护生命的冲突、案主自决与他人利益的冲突等",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "社会工作理论",
+        "content": "指导社会工作实践的理论基础",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "系统理论",
+            "content": "强调人与环境的互动关系，个人问题是系统功能失调的表现",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "生态系统理论",
+            "content": "关注个人与不同层次环境系统的相互作用",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "优势视角",
+            "content": "关注服务对象的优势和资源而非问题和缺陷",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "增能理论",
+            "content": "通过增强个人能力和控制感来解决问题",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "社会工作方法",
+        "content": "社会工作的主要介入方法和技术",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "个案工作",
+            "content": "以个人或家庭为对象的社会工作方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "个案工作流程",
+                "content": "接案、评估、计划、介入、评估、结案",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "主要模式",
+                "content": "心理社会模式、任务中心模式、危机干预模式等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "小组工作",
+            "content": "通过小组互动促进个人成长和社会功能增强",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "小组类型",
+                "content": "教育小组、支持小组、治疗小组、任务小组等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "小组发展阶段",
+                "content": "开始阶段、冲突阶段、凝聚阶段、成果阶段、结束阶段",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "社区工作",
+            "content": "以社区为对象，促进社区发展和居民参与",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "社区工作模式",
+                "content": "地区发展、社会策划、社会行动",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "社区工作技巧",
+                "content": "社区分析、资源动员、居民组织、项目策划等",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "社会工作领域",
+        "content": "社会工作的主要服务领域和对象群体",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "儿童青少年社会工作",
+            "content": "服务于儿童青少年的成长发展和社会适应",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "老年社会工作",
+            "content": "服务于老年人的生活质量和社会参与",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "残疾人社会工作",
+            "content": "促进残疾人社会融合和权利保障",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "医疗社会工作",
+            "content": "在医院等医疗机构中提供心理社会服务",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "社会工作概论课程中的典型问题类型",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "概念辨析题",
+            "content": "区分相关概念如社会工作与社会服务、个案工作与心理咨询等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "案例分析题",
+            "content": "针对具体案例进行分析并提出介入策略",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "伦理困境分析题",
+            "content": "分析社会工作实践中的伦理困境并提出解决方案",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "理论应用题",
+            "content": "运用特定理论分析社会问题或设计介入方案",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "社会工作",
+      "tail": "利他主义",
+      "relation": "以...为指导"
+    },
+    {
+      "head": "社会工作",
+      "tail": "专业方法",
+      "relation": "运用"
+    },
+    {
+      "head": "社会工作",
+      "tail": "助人自助",
+      "relation": "本质是"
+    },
+    {
+      "head": "个案工作",
+      "tail": "社会工作方法",
+      "relation": "属于"
+    },
+    {
+      "head": "小组工作",
+      "tail": "小组互动",
+      "relation": "通过...实现"
+    },
+    {
+      "head": "社区工作",
+      "tail": "社区发展",
+      "relation": "促进"
+    },
+    {
+      "head": "系统理论",
+      "tail": "人与环境互动",
+      "relation": "强调"
+    },
+    {
+      "head": "优势视角",
+      "tail": "服务对象优势",
+      "relation": "关注"
+    },
+    {
+      "head": "伦理原则",
+      "tail": "保密原则",
+      "relation": "包含"
+    },
+    {
+      "head": "伦理原则",
+      "tail": "非评判原则",
+      "relation": "包含"
+    },
+    {
+      "head": "个案工作流程",
+      "tail": "接案",
+      "relation": "起始于"
+    },
+    {
+      "head": "个案工作流程",
+      "tail": "结案",
+      "relation": "结束于"
+    },
+    {
+      "head": "小组工作",
+      "tail": "小组发展阶段",
+      "relation": "遵循"
+    },
+    {
+      "head": "社区工作模式",
+      "tail": "地区发展",
+      "relation": "包括"
+    },
+    {
+      "head": "社区工作模式",
+      "tail": "社会策划",
+      "relation": "包括"
+    },
+    {
+      "head": "社会工作价值体系",
+      "tail": "伦理困境",
+      "relation": "产生"
+    },
+    {
+      "head": "儿童青少年社会工作",
+      "tail": "成长发展",
+      "relation": "服务于"
+    },
+    {
+      "head": "老年社会工作",
+      "tail": "生活质量",
+      "relation": "提升"
+    },
+    {
+      "head": "医疗社会工作",
+      "tail": "心理社会服务",
+      "relation": "提供"
+    },
+    {
+      "head": "案例分析题",
+      "tail": "介入策略",
+      "relation": "需要提出"
+    },
+    {
+      "head": "理论应用题",
+      "tail": "介入方案设计",
+      "relation": "涉及"
+    },
+    {
+      "head": "社会工作",
+      "tail": "科学性",
+      "relation": "具有...特征"
+    },
+    {
+      "head": "社会工作",
+      "tail": "实践性",
+      "relation": "具有...特征"
+    },
+    {
+      "head": "增能理论",
+      "tail": "个人能力增强",
+      "relation": "通过...实现"
+    },
+    {
+      "head": "生态系统理论",
+      "tail": "环境层次",
+      "relation": "关注不同"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:40:43",
+    "version": "1.1"
+  }
+}

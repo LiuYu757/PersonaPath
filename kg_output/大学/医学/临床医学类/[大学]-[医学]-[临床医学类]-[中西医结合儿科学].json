@@ -1,0 +1,232 @@
+{
+  "knowledge_tree": {
+    "title": "中西医结合儿科学",
+    "content": "融合中医和西医理论，研究儿童生长发育、疾病防治的临床学科。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "儿科学基础",
+        "content": "儿童生长发育规律及生理病理特点。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "小儿年龄分期",
+            "content": "胎儿期、新生儿期、婴儿期、幼儿期、学龄前期、学龄期、青春期。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "小儿生理特点",
+            "content": "脏腑娇嫩，形气未充；生机蓬勃，发育迅速。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "小儿病理特点",
+            "content": "发病容易，传变迅速；脏气清灵，易趋康复。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "儿童保健",
+        "content": "各年龄期儿童保健重点及中西医结合保健方法。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "胎儿期保健",
+            "content": "养胎、护胎与胎教的中医理论及现代围产医学保健。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "新生儿期保健",
+            "content": "拭口、断脐、洗浴、保暖等中医新生儿护理与现代新生儿筛查、护理。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "婴儿期保健",
+            "content": "母乳喂养、辅食添加、计划免疫及中医育儿方法如捏脊。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "儿科常见疾病诊治",
+        "content": "运用中西医结合方法诊断和治疗儿科常见疾病。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "肺系病证",
+            "content": "感冒、咳嗽、肺炎喘嗽等呼吸系统疾病的中西医结合诊治。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "小儿感冒",
+                "content": "病因病机、辨证分型（风寒、风热、暑湿、时邪感冒）及中西医治疗原则。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "小儿肺炎",
+                "content": "病原学、病理生理、中医辨证（常证、变证）及综合治疗方案。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "脾系病证",
+            "content": "泄泻、厌食、积滞、疳证等消化系统疾病的中西医结合诊治。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "小儿泄泻",
+                "content": "病因（感染、非感染）、中医辨证（湿热泻、风寒泻、伤食泻、脾虚泻等）及液体疗法与中药治疗结合。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "心肝病证",
+            "content": "病毒性心肌炎、注意力缺陷多动障碍、惊风等疾病的中西医结合诊治。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "急惊风",
+                "content": "病因病机（热、痰、惊、风）、四证八候及急救处理（西医对症、中医开窍熄风）。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "中西医结合治疗方法",
+        "content": "儿科常用的中西医结合治疗技术与药物应用。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "中药内治法",
+            "content": "儿科中药剂型、用量、煎服法及用药原则。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "中医外治法",
+            "content": "推拿、捏脊、针灸、敷贴等疗法在儿科的应用。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "西医治疗基础",
+            "content": "儿科常用药物药理学、剂量计算及给药途径。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "中西医结合儿科学",
+      "tail": "儿科学基础",
+      "relation": "包含"
+    },
+    {
+      "head": "中西医结合儿科学",
+      "tail": "儿科常见疾病诊治",
+      "relation": "包含"
+    },
+    {
+      "head": "儿科学基础",
+      "tail": "小儿生理特点",
+      "relation": "包含"
+    },
+    {
+      "head": "儿科学基础",
+      "tail": "小儿病理特点",
+      "relation": "包含"
+    },
+    {
+      "head": "小儿生理特点",
+      "tail": "小儿病理特点",
+      "relation": "是...的基础"
+    },
+    {
+      "head": "儿科常见疾病诊治",
+      "tail": "肺系病证",
+      "relation": "包含"
+    },
+    {
+      "head": "儿科常见疾病诊治",
+      "tail": "脾系病证",
+      "relation": "包含"
+    },
+    {
+      "head": "肺系病证",
+      "tail": "小儿感冒",
+      "relation": "包含"
+    },
+    {
+      "head": "肺系病证",
+      "tail": "小儿肺炎",
+      "relation": "包含"
+    },
+    {
+      "head": "小儿感冒",
+      "tail": "小儿肺炎",
+      "relation": "可能发展为"
+    },
+    {
+      "head": "脾系病证",
+      "tail": "小儿泄泻",
+      "relation": "包含"
+    },
+    {
+      "head": "小儿泄泻",
+      "tail": "液体疗法",
+      "relation": "治疗中应用"
+    },
+    {
+      "head": "中西医结合治疗方法",
+      "tail": "中药内治法",
+      "relation": "包含"
+    },
+    {
+      "head": "中西医结合治疗方法",
+      "tail": "中医外治法",
+      "relation": "包含"
+    },
+    {
+      "head": "中医外治法",
+      "tail": "捏脊",
+      "relation": "包含"
+    },
+    {
+      "head": "捏脊",
+      "tail": "婴儿期保健",
+      "relation": "应用于"
+    },
+    {
+      "head": "小儿年龄分期",
+      "tail": "儿童保健",
+      "relation": "是...的依据"
+    },
+    {
+      "head": "急惊风",
+      "tail": "开窍熄风",
+      "relation": "治疗原则为"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 16:35:41",
+    "version": "1.1"
+  }
+}

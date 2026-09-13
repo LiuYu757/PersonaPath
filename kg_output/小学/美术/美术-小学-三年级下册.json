@@ -1,0 +1,640 @@
+{
+  "knowledge_tree": {
+    "title": "美术三年级下册",
+    "content": "义务教育教科书美术三年级下册，涵盖水墨游戏、重复与对称、线条运用、色彩表现、手工制作等多方面内容",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "水墨游戏",
+        "content": "学习水墨画的基本工具和墨色变化，体验水墨的趣味性",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "水墨工具",
+            "content": "宣纸、墨、毛笔等中国传统水墨画工具",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "墨色变化",
+            "content": "浓、淡、焦、浓、清五种墨色层次",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "水墨表现技法",
+            "content": "通过笔触变化表现物象的形态和意境",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "重重复复",
+        "content": "学习图形重复排列的规律和美感",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "重复排列规律",
+            "content": "图形向左右、上下有规律地重复排列形成新图形",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "重复构成形式",
+            "content": "对称重复、均衡重复等构成形式",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "重复材料运用",
+            "content": "利用各种材料进行重复排列创作",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "曲曲直直",
+        "content": "学习直线和曲线的艺术表现力",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "直线特性",
+            "content": "直线给人明快、简洁、有力的感觉",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "曲线特性",
+            "content": "曲线给人柔和、流动、轻快的感觉",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "线材组合创作",
+            "content": "用直线和曲线材料组合新形象",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "平平稳稳",
+        "content": "学习对称与均衡的构图原理",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "对称形式",
+            "content": "中线两侧图形完全相同的形式",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "均衡形式",
+            "content": "中线两侧图形不同但保持平衡的形式",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "对称均衡应用",
+            "content": "在绘画、剪纸中运用对称与均衡原理",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "感受音乐",
+        "content": "通过绘画表现音乐的感受和联想",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "音乐与色彩联想",
+            "content": "不同音乐节奏引发不同的色彩感受",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "音乐与线条表现",
+            "content": "用线条表现音乐的节奏和旋律",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "综合音乐表现",
+            "content": "综合运用色彩和线条表现音乐感受",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "多彩的梦",
+        "content": "用绘画表现梦境中的奇遇和想象",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "梦境特征",
+            "content": "梦境中物体大小、色彩、形状的变化特征",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "多种画笔综合应用",
+            "content": "蜡笔、水笔等不同画材的表现效果",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "刮蜡纸技法",
+            "content": "利用刮蜡纸表现闪烁的梦境效果",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "变幻无穷的形象",
+        "content": "通过对常见物品的联想创造新形象",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "形象变形方法",
+            "content": "对基本形进行再加工和变化的方法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "添加组合技巧",
+            "content": "通过添加和组合创造新形象",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "背景处理",
+            "content": "添画背景完善作品构图",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "未来的建筑",
+        "content": "发挥想象力创作未来建筑设计",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "建筑功能设计",
+            "content": "考虑未来建筑的特殊功能和用途",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "建筑造型创新",
+            "content": "设计奇特造型的未来建筑",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "立体建筑制作",
+            "content": "用纸制作立体未来建筑模型",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "难忘的朋友",
+        "content": "用线描技法表现人物形象",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "人物观察方法",
+            "content": "观察同学形体姿态特点的方法",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "线描人物技法",
+            "content": "轮廓线简练、关节处线条加密等技法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "细节表现",
+            "content": "通过饰物和图案丰富画面细节",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "快乐的节日",
+        "content": "表现节日热烈场景的绘画创作",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "节日气氛表现",
+            "content": "用恰当色调表现不同节日气氛",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "热烈场景构图",
+            "content": "表现节日热闹场景的构图方法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "头饰花束制作",
+            "content": "结合节日演出制作相关道具",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "动物的花衣裳",
+        "content": "表现动物斑纹和色彩的创作",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "动物斑纹功能",
+            "content": "保护作用、警戒作用、美化作用",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "剪刻技法",
+            "content": "对折剪刻表现动物斑纹的方法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "色彩搭配",
+            "content": "为动物设计漂亮的花纹色彩",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "多彩的窗户",
+        "content": "窗户的设计和制作",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "窗户功能与形式",
+            "content": "采光功能和美化环境的双重作用",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "窗户制作方法",
+            "content": "用纸板和彩纸制作奇特窗户的步骤",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "镂空技法",
+            "content": "镂空雕刻的技法和安全注意事项",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "彩线贴画",
+        "content": "用彩线制作装饰贴画",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "彩线制作方法",
+            "content": "将皱纹纸捻成线的方法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "色彩搭配原理",
+            "content": "画面颜色协调搭配的方法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "点线面对比",
+            "content": "运用点、线、面对比增强画面效果",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "立体的画面",
+        "content": "制作浮雕效果的立体画面",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "浮雕特征",
+            "content": "形象有凹有凸的立体效果",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "材料选择",
+            "content": "选择合适的材料制作浮雕",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "锡箔纸应用",
+            "content": "利用锡箔纸产生特殊画面效果",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "我们班级的标志",
+        "content": "设计班级标志",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "标志设计原则",
+            "content": "形象简练、色彩明快、易于识别",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "设计方法",
+            "content": "具象形、抽象形及图文组合方法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "标志寓意表达",
+            "content": "通过设计表达班级特色和寓意",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "家乡的桥和塔",
+        "content": "绘画表现家乡的桥和塔",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "构图安排",
+            "content": "合理安排画面突出主体物",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "结构特点表现",
+            "content": "表现桥或塔的结构特征",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "立体模型制作",
+            "content": "用各种材料制作桥塔立体模型",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "会“演戏”的玩具",
+        "content": "制作表演用玩具",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "玩具材料选择",
+            "content": "选择纸、手套、袜子等材料制作玩具",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "故事表演设计",
+            "content": "设计适合玩具表演的故事",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "玩具制作技法",
+            "content": "掌握基本的玩具制作方法和步骤",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "电脑美术",
+        "content": "用电脑“喷笔”工具进行美术创作",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "画图工具功能",
+            "content": "了解各种画图工具的功能和用途",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "喷笔工具使用",
+            "content": "掌握喷笔工具的使用方法和效果",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "电脑绘画技巧",
+            "content": "复制、粘贴、翻转等电脑绘画技巧",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "保护珍稀野生动物",
+        "content": "通过美术活动宣传保护野生动物",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "珍稀动物认知",
+            "content": "认识我国的珍稀野生动物",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "保护意识培养",
+            "content": "通过美术活动培养保护动物意识",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "宣传形式设计",
+            "content": "设计分布图、小报等宣传形式",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "认识图形标志",
+        "content": "认识和理解各种图形标志",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "标志功能理解",
+            "content": "理解图形标志的指示、禁止等功能",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "标志分类识别",
+            "content": "识别不同类别和用途的图形标志",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "标志应用认知",
+            "content": "认识图形标志在现代社会的广泛应用",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "水墨游戏",
+      "tail": "水墨工具",
+      "relation": "需要使用"
+    },
+    {
+      "head": "水墨游戏",
+      "tail": "墨色变化",
+      "relation": "重点学习"
+    },
+    {
+      "head": "重重复复",
+      "tail": "重复排列规律",
+      "relation": "基于"
+    },
+    {
+      "head": "曲曲直直",
+      "tail": "直线特性",
+      "relation": "包含"
+    },
+    {
+      "head": "曲曲直直",
+      "tail": "曲线特性",
+      "relation": "包含"
+    },
+    {
+      "head": "平平稳稳",
+      "tail": "对称形式",
+      "relation": "讲解"
+    },
+    {
+      "head": "平平稳稳",
+      "tail": "均衡形式",
+      "relation": "讲解"
+    },
+    {
+      "head": "感受音乐",
+      "tail": "音乐与色彩联想",
+      "relation": "涉及"
+    },
+    {
+      "head": "感受音乐",
+      "tail": "音乐与线条表现",
+      "relation": "涉及"
+    },
+    {
+      "head": "多彩的梦",
+      "tail": "梦境特征",
+      "relation": "表现"
+    },
+    {
+      "head": "多彩的梦",
+      "tail": "刮蜡纸技法",
+      "relation": "运用"
+    },
+    {
+      "head": "变幻无穷的形象",
+      "tail": "形象变形方法",
+      "relation": "使用"
+    },
+    {
+      "head": "未来的建筑",
+      "tail": "建筑功能设计",
+      "relation": "注重"
+    },
+    {
+      "head": "难忘的朋友",
+      "tail": "线描人物技法",
+      "relation": "运用"
+    },
+    {
+      "head": "快乐的节日",
+      "tail": "节日气氛表现",
+      "relation": "强调"
+    },
+    {
+      "head": "动物的花衣裳",
+      "tail": "动物斑纹功能",
+      "relation": "介绍"
+    },
+    {
+      "head": "多彩的窗户",
+      "tail": "镂空技法",
+      "relation": "需要掌握"
+    },
+    {
+      "head": "彩线贴画",
+      "tail": "色彩搭配原理",
+      "relation": "遵循"
+    },
+    {
+      "head": "立体的画面",
+      "tail": "浮雕特征",
+      "relation": "体现"
+    },
+    {
+      "head": "我们班级的标志",
+      "tail": "标志设计原则",
+      "relation": "依据"
+    },
+    {
+      "head": "家乡的桥和塔",
+      "tail": "构图安排",
+      "relation": "注重"
+    },
+    {
+      "head": "会“演戏”的玩具",
+      "tail": "玩具制作技法",
+      "relation": "教授"
+    },
+    {
+      "head": "电脑美术",
+      "tail": "喷笔工具使用",
+      "relation": "重点学习"
+    },
+    {
+      "head": "保护珍稀野生动物",
+      "tail": "珍稀动物认知",
+      "relation": "首先需要"
+    },
+    {
+      "head": "认识图形标志",
+      "tail": "标志功能理解",
+      "relation": "基础是"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 18:16:51",
+    "version": "1.1"
+  }
+}

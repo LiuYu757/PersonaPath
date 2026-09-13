@@ -1,0 +1,644 @@
+{
+  "knowledge_tree": {
+    "title": "七年级下册音乐",
+    "content": "本册教材围绕声音的科学属性、音乐的艺术表现、欣赏方法与表演创作展开，涵盖声学基础、音乐表现要素、联觉现象、复调音乐、记谱法与二度创作等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "声音的产生与属性",
+        "content": "声音由物体振动产生，通过空气传播至人耳，具有四种基本属性",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "振动与声波",
+            "content": "物体振动推动空气密度变化形成声波，通过鼓膜振动产生听觉",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "声音四属性",
+            "content": "频率（音高）、幅度（音强）、时间（音长）、波形（音色）",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "音高",
+                "content": "由振动频率决定，频率高则音高，频率低则音低",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "音强",
+                "content": "由振动幅度决定，幅度大则音强，幅度小则音弱",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "音长",
+                "content": "由振动时间决定，时间长则音长，时间短则音短",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "音色",
+                "content": "由振动波形决定，不同发声体产生不同音色",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "声音过程",
+            "content": "包含起音(attack)、持续(sustain)、衰减(decay)、消逝(release)四个阶段",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "音头",
+                "content": "声音起始部分，起音速度影响声音硬度",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "音腹",
+                "content": "声音持续部分，决定声音的稳定性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "音尾",
+                "content": "声音结束部分，影响声音的韵味",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "建筑声学基础",
+        "content": "研究声音在建筑环境中的传播与处理",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "直达声",
+            "content": "从声源直接到达听者耳朵的声音",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "反射声",
+            "content": "声音遇到硬质界面反射后到达听者",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "混响",
+            "content": "声源停止后声音在空间内持续的现象",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "混响时间",
+            "content": "声源停止后声音衰减60dB所需时间",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "音响设备与音频格式",
+        "content": "音乐播放设备与技术格式",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "声道类型",
+            "content": "单声道、双声道立体声、环绕立体声、三维声",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "音频格式",
+            "content": "MP3(有损压缩)、WAVE(无损)、FLAC(无损压缩)",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "音响设备选择",
+            "content": "从光泽度、均衡度、控制力等六个维度评价",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "音乐的艺术特性",
+        "content": "音乐作为声音艺术和情感艺术的特征",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "声音艺术",
+            "content": "以声音为材料满足听觉审美需求",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "情感艺术",
+            "content": "表达微妙难言的情绪体验",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "非语义性",
+            "content": "音乐不具有明确的语言含义",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "非视觉性",
+            "content": "音乐不具有视觉造型能力",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "联觉现象",
+        "content": "音乐通过联觉激发听觉之外的感受",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "音高联觉",
+            "content": "高音-明亮/上升，低音-暗淡/下降",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "力度联觉",
+            "content": "强音-强烈/接近，弱音-柔和/遥远",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "速度联觉",
+            "content": "快速度-兴奋/急促，慢速度-平静/舒缓",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "音色联觉",
+            "content": "紧张音色-尖锐/不安，松弛音色-圆润/安稳",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "音乐标题命名",
+        "content": "作品标题与音乐内容的关系类型",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "直接表现型",
+            "content": "标题直接体现表现内容",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "灵感启示型",
+            "content": "标题来自创作灵感来源",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "无关联型",
+            "content": "标题与内容无直接关联",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "音乐欣赏方法",
+        "content": "提高音乐欣赏能力的技巧与视角",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "微观聆听",
+            "content": "专注每个音的细微变化过程",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "层次分析",
+            "content": "同时关注音乐的多个声部层次",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "复调音乐",
+                "content": "多条旋律并行发展的组织形式",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "结构感知",
+            "content": "感受音乐的铺垫与高潮设计",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "音乐表演艺术",
+        "content": "表演者的二度创作与技术训练",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "表演技术",
+            "content": "更高、更快、更强与更低、更慢、更弱的技术要求",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "二度创作",
+            "content": "表演者对作品的个性化诠释",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "乐谱编订",
+            "content": "不同演奏家对同一作品的不同编订版本",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "记谱法",
+        "content": "音乐记录的符号系统与方法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "文字谱",
+            "content": "用文字记录弹奏指法的记谱方式",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "减字谱",
+            "content": "古琴减字组合谱",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "工尺谱",
+            "content": "中国传统工尺谱字记谱法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "纽姆谱",
+            "content": "中世纪符号记谱法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "五线谱",
+            "content": "现代通用五线记谱法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "简谱",
+            "content": "数字简谱记谱法",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "经典作品赏析",
+        "content": "教材中涉及的经典音乐作品",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "《游击队歌》",
+            "content": "贺绿汀词曲，表现游击队员英勇战斗",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "《回声》",
+            "content": "佚名词、拉索曲，表现回声效果",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "《大漠之夜》",
+            "content": "邵永强词、尚德义曲，混声无伴奏合唱",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "《中国人民解放军军歌》",
+            "content": "公木词、郑律成曲，进行曲风格",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "《保卫黄河》",
+            "content": "光未然词、冼星海曲，选自《黄河大合唱》",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "声音的产生与属性",
+      "tail": "振动与声波",
+      "relation": "包含"
+    },
+    {
+      "head": "声音的产生与属性",
+      "tail": "声音四属性",
+      "relation": "包含"
+    },
+    {
+      "head": "声音四属性",
+      "tail": "音高",
+      "relation": "包含"
+    },
+    {
+      "head": "声音四属性",
+      "tail": "音强",
+      "relation": "包含"
+    },
+    {
+      "head": "声音四属性",
+      "tail": "音长",
+      "relation": "包含"
+    },
+    {
+      "head": "声音四属性",
+      "tail": "音色",
+      "relation": "包含"
+    },
+    {
+      "head": "声音的产生与属性",
+      "tail": "声音过程",
+      "relation": "包含"
+    },
+    {
+      "head": "声音过程",
+      "tail": "音头",
+      "relation": "包含"
+    },
+    {
+      "head": "声音过程",
+      "tail": "音腹",
+      "relation": "包含"
+    },
+    {
+      "head": "声音过程",
+      "tail": "音尾",
+      "relation": "包含"
+    },
+    {
+      "head": "建筑声学基础",
+      "tail": "直达声",
+      "relation": "包含"
+    },
+    {
+      "head": "建筑声学基础",
+      "tail": "反射声",
+      "relation": "包含"
+    },
+    {
+      "head": "建筑声学基础",
+      "tail": "混响",
+      "relation": "包含"
+    },
+    {
+      "head": "建筑声学基础",
+      "tail": "混响时间",
+      "relation": "包含"
+    },
+    {
+      "head": "音响设备与音频格式",
+      "tail": "声道类型",
+      "relation": "包含"
+    },
+    {
+      "head": "音响设备与音频格式",
+      "tail": "音频格式",
+      "relation": "包含"
+    },
+    {
+      "head": "音响设备与音频格式",
+      "tail": "音响设备选择",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐的艺术特性",
+      "tail": "声音艺术",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐的艺术特性",
+      "tail": "情感艺术",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐的艺术特性",
+      "tail": "非语义性",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐的艺术特性",
+      "tail": "非视觉性",
+      "relation": "包含"
+    },
+    {
+      "head": "联觉现象",
+      "tail": "音高联觉",
+      "relation": "包含"
+    },
+    {
+      "head": "联觉现象",
+      "tail": "力度联觉",
+      "relation": "包含"
+    },
+    {
+      "head": "联觉现象",
+      "tail": "速度联觉",
+      "relation": "包含"
+    },
+    {
+      "head": "联觉现象",
+      "tail": "音色联觉",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐标题命名",
+      "tail": "直接表现型",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐标题命名",
+      "tail": "灵感启示型",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐标题命名",
+      "tail": "无关联型",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐欣赏方法",
+      "tail": "微观聆听",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐欣赏方法",
+      "tail": "层次分析",
+      "relation": "包含"
+    },
+    {
+      "head": "层次分析",
+      "tail": "复调音乐",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐欣赏方法",
+      "tail": "结构感知",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐表演艺术",
+      "tail": "表演技术",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐表演艺术",
+      "tail": "二度创作",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐表演艺术",
+      "tail": "乐谱编订",
+      "relation": "包含"
+    },
+    {
+      "head": "记谱法",
+      "tail": "文字谱",
+      "relation": "包含"
+    },
+    {
+      "head": "记谱法",
+      "tail": "减字谱",
+      "relation": "包含"
+    },
+    {
+      "head": "记谱法",
+      "tail": "工尺谱",
+      "relation": "包含"
+    },
+    {
+      "head": "记谱法",
+      "tail": "纽姆谱",
+      "relation": "包含"
+    },
+    {
+      "head": "记谱法",
+      "tail": "五线谱",
+      "relation": "包含"
+    },
+    {
+      "head": "记谱法",
+      "tail": "简谱",
+      "relation": "包含"
+    },
+    {
+      "head": "经典作品赏析",
+      "tail": "《游击队歌》",
+      "relation": "包含"
+    },
+    {
+      "head": "经典作品赏析",
+      "tail": "《回声》",
+      "relation": "包含"
+    },
+    {
+      "head": "经典作品赏析",
+      "tail": "《大漠之夜》",
+      "relation": "包含"
+    },
+    {
+      "head": "经典作品赏析",
+      "tail": "《中国人民解放军军歌》",
+      "relation": "包含"
+    },
+    {
+      "head": "经典作品赏析",
+      "tail": "《保卫黄河》",
+      "relation": "包含"
+    },
+    {
+      "head": "声音四属性",
+      "tail": "音乐表现基本因素",
+      "relation": "决定"
+    },
+    {
+      "head": "联觉现象",
+      "tail": "音乐标题命名",
+      "relation": "影响"
+    },
+    {
+      "head": "微观聆听",
+      "tail": "声音过程",
+      "relation": "关注"
+    },
+    {
+      "head": "层次分析",
+      "tail": "复调音乐",
+      "relation": "应用于"
+    },
+    {
+      "head": "表演技术",
+      "tail": "二度创作",
+      "relation": "支撑"
+    },
+    {
+      "head": "记谱法",
+      "tail": "二度创作",
+      "relation": "提供空间"
+    },
+    {
+      "head": "音高",
+      "tail": "联觉现象",
+      "relation": "激发"
+    },
+    {
+      "head": "音强",
+      "tail": "联觉现象",
+      "relation": "激发"
+    },
+    {
+      "head": "音长",
+      "tail": "联觉现象",
+      "relation": "激发"
+    },
+    {
+      "head": "音色",
+      "tail": "联觉现象",
+      "relation": "激发"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:41:58",
+    "version": "1.1"
+  }
+}

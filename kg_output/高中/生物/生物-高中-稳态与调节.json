@@ -1,0 +1,723 @@
+{
+  "knowledge_tree": {
+    "title": "稳态与调节",
+    "content": "生物体内环境稳态的维持及调节机制，包括神经调节、体液调节和免疫调节",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "人体的内环境与稳态",
+        "content": "内环境的组成、理化性质及稳态的维持机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "细胞生活的环境",
+            "content": "体液、内环境的概念及组成，细胞外液的成分和理化性质",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "体液的组成",
+                "content": "体液包括细胞内液和细胞外液，细胞外液包括血浆、组织液和淋巴液",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "内环境的概念",
+                "content": "由细胞外液构成的液体环境，是细胞直接生活的环境",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "细胞外液的成分",
+                "content": "水、蛋白质、无机盐、营养物质、代谢废物等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "内环境的理化性质",
+                "content": "渗透压、酸碱度、温度等相对稳定",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "细胞与内环境的物质交换",
+                "content": "细胞通过内环境与外界环境进行物质交换",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "内环境的稳态",
+            "content": "稳态的概念、调节机制及重要意义",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "稳态的概念",
+                "content": "正常机体通过调节作用，使内环境的成分和理化性质保持相对稳定状态",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "稳态的调节机制",
+                "content": "神经-体液-免疫调节网络",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "稳态失调",
+                "content": "内环境稳态遭到破坏时引发的疾病",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "稳态的重要意义",
+                "content": "维持细胞正常代谢的必要条件",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "神经调节",
+        "content": "神经系统的基本结构和功能，反射与反射弧，兴奋的传导和传递",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "神经调节的结构基础",
+            "content": "神经系统的基本组成，神经元的结构和功能",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "中枢神经系统",
+                "content": "脑和脊髓，含有各种神经中枢",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "外周神经系统",
+                "content": "脑神经和脊神经，包括传入神经和传出神经",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "自主神经系统",
+                "content": "交感神经和副交感神经，调节内脏活动",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "神经元的结构",
+                "content": "胞体、树突、轴突，构成神经系统的基本单位",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "神经调节的基本方式",
+            "content": "反射与反射弧，非条件反射和条件反射",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "反射的概念",
+                "content": "在中枢神经系统参与下，机体对内外刺激的规律性应答",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "反射弧的组成",
+                "content": "感受器、传入神经、神经中枢、传出神经、效应器",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "非条件反射",
+                "content": "生来就有的反射，如膝跳反射",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "条件反射",
+                "content": "后天学习和训练形成的反射",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "神经冲动的产生和传导",
+            "content": "兴奋在神经纤维上的传导和在神经元之间的传递",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "静息电位",
+                "content": "内负外正的膜电位状态",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "动作电位",
+                "content": "受刺激时产生的内正外负的膜电位变化",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "兴奋的传导",
+                "content": "局部电流方式在神经纤维上传导",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "突触的结构",
+                "content": "突触前膜、突触间隙、突触后膜",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "兴奋的传递",
+                "content": "通过神经递质在突触处传递",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "神经系统的分级调节",
+            "content": "大脑皮层的高级功能，神经系统对躯体运动和内脏活动的分级调节",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "大脑皮层的功能",
+                "content": "最高级神经中枢，调节各种生命活动",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "躯体运动的分级调节",
+                "content": "脊髓、脑干、小脑、大脑皮层共同调节",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "内脏活动的分级调节",
+                "content": "脊髓、脑干、下丘脑、大脑皮层共同调节",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "人脑的高级功能",
+            "content": "语言、学习、记忆、情绪等高级神经活动",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "语言功能",
+                "content": "听、说、读、写等语言活动的中枢",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "学习和记忆",
+                "content": "条件反射的建立和巩固过程",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "情绪调节",
+                "content": "情绪的产生和调节机制",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "体液调节",
+        "content": "激素调节的发现、内分泌系统的组成和功能，激素调节的特点和实例",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "激素与内分泌系统",
+            "content": "激素的发现历程，内分泌系统的组成和功能",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "激素的发现",
+                "content": "促胰液素、胰岛素的发现过程",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "内分泌腺",
+                "content": "垂体、甲状腺、肾上腺、胰岛、性腺等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "激素的种类",
+                "content": "蛋白质类、固醇类、氨基酸衍生物等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "激素调节的过程",
+            "content": "血糖平衡的调节，甲状腺激素分泌的分级调节",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "血糖平衡的调节",
+                "content": "胰岛素和胰高血糖素的拮抗作用",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "甲状腺激素的分级调节",
+                "content": "下丘脑-垂体-甲状腺轴",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "反馈调节",
+                "content": "正反馈和负反馈调节机制",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "体液调节与神经调节的关系",
+            "content": "神经调节和体液调节的比较和协调",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "神经调节和体液调节的特点",
+                "content": "作用途径、反应速度、作用范围、作用时间的比较",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "神经-体液调节",
+                "content": "神经系统通过影响激素分泌调节机体功能",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "体温调节",
+                "content": "产热和散热的平衡调节",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "水盐平衡调节",
+                "content": "抗利尿激素和醛固酮的调节作用",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "免疫调节",
+        "content": "免疫系统的组成和功能，特异性免疫，免疫失调和免疫学应用",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "免疫系统的组成和功能",
+            "content": "免疫器官、免疫细胞和免疫活性物质，免疫系统的三大功能",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "免疫器官",
+                "content": "骨髓、胸腺、脾、淋巴结、扁桃体等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "免疫细胞",
+                "content": "淋巴细胞、吞噬细胞等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "免疫活性物质",
+                "content": "抗体、细胞因子、溶菌酶等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "免疫系统的功能",
+                "content": "免疫防御、免疫自稳、免疫监视",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "特异性免疫",
+            "content": "体液免疫和细胞免疫的过程和机制",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "抗原和抗体",
+                "content": "抗原的概念，抗体的结构和功能",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "体液免疫",
+                "content": "B细胞激活、增殖分化产生抗体",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "细胞免疫",
+                "content": "T细胞激活、增殖分化杀伤靶细胞",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "免疫记忆",
+                "content": "记忆细胞的作用和特点",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "免疫失调",
+            "content": "过敏反应、自身免疫病、免疫缺陷病",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "过敏反应",
+                "content": "已免疫机体再次接触相同抗原时发生的组织损伤或功能紊乱",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "自身免疫病",
+                "content": "免疫系统攻击自身组织和器官引起的疾病",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "免疫缺陷病",
+                "content": "免疫功能不足或缺乏引起的疾病",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "免疫学的应用",
+            "content": "疫苗、器官移植、免疫诊断和治疗",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "疫苗",
+                "content": "预防传染病的生物制品",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "器官移植",
+                "content": "用正常器官置换丧失功能的器官",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "免疫诊断",
+                "content": "利用抗原抗体反应进行疾病诊断",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "免疫治疗",
+                "content": "免疫增强疗法和免疫抑制疗法",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "植物生命活动的调节",
+        "content": "植物激素的种类和作用，植物生长调节剂的应用，环境因素对植物生命活动的调节",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "植物生长素",
+            "content": "生长素的发现、合成、运输、分布和生理作用",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "生长素的发现",
+                "content": "达尔文、温特等科学家的实验",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "生长素的合成和运输",
+                "content": "合成部位，极性运输和非极性运输",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "生长素的分布",
+                "content": "相对集中分布在生长旺盛的部位",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "生长素的生理作用",
+                "content": "促进细胞伸长、诱导细胞分化，作用特点",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "其他植物激素",
+            "content": "赤霉素、细胞分裂素、脱落酸、乙烯的作用",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "赤霉素",
+                "content": "促进细胞伸长、分裂和分化",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "细胞分裂素",
+                "content": "促进细胞分裂",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "脱落酸",
+                "content": "抑制细胞分裂，促进脱落和休眠",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "乙烯",
+                "content": "促进果实成熟，促进脱落",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "植物生长调节剂的应用",
+            "content": "植物生长调节剂的类型、作用和施用",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "植物生长调节剂的类型",
+                "content": "生长素类、赤霉素类、细胞分裂素类等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "植物生长调节剂的作用",
+                "content": "促进生根、控制生长、提高产量等",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "植物生长调节剂的施用",
+                "content": "浓度、时间、部位等因素的影响",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "环境因素参与调节植物的生命活动",
+            "content": "光、温度、重力等环境因素对植物生长发育的调节",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "光对植物生长发育的调节",
+                "content": "光信号、光敏色素的作用",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "温度对植物生长发育的调节",
+                "content": "温度影响种子萌发、开花结果等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "重力对植物生长发育的调节",
+                "content": "向地性、背地性生长",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "内环境",
+      "tail": "血浆",
+      "relation": "包含"
+    },
+    {
+      "head": "内环境",
+      "tail": "组织液",
+      "relation": "包含"
+    },
+    {
+      "head": "内环境",
+      "tail": "淋巴液",
+      "relation": "包含"
+    },
+    {
+      "head": "稳态",
+      "tail": "内环境",
+      "relation": "维持"
+    },
+    {
+      "head": "神经系统",
+      "tail": "中枢神经系统",
+      "relation": "包含"
+    },
+    {
+      "head": "神经系统",
+      "tail": "外周神经系统",
+      "relation": "包含"
+    },
+    {
+      "head": "反射",
+      "tail": "反射弧",
+      "relation": "基于"
+    },
+    {
+      "head": "兴奋",
+      "tail": "神经冲动",
+      "relation": "表现为"
+    },
+    {
+      "head": "突触",
+      "tail": "神经递质",
+      "relation": "通过传递"
+    },
+    {
+      "head": "大脑皮层",
+      "tail": "语言中枢",
+      "relation": "包含"
+    },
+    {
+      "head": "激素",
+      "tail": "内分泌腺",
+      "relation": "由分泌"
+    },
+    {
+      "head": "血糖平衡",
+      "tail": "胰岛素",
+      "relation": "调节"
+    },
+    {
+      "head": "血糖平衡",
+      "tail": "胰高血糖素",
+      "relation": "调节"
+    },
+    {
+      "head": "甲状腺激素",
+      "tail": "下丘脑",
+      "relation": "受调控"
+    },
+    {
+      "head": "甲状腺激素",
+      "tail": "垂体",
+      "relation": "受调控"
+    },
+    {
+      "head": "免疫系统",
+      "tail": "免疫器官",
+      "relation": "包含"
+    },
+    {
+      "head": "免疫系统",
+      "tail": "免疫细胞",
+      "relation": "包含"
+    },
+    {
+      "head": "免疫系统",
+      "tail": "免疫活性物质",
+      "relation": "包含"
+    },
+    {
+      "head": "体液免疫",
+      "tail": "B细胞",
+      "relation": "依赖"
+    },
+    {
+      "head": "细胞免疫",
+      "tail": "T细胞",
+      "relation": "依赖"
+    },
+    {
+      "head": "疫苗",
+      "tail": "免疫预防",
+      "relation": "用于"
+    },
+    {
+      "head": "生长素",
+      "tail": "向光性",
+      "relation": "调节"
+    },
+    {
+      "head": "植物激素",
+      "tail": "生长素",
+      "relation": "包含"
+    },
+    {
+      "head": "植物激素",
+      "tail": "赤霉素",
+      "relation": "包含"
+    },
+    {
+      "head": "植物激素",
+      "tail": "细胞分裂素",
+      "relation": "包含"
+    },
+    {
+      "head": "植物激素",
+      "tail": "脱落酸",
+      "relation": "包含"
+    },
+    {
+      "head": "植物激素",
+      "tail": "乙烯",
+      "relation": "包含"
+    },
+    {
+      "head": "光",
+      "tail": "光敏色素",
+      "relation": "通过感知"
+    },
+    {
+      "head": "重力",
+      "tail": "向地性",
+      "relation": "影响"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:33:14",
+    "version": "1.1"
+  }
+}

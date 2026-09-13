@@ -1,0 +1,852 @@
+{
+  "knowledge_tree": {
+    "title": "高中物理选择性必修第三册",
+    "content": "涵盖分子动理论、气体、固体和液体、热力学定律、原子结构和波粒二象性、原子核等内容",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "分子动理论",
+        "content": "研究分子热运动的基本理论",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "分子动理论的基本内容",
+            "content": "物体由大量分子组成，分子做永不停息的无规则运动，分子间存在相互作用力",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "物体由大量分子组成",
+                "content": "物体由分子、原子或离子组成，1 mol物质含有阿伏伽德罗常数个分子",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "分子热运动",
+                "content": "分子永不停息地做无规则运动，温度越高运动越剧烈",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "扩散现象",
+                    "content": "不同物质彼此进入对方的现象，证明分子在做无规则运动",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "布朗运动",
+                    "content": "悬浮微粒的无规则运动，间接反映液体分子运动的无规则性",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "分子间作用力",
+                "content": "分子间同时存在引力和斥力，随距离变化而变化",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "分子间作用力与距离的关系",
+                    "content": "r<r0时表现为斥力，r=r0时平衡，r>r0时表现为引力",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "分子势能",
+                    "content": "由分子间相对位置决定的势能，与分子间距离有关",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "实验：用油膜法估测油酸分子的大小",
+            "content": "通过测量单分子油膜厚度来估算分子直径",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "实验原理",
+                "content": "将油酸分子视为球形，紧密排列形成单分子油膜，d=V/S",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "实验步骤",
+                "content": "配制油酸酒精溶液、测量1滴溶液体积、形成油膜、测量面积",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "数据处理",
+                "content": "计算分子直径d=V/S，分析误差来源",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "分子运动速率分布规律",
+            "content": "大量分子运动速率服从统计规律",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "气体分子运动特点",
+                "content": "分子间距离大，作用力弱，做匀速直线运动，频繁碰撞",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "分子速率分布图像",
+                "content": "中间多两头少的分布规律，温度影响分布",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "气体压强的微观解释",
+                "content": "大量分子对器壁碰撞产生持续均匀的压力",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "分子动能和分子势能",
+            "content": "分子热运动的能量形式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "分子动能",
+                "content": "分子热运动具有的动能，与温度相关",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "分子平均动能",
+                    "content": "所有分子动能的平均值，标志温度高低",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "分子势能",
+                "content": "分子间相互作用所具有的势能，与体积有关",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "物体的内能",
+                "content": "所有分子热运动动能和分子势能的总和",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "气体、固体和液体",
+        "content": "研究物质三态的物理性质",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "温度和温标",
+            "content": "温度的概念和测量",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "状态参量与平衡态",
+                "content": "描述系统状态的物理量，平衡态时参量不随时间变化",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "热平衡与温度",
+                "content": "热平衡的系统具有相同温度，温度是决定热平衡的物理量",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "温度计与温标",
+                "content": "温度测量的方法和标准",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "气体的等温变化",
+            "content": "玻意耳定律：温度不变时压强与体积成反比",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "玻意耳定律",
+                "content": "pV=C或p1V1=p2V2",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "实验探究",
+                "content": "探究气体等温变化的规律",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "气体的等压变化和等容变化",
+            "content": "盖-吕萨克定律和查理定律",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "盖-吕萨克定律",
+                "content": "压强不变时体积与热力学温度成正比：V/T=C",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "查理定律",
+                "content": "体积不变时压强与热力学温度成正比：p/T=C",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "理想气体",
+            "content": "理想气体模型和状态方程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "理想气体模型",
+                "content": "分子大小和相互作用可忽略的气体",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "理想气体状态方程",
+                "content": "pV/T=C",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "固体",
+            "content": "晶体的结构和性质",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "晶体和非晶体",
+                "content": "晶体有规则外形和确定熔点，非晶体没有",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "晶体的微观结构",
+                "content": "原子按一定规则排列，具有空间周期性",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "液体",
+            "content": "液体的表面性质和毛细现象",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "液体的表面张力",
+                "content": "液体表面层分子间引力使表面有收缩趋势",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "浸润和不浸润",
+                "content": "液体能否润湿固体的现象",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "毛细现象",
+                "content": "浸润液体在细管中上升或不浸润液体下降的现象",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "液晶",
+                "content": "介于固态和液态之间的物质状态，具有各向异性",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "热力学定律",
+        "content": "热力学基本定律及其应用",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "功、热和内能的改变",
+            "content": "做功和传热对系统内能的影响",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "焦耳的实验",
+                "content": "证明做功和传热在改变内能方面的等价性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "功与内能的改变",
+                "content": "绝热过程中ΔU=W",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "热与内能的改变",
+                "content": "传热过程中ΔU=Q",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "热力学第一定律",
+            "content": "能量守恒定律在热现象中的应用",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "热力学第一定律表述",
+                "content": "ΔU=Q+W",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "定律的应用",
+                "content": "分析各种热力学过程中能量转化",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "能量守恒定律",
+            "content": "能量既不会凭空产生也不会凭空消失",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "能量守恒的探索",
+                "content": "历史上对能量守恒的认识过程",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "能量守恒定律表述",
+                "content": "能量只能从一种形式转化为其他形式，或从一个物体转移到别的物体",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "永动机不可能",
+                "content": "违背能量守恒定律的装置不可能实现",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "热力学第二定律",
+            "content": "热力学过程的方向性",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "热力学第二定律的两种表述",
+                "content": "克劳修斯表述和开尔文表述",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "能源是有限的",
+                "content": "能量品质的退化与能源危机",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "原子结构和波粒二象性",
+        "content": "微观世界的量子规律",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "普朗克黑体辐射理论",
+            "content": "能量量子化的提出",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "黑体与黑体辐射",
+                "content": "黑体是完全吸收辐射的物体，黑体辐射只与温度有关",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "能量子假说",
+                "content": "能量是不连续的，ε=hν",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "光电效应",
+            "content": "光照射金属表面逸出电子的现象",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "光电效应的实验规律",
+                "content": "存在截止频率、饱和电流、遏止电压和瞬时性",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "爱因斯坦的光电效应理论",
+                "content": "光子说和光电效应方程Ek=hν-W0",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "康普顿效应",
+                "content": "X射线散射后波长变长的现象，证明光子有动量",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "光的波粒二象性",
+                "content": "光既具有波动性又具有粒子性",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "原子的核式结构模型",
+            "content": "卢瑟福通过α粒子散射实验提出核式结构",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "电子的发现",
+                "content": "J.J.汤姆孙发现电子",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "α粒子散射实验",
+                "content": "实验现象与核式结构模型的提出",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "原子核的电荷与尺度",
+                "content": "原子核的电荷数和尺寸数量级",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "氢原子光谱和玻尔的原子模型",
+            "content": "氢原子光谱规律和玻尔理论",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "光谱",
+                "content": "线状谱和连续谱，原子特征谱线",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "氢原子光谱的实验规律",
+                "content": "巴耳末公式等光谱系",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "玻尔原子理论的基本假设",
+                "content": "轨道量子化、定态、频率条件",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "玻尔理论对氢光谱的解释",
+                "content": "成功解释氢原子光谱规律",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "玻尔理论的局限性",
+                "content": "无法解释复杂原子光谱",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "粒子的波动性和量子力学的建立",
+            "content": "德布罗意波和量子力学发展",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "粒子的波动性",
+                "content": "德布罗意提出物质波，λ=h/p",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "物质波的实验验证",
+                "content": "电子衍射实验证实电子的波动性",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "量子力学的建立",
+                "content": "海森堡、薛定谔等建立量子力学",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "量子力学的应用",
+                "content": "在核物理、原子分子物理、固体物理等领域的应用",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "原子核",
+        "content": "原子核的结构和核反应",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "原子核的组成",
+            "content": "质子和中子的发现",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "天然放射现象",
+                "content": "贝克勒尔和居里夫妇发现放射性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "射线的本质",
+                "content": "α、β、γ三种射线的性质和区别",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "原子核的组成",
+                "content": "质子、中子和核子的概念",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "放射性元素的衰变",
+            "content": "原子核自发变化的过程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "原子核的衰变",
+                "content": "α衰变和β衰变的规律",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "半衰期",
+                "content": "放射性元素衰变快慢的度量",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "核反应",
+                "content": "人工实现原子核转变的过程",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "放射性同位素及其应用",
+                "content": "在工业、医疗、农业等领域的应用",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "核力与结合能",
+            "content": "核力的性质和原子核的结合能",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "核力与四种基本相互作用",
+                "content": "强相互作用是核力的本质",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "结合能",
+                "content": "核子结合成原子核时释放的能量",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "质量亏损",
+                "content": "原子核质量小于组成核子质量之和的现象",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "核裂变与核聚变",
+            "content": "重核裂变和轻核聚变",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "核裂变的发现",
+                "content": "哈恩和斯特拉斯曼发现核裂变",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "反应堆与核电站",
+                "content": "可控链式反应的实现和核能发电",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "核聚变",
+                "content": "轻核结合成较重核的过程",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "基本粒子",
+            "content": "粒子的分类和标准模型",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "发现新粒子",
+                "content": "正电子、μ子等新粒子的发现",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "粒子的分类",
+                "content": "强子、轻子、规范玻色子和希格斯玻色子",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "夸克与粒子物理标准模型",
+                "content": "夸克模型和标准理论",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "分子动理论",
+      "tail": "物体由大量分子组成",
+      "relation": "包含"
+    },
+    {
+      "head": "分子动理论",
+      "tail": "分子热运动",
+      "relation": "包含"
+    },
+    {
+      "head": "分子动理论",
+      "tail": "分子间作用力",
+      "relation": "包含"
+    },
+    {
+      "head": "分子热运动",
+      "tail": "扩散现象",
+      "relation": "包含"
+    },
+    {
+      "head": "分子热运动",
+      "tail": "布朗运动",
+      "relation": "包含"
+    },
+    {
+      "head": "分子间作用力",
+      "tail": "分子势能",
+      "relation": "导致"
+    },
+    {
+      "head": "油膜法实验",
+      "tail": "分子直径测量",
+      "relation": "用于"
+    },
+    {
+      "head": "分子运动速率分布",
+      "tail": "气体压强",
+      "relation": "解释"
+    },
+    {
+      "head": "分子动能",
+      "tail": "温度",
+      "relation": "相关"
+    },
+    {
+      "head": "分子势能",
+      "tail": "物体体积",
+      "relation": "相关"
+    },
+    {
+      "head": "内能",
+      "tail": "分子动能",
+      "relation": "包含"
+    },
+    {
+      "head": "内能",
+      "tail": "分子势能",
+      "relation": "包含"
+    },
+    {
+      "head": "气体等温变化",
+      "tail": "玻意耳定律",
+      "relation": "遵循"
+    },
+    {
+      "head": "气体等压变化",
+      "tail": "盖-吕萨克定律",
+      "relation": "遵循"
+    },
+    {
+      "head": "气体等容变化",
+      "tail": "查理定律",
+      "relation": "遵循"
+    },
+    {
+      "head": "理想气体",
+      "tail": "理想气体状态方程",
+      "relation": "遵循"
+    },
+    {
+      "head": "晶体",
+      "tail": "各向异性",
+      "relation": "具有"
+    },
+    {
+      "head": "非晶体",
+      "tail": "各向同性",
+      "relation": "具有"
+    },
+    {
+      "head": "液体表面张力",
+      "tail": "毛细现象",
+      "relation": "导致"
+    },
+    {
+      "head": "热力学第一定律",
+      "tail": "能量守恒",
+      "relation": "体现"
+    },
+    {
+      "head": "热力学第二定律",
+      "tail": "过程方向性",
+      "relation": "描述"
+    },
+    {
+      "head": "光电效应",
+      "tail": "光子说",
+      "relation": "基于"
+    },
+    {
+      "head": "光电效应",
+      "tail": "爱因斯坦光电效应方程",
+      "relation": "遵循"
+    },
+    {
+      "head": "α粒子散射实验",
+      "tail": "原子核式结构",
+      "relation": "证实"
+    },
+    {
+      "head": "氢原子光谱",
+      "tail": "玻尔理论",
+      "relation": "解释"
+    },
+    {
+      "head": "德布罗意波",
+      "tail": "电子衍射",
+      "relation": "证实"
+    },
+    {
+      "head": "天然放射现象",
+      "tail": "原子核有结构",
+      "relation": "表明"
+    },
+    {
+      "head": "原子核",
+      "tail": "质子",
+      "relation": "由...组成"
+    },
+    {
+      "head": "原子核",
+      "tail": "中子",
+      "relation": "由...组成"
+    },
+    {
+      "head": "放射性衰变",
+      "tail": "半衰期",
+      "relation": "具有"
+    },
+    {
+      "head": "核反应",
+      "tail": "质量亏损",
+      "relation": "导致"
+    },
+    {
+      "head": "质量亏损",
+      "tail": "结合能",
+      "relation": "对应"
+    },
+    {
+      "head": "核裂变",
+      "tail": "链式反应",
+      "relation": "通过"
+    },
+    {
+      "head": "核聚变",
+      "tail": "热核反应",
+      "relation": "称为"
+    },
+    {
+      "head": "基本粒子",
+      "tail": "夸克模型",
+      "relation": "基于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:18:46",
+    "version": "1.1"
+  }
+}

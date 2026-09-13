@@ -1,0 +1,314 @@
+{
+  "knowledge_tree": {
+    "title": "运动生理学",
+    "content": "研究人体在运动过程中及运动训练影响下，机体功能活动变化规律的科学。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "肌肉生理",
+        "content": "研究骨骼肌的结构、功能及其在运动中的适应机制。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "骨骼肌的微细结构",
+            "content": "骨骼肌由肌纤维组成，肌纤维内含肌原纤维，肌原纤维由粗肌丝和细肌丝构成，是肌肉收缩的基本单位。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "肌丝滑行学说",
+            "content": "肌肉收缩是由于细肌丝向粗肌丝中央滑行，导致肌节缩短，但肌丝本身长度不变。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "肌肉收缩形式",
+            "content": "包括等长收缩、等张收缩（向心与离心）和等速收缩。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "等长收缩",
+                "content": "肌肉收缩时长度不变，产生张力但不引起关节运动。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "等张收缩",
+                "content": "肌肉收缩时张力相对恒定，引起关节运动，包括向心收缩和离心收缩。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "运动单位募集",
+            "content": "根据运动强度，神经系统有序地动员不同大小的运动单位参与收缩。遵循大小原则。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "能量代谢",
+        "content": "研究运动中能量的来源、转移和利用。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "三大能量系统",
+            "content": "磷酸原系统、糖酵解系统、有氧氧化系统。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "磷酸原系统",
+                "content": "由ATP和CP组成，供能快速但储量少，维持高强度运动约6-8秒。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "糖酵解系统",
+                "content": "糖原或葡萄糖无氧分解生成乳酸和ATP，供能持续时间约30秒-2分钟。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "有氧氧化系统",
+                "content": "糖、脂肪、蛋白质在有氧条件下彻底氧化生成ATP，是长时间运动的主要供能系统。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "最大摄氧量（VO2max）",
+            "content": "人体在进行大量肌肉群参与的力竭性运动中，单位时间内所能摄取的最大氧量。是评价有氧工作能力的经典指标。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "心血管系统对运动的反应",
+        "content": "研究运动时心脏、血管功能的变化及调节。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "心输出量",
+            "content": "每分钟一侧心室射出的血液总量，等于每搏输出量乘以心率。运动时心输出量增加以满足肌肉供氧需求。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "血液重新分配",
+            "content": "运动时，交感神经兴奋，内脏血管收缩，骨骼肌血管舒张，使血液优先供应运动肌肉。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "呼吸系统对运动的反应",
+        "content": "研究运动时肺通气和肺换气功能的变化。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "运动性通气量增加",
+            "content": "运动时，潮气量和呼吸频率增加，使每分钟通气量显著提高。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "氧通气当量",
+            "content": "每消耗1升氧所需要的通气量。是评价呼吸效率的指标。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "运动训练的生理学适应",
+        "content": "研究长期运动训练引起的机体形态和功能的良性变化。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "有氧训练适应",
+            "content": "长期有氧训练可引起心脏运动性肥大、每搏输出量增加、VO2max提高、肌细胞内线粒体数量和体积增加等。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "力量训练适应",
+            "content": "长期力量训练可引起肌肉体积增大（ hypertrophy）、神经调节功能改善、骨密度增加等。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "运动生理学",
+      "tail": "肌肉生理",
+      "relation": "包含"
+    },
+    {
+      "head": "运动生理学",
+      "tail": "能量代谢",
+      "relation": "包含"
+    },
+    {
+      "head": "运动生理学",
+      "tail": "心血管系统对运动的反应",
+      "relation": "包含"
+    },
+    {
+      "head": "运动生理学",
+      "tail": "呼吸系统对运动的反应",
+      "relation": "包含"
+    },
+    {
+      "head": "运动生理学",
+      "tail": "运动训练的生理学适应",
+      "relation": "包含"
+    },
+    {
+      "head": "肌肉生理",
+      "tail": "骨骼肌的微细结构",
+      "relation": "包含"
+    },
+    {
+      "head": "肌肉生理",
+      "tail": "肌丝滑行学说",
+      "relation": "包含"
+    },
+    {
+      "head": "肌肉生理",
+      "tail": "肌肉收缩形式",
+      "relation": "包含"
+    },
+    {
+      "head": "肌肉生理",
+      "tail": "运动单位募集",
+      "relation": "包含"
+    },
+    {
+      "head": "肌肉收缩形式",
+      "tail": "等长收缩",
+      "relation": "包含"
+    },
+    {
+      "head": "肌肉收缩形式",
+      "tail": "等张收缩",
+      "relation": "包含"
+    },
+    {
+      "head": "能量代谢",
+      "tail": "三大能量系统",
+      "relation": "包含"
+    },
+    {
+      "head": "三大能量系统",
+      "tail": "磷酸原系统",
+      "relation": "包含"
+    },
+    {
+      "head": "三大能量系统",
+      "tail": "糖酵解系统",
+      "relation": "包含"
+    },
+    {
+      "head": "三大能量系统",
+      "tail": "有氧氧化系统",
+      "relation": "包含"
+    },
+    {
+      "head": "能量代谢",
+      "tail": "最大摄氧量（VO2max）",
+      "relation": "包含"
+    },
+    {
+      "head": "心血管系统对运动的反应",
+      "tail": "心输出量",
+      "relation": "包含"
+    },
+    {
+      "head": "心血管系统对运动的反应",
+      "tail": "血液重新分配",
+      "relation": "包含"
+    },
+    {
+      "head": "呼吸系统对运动的反应",
+      "tail": "运动性通气量增加",
+      "relation": "包含"
+    },
+    {
+      "head": "呼吸系统对运动的反应",
+      "tail": "氧通气当量",
+      "relation": "包含"
+    },
+    {
+      "head": "运动训练的生理学适应",
+      "tail": "有氧训练适应",
+      "relation": "包含"
+    },
+    {
+      "head": "运动训练的生理学适应",
+      "tail": "力量训练适应",
+      "relation": "包含"
+    },
+    {
+      "head": "骨骼肌的微细结构",
+      "tail": "肌丝滑行学说",
+      "relation": "是...的结构基础"
+    },
+    {
+      "head": "肌丝滑行学说",
+      "tail": "肌肉收缩形式",
+      "relation": "解释其机制"
+    },
+    {
+      "head": "运动单位募集",
+      "tail": "肌肉收缩力量",
+      "relation": "决定"
+    },
+    {
+      "head": "三大能量系统",
+      "tail": "不同强度和时间运动",
+      "relation": "分别供能于"
+    },
+    {
+      "head": "最大摄氧量（VO2max）",
+      "tail": "有氧工作能力",
+      "relation": "评价"
+    },
+    {
+      "head": "心输出量",
+      "tail": "运动强度",
+      "relation": "随...增加而增加"
+    },
+    {
+      "head": "血液重新分配",
+      "tail": "运动肌肉供血",
+      "relation": "优先保证"
+    },
+    {
+      "head": "运动性通气量增加",
+      "tail": "运动时摄氧",
+      "relation": "保障"
+    },
+    {
+      "head": "有氧训练适应",
+      "tail": "最大摄氧量（VO2max）",
+      "relation": "可提高"
+    },
+    {
+      "head": "力量训练适应",
+      "tail": "肌肉体积",
+      "relation": "导致增大"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 16:41:13",
+    "version": "1.1"
+  }
+}

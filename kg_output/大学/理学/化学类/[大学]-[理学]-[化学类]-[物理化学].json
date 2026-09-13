@@ -1,0 +1,341 @@
+{
+  "knowledge_tree": {
+    "title": "物理化学",
+    "content": "物理化学是化学的一个分支，研究化学体系的宏观和微观性质、规律，以及化学变化的基本原理。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "热力学第一定律",
+        "content": "能量守恒定律在热力学中的应用，即体系内能的增加等于体系吸收的热量减去体系对外所做的功。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "内能",
+            "content": "体系内部所有粒子各种运动能量的总和，是状态函数。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "内能的定义",
+                "content": "内能是体系内部能量的总和，包括分子动能、分子势能、分子内部能量等。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "内能的性质",
+                "content": "内能是状态函数，其变化只取决于体系的始态和终态，与途径无关。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "热和功",
+            "content": "热和功是能量传递的两种形式，都是过程量。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "热的定义",
+                "content": "由于温度差而在体系和环境之间传递的能量。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "功的定义",
+                "content": "除热以外，体系和环境之间传递的能量，如体积功、电功等。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "热力学第一定律数学表达式",
+            "content": "ΔU = Q - W，其中ΔU为内能变化，Q为体系吸热，W为体系对外做功。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "热力学第二定律",
+        "content": "揭示了热力学过程的不可逆性和方向性，引入了熵的概念。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "熵",
+            "content": "表征体系混乱度的状态函数。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "熵的定义",
+                "content": "熵是体系混乱度的度量，孤立体系的熵永不减少。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "熵增原理",
+                "content": "孤立体系的自发过程总是向着熵增加的方向进行。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "吉布斯自由能",
+            "content": "判断等温等压过程自发性的判据，G = H - TS。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "吉布斯自由能定义式",
+                "content": "G = H - TS，其中H为焓，T为温度，S为熵。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "吉布斯自由能判据",
+                "content": "等温等压下，ΔG < 0过程自发，ΔG > 0过程非自发，ΔG = 0体系平衡。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "化学动力学",
+        "content": "研究化学反应速率以及影响反应速率的各种因素。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "反应速率",
+            "content": "单位时间内反应物或产物浓度的变化量。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "平均速率",
+                "content": "在一段时间间隔内浓度的变化量。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "瞬时速率",
+                "content": "在某一时刻的反应速率，是浓度对时间的一阶导数。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "速率方程",
+            "content": "表示反应速率与反应物浓度关系的方程。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "质量作用定律",
+                "content": "基元反应的速率与各反应物浓度的幂乘积成正比。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "反应级数",
+                "content": "速率方程中各浓度项指数的总和。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "阿伦尼乌斯方程",
+            "content": "描述反应速率常数与温度关系的经验公式，k = A exp(-Ea/RT)。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "电化学",
+        "content": "研究电能与化学能相互转换及相关规律的学科。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "原电池",
+            "content": "将化学能转化为电能的装置。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "电极电势",
+                "content": "金属与其离子溶液在界面处产生的电势差。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "能斯特方程",
+                "content": "计算非标准状态下电极电势的公式，E = E° - (RT/nF) lnQ。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电解池",
+            "content": "将电能转化为化学能的装置。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "法拉第电解定律",
+                "content": "电解时电极上析出或溶解的物质的质量与通过的电量成正比。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "热力学第一定律",
+      "tail": "内能",
+      "relation": "包含"
+    },
+    {
+      "head": "热力学第一定律",
+      "tail": "热和功",
+      "relation": "包含"
+    },
+    {
+      "head": "热力学第一定律",
+      "tail": "热力学第一定律数学表达式",
+      "relation": "数学表达"
+    },
+    {
+      "head": "内能",
+      "tail": "内能的定义",
+      "relation": "由...定义"
+    },
+    {
+      "head": "内能",
+      "tail": "内能的性质",
+      "relation": "具有"
+    },
+    {
+      "head": "热和功",
+      "tail": "热的定义",
+      "relation": "包含"
+    },
+    {
+      "head": "热和功",
+      "tail": "功的定义",
+      "relation": "包含"
+    },
+    {
+      "head": "热力学第二定律",
+      "tail": "熵",
+      "relation": "引入"
+    },
+    {
+      "head": "热力学第二定律",
+      "tail": "吉布斯自由能",
+      "relation": "应用于"
+    },
+    {
+      "head": "熵",
+      "tail": "熵的定义",
+      "relation": "由...定义"
+    },
+    {
+      "head": "熵",
+      "tail": "熵增原理",
+      "relation": "推导出"
+    },
+    {
+      "head": "吉布斯自由能",
+      "tail": "吉布斯自由能定义式",
+      "relation": "数学表达"
+    },
+    {
+      "head": "吉布斯自由能",
+      "tail": "吉布斯自由能判据",
+      "relation": "用于"
+    },
+    {
+      "head": "化学动力学",
+      "tail": "反应速率",
+      "relation": "研究"
+    },
+    {
+      "head": "化学动力学",
+      "tail": "速率方程",
+      "relation": "研究"
+    },
+    {
+      "head": "化学动力学",
+      "tail": "阿伦尼乌斯方程",
+      "relation": "包含"
+    },
+    {
+      "head": "反应速率",
+      "tail": "平均速率",
+      "relation": "包含"
+    },
+    {
+      "head": "反应速率",
+      "tail": "瞬时速率",
+      "relation": "包含"
+    },
+    {
+      "head": "速率方程",
+      "tail": "质量作用定律",
+      "relation": "基于"
+    },
+    {
+      "head": "速率方程",
+      "tail": "反应级数",
+      "relation": "定义"
+    },
+    {
+      "head": "电化学",
+      "tail": "原电池",
+      "relation": "研究"
+    },
+    {
+      "head": "电化学",
+      "tail": "电解池",
+      "relation": "研究"
+    },
+    {
+      "head": "原电池",
+      "tail": "电极电势",
+      "relation": "涉及"
+    },
+    {
+      "head": "原电池",
+      "tail": "能斯特方程",
+      "relation": "应用"
+    },
+    {
+      "head": "电解池",
+      "tail": "法拉第电解定律",
+      "relation": "遵循"
+    },
+    {
+      "head": "吉布斯自由能",
+      "tail": "电化学",
+      "relation": "关联"
+    },
+    {
+      "head": "阿伦尼乌斯方程",
+      "tail": "反应速率",
+      "relation": "描述"
+    },
+    {
+      "head": "能斯特方程",
+      "tail": "电极电势",
+      "relation": "计算"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:52:54",
+    "version": "1.1"
+  }
+}

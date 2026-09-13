@@ -1,0 +1,371 @@
+{
+  "knowledge_tree": {
+    "title": "通信原理",
+    "content": "电子信息类核心课程，研究信息传输、交换和处理的基本理论和技术",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "绪论",
+        "content": "通信系统的基本概念和组成",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "通信的定义",
+            "content": "信息的传输与交换过程",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "通信系统的基本组成",
+            "content": "信源、发送设备、信道、接收设备、信宿",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "通信系统的分类",
+            "content": "按传输介质、信号特征、调制方式等分类",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "通信系统的主要性能指标",
+            "content": "有效性、可靠性、适应性、经济性等",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "确知信号分析",
+        "content": "确定信号在时域和频域的分析方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "信号的分类",
+            "content": "确知信号与随机信号、能量信号与功率信号",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "傅里叶变换",
+            "content": "时域信号与频域信号的相互转换",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "傅里叶变换定义",
+                "content": "F(ω)=∫f(t)e^(-jωt)dt",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "傅里叶变换性质",
+                "content": "线性、时移、频移、尺度变换等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "能量谱密度与功率谱密度",
+            "content": "信号能量和功率在频域的分布",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "相关函数",
+            "content": "信号相似性的度量",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "随机过程",
+        "content": "随机信号的统计特性分析",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "随机过程的基本概念",
+            "content": "随机过程的定义和统计描述",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "平稳随机过程",
+            "content": "统计特性不随时间变化的随机过程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "严平稳过程",
+                "content": "有限维分布与时间起点无关",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "宽平稳过程",
+                "content": "均值常数、自相关函数只与时间差有关",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "各态历经性",
+            "content": "时间平均等于统计平均的性质",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "高斯随机过程",
+            "content": "服从高斯分布的随机过程",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "窄带随机过程",
+            "content": "频谱集中在载频附近的随机过程",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "信道",
+        "content": "信号传输的媒介特性分析",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "信道的定义和分类",
+            "content": "有线信道与无线信道",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "信道数学模型",
+            "content": "调制信道与编码信道模型",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "恒参信道特性",
+            "content": "参数基本不随时间变化的信道",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "随参信道特性",
+            "content": "参数随时间随机变化的信道",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "信道容量",
+            "content": "香农公式：C=Blog₂(1+S/N)",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "模拟调制系统",
+        "content": "模拟信号的调制与解调技术",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "幅度调制",
+            "content": "用调制信号控制载波幅度",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "标准AM调制",
+                "content": "包含载波分量的幅度调制",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "抑制载波双边带调制",
+                "content": "DSB-SC调制",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "单边带调制",
+                "content": "SSB调制，节省带宽",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "残留边带调制",
+                "content": "VSB调制，折中方案",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "角度调制",
+            "content": "用调制信号控制载波角度",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "频率调制",
+                "content": "FM调制，抗噪声性能好",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "相位调制",
+                "content": "PM调制",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "各种模拟调制系统的比较",
+            "content": "带宽、抗噪声性能、设备复杂度比较",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数字基带传输系统",
+        "content": "数字信号在基带信道中的传输",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "数字基带信号",
+            "content": "未经调制的数字信号",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "基带传输的常用码型",
+            "content": "单极性码、双极性码、AMI码、HDB3码等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "无码间串扰的基带传输特性",
+            "content": "奈奎斯特第一准则",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "部分响应系统",
+            "content": "利用码间串扰提高频带利用率",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "通信系统",
+      "tail": "信源",
+      "relation": "包含"
+    },
+    {
+      "head": "通信系统",
+      "tail": "发送设备",
+      "relation": "包含"
+    },
+    {
+      "head": "通信系统",
+      "tail": "信道",
+      "relation": "包含"
+    },
+    {
+      "head": "通信系统",
+      "tail": "接收设备",
+      "relation": "包含"
+    },
+    {
+      "head": "通信系统",
+      "tail": "信宿",
+      "relation": "包含"
+    },
+    {
+      "head": "傅里叶变换",
+      "tail": "能量谱密度",
+      "relation": "用于计算"
+    },
+    {
+      "head": "傅里叶变换",
+      "tail": "功率谱密度",
+      "relation": "用于计算"
+    },
+    {
+      "head": "平稳随机过程",
+      "tail": "各态历经性",
+      "relation": "具有"
+    },
+    {
+      "head": "高斯随机过程",
+      "tail": "窄带随机过程",
+      "relation": "可表示为"
+    },
+    {
+      "head": "信道容量",
+      "tail": "香农公式",
+      "relation": "由...定义"
+    },
+    {
+      "head": "幅度调制",
+      "tail": "标准AM调制",
+      "relation": "包含"
+    },
+    {
+      "head": "幅度调制",
+      "tail": "抑制载波双边带调制",
+      "relation": "包含"
+    },
+    {
+      "head": "幅度调制",
+      "tail": "单边带调制",
+      "relation": "包含"
+    },
+    {
+      "head": "幅度调制",
+      "tail": "残留边带调制",
+      "relation": "包含"
+    },
+    {
+      "head": "角度调制",
+      "tail": "频率调制",
+      "relation": "包含"
+    },
+    {
+      "head": "角度调制",
+      "tail": "相位调制",
+      "relation": "包含"
+    },
+    {
+      "head": "奈奎斯特第一准则",
+      "tail": "无码间串扰",
+      "relation": "保证"
+    },
+    {
+      "head": "数字基带信号",
+      "tail": "基带传输的常用码型",
+      "relation": "采用"
+    },
+    {
+      "head": "部分响应系统",
+      "tail": "频带利用率",
+      "relation": "提高"
+    },
+    {
+      "head": "模拟调制系统",
+      "tail": "数字基带传输系统",
+      "relation": "与...构成通信系统两大分支"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:33:09",
+    "version": "1.1"
+  }
+}

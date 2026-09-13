@@ -1,0 +1,393 @@
+{
+  "knowledge_tree": {
+    "title": "人工智能与智慧社会",
+    "content": "义务教育信息科技课程模块，涵盖人工智能基础、应用及社会影响",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "人工智能概述",
+        "content": "人工智能的基本概念、发展历程及技术基础",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "人工智能的定义",
+            "content": "利用计算机模拟人类智力活动的学科",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "人工智能的发展历程",
+            "content": "从1956年达特茅斯会议至今的六个发展阶段",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "起步发展期",
+                "content": "1956-20世纪60年代初，机器定理证明、跳棋程序等成果",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "反思发展期",
+                "content": "20世纪60-70年代初，预期目标落空进入低谷",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "图灵测试",
+            "content": "判断机器是否具有智能的测试方法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "人工智能的技术基础",
+            "content": "数据、算法和算力三大核心要素",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "数据的作用",
+                "content": "驱动人工智能成长的养料，数据量影响模型性能",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "算力的重要性",
+                "content": "支持人工智能运行的基础，决定技术探索边界",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "算法的核心地位",
+                "content": "影响技术进步的核心要素，如误差反向传播算法",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "人工智能的实现方式",
+        "content": "三种主要技术路线：符号主义、连接主义和行为主义",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "符号主义",
+            "content": "通过模拟人类认知实现AI，如知识图谱",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "连接主义",
+            "content": "模仿人脑神经元连接方式，如人工神经网络",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "人工神经网络结构",
+                "content": "输入层、隐藏层、输出层的节点连接",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "训练与推理",
+                "content": "模型训练调整参数，推理使用模型处理新信息",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "行为主义",
+            "content": "从模拟行为出发实现AI，如强化学习",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "文本智能生成",
+        "content": "自然语言处理技术，包括文本理解与生成",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "文本处理基本单位",
+            "content": "分词与token的概念",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "分词方法",
+                "content": "将文本切分为基本单位的过程",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "自动构建词表",
+                "content": "BPE等算法从文本中自动提取词",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "统计与文本生成",
+            "content": "基于统计的文本预测方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "基于前文预测",
+                "content": "根据上文预测下一个词",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "相邻字词统计",
+                "content": "统计字词共现次数进行预测",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "语义编码",
+            "content": "将语义转化为数值表示",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "词向量",
+                "content": "用一组数字表示词语语义特征",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "动态语义编码",
+                "content": "根据上下文调整语义编码",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "注意力机制",
+            "content": "模拟人类注意力分配，提升生成质量",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "图像、声音与视频智能生成",
+        "content": "多模态内容生成技术",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "图像特征提取",
+            "content": "从图像中提取关键信息",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "特征提取方法",
+                "content": "卷积等自动特征提取技术",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "图像相似度计算",
+                "content": "基于特征计算图像相似度",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "图像生成方式",
+            "content": "对抗生成和扩散生成",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "图文语义对齐",
+            "content": "让图像和文字在语义空间中匹配",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "智能推理应用",
+        "content": "AI在决策支持方面的应用",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "决策树",
+            "content": "通过树状结构进行决策判断",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "决策树构建",
+                "content": "基于数据自动构建决策树",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "决策树推理",
+                "content": "使用决策树进行自动推理",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "知识图谱",
+            "content": "用节点和边表示实体关系",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "知识图谱构建",
+                "content": "从文本中自动提取实体和关系",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "知识图谱推理",
+                "content": "基于图谱关系进行逻辑推理",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "智慧社会与智能向善",
+        "content": "人工智能的社会影响与伦理规范",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "智能服务",
+            "content": "AI在各领域的应用服务",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "智能生活应用",
+                "content": "如无人超市、智能公交等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "数据安全风险",
+                "content": "个人信息保护与隐私风险",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "智能治理",
+            "content": "AI在社会治理中的应用",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "数据驱动治理",
+                "content": "基于数据的科学决策",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "社会安全应用",
+                "content": "如灾害预警、安全监控等",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "智能向善",
+            "content": "AI伦理道德与负责任创新",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "伦理道德规范",
+                "content": "AI应用应遵循的价值观念",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "社会冲击应对",
+                "content": "如就业影响、算法公平等问题",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "人工智能",
+      "tail": "数据",
+      "relation": "依赖于"
+    },
+    {
+      "head": "人工智能",
+      "tail": "算法",
+      "relation": "依赖于"
+    },
+    {
+      "head": "人工智能",
+      "tail": "算力",
+      "relation": "依赖于"
+    },
+    {
+      "head": "人工神经网络",
+      "tail": "训练",
+      "relation": "包含过程"
+    },
+    {
+      "head": "人工神经网络",
+      "tail": "推理",
+      "relation": "包含过程"
+    },
+    {
+      "head": "文本生成",
+      "tail": "注意力机制",
+      "relation": "使用技术"
+    },
+    {
+      "head": "图像生成",
+      "tail": "扩散生成",
+      "relation": "实现方式"
+    },
+    {
+      "head": "图像生成",
+      "tail": "对抗生成",
+      "relation": "实现方式"
+    },
+    {
+      "head": "决策树",
+      "tail": "自动推理",
+      "relation": "用于"
+    },
+    {
+      "head": "知识图谱",
+      "tail": "逻辑推理",
+      "relation": "支持"
+    },
+    {
+      "head": "智慧社会",
+      "tail": "智能服务",
+      "relation": "包含"
+    },
+    {
+      "head": "智能向善",
+      "tail": "伦理道德",
+      "relation": "涉及"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:55:11",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "knowledge_tree": {
+    "title": "生物技术与工程",
+    "content": "高中生物技术与工程课程，涵盖发酵工程、细胞工程、基因工程等核心内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "发酵工程",
+        "content": "利用微生物的特定功能规模化生产人类所需产品的综合性生物工程",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "传统发酵技术",
+            "content": "直接利用原材料中天然存在的微生物进行发酵制作食品的技术",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "发酵的定义",
+                "content": "人们利用微生物在适宜条件下将原料通过微生物代谢转化为人类所需产物的过程",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "传统发酵食品",
+                "content": "酱油、醋、腐乳、泡菜、酸奶等利用传统发酵技术制作的食品",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "微生物的培养技术",
+            "content": "获得纯净微生物培养物的技术，包括培养基配制、灭菌、接种等",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "培养基的配制",
+                "content": "按照微生物对营养物质的需求配制供其生长繁殖的营养基质",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "无菌技术",
+                "content": "防止杂菌污染的关键技术，包括消毒和灭菌",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "纯培养",
+                "content": "获得由单一个体繁殖所获得的微生物群体的过程",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "发酵工程的基本环节",
+            "content": "包括菌种的选育、扩大培养、培养基配制灭菌、接种、发酵、产物分离提纯等",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "细胞工程",
+        "content": "应用细胞生物学、分子生物学和发育生物学原理，通过细胞器、细胞或组织水平操作获得特定细胞、组织、器官等的技术",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "植物细胞工程",
+            "content": "以植物细胞为对象的细胞工程技术",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "植物组织培养",
+                "content": "将离体植物器官、组织或细胞培养在人工培养基上诱导形成完整植株的技术",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "植物体细胞杂交",
+                "content": "将不同来源的植物体细胞融合成杂种细胞并培育成新植物的技术",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "动物细胞工程",
+            "content": "以动物细胞为对象的细胞工程技术",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "动物细胞培养",
+                "content": "从动物体取出相关组织分散成单个细胞后在适宜条件下生长繁殖的技术",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "干细胞培养",
+                "content": "培养具有分化潜能的干细胞的技术",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "动物细胞融合",
+                "content": "使两个或多个动物细胞结合形成一个细胞的技术",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "单克隆抗体制备",
+                "content": "利用杂交瘤技术制备单一特异性抗体的技术",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "核移植技术",
+                "content": "将动物一个细胞的细胞核移入去核卵母细胞中培育新个体的技术",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "基因工程",
+        "content": "按照人们愿望通过转基因等技术赋予生物新的遗传特性创造新生物类型和产品的技术",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "重组DNA技术基本工具",
+            "content": "基因工程操作所需的基本分子工具",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "限制性内切核酸酶",
+                "content": "识别特定核苷酸序列并在特定部位切割DNA分子的酶",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "DNA连接酶",
+                "content": "连接DNA片段形成磷酸二酯键的酶",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "基因载体",
+                "content": "将外源基因送入受体细胞的运输工具，如质粒",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "基因工程的基本操作程序",
+            "content": "目的基因筛选获取、基因表达载体构建、导入受体细胞、检测鉴定",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "PCR技术",
+                "content": "聚合酶链式反应，体外特异性快速扩增目的基因的技术",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "基因表达载体构建",
+                "content": "将目的基因与载体连接形成重组DNA分子的过程",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "目的基因导入受体细胞",
+                "content": "将重组DNA分子导入受体细胞的过程",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "目的基因检测与鉴定",
+                "content": "检测目的基因是否在受体细胞中稳定维持和表达",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "蛋白质工程",
+            "content": "以蛋白质分子结构规律为基础通过改造或合成基因来改造或制造新蛋白质的技术",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "生物技术的安全性与伦理问题",
+        "content": "生物技术发展带来的安全性问题和伦理挑战",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "转基因产品的安全性",
+            "content": "转基因技术产品可能带来的安全性问题",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "生殖性克隆人的伦理问题",
+            "content": "生殖性克隆人技术带来的伦理挑战",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "生物武器的威胁",
+            "content": "生物武器对人类安全的严重威胁",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "发酵工程",
+      "tail": "传统发酵技术",
+      "relation": "包含"
+    },
+    {
+      "head": "发酵工程",
+      "tail": "微生物的培养技术",
+      "relation": "包含"
+    },
+    {
+      "head": "微生物的培养技术",
+      "tail": "培养基的配制",
+      "relation": "包含"
+    },
+    {
+      "head": "微生物的培养技术",
+      "tail": "无菌技术",
+      "relation": "包含"
+    },
+    {
+      "head": "微生物的培养技术",
+      "tail": "纯培养",
+      "relation": "包含"
+    },
+    {
+      "head": "细胞工程",
+      "tail": "植物细胞工程",
+      "relation": "包含"
+    },
+    {
+      "head": "细胞工程",
+      "tail": "动物细胞工程",
+      "relation": "包含"
+    },
+    {
+      "head": "植物细胞工程",
+      "tail": "植物组织培养",
+      "relation": "包含"
+    },
+    {
+      "head": "植物细胞工程",
+      "tail": "植物体细胞杂交",
+      "relation": "包含"
+    },
+    {
+      "head": "动物细胞工程",
+      "tail": "动物细胞培养",
+      "relation": "包含"
+    },
+    {
+      "head": "动物细胞工程",
+      "tail": "干细胞培养",
+      "relation": "包含"
+    },
+    {
+      "head": "动物细胞工程",
+      "tail": "动物细胞融合",
+      "relation": "包含"
+    },
+    {
+      "head": "动物细胞工程",
+      "tail": "单克隆抗体制备",
+      "relation": "包含"
+    },
+    {
+      "head": "动物细胞工程",
+      "tail": "核移植技术",
+      "relation": "包含"
+    },
+    {
+      "head": "基因工程",
+      "tail": "重组DNA技术基本工具",
+      "relation": "包含"
+    },
+    {
+      "head": "基因工程",
+      "tail": "基因工程的基本操作程序",
+      "relation": "包含"
+    },
+    {
+      "head": "基因工程",
+      "tail": "蛋白质工程",
+      "relation": "包含"
+    },
+    {
+      "head": "重组DNA技术基本工具",
+      "tail": "限制性内切核酸酶",
+      "relation": "包含"
+    },
+    {
+      "head": "重组DNA技术基本工具",
+      "tail": "DNA连接酶",
+      "relation": "包含"
+    },
+    {
+      "head": "重组DNA技术基本工具",
+      "tail": "基因载体",
+      "relation": "包含"
+    },
+    {
+      "head": "基因工程的基本操作程序",
+      "tail": "PCR技术",
+      "relation": "包含"
+    },
+    {
+      "head": "基因工程的基本操作程序",
+      "tail": "基因表达载体构建",
+      "relation": "包含"
+    },
+    {
+      "head": "基因工程的基本操作程序",
+      "tail": "目的基因导入受体细胞",
+      "relation": "包含"
+    },
+    {
+      "head": "基因工程的基本操作程序",
+      "tail": "目的基因检测与鉴定",
+      "relation": "包含"
+    },
+    {
+      "head": "生物技术的安全性与伦理问题",
+      "tail": "转基因产品的安全性",
+      "relation": "包含"
+    },
+    {
+      "head": "生物技术的安全性与伦理问题",
+      "tail": "生殖性克隆人的伦理问题",
+      "relation": "包含"
+    },
+    {
+      "head": "生物技术的安全性与伦理问题",
+      "tail": "生物武器的威胁",
+      "relation": "包含"
+    },
+    {
+      "head": "单克隆抗体制备",
+      "tail": "动物细胞融合",
+      "relation": "基于"
+    },
+    {
+      "head": "核移植技术",
+      "tail": "动物细胞培养",
+      "relation": "基于"
+    },
+    {
+      "head": "PCR技术",
+      "tail": "DNA半保留复制",
+      "relation": "基于"
+    },
+    {
+      "head": "基因表达载体构建",
+      "tail": "限制性内切核酸酶",
+      "relation": "使用"
+    },
+    {
+      "head": "基因表达载体构建",
+      "tail": "DNA连接酶",
+      "relation": "使用"
+    },
+    {
+      "head": "目的基因导入受体细胞",
+      "tail": "基因载体",
+      "relation": "使用"
+    },
+    {
+      "head": "植物组织培养",
+      "tail": "细胞全能性",
+      "relation": "基于"
+    },
+    {
+      "head": "蛋白质工程",
+      "tail": "基因工程",
+      "relation": "延伸"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:26:13",
+    "version": "1.1"
+  }
+}

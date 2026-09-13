@@ -1,0 +1,840 @@
+{
+  "knowledge_tree": {
+    "title": "思想政治-逻辑与思维",
+    "content": "高中思想政治选择性必修3《逻辑与思维》教材，涵盖科学思维观念、逻辑思维规则、辩证思维方法和创新思维能力四大单元",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "第一单元 树立科学思维观念",
+        "content": "学习思维的含义与特征、逻辑要义和科学思维",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第一课 走进思维世界",
+            "content": "探讨思维的含义、特征和基本形态",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "思维的含义与特征",
+                "content": "思维是认识的高级阶段，是对事物本质及规律的反映",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "思维的含义",
+                    "content": "广义思维与意识同义，狭义思维指理性认识",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "思维的特征",
+                    "content": "具有间接性、概括性和能动性",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "思维形态及其特征",
+                "content": "包括抽象思维和形象思维两种基本形态",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "抽象思维",
+                    "content": "以概念为基本单元，具有概念性、推导性和严谨性",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "形象思维",
+                    "content": "以感性形象为基本单元，具有形象性、想象性和情感性",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第二课 把握逻辑要义",
+            "content": "学习逻辑的多种含义和逻辑思维的基本要求",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "逻辑的多种含义",
+                "content": "逻辑一词可指规律、逻辑规律与规则、思维方法或逻辑学",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "逻辑思维的基本要求",
+                "content": "遵循同一律、矛盾律和排中律",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "同一律",
+                    "content": "思维必须保持自身同一性，公式：A是A",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "矛盾律",
+                    "content": "不能同时肯定A和非A，公式：A不是非A",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "排中律",
+                    "content": "A和非A必有一真，公式：A或者非A",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第三课 领会科学思维",
+            "content": "理解科学思维的含义、特征和学习意义",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "科学思维的含义与特征",
+                "content": "科学思维是符合认识规律、遵循逻辑规则的思维",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "追求认识的客观性",
+                    "content": "从实际出发，如实地反映认识对象",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "结果具有预见性",
+                    "content": "通过对历史与现实材料的分析，找出事物发展的规律",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "结果具有可检验性",
+                    "content": "思维的结果必须接受实践的检验",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "学习科学思维的意义",
+                "content": "有助于纠正逻辑错误、把握事物本质、提高创新能力",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元 遵循逻辑思维规则",
+        "content": "学习准确把握概念、正确运用判断和掌握演绎推理方法",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "第四课 准确把握概念",
+            "content": "学习概念的概述和明确概念的方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "概念的概述",
+                "content": "概念是反映事物本质属性的思维形式",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "概念的含义",
+                    "content": "通过揭示事物的本质属性而反映事物",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "概念的基本特征",
+                    "content": "概念通过语词表达，但并非一一对应",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "概念的内涵和外延",
+                    "content": "内涵是本质属性，外延是具有这些属性的事物范围",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "明确概念的方法",
+                "content": "通过定义明确内涵，通过划分明确外延",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "明确内涵的方法",
+                    "content": "定义是揭示概念内涵的逻辑方法",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "明确外延的方法",
+                    "content": "划分是明确概念外延的逻辑方法",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第五课 正确运用判断",
+            "content": "学习判断的概述和正确运用简单判断与复合判断",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "判断的概述",
+                "content": "判断是对认识对象有所断定的思维形式",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "判断及其基本特征",
+                    "content": "判断有肯定和否定两种方式，有真假之分",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "判断的表达与类型",
+                    "content": "判断通过语句表达，分为简单判断和复合判断",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "正确运用简单判断",
+                "content": "包括性质判断和关系判断",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "正确运用性质判断",
+                    "content": "断定对象具有或不具有某种性质",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "正确运用关系判断",
+                    "content": "断定对象之间的关系",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "正确运用复合判断",
+                "content": "包括联言判断、选言判断和假言判断",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "正确运用联言判断",
+                    "content": "断定几种情况同时存在",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "正确运用选言判断",
+                    "content": "断定对象的可能情况",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "正确运用假言判断",
+                    "content": "断定事物情况之间的条件关系",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第六课 掌握演绎推理方法",
+            "content": "学习推理与演绎推理概述，以及各种演绎推理方法",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "推理与演绎推理概述",
+                "content": "推理是从一个或几个判断推出新判断的思维形式",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "推理的含义与种类",
+                    "content": "包括演绎推理、归纳推理和类比推理",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "演绎推理的逻辑要义",
+                    "content": "从真前提推出真结论，需要前提真实和推理结构正确",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "简单判断的演绎推理方法",
+                "content": "包括性质判断换质位推理和三段论推理",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "性质判断换质位推理",
+                    "content": "通过改变判断的质或主谓项位置得到新判断",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "三段论推理",
+                    "content": "由两个前提推出结论的演绎推理",
+                    "difficulty": "5",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "复合判断的演绎推理方法",
+                "content": "包括联言推理、选言推理和假言推理",
+                "difficulty": "5",
+                "children": [
+                  {
+                    "title": "联言推理及其方法",
+                    "content": "依据联言判断的逻辑性质进行推理",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "选言推理及其方法",
+                    "content": "依据选言判断的逻辑性质进行推理",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "假言推理及其方法",
+                    "content": "依据假言判断的逻辑性质进行推理",
+                    "difficulty": "5",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第七课 学会归纳与类比推理",
+            "content": "学习归纳推理及其方法和类比推理及其方法",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "归纳推理及其方法",
+                "content": "从个别性前提推出一般性结论的推理",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "归纳推理的含义",
+                    "content": "包括完全归纳推理和不完全归纳推理",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "归纳推理的方法",
+                    "content": "包括求同法、求异法、共变法等",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "类比推理及其方法",
+                "content": "从一般到一般或从个别到个别的推理",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "类比推理的含义",
+                    "content": "根据两个或两类对象在一些属性上相同或相似，推出其他属性也相同或相似",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "类比推理的方法",
+                    "content": "包括模拟方法等，需要提高可靠程度",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三单元 运用辩证思维方法",
+        "content": "学习辩证分合、质量互变和推动认识发展",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "第八课 把握辩证分合",
+            "content": "学习辩证思维的含义与特征，以及分析与综合的辩证关系",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "辩证思维的含义与特征",
+                "content": "用联系、发展、全面的观点看待事物和思考问题",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "辩证思维的含义",
+                    "content": "实质和核心是运用矛盾分析方法",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "辩证思维的特征",
+                    "content": "具有整体性和动态性",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "分析与综合及其辩证关系",
+                "content": "分析是把认识对象分解为各部分，综合是把各部分联结为整体",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "分析与综合的含义",
+                    "content": "分析是分别认识，综合是整体认识",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "分析与综合的辩证关系",
+                    "content": "分析是综合的基础，综合是分析的先导",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第九课 理解质量互变",
+            "content": "学习认识质量互变规律和把握适度原则",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "认识质量互变规律",
+                "content": "任何事物都是质与量的统一体",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "质量互变规律的含义",
+                    "content": "量变是质变的必要前提，质变是量变的必然结果",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "遵循质量互变规律",
+                    "content": "把握事物发展过程中的量变与质变、渐进性与飞跃性",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "把握适度原则",
+                "content": "度是事物保持自身质的稳定性的量的限度",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "适度的含义",
+                    "content": "在度的范围内，质与量相互结合、相互规定",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "掌握适度原则",
+                    "content": "把事物的变化控制在度的范围内，防止过犹不及",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第十课 推动认识发展",
+            "content": "学习不作简单肯定或否定和体会认识发展的历程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "不作简单肯定或否定",
+                "content": "坚持辩证的否定观，避免简单肯定一切或否定一切",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "简单肯定或否定的危害",
+                    "content": "会陷于主观的、极端的思维方式",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "坚持辩证的否定观",
+                    "content": "否定是包含肯定的否定，是扬弃",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "体会认识发展的历程",
+                "content": "包括从感性具体到思维抽象，再从思维抽象到思维具体",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "从感性具体到思维抽象",
+                    "content": "感性具体是直观的整体表象，思维抽象抽取本质规定",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "从思维抽象到思维具体",
+                    "content": "思维具体是事物整体在思维中的再现",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第四单元 提高创新思维能力",
+        "content": "学习创新思维要善于联想、多路探索和力求超前",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "第十一课 创新思维要善于联想",
+            "content": "学习创新思维的含义与特征和联想思维的含义与方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "创新思维的含义与特征",
+                "content": "创新思维是有所发现、有所发明的思维活动",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "创新思维的含义",
+                    "content": "以实践为基础，离不开对前人和他人成果的继承",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "创新思维的特征",
+                    "content": "具有多向性、跨越性和独特性",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "联想思维的含义与方法",
+                "content": "联想思维是对事物之间普遍联系的反映",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "联想思维的含义",
+                    "content": "具有跨越的联结性和非逻辑制约的畅想性",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "联想思维的方法",
+                    "content": "包括迁移和想象",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第十二课 创新思维要多路探索",
+            "content": "学习发散思维与聚合思维的方法和逆向思维的含义与作用",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "发散思维与聚合思维的方法",
+                "content": "发散思维寻求多样性答案，聚合思维寻求最优方案",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "发散思维的方法",
+                    "content": "包括检核表法、信息交合法和头脑风暴法",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "聚合思维的方法",
+                    "content": "利用已有知识和经验，得出合乎逻辑的方案",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "逆向思维的含义与作用",
+                "content": "从相反方向思考，实现创新目的",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "逆向思维的含义",
+                    "content": "从原理、要素、功能结构的反面去思考",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "发挥思维正逆互补的作用",
+                    "content": "逆向思维应当合理，与正向思维互补",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第十三课 创新思维要力求超前",
+            "content": "学习超前思维的含义与特征和超前思维的方法与意义",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "超前思维的含义与特征",
+                "content": "超前思维是判断事物未来发展趋势的思维形态",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "超前思维的含义",
+                    "content": "具有超前意识，不满足于现状",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "超前思维的特征",
+                    "content": "具有探索性、预测性和不确定性",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "超前思维的方法与意义",
+                "content": "运用矛盾分析、推理和想象等方法，进行调查研究",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "超前思维的方法",
+                    "content": "包括矛盾分析、推理和想象，注重调查研究",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "超前思维的意义",
+                    "content": "有助于能动地认识世界和改造世界",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "思维",
+      "tail": "抽象思维",
+      "relation": "包含"
+    },
+    {
+      "head": "思维",
+      "tail": "形象思维",
+      "relation": "包含"
+    },
+    {
+      "head": "逻辑思维",
+      "tail": "同一律",
+      "relation": "遵循"
+    },
+    {
+      "head": "逻辑思维",
+      "tail": "矛盾律",
+      "relation": "遵循"
+    },
+    {
+      "head": "逻辑思维",
+      "tail": "排中律",
+      "relation": "遵循"
+    },
+    {
+      "head": "科学思维",
+      "tail": "逻辑思维",
+      "relation": "基于"
+    },
+    {
+      "head": "概念",
+      "tail": "内涵",
+      "relation": "具有"
+    },
+    {
+      "head": "概念",
+      "tail": "外延",
+      "relation": "具有"
+    },
+    {
+      "head": "判断",
+      "tail": "性质判断",
+      "relation": "包含"
+    },
+    {
+      "head": "判断",
+      "tail": "关系判断",
+      "relation": "包含"
+    },
+    {
+      "head": "判断",
+      "tail": "复合判断",
+      "relation": "包含"
+    },
+    {
+      "head": "复合判断",
+      "tail": "联言判断",
+      "relation": "包含"
+    },
+    {
+      "head": "复合判断",
+      "tail": "选言判断",
+      "relation": "包含"
+    },
+    {
+      "head": "复合判断",
+      "tail": "假言判断",
+      "relation": "包含"
+    },
+    {
+      "head": "推理",
+      "tail": "演绎推理",
+      "relation": "包含"
+    },
+    {
+      "head": "推理",
+      "tail": "归纳推理",
+      "relation": "包含"
+    },
+    {
+      "head": "推理",
+      "tail": "类比推理",
+      "relation": "包含"
+    },
+    {
+      "head": "辩证思维",
+      "tail": "分析与综合",
+      "relation": "运用"
+    },
+    {
+      "head": "质量互变规律",
+      "tail": "度",
+      "relation": "涉及"
+    },
+    {
+      "head": "辩证否定观",
+      "tail": "扬弃",
+      "relation": "体现"
+    },
+    {
+      "head": "认识发展",
+      "tail": "感性具体",
+      "relation": "始于"
+    },
+    {
+      "head": "认识发展",
+      "tail": "思维抽象",
+      "relation": "经过"
+    },
+    {
+      "head": "认识发展",
+      "tail": "思维具体",
+      "relation": "终于"
+    },
+    {
+      "head": "创新思维",
+      "tail": "联想思维",
+      "relation": "运用"
+    },
+    {
+      "head": "创新思维",
+      "tail": "发散思维",
+      "relation": "运用"
+    },
+    {
+      "head": "创新思维",
+      "tail": "聚合思维",
+      "relation": "运用"
+    },
+    {
+      "head": "创新思维",
+      "tail": "逆向思维",
+      "relation": "运用"
+    },
+    {
+      "head": "创新思维",
+      "tail": "超前思维",
+      "relation": "运用"
+    },
+    {
+      "head": "联想思维",
+      "tail": "迁移",
+      "relation": "通过"
+    },
+    {
+      "head": "联想思维",
+      "tail": "想象",
+      "relation": "通过"
+    },
+    {
+      "head": "发散思维",
+      "tail": "检核表法",
+      "relation": "使用"
+    },
+    {
+      "head": "发散思维",
+      "tail": "信息交合法",
+      "relation": "使用"
+    },
+    {
+      "head": "发散思维",
+      "tail": "头脑风暴法",
+      "relation": "使用"
+    },
+    {
+      "head": "逆向思维",
+      "tail": "正向思维",
+      "relation": "互补"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:46:22",
+    "version": "1.1"
+  }
+}

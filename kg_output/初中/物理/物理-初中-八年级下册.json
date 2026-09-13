@@ -1,0 +1,771 @@
+{
+  "knowledge_tree": {
+    "title": "八年级下册物理",
+    "content": "人教版八年级下册物理教材，涵盖力、运动和力、压强、浮力、功和机械能、简单机械等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第七章 力",
+        "content": "力的概念、性质和作用效果",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第1节 力",
+            "content": "力的定义、单位、作用效果和三要素",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "力的定义",
+                "content": "力是物体对物体的作用",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "力的单位",
+                "content": "牛顿，符号N",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "力的作用效果",
+                "content": "力可以使物体发生形变，也可以改变物体的运动状态",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "力的三要素",
+                "content": "大小、方向、作用点",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "力的示意图",
+                "content": "用带箭头的线段表示力",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "力的作用是相互的",
+                "content": "物体间力的作用是相互的",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2节 弹力",
+            "content": "弹力的定义、产生条件和测量",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "弹力的定义",
+                "content": "发生形变的物体，要恢复原状，对与它接触的物体会产生力的作用，这种力叫作弹力",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "弹簧测力计",
+                "content": "测量力的大小的工具",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "使用弹簧测力计",
+                "content": "使用方法和注意事项",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第3节 重力",
+            "content": "重力的定义、大小、方向和作用点",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "重力的定义",
+                "content": "由于地球的吸引而使物体受到的力叫作重力",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "重力的大小",
+                "content": "G=mg，其中g=9.8N/kg",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "重力的方向",
+                "content": "竖直向下",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "重心",
+                "content": "重力的作用点",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "万有引力",
+                "content": "宇宙间物体相互吸引的力",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第八章 运动和力",
+        "content": "牛顿第一定律、二力平衡、摩擦力和力的合成",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第1节 牛顿第一定律",
+            "content": "牛顿第一定律的内容和理解",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "阻力对物体运动的影响",
+                "content": "阻力越小，物体运动得越远",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "牛顿第一定律",
+                "content": "一切物体总保持匀速直线运动状态或静止状态，除非作用在它上面的力迫使它改变这种状态",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "惯性",
+                "content": "物体保持原来运动状态不变的性质",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2节 二力平衡",
+            "content": "二力平衡的条件和应用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "平衡状态",
+                "content": "物体保持静止或匀速直线运动状态",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "二力平衡的条件",
+                "content": "作用在同一物体上的两个力，大小相等、方向相反、并且在同一直线上",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "二力平衡的应用",
+                "content": "利用二力平衡条件分析问题",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第3节 摩擦力",
+            "content": "摩擦力的定义、测量、影响因素和应用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "摩擦力的定义",
+                "content": "两个相互接触的物体，当它们相对滑动时，在接触面上会产生一种阻碍相对运动的力",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "测量滑动摩擦力",
+                "content": "用弹簧测力计水平拉动木块做匀速直线运动",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "影响滑动摩擦力的因素",
+                "content": "压力大小、接触面的粗糙程度",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "增大和减小摩擦的方法",
+                "content": "增大压力或接触面粗糙程度可增大摩擦；减小压力或接触面粗糙程度、变滑动为滚动、加润滑剂可减小摩擦",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第4节 同一直线上二力的合成",
+            "content": "合力和分力的概念，同一直线上二力的合成",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "合力与分力",
+                "content": "如果一个力单独作用的效果与几个力共同作用的效果相同，这个力就叫作那几个力的合力",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "同一直线上二力的合成",
+                "content": "同向相加，反向相减",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第九章 压强",
+        "content": "压强、液体压强、大气压强和流体压强",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第1节 压强",
+            "content": "压强的定义、公式、单位和应用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "压强的定义",
+                "content": "物体所受压力的大小与受力面积之比",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "压强公式",
+                "content": "p=F/S",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "压强单位",
+                "content": "帕斯卡，符号Pa",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "增大和减小压强的方法",
+                "content": "增大压力或减小受力面积可增大压强；减小压力或增大受力面积可减小压强",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2节 液体的压强",
+            "content": "液体压强的特点和计算",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "液体压强的特点",
+                "content": "液体内部向各个方向都有压强；在同一深度，各方向压强相等；深度越大，压强越大；液体密度越大，压强越大",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "液体压强公式",
+                "content": "p=ρgh",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "连通器",
+                "content": "上端开口、下端连通的容器",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第3节 大气压强",
+            "content": "大气压的存在、测量和应用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "大气压的存在",
+                "content": "大气对浸在它里面的物体产生的压强",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "大气压的测量",
+                "content": "托里拆利实验",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "标准大气压",
+                "content": "1.013×10^5Pa",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "大气压与高度的关系",
+                "content": "海拔越高，大气压越小",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第5节 流体压强与流速的关系",
+            "content": "流体压强与流速的关系和应用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "流体压强与流速的关系",
+                "content": "在气体和液体中，流速越大的位置，压强越小",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "飞机的升力",
+                "content": "机翼上下表面压强差产生升力",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十章 浮力",
+        "content": "浮力、阿基米德原理、物体的浮沉条件",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "第1节 浮力",
+            "content": "浮力的定义、测量和产生原因",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "浮力的定义",
+                "content": "浸在液体中的物体受到向上的力",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "测量浮力",
+                "content": "F浮=G-F拉",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "浮力产生的原因",
+                "content": "物体上下表面压力差",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "影响浮力大小的因素",
+                "content": "物体浸在液体中的体积和液体的密度",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2节 阿基米德原理",
+            "content": "阿基米德原理的内容和应用",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "阿基米德原理",
+                "content": "浸在液体中的物体受到向上的浮力，浮力的大小等于它排开的液体所受的重力",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "公式表达",
+                "content": "F浮=G排=ρ液gV排",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第3节 物体的浮沉条件及应用",
+            "content": "物体的浮沉条件及其应用",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "浮沉条件",
+                "content": "F浮>G上浮；F浮=G悬浮；F浮<G下沉",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "浮沉条件的应用",
+                "content": "轮船、潜水艇、气球和飞艇",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十一章 功和机械能",
+        "content": "功、功率、动能和势能",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第1节 功",
+            "content": "功的定义、计算和单位",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "功的定义",
+                "content": "作用在物体上的力与物体在力的方向上移动的距离的乘积",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "功的计算",
+                "content": "W=Fs",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "功的单位",
+                "content": "焦耳，符号J",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2节 功率",
+            "content": "功率的定义、计算和单位",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "功率的定义",
+                "content": "功与做功所用时间之比",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "功率的计算",
+                "content": "P=W/t",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "功率的单位",
+                "content": "瓦特，符号W",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第3节 动能和势能",
+            "content": "动能和势能的定义、影响因素",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "动能",
+                "content": "物体由于运动而具有的能",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "影响动能的因素",
+                "content": "质量和速度",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "重力势能",
+                "content": "物体由于受到重力并处在一定高度时所具有的能",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "影响重力势能的因素",
+                "content": "质量和高度",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "弹性势能",
+                "content": "物体由于发生弹性形变而具有的能",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第4节 机械能及其转化",
+            "content": "机械能的定义和转化",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "机械能",
+                "content": "动能和势能的统称",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "机械能的转化",
+                "content": "动能和势能可以相互转化",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "机械能守恒",
+                "content": "如果只有动能和势能相互转化，机械能的总和不变",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十二章 简单机械",
+        "content": "杠杆、滑轮、机械效率",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "第1节 杠杆",
+            "content": "杠杆的定义、平衡条件和分类",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "杠杆的定义",
+                "content": "在力的作用下能绕着固定点转动的硬棒",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "杠杆的平衡条件",
+                "content": "F1l1=F2l2",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "杠杆的分类",
+                "content": "省力杠杆、费力杠杆、等臂杠杆",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第3节 滑轮",
+            "content": "定滑轮、动滑轮和滑轮组",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "定滑轮",
+                "content": "轴固定不动的滑轮，不省力但可以改变力的方向",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "动滑轮",
+                "content": "轴随物体一起运动的滑轮，省力但不能改变力的方向",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "滑轮组",
+                "content": "定滑轮和动滑轮的组合，既可以省力又可以改变力的方向",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第4节 机械效率",
+            "content": "有用功、额外功、总功和机械效率",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "有用功",
+                "content": "对我们有用的功",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "额外功",
+                "content": "对我们没有用但又不得不做的功",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "总功",
+                "content": "有用功与额外功之和",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "机械效率",
+                "content": "有用功与总功的比值",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "提高机械效率的方法",
+                "content": "减小额外功",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "力",
+      "tail": "物体对物体的作用",
+      "relation": "定义为"
+    },
+    {
+      "head": "力",
+      "tail": "牛顿",
+      "relation": "单位是"
+    },
+    {
+      "head": "力",
+      "tail": "作用效果",
+      "relation": "具有"
+    },
+    {
+      "head": "力",
+      "tail": "三要素",
+      "relation": "包括"
+    },
+    {
+      "head": "弹力",
+      "tail": "弹性形变",
+      "relation": "由于"
+    },
+    {
+      "head": "弹簧测力计",
+      "tail": "测量力",
+      "relation": "用于"
+    },
+    {
+      "head": "重力",
+      "tail": "地球吸引",
+      "relation": "由于"
+    },
+    {
+      "head": "重力",
+      "tail": "G=mg",
+      "relation": "计算公式"
+    },
+    {
+      "head": "重心",
+      "tail": "重力作用点",
+      "relation": "是"
+    },
+    {
+      "head": "牛顿第一定律",
+      "tail": "惯性",
+      "relation": "说明"
+    },
+    {
+      "head": "二力平衡",
+      "tail": "平衡状态",
+      "relation": "导致"
+    },
+    {
+      "head": "摩擦力",
+      "tail": "相对运动",
+      "relation": "阻碍"
+    },
+    {
+      "head": "滑动摩擦力",
+      "tail": "压力",
+      "relation": "与成正比"
+    },
+    {
+      "head": "滑动摩擦力",
+      "tail": "接触面粗糙程度",
+      "relation": "与有关"
+    },
+    {
+      "head": "压强",
+      "tail": "压力与受力面积之比",
+      "relation": "定义为"
+    },
+    {
+      "head": "液体压强",
+      "tail": "深度",
+      "relation": "与成正比"
+    },
+    {
+      "head": "液体压强",
+      "tail": "液体密度",
+      "relation": "与成正比"
+    },
+    {
+      "head": "大气压强",
+      "tail": "托里拆利实验",
+      "relation": "通过测量"
+    },
+    {
+      "head": "浮力",
+      "tail": "液体",
+      "relation": "浸在中的物体受到"
+    },
+    {
+      "head": "阿基米德原理",
+      "tail": "浮力",
+      "relation": "描述大小"
+    },
+    {
+      "head": "功",
+      "tail": "力与距离的乘积",
+      "relation": "定义为"
+    },
+    {
+      "head": "功率",
+      "tail": "功与时间之比",
+      "relation": "定义为"
+    },
+    {
+      "head": "动能",
+      "tail": "运动",
+      "relation": "由于而具有的能"
+    },
+    {
+      "head": "势能",
+      "tail": "重力",
+      "relation": "由于而具有的能"
+    },
+    {
+      "head": "杠杆",
+      "tail": "固定点转动",
+      "relation": "能绕着"
+    },
+    {
+      "head": "滑轮",
+      "tail": "定滑轮",
+      "relation": "包括"
+    },
+    {
+      "head": "机械效率",
+      "tail": "有用功与总功之比",
+      "relation": "定义为"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:52:33",
+    "version": "1.1"
+  }
+}

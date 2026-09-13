@@ -1,0 +1,425 @@
+{
+  "knowledge_tree": {
+    "title": "七年级下册中国历史",
+    "content": "涵盖隋唐至明清时期的政治、经济、文化、民族关系与对外交流",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元 隋唐时期：繁荣与开放的时代",
+        "content": "隋唐统一、制度创新、民族交融与盛世局面",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第1课 隋朝统一与灭亡",
+            "content": "隋朝建立、统一全国、大运河开通、科举制创立与速亡原因",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "隋的统一",
+                "content": "581年杨坚建立隋朝，589年灭陈统一全国，结束长期分裂",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "开通大运河",
+                "content": "605年起隋炀帝开凿以洛阳为中心，连接五大水系的南北大运河",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "大运河的构成",
+                    "content": "永济渠、通济渠、邗沟、江南河四段，北抵涿郡南至余杭",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "大运河的影响",
+                    "content": "加强南北交通与经济文化交流，带动沿岸城市发展",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "开创科举取士制度",
+                "content": "隋文帝废九品中正制，隋炀帝设进士科标志科举制创立",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "科举制的意义",
+                    "content": "扩大选官范围，提高官僚素质，促进社会流动",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "隋朝的灭亡",
+                "content": "隋炀帝暴政导致农民起义，618年隋亡",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2课 唐朝建立与“贞观之治”",
+            "content": "唐朝建立、贞观之治措施与武则天统治",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "唐朝的建立",
+                "content": "618年李渊建唐，626年李世民继位为唐太宗",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "“贞观之治”",
+                "content": "唐太宗吸取隋亡教训，励精图治形成治世局面",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "贞观政要措施",
+                    "content": "纳谏用人、三省六部制完善、减轻赋役、发展科举",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "武则天的统治",
+                "content": "690年改国号为周，发展科举、重视生产，为开元盛世奠基",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第3课 “开元盛世”",
+            "content": "唐玄宗前期改革开创盛世，经济文化繁荣",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "盛世局面的出现",
+                "content": "玄宗重用贤能，整顿吏治，发展生产",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "经济的繁荣",
+                "content": "农业工具改进（曲辕犁、筒车），手工业发达，商业兴盛",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "长安城布局",
+                    "content": "宫城、皇城、外郭城三重结构，坊市制度严格",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第4课 安史之乱与唐朝衰亡",
+            "content": "安史之乱导致唐朝由盛转衰，最终灭亡进入五代十国",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "安史之乱",
+                "content": "755年安禄山史思明叛乱，持续八年重创唐朝",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "黄巢起义与唐朝灭亡",
+                "content": "878年黄巢起义打击唐朝统治，907年朱温建后梁",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "五代十国的更迭",
+                "content": "北方五代与南方十国并立，后周改革为统一奠基",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第5课 隋唐时期的民族交往与交融",
+            "content": "与吐蕃、突厥、回纥等民族关系发展",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "文成公主入藏",
+                "content": "641年唐蕃和亲促进经济文化交流",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "唐蕃会盟",
+                "content": "823年立会盟碑确立“和同为一家”",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "突厥与回纥",
+                "content": "唐太宗被尊“天可汗”，回纥助平叛后改称回鹘",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第6课 隋唐时期的中外文化交流",
+            "content": "遣唐使、鉴真东渡、玄奘西行体现中外文化交流",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "遣唐使与鉴真东渡",
+                "content": "日本多次遣使，鉴真传播佛教与文化",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "玄奘西行",
+                "content": "前往天竺取经著《大唐西域记》",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第7课 隋唐时期的科技与文化",
+            "content": "雕版印刷、天文医药、文学艺术成就",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "雕版印刷术",
+                "content": "唐朝已有佛经日历印刷，促进文化传播",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "唐诗",
+                "content": "李白杜甫白居易等代表不同风格",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元 辽宋夏金元时期：民族关系发展和社会变化",
+        "content": "多民族政权并立、经济重心南移、元朝统一与科技文化",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第8课 北宋的政治",
+            "content": "北宋建立、加强中央集权措施与王安石变法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "北宋的建立",
+                "content": "960年赵匡胤陈桥兵变建立宋朝",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "强化中央集权",
+                "content": "杯酒释兵权、重文轻武、地方分权",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第9课 辽、西夏与北宋并立",
+            "content": "辽、西夏建立与北宋的和战关系",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "第10课 金与南宋对峙",
+            "content": "金灭辽与北宋，南宋偏安与岳飞抗金",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "第11课 元朝的建立与统一",
+            "content": "蒙古兴起、元朝建立与统一全国",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "第12课 辽宋夏金元时期经济的繁荣",
+            "content": "农业手工业发展、商业繁荣与经济重心南移完成",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "第13课 辽宋夏金元时期的对外交流",
+            "content": "海陆交通发达、海外贸易繁荣与文化交往",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "第14课 辽宋夏金元时期的科技与文化",
+            "content": "四大发明应用、理学兴起与文学艺术成就",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第三单元 明清时期：统一多民族封建国家的巩固与发展",
+        "content": "明清政治、经济、边疆治理与科技文化",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第15课 明朝的统治",
+            "content": "明朝建立、强化皇权措施与科举变化",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "第16课 明朝的对外关系",
+            "content": "郑和下西洋、戚继光抗倭与澳门问题",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "第17课 明朝的灭亡和清朝的建立",
+            "content": "明末政治腐败与农民起义，清朝建立",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "第18课 清朝的边疆治理",
+            "content": "郑成功收复台湾、清廷对西藏新疆的有效管辖",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "第19课 清朝君主专制的强化",
+            "content": "军机处设立、文字狱与文化专制政策",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "第20课 明清时期社会经济的发展",
+            "content": "农业恢复、手工业商业发展与人口增长",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "第21课 明清时期的科技与文化",
+            "content": "科技名著、明长城北京城、小说戏曲成就",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "隋朝",
+      "tail": "大运河",
+      "relation": "开通"
+    },
+    {
+      "head": "隋朝",
+      "tail": "科举制",
+      "relation": "创立"
+    },
+    {
+      "head": "唐朝",
+      "tail": "贞观之治",
+      "relation": "开创"
+    },
+    {
+      "head": "唐太宗",
+      "tail": "纳谏",
+      "relation": "实行"
+    },
+    {
+      "head": "武则天",
+      "tail": "科举制",
+      "relation": "发展"
+    },
+    {
+      "head": "唐玄宗",
+      "tail": "开元盛世",
+      "relation": "开创"
+    },
+    {
+      "head": "安史之乱",
+      "tail": "唐朝衰亡",
+      "relation": "导致"
+    },
+    {
+      "head": "文成公主",
+      "tail": "吐蕃",
+      "relation": "和亲"
+    },
+    {
+      "head": "鉴真",
+      "tail": "日本",
+      "relation": "东渡"
+    },
+    {
+      "head": "玄奘",
+      "tail": "天竺",
+      "relation": "西行"
+    },
+    {
+      "head": "雕版印刷术",
+      "tail": "文化传播",
+      "relation": "促进"
+    },
+    {
+      "head": "北宋",
+      "tail": "重文轻武",
+      "relation": "实行"
+    },
+    {
+      "head": "王安石变法",
+      "tail": "富国强兵",
+      "relation": "旨在"
+    },
+    {
+      "head": "经济重心南移",
+      "tail": "南宋",
+      "relation": "完成"
+    },
+    {
+      "head": "元朝",
+      "tail": "行省制度",
+      "relation": "创立"
+    },
+    {
+      "head": "四大发明",
+      "tail": "世界文明",
+      "relation": "贡献"
+    },
+    {
+      "head": "明朝",
+      "tail": "郑和下西洋",
+      "relation": "组织"
+    },
+    {
+      "head": "清朝",
+      "tail": "军机处",
+      "relation": "设立"
+    },
+    {
+      "head": "《本草纲目》",
+      "tail": "医药学",
+      "relation": "总结"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:24:16",
+    "version": "1.1"
+  }
+}

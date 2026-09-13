@@ -1,0 +1,426 @@
+{
+  "knowledge_tree": {
+    "title": "植物生理学",
+    "content": "研究植物生命活动规律及其与环境相互关系的科学",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "水分生理",
+        "content": "植物对水分的吸收、运输、散失和利用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "水的物理化学性质",
+            "content": "水是植物生命活动的基础溶剂，具有高比热、高汽化热、强极性等特性",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "水势",
+                "content": "每偏摩尔体积水的化学势差，单位MPa，Ψw = Ψs + Ψp + Ψg + Ψm",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "渗透作用",
+                "content": "水分子通过半透膜从高水势区域向低水势区域的扩散",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "植物细胞吸水",
+            "content": "植物细胞通过渗透作用吸收水分的过程",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "质壁分离",
+                "content": "细胞失水时原生质体与细胞壁分离的现象",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "吸胀吸水",
+                "content": "亲水胶体物质通过吸胀作用吸水（如干燥种子）",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "蒸腾作用",
+            "content": "植物体内水分以气态形式散失到大气中的过程",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "气孔运动机理",
+                "content": "保卫细胞通过钾离子泵调节膨压控制气孔开闭",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "蒸腾速率测定",
+                "content": "通过蒸腾计、稳态气孔计等方法测定",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "矿质营养",
+        "content": "植物对矿质元素的吸收、转运和利用",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "必需矿质元素",
+            "content": "植物正常生长发育不可缺少的16种矿质元素",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "大量元素",
+                "content": "N、P、K、Ca、Mg、S等需求量较大的元素",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "微量元素",
+                "content": "Fe、Mn、B、Zn、Cu、Mo、Cl、Ni等需求量微小的元素",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "根系吸收机理",
+            "content": "植物根系通过被动吸收和主动吸收获取矿质元素",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "离子跨膜运输",
+                "content": "通过离子通道、载体、质子泵等机制实现",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "根际效应",
+                "content": "根系分泌物对根际微生物和养分有效性的影响",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "光合作用",
+        "content": "绿色植物利用光能将CO2和水转化为有机物的过程",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "光反应",
+            "content": "在类囊体膜上进行的光能捕获和转化过程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "光合色素",
+                "content": "叶绿素、类胡萝卜素等光能捕获分子",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电子传递链",
+                "content": "PSII→PQ→Cytb6f→PC→PSI→Fd的电子传递过程",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "光合磷酸化",
+                "content": "利用质子动力势合成ATP的过程",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "碳同化",
+            "content": "在叶绿体基质中固定CO2合成有机物的过程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "卡尔文循环",
+                "content": "C3途径：RuBP羧化→PGA还原→RuBP再生",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "C4途径",
+                "content": "在叶肉细胞固定CO2，维管束鞘细胞释放CO2",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "景天酸代谢",
+                "content": "夜间固定CO2，白天进行光合作用的特殊途径",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "呼吸作用",
+        "content": "植物细胞分解有机物释放能量的过程",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "糖酵解",
+            "content": "细胞质中葡萄糖分解为丙酮酸的过程",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "三羧酸循环",
+            "content": "线粒体基质中丙酮酸彻底氧化分解的过程",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "电子传递与氧化磷酸化",
+            "content": "在线粒体内膜上进行ATP合成的过程",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "植物激素",
+        "content": "植物体内合成的微量有机物质，调节生长发育",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "生长素",
+            "content": "促进细胞伸长和分裂，存在极性运输特性",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "细胞分裂素",
+            "content": "促进细胞分裂，延缓衰老",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "赤霉素",
+            "content": "促进茎伸长，打破休眠",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "植物生理学",
+      "tail": "水分生理",
+      "relation": "包含"
+    },
+    {
+      "head": "植物生理学",
+      "tail": "矿质营养",
+      "relation": "包含"
+    },
+    {
+      "head": "植物生理学",
+      "tail": "光合作用",
+      "relation": "包含"
+    },
+    {
+      "head": "植物生理学",
+      "tail": "呼吸作用",
+      "relation": "包含"
+    },
+    {
+      "head": "植物生理学",
+      "tail": "植物激素",
+      "relation": "包含"
+    },
+    {
+      "head": "水分生理",
+      "tail": "水势",
+      "relation": "核心概念"
+    },
+    {
+      "head": "水势",
+      "tail": "渗透作用",
+      "relation": "决定"
+    },
+    {
+      "head": "水分生理",
+      "tail": "植物细胞吸水",
+      "relation": "包含"
+    },
+    {
+      "head": "植物细胞吸水",
+      "tail": "质壁分离",
+      "relation": "通过实验验证"
+    },
+    {
+      "head": "水分生理",
+      "tail": "蒸腾作用",
+      "relation": "包含"
+    },
+    {
+      "head": "蒸腾作用",
+      "tail": "气孔运动机理",
+      "relation": "受调控于"
+    },
+    {
+      "head": "矿质营养",
+      "tail": "必需矿质元素",
+      "relation": "研究对象"
+    },
+    {
+      "head": "必需矿质元素",
+      "tail": "大量元素",
+      "relation": "分类为"
+    },
+    {
+      "head": "必需矿质元素",
+      "tail": "微量元素",
+      "relation": "分类为"
+    },
+    {
+      "head": "矿质营养",
+      "tail": "根系吸收机理",
+      "relation": "包含"
+    },
+    {
+      "head": "根系吸收机理",
+      "tail": "离子跨膜运输",
+      "relation": "通过机制实现"
+    },
+    {
+      "head": "光合作用",
+      "tail": "光反应",
+      "relation": "第一阶段"
+    },
+    {
+      "head": "光合作用",
+      "tail": "碳同化",
+      "relation": "第二阶段"
+    },
+    {
+      "head": "光反应",
+      "tail": "光合色素",
+      "relation": "依赖"
+    },
+    {
+      "head": "光反应",
+      "tail": "电子传递链",
+      "relation": "核心过程"
+    },
+    {
+      "head": "光反应",
+      "tail": "光合磷酸化",
+      "relation": "产生能量"
+    },
+    {
+      "head": "碳同化",
+      "tail": "卡尔文循环",
+      "relation": "主要途径"
+    },
+    {
+      "head": "碳同化",
+      "tail": "C4途径",
+      "relation": "特殊适应"
+    },
+    {
+      "head": "碳同化",
+      "tail": "景天酸代谢",
+      "relation": "特殊适应"
+    },
+    {
+      "head": "呼吸作用",
+      "tail": "糖酵解",
+      "relation": "初始阶段"
+    },
+    {
+      "head": "呼吸作用",
+      "tail": "三羧酸循环",
+      "relation": "中间阶段"
+    },
+    {
+      "head": "呼吸作用",
+      "tail": "电子传递与氧化磷酸化",
+      "relation": "最终阶段"
+    },
+    {
+      "head": "植物激素",
+      "tail": "生长素",
+      "relation": "包含"
+    },
+    {
+      "head": "植物激素",
+      "tail": "细胞分裂素",
+      "relation": "包含"
+    },
+    {
+      "head": "植物激素",
+      "tail": "赤霉素",
+      "relation": "包含"
+    },
+    {
+      "head": "蒸腾作用",
+      "tail": "水分生理",
+      "relation": "属于"
+    },
+    {
+      "head": "气孔运动机理",
+      "tail": "钾离子泵",
+      "relation": "基于"
+    },
+    {
+      "head": "根系吸收机理",
+      "tail": "主动吸收",
+      "relation": "包含"
+    },
+    {
+      "head": "根系吸收机理",
+      "tail": "被动吸收",
+      "relation": "包含"
+    },
+    {
+      "head": "光合作用",
+      "tail": "光能转化",
+      "relation": "实现"
+    },
+    {
+      "head": "呼吸作用",
+      "tail": "能量释放",
+      "relation": "实现"
+    },
+    {
+      "head": "水势",
+      "tail": "植物细胞吸水",
+      "relation": "驱动"
+    },
+    {
+      "head": "矿质营养",
+      "tail": "光合作用",
+      "relation": "提供原料"
+    },
+    {
+      "head": "呼吸作用",
+      "tail": "光合作用",
+      "relation": "提供能量"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:17:26",
+    "version": "1.1"
+  }
+}

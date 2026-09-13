@@ -1,0 +1,337 @@
+{
+  "knowledge_tree": {
+    "title": "中国古代文学史",
+    "content": "中国古代文学史是研究中国自上古至清末文学发展演变历史的学科，涵盖诗歌、散文、小说、戏曲等文学体裁，以及各时期的文学思潮、流派、作家与作品。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "先秦文学",
+        "content": "先秦文学是中国古代文学的源头，包括神话、诗歌、散文等，反映了早期社会的思想与文化。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "《诗经》",
+            "content": "中国第一部诗歌总集，收录西周至春秋中叶的诗歌，分为风、雅、颂三部分，开创了现实主义诗歌传统。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "风",
+                "content": "地方民歌，反映民间生活与情感，如《关雎》《七月》。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "雅",
+                "content": "宫廷乐歌，分大雅、小雅，多用于宴飨或朝会。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "颂",
+                "content": "宗庙祭祀乐歌，歌颂祖先功德，如《周颂》《鲁颂》。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "历史散文",
+            "content": "以历史事件为题材的散文，如《尚书》《春秋》《左传》。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《左传》",
+                "content": "编年体史书，叙事详实，语言精炼，开创历史文学的先河。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "诸子散文",
+            "content": "春秋战国时期各学派代表人物的著作，如《论语》《孟子》《庄子》。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《庄子》",
+                "content": "道家经典，以寓言说理，想象奇幻，文学性极强。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "秦汉文学",
+        "content": "秦汉时期文学以辞赋、史传文学为主，体现大一统帝国的文化气象。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "汉赋",
+            "content": "铺陈夸张的韵文体裁，代表作家有司马相如、班固。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "《史记》",
+            "content": "司马迁所著纪传体通史，开创传记文学传统，被誉为“史家之绝唱，无韵之离骚”。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "魏晋南北朝文学",
+        "content": "文学自觉时期，诗歌、文学批评、志怪小说等蓬勃发展。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "建安文学",
+            "content": "以曹操、曹丕、曹植为代表，风格慷慨悲凉，史称“建安风骨”。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "《文心雕龙》",
+            "content": "刘勰所著文学理论巨著，系统论述文学创作与批评原则。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "唐代文学",
+        "content": "中国古代诗歌的黄金时代，同时古文运动兴起，传奇小说成熟。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "唐诗",
+            "content": "分为初唐、盛唐、中唐、晚唐四个阶段，体裁完备，名家辈出。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "李白",
+                "content": "盛唐浪漫主义诗人，诗风豪放飘逸，如《将进酒》。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "杜甫",
+                "content": "现实主义诗人，作品沉郁顿挫，如“三吏三别”。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "古文运动",
+            "content": "韩愈、柳宗元倡导的散文革新运动，反对骈文，提倡秦汉古文。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "宋元文学",
+        "content": "宋词、元曲成为代表性文体，话本小说开始流行。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "宋词",
+            "content": "合乐歌词，分婉约派与豪放派，代表作家有苏轼、李清照。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "元杂剧",
+            "content": "成熟戏曲形式，关汉卿《窦娥冤》、王实甫《西厢记》为代表。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "明清文学",
+        "content": "小说创作达到高峰，章回体长篇小说成为主流。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "四大名著",
+            "content": "《三国演义》《水浒传》《西游记》《红楼梦》并称明清小说巅峰。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《红楼梦》",
+                "content": "曹雪芹所著长篇小说，以贾府兴衰为主线，展现封建社会末期百态。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "《诗经》",
+      "tail": "风",
+      "relation": "包含"
+    },
+    {
+      "head": "《诗经》",
+      "tail": "雅",
+      "relation": "包含"
+    },
+    {
+      "head": "《诗经》",
+      "tail": "颂",
+      "relation": "包含"
+    },
+    {
+      "head": "先秦文学",
+      "tail": "《诗经》",
+      "relation": "包含"
+    },
+    {
+      "head": "先秦文学",
+      "tail": "历史散文",
+      "relation": "包含"
+    },
+    {
+      "head": "先秦文学",
+      "tail": "诸子散文",
+      "relation": "包含"
+    },
+    {
+      "head": "历史散文",
+      "tail": "《左传》",
+      "relation": "包含"
+    },
+    {
+      "head": "诸子散文",
+      "tail": "《庄子》",
+      "relation": "包含"
+    },
+    {
+      "head": "秦汉文学",
+      "tail": "汉赋",
+      "relation": "包含"
+    },
+    {
+      "head": "秦汉文学",
+      "tail": "《史记》",
+      "relation": "包含"
+    },
+    {
+      "head": "魏晋南北朝文学",
+      "tail": "建安文学",
+      "relation": "包含"
+    },
+    {
+      "head": "魏晋南北朝文学",
+      "tail": "《文心雕龙》",
+      "relation": "包含"
+    },
+    {
+      "head": "唐代文学",
+      "tail": "唐诗",
+      "relation": "包含"
+    },
+    {
+      "head": "唐代文学",
+      "tail": "古文运动",
+      "relation": "包含"
+    },
+    {
+      "head": "唐诗",
+      "tail": "李白",
+      "relation": "包含"
+    },
+    {
+      "head": "唐诗",
+      "tail": "杜甫",
+      "relation": "包含"
+    },
+    {
+      "head": "宋元文学",
+      "tail": "宋词",
+      "relation": "包含"
+    },
+    {
+      "head": "宋元文学",
+      "tail": "元杂剧",
+      "relation": "包含"
+    },
+    {
+      "head": "明清文学",
+      "tail": "四大名著",
+      "relation": "包含"
+    },
+    {
+      "head": "四大名著",
+      "tail": "《红楼梦》",
+      "relation": "包含"
+    },
+    {
+      "head": "《诗经》",
+      "tail": "现实主义诗歌传统",
+      "relation": "开创"
+    },
+    {
+      "head": "《史记》",
+      "tail": "传记文学传统",
+      "relation": "开创"
+    },
+    {
+      "head": "古文运动",
+      "tail": "韩愈",
+      "relation": "由...倡导"
+    },
+    {
+      "head": "古文运动",
+      "tail": "柳宗元",
+      "relation": "由...倡导"
+    },
+    {
+      "head": "建安文学",
+      "tail": "建安风骨",
+      "relation": "体现"
+    },
+    {
+      "head": "《庄子》",
+      "tail": "寓言说理",
+      "relation": "以...为特色"
+    },
+    {
+      "head": "汉赋",
+      "tail": "铺陈夸张",
+      "relation": "以...为特点"
+    },
+    {
+      "head": "宋词",
+      "tail": "婉约派",
+      "relation": "分为"
+    },
+    {
+      "head": "宋词",
+      "tail": "豪放派",
+      "relation": "分为"
+    },
+    {
+      "head": "元杂剧",
+      "tail": "关汉卿",
+      "relation": "代表作家"
+    },
+    {
+      "head": "元杂剧",
+      "tail": "王实甫",
+      "relation": "代表作家"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:09:52",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,835 @@
+{
+  "knowledge_tree": {
+    "title": "八年级下册音乐",
+    "content": "义务教育教科书音乐（简谱）八年级下册，涵盖华夏古韵、梨园风采、西乐撷英、神州音韵、音乐故事、夏日情怀等单元",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "华夏古韵",
+        "content": "中国古代音乐文化与作品欣赏",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "阳关三叠",
+            "content": "唐代琴歌，王维诗《送元二使安西》为词，表达送别之情",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "叠的含义",
+                "content": "古代同曲变奏结构，三叠指变奏三次",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "演唱形式",
+                "content": "琴歌（古琴伴唱）",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "原始狩猎图",
+            "content": "骨笛与乐队作品，表现原始狩猎场景",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "骨笛",
+                "content": "用大型飞禽骨头制成的吹奏乐器，距今约8000年",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "哀郢",
+            "content": "埙独奏曲，以屈原诗作为主题，表现远古人类情感",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "埙",
+                "content": "古代陶制吹奏乐器，圆形或椭圆形",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "楚商",
+            "content": "编钟乐曲，基于先秦楚国音调，体现'以和为美'",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "编钟",
+                "content": "古代打击乐器，由大小不同的钟组合而成",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "曾侯乙编钟",
+                "content": "战国早期编钟，64件，音域五个半八度",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "流水",
+            "content": "古琴曲，表现流水意象，传统名曲",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "古琴",
+                "content": "中国古老弹弦乐器，2003年入选非物质文化遗产",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "杏花天影",
+            "content": "宋代歌曲，姜夔词曲，旋律舒缓典雅",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "广陵散",
+            "content": "古琴曲，取材聂政刺韩王故事，嵇康绝唱",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "梨园风采",
+        "content": "中国戏曲艺术，重点学习京剧",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "京剧概述",
+            "content": "形成于乾隆年间，中国最大剧种，皮黄腔为主",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "行当",
+                "content": "生、旦、净、丑四大行当",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "唱腔",
+                "content": "西皮、二黄等腔调，导板、原板、慢板等板式",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "海岛冰轮初转腾",
+            "content": "京剧《贵妃醉酒》选段，梅派代表，四平调",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "我正在城楼观山景",
+            "content": "京剧《空城计》选段，马派代表，西皮二六板",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "儿行千里母担忧",
+            "content": "京剧《三家店》选段，西皮流水板",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "西皮流水",
+                "content": "1/4拍，有板无眼，中快速度",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "游园惊梦",
+            "content": "昆曲《牡丹亭》选段，水磨调风格",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "昆曲",
+                "content": "原名昆腔，600多年历史，2001年入选非物质文化遗产",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "智斗",
+            "content": "现代京剧《沙家浜》选段，三人对唱",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "打虎上山",
+            "content": "现代京剧《智取威虎山》选段，二黄导板",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "京剧伴奏",
+            "content": "文场与武场",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "文场",
+                "content": "京胡、京二胡、月琴、三弦等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "武场",
+                "content": "板鼓、大锣、小锣、铙钹等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "锣鼓经",
+                "content": "打击乐记谱法，如四击头、住头",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "西乐撷英(一)",
+        "content": "欧洲巴洛克与古典时期音乐",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "英雄凯旋歌",
+            "content": "亨德尔清唱剧《犹大·麦卡白》选段",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "清唱剧",
+                "content": "大型声乐套曲，介于歌剧与合唱之间",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "G弦上的咏叹调",
+            "content": "巴赫作品，小提琴G弦独奏",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "小夜曲",
+            "content": "海顿弦乐四重奏作品",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "弦乐四重奏",
+                "content": "两把小提琴、一中提琴、一大提琴",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "c小调第五交响曲",
+            "content": "贝多芬作品，命运动机",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "交响曲",
+                "content": "管弦乐队演奏的多乐章大型套曲",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "g小调第四十交响曲",
+            "content": "莫扎特作品，第一乐章快板",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "神州音韵(四)",
+        "content": "中国各民族民间音乐",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "在那遥远的地方",
+            "content": "青海民歌，王洛宾改编",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "大漠之夜",
+            "content": "混声合唱，表现沙漠意境",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "玛依拉",
+            "content": "哈萨克族民歌，热情活泼",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "哈萨克民歌",
+                "content": "游牧民族风格，包括牧歌、情歌等",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "阳光照耀着塔什库尔干",
+            "content": "小提琴独奏，新疆塔吉克风格",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "牧歌",
+            "content": "蒙古族长调民歌",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "蒙古族长调",
+                "content": "节奏自由，旋律悠长，装饰音独特",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "蒙古族短调",
+                "content": "节拍鲜明，结构清晰",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "万马奔腾",
+            "content": "马头琴独奏，表现壮观场面",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "马头琴",
+                "content": "蒙古族拉弦乐器，琴杆雕马头",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "乌夏克木卡姆",
+            "content": "维吾尔木卡姆第八套",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "木卡姆",
+                "content": "维吾尔族大型古典音乐，十二套组成",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "半个月亮爬上来",
+            "content": "维吾尔民歌，无伴奏合唱",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "音乐故事(一)",
+        "content": "以音乐讲述故事的作品",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "梁山伯与祝英台",
+            "content": "小提琴协奏曲，何占豪、陈钢曲",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "协奏曲",
+                "content": "独奏乐器与乐队协同演奏的大型套曲",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "奏鸣曲式",
+                "content": "呈示部-展开部-再现部结构",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "化蝶",
+            "content": "阎肃填词，歌曲版梁祝",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "十面埋伏",
+            "content": "琵琶独奏，描绘楚汉相争",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "琵琶技法",
+                "content": "轮、扫、拂、绞弦等表现战争",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "长恨歌",
+            "content": "清唱剧，韦翰章词、黄自曲",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "渔阳鼙鼓动地来",
+                "content": "男声四部合唱，表现愤懑",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "山在虚无缥缈间",
+                "content": "女声三部合唱，虚幻意境",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "夏日情怀",
+        "content": "表现夏季景色的音乐作品",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "夏日泛舟海上",
+            "content": "威尔第曲，费里斯填词",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "夏夜",
+            "content": "小提琴独奏，杨善乐曲",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "彩云追月",
+            "content": "民乐合奏，任光曲",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "六月—船歌",
+            "content": "柴可夫斯基钢琴组曲《四季》选段",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "组曲",
+                "content": "由若干乐曲组成的大型器乐套曲",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "夏日里最后一朵玫瑰",
+            "content": "爱尔兰民歌",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "我的音乐网页",
+        "content": "乐理知识、乐器常识与技能练习",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "乐理知识",
+            "content": "音阶、调式、调号等基础理论",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "音阶",
+                "content": "按一定音程关系排列的序列",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "调式",
+                "content": "以主音为中心的乐音体系",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "大调式",
+                "content": "以do为主音，明亮特点",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "小调式",
+                "content": "以la为主音，柔和特点",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "乐器常识",
+            "content": "中外乐器介绍",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "中国古代乐器",
+                "content": "编钟、编磬、古琴、古瑟等",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "发声练习",
+            "content": "呼吸、哼唱、连音、顿音等训练",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "视唱",
+            "content": "简谱视唱练习",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "华夏古韵",
+      "tail": "阳关三叠",
+      "relation": "包含"
+    },
+    {
+      "head": "阳关三叠",
+      "tail": "叠的含义",
+      "relation": "具有特征"
+    },
+    {
+      "head": "阳关三叠",
+      "tail": "琴歌",
+      "relation": "属于表现形式"
+    },
+    {
+      "head": "原始狩猎图",
+      "tail": "骨笛",
+      "relation": "使用乐器"
+    },
+    {
+      "head": "哀郢",
+      "tail": "埙",
+      "relation": "使用乐器"
+    },
+    {
+      "head": "楚商",
+      "tail": "编钟",
+      "relation": "使用乐器"
+    },
+    {
+      "head": "编钟",
+      "tail": "曾侯乙编钟",
+      "relation": "包含实例"
+    },
+    {
+      "head": "流水",
+      "tail": "古琴",
+      "relation": "使用乐器"
+    },
+    {
+      "head": "古琴",
+      "tail": "非物质文化遗产",
+      "relation": "属于"
+    },
+    {
+      "head": "杏花天影",
+      "tail": "姜夔",
+      "relation": "由...创作"
+    },
+    {
+      "head": "广陵散",
+      "tail": "嵇康",
+      "relation": "关联历史人物"
+    },
+    {
+      "head": "梨园风采",
+      "tail": "京剧",
+      "relation": "聚焦于"
+    },
+    {
+      "head": "京剧",
+      "tail": "行当",
+      "relation": "包含元素"
+    },
+    {
+      "head": "京剧",
+      "tail": "唱腔",
+      "relation": "包含元素"
+    },
+    {
+      "head": "海岛冰轮初转腾",
+      "tail": "梅兰芳",
+      "relation": "由...演唱"
+    },
+    {
+      "head": "我正在城楼观山景",
+      "tail": "马连良",
+      "relation": "由...演唱"
+    },
+    {
+      "head": "儿行千里母担忧",
+      "tail": "西皮流水",
+      "relation": "采用板式"
+    },
+    {
+      "head": "游园惊梦",
+      "tail": "昆曲",
+      "relation": "属于剧种"
+    },
+    {
+      "head": "昆曲",
+      "tail": "非物质文化遗产",
+      "relation": "属于"
+    },
+    {
+      "head": "智斗",
+      "tail": "现代京剧",
+      "relation": "属于"
+    },
+    {
+      "head": "打虎上山",
+      "tail": "现代京剧",
+      "relation": "属于"
+    },
+    {
+      "head": "京剧伴奏",
+      "tail": "文场",
+      "relation": "分为"
+    },
+    {
+      "head": "京剧伴奏",
+      "tail": "武场",
+      "relation": "分为"
+    },
+    {
+      "head": "武场",
+      "tail": "锣鼓经",
+      "relation": "使用记谱法"
+    },
+    {
+      "head": "西乐撷英(一)",
+      "tail": "英雄凯旋歌",
+      "relation": "包含作品"
+    },
+    {
+      "head": "英雄凯旋歌",
+      "tail": "清唱剧",
+      "relation": "属于体裁"
+    },
+    {
+      "head": "清唱剧",
+      "tail": "亨德尔",
+      "relation": "代表作曲家"
+    },
+    {
+      "head": "G弦上的咏叹调",
+      "tail": "巴赫",
+      "relation": "由...创作"
+    },
+    {
+      "head": "小夜曲",
+      "tail": "海顿",
+      "relation": "由...创作"
+    },
+    {
+      "head": "小夜曲",
+      "tail": "弦乐四重奏",
+      "relation": "属于形式"
+    },
+    {
+      "head": "c小调第五交响曲",
+      "tail": "贝多芬",
+      "relation": "由...创作"
+    },
+    {
+      "head": "c小调第五交响曲",
+      "tail": "命运动机",
+      "relation": "包含主题"
+    },
+    {
+      "head": "交响曲",
+      "tail": "贝多芬",
+      "relation": "代表作曲家"
+    },
+    {
+      "head": "g小调第四十交响曲",
+      "tail": "莫扎特",
+      "relation": "由...创作"
+    },
+    {
+      "head": "神州音韵(四)",
+      "tail": "在那遥远的地方",
+      "relation": "包含作品"
+    },
+    {
+      "head": "在那遥远的地方",
+      "tail": "王洛宾",
+      "relation": "由...改编"
+    },
+    {
+      "head": "玛依拉",
+      "tail": "哈萨克族民歌",
+      "relation": "属于"
+    },
+    {
+      "head": "牧歌",
+      "tail": "蒙古族长调",
+      "relation": "属于"
+    },
+    {
+      "head": "蒙古族长调",
+      "tail": "非物质文化遗产",
+      "relation": "属于"
+    },
+    {
+      "head": "万马奔腾",
+      "tail": "马头琴",
+      "relation": "使用乐器"
+    },
+    {
+      "head": "马头琴",
+      "tail": "蒙古族",
+      "relation": "属于民族"
+    },
+    {
+      "head": "乌夏克木卡姆",
+      "tail": "木卡姆",
+      "relation": "属于"
+    },
+    {
+      "head": "木卡姆",
+      "tail": "非物质文化遗产",
+      "relation": "属于"
+    },
+    {
+      "head": "半个月亮爬上来",
+      "tail": "无伴奏合唱",
+      "relation": "采用形式"
+    },
+    {
+      "head": "音乐故事(一)",
+      "tail": "梁山伯与祝英台",
+      "relation": "包含作品"
+    },
+    {
+      "head": "梁山伯与祝英台",
+      "tail": "协奏曲",
+      "relation": "属于体裁"
+    },
+    {
+      "head": "梁山伯与祝英台",
+      "tail": "奏鸣曲式",
+      "relation": "采用曲式"
+    },
+    {
+      "head": "十面埋伏",
+      "tail": "琵琶",
+      "relation": "使用乐器"
+    },
+    {
+      "head": "十面埋伏",
+      "tail": "轮指",
+      "relation": "使用技法"
+    },
+    {
+      "head": "长恨歌",
+      "tail": "清唱剧",
+      "relation": "属于体裁"
+    },
+    {
+      "head": "夏日情怀",
+      "tail": "夏日泛舟海上",
+      "relation": "包含作品"
+    },
+    {
+      "head": "六月—船歌",
+      "tail": "组曲",
+      "relation": "属于体裁"
+    },
+    {
+      "head": "组曲",
+      "tail": "柴可夫斯基",
+      "relation": "代表作曲家"
+    },
+    {
+      "head": "我的音乐网页",
+      "tail": "乐理知识",
+      "relation": "包含"
+    },
+    {
+      "head": "我的音乐网页",
+      "tail": "乐器常识",
+      "relation": "包含"
+    },
+    {
+      "head": "我的音乐网页",
+      "tail": "发声练习",
+      "relation": "包含"
+    },
+    {
+      "head": "我的音乐网页",
+      "tail": "视唱",
+      "relation": "包含"
+    },
+    {
+      "head": "乐理知识",
+      "tail": "音阶",
+      "relation": "包含概念"
+    },
+    {
+      "head": "乐理知识",
+      "tail": "调式",
+      "relation": "包含概念"
+    },
+    {
+      "head": "调式",
+      "tail": "大调式",
+      "relation": "分为"
+    },
+    {
+      "head": "调式",
+      "tail": "小调式",
+      "relation": "分为"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:39:44",
+    "version": "1.1"
+  }
+}

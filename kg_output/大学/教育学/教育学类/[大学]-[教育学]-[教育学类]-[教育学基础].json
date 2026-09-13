@@ -1,0 +1,500 @@
+{
+  "knowledge_tree": {
+    "title": "教育学基础",
+    "content": "教育学的基本概念、理论、方法及其在教育实践中的应用",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "教育学的产生与发展",
+        "content": "教育学的历史演进、主要发展阶段及代表人物",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "教育学的萌芽阶段",
+            "content": "古代教育思想，如孔子、苏格拉底等的教育观点",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "独立形态教育学的产生",
+            "content": "夸美纽斯《大教学论》、赫尔巴特《普通教育学》标志着教育学成为独立学科",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "现代教育学的多元化发展",
+            "content": "实验教育学、实用主义教育学、马克思主义教育学等流派的兴起",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "教育及其本质",
+        "content": "教育的定义、属性与基本功能",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "教育的定义",
+            "content": "教育是一种有目的地培养人的社会活动",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "教育的本质属性",
+            "content": "教育的社会性、历史性、文化性及育人性",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "教育的基本要素",
+            "content": "教育者、受教育者、教育影响（教育内容与教育手段）",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "教育与社会发展",
+        "content": "教育与社会各子系统（政治、经济、文化等）的相互关系",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "教育与经济的关系",
+            "content": "经济对教育的制约作用，教育对经济的促进作用",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "教育与政治的关系",
+            "content": "政治对教育的决定作用，教育的政治功能",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "教育与文化的关系",
+            "content": "文化对教育的影响，教育的文化功能（传递、选择、融合、创造）",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "教育与人的发展",
+        "content": "影响人发展的因素及其作用，教育在人的发展中的主导作用",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "影响人发展的基本因素",
+            "content": "遗传、环境、教育和个体主观能动性",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "教育对人的发展的主导作用",
+            "content": "教育是有目的、有计划、有组织地影响人的发展的活动",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "个体身心发展规律与教育",
+            "content": "顺序性、阶段性、不平衡性、互补性、个别差异性对教育的制约",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "教育目的",
+        "content": "教育目的的概念、层次结构及我国的教育目的",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "教育目的的概念与意义",
+            "content": "教育目的是国家对培养人的总的要求，规定着人才的质量和规格",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "教育目的的理论基础",
+            "content": "个人本位论、社会本位论、马克思主义关于人的全面发展学说",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "我国的教育目的",
+            "content": "培养德智体美劳全面发展的社会主义建设者和接班人",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "学校教育制度",
+        "content": "学制的概念、类型及现代学制改革发展趋势",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "学校教育制度的概念",
+            "content": "简称学制，是一个国家各级各类学校的系统及其管理规则",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "学制确立的依据",
+            "content": "生产力发展水平、社会政治经济制度、人口状况、文化传统等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "现代学制发展趋势",
+            "content": "终身教育、普及义务教育年限延长、普通教育与职业教育相互渗透",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "课程",
+        "content": "课程理论、课程类型、课程编制与课程改革",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "课程的定义",
+            "content": "课程是指学校学生所应学习的学科总和及其进程与安排",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "课程类型",
+            "content": "学科课程与活动课程、分科课程与综合课程、必修课程与选修课程等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "课程编制",
+            "content": "目标模式、过程模式等课程开发模式",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "教学",
+        "content": "教学理论、教学过程、教学原则、教学方法与教学组织形式",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "教学的概念与任务",
+            "content": "教学是在教育目的规范下，教师的教与学生的学共同组成的一种活动",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "教学过程的基本规律",
+            "content": "间接经验与直接经验相统一、掌握知识与发展能力相统一等",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "教学原则",
+            "content": "直观性原则、启发性原则、循序渐进原则、因材施教原则等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "教学方法",
+            "content": "讲授法、谈话法、讨论法、演示法、练习法等",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "德育",
+        "content": "德育概念、过程、原则、途径与方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "德育的概念",
+            "content": "德育是教育者按照一定社会的要求，有目的、有计划地对受教育者施加影响，使其形成社会所期望的思想品德的活动",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "德育过程的基本规律",
+            "content": "是培养学生知、情、意、行的过程；是促进学生思想内部矛盾斗争发展的过程等",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "德育原则",
+            "content": "导向性原则、疏导原则、尊重学生与严格要求学生相结合原则等",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "班主任与班级管理",
+        "content": "班主任的角色、职责及班级管理的内容与方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "班主任的角色",
+            "content": "班集体的组织者和指导者、学生健康成长的引领者等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "班级管理的内容",
+            "content": "班级组织建设、班级制度管理、班级教学管理、班级活动管理等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "班集体的培养",
+            "content": "确定班集体发展目标、建立班集体核心队伍等阶段与方法",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "教育研究方法",
+        "content": "教育研究的基本范式与具体方法",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "教育研究的基本过程",
+            "content": "选题、查阅文献、研究设计、收集资料、分析资料、撰写报告",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "主要研究方法",
+            "content": "观察法、调查法、实验法、行动研究法、叙事研究法等",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "教育学基础",
+      "tail": "教育学的产生与发展",
+      "relation": "包含"
+    },
+    {
+      "head": "教育学基础",
+      "tail": "教育及其本质",
+      "relation": "包含"
+    },
+    {
+      "head": "教育学基础",
+      "tail": "教育与社会发展",
+      "relation": "包含"
+    },
+    {
+      "head": "教育学基础",
+      "tail": "教育与人的发展",
+      "relation": "包含"
+    },
+    {
+      "head": "教育学基础",
+      "tail": "教育目的",
+      "relation": "包含"
+    },
+    {
+      "head": "教育学基础",
+      "tail": "学校教育制度",
+      "relation": "包含"
+    },
+    {
+      "head": "教育学基础",
+      "tail": "课程",
+      "relation": "包含"
+    },
+    {
+      "head": "教育学基础",
+      "tail": "教学",
+      "relation": "包含"
+    },
+    {
+      "head": "教育学基础",
+      "tail": "德育",
+      "relation": "包含"
+    },
+    {
+      "head": "教育学基础",
+      "tail": "班主任与班级管理",
+      "relation": "包含"
+    },
+    {
+      "head": "教育学基础",
+      "tail": "教育研究方法",
+      "relation": "包含"
+    },
+    {
+      "head": "教育学的产生与发展",
+      "tail": "独立形态教育学的产生",
+      "relation": "包含"
+    },
+    {
+      "head": "夸美纽斯《大教学论》",
+      "tail": "独立形态教育学的产生",
+      "relation": "标志着"
+    },
+    {
+      "head": "赫尔巴特《普通教育学》",
+      "tail": "独立形态教育学的产生",
+      "relation": "标志着"
+    },
+    {
+      "head": "教育及其本质",
+      "tail": "教育的定义",
+      "relation": "包含"
+    },
+    {
+      "head": "教育及其本质",
+      "tail": "教育的基本要素",
+      "relation": "包含"
+    },
+    {
+      "head": "教育的基本要素",
+      "tail": "教育者",
+      "relation": "由...组成"
+    },
+    {
+      "head": "教育的基本要素",
+      "tail": "受教育者",
+      "relation": "由...组成"
+    },
+    {
+      "head": "教育的基本要素",
+      "tail": "教育影响",
+      "relation": "由...组成"
+    },
+    {
+      "head": "教育与社会发展",
+      "tail": "教育与经济的关系",
+      "relation": "包含"
+    },
+    {
+      "head": "教育与社会发展",
+      "tail": "教育与政治的关系",
+      "relation": "包含"
+    },
+    {
+      "head": "教育与社会发展",
+      "tail": "教育与文化的关系",
+      "relation": "包含"
+    },
+    {
+      "head": "教育与文化的关系",
+      "tail": "教育的文化功能",
+      "relation": "体现为"
+    },
+    {
+      "head": "教育与人的发展",
+      "tail": "影响人发展的基本因素",
+      "relation": "包含"
+    },
+    {
+      "head": "影响人发展的基本因素",
+      "tail": "遗传",
+      "relation": "包括"
+    },
+    {
+      "head": "影响人发展的基本因素",
+      "tail": "环境",
+      "relation": "包括"
+    },
+    {
+      "head": "影响人发展的基本因素",
+      "tail": "教育",
+      "relation": "包括"
+    },
+    {
+      "head": "影响人发展的基本因素",
+      "tail": "个体主观能动性",
+      "relation": "包括"
+    },
+    {
+      "head": "教育与人的发展",
+      "tail": "教育对人的发展的主导作用",
+      "relation": "包含"
+    },
+    {
+      "head": "教育与人的发展",
+      "tail": "个体身心发展规律与教育",
+      "relation": "包含"
+    },
+    {
+      "head": "个体身心发展规律",
+      "tail": "教育",
+      "relation": "制约"
+    },
+    {
+      "head": "教育目的",
+      "tail": "教育目的的理论基础",
+      "relation": "基于"
+    },
+    {
+      "head": "马克思主义关于人的全面发展学说",
+      "tail": "我国的教育目的",
+      "relation": "是...的理论基础"
+    },
+    {
+      "head": "学校教育制度",
+      "tail": "学制确立的依据",
+      "relation": "受...影响"
+    },
+    {
+      "head": "课程",
+      "tail": "课程编制",
+      "relation": "包含"
+    },
+    {
+      "head": "教学",
+      "tail": "教学原则",
+      "relation": "包含"
+    },
+    {
+      "head": "教学原则",
+      "tail": "教学方法",
+      "relation": "指导"
+    },
+    {
+      "head": "德育",
+      "tail": "德育过程",
+      "relation": "包含"
+    },
+    {
+      "head": "德育过程",
+      "tail": "知、情、意、行",
+      "relation": "是培养学生...的过程"
+    },
+    {
+      "head": "班主任与班级管理",
+      "tail": "班集体的培养",
+      "relation": "包含"
+    },
+    {
+      "head": "教育研究方法",
+      "tail": "主要研究方法",
+      "relation": "包含"
+    },
+    {
+      "head": "行动研究法",
+      "tail": "教育实践",
+      "relation": "应用于改进"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:06:01",
+    "version": "1.1"
+  }
+}

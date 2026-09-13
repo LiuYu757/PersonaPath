@@ -1,0 +1,428 @@
+{
+  "knowledge_tree": {
+    "title": "四年级数学上册",
+    "content": "涵盖大数的认识、公顷和平方千米、角的度量、三位数乘两位数、平行四边形和梯形、除数是两位数的除法、条形统计图、数学广角—优化等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "大数的认识",
+        "content": "认识亿以内的数，了解十进制计数法，掌握大数的读写法及大小比较",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "亿以内数的认识",
+            "content": "认识计数单位十万、百万、千万、亿，了解十进制关系",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "计数单位",
+                "content": "个、十、百、千、万、十万、百万、千万、亿都是计数单位",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "十进制关系",
+                "content": "每相邻两个计数单位之间的进率都是十",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数位顺序表",
+            "content": "认识数级（个级、万级、亿级）和数位顺序",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "数级",
+                "content": "从右边起，每四个数位是一级，分为个级、万级、亿级",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "数位",
+                "content": "数字在不同位置表示不同的数值",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "大数的读法",
+            "content": "掌握亿以内数的读法规则：先分级，从高位读起",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "含0的读法",
+                "content": "每级末尾的0都不读，其他数位有一个0或连续几个0，都只读一个零",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "大数的写法",
+            "content": "掌握亿以内数的写法：先写万级，再写个级",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "大数的大小比较",
+            "content": "掌握比较大小的方法：位数不同时位数多的数大，位数相同时从最高位比起",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "数的改写",
+            "content": "将整万数改写成用万作单位的数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "求近似数",
+            "content": "用四舍五入法求近似数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "数的产生",
+            "content": "了解数字的发展历史，认识自然数和整数",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "十进制计数法",
+            "content": "认识十亿、百亿、千亿等计数单位，完善数位顺序表",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "亿以上数的认识",
+            "content": "掌握亿以上数的读写法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "计算工具的认识",
+            "content": "了解计算工具的发展历史，认识算盘和计算器",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "公顷和平方千米",
+        "content": "认识较大的面积单位公顷和平方千米",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "公顷的认识",
+            "content": "边长100米的正方形面积是1公顷，1公顷=10000平方米",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "平方千米的认识",
+            "content": "边长1千米的正方形面积是1平方千米，1平方千米=100公顷=1000000平方米",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "角的度量",
+        "content": "认识线段、直线、射线和角，学习角的度量和分类",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "线段、直线、射线",
+            "content": "认识线段、直线、射线的特征和区别",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "角的认识",
+            "content": "从一点引出两条射线所组成的图形叫做角",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "角的度量",
+            "content": "认识度，学习使用量角器度量角的大小",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "角的分类",
+            "content": "认识直角、平角、周角、锐角、钝角，了解它们之间的关系",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "画角",
+            "content": "学习用量角器画指定度数的角",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "三位数乘两位数",
+        "content": "掌握三位数乘两位数的笔算方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "笔算乘法",
+            "content": "掌握三位数乘两位数的笔算方法：先用两位数个位上的数去乘三位数，再用两位数十位上的数去乘三位数，然后把两次乘得的积相加",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "积的变化规律",
+            "content": "一个因数不变，另一个因数乘（或除以）几（0除外），积也乘（或除以）几",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "常见的数量关系",
+            "content": "认识单价、数量、总价之间的关系：单价×数量=总价；认识速度、时间、路程之间的关系：速度×时间=路程",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "平行四边形和梯形",
+        "content": "认识平行四边形和梯形，了解其特征",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "平行与垂直",
+            "content": "认识同一平面内两条直线的位置关系：平行和垂直",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "画垂线",
+            "content": "学习用三角尺画垂线",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "点到直线的距离",
+            "content": "从直线外一点到这条直线所画的垂直线段最短，它的长度叫做这点到直线的距离",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "画长方形",
+            "content": "利用画垂线的方法画长方形",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "平行四边形",
+            "content": "认识平行四边形：两组对边分别平行的四边形，了解其易变形的特性",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "梯形",
+            "content": "认识梯形：只有一组对边平行的四边形，认识等腰梯形和直角梯形",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "除数是两位数的除法",
+        "content": "掌握除数是两位数的除法计算方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "口算除法",
+            "content": "掌握整十数除整十数、整十数除几百几十数的口算方法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "笔算除法",
+            "content": "掌握除数是整十数的笔算除法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "用四舍五入法试商",
+            "content": "学习用四舍五入法把除数看作整十数来试商",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "除数不接近整十数的试商",
+            "content": "学习灵活试商的方法",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "商是两位数的除法",
+            "content": "掌握商是两位数的除法的计算方法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "商的变化规律",
+            "content": "发现并掌握商的变化规律：除数不变，被除数乘（或除以）几（0除外），商也乘（或除以）几；被除数不变，除数乘（或除以）几（0除外），商反而除以（或乘）几；被除数和除数都乘（或除以）一个相同的数（0除外），商不变",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "条形统计图",
+        "content": "认识条形统计图，会用条形统计图直观、有效地表示数据",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "认识条形统计图",
+            "content": "了解条形统计图的特点，能根据数据的大小确定1格代表几个单位",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "绘制条形统计图",
+            "content": "学习根据数据绘制条形统计图",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "分析条形统计图",
+            "content": "能从条形统计图中获取信息，进行分析和预测",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数学广角—优化",
+        "content": "通过简单的生活事例，体会运筹思想在实际生活中的应用",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "沏茶问题",
+            "content": "学习合理安排时间，提高效率",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "烙饼问题",
+            "content": "学习合理安排操作，节省时间",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "田忌赛马",
+            "content": "学习选择最优策略解决问题",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "大数的认识",
+      "tail": "十进制计数法",
+      "relation": "基于"
+    },
+    {
+      "head": "大数的认识",
+      "tail": "数位顺序表",
+      "relation": "包含"
+    },
+    {
+      "head": "大数的读法",
+      "tail": "数级",
+      "relation": "依赖于"
+    },
+    {
+      "head": "大数的写法",
+      "tail": "数位",
+      "relation": "依赖于"
+    },
+    {
+      "head": "数的改写",
+      "tail": "计数单位",
+      "relation": "应用于"
+    },
+    {
+      "head": "求近似数",
+      "tail": "四舍五入法",
+      "relation": "基于"
+    },
+    {
+      "head": "公顷和平方千米",
+      "tail": "面积单位",
+      "relation": "属于"
+    },
+    {
+      "head": "角的度量",
+      "tail": "量角器",
+      "relation": "使用工具"
+    },
+    {
+      "head": "角的分类",
+      "tail": "角的度量",
+      "relation": "基于"
+    },
+    {
+      "head": "三位数乘两位数",
+      "tail": "笔算乘法",
+      "relation": "计算方法"
+    },
+    {
+      "head": "积的变化规律",
+      "tail": "乘法运算",
+      "relation": "描述规律"
+    },
+    {
+      "head": "常见的数量关系",
+      "tail": "乘法应用",
+      "relation": "体现"
+    },
+    {
+      "head": "平行四边形",
+      "tail": "两组对边平行",
+      "relation": "定义特征"
+    },
+    {
+      "head": "梯形",
+      "tail": "只有一组对边平行",
+      "relation": "定义特征"
+    },
+    {
+      "head": "除数是两位数的除法",
+      "tail": "试商方法",
+      "relation": "包含"
+    },
+    {
+      "head": "商的变化规律",
+      "tail": "除法运算",
+      "relation": "描述规律"
+    },
+    {
+      "head": "条形统计图",
+      "tail": "数据表示",
+      "relation": "用于"
+    },
+    {
+      "head": "数学广角—优化",
+      "tail": "运筹思想",
+      "relation": "体现"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:21:55",
+    "version": "1.1"
+  }
+}

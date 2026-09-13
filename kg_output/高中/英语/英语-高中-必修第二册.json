@@ -1,0 +1,291 @@
+{
+  "knowledge_tree": {
+    "title": "English Compulsory Book 2",
+    "content": "High school English textbook focusing on themes like cultural heritage, wildlife protection, the internet, history and traditions, and music.",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "Cultural Heritage",
+        "content": "Understanding and preserving cultural heritage, including historical sites and traditions.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Definition of Cultural Heritage",
+            "content": "Legacy from the past passed to future generations, including tangible and intangible elements.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Examples of Cultural Heritage",
+            "content": "Includes temples, palaces, traditions, customs, and knowledge like dances and crafts.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Protection of Cultural Heritage",
+            "content": "Efforts to preserve cultural sites and traditions from damage or extinction.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Aswan Dam Project",
+                "content": "Project to build a dam while preserving temples and cultural relics in Egypt.",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "Role of UNESCO",
+                "content": "UNESCO's program to protect world cultural heritage sites.",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Digital Preservation",
+            "content": "Using digital images and technology to record and promote cultural heritage.",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Wildlife Protection",
+        "content": "Efforts to protect endangered species and their habitats.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Endangered Species",
+            "content": "Species at risk of extinction due to human activities.",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "Tibetan Antelope",
+                "content": "Protected species in China, recovered from endangerment through conservation efforts.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Elephants",
+                "content": "Threatened by hunting and habitat loss; protected through parks and awareness.",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Conservation Measures",
+            "content": "Actions taken to protect wildlife, such as reserves and laws.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Habitat Protection",
+                "content": "Creating and maintaining natural reserves for wildlife.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Anti-Poaching Efforts",
+                "content": "Measures to prevent illegal hunting and trade of animal products.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Community Involvement",
+            "content": "Role of local communities and volunteers in wildlife protection.",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "The Internet",
+        "content": "Impact of the internet on society, communication, and learning.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Benefits of the Internet",
+            "content": "Convenience, access to information, and global connectivity.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Online Communities",
+            "content": "Virtual groups that provide support and foster connections.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Virtual Choir",
+                "content": "Online choir created by Eric Whitacre, allowing global participation.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Digital Divide",
+            "content": "Gap between those with and without access to digital technology.",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "Online Safety",
+            "content": "Practices to protect privacy and avoid cyberbullying and scams.",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "History and Traditions",
+        "content": "Exploring historical events and cultural traditions.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "United Kingdom History",
+            "content": "Formation and history of the UK, including its four countries.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Formation of the UK",
+                "content": "Historical events leading to the union of England, Wales, Scotland, and Northern Ireland.",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "Cultural Influences",
+                "content": "Impact of Romans, Anglo-Saxons, Vikings, and Normans on British culture.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Cultural Traditions",
+            "content": "Customs, festivals, and practices that define cultures.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Irish Traditions",
+                "content": "Music, dancing, and dining traditions in Ireland.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Chinese Traditions",
+                "content": "Examples include Confucian philosophy and traditional practices.",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Music",
+        "content": "Role of music in culture, communication, and personal expression.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Types of Music",
+            "content": "Various genres like classical, hip-hop, country, and traditional.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Music and Emotions",
+            "content": "How music influences feelings and provides comfort or inspiration.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Virtual Music Experiences",
+            "content": "Using technology to create and share music globally.",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "Virtual Choir",
+                "content": "Eric Whitacre's project enabling online choir participation.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Music Festivals",
+            "content": "Events that celebrate music and bring people together.",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "Cultural Heritage",
+      "tail": "Aswan Dam Project",
+      "relation": "includes example of"
+    },
+    {
+      "head": "Cultural Heritage",
+      "tail": "Digital Preservation",
+      "relation": "uses method of"
+    },
+    {
+      "head": "Wildlife Protection",
+      "tail": "Tibetan Antelope",
+      "relation": "focuses on"
+    },
+    {
+      "head": "Wildlife Protection",
+      "tail": "Habitat Protection",
+      "relation": "involves"
+    },
+    {
+      "head": "The Internet",
+      "tail": "Online Communities",
+      "relation": "enables"
+    },
+    {
+      "head": "The Internet",
+      "tail": "Digital Divide",
+      "relation": "highlights issue of"
+    },
+    {
+      "head": "History and Traditions",
+      "tail": "United Kingdom History",
+      "relation": "covers"
+    },
+    {
+      "head": "History and Traditions",
+      "tail": "Cultural Traditions",
+      "relation": "includes"
+    },
+    {
+      "head": "Music",
+      "tail": "Virtual Music Experiences",
+      "relation": "embraces"
+    },
+    {
+      "head": "Music",
+      "tail": "Music Festivals",
+      "relation": "celebrates through"
+    },
+    {
+      "head": "Virtual Choir",
+      "tail": "Eric Whitacre",
+      "relation": "was created by"
+    },
+    {
+      "head": "UNESCO",
+      "tail": "Cultural Heritage",
+      "relation": "works to protect"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:24:08",
+    "version": "1.1"
+  }
+}

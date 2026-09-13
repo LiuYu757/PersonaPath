@@ -1,0 +1,187 @@
+{
+  "knowledge_tree": {
+    "title": "五年级下册音乐",
+    "content": "义务教育教科书五年级下册音乐课程，包含民族音乐、影视音乐、古韵新声等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元 北国之声",
+        "content": "北方民族音乐风格与作品欣赏",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "美丽的家乡",
+            "content": "歌剧《傲蕾·一兰》选曲，达斡尔族民歌风格",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "音乐特点",
+                "content": "欢快喜悦的情绪，采用东北民歌音调创作",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "演唱要求",
+                "content": "用声音表现喜悦情绪，注意情感表达",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "驯鹿",
+            "content": "月琴独奏曲，选自组曲《北方民族生活素描》",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "音乐形象",
+                "content": "描绘北方民族与驯鹿的生活场景",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "演奏乐器",
+                "content": "月琴，民族弹拨乐器",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "冬猎",
+            "content": "柳琴独奏曲，描绘冬季狩猎场景",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "音乐分析",
+                "content": "分为A、B两段，不同速度表情描绘不同场景",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元 五十六朵花",
+        "content": "少数民族音乐文化与作品",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "吹起羌笛跳锅庄",
+            "content": "羌族民歌，欢快的锅庄舞音乐",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "羌笛",
+                "content": "羌族吹管乐器，音色高亢略带悲凉",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "锅庄舞",
+                "content": "藏族、羌族等少数民族的歌舞形式",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "瑶族舞曲",
+            "content": "民族管弦乐合奏曲，描绘瑶族节日歌舞场面",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "曲式结构",
+                "content": "三部曲式：A-B-A′",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "主题旋律",
+                "content": "A段主题优美抒情，B段主题欢快热烈",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "演唱技巧",
+        "content": "歌曲演唱的基本方法与要求",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "声音控制",
+            "content": "用声音表现歌曲情绪，注意音色统一",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "节奏准确",
+            "content": "把握弱拍起唱、节拍变换等节奏特点",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "美丽的家乡",
+      "tail": "达斡尔族民歌",
+      "relation": "采用音调创作"
+    },
+    {
+      "head": "吹起羌笛跳锅庄",
+      "tail": "羌笛",
+      "relation": "使用乐器"
+    },
+    {
+      "head": "瑶族舞曲",
+      "tail": "民族管弦乐",
+      "relation": "演奏形式"
+    },
+    {
+      "head": "冬猎",
+      "tail": "柳琴",
+      "relation": "演奏乐器"
+    },
+    {
+      "head": "驯鹿",
+      "tail": "月琴",
+      "relation": "演奏乐器"
+    },
+    {
+      "head": "锅庄舞",
+      "tail": "羌族",
+      "relation": "属于"
+    },
+    {
+      "head": "锅庄舞",
+      "tail": "藏族",
+      "relation": "属于"
+    },
+    {
+      "head": "瑶族舞曲",
+      "tail": "西南少数民族音乐",
+      "relation": "采用素材"
+    },
+    {
+      "head": "演唱技巧",
+      "tail": "声音控制",
+      "relation": "包含"
+    },
+    {
+      "head": "演唱技巧",
+      "tail": "节奏准确",
+      "relation": "包含"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 18:02:56",
+    "version": "1.1"
+  }
+}

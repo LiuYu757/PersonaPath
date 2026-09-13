@@ -1,0 +1,606 @@
+{
+  "knowledge_tree": {
+    "title": "数字电路与逻辑设计",
+    "content": "研究用数字信号（0和1）进行逻辑运算和逻辑控制的电路设计学科，是电气类、电子信息类专业的核心基础课程。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "数制与编码",
+        "content": "数字系统中数的表示方法和字符代码表示法。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "二进制",
+            "content": "基数为2的计数制，使用数字0和1表示，是数字电路的基本数制。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "八进制与十六进制",
+            "content": "分别为基数为8和16的计数制，用于简化二进制的表示。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "数制转换",
+            "content": "不同进制数之间的相互转换方法，如二进制转十进制、十进制转二进制等。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "二进制编码",
+            "content": "用二进制代码表示特定信息（如十进制数、字符）的方法。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "BCD码",
+                "content": "用四位二进制数表示一位十进制数（0-9）的编码。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "格雷码",
+                "content": "任意两个相邻代码之间仅有一位不同的循环码，用于减少转换错误。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "逻辑代数基础",
+        "content": "研究逻辑变量及其运算规则的数学分支，是数字逻辑电路的分析与设计工具。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "基本逻辑运算",
+            "content": "与、或、非三种最基本的逻辑运算。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "与运算",
+                "content": "仅当所有输入变量为1时，输出才为1的逻辑运算。逻辑表达式为 F = A · B。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "或运算",
+                "content": "只要有一个输入变量为1，输出就为1的逻辑运算。逻辑表达式为 F = A + B。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "非运算",
+                "content": "输出是输入的反相的逻辑运算。逻辑表达式为 F = A'。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "复合逻辑运算",
+            "content": "由基本逻辑运算组合而成的运算，如与非、或非、与或非、异或、同或等。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "逻辑代数的基本定理与规则",
+            "content": "逻辑代数运算的基本定律和规则。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "代入规则",
+                "content": "任何一个含有变量A的逻辑等式，如果将所有出现A的位置都代之以同一个逻辑函数，则等式仍然成立。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "反演规则",
+                "content": "求一个逻辑函数F的反函数F'时，可将F中的与变或，或变与，0变1，1变0，原变量变反变量，反变量变原变量，并保持运算优先顺序。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "对偶规则",
+                "content": "对逻辑函数F进行对偶变换（与变或，或变与，0变1，1变0）得到对偶式F*。若两个逻辑式相等，则它们的对偶式也相等。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "逻辑函数的标准形式",
+            "content": "逻辑函数的规范化表示方法，便于化简和实现。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "最小项",
+                "content": "n个变量的逻辑函数中，包含全部n个变量的乘积项（与项），每个变量以原变量或反变量的形式出现一次且仅出现一次。最小项使函数值为1的变量取值组合是唯一的。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "最大项",
+                "content": "n个变量的逻辑函数中，包含全部n个变量的和项（或项），每个变量以原变量或反变量的形式出现一次且仅出现一次。最大项使函数值为0的变量取值组合是唯一的。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "最小项之和（标准与或式）",
+                "content": "将逻辑函数表示为使其值为1的所有最小项的逻辑和。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "最大项之积（标准或与式）",
+                "content": "将逻辑函数表示为使其值为0的所有最大项的逻辑积。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "逻辑函数的化简",
+        "content": "运用逻辑代数规则或图形方法，简化逻辑函数的表达式，以降低成本、提高可靠性。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "公式化简法",
+            "content": "利用逻辑代数的基本公式和定理进行化简的方法。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "卡诺图化简法",
+            "content": "利用卡诺图（一种方格图）的直观性，通过画圈合并最小项来化简逻辑函数的方法。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "卡诺图的构成",
+                "content": "将n个变量的全部最小项各用一个小方格表示，并按格雷码顺序排列，使得几何相邻的最小项在逻辑上也相邻。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "卡诺图化简规则",
+                "content": "将2^n个相邻的最小项（对应方格）圈在一起合并，可以消去n个变量。圈越大，消去的变量越多，化简后的项越简单。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "包含无关项的化简",
+            "content": "利用逻辑函数中不会出现或对函数值无影响的输入组合（无关项，Don't Cares）进行化简，可得到更简化的结果。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "组合逻辑电路",
+        "content": "任一时刻的输出仅取决于该时刻输入信号的逻辑电路，无记忆功能。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "组合电路分析",
+            "content": "根据给定的逻辑电路图，确定其逻辑功能的过程。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "组合电路设计",
+            "content": "根据逻辑功能要求，设计出实现该功能的最简或最优逻辑电路的过程。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "常用中规模集成组合逻辑部件",
+            "content": "已封装好的具有特定组合逻辑功能的集成电路模块。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "编码器",
+                "content": "将特定的输入信号（如十进制数、开关状态）编成相应二进制代码输出的电路。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "译码器",
+                "content": "将输入的二进制代码翻译成对应的输出信号（如控制信号、显示段码）的电路。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "数据选择器",
+                "content": "从多路输入数据中选择一路进行输出的电路，又称多路开关。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "数值比较器",
+                "content": "比较两个数值大小的电路。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "加法器",
+                "content": "实现算术加法运算的电路。",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "半加器",
+                    "content": "不考虑低位进位，实现两个一位二进制数相加的电路。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "全加器",
+                    "content": "考虑低位进位，实现三个一位二进制数相加的电路。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "超前进位加法器",
+                    "content": "通过逻辑电路提前产生所有位的进位信号，以提高加法运算速度的电路。",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "组合逻辑电路中的竞争与冒险",
+            "content": "由于信号传输延迟时间不同，导致电路输出产生短暂错误脉冲（毛刺）的现象。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "竞争现象",
+                "content": "信号经由不同路径到达同一点有时差的现象。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "冒险现象",
+                "content": "由于竞争而在输出端产生不应有的尖峰脉冲（毛刺）的现象。分为逻辑冒险和功能冒险。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "冒险现象的判别",
+                "content": "通过逻辑表达式或卡诺图判断电路是否存在产生冒险的可能性。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "冒险现象的消除方法",
+                "content": "如增加冗余项、引入选通脉冲、输出端接滤波电容等。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "触发器",
+        "content": "具有记忆功能的基本逻辑单元，是构成时序逻辑电路的基础。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "基本RS触发器",
+            "content": "由两个与非门或或非门交叉耦合构成的最简单的触发器，具有置0、置1和保持功能。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "同步触发器（钟控触发器）",
+            "content": "引入时钟脉冲（CP）控制的触发器，其状态变化与时钟脉冲同步。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "同步RS触发器",
+                "content": "在基本RS触发器基础上增加时钟控制门，当CP有效时接收输入信号。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "主从触发器",
+            "content": "由主触发器和从触发器串联构成，在CP高电平期间主触发器接收信号，在CP下降沿从触发器按主触发器状态更新，解决空翻问题。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "主从JK触发器",
+                "content": "具有置0、置1、保持和翻转功能的触发器，功能完善，但存在一次变化问题。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "边沿触发器",
+            "content": "仅在时钟脉冲的上升沿或下降沿时刻接收输入信号并改变状态，抗干扰能力强。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "维持阻塞D触发器",
+                "content": "利用电路内部的维持阻塞线避免空翻，在CP上升沿触发，输出状态与CP上升沿前D端信号相同。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "触发器的逻辑功能描述方法",
+            "content": "描述触发器次态与现态及输入信号之间关系的方法。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "特性表",
+                "content": "用表格形式描述触发器的逻辑功能。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "特性方程",
+                "content": "用逻辑函数表达式描述触发器的逻辑功能。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "状态图",
+                "content": "用图形方式描述触发器状态转换关系。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "时序图",
+                "content": "用波形图描述触发器输入、输出与时钟脉冲之间的关系。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "时序逻辑电路",
+        "content": "任一时刻的输出不仅取决于该时刻的输入，还与电路原来的状态有关的逻辑电路，具有记忆功能。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "时序电路的特点与分类",
+            "content": "时序电路由组合电路和存储电路（触发器）构成，分为同步时序电路和异步时序电路。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "时序电路的分析方法",
+            "content": "根据给定的时序电路，写出各逻辑方程、列出状态表、画出状态图和时序图，从而确定其逻辑功能的过程。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "时序电路的设计方法",
+            "content": "根据逻辑功能要求，设计出实现该功能的时序电路的过程，包括状态图/表的建立、状态化简、状态分配、选定触发器类型、求激励方程和输出方程、画逻辑图等步骤。",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "常用时序逻辑部件",
+            "content": "已封装好的具有特定时序逻辑功能的集成电路模块。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "寄存器",
+                "content": "用于存储一组二进制代码的时序电路。",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "基本寄存器",
+                    "content": "由边沿触发结构的触发器构成，并行输入、并行输出。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "移位寄存器",
+                    "content": "具有移位功能的寄存器，数据可依次向左或向右移动。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "计数器",
+                "content": "对输入脉冲进行计数的时序电路。",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "同步计数器",
+                    "content": "所有触发器的时钟端连接在一起，由同一时钟脉冲触发，工作速度快。",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "异步计数器",
+                    "content": "触发器的时钟脉冲不同，低位触发器的输出作为高位触发器的时钟信号，电路简单但速度慢。",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "N进制计数器",
+                    "content": "计数容量为N的计数器，可通过集成计数器芯片的反馈置数法或反馈清零法实现任意进制计数。",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "数字电路与逻辑设计",
+      "tail": "数制与编码",
+      "relation": "包含"
+    },
+    {
+      "head": "数字电路与逻辑设计",
+      "tail": "逻辑代数基础",
+      "relation": "包含"
+    },
+    {
+      "head": "数字电路与逻辑设计",
+      "tail": "组合逻辑电路",
+      "relation": "包含"
+    },
+    {
+      "head": "数字电路与逻辑设计",
+      "tail": "触发器",
+      "relation": "包含"
+    },
+    {
+      "head": "数字电路与逻辑设计",
+      "tail": "时序逻辑电路",
+      "relation": "包含"
+    },
+    {
+      "head": "二进制",
+      "tail": "数制转换",
+      "relation": "应用于"
+    },
+    {
+      "head": "格雷码",
+      "tail": "减少转换错误",
+      "relation": "用于"
+    },
+    {
+      "head": "逻辑代数基础",
+      "tail": "组合逻辑电路",
+      "relation": "是分析与设计工具"
+    },
+    {
+      "head": "基本逻辑运算",
+      "tail": "复合逻辑运算",
+      "relation": "组合而成"
+    },
+    {
+      "head": "代入规则",
+      "tail": "逻辑代数基本定理",
+      "relation": "从属于"
+    },
+    {
+      "head": "反演规则",
+      "tail": "求逻辑函数的反函数",
+      "relation": "用于"
+    },
+    {
+      "head": "最小项",
+      "tail": "标准与或式",
+      "relation": "是构成基础"
+    },
+    {
+      "head": "卡诺图化简法",
+      "tail": "逻辑函数化简",
+      "relation": "是一种方法"
+    },
+    {
+      "head": "无关项",
+      "tail": "包含无关项的化简",
+      "relation": "利用于"
+    },
+    {
+      "head": "组合逻辑电路",
+      "tail": "编码器",
+      "relation": "包含常用部件"
+    },
+    {
+      "head": "全加器",
+      "tail": "加法器",
+      "relation": "是一种"
+    },
+    {
+      "head": "超前进位加法器",
+      "tail": "提高运算速度",
+      "relation": "用于"
+    },
+    {
+      "head": "竞争现象",
+      "tail": "冒险现象",
+      "relation": "可能导致"
+    },
+    {
+      "head": "触发器",
+      "tail": "时序逻辑电路",
+      "relation": "是构成基础"
+    },
+    {
+      "head": "基本RS触发器",
+      "tail": "同步触发器",
+      "relation": "是发展基础"
+    },
+    {
+      "head": "主从触发器",
+      "tail": "解决空翻问题",
+      "relation": "用于"
+    },
+    {
+      "head": "边沿触发器",
+      "tail": "抗干扰能力强",
+      "relation": "具有特性"
+    },
+    {
+      "head": "特性方程",
+      "tail": "描述触发器逻辑功能",
+      "relation": "用于"
+    },
+    {
+      "head": "时序逻辑电路",
+      "tail": "寄存器",
+      "relation": "包含常用部件"
+    },
+    {
+      "head": "同步计数器",
+      "tail": "异步计数器",
+      "relation": "区别于"
+    },
+    {
+      "head": "N进制计数器",
+      "tail": "反馈置数法",
+      "relation": "可通过实现"
+    },
+    {
+      "head": "逻辑函数化简",
+      "tail": "组合电路设计",
+      "relation": "是重要步骤"
+    },
+    {
+      "head": "时序电路设计",
+      "tail": "状态化简",
+      "relation": "包含步骤"
+    },
+    {
+      "head": "数据选择器",
+      "tail": "实现组合逻辑函数",
+      "relation": "可应用于"
+    },
+    {
+      "head": "译码器",
+      "tail": "地址分配",
+      "relation": "可用于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:35:45",
+    "version": "1.1"
+  }
+}

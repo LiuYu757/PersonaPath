@@ -1,0 +1,392 @@
+{
+  "knowledge_tree": {
+    "title": "水污染控制工程",
+    "content": "研究水体污染成因、危害及控制技术的综合性学科，核心目标是保护水环境质量，保障水资源可持续利用。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "水污染与水体自净",
+        "content": "阐述水污染的定义、来源、污染物分类以及水体自身对污染物的净化能力。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "水污染定义",
+            "content": "指由于人类活动或自然过程引起污染物进入水体，导致其化学、物理、生物或放射性等方面特性的改变，从而影响水的有效利用，危害人体健康或破坏生态环境的现象。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "污染物来源",
+            "content": "分为点源污染（如工业废水、生活污水排放口）和面源污染（如农田径流、城市地表径流）。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "污染物分类",
+            "content": "包括无机污染物（重金属、氮磷营养盐）、有机污染物（耗氧有机物、有毒有机物）、生物污染物（病原微生物）和物理污染物（悬浮物、热污染）。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "水体自净作用",
+            "content": "水体通过物理稀释扩散、化学氧化还原、生物降解等作用，使污染物浓度降低，水质部分或完全恢复的过程。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "水质指标与标准",
+            "content": "衡量水质状况的物理、化学、生物参数，以及为保护水环境功能而制定的法定限值。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "物理性指标",
+                "content": "如水温、色度、浊度、悬浮固体（SS）。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "化学性指标",
+                "content": "如pH值、生化需氧量（BOD）、化学需氧量（COD）、总有机碳（TOC）、总氮（TN）、总磷（TP）。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "生物性指标",
+                "content": "如大肠菌群数、细菌总数。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "物理处理法",
+        "content": "利用物理作用分离和去除废水中不溶解的呈悬浮状态的污染物。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "筛滤",
+            "content": "通过格栅和筛网去除较大悬浮物。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "沉淀",
+            "content": "利用重力作用使密度大于水的悬浮颗粒下沉分离。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "自由沉淀",
+                "content": "颗粒在沉淀过程中互不干扰，其形状、尺寸、质量不变，如砂粒在沉砂池中的沉淀。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "絮凝沉淀",
+                "content": "颗粒在沉淀过程中互相聚集，尺寸和质量增大，沉速加快，如混凝后的矾花沉淀。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "斯托克斯公式",
+                "content": "用于计算球形颗粒在静水中的沉降末速：u = (g(ρ_s - ρ)d^2) / (18μ)，其中u为沉降速度，g为重力加速度，ρ_s和ρ分别为颗粒和水的密度，d为颗粒直径，μ为水的动力粘滞系数。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "气浮",
+            "content": "向水中通入微小气泡，使其与悬浮颗粒粘附，形成整体密度小于水的絮体，随气泡上浮至水面分离。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "过滤",
+            "content": "使水流通过多孔介质（如石英砂滤料），截留水中悬浮颗粒和胶体物质。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "化学处理法",
+        "content": "利用化学反应原理去除水中的污染物或使其转化为无害物质。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "混凝",
+            "content": "通过投加混凝剂（如铝盐、铁盐），使水中胶体颗粒脱稳并凝聚成较大絮体，便于后续分离。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "压缩双电层",
+                "content": "投加电解质（混凝剂）压缩胶粒扩散层，降低ζ电位，使胶粒脱稳。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "吸附电中和",
+                "content": "带异号电荷的高分子链或胶体物质吸附在胶粒表面，中和其电荷。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "中和",
+            "content": "调整废水的酸碱度，使其接近中性。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "化学沉淀",
+            "content": "向水中投加化学药剂，使之与溶解性污染物反应生成难溶沉淀物而除去，如除磷、除重金属。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "氧化还原",
+            "content": "利用氧化剂（如臭氧、氯气）或还原剂将有毒污染物转化为无毒或低毒物质。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "生物处理法",
+        "content": "利用微生物的代谢作用，分解转化废水中的有机污染物和某些无机物，是污水处理的核心工艺。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "好氧生物处理",
+            "content": "在有氧条件下，好氧微生物将有机物分解为CO2和H2O，并合成自身细胞物质。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "活性污泥法",
+                "content": "在曝气池中，废水与活性污泥（微生物絮体）混合曝气，微生物降解有机物，后在二沉池进行泥水分离。核心参数有污泥负荷（F/M）、污泥龄（SRT）、混合液悬浮固体浓度（MLSS）。",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "莫诺特方程",
+                    "content": "描述微生物比增长速率与底物浓度之间的关系：μ = μ_max * S / (K_s + S)，其中μ为比增长速率，μ_max为最大比增长速率，S为底物浓度，K_s为半速常数。",
+                    "difficulty": "5",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "生物膜法",
+                "content": "微生物附着在填料表面形成生物膜，废水流过时，污染物被膜内微生物降解，如生物滤池、生物转盘、接触氧化法。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "厌氧生物处理",
+            "content": "在无氧条件下，厌氧微生物将有机物转化为CH4和CO2等。适用于高浓度有机废水。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "厌氧消化三阶段理论",
+                "content": "水解发酵阶段、产氢产乙酸阶段、产甲烷阶段。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "脱氮除磷原理",
+            "content": "利用微生物作用去除废水中的氮（硝化-反硝化）和磷（聚磷菌的过量吸磷）。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "硝化反应",
+                "content": "NH4+ → NO2- → NO3-，由亚硝酸菌和硝酸菌在好氧条件下完成。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "反硝化反应",
+                "content": "NO3- → NO2- → N2↑，由反硝化菌在缺氧条件下利用有机物作为电子供体完成。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "污泥处理与处置",
+        "content": "对水处理过程中产生的污泥进行减量化、稳定化、无害化和资源化处理。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "污泥浓缩",
+            "content": "降低污泥含水率，减少体积。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "污泥消化",
+            "content": "通过厌氧或好氧过程，降解污泥中的有机物，使其稳定。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "污泥脱水",
+            "content": "进一步降低污泥含水率，便于运输和处置，方法有自然干化、机械脱水。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "污泥最终处置",
+            "content": "包括土地利用、卫生填埋、焚烧等。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "水污染控制工程中常见的计算与分析题型。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "沉淀池设计计算",
+            "content": "根据处理水量和颗粒沉降速度，计算沉淀池的表面积和尺寸。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "活性污泥法参数计算",
+            "content": "计算污泥负荷、污泥龄、曝气池容积、需氧量等。",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "混凝剂投加量估算",
+            "content": "根据水质水量确定适宜的混凝剂种类和投加量。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "水质评价与方案设计",
+            "content": "给定某废水水质，选择合适的处理工艺流程并说明理由。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "水污染控制工程",
+      "tail": "物理处理法",
+      "relation": "包含"
+    },
+    {
+      "head": "水污染控制工程",
+      "tail": "化学处理法",
+      "relation": "包含"
+    },
+    {
+      "head": "水污染控制工程",
+      "tail": "生物处理法",
+      "relation": "包含"
+    },
+    {
+      "head": "水污染控制工程",
+      "tail": "污泥处理与处置",
+      "relation": "包含"
+    },
+    {
+      "head": "物理处理法",
+      "tail": "沉淀",
+      "relation": "包含"
+    },
+    {
+      "head": "沉淀",
+      "tail": "斯托克斯公式",
+      "relation": "基于"
+    },
+    {
+      "head": "化学处理法",
+      "tail": "混凝",
+      "relation": "包含"
+    },
+    {
+      "head": "混凝",
+      "tail": "压缩双电层",
+      "relation": "基于"
+    },
+    {
+      "head": "生物处理法",
+      "tail": "好氧生物处理",
+      "relation": "包含"
+    },
+    {
+      "head": "好氧生物处理",
+      "tail": "活性污泥法",
+      "relation": "包含"
+    },
+    {
+      "head": "活性污泥法",
+      "tail": "莫诺特方程",
+      "relation": "基于"
+    },
+    {
+      "head": "生物处理法",
+      "tail": "脱氮除磷原理",
+      "relation": "包含"
+    },
+    {
+      "head": "脱氮除磷原理",
+      "tail": "硝化反应",
+      "relation": "包含"
+    },
+    {
+      "head": "脱氮除磷原理",
+      "tail": "反硝化反应",
+      "relation": "包含"
+    },
+    {
+      "head": "硝化反应",
+      "tail": "反硝化反应",
+      "relation": "先于"
+    },
+    {
+      "head": "水质指标与标准",
+      "tail": "BOD",
+      "relation": "包含"
+    },
+    {
+      "head": "水质指标与标准",
+      "tail": "COD",
+      "relation": "包含"
+    },
+    {
+      "head": "BOD",
+      "tail": "活性污泥法",
+      "relation": "用于评价"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "活性污泥法参数计算",
+      "relation": "包含"
+    },
+    {
+      "head": "活性污泥法参数计算",
+      "tail": "莫诺特方程",
+      "relation": "应用"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:25:45",
+    "version": "1.1"
+  }
+}

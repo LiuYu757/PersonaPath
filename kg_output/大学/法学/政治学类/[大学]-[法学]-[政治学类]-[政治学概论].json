@@ -1,0 +1,435 @@
+{
+  "knowledge_tree": {
+    "title": "政治学概论",
+    "content": "马克思主义政治学基础理论，涵盖国家、民主、政党等核心概念",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "导论",
+        "content": "政治学的研究对象、方法及历史发展",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "政治的含义",
+            "content": "政治是建立在一定经济基础之上的上层建筑核心部分，本质是阶级利益的集中体现",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "马克思主义政治观",
+                "content": "政治是经济的集中表现，根本问题是国家政权问题",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "政治学的研究对象",
+                "content": "以国家现象为核心的政治现象及其发展规律",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "政治学的研究方法",
+            "content": "矛盾分析、历史分析、经济分析、阶级分析等方法",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "国家的性质",
+        "content": "国家的起源、本质、职能及历史类型",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "国家的起源",
+            "content": "阶级矛盾不可调和的产物，取代氏族制度",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "氏族公社特征",
+                "content": "血缘关系为基础，原始民主制",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "三次社会大分工",
+                "content": "推动私有制和阶级产生，导致国家形成",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "国家的本质",
+            "content": "阶级统治的工具，具有共同体形式外观",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "国家的职能",
+            "content": "政治统治职能和社会管理职能的辩证统一",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "国家权力与国家形式",
+        "content": "国家权力的特征及政权组织形式",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "国家权力的特征",
+            "content": "主权性、强制性、普遍性、组织性",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "国体与政体关系",
+            "content": "国体决定政体，政体反作用于国体",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "人民代表大会制度",
+            "content": "中国的根本政治制度，民主集中制原则",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "政治民主",
+        "content": "民主的本质、类型及实现形式",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "民主的阶级性",
+            "content": "民主是具体的、历史的范畴",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "西方资本主义民主",
+            "content": "资产阶级民主的实质及局限性",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "中国特色社会主义民主",
+            "content": "最广泛、最真实、最管用的民主",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "选举民主与协商民主",
+                "content": "两种民主形式相辅相成",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "政党和政党制度",
+        "content": "政党的本质、功能及制度类型",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "政党的特征",
+            "content": "阶级性、组织性、纲领性、与政权紧密联系",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "政党制度类型",
+            "content": "一党制、两党制、多党制等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "中国共产党领导",
+            "content": "中国特色社会主义最本质的特征",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "中国的政党和政党制度",
+        "content": "中国共产党领导的多党合作和政治协商制度",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "中国共产党的领导",
+            "content": "党的全面领导是中国特色社会主义最本质的特征",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "坚持党的全面领导的必要性",
+                "content": "中国国情复杂，治理任务艰巨，需要党的集中统一领导",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "国家治理体系现代化",
+                    "content": "党的全面领导是推进国家治理体系和治理能力现代化的必然要求",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "社会主义初级阶段",
+                    "content": "我国仍处于社会主义初级阶段，需要党的坚强领导",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "坚持党的全面领导的途径",
+                "content": "通过政治制度、法治建设等实现党的全面领导",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "党的领导、人民当家作主、依法治国有机统一",
+                    "content": "三者统一于社会主义民主政治实践",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "健全党的全面领导制度",
+                    "content": "完善党的领导制度体系，确保党在各种组织中发挥领导作用",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "中国的民主党派",
+            "content": "八个民主党派的历史形成和作用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "民主党派的形成",
+                "content": "在新民主主义革命时期形成，与中国共产党合作",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "民主党派的作用",
+                "content": "参政议政、民主监督，参加中国共产党领导的政治协商",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "中国的政党制度",
+            "content": "中国共产党领导的多党合作和政治协商制度",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "新型政党制度的含义和特征",
+                "content": "真实、广泛、持久代表人民利益，避免旧式政党制度弊端",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "政党制度的历史必然性",
+                "content": "基于中国国情和历史发展形成",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "政党制度的优越性",
+                "content": "防止党派纠纷和内耗，开创新型政党监督机制",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "政治参与",
+        "content": "公民参与政治生活的行为和机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "政治参与的含义和特征",
+            "content": "公民个人、社会团体或组织参加公共政策制定与执行",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "中国政治参与的机制及方式",
+            "content": "政治选举、政治结社、民意表达等",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "政治文化",
+        "content": "政治心理、政治思想和政治价值观的总和",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "政治文化的含义与特征",
+            "content": "具有阶级性、历史继承性和相对独立性",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "中国特色社会主义政治文化",
+            "content": "以马克思主义为指导，继承中华优秀传统文化",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "民族与宗教",
+        "content": "民族问题和宗教问题的政治影响",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "中国的民族政策",
+            "content": "民族区域自治制度，促进民族团结",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "中国的宗教政策",
+            "content": "宗教信仰自由，依法管理宗教事务",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "国际政治与中国对外政策",
+        "content": "国际政治基本准则和中国的外交政策",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "国际政治行为体",
+            "content": "主权国家和国际组织等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "中国对外政策的基本原则",
+            "content": "独立自主、和平共处五项原则等",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "政治",
+      "tail": "经济基础",
+      "relation": "建立于"
+    },
+    {
+      "head": "国家",
+      "tail": "阶级统治",
+      "relation": "本质是"
+    },
+    {
+      "head": "民主",
+      "tail": "国家形态",
+      "relation": "属于"
+    },
+    {
+      "head": "政党",
+      "tail": "阶级利益",
+      "relation": "代表"
+    },
+    {
+      "head": "人民代表大会制度",
+      "tail": "民主集中制",
+      "relation": "实行"
+    },
+    {
+      "head": "社会主义民主",
+      "tail": "资本主义民主",
+      "relation": "区别于"
+    },
+    {
+      "head": "中国共产党",
+      "tail": "中国特色社会主义",
+      "relation": "领导"
+    },
+    {
+      "head": "国家权力",
+      "tail": "主权",
+      "relation": "具有属性"
+    },
+    {
+      "head": "政治学",
+      "tail": "马克思主义",
+      "relation": "以为指导"
+    },
+    {
+      "head": "协商民主",
+      "tail": "选举民主",
+      "relation": "补充"
+    },
+    {
+      "head": "中国共产党",
+      "tail": "多党合作和政治协商制度",
+      "relation": "领导"
+    },
+    {
+      "head": "多党合作和政治协商制度",
+      "tail": "民主党派",
+      "relation": "包含"
+    },
+    {
+      "head": "党的全面领导",
+      "tail": "国家治理体系现代化",
+      "relation": "推动"
+    },
+    {
+      "head": "政治参与",
+      "tail": "社会主义民主政治",
+      "relation": "体现"
+    },
+    {
+      "head": "政治文化",
+      "tail": "政治社会化",
+      "relation": "通过...传承"
+    },
+    {
+      "head": "民族区域自治制度",
+      "tail": "民族团结",
+      "relation": "促进"
+    },
+    {
+      "head": "宗教信仰自由",
+      "tail": "依法管理宗教事务",
+      "relation": "基于"
+    },
+    {
+      "head": "独立自主",
+      "tail": "和平共处五项原则",
+      "relation": "是...基础"
+    },
+    {
+      "head": "中国特色社会主义政治文化",
+      "tail": "社会主义核心价值观",
+      "relation": "包含"
+    }
+  ],
+  "metadata": {
+    "chunks_merged": 2,
+    "generated_at": "2025-11-18 18:27:32",
+    "version": "1.1"
+  }
+}

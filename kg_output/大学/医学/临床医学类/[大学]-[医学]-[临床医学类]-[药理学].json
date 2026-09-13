@@ -1,0 +1,288 @@
+{
+  "knowledge_tree": {
+    "title": "药理学",
+    "content": "研究药物与机体相互作用及其规律的科学",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "药物效应动力学",
+        "content": "研究药物对机体的作用及作用机制",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "药物作用的基本规律",
+            "content": "药物作用的选择性、两重性、量效关系等基本特征",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "量效关系",
+                "content": "药物剂量与效应之间的关系，包括量效曲线、效能、效价强度等概念",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "时效关系",
+                "content": "药物作用随时间变化的规律，包括起效时间、达峰时间、作用持续时间等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "药物作用机制",
+            "content": "药物产生药理效应的分子机制",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "受体理论",
+                "content": "药物与受体结合产生效应的理论，包括激动剂、拮抗剂等概念",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "酶抑制作用",
+                "content": "药物通过抑制酶活性产生药理效应",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "药物代谢动力学",
+        "content": "研究机体对药物的处置过程，包括吸收、分布、代谢和排泄",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "药物吸收",
+            "content": "药物从给药部位进入血液循环的过程",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "口服吸收",
+                "content": "药物经胃肠道吸收的过程，受首过效应影响",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "生物利用度",
+                "content": "药物被吸收进入体循环的相对量和速度",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "药物分布",
+            "content": "药物在体内各组织器官的转运和分布",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "表观分布容积",
+                "content": "理论上药物均匀分布应占有的体液容积",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "血脑屏障",
+                "content": "保护脑组织不受血液中有害物质侵害的屏障结构",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "传出神经系统药理",
+        "content": "作用于传出神经系统的药物及其作用机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "胆碱能系统药物",
+            "content": "作用于胆碱能受体的药物",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "M受体激动剂",
+                "content": "如毛果芸香碱，主要用于治疗青光眼",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "胆碱酯酶抑制剂",
+                "content": "如新斯的明，用于治疗重症肌无力",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "肾上腺素能系统药物",
+            "content": "作用于肾上腺素能受体的药物",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "α受体激动剂",
+                "content": "如去甲肾上腺素，用于升压治疗",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "β受体阻断剂",
+                "content": "如普萘洛尔，用于治疗高血压、心绞痛",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "中枢神经系统药理",
+        "content": "作用于中枢神经系统的药物",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "镇静催眠药",
+            "content": "如苯二氮䓬类，用于治疗失眠、焦虑",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "地西泮",
+                "content": "苯二氮䓬类代表药物，具有镇静、抗焦虑作用",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "抗癫痫药",
+            "content": "如苯妥英钠，用于控制癫痫发作",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "卡马西平",
+                "content": "主要用于治疗部分性癫痫发作",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "药理学",
+      "tail": "药物效应动力学",
+      "relation": "包含"
+    },
+    {
+      "head": "药理学",
+      "tail": "药物代谢动力学",
+      "relation": "包含"
+    },
+    {
+      "head": "药物效应动力学",
+      "tail": "量效关系",
+      "relation": "研究内容"
+    },
+    {
+      "head": "药物效应动力学",
+      "tail": "受体理论",
+      "relation": "理论基础"
+    },
+    {
+      "head": "药物代谢动力学",
+      "tail": "药物吸收",
+      "relation": "包含过程"
+    },
+    {
+      "head": "药物代谢动力学",
+      "tail": "药物分布",
+      "relation": "包含过程"
+    },
+    {
+      "head": "口服吸收",
+      "tail": "首过效应",
+      "relation": "受影响因素"
+    },
+    {
+      "head": "传出神经系统药理",
+      "tail": "胆碱能系统药物",
+      "relation": "包含"
+    },
+    {
+      "head": "传出神经系统药理",
+      "tail": "肾上腺素能系统药物",
+      "relation": "包含"
+    },
+    {
+      "head": "M受体激动剂",
+      "tail": "毛果芸香碱",
+      "relation": "代表药物"
+    },
+    {
+      "head": "胆碱酯酶抑制剂",
+      "tail": "新斯的明",
+      "relation": "代表药物"
+    },
+    {
+      "head": "中枢神经系统药理",
+      "tail": "镇静催眠药",
+      "relation": "包含"
+    },
+    {
+      "head": "中枢神经系统药理",
+      "tail": "抗癫痫药",
+      "relation": "包含"
+    },
+    {
+      "head": "镇静催眠药",
+      "tail": "地西泮",
+      "relation": "代表药物"
+    },
+    {
+      "head": "抗癫痫药",
+      "tail": "卡马西平",
+      "relation": "代表药物"
+    },
+    {
+      "head": "量效关系",
+      "tail": "效能",
+      "relation": "包含概念"
+    },
+    {
+      "head": "量效关系",
+      "tail": "效价强度",
+      "relation": "包含概念"
+    },
+    {
+      "head": "药物分布",
+      "tail": "表观分布容积",
+      "relation": "重要参数"
+    },
+    {
+      "head": "药物分布",
+      "tail": "血脑屏障",
+      "relation": "影响因素"
+    },
+    {
+      "head": "受体理论",
+      "tail": "激动剂",
+      "relation": "包含概念"
+    },
+    {
+      "head": "受体理论",
+      "tail": "拮抗剂",
+      "relation": "包含概念"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 16:39:27",
+    "version": "1.1"
+  }
+}

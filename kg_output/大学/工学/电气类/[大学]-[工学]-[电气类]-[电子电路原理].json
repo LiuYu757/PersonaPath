@@ -1,0 +1,440 @@
+{
+  "knowledge_tree": {
+    "title": "电子电路原理",
+    "content": "电子电路原理是电气类专业的核心基础课程，主要研究电子元器件的基本特性、电路的基本定律、分析方法以及典型电路的应用。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "电路基本概念与定律",
+        "content": "介绍电路的基本组成、物理量以及基本定律，是分析一切电路的基础。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "电流",
+            "content": "电荷的定向移动形成电流，单位是安培(A)。规定正电荷移动的方向为电流方向。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "电压",
+            "content": "电场力将单位正电荷从a点移动到b点所做的功，称为a、b两点间的电压，单位是伏特(V)。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "电位",
+            "content": "电路中某点相对于参考点（通常为接地点）的电压，称为该点的电位。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "功率",
+            "content": "单位时间内电路吸收或释放的电能，P=UI，单位是瓦特(W)。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "欧姆定律",
+            "content": "线性电阻元件两端的电压与流过它的电流成正比，关系式为U=IR。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "基尔霍夫定律",
+            "content": "包括基尔霍夫电流定律(KCL)和基尔霍夫电压定律(KVL)，是集总参数电路的基本定律。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "基尔霍夫电流定律(KCL)",
+                "content": "在集总参数电路中，任一时刻，流入任一节点的电流之和等于流出该节点的电流之和。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "基尔霍夫电压定律(KVL)",
+                "content": "在集总参数电路中，任一时刻，沿任一回路，所有支路电压的代数和恒等于零。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "常用电子元器件",
+        "content": "介绍电阻、电容、电感、二极管、晶体管等基本电子元器件的特性、模型和主要参数。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "电阻",
+            "content": "对电流呈现阻碍作用的元件，主要参数为阻值和额定功率。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "电阻的串并联",
+                "content": "串联电阻总阻值等于各电阻之和；并联电阻总阻值的倒数等于各电阻倒数之和。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电容",
+            "content": "储存电场能量的元件，主要参数为电容量和耐压值。通交流，隔直流。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "电感",
+            "content": "储存磁场能量的元件，主要参数为电感量和额定电流。通直流，阻交流。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "二极管",
+            "content": "具有单向导电性的半导体器件，核心是PN结。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "PN结",
+                "content": "P型半导体和N型半导体结合后，在交界面形成的空间电荷区，具有单向导电性。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "伏安特性",
+                "content": "描述二极管两端电压与流过电流关系的曲线，存在死区电压、正向导通和反向击穿等区域。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "晶体管",
+            "content": "包括BJT和FET，是具有放大作用和开关作用的半导体器件，是构成放大电路的核心。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "BJT（双极型晶体管）",
+                "content": "通过基极电流控制集电极电流的电流控制型器件，有NPN和PNP两种类型。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "FET（场效应晶体管）",
+                "content": "通过栅极电压控制漏极电流的电压控制型器件，输入阻抗高。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "三种组态",
+                "content": "BJT有共射、共集、共基三种基本放大电路组态。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "基本放大电路",
+        "content": "分析由晶体管构成的基本放大电路的静态工作点、动态参数（如电压放大倍数、输入输出电阻）和频率响应。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "静态工作点",
+            "content": "放大电路在没有输入信号时，晶体管各极的直流电流和电压值，设置合适的Q点是放大电路正常工作的前提。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "微变等效电路",
+            "content": "在交流小信号条件下，将非线性器件晶体管用线性电路模型等效，用于分析放大电路的动态性能。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "性能指标分析",
+            "content": "利用微变等效电路法计算放大电路的电压放大倍数、输入电阻和输出电阻。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "频率响应",
+            "content": "放大电路的电压放大倍数随信号频率变化的关系，主要受电路中电容的影响，存在上限频率和下限频率。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "集成运算放大器",
+        "content": "介绍集成运放的组成、理想化条件及其在信号运算、处理和波形产生等方面的应用电路。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "理想运放条件",
+            "content": "开环差模增益无穷大、输入电阻无穷大、输出电阻为零、共模抑制比无穷大、带宽无穷大。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "虚短与虚断",
+            "content": "工作在线性区的理想运放，其两输入端电位相等（虚短），流入两输入端的电流为零（虚断）。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "基本运算电路",
+            "content": "基于理想运放构成的比例、加法、减法、积分、微分等电路。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "电子电路原理课程中常见的习题类型，用于巩固和检验知识掌握程度。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "电路定律应用题",
+            "content": "给定电路结构，利用KCL、KVL和欧姆定律求解各支路电流和电压。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "二极管电路分析题",
+            "content": "分析含二极管的电路，判断二极管工作状态（导通或截止），并求解输出电压等。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "放大电路静态分析题",
+            "content": "计算给定放大电路的静态工作点（IBQ, ICQ, VCEQ）。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "放大电路动态分析题",
+            "content": "绘制微变等效电路，计算放大电路的Au, Ri, Ro等动态参数。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "运放电路计算题",
+            "content": "基于虚短虚断概念，分析由运放构成的各种电路，计算输入输出关系。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "电子电路原理",
+      "tail": "电路基本概念与定律",
+      "relation": "包含"
+    },
+    {
+      "head": "电子电路原理",
+      "tail": "常用电子元器件",
+      "relation": "包含"
+    },
+    {
+      "head": "电子电路原理",
+      "tail": "基本放大电路",
+      "relation": "包含"
+    },
+    {
+      "head": "电子电路原理",
+      "tail": "集成运算放大器",
+      "relation": "包含"
+    },
+    {
+      "head": "电子电路原理",
+      "tail": "典型例题类型",
+      "relation": "包含"
+    },
+    {
+      "head": "电路基本概念与定律",
+      "tail": "欧姆定律",
+      "relation": "包含"
+    },
+    {
+      "head": "电路基本概念与定律",
+      "tail": "基尔霍夫定律",
+      "relation": "包含"
+    },
+    {
+      "head": "基尔霍夫定律",
+      "tail": "基尔霍夫电流定律(KCL)",
+      "relation": "包含"
+    },
+    {
+      "head": "基尔霍夫定律",
+      "tail": "基尔霍夫电压定律(KVL)",
+      "relation": "包含"
+    },
+    {
+      "head": "常用电子元器件",
+      "tail": "电阻",
+      "relation": "包含"
+    },
+    {
+      "head": "常用电子元器件",
+      "tail": "电容",
+      "relation": "包含"
+    },
+    {
+      "head": "常用电子元器件",
+      "tail": "电感",
+      "relation": "包含"
+    },
+    {
+      "head": "常用电子元器件",
+      "tail": "二极管",
+      "relation": "包含"
+    },
+    {
+      "head": "常用电子元器件",
+      "tail": "晶体管",
+      "relation": "包含"
+    },
+    {
+      "head": "电阻",
+      "tail": "电阻的串并联",
+      "relation": "包含"
+    },
+    {
+      "head": "二极管",
+      "tail": "PN结",
+      "relation": "核心是"
+    },
+    {
+      "head": "二极管",
+      "tail": "伏安特性",
+      "relation": "具有"
+    },
+    {
+      "head": "晶体管",
+      "tail": "BJT（双极型晶体管）",
+      "relation": "包含"
+    },
+    {
+      "head": "晶体管",
+      "tail": "FET（场效应晶体管）",
+      "relation": "包含"
+    },
+    {
+      "head": "BJT（双极型晶体管）",
+      "tail": "三种组态",
+      "relation": "具有"
+    },
+    {
+      "head": "基本放大电路",
+      "tail": "静态工作点",
+      "relation": "分析"
+    },
+    {
+      "head": "基本放大电路",
+      "tail": "微变等效电路",
+      "relation": "基于"
+    },
+    {
+      "head": "基本放大电路",
+      "tail": "性能指标分析",
+      "relation": "包含"
+    },
+    {
+      "head": "基本放大电路",
+      "tail": "频率响应",
+      "relation": "分析"
+    },
+    {
+      "head": "微变等效电路",
+      "tail": "性能指标分析",
+      "relation": "用于"
+    },
+    {
+      "head": "集成运算放大器",
+      "tail": "理想运放条件",
+      "relation": "基于"
+    },
+    {
+      "head": "集成运算放大器",
+      "tail": "虚短与虚断",
+      "relation": "推导出"
+    },
+    {
+      "head": "集成运算放大器",
+      "tail": "基本运算电路",
+      "relation": "应用于"
+    },
+    {
+      "head": "理想运放条件",
+      "tail": "虚短与虚断",
+      "relation": "推导出"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "电路定律应用题",
+      "relation": "包含"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "二极管电路分析题",
+      "relation": "包含"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "放大电路静态分析题",
+      "relation": "包含"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "放大电路动态分析题",
+      "relation": "包含"
+    },
+    {
+      "head": "典型例题类型",
+      "tail": "运放电路计算题",
+      "relation": "包含"
+    },
+    {
+      "head": "电路定律应用题",
+      "tail": "欧姆定律",
+      "relation": "应用"
+    },
+    {
+      "head": "电路定律应用题",
+      "tail": "基尔霍夫定律",
+      "relation": "应用"
+    },
+    {
+      "head": "二极管电路分析题",
+      "tail": "二极管的伏安特性",
+      "relation": "基于"
+    },
+    {
+      "head": "放大电路静态分析题",
+      "tail": "静态工作点",
+      "relation": "计算"
+    },
+    {
+      "head": "放大电路动态分析题",
+      "tail": "微变等效电路",
+      "relation": "基于"
+    },
+    {
+      "head": "运放电路计算题",
+      "tail": "虚短与虚断",
+      "relation": "基于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:38:22",
+    "version": "1.1"
+  }
+}

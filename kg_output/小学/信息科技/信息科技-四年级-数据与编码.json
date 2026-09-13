@@ -1,0 +1,384 @@
+{
+  "knowledge_tree": {
+    "title": "数据与编码",
+    "content": "四年级信息科技课程，涵盖数据的多样性、编码表示、数据管理、安全及人工智能应用",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "数据的多样性",
+        "content": "数据可以以数字、汉字、字母、符号、图片等多种形式表示",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "数字表示",
+            "content": "如气温数值、商品价格等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "汉字表示",
+            "content": "如星期几、地名等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "字母表示",
+            "content": "如CCTV、ISBN等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "符号表示",
+            "content": "如天气符号、交通标志等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "图片表示",
+            "content": "如人脸图像、地图等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "编码表示",
+            "content": "按照一定规则表示信息，如条形码、邮政编码等",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "编码的基础",
+        "content": "编码是按照约定进行的规范性描述，目的是作为唯一标识",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "编码的目的",
+            "content": "建立数据间的内在联系，便于数字设备识别和管理",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "编码的唯一性",
+            "content": "在其使用范围内，编码是唯一的、不重复的",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "编码长度与信息量",
+            "content": "编码长度越长，所包含的信息量通常越多",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "编码的容错性",
+            "content": "如二维码具有一定的容错能力，部分损坏仍可识别",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "常见编码应用",
+        "content": "生活中广泛使用的编码系统",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "邮政编码",
+            "content": "采用“四级六码”制，前两位表示省、自治区、直辖市",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "商品编码",
+            "content": "13位，由国家代码、厂商代码、商品代码和校验码构成",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "公民身份号码",
+            "content": "18位，包含地址码、出生日期码、顺序码和校验码",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "机动车号牌",
+            "content": "汉字、字母和数字组合，表示车辆注册地和唯一标识",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "ISBN",
+            "content": "国际标准书号，13位，图书的唯一标识",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "二维码",
+            "content": "快速响应码，存储信息量大，易于扫描",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数据管理",
+        "content": "使用数字化工具对数据进行组织、查找、筛选、排序和计算",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "数据组织",
+            "content": "使用表格等形式结构化存储数据",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "数据查找",
+            "content": "快速定位所需数据",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "数据筛选",
+            "content": "根据条件过滤数据",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "数据排序",
+            "content": "按特定顺序排列数据",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "数据计算",
+            "content": "如计算平均值、总和等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "数据可视化",
+            "content": "使用图表直观展示数据",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "条形图",
+                "content": "比较不同类别的数据",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "饼图",
+                "content": "显示各部分在整体中的占比",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "折线图",
+                "content": "展示数据随时间的变化趋势",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "雷达图",
+                "content": "多维度对比数据",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "词云图",
+                "content": "文本数据中关键词的可视化",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "知识图谱",
+                "content": "展示实体及其关系的网络",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "数据安全",
+        "content": "保护数据免受未经授权的访问、使用、披露、修改或破坏",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "数据安全重要性",
+            "content": "关乎个人隐私、商业秘密和国家安全",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "常见威胁",
+            "content": "如信息泄露、数据篡改、网络谣言等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "防护措施",
+            "content": "使用强密码、加密数据、定期备份、安装杀毒软件等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "法律法规",
+            "content": "如《中华人民共和国数据安全法》",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "人工智能与大数据",
+        "content": "大数据和人工智能的应用及挑战",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "大数据应用",
+            "content": "如智能导航、拍照识花、智能对弈等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "生成式人工智能",
+            "content": "可生成文本、图片、音频、视频等内容",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "存在的问题",
+            "content": "如望文生义、答非所问、张冠李戴、计算错误等",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "应对措施",
+            "content": "仔细检查结果、核实数据来源、遵守相关法规",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "数据",
+      "tail": "编码",
+      "relation": "通过编码表示"
+    },
+    {
+      "head": "编码",
+      "tail": "唯一标识",
+      "relation": "目的是建立"
+    },
+    {
+      "head": "编码",
+      "tail": "数据管理",
+      "relation": "便于实现"
+    },
+    {
+      "head": "数据管理",
+      "tail": "数字化工具",
+      "relation": "依赖"
+    },
+    {
+      "head": "数字化工具",
+      "tail": "数据可视化",
+      "relation": "用于生成"
+    },
+    {
+      "head": "数据可视化",
+      "tail": "条形图",
+      "relation": "包含"
+    },
+    {
+      "head": "数据可视化",
+      "tail": "饼图",
+      "relation": "包含"
+    },
+    {
+      "head": "数据可视化",
+      "tail": "折线图",
+      "relation": "包含"
+    },
+    {
+      "head": "数据可视化",
+      "tail": "雷达图",
+      "relation": "包含"
+    },
+    {
+      "head": "数据可视化",
+      "tail": "词云图",
+      "relation": "包含"
+    },
+    {
+      "head": "数据可视化",
+      "tail": "知识图谱",
+      "relation": "包含"
+    },
+    {
+      "head": "数据安全",
+      "tail": "防护措施",
+      "relation": "通过实施"
+    },
+    {
+      "head": "数据安全",
+      "tail": "法律法规",
+      "relation": "受保护于"
+    },
+    {
+      "head": "大数据",
+      "tail": "人工智能",
+      "relation": "助力"
+    },
+    {
+      "head": "生成式人工智能",
+      "tail": "数据",
+      "relation": "依赖数据进行训练"
+    },
+    {
+      "head": "生成式人工智能",
+      "tail": "问题",
+      "relation": "可能存在"
+    },
+    {
+      "head": "公民身份号码",
+      "tail": "校验码",
+      "relation": "包含"
+    },
+    {
+      "head": "商品编码",
+      "tail": "校验码",
+      "relation": "包含"
+    },
+    {
+      "head": "ISBN",
+      "tail": "校验码",
+      "relation": "包含"
+    },
+    {
+      "head": "二维码",
+      "tail": "容错性",
+      "relation": "具有"
+    },
+    {
+      "head": "莫尔斯电码",
+      "tail": "编码",
+      "relation": "是一种"
+    },
+    {
+      "head": "RGB",
+      "tail": "颜色编码",
+      "relation": "用于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 18:03:56",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,744 @@
+{
+  "knowledge_tree": {
+    "title": "理论力学",
+    "content": "研究物体机械运动的基本规律，包括静力学、运动学和动力学三大部分。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "静力学",
+        "content": "研究物体在力系作用下的平衡规律，以及力的一般性质与简化方法。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "静力学基本概念",
+            "content": "力、刚体、平衡、力系、约束等基本概念的定义。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "力的定义",
+                "content": "力是物体间相互的机械作用，使物体的运动状态发生改变或产生变形。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "刚体的定义",
+                "content": "在力的作用下，其内部任意两点之间的距离始终保持不变的物体。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "平衡的定义",
+                "content": "物体相对于惯性参考系保持静止或作匀速直线运动的状态。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "静力学公理",
+            "content": "静力学的基本原理，是理论推导的基础。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "二力平衡公理",
+                "content": "作用于刚体上的两个力，使刚体保持平衡的充要条件是：这两个力大小相等，方向相反，且作用在同一直线上。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "加减平衡力系公理",
+                "content": "在已知力系上加上或减去任意平衡力系，并不改变原力系对刚体的作用效应。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "力的平行四边形法则",
+                "content": "作用于物体上同一点的两个力，可以合成为一个合力，合力的作用点也在该点，其大小和方向由这两个力为邻边构成的平行四边形的对角线确定。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "作用与反作用定律",
+                "content": "两物体间的作用力与反作用力总是大小相等，方向相反，沿同一直线，分别作用在两个物体上。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "约束与约束反力",
+            "content": "研究限制物体位移的条件及其产生的反作用力。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "约束的定义",
+                "content": "对非自由体某些位移起限制作用的周围物体。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "光滑接触面约束",
+                "content": "约束反力沿接触面的公法线方向，指向被约束物体。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "柔索约束",
+                "content": "约束反力沿柔索中心线，且为拉力。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "力系的简化",
+            "content": "将复杂力系等效简化为一个最简单的形式。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "力的平移定理",
+                "content": "作用在刚体上的力可以向任意点平移，但必须附加一个力偶，该力偶的矩等于原力对新作用点的矩。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "平面任意力系的简化结果",
+                "content": "简化结果通常是一个主矢和一个主矩。主矢与简化中心无关，主矩与简化中心有关。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "物体的受力分析",
+            "content": "隔离物体，分析其所受全部外力，并画出受力图。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "力系的平衡条件",
+            "content": "力系平衡时所需满足的方程。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "平面任意力系的平衡方程",
+                "content": "基本形式：∑Fx=0, ∑Fy=0, ∑Mo(F)=0。二矩式和三矩式为其等价形式。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "静定与静不定问题",
+                "content": "根据未知量个数与独立平衡方程个数判断问题是否可解。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "典型例题类型-平面汇交力系平衡",
+            "content": "应用平衡方程求解平面汇交力系作用下的未知力。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "运动学",
+        "content": "从几何角度研究物体的运动（如轨迹、速度、加速度），而不考虑引起运动的原因。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "点的运动学",
+            "content": "描述点的位置、速度和加速度随时间的变化规律。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "矢量法",
+                "content": "用矢径描述点的运动，速度v=dr/dt，加速度a=dv/dt。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "直角坐标法",
+                "content": "运动方程：x=f1(t), y=f2(t), z=f3(t)。速度加速度在各坐标轴上的投影等于相应坐标对时间的一阶和二阶导数。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "自然法（弧坐标法）",
+                "content": "适用于轨迹已知的情况。速度v=ds/dt，切向加速度at=dv/dt，法向加速度an=v²/ρ。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "刚体的基本运动",
+            "content": "刚体的平动和定轴转动。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "刚体的平动",
+                "content": "刚体内任一直线在运动过程中始终与它的初始位置平行。其上各点轨迹、速度、加速度相同。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "刚体的定轴转动",
+                "content": "刚体上有一条直线固定不动。转动方程φ=f(t)，角速度ω=dφ/dt，角加速度α=dω/dt。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "点的合成运动",
+            "content": "研究动点相对于不同参考系（定系和动系）的运动之间的关系。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "基本概念",
+                "content": "绝对运动（动点对定系的运动）、相对运动（动点对动系的运动）、牵连运动（动系对定系的运动）。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "速度合成定理",
+                "content": "动点在某一瞬时的绝对速度等于其牵连速度与相对速度的矢量和，即 va = ve + vr。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "加速度合成定理",
+                "content": "当动系作平动时，aa = ae + ar。当动系作转动时，aa = ae + ar + ak，其中ak为科氏加速度。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "刚体的平面运动",
+            "content": "刚体运动时，其上各点至某一固定平面的距离保持不变。可分解为随基点的平动和绕基点的转动。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "平面运动方程",
+                "content": "xA=f1(t), yA=f2(t), φ=f3(t)。其中A为基点。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "求平面图形内各点速度的方法",
+                "content": "包括基点法、速度投影定理和速度瞬心法。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "求平面图形内各点加速度的方法",
+                "content": "通常使用基点法：aB = aA + aBA^τ + aBA^n。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "动力学",
+        "content": "研究物体的运动与作用力之间的关系。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "动力学基本定律",
+            "content": "牛顿三定律是动力学的基础。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "牛顿第一定律（惯性定律）",
+                "content": "任何物体都保持静止或匀速直线运动状态，除非外力迫使它改变这种状态。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "牛顿第二定律（力与加速度关系定律）",
+                "content": "物体的动量对时间的变化率与所受外力成正比，并发生在力的方向上。质点形式：F=ma。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "牛顿第三定律（作用与反作用定律）",
+                "content": "两个物体间的作用力与反作用力总是大小相等，方向相反，沿同一直线。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "动量定理",
+            "content": "描述质点或质点系动量变化与冲量之间的关系。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "质点动量定理",
+                "content": "微分形式：d(mv)=Fdt。积分形式：mv2 - mv1 = ∫Fdt。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "质点系动量定理",
+                "content": "质点系动量的主矢对时间的导数等于作用于质点系的外力系的主矢。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "质心运动定理",
+                "content": "质点系总质量与质心加速度的乘积等于作用于质点系的外力系的主矢，即 mac = ∑Fe。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "动量矩定理",
+            "content": "描述质点或质点系动量矩变化与力矩之间的关系。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "质点动量矩定理",
+                "content": "质点对某固定点的动量矩对时间的导数，等于作用力对同一点的矩。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "质点系动量矩定理",
+                "content": "质点系对某固定点的动量矩对时间的导数，等于作用于质点系的外力对同一点的主矩。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "刚体定轴转动微分方程",
+                "content": "Jz * α = ∑Mz(Fe)，其中Jz为刚体对转轴z的转动惯量。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "动能定理",
+            "content": "描述质点或质点系动能变化与功之间的关系。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "质点动能定理",
+                "content": "质点动能的微分等于作用在质点上的力的元功，即 d(1/2 mv²) = δW。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "质点系动能定理",
+                "content": "质点系动能的微分等于作用于质点系的所有力的元功之和。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "机械能守恒定律",
+                "content": "若质点系仅受有势力作用，则其机械能（动能与势能之和）保持不变。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "达朗贝尔原理",
+            "content": "引入惯性力，将动力学问题从形式上转化为静力学问题求解。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "质点的达朗贝尔原理",
+                "content": "作用在质点上的主动力、约束反力和虚加的惯性力在形式上组成平衡力系，即 F + FN + FI = 0，其中 FI = -ma。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "质点系的达朗贝尔原理",
+                "content": "作用于质点系的外力、内力以及虚加在每个质点上的惯性力，在形式上组成平衡力系。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "虚位移原理",
+            "content": "分析力学的基础，为解决非自由质点系的静力学问题提供了普遍方法。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "虚位移的概念",
+                "content": "在某瞬时，质点系在约束允许的条件下可能发生的任何无限小位移。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "虚位移原理的表述",
+                "content": "具有理想约束的质点系，其保持平衡的充要条件是：所有主动力在质点系的任何虚位移上所作元功之和等于零。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "静力学",
+      "tail": "静力学基本概念",
+      "relation": "包含"
+    },
+    {
+      "head": "静力学基本概念",
+      "tail": "力的定义",
+      "relation": "包含"
+    },
+    {
+      "head": "静力学基本概念",
+      "tail": "刚体的定义",
+      "relation": "包含"
+    },
+    {
+      "head": "静力学基本概念",
+      "tail": "平衡的定义",
+      "relation": "包含"
+    },
+    {
+      "head": "静力学",
+      "tail": "静力学公理",
+      "relation": "包含"
+    },
+    {
+      "head": "静力学公理",
+      "tail": "二力平衡公理",
+      "relation": "包含"
+    },
+    {
+      "head": "静力学公理",
+      "tail": "加减平衡力系公理",
+      "relation": "包含"
+    },
+    {
+      "head": "静力学公理",
+      "tail": "力的平行四边形法则",
+      "relation": "包含"
+    },
+    {
+      "head": "静力学公理",
+      "tail": "作用与反作用定律",
+      "relation": "包含"
+    },
+    {
+      "head": "静力学",
+      "tail": "约束与约束反力",
+      "relation": "包含"
+    },
+    {
+      "head": "约束与约束反力",
+      "tail": "约束的定义",
+      "relation": "包含"
+    },
+    {
+      "head": "约束与约束反力",
+      "tail": "光滑接触面约束",
+      "relation": "包含"
+    },
+    {
+      "head": "约束与约束反力",
+      "tail": "柔索约束",
+      "relation": "包含"
+    },
+    {
+      "head": "静力学",
+      "tail": "力系的简化",
+      "relation": "包含"
+    },
+    {
+      "head": "力系的简化",
+      "tail": "力的平移定理",
+      "relation": "包含"
+    },
+    {
+      "head": "力系的简化",
+      "tail": "平面任意力系的简化结果",
+      "relation": "包含"
+    },
+    {
+      "head": "静力学",
+      "tail": "物体的受力分析",
+      "relation": "包含"
+    },
+    {
+      "head": "静力学",
+      "tail": "力系的平衡条件",
+      "relation": "包含"
+    },
+    {
+      "head": "力系的平衡条件",
+      "tail": "平面任意力系的平衡方程",
+      "relation": "包含"
+    },
+    {
+      "head": "力系的平衡条件",
+      "tail": "静定与静不定问题",
+      "relation": "包含"
+    },
+    {
+      "head": "静力学",
+      "tail": "典型例题类型-平面汇交力系平衡",
+      "relation": "包含应用"
+    },
+    {
+      "head": "运动学",
+      "tail": "点的运动学",
+      "relation": "包含"
+    },
+    {
+      "head": "点的运动学",
+      "tail": "矢量法",
+      "relation": "包含"
+    },
+    {
+      "head": "点的运动学",
+      "tail": "直角坐标法",
+      "relation": "包含"
+    },
+    {
+      "head": "点的运动学",
+      "tail": "自然法（弧坐标法）",
+      "relation": "包含"
+    },
+    {
+      "head": "运动学",
+      "tail": "刚体的基本运动",
+      "relation": "包含"
+    },
+    {
+      "head": "刚体的基本运动",
+      "tail": "刚体的平动",
+      "relation": "包含"
+    },
+    {
+      "head": "刚体的基本运动",
+      "tail": "刚体的定轴转动",
+      "relation": "包含"
+    },
+    {
+      "head": "运动学",
+      "tail": "点的合成运动",
+      "relation": "包含"
+    },
+    {
+      "head": "点的合成运动",
+      "tail": "基本概念",
+      "relation": "包含"
+    },
+    {
+      "head": "点的合成运动",
+      "tail": "速度合成定理",
+      "relation": "包含"
+    },
+    {
+      "head": "点的合成运动",
+      "tail": "加速度合成定理",
+      "relation": "包含"
+    },
+    {
+      "head": "速度合成定理",
+      "tail": "基本概念",
+      "relation": "基于"
+    },
+    {
+      "head": "加速度合成定理",
+      "tail": "速度合成定理",
+      "relation": "扩展"
+    },
+    {
+      "head": "运动学",
+      "tail": "刚体的平面运动",
+      "relation": "包含"
+    },
+    {
+      "head": "刚体的平面运动",
+      "tail": "平面运动方程",
+      "relation": "包含"
+    },
+    {
+      "head": "刚体的平面运动",
+      "tail": "求平面图形内各点速度的方法",
+      "relation": "包含"
+    },
+    {
+      "head": "刚体的平面运动",
+      "tail": "求平面图形内各点加速度的方法",
+      "relation": "包含"
+    },
+    {
+      "head": "动力学",
+      "tail": "动力学基本定律",
+      "relation": "包含"
+    },
+    {
+      "head": "动力学基本定律",
+      "tail": "牛顿第一定律",
+      "relation": "包含"
+    },
+    {
+      "head": "动力学基本定律",
+      "tail": "牛顿第二定律",
+      "relation": "包含"
+    },
+    {
+      "head": "动力学基本定律",
+      "tail": "牛顿第三定律",
+      "relation": "包含"
+    },
+    {
+      "head": "静力学公理",
+      "tail": "动力学基本定律",
+      "relation": "部分公理与定律重合"
+    },
+    {
+      "head": "动力学",
+      "tail": "动量定理",
+      "relation": "包含"
+    },
+    {
+      "head": "动量定理",
+      "tail": "质点动量定理",
+      "relation": "包含"
+    },
+    {
+      "head": "动量定理",
+      "tail": "质点系动量定理",
+      "relation": "包含"
+    },
+    {
+      "head": "动量定理",
+      "tail": "质心运动定理",
+      "relation": "包含"
+    },
+    {
+      "head": "质心运动定理",
+      "tail": "质点系动量定理",
+      "relation": "推导自"
+    },
+    {
+      "head": "动力学",
+      "tail": "动量矩定理",
+      "relation": "包含"
+    },
+    {
+      "head": "动量矩定理",
+      "tail": "质点动量矩定理",
+      "relation": "包含"
+    },
+    {
+      "head": "动量矩定理",
+      "tail": "质点系动量矩定理",
+      "relation": "包含"
+    },
+    {
+      "head": "动量矩定理",
+      "tail": "刚体定轴转动微分方程",
+      "relation": "包含"
+    },
+    {
+      "head": "刚体定轴转动微分方程",
+      "tail": "质点系动量矩定理",
+      "relation": "应用于刚体特例"
+    },
+    {
+      "head": "动力学",
+      "tail": "动能定理",
+      "relation": "包含"
+    },
+    {
+      "head": "动能定理",
+      "tail": "质点动能定理",
+      "relation": "包含"
+    },
+    {
+      "head": "动能定理",
+      "tail": "质点系动能定理",
+      "relation": "包含"
+    },
+    {
+      "head": "动能定理",
+      "tail": "机械能守恒定律",
+      "relation": "包含"
+    },
+    {
+      "head": "机械能守恒定律",
+      "tail": "质点系动能定理",
+      "relation": "在保守力系下的特例"
+    },
+    {
+      "head": "动力学",
+      "tail": "达朗贝尔原理",
+      "relation": "包含"
+    },
+    {
+      "head": "达朗贝尔原理",
+      "tail": "质点的达朗贝尔原理",
+      "relation": "包含"
+    },
+    {
+      "head": "达朗贝尔原理",
+      "tail": "质点系的达朗贝尔原理",
+      "relation": "包含"
+    },
+    {
+      "head": "达朗贝尔原理",
+      "tail": "静力学",
+      "relation": "将动力学问题转化为静力学问题"
+    },
+    {
+      "head": "动力学",
+      "tail": "虚位移原理",
+      "relation": "包含"
+    },
+    {
+      "head": "虚位移原理",
+      "tail": "虚位移的概念",
+      "relation": "基于"
+    },
+    {
+      "head": "虚位移原理",
+      "tail": "静力学",
+      "relation": "为解决非自由质点系静力学问题提供普遍方法"
+    },
+    {
+      "head": "理论力学",
+      "tail": "静力学",
+      "relation": "包含"
+    },
+    {
+      "head": "理论力学",
+      "tail": "运动学",
+      "relation": "包含"
+    },
+    {
+      "head": "理论力学",
+      "tail": "动力学",
+      "relation": "包含"
+    },
+    {
+      "head": "运动学",
+      "tail": "动力学",
+      "relation": "为动力学提供运动描述基础"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 16:58:10",
+    "version": "1.1"
+  }
+}

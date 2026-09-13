@@ -1,0 +1,550 @@
+{
+  "knowledge_tree": {
+    "title": "一年级上册数学",
+    "content": "人教版一年级上册数学，涵盖准备课、位置、5以内数的认识和加减法、认识图形（一）、6~10的认识和加减法、11~20各数的认识、认识钟表、20以内的进位加法等内容",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "准备课",
+        "content": "数一数和比多少的基本概念",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "数一数",
+            "content": "通过实物点数，认识1-10各数",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "1-5的认识",
+                "content": "认识数字1-5，会数数量是1-5的物体",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "6-10的认识",
+                "content": "认识数字6-10，会数数量是6-10的物体",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "比多少",
+            "content": "用一一对应的方法比较物体的多少",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "同样多",
+                "content": "两种物体数量相等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "多和少",
+                "content": "用\"多\"、\"少\"描述物体数量的比较结果",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "位置",
+        "content": "认识上下、前后、左右等位置关系",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "上、下、前、后",
+            "content": "认识物体之间的上下、前后位置关系",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "左、右",
+            "content": "以自身为中心区分左右，认识左右位置关系",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "5以内数的认识和加减法",
+        "content": "认识5以内各数，学习5以内的加减法",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "1-5的认识",
+            "content": "认、读、写1-5各数，理解数的实际意义",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "比大小",
+            "content": "用\"＞\"、\"＜\"、\"＝\"表示数的大小关系",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "第几",
+            "content": "理解序数的含义，会用序数表示物体的位置",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "分与合",
+            "content": "掌握2-5各数的组成",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "加法",
+            "content": "理解加法的含义，认识加号，计算5以内的加法",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "减法",
+            "content": "理解减法的含义，认识减号，计算5以内的减法",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "0的认识",
+            "content": "认识0，理解0的含义，会读、写0",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "认识图形（一）",
+        "content": "初步认识长方体、正方体、圆柱和球",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "认识立体图形",
+            "content": "通过观察、操作认识长方体、正方体、圆柱和球",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "长方体",
+                "content": "有6个面，相对的面完全相同",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "正方体",
+                "content": "6个面都是完全相同的正方形",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "圆柱",
+                "content": "上下两个面是大小相同的圆，侧面是曲面",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "球",
+                "content": "表面是曲面，可以任意滚动",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "图形的拼搭",
+            "content": "用立体图形进行拼搭活动",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "6~10的认识和加减法",
+        "content": "认识6-10各数，学习10以内的加减法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "6和7的认识",
+            "content": "认、读、写6和7，理解数的实际意义",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "6和7的加减法",
+            "content": "计算6和7的加减法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "8和9的认识",
+            "content": "认、读、写8和9，理解数的实际意义",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "8和9的加减法",
+            "content": "计算8和9的加减法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "10的认识",
+            "content": "认、读、写10，理解10的实际意义",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "10的加减法",
+            "content": "计算10的加减法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "连加连减",
+            "content": "学习连加、连减的计算方法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "加减混合",
+            "content": "学习加减混合运算的计算方法",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "11~20各数的认识",
+        "content": "认识11-20各数，学习20以内不进位加法和不退位减法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "11-20各数的认识",
+            "content": "认、读、写11-20各数，理解数的组成",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "数位",
+                "content": "认识个位和十位，理解数位的意义",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "数的组成",
+                "content": "理解11-20各数是由1个十和几个一组成的",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "10加几和相应的减法",
+            "content": "计算10加几和相应的减法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "解决问题",
+            "content": "用数数的方法解决简单的实际问题",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "认识钟表",
+        "content": "初步认识钟面，会认读整时",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "认识钟面",
+            "content": "认识钟面上的时针和分针",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "认识整时",
+            "content": "会认、读、写整时",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "20以内的进位加法",
+        "content": "学习20以内的进位加法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "9加几",
+            "content": "用凑十法计算9加几的进位加法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "8、7、6加几",
+            "content": "用凑十法计算8、7、6加几的进位加法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "5、4、3、2加几",
+            "content": "用交换加数位置的方法计算5、4、3、2加几",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "解决问题",
+            "content": "用加法解决简单的实际问题",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "数一数",
+      "tail": "1-5的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "数一数",
+      "tail": "6-10的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "比多少",
+      "tail": "同样多",
+      "relation": "包含"
+    },
+    {
+      "head": "比多少",
+      "tail": "多和少",
+      "relation": "包含"
+    },
+    {
+      "head": "位置",
+      "tail": "上、下、前、后",
+      "relation": "包含"
+    },
+    {
+      "head": "位置",
+      "tail": "左、右",
+      "relation": "包含"
+    },
+    {
+      "head": "5以内数的认识和加减法",
+      "tail": "1-5的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "5以内数的认识和加减法",
+      "tail": "比大小",
+      "relation": "包含"
+    },
+    {
+      "head": "5以内数的认识和加减法",
+      "tail": "第几",
+      "relation": "包含"
+    },
+    {
+      "head": "5以内数的认识和加减法",
+      "tail": "分与合",
+      "relation": "包含"
+    },
+    {
+      "head": "5以内数的认识和加减法",
+      "tail": "加法",
+      "relation": "包含"
+    },
+    {
+      "head": "5以内数的认识和加减法",
+      "tail": "减法",
+      "relation": "包含"
+    },
+    {
+      "head": "5以内数的认识和加减法",
+      "tail": "0的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "认识图形（一）",
+      "tail": "认识立体图形",
+      "relation": "包含"
+    },
+    {
+      "head": "认识图形（一）",
+      "tail": "图形的拼搭",
+      "relation": "包含"
+    },
+    {
+      "head": "认识立体图形",
+      "tail": "长方体",
+      "relation": "包含"
+    },
+    {
+      "head": "认识立体图形",
+      "tail": "正方体",
+      "relation": "包含"
+    },
+    {
+      "head": "认识立体图形",
+      "tail": "圆柱",
+      "relation": "包含"
+    },
+    {
+      "head": "认识立体图形",
+      "tail": "球",
+      "relation": "包含"
+    },
+    {
+      "head": "6~10的认识和加减法",
+      "tail": "6和7的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "6~10的认识和加减法",
+      "tail": "6和7的加减法",
+      "relation": "包含"
+    },
+    {
+      "head": "6~10的认识和加减法",
+      "tail": "8和9的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "6~10的认识和加减法",
+      "tail": "8和9的加减法",
+      "relation": "包含"
+    },
+    {
+      "head": "6~10的认识和加减法",
+      "tail": "10的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "6~10的认识和加减法",
+      "tail": "10的加减法",
+      "relation": "包含"
+    },
+    {
+      "head": "6~10的认识和加减法",
+      "tail": "连加连减",
+      "relation": "包含"
+    },
+    {
+      "head": "6~10的认识和加减法",
+      "tail": "加减混合",
+      "relation": "包含"
+    },
+    {
+      "head": "11~20各数的认识",
+      "tail": "11-20各数的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "11~20各数的认识",
+      "tail": "10加几和相应的减法",
+      "relation": "包含"
+    },
+    {
+      "head": "11~20各数的认识",
+      "tail": "解决问题",
+      "relation": "包含"
+    },
+    {
+      "head": "11-20各数的认识",
+      "tail": "数位",
+      "relation": "包含"
+    },
+    {
+      "head": "11-20各数的认识",
+      "tail": "数的组成",
+      "relation": "包含"
+    },
+    {
+      "head": "认识钟表",
+      "tail": "认识钟面",
+      "relation": "包含"
+    },
+    {
+      "head": "认识钟表",
+      "tail": "认识整时",
+      "relation": "包含"
+    },
+    {
+      "head": "20以内的进位加法",
+      "tail": "9加几",
+      "relation": "包含"
+    },
+    {
+      "head": "20以内的进位加法",
+      "tail": "8、7、6加几",
+      "relation": "包含"
+    },
+    {
+      "head": "20以内的进位加法",
+      "tail": "5、4、3、2加几",
+      "relation": "包含"
+    },
+    {
+      "head": "20以内的进位加法",
+      "tail": "解决问题",
+      "relation": "包含"
+    },
+    {
+      "head": "分与合",
+      "tail": "加法",
+      "relation": "基础知识"
+    },
+    {
+      "head": "分与合",
+      "tail": "减法",
+      "relation": "基础知识"
+    },
+    {
+      "head": "加法",
+      "tail": "连加",
+      "relation": "扩展"
+    },
+    {
+      "head": "减法",
+      "tail": "连减",
+      "relation": "扩展"
+    },
+    {
+      "head": "加法",
+      "tail": "减法",
+      "relation": "逆运算"
+    },
+    {
+      "head": "认识整时",
+      "tail": "钟面",
+      "relation": "基于"
+    },
+    {
+      "head": "凑十法",
+      "tail": "20以内的进位加法",
+      "relation": "计算方法"
+    },
+    {
+      "head": "数位",
+      "tail": "数的组成",
+      "relation": "相关概念"
+    },
+    {
+      "head": "11-20各数的认识",
+      "tail": "10加几和相应的减法",
+      "relation": "应用"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:14:03",
+    "version": "1.1"
+  }
+}

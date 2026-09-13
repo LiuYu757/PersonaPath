@@ -1,0 +1,373 @@
+{
+  "knowledge_tree": {
+    "title": "古代汉语",
+    "content": "古代汉语是研究古代汉族人民语言的一门学科，主要包括文字、音韵、训诂、语法、修辞等方面。",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "文字学",
+        "content": "研究汉字的起源、演变、结构和使用规律。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "汉字的起源",
+            "content": "汉字起源于图画，经历了甲骨文、金文、小篆、隶书、楷书等演变阶段。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "甲骨文",
+                "content": "商代刻在龟甲和兽骨上的文字，是现存最早的汉字体系。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "金文",
+                "content": "商周时期铸刻在青铜器上的文字，又称钟鼎文。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "六书",
+            "content": "传统汉字构造的六种方法，包括象形、指事、会意、形声、转注、假借。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "象形",
+                "content": "通过描绘事物形状来造字，如“日”、“月”。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "指事",
+                "content": "用象征性符号表示抽象概念，如“上”、“下”。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "会意",
+                "content": "组合两个或多个字表示新义，如“明”（日+月）。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "形声",
+                "content": "由形旁和声旁组成，如“江”（氵+工）。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "音韵学",
+        "content": "研究古代汉语的语音系统及其演变规律。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "声母",
+            "content": "音节开头的辅音，古代声母系统与现代有所不同。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "韵母",
+            "content": "音节中声母后面的部分，包括韵头、韵腹、韵尾。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "声调",
+            "content": "古代汉语有平、上、去、入四个声调。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "训诂学",
+        "content": "研究古代文献中词语的意义解释和考证。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "形训",
+            "content": "通过分析字形来推求字义。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "音训",
+            "content": "通过语音关系来推求字义。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "义训",
+            "content": "直接解释词语的意义。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "语法",
+        "content": "研究古代汉语的词法、句法结构规律。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "词类",
+            "content": "古代汉语的词分为实词和虚词两大类。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "实词",
+                "content": "有实际意义的词，包括名词、动词、形容词等。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "虚词",
+                "content": "没有实际意义，主要起语法作用的词，如之、乎、者、也。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "特殊句式",
+            "content": "古代汉语特有的句式结构。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "判断句",
+                "content": "用“者...也”等结构表示判断。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "被动句",
+                "content": "用“为...所”等结构表示被动。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "宾语前置",
+                "content": "宾语放在动词之前的特殊语序。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "修辞",
+        "content": "研究古代汉语的表达技巧和修辞手法。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "比喻",
+            "content": "用相似的事物来打比方。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "对偶",
+            "content": "用字数相等、结构相似的语句表达相关或相反的意思。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "用典",
+            "content": "引用历史故事或前人语句来表达意思。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "古代汉语",
+      "tail": "文字学",
+      "relation": "包含"
+    },
+    {
+      "head": "古代汉语",
+      "tail": "音韵学",
+      "relation": "包含"
+    },
+    {
+      "head": "古代汉语",
+      "tail": "训诂学",
+      "relation": "包含"
+    },
+    {
+      "head": "古代汉语",
+      "tail": "语法",
+      "relation": "包含"
+    },
+    {
+      "head": "古代汉语",
+      "tail": "修辞",
+      "relation": "包含"
+    },
+    {
+      "head": "文字学",
+      "tail": "汉字的起源",
+      "relation": "研究内容"
+    },
+    {
+      "head": "文字学",
+      "tail": "六书",
+      "relation": "研究内容"
+    },
+    {
+      "head": "汉字的起源",
+      "tail": "甲骨文",
+      "relation": "包含"
+    },
+    {
+      "head": "汉字的起源",
+      "tail": "金文",
+      "relation": "包含"
+    },
+    {
+      "head": "六书",
+      "tail": "象形",
+      "relation": "包含"
+    },
+    {
+      "head": "六书",
+      "tail": "指事",
+      "relation": "包含"
+    },
+    {
+      "head": "六书",
+      "tail": "会意",
+      "relation": "包含"
+    },
+    {
+      "head": "六书",
+      "tail": "形声",
+      "relation": "包含"
+    },
+    {
+      "head": "音韵学",
+      "tail": "声母",
+      "relation": "研究内容"
+    },
+    {
+      "head": "音韵学",
+      "tail": "韵母",
+      "relation": "研究内容"
+    },
+    {
+      "head": "音韵学",
+      "tail": "声调",
+      "relation": "研究内容"
+    },
+    {
+      "head": "训诂学",
+      "tail": "形训",
+      "relation": "研究方法"
+    },
+    {
+      "head": "训诂学",
+      "tail": "音训",
+      "relation": "研究方法"
+    },
+    {
+      "head": "训诂学",
+      "tail": "义训",
+      "relation": "研究方法"
+    },
+    {
+      "head": "语法",
+      "tail": "词类",
+      "relation": "研究内容"
+    },
+    {
+      "head": "语法",
+      "tail": "特殊句式",
+      "relation": "研究内容"
+    },
+    {
+      "head": "词类",
+      "tail": "实词",
+      "relation": "包含"
+    },
+    {
+      "head": "词类",
+      "tail": "虚词",
+      "relation": "包含"
+    },
+    {
+      "head": "特殊句式",
+      "tail": "判断句",
+      "relation": "包含"
+    },
+    {
+      "head": "特殊句式",
+      "tail": "被动句",
+      "relation": "包含"
+    },
+    {
+      "head": "特殊句式",
+      "tail": "宾语前置",
+      "relation": "包含"
+    },
+    {
+      "head": "修辞",
+      "tail": "比喻",
+      "relation": "包含"
+    },
+    {
+      "head": "修辞",
+      "tail": "对偶",
+      "relation": "包含"
+    },
+    {
+      "head": "修辞",
+      "tail": "用典",
+      "relation": "包含"
+    },
+    {
+      "head": "六书",
+      "tail": "汉字构造",
+      "relation": "描述"
+    },
+    {
+      "head": "形声",
+      "tail": "形旁",
+      "relation": "由...组成"
+    },
+    {
+      "head": "形声",
+      "tail": "声旁",
+      "relation": "由...组成"
+    },
+    {
+      "head": "语法知识",
+      "tail": "文献阅读",
+      "relation": "应用于"
+    },
+    {
+      "head": "训诂方法",
+      "tail": "古籍解读",
+      "relation": "应用于"
+    },
+    {
+      "head": "音韵学",
+      "tail": "诗词鉴赏",
+      "relation": "应用于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:14:54",
+    "version": "1.1"
+  }
+}

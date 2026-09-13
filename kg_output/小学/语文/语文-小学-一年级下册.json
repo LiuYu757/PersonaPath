@@ -1,0 +1,125 @@
+{
+  "knowledge_tree": {
+    "title": "一年级下册语文",
+    "content": "义务教育教科书语文一年级下册，涵盖识字、阅读、口语交际等内容",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "第一单元·识字",
+        "content": "学习春夏秋冬、姓氏、动物等基础汉字",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "课文1: 春夏秋冬",
+            "content": "学习四季相关汉字和自然现象",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "生字学习",
+                "content": "霜、吹、落、降、飘、游、池、入",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "朗读背诵",
+                "content": "朗读课文，背诵课文",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "课文2: 姓氏歌",
+            "content": "学习常见姓氏及相关汉字",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "生字学习",
+                "content": "氏、什、李、张、弓、古、胡、吴、言、孙",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "姓氏介绍方法",
+                "content": "学习用不同方法介绍自己姓什么",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元·阅读",
+        "content": "培养阅读能力和情感教育",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "课文1: 热爱中国共产党",
+            "content": "培养爱国爱党情感",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "生字学习",
+                "content": "热、爱、共、产、党、太、阳、光、怀、抱、幸、福、成",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "语文园地",
+        "content": "综合性语文学习活动",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "语文园地一",
+            "content": "字词句运用和识字加油站",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "识字加油站",
+                "content": "学习新生字：识、组、计、算、减、式、图、形、卡、合、唱、团",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "春夏秋冬",
+      "tail": "四季汉字",
+      "relation": "包含"
+    },
+    {
+      "head": "姓氏歌",
+      "tail": "常见姓氏",
+      "relation": "介绍"
+    },
+    {
+      "head": "热爱中国共产党",
+      "tail": "爱国情感",
+      "relation": "培养"
+    },
+    {
+      "head": "语文园地",
+      "tail": "字词句运用",
+      "relation": "包含"
+    },
+    {
+      "head": "朗读课文",
+      "tail": "背诵课文",
+      "relation": "基础"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:03:50",
+    "version": "1.1"
+  }
+}

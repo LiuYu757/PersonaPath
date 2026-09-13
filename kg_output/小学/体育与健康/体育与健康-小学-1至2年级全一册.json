@@ -1,0 +1,475 @@
+{
+  "knowledge_tree": {
+    "title": "体育与健康-小学1至2年级全一册",
+    "content": "涵盖体育与健康基础知识、基本身体活动、体操类活动等内容",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "体育与健康基础知识",
+        "content": "健康生活方式、体育课常规、坐立行姿势、饮水健康、游戏安全、饮食健康、阳光运动、如厕卫生",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "养成健康文明的生活方式",
+            "content": "合理膳食、规律作息、坚持运动、心理健康、定期体检",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "合理膳食",
+                "content": "不偏食挑食，三餐定时定量，食物多样",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "规律作息",
+                "content": "按时完成学习任务，保证10小时睡眠",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "积极愉快地上好体育课",
+            "content": "课前请假穿运动服，课上专心听讲练习，课后不暴饮暴食",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "基本身体活动",
+        "content": "走、跑、跳跃、投掷、攀爬等基本动作与游戏",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "走与游戏",
+            "content": "自然走、大步走、前脚掌走等",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "自然走",
+                "content": "上体正直，两臂自然摆动，脚跟先着地",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "跑与游戏",
+            "content": "快速跑、接力跑、走跑交替",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "30米快速跑",
+                "content": "站立式起跑，快速摆臂蹬地",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "体操类活动",
+        "content": "队列队形、基本体操、技巧、跳绳、韵律活动",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "队列和体操队形",
+            "content": "立正稍息、看齐报数、转法步法等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "模仿操",
+            "content": "模仿摘苹果、绕电线等动作",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "拍手操",
+        "content": "在身体不同部位以击掌为节奏的徒手操，动作简单，节奏鲜明",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "预备姿势",
+            "content": "直立，为拍手操的起始动作",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "击掌部位",
+            "content": "包括胸前、腿下、体侧等不同部位的击掌动作",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "动作节奏",
+            "content": "按照音乐或口令的节奏进行击掌和身体动作",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "技巧",
+        "content": "发展支撑、滚动、平衡等动作，提高身体柔韧、协调、平衡等素质",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "仿生动作",
+            "content": "模仿动物形象的动作，如象行、兔跳",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "象行",
+                "content": "手脚同侧移动，模仿大象行走",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "兔跳",
+                "content": "蹲立蹬地，双手撑地，收腹屈腿成蹲立",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "滚动",
+            "content": "身体各部位依次接触垫子的动作，如团身滚动、直体滚动",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "团身滚动",
+                "content": "抱腿团身，向后向前滚动",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "直体滚动",
+                "content": "身体伸直，左右滚动",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "劈叉",
+            "content": "静力性技巧动作，发展柔韧性",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "纵叉",
+                "content": "两腿前后分开成直线",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "横叉",
+                "content": "两腿左右分开成直线",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "滚翻",
+            "content": "经头、肩、背、腰、臀依次着垫的动作",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "前滚翻",
+                "content": "蹲撑蹬地，团身向前滚动成蹲立",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "连续前滚翻",
+                "content": "多个前滚翻动作连贯进行",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "仰卧推起成桥",
+            "content": "仰卧推起成桥形，发展肩背、腰腹和髋部力量",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "跳绳",
+        "content": "跳短绳和跳长绳的基本动作，发展灵敏、协调等素质",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "跳短绳",
+            "content": "个人跳绳的基本动作",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "两脚依次跳",
+                "content": "两脚依次过绳，摇一次绳跳一次",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "并脚跳",
+                "content": "双脚同时起落跳过绳",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "跳长绳",
+            "content": "多人配合摇绳和跳绳",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "原地并脚跳长绳",
+                "content": "跳绳人在绳中间原地并脚跳",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "原地两脚依次跳长绳",
+                "content": "跳绳人在绳中间两脚依次跳",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "韵律活动和舞蹈",
+        "content": "在音乐伴奏下的身体表现活动，发展协调性、节奏感",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "韵律活动",
+            "content": "头、手、脚基本部位练习和模仿动作",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "头部基本动作",
+                "content": "包括正头、仰头、低头、转头、偏头",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "手的基本动作",
+                "content": "包括摊手、推指、压腕等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "脚的基本站位",
+                "content": "包括正步、小八字步、大八字步等",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "舞蹈",
+            "content": "基本舞步和集体舞",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "基本舞步",
+                "content": "包括后踢步、小碎步、跑跳步等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "集体舞",
+                "content": "如《小火车舞》、《猜拳游戏舞》等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "体育与健康基础知识",
+      "tail": "养成健康文明的生活方式",
+      "relation": "包含"
+    },
+    {
+      "head": "养成健康文明的生活方式",
+      "tail": "合理膳食",
+      "relation": "包含"
+    },
+    {
+      "head": "基本身体活动",
+      "tail": "走与游戏",
+      "relation": "包含"
+    },
+    {
+      "head": "走与游戏",
+      "tail": "自然走",
+      "relation": "包含"
+    },
+    {
+      "head": "自然走",
+      "tail": "上体正直",
+      "relation": "动作要求"
+    },
+    {
+      "head": "跑与游戏",
+      "tail": "30米快速跑",
+      "relation": "包含"
+    },
+    {
+      "head": "30米快速跑",
+      "tail": "站立式起跑",
+      "relation": "动作方法"
+    },
+    {
+      "head": "体操类活动",
+      "tail": "队列和体操队形",
+      "relation": "包含"
+    },
+    {
+      "head": "队列和体操队形",
+      "tail": "立正稍息",
+      "relation": "包含"
+    },
+    {
+      "head": "模仿操",
+      "tail": "模仿摘苹果",
+      "relation": "动作示例"
+    },
+    {
+      "head": "拍手操",
+      "tail": "击掌部位",
+      "relation": "包含"
+    },
+    {
+      "head": "拍手操",
+      "tail": "动作节奏",
+      "relation": "依赖于"
+    },
+    {
+      "head": "技巧",
+      "tail": "仿生动作",
+      "relation": "包含"
+    },
+    {
+      "head": "技巧",
+      "tail": "滚动",
+      "relation": "包含"
+    },
+    {
+      "head": "技巧",
+      "tail": "劈叉",
+      "relation": "包含"
+    },
+    {
+      "head": "技巧",
+      "tail": "滚翻",
+      "relation": "包含"
+    },
+    {
+      "head": "技巧",
+      "tail": "仰卧推起成桥",
+      "relation": "包含"
+    },
+    {
+      "head": "跳绳",
+      "tail": "跳短绳",
+      "relation": "包含"
+    },
+    {
+      "head": "跳绳",
+      "tail": "跳长绳",
+      "relation": "包含"
+    },
+    {
+      "head": "韵律活动和舞蹈",
+      "tail": "韵律活动",
+      "relation": "包含"
+    },
+    {
+      "head": "韵律活动和舞蹈",
+      "tail": "舞蹈",
+      "relation": "包含"
+    },
+    {
+      "head": "前滚翻",
+      "tail": "团身滚动",
+      "relation": "基于"
+    },
+    {
+      "head": "连续前滚翻",
+      "tail": "前滚翻",
+      "relation": "扩展自"
+    },
+    {
+      "head": "纵叉",
+      "tail": "横叉",
+      "relation": "类似动作"
+    },
+    {
+      "head": "跳短绳",
+      "tail": "两脚依次跳",
+      "relation": "包含"
+    },
+    {
+      "head": "跳短绳",
+      "tail": "并脚跳",
+      "relation": "包含"
+    },
+    {
+      "head": "跳长绳",
+      "tail": "原地并脚跳长绳",
+      "relation": "包含"
+    },
+    {
+      "head": "跳长绳",
+      "tail": "原地两脚依次跳长绳",
+      "relation": "包含"
+    },
+    {
+      "head": "韵律活动",
+      "tail": "头部基本动作",
+      "relation": "包含"
+    },
+    {
+      "head": "韵律活动",
+      "tail": "手的基本动作",
+      "relation": "包含"
+    },
+    {
+      "head": "韵律活动",
+      "tail": "脚的基本站位",
+      "relation": "包含"
+    },
+    {
+      "head": "舞蹈",
+      "tail": "基本舞步",
+      "relation": "包含"
+    },
+    {
+      "head": "舞蹈",
+      "tail": "集体舞",
+      "relation": "包含"
+    }
+  ],
+  "metadata": {
+    "chunks_merged": 2,
+    "generated_at": "2025-11-12 22:36:42",
+    "version": "1.1"
+  }
+}

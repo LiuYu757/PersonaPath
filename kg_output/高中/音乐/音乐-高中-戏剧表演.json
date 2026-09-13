@@ -1,0 +1,435 @@
+{
+  "knowledge_tree": {
+    "title": "音乐-高中-戏剧表演",
+    "content": "普通高中教科书《音乐：选择性必修·戏剧表演》核心知识体系，涵盖戏剧表演概述、配乐朗诵、课本剧、话剧、音乐剧、歌剧、戏曲等模块",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "戏剧表演概述",
+        "content": "戏剧的定义、分类及表演基本训练与流程",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "戏剧的定义与分类",
+            "content": "狭义指话剧，广义包括话剧、戏曲、音乐剧、歌剧、舞剧等；按类型分为悲剧、喜剧、正剧；按题材分为神话剧、历史剧等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "表演基本训练",
+            "content": "包括语言发声训练（元音发音、共鸣位置等）、形体训练（芭蕾、戏曲身段等）、表演训练（人物模拟、动物模拟等）",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "表演流程",
+            "content": "角色分析→角色构思→角色体现，从剧本分析到舞台表演",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "戏剧团队构成",
+            "content": "编剧提供文学基础，导演统筹协调，演员表演角色，设计团队负责舞台美术、灯光、造型等",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "配乐朗诵",
+        "content": "将文学作品搭配音乐朗诵的艺术形式",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "配乐朗诵概述",
+            "content": "通过音乐烘托文学作品的情感与意境，增强感染力",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "配乐选择方法",
+            "content": "先反复朗诵体会作品，划分情绪段落，选取风格匹配的音乐片段，调整长度并合成",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "作品鉴赏与排演",
+            "content": "如《黄河之水天上来》，注重情感、声音、气息与音乐的配合",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《黄河之水天上来》朗诵技巧",
+                "content": "高潮部分需结合语气、音调变化展现爱国情怀",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "课本剧",
+        "content": "将叙事性课文改编为剧本并表演的校园艺术形式",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "课本剧概述",
+            "content": "通过戏剧形式生动呈现课文内容，寓教于乐",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "编创要点",
+            "content": "把握时空凝聚、设置矛盾冲突、编写口语化台词",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "作品排演",
+            "content": "如《祝福》《荆轲刺秦王》，需研读原文、设计动作、搭配音乐",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《荆轲刺秦王》排演",
+                "content": "依据场景气氛配乐，设计符合历史背景的表演动作",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "话剧",
+        "content": "以对话和动作为主要表现手段的戏剧形式",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "话剧特征",
+            "content": "舞台性、直观性、综合性、对话性",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "话剧赏析方法",
+            "content": "了解剧本故事、人物塑造、设计团队配合及观众交流",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "作品鉴赏",
+            "content": "如《茶馆》《哈姆雷特》，注重语言风格与戏剧结构",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《茶馆》第一幕特点",
+                "content": "卷轴式结构，个性化语言展现清末社会面貌",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "《哈姆雷特》戏中戏",
+                "content": "套叠结构展现角色心理，语言亦真亦假",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "话剧排演",
+            "content": "如《知己》，需分析人物变化，设计台词与行动",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "音乐剧",
+        "content": "结合音乐、歌曲、舞蹈和对白的戏剧表演艺术",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "音乐剧起源与发展",
+            "content": "20世纪初起源于美国，以《演艺船》为里程碑，后发展至百老汇与伦敦西区",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "音乐剧创作与表演",
+            "content": "剧作者、词作者、作曲家合作；表演需融合演唱、舞蹈、戏剧元素",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "作品鉴赏",
+            "content": "如《孤独的牧羊人》《苦囚之歌》，注重音乐与剧情的结合",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《孤独的牧羊人》演唱特点",
+                "content": "使用约德尔唱法，真假声转换营造欢快气氛",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "《苦囚之歌》合唱处理",
+                "content": "劳动号子式男声合唱展现压抑氛围",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音乐剧排演",
+            "content": "如《听吧，人民在歌唱》，需理解场景、情绪，加入肢体动作合成",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "歌剧",
+        "content": "以音乐为主导的综合戏剧艺术，包含声乐与器乐",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "歌剧诞生与发展",
+            "content": "16世纪末意大利起源，20世纪中国民族歌剧如《白毛女》标志诞生",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "歌剧赏析要素",
+            "content": "关注唱段（宣叙调、咏叹调、重唱、合唱）、美声唱法、声部划分、器乐及剧场",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "作品鉴赏",
+            "content": "如《你那颗冰冷的心》《北风吹》，注重声乐技术与情感表达",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "《你那颗冰冷的心》演唱要求",
+                "content": "女高音需声音张力与感情投入塑造悲剧人物",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "《北风吹》民族风格",
+                "content": "融合西洋与中国戏曲唱法，下行旋律带忧伤情绪",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "歌剧排演",
+            "content": "如《饮酒歌》《绣红旗》，需分工角色、学唱唱段、设计舞台",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "《饮酒歌》排演要点",
+                "content": "三拍子舞蹈辅助，中文演唱注意韵脚与气息",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "《绣红旗》情感处理",
+                "content": "通过唱词与动作展现共产党员的英勇形象",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "戏曲",
+        "content": "中国传统舞台艺术，集文学、音乐、舞蹈、美术等于一体",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "戏曲艺术特征",
+            "content": "综合性、程式性、虚拟性",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "戏曲表演与行当",
+            "content": "唱念做打四功；生旦净丑四行当",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "唱念做打定义",
+                "content": "唱指唱功，念指念白（韵白/散白），做指形体动作，打指武功",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "行当分类",
+                "content": "生分老生、小生等；旦分青衣、花旦等；净以脸谱颜色辨性格；丑分文丑、武丑等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "作品鉴赏",
+            "content": "如《姹紫嫣红开遍》《三岔口》，注重身段与虚拟表演",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《姹紫嫣红开遍》表演特点",
+                "content": "昆曲身段配合词句音乐展现幽怨情感",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "《三岔口》虚拟性",
+                "content": "无实物表演展现黑暗中打斗，武场伴奏配合动作",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "戏曲排演",
+            "content": "如《封金育子》《砸缸》，需分角色练习念白唱腔、设计神态动作",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "《封金育子》行当表现",
+                "content": "郑氏为青衣重唱，三子为娃娃生重念白与动作",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "《砸缸》曲剧特点",
+                "content": "北京曲剧注重念白节奏与唱腔字正腔圆",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "戏剧表演",
+      "tail": "话剧",
+      "relation": "包含"
+    },
+    {
+      "head": "戏剧表演",
+      "tail": "戏曲",
+      "relation": "包含"
+    },
+    {
+      "head": "戏剧表演",
+      "tail": "音乐剧",
+      "relation": "包含"
+    },
+    {
+      "head": "戏剧表演",
+      "tail": "歌剧",
+      "relation": "包含"
+    },
+    {
+      "head": "配乐朗诵",
+      "tail": "音乐",
+      "relation": "应用于"
+    },
+    {
+      "head": "配乐朗诵",
+      "tail": "文学作品",
+      "relation": "应用于"
+    },
+    {
+      "head": "课本剧",
+      "tail": "课文改编",
+      "relation": "基于"
+    },
+    {
+      "head": "话剧",
+      "tail": "对话",
+      "relation": "以...为主要手段"
+    },
+    {
+      "head": "话剧",
+      "tail": "动作",
+      "relation": "以...为主要手段"
+    },
+    {
+      "head": "音乐剧",
+      "tail": "歌曲",
+      "relation": "结合"
+    },
+    {
+      "head": "音乐剧",
+      "tail": "舞蹈",
+      "relation": "结合"
+    },
+    {
+      "head": "歌剧",
+      "tail": "美声唱法",
+      "relation": "使用"
+    },
+    {
+      "head": "歌剧",
+      "tail": "宣叙调",
+      "relation": "包含"
+    },
+    {
+      "head": "歌剧",
+      "tail": "咏叹调",
+      "relation": "包含"
+    },
+    {
+      "head": "戏曲",
+      "tail": "唱念做打",
+      "relation": "表演基本功"
+    },
+    {
+      "head": "戏曲",
+      "tail": "生旦净丑",
+      "relation": "行当分类"
+    },
+    {
+      "head": "虚拟性",
+      "tail": "戏曲",
+      "relation": "是...的特征"
+    },
+    {
+      "head": "程式性",
+      "tail": "戏曲",
+      "relation": "是...的特征"
+    },
+    {
+      "head": "《黄河之水天上来》",
+      "tail": "配乐朗诵",
+      "relation": "是...的范例"
+    },
+    {
+      "head": "《茶馆》",
+      "tail": "话剧",
+      "relation": "是...的代表作"
+    },
+    {
+      "head": "《饮酒歌》",
+      "tail": "歌剧",
+      "relation": "是...的选曲"
+    },
+    {
+      "head": "《姹紫嫣红开遍》",
+      "tail": "昆曲",
+      "relation": "属于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:03:22",
+    "version": "1.1"
+  }
+}

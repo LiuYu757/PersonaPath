@@ -1,0 +1,330 @@
+{
+  "knowledge_tree": {
+    "title": "一年级数学下册",
+    "content": "包含100以内数的认识、20以内的退位减法、分类与整理、认识人民币、100以内的加法和减法（一）、找规律等内容",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "100以内数的认识",
+        "content": "认识100以内的数，包括数数、数的组成、数的顺序和比较大小",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "数数",
+            "content": "十根十根地数，10个十是一百",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "数的组成",
+            "content": "理解数的组成，如35由3个十和5个一组成",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "数的读写",
+            "content": "读数和写数都从高位起，如100读作一百",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "数的顺序",
+            "content": "掌握100以内数的顺序，发现数字排列规律",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "比较大小",
+            "content": "比较100以内数的大小，理解多一些、少一些、多得多、少得多的概念",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "20以内的退位减法",
+        "content": "学习20以内的退位减法计算方法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "十几减9",
+            "content": "计算十几减9的减法，如15-9=6",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "十几减8、7、6",
+            "content": "计算十几减8、7、6的减法，如12-8=4",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "十几减5、4、3、2",
+            "content": "计算十几减5、4、3、2的减法，如12-5=7",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "解决问题",
+            "content": "运用退位减法解决实际问题",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "分类与整理",
+        "content": "学习按不同标准对物品进行分类和整理",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "按形状分类",
+            "content": "按物体的形状进行分类，如圆形、三角形等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "按颜色分类",
+            "content": "按物体的颜色进行分类",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "制作统计表",
+            "content": "将分类结果用统计表表示",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "认识人民币",
+        "content": "认识人民币的单位和面值，进行简单的计算",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "人民币单位",
+            "content": "认识元、角、分，知道1元=10角，1角=10分",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "人民币换算",
+            "content": "进行元、角、分之间的换算，如1元2角=12角",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "简单计算",
+            "content": "进行人民币的简单加减计算",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "100以内的加法和减法",
+        "content": "学习100以内的加法和减法计算",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "整十数加减整十数",
+            "content": "计算整十数加减整十数，如30+20=50",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "两位数加一位数",
+            "content": "计算两位数加一位数，如26+2=28",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "两位数加整十数",
+            "content": "计算两位数加整十数，如26+20=46",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "两位数减一位数",
+            "content": "计算两位数减一位数，如35-2=33",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "两位数减整十数",
+            "content": "计算两位数减整十数，如35-20=15",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "找规律",
+        "content": "发现数字、图形和颜色的排列规律",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "数字规律",
+            "content": "发现数字序列中的规律，如2,4,6,8,...",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "图形规律",
+            "content": "发现图形排列的规律",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "颜色规律",
+            "content": "发现颜色排列的规律",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "100以内数的认识",
+      "tail": "数数",
+      "relation": "包含"
+    },
+    {
+      "head": "100以内数的认识",
+      "tail": "数的组成",
+      "relation": "包含"
+    },
+    {
+      "head": "100以内数的认识",
+      "tail": "数的读写",
+      "relation": "包含"
+    },
+    {
+      "head": "100以内数的认识",
+      "tail": "数的顺序",
+      "relation": "包含"
+    },
+    {
+      "head": "100以内数的认识",
+      "tail": "比较大小",
+      "relation": "包含"
+    },
+    {
+      "head": "20以内的退位减法",
+      "tail": "十几减9",
+      "relation": "包含"
+    },
+    {
+      "head": "20以内的退位减法",
+      "tail": "十几减8、7、6",
+      "relation": "包含"
+    },
+    {
+      "head": "20以内的退位减法",
+      "tail": "十几减5、4、3、2",
+      "relation": "包含"
+    },
+    {
+      "head": "20以内的退位减法",
+      "tail": "解决问题",
+      "relation": "应用于"
+    },
+    {
+      "head": "分类与整理",
+      "tail": "按形状分类",
+      "relation": "包含"
+    },
+    {
+      "head": "分类与整理",
+      "tail": "按颜色分类",
+      "relation": "包含"
+    },
+    {
+      "head": "分类与整理",
+      "tail": "制作统计表",
+      "relation": "应用于"
+    },
+    {
+      "head": "认识人民币",
+      "tail": "人民币单位",
+      "relation": "包含"
+    },
+    {
+      "head": "认识人民币",
+      "tail": "人民币换算",
+      "relation": "基于"
+    },
+    {
+      "head": "认识人民币",
+      "tail": "简单计算",
+      "relation": "应用于"
+    },
+    {
+      "head": "100以内的加法和减法",
+      "tail": "整十数加减整十数",
+      "relation": "包含"
+    },
+    {
+      "head": "100以内的加法和减法",
+      "tail": "两位数加一位数",
+      "relation": "包含"
+    },
+    {
+      "head": "100以内的加法和减法",
+      "tail": "两位数加整十数",
+      "relation": "包含"
+    },
+    {
+      "head": "100以内的加法和减法",
+      "tail": "两位数减一位数",
+      "relation": "包含"
+    },
+    {
+      "head": "100以内的加法和减法",
+      "tail": "两位数减整十数",
+      "relation": "包含"
+    },
+    {
+      "head": "找规律",
+      "tail": "数字规律",
+      "relation": "包含"
+    },
+    {
+      "head": "找规律",
+      "tail": "图形规律",
+      "relation": "包含"
+    },
+    {
+      "head": "找规律",
+      "tail": "颜色规律",
+      "relation": "包含"
+    },
+    {
+      "head": "数的组成",
+      "tail": "数的读写",
+      "relation": "基础"
+    },
+    {
+      "head": "人民币单位",
+      "tail": "人民币换算",
+      "relation": "基础"
+    },
+    {
+      "head": "整十数加减整十数",
+      "tail": "两位数加整十数",
+      "relation": "基础"
+    },
+    {
+      "head": "整十数加减整十数",
+      "tail": "两位数减整十数",
+      "relation": "基础"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:18:39",
+    "version": "1.1"
+  }
+}

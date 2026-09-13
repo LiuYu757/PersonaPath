@@ -1,0 +1,497 @@
+{
+  "knowledge_tree": {
+    "title": "人力资源管理概论",
+    "content": "人力资源管理的基本概念、理论、职能与实践",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "人力资源与人力资源管理概述",
+        "content": "人力资源的定义、特性及人力资源管理的概念、功能与发展",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "人力资源概述",
+            "content": "人力资源是指能够推动整个经济和社会发展的具有智力劳动和体力劳动能力的人们的总和",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "人力资源的定义",
+                "content": "人力资源是存在于人体的智力资源和体力资源的总和",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "人力资源的特性",
+                "content": "能动性、时效性、增值性、社会性、可变性",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "人力资源管理概述",
+            "content": "对人力资源进行有效开发、合理配置、充分利用和科学管理的制度、程序和方法的总和",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "人力资源管理的功能",
+                "content": "获取、整合、保持与激励、控制与调整、开发",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "人力资源管理的发展阶段",
+                "content": "人事管理阶段、人力资源管理阶段、战略性人力资源管理阶段",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "战略性人力资源管理",
+            "content": "将人力资源管理与组织战略目标相结合，提升组织竞争力",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "战略性人力资源管理的特征",
+                "content": "战略性、系统性、匹配性、目标导向性",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "人力资源管理的理论基础",
+        "content": "人性假设理论、激励理论及人力资源管理环境分析",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "人性假设理论",
+            "content": "经济人、社会人、自我实现人、复杂人假设",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "激励理论",
+            "content": "内容型激励理论、过程型激励理论、行为改造型激励理论",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "内容型激励理论",
+                "content": "马斯洛需求层次理论、赫茨伯格双因素理论",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "过程型激励理论",
+                "content": "期望理论、公平理论、目标设置理论",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "人力资源管理的环境",
+            "content": "内部环境与外部环境对人力资源管理的影响",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "人力资源管理的组织基础",
+        "content": "组织文化、组织结构及人力资源管理部门的角色",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "组织文化",
+            "content": "组织成员共同遵循的价值观念、行为准则和思维方式",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "组织结构",
+            "content": "组织内部各部门、各岗位的相互关系及权责分配形式",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "人力资源管理者和人力资源管理部门",
+            "content": "HRM部门的职能定位、角色演变及专业能力要求",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "职位分析与胜任素质模型",
+        "content": "职位分析的方法、职位说明书的编写及胜任素质模型的构建",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "职位分析概述",
+            "content": "系统收集、分析职位相关信息的过程",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "职位分析的具体实施",
+            "content": "准备阶段、调查阶段、分析阶段、完成阶段",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "职位说明书的编写",
+            "content": "职位标识、职位概要、职责要求、任职资格等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "胜任素质模型",
+            "content": "冰山模型：知识、技能、社会角色、自我概念、特质、动机",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "人力资源规划",
+        "content": "人力资源需求预测、供给预测及供需平衡策略",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "人力资源规划概述",
+            "content": "确保组织在适当时间、适当岗位获得适当数量和质量的人力资源",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "人力资源需求预测",
+            "content": "德尔菲法、趋势预测法、回归分析法等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "人力资源供给预测",
+            "content": "内部供给预测（人员替换法、马尔可夫模型）与外部供给预测",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "人力资源供需平衡",
+            "content": "供大于求（裁员、减薪）与供小于求（招聘、加班）的应对策略",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "员工招聘",
+        "content": "招募渠道、甄选方法及招聘评估",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "员工招聘概述",
+            "content": "吸引、筛选并录用合适人选的过程",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "招募的渠道与方法",
+            "content": "内部招募（晋升、调岗）与外部招募（招聘会、网络招聘）",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "员工甄选",
+            "content": "笔试、面试、心理测试、评价中心技术等",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "职业生涯规划与管理",
+        "content": "职业生涯理论、个人职业生涯规划与组织职业生涯管理",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "职业生涯规划与职业生涯管理概述",
+            "content": "个人与组织共同参与的职业发展活动",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "职业生涯规划与管理的基本理论",
+            "content": "霍兰德职业兴趣理论、舒伯生涯发展阶段理论",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "职业生涯规划",
+            "content": "自我评估、职业目标设定、行动计划制定",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "职业生涯管理",
+            "content": "职业路径设计、导师制、继任计划等",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "培训与开发",
+        "content": "培训需求分析、培训方法选择及培训效果评估",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "培训与开发概述",
+            "content": "提升员工知识、技能、态度以胜任当前或未来工作",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "培训与开发工作的具体实施",
+            "content": "需求分析、计划制定、实施、评估（柯氏四级评估模型）",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "培训与开发的主要方法",
+            "content": "讲授法、案例分析法、角色扮演法、在线学习等",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "绩效管理",
+        "content": "绩效计划、绩效监控、绩效考核与绩效反馈的循环过程",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "绩效管理概述",
+            "content": "持续沟通、目标设定、绩效评价与改进的系统过程",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "绩效计划",
+            "content": "设定绩效目标、指标及标准（SMART原则）",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "绩效监控",
+            "content": "持续跟踪绩效进展、提供辅导与支持",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "绩效考核",
+            "content": "KPI、BSC、360度反馈等考核方法",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "绩效反馈",
+            "content": "绩效面谈、结果应用（薪酬、晋升、培训）",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "薪酬管理",
+        "content": "薪酬体系设计、薪酬结构及福利管理",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "薪酬管理概述",
+            "content": "薪酬的构成、功能及薪酬管理的基本原则",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "基本薪酬",
+            "content": "职位薪酬体系、能力薪酬体系、宽带薪酬",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "可变薪酬",
+            "content": "绩效奖金、利润分享、股票期权等",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "福利",
+            "content": "法定福利（五险一金）与自愿福利（企业年金、员工援助计划）",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "员工关系管理",
+        "content": "劳动关系、劳动保护及员工沟通与冲突处理",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "员工关系概述",
+            "content": "员工与组织之间的正式与非正式关系",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "劳动关系",
+            "content": "劳动合同、集体谈判、劳动争议处理",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "劳动保护",
+            "content": "安全生产、职业病防治、员工援助计划（EAP）",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "人力资源管理",
+      "tail": "战略性人力资源管理",
+      "relation": "包含"
+    },
+    {
+      "head": "战略性人力资源管理",
+      "tail": "组织战略目标",
+      "relation": "服务于"
+    },
+    {
+      "head": "人性假设理论",
+      "tail": "激励理论",
+      "relation": "影响"
+    },
+    {
+      "head": "激励理论",
+      "tail": "内容型激励理论",
+      "relation": "包含"
+    },
+    {
+      "head": "内容型激励理论",
+      "tail": "马斯洛需求层次理论",
+      "relation": "包含"
+    },
+    {
+      "head": "组织文化",
+      "tail": "人力资源管理",
+      "relation": "影响"
+    },
+    {
+      "head": "职位分析",
+      "tail": "职位说明书",
+      "relation": "产出"
+    },
+    {
+      "head": "胜任素质模型",
+      "tail": "冰山模型",
+      "relation": "基于"
+    },
+    {
+      "head": "人力资源规划",
+      "tail": "人力资源需求预测",
+      "relation": "包含"
+    },
+    {
+      "head": "人力资源规划",
+      "tail": "人力资源供给预测",
+      "relation": "包含"
+    },
+    {
+      "head": "员工招聘",
+      "tail": "员工甄选",
+      "relation": "包含"
+    },
+    {
+      "head": "职业生涯规划",
+      "tail": "职业生涯管理",
+      "relation": "关联"
+    },
+    {
+      "head": "培训与开发",
+      "tail": "柯氏四级评估模型",
+      "relation": "应用于"
+    },
+    {
+      "head": "绩效管理",
+      "tail": "绩效计划",
+      "relation": "包含"
+    },
+    {
+      "head": "绩效管理",
+      "tail": "绩效反馈",
+      "relation": "包含"
+    },
+    {
+      "head": "薪酬管理",
+      "tail": "基本薪酬",
+      "relation": "包含"
+    },
+    {
+      "head": "薪酬管理",
+      "tail": "可变薪酬",
+      "relation": "包含"
+    },
+    {
+      "head": "员工关系管理",
+      "tail": "劳动关系",
+      "relation": "包含"
+    },
+    {
+      "head": "员工关系管理",
+      "tail": "劳动保护",
+      "relation": "包含"
+    },
+    {
+      "head": "人力资源管理",
+      "tail": "职位分析",
+      "relation": "基础职能"
+    },
+    {
+      "head": "人力资源管理",
+      "tail": "员工招聘",
+      "relation": "基础职能"
+    },
+    {
+      "head": "人力资源管理",
+      "tail": "培训与开发",
+      "relation": "基础职能"
+    },
+    {
+      "head": "人力资源管理",
+      "tail": "绩效管理",
+      "relation": "基础职能"
+    },
+    {
+      "head": "人力资源管理",
+      "tail": "薪酬管理",
+      "relation": "基础职能"
+    },
+    {
+      "head": "人力资源管理",
+      "tail": "员工关系管理",
+      "relation": "基础职能"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:26:51",
+    "version": "1.1"
+  }
+}

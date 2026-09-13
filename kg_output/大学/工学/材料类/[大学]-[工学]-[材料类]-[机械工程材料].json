@@ -1,0 +1,677 @@
+{
+  "knowledge_tree": {
+    "title": "机械工程材料",
+    "content": "研究机械工程中常用材料的成分、组织、性能、应用及其相互关系，以及材料加工工艺对性能影响的学科。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "材料的结构",
+        "content": "材料内部原子、分子的排列方式，决定了材料的基本性能。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "晶体结构",
+            "content": "原子在三维空间呈周期性规则排列的固体物质结构。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "晶格与晶胞",
+                "content": "晶格是描述原子排列规律的空间格子；晶胞是能代表晶格结构特征的最小几何单元。",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "体心立方晶格 (BCC)",
+                    "content": "晶胞立方体的八个顶点和中心各有一个原子，如α-Fe、Cr、W等。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "面心立方晶格 (FCC)",
+                    "content": "晶胞立方体的八个顶点和六个面的中心各有一个原子，如γ-Fe、Al、Cu、Au等。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "密排六方晶格 (HCP)",
+                    "content": "由两个六边形底面和一个中间层原子构成，如Mg、Zn、Cd等。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "晶体缺陷",
+                "content": "实际晶体中原子排列的不完整性，对材料的力学、物理性能有显著影响。",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "点缺陷",
+                    "content": "在三维尺度上都很小的缺陷，如空位、间隙原子、置换原子。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "线缺陷",
+                    "content": "一维尺度上呈线状分布的缺陷，主要指位错。",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "面缺陷",
+                    "content": "二维尺度上呈面状分布的缺陷，如晶界、相界。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "材料的凝固",
+            "content": "物质从液态转变为固态的过程，通常伴随着晶体的形成（结晶）。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "结晶的基本过程",
+                "content": "包括形核和长大两个阶段。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "过冷度",
+                "content": "理论结晶温度与实际结晶温度之差，是结晶的驱动力。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "同素异构转变",
+                "content": "固态下晶体结构随温度或压力发生改变的现象，如铁在不同温度下的α-Fe（BCC）和γ-Fe（FCC）转变。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "材料的性能",
+        "content": "材料在给定条件下所表现出来的行为特性，是选材和设计的依据。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "力学性能",
+            "content": "材料在外力作用下所表现出来的性能。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "强度",
+                "content": "材料抵抗塑性变形和断裂的能力。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "屈服强度 (σs)",
+                    "content": "材料开始发生明显塑性变形时的应力值。公式：σs = Fs / A0 (Fs为屈服载荷，A0为原始截面积)。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "抗拉强度 (σb)",
+                    "content": "材料在断裂前所能承受的最大应力值。公式：σb = Fb / A0 (Fb为最大载荷)。",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "塑性",
+                "content": "材料产生塑性变形而不破坏的能力。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "断后伸长率 (δ)",
+                    "content": "试样拉断后标距的伸长量与原始标距的百分比。公式：δ = (L1 - L0) / L0 × 100%。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "断面收缩率 (ψ)",
+                    "content": "试样拉断后颈缩处横截面积的最大缩减量与原始横截面积的百分比。公式：ψ = (A0 - A1) / A0 × 100%。",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "硬度",
+                "content": "材料表面抵抗局部塑性变形、压痕或划痕的能力。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "布氏硬度 (HBW)",
+                    "content": "用一定直径的硬质合金球压头，施加规定试验力，保持规定时间后，测量压痕直径计算硬度值。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "洛氏硬度 (HRC, HRB等)",
+                    "content": "用金刚石圆锥或钢球压头，先施加初试验力，再施加主试验力，然后卸除主试验力，由压痕深度残余增量计算硬度值。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "维氏硬度 (HV)",
+                    "content": "用相对面夹角为136°的正四棱锥金刚石压头，施加试验力，保持规定时间后，测量压痕对角线长度计算硬度值。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "冲击韧性 (aku)",
+                "content": "材料在冲击载荷作用下吸收塑性变形功和断裂功的能力，常用夏比缺口冲击试验测定。公式：aku = Ak / A (Ak为冲击吸收能量，A为试样缺口处截面积)。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "疲劳强度",
+                "content": "材料在交变应力作用下，经受无限次循环而不发生断裂的最大应力值。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "物理与化学性能",
+            "content": "材料固有的属性，如密度、熔点、热膨胀性、导电性、导热性、耐腐蚀性等。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "热膨胀系数",
+                "content": "温度每升高1℃时，单位长度材料的伸长量。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电导率",
+                "content": "衡量材料导电能力的参数。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "耐腐蚀性",
+                "content": "材料抵抗周围介质（大气、水、酸、碱、盐等）腐蚀作用的能力。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "金属材料",
+        "content": "由金属元素或以金属元素为主构成的具有金属特性的材料。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "铁碳合金",
+            "content": "以铁和碳为基本组元的合金，是钢铁材料的基础。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "铁碳相图",
+                "content": "表示在平衡条件下，铁碳合金的成分、温度与组织之间关系的图形。",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "关键点 (如共晶点、共析点)",
+                    "content": "相图中代表特定恒温转变的反应点。",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "关键线 (如A1, A3, Acm线)",
+                    "content": "相图中代表相变温度的界线。",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "基本相 (铁素体、奥氏体、渗碳体)",
+                    "content": "铁碳合金中具有相同结构、成分和性能的均匀组成部分。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "碳钢",
+                "content": "含碳量一般为0.0218%~2.11%的铁碳合金。按含碳量分为低碳钢、中碳钢、高碳钢。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "铸铁",
+                "content": "含碳量大于2.11%的铁碳合金，其碳主要以石墨形式存在。分为灰铸铁、球墨铸铁、可锻铸铁等。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "合金钢",
+            "content": "为改善钢的某些性能，在碳钢基础上特意加入一种或多种合金元素的钢。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "合金元素的作用",
+                "content": "合金元素通过影响相变、形成化合物、固溶强化等机制改变钢的组织和性能。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "典型合金钢",
+                "content": "如合金结构钢（用于制造重要零件）、合金工具钢（用于制造刀具、模具）、特殊性能钢（如不锈钢、耐热钢）。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "有色金属及其合金",
+            "content": "除铁、铬、锰以外的所有金属及其合金。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "铝合金",
+                "content": "以铝为基的合金总称，具有密度小、比强度高的特点。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "铜合金",
+                "content": "以铜为基的合金总称，具有良好的导电导热性和耐腐蚀性。如黄铜（Cu-Zn合金）、青铜（Cu-Sn合金等）。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "材料的热处理",
+        "content": "采用适当的方式对金属材料或工件进行加热、保温和冷却，以获得预期的组织结构与性能的工艺。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "钢的普通热处理",
+            "content": "主要包括退火、正火、淬火、回火。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "退火",
+                "content": "将工件加热到适当温度，保持一定时间，然后缓慢冷却（通常是随炉冷却）的热处理工艺。目的是降低硬度、细化晶粒、消除内应力。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "正火",
+                "content": "将工件加热到奥氏体化温度以上适当温度，保温后在空气中冷却的热处理工艺。目的是细化晶粒，均匀组织，消除带状组织。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "淬火",
+                "content": "将工件加热到奥氏体化温度以上，保温后以大于临界冷却速度快速冷却，以获得马氏体或贝氏体组织的热处理工艺。目的是显著提高钢的硬度、强度和耐磨性。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "回火",
+                "content": "将淬火后的工件加热到Ac1以下某一温度，保温一定时间，然后冷却到室温的热处理工艺。目的是消除或减少淬火应力，稳定组织，调整性能。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "热处理工艺曲线",
+            "content": "表示热处理过程中温度与时间关系的曲线，包括加热速度、加热温度、保温时间、冷却速度等参数。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "机械工程材料课程中常见的题目类型，用于巩固和应用所学知识。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "晶体结构计算",
+            "content": "根据晶胞参数计算原子半径、配位数、致密度等。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "铁碳相图分析",
+            "content": "给定铁碳合金的成分和温度，分析其平衡组织组成物及各相的相对量（应用杠杆定律）。",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "力学性能指标计算与比较",
+            "content": "根据拉伸试验数据计算强度、塑性指标，或比较不同热处理状态下材料的硬度、韧性等。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "材料选择与热处理工艺制定",
+            "content": "根据零件的工作条件、性能要求，选择合适的材料并制定合理的热处理工艺路线。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "机械工程材料",
+      "tail": "材料的结构",
+      "relation": "研究基础"
+    },
+    {
+      "head": "机械工程材料",
+      "tail": "材料的性能",
+      "relation": "研究核心"
+    },
+    {
+      "head": "机械工程材料",
+      "tail": "金属材料",
+      "relation": "主要研究对象"
+    },
+    {
+      "head": "机械工程材料",
+      "tail": "材料的热处理",
+      "relation": "重要加工手段"
+    },
+    {
+      "head": "材料的结构",
+      "tail": "晶体结构",
+      "relation": "包含"
+    },
+    {
+      "head": "晶体结构",
+      "tail": "晶格与晶胞",
+      "relation": "基本描述单元"
+    },
+    {
+      "head": "晶格与晶胞",
+      "tail": "体心立方晶格 (BCC)",
+      "relation": "具体类型"
+    },
+    {
+      "head": "晶格与晶胞",
+      "tail": "面心立方晶格 (FCC)",
+      "relation": "具体类型"
+    },
+    {
+      "head": "晶格与晶胞",
+      "tail": "密排六方晶格 (HCP)",
+      "relation": "具体类型"
+    },
+    {
+      "head": "晶体结构",
+      "tail": "晶体缺陷",
+      "relation": "包含"
+    },
+    {
+      "head": "晶体缺陷",
+      "tail": "点缺陷",
+      "relation": "具体类型"
+    },
+    {
+      "head": "晶体缺陷",
+      "tail": "线缺陷",
+      "relation": "具体类型"
+    },
+    {
+      "head": "晶体缺陷",
+      "tail": "面缺陷",
+      "relation": "具体类型"
+    },
+    {
+      "head": "材料的结构",
+      "tail": "材料的凝固",
+      "relation": "形成过程"
+    },
+    {
+      "head": "材料的凝固",
+      "tail": "结晶的基本过程",
+      "relation": "核心步骤"
+    },
+    {
+      "head": "材料的凝固",
+      "tail": "过冷度",
+      "relation": "驱动力"
+    },
+    {
+      "head": "材料的凝固",
+      "tail": "同素异构转变",
+      "relation": "固态相变特例"
+    },
+    {
+      "head": "材料的性能",
+      "tail": "力学性能",
+      "relation": "主要类别"
+    },
+    {
+      "head": "材料的性能",
+      "tail": "物理与化学性能",
+      "relation": "主要类别"
+    },
+    {
+      "head": "力学性能",
+      "tail": "强度",
+      "relation": "关键指标"
+    },
+    {
+      "head": "强度",
+      "tail": "屈服强度 (σs)",
+      "relation": "具体指标"
+    },
+    {
+      "head": "强度",
+      "tail": "抗拉强度 (σb)",
+      "relation": "具体指标"
+    },
+    {
+      "head": "力学性能",
+      "tail": "塑性",
+      "relation": "关键指标"
+    },
+    {
+      "head": "塑性",
+      "tail": "断后伸长率 (δ)",
+      "relation": "具体指标"
+    },
+    {
+      "head": "塑性",
+      "tail": "断面收缩率 (ψ)",
+      "relation": "具体指标"
+    },
+    {
+      "head": "力学性能",
+      "tail": "硬度",
+      "relation": "关键指标"
+    },
+    {
+      "head": "硬度",
+      "tail": "布氏硬度 (HBW)",
+      "relation": "测量方法"
+    },
+    {
+      "head": "硬度",
+      "tail": "洛氏硬度 (HRC, HRB等)",
+      "relation": "测量方法"
+    },
+    {
+      "head": "硬度",
+      "tail": "维氏硬度 (HV)",
+      "relation": "测量方法"
+    },
+    {
+      "head": "力学性能",
+      "tail": "冲击韧性 (aku)",
+      "relation": "关键指标"
+    },
+    {
+      "head": "力学性能",
+      "tail": "疲劳强度",
+      "relation": "关键指标"
+    },
+    {
+      "head": "金属材料",
+      "tail": "铁碳合金",
+      "relation": "核心体系"
+    },
+    {
+      "head": "铁碳合金",
+      "tail": "铁碳相图",
+      "relation": "理论基础"
+    },
+    {
+      "head": "铁碳相图",
+      "tail": "关键点",
+      "relation": "组成部分"
+    },
+    {
+      "head": "铁碳相图",
+      "tail": "关键线",
+      "relation": "组成部分"
+    },
+    {
+      "head": "铁碳相图",
+      "tail": "基本相",
+      "relation": "描述对象"
+    },
+    {
+      "head": "铁碳合金",
+      "tail": "碳钢",
+      "relation": "主要类型"
+    },
+    {
+      "head": "铁碳合金",
+      "tail": "铸铁",
+      "relation": "主要类型"
+    },
+    {
+      "head": "金属材料",
+      "tail": "合金钢",
+      "relation": "重要类型"
+    },
+    {
+      "head": "合金钢",
+      "tail": "合金元素的作用",
+      "relation": "性能调控机理"
+    },
+    {
+      "head": "合金钢",
+      "tail": "典型合金钢",
+      "relation": "应用实例"
+    },
+    {
+      "head": "金属材料",
+      "tail": "有色金属及其合金",
+      "relation": "重要类别"
+    },
+    {
+      "head": "有色金属及其合金",
+      "tail": "铝合金",
+      "relation": "典型代表"
+    },
+    {
+      "head": "有色金属及其合金",
+      "tail": "铜合金",
+      "relation": "典型代表"
+    },
+    {
+      "head": "材料的热处理",
+      "tail": "钢的普通热处理",
+      "relation": "核心工艺"
+    },
+    {
+      "head": "钢的普通热处理",
+      "tail": "退火",
+      "relation": "具体工艺"
+    },
+    {
+      "head": "钢的普通热处理",
+      "tail": "正火",
+      "relation": "具体工艺"
+    },
+    {
+      "head": "钢的普通热处理",
+      "tail": "淬火",
+      "relation": "具体工艺"
+    },
+    {
+      "head": "钢的普通热处理",
+      "tail": "回火",
+      "relation": "具体工艺"
+    },
+    {
+      "head": "材料的热处理",
+      "tail": "热处理工艺曲线",
+      "relation": "工艺控制依据"
+    },
+    {
+      "head": "铁碳相图",
+      "tail": "典型例题类型-铁碳相图分析",
+      "relation": "应用于"
+    },
+    {
+      "head": "力学性能",
+      "tail": "典型例题类型-力学性能指标计算与比较",
+      "relation": "应用于"
+    },
+    {
+      "head": "金属材料",
+      "tail": "典型例题类型-材料选择与热处理工艺制定",
+      "relation": "应用于"
+    },
+    {
+      "head": "材料的热处理",
+      "tail": "典型例题类型-材料选择与热处理工艺制定",
+      "relation": "应用于"
+    },
+    {
+      "head": "晶体结构",
+      "tail": "典型例题类型-晶体结构计算",
+      "relation": "应用于"
+    },
+    {
+      "head": "淬火",
+      "tail": "回火",
+      "relation": "通常后续工艺"
+    },
+    {
+      "head": "屈服强度",
+      "tail": "抗拉强度",
+      "relation": "强度指标关联"
+    },
+    {
+      "head": "铁素体",
+      "tail": "奥氏体",
+      "relation": "铁碳合金基本相关联"
+    },
+    {
+      "head": "过冷度",
+      "tail": "结晶的基本过程",
+      "relation": "影响形核率与长大速率"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:17:16",
+    "version": "1.1"
+  }
+}

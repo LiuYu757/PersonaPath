@@ -1,0 +1,548 @@
+{
+  "knowledge_tree": {
+    "title": "四年级下册数学",
+    "content": "包含四则运算、观察物体、运算律、小数的意义和性质、三角形、小数的加法和减法、图形的运动、平均数与条形统计图等核心内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "四则运算",
+        "content": "加、减、乘、除四种运算的统称，包括运算顺序和括号的使用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "加法的意义",
+            "content": "把两个数合并成一个数的运算",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "减法的意义",
+            "content": "已知两个数的和与其中一个加数，求另一个加数的运算",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "乘法的意义",
+            "content": "求几个相同加数的和的简便运算",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "除法的意义",
+            "content": "已知两个因数的积与其中一个因数，求另一个因数的运算",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "括号",
+            "content": "改变运算顺序的符号，包括小括号和中括号",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "租船问题",
+            "content": "通过计算和比较找出最省钱的租船方案",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "观察物体",
+        "content": "从不同位置观察立体图形，识别所看到的形状",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "从前面看",
+            "content": "从物体的正面观察得到的图形",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "从上面看",
+            "content": "从物体的上面观察得到的图形",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "从左面看",
+            "content": "从物体的左面观察得到的图形",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "相同与不同",
+            "content": "比较不同物体从同一方向观察得到的图形是否相同",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "运算律",
+        "content": "运算的基本性质，包括交换律、结合律和分配律",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "加法交换律",
+            "content": "两个数相加，交换加数的位置，和不变。a+b=b+a",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "加法结合律",
+            "content": "三个数相加，先把前两个数相加，或者先把后两个数相加，和不变。(a+b)+c=a+(b+c)",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "乘法交换律",
+            "content": "两个数相乘，交换因数的位置，积不变。a×b=b×a",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "乘法结合律",
+            "content": "三个数相乘，先乘前两个数，或者先乘后两个数，积不变。(a×b)×c=a×(b×c)",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "乘法分配律",
+            "content": "两个数的和与一个数相乘，可以先把它们与这个数分别相乘，再相加。(a+b)×c=a×c+b×c",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "连减的性质",
+            "content": "一个数连续减去两个数，等于这个数减去那两个数的和。a-b-c=a-(b+c)",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "连除的性质",
+            "content": "一个数连续除以两个数，等于这个数除以那两个数的积。a÷b÷c=a÷(b×c)",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "小数的意义和性质",
+        "content": "小数的概念、读写、性质、大小比较和小数点移动引起的变化",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "小数的意义",
+            "content": "分母是10、100、1000……的分数可以用小数表示",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "小数的读法",
+            "content": "整数部分按照整数的读法读，小数点读作“点”，小数部分依次读出每个数字",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "小数的写法",
+            "content": "整数部分按照整数的写法写，小数点写在个位右下角，小数部分依次写出每个数字",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "小数的性质",
+            "content": "小数的末尾添上“0”或去掉“0”，小数的大小不变",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "小数的大小比较",
+            "content": "先比较整数部分，整数部分相同再比较十分位，以此类推",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "小数点移动引起小数大小的变化",
+            "content": "小数点向右移动一位、两位、三位……小数就扩大到原数的10倍、100倍、1000倍……；小数点向左移动一位、两位、三位……小数就缩小到原数的1/10、1/100、1/1000……",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "小数与单位换算",
+            "content": "将低级单位的名数改写成高级单位的名数，用除法；将高级单位的名数改写成低级单位的名数，用乘法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "小数的近似数",
+            "content": "用“四舍五入”法求小数的近似数",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "三角形",
+        "content": "三角形的特性、分类和内角和",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "三角形的特性",
+            "content": "三角形有3条边、3个角、3个顶点；三角形具有稳定性；三角形任意两边的和大于第三边",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "三角形的分类",
+            "content": "按角分：锐角三角形、直角三角形、钝角三角形；按边分：等腰三角形、等边三角形",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "三角形的内角和",
+            "content": "三角形的内角和是180°",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "四边形的内角和",
+            "content": "四边形的内角和是360°",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "小数的加法和减法",
+        "content": "小数加减法的计算法则和混合运算",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "小数加减法的计算法则",
+            "content": "小数点对齐（也就是相同数位对齐），再按照整数加减法的法则进行计算，最后在得数里点上小数点",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "小数加减混合运算",
+            "content": "运算顺序与整数加减混合运算顺序相同",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "整数加法运算律推广到小数",
+            "content": "整数加法的交换律、结合律对小数加法同样适用",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "图形的运动",
+        "content": "轴对称和平移",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "轴对称",
+            "content": "一个图形沿一条直线对折，直线两旁的部分能够完全重合，这样的图形叫做轴对称图形",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "平移",
+            "content": "物体或图形在同一平面内沿直线运动，这种运动现象叫做平移",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "平均数与条形统计图",
+        "content": "平均数的意义和求法，复式条形统计图的认识和绘制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "平均数",
+            "content": "一组数据的和除以这组数据的个数所得的商",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "复式条形统计图",
+            "content": "同时表示两种或两种以上数量的条形统计图",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数学广角——鸡兔同笼",
+        "content": "通过假设法解决“鸡兔同笼”问题",
+        "difficulty": "4",
+        "children": []
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "四则运算",
+      "tail": "加法的意义",
+      "relation": "包含"
+    },
+    {
+      "head": "四则运算",
+      "tail": "减法的意义",
+      "relation": "包含"
+    },
+    {
+      "head": "四则运算",
+      "tail": "乘法的意义",
+      "relation": "包含"
+    },
+    {
+      "head": "四则运算",
+      "tail": "除法的意义",
+      "relation": "包含"
+    },
+    {
+      "head": "四则运算",
+      "tail": "括号",
+      "relation": "包含"
+    },
+    {
+      "head": "四则运算",
+      "tail": "租船问题",
+      "relation": "应用于"
+    },
+    {
+      "head": "观察物体",
+      "tail": "从前面看",
+      "relation": "包含"
+    },
+    {
+      "head": "观察物体",
+      "tail": "从上面看",
+      "relation": "包含"
+    },
+    {
+      "head": "观察物体",
+      "tail": "从左面看",
+      "relation": "包含"
+    },
+    {
+      "head": "观察物体",
+      "tail": "相同与不同",
+      "relation": "包含"
+    },
+    {
+      "head": "运算律",
+      "tail": "加法交换律",
+      "relation": "包含"
+    },
+    {
+      "head": "运算律",
+      "tail": "加法结合律",
+      "relation": "包含"
+    },
+    {
+      "head": "运算律",
+      "tail": "乘法交换律",
+      "relation": "包含"
+    },
+    {
+      "head": "运算律",
+      "tail": "乘法结合律",
+      "relation": "包含"
+    },
+    {
+      "head": "运算律",
+      "tail": "乘法分配律",
+      "relation": "包含"
+    },
+    {
+      "head": "运算律",
+      "tail": "连减的性质",
+      "relation": "包含"
+    },
+    {
+      "head": "运算律",
+      "tail": "连除的性质",
+      "relation": "包含"
+    },
+    {
+      "head": "小数的意义和性质",
+      "tail": "小数的意义",
+      "relation": "包含"
+    },
+    {
+      "head": "小数的意义和性质",
+      "tail": "小数的读法",
+      "relation": "包含"
+    },
+    {
+      "head": "小数的意义和性质",
+      "tail": "小数的写法",
+      "relation": "包含"
+    },
+    {
+      "head": "小数的意义和性质",
+      "tail": "小数的性质",
+      "relation": "包含"
+    },
+    {
+      "head": "小数的意义和性质",
+      "tail": "小数的大小比较",
+      "relation": "包含"
+    },
+    {
+      "head": "小数的意义和性质",
+      "tail": "小数点移动引起小数大小的变化",
+      "relation": "包含"
+    },
+    {
+      "head": "小数的意义和性质",
+      "tail": "小数与单位换算",
+      "relation": "包含"
+    },
+    {
+      "head": "小数的意义和性质",
+      "tail": "小数的近似数",
+      "relation": "包含"
+    },
+    {
+      "head": "三角形",
+      "tail": "三角形的特性",
+      "relation": "包含"
+    },
+    {
+      "head": "三角形",
+      "tail": "三角形的分类",
+      "relation": "包含"
+    },
+    {
+      "head": "三角形",
+      "tail": "三角形的内角和",
+      "relation": "包含"
+    },
+    {
+      "head": "三角形",
+      "tail": "四边形的内角和",
+      "relation": "包含"
+    },
+    {
+      "head": "小数的加法和减法",
+      "tail": "小数加减法的计算法则",
+      "relation": "包含"
+    },
+    {
+      "head": "小数的加法和减法",
+      "tail": "小数加减混合运算",
+      "relation": "包含"
+    },
+    {
+      "head": "小数的加法和减法",
+      "tail": "整数加法运算律推广到小数",
+      "relation": "包含"
+    },
+    {
+      "head": "图形的运动",
+      "tail": "轴对称",
+      "relation": "包含"
+    },
+    {
+      "head": "图形的运动",
+      "tail": "平移",
+      "relation": "包含"
+    },
+    {
+      "head": "平均数与条形统计图",
+      "tail": "平均数",
+      "relation": "包含"
+    },
+    {
+      "head": "平均数与条形统计图",
+      "tail": "复式条形统计图",
+      "relation": "包含"
+    },
+    {
+      "head": "加法交换律",
+      "tail": "加法结合律",
+      "relation": "关联关系"
+    },
+    {
+      "head": "乘法交换律",
+      "tail": "乘法结合律",
+      "relation": "关联关系"
+    },
+    {
+      "head": "乘法分配律",
+      "tail": "加法结合律",
+      "relation": "基于"
+    },
+    {
+      "head": "小数的意义",
+      "tail": "小数的读法",
+      "relation": "基于"
+    },
+    {
+      "head": "小数的意义",
+      "tail": "小数的写法",
+      "relation": "基于"
+    },
+    {
+      "head": "小数的性质",
+      "tail": "小数的大小比较",
+      "relation": "基于"
+    },
+    {
+      "head": "小数点移动引起小数大小的变化",
+      "tail": "小数与单位换算",
+      "relation": "应用于"
+    },
+    {
+      "head": "三角形的特性",
+      "tail": "三角形的分类",
+      "relation": "基于"
+    },
+    {
+      "head": "三角形的内角和",
+      "tail": "四边形的内角和",
+      "relation": "推导关系"
+    },
+    {
+      "head": "小数加减法的计算法则",
+      "tail": "小数加减混合运算",
+      "relation": "基于"
+    },
+    {
+      "head": "整数加法运算律推广到小数",
+      "tail": "加法交换律",
+      "relation": "推广自"
+    },
+    {
+      "head": "整数加法运算律推广到小数",
+      "tail": "加法结合律",
+      "relation": "推广自"
+    },
+    {
+      "head": "轴对称",
+      "tail": "平移",
+      "relation": "关联关系"
+    },
+    {
+      "head": "平均数",
+      "tail": "复式条形统计图",
+      "relation": "应用于"
+    },
+    {
+      "head": "数学广角——鸡兔同笼",
+      "tail": "假设法",
+      "relation": "基于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:17:51",
+    "version": "1.1"
+  }
+}

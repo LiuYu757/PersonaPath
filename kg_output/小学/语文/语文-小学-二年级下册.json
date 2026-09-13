@@ -1,0 +1,251 @@
+{
+  "knowledge_tree": {
+    "title": "二年级下册语文",
+    "content": "人教版二年级下册语文教材，包含课文、识字、语文园地等内容，注重基础语言能力培养",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "课文",
+        "content": "教材中的课文内容，包含古诗、现代文等体裁",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "古诗二首",
+            "content": "《村居》和《咏柳》两首描写春天的古诗",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "村居",
+                "content": "清代高鼎创作的描写乡村春景的古诗",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "诗歌意境",
+                    "content": "描绘二月春景，儿童放风筝的欢乐场景",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "生字学习",
+                    "content": "诗、童、趁、碧、妆、绿、丝、剪",
+                    "difficulty": "1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "咏柳",
+                "content": "唐代贺知章创作的咏物诗，赞美柳树",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "比喻手法",
+                    "content": "将柳树比作碧玉、丝绦，春风比作剪刀",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "语言特点",
+                    "content": "语言优美，想象丰富",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "找春天",
+            "content": "描写孩子们寻找春天的现代散文",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "描写手法",
+                "content": "运用拟人、比喻等修辞手法描写春天",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "情感表达",
+                "content": "表达对春天的喜爱和向往之情",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "开满鲜花的小路",
+            "content": "童话故事，讲述花籽洒落路上变成花路的故事",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "故事寓意",
+                "content": "美好的礼物能带来快乐和美好",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "识字",
+        "content": "识字教学内容，包含集中识字和随文识字",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "神州谣",
+            "content": "歌颂中华的童谣",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "地理知识",
+                "content": "认识黄河、长江、长城等中国地理标志",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "传统节日",
+            "content": "介绍春节、元宵节、清明节等中国传统节日",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "节日习俗",
+                "content": "了解各传统节日的习俗活动",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "语文园地",
+        "content": "语文综合实践活动，包含字词句运用、日积月累等",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "字词句运用",
+            "content": "词语积累和句子练习",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "日积月累",
+            "content": "古诗、名句积累",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "写话",
+            "content": "看图写话、话题写话等写作练习",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "口语交际",
+        "content": "口语表达训练",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "注意说话的语气",
+            "content": "学习使用恰当的语气与人交流",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "长大以后做什么",
+            "content": "表达自己的理想和愿望",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "古诗二首",
+      "tail": "村居",
+      "relation": "包含"
+    },
+    {
+      "head": "古诗二首",
+      "tail": "咏柳",
+      "relation": "包含"
+    },
+    {
+      "head": "村居",
+      "tail": "诗歌意境",
+      "relation": "体现"
+    },
+    {
+      "head": "咏柳",
+      "tail": "比喻手法",
+      "relation": "运用"
+    },
+    {
+      "head": "找春天",
+      "tail": "描写手法",
+      "relation": "运用"
+    },
+    {
+      "head": "开满鲜花的小路",
+      "tail": "故事寓意",
+      "relation": "传达"
+    },
+    {
+      "head": "神州谣",
+      "tail": "地理知识",
+      "relation": "包含"
+    },
+    {
+      "head": "传统节日",
+      "tail": "节日习俗",
+      "relation": "介绍"
+    },
+    {
+      "head": "语文园地",
+      "tail": "字词句运用",
+      "relation": "包含"
+    },
+    {
+      "head": "语文园地",
+      "tail": "日积月累",
+      "relation": "包含"
+    },
+    {
+      "head": "语文园地",
+      "tail": "写话",
+      "relation": "包含"
+    },
+    {
+      "head": "口语交际",
+      "tail": "注意说话的语气",
+      "relation": "包含"
+    },
+    {
+      "head": "口语交际",
+      "tail": "长大以后做什么",
+      "relation": "包含"
+    },
+    {
+      "head": "比喻手法",
+      "tail": "语言表达",
+      "relation": "增强"
+    },
+    {
+      "head": "描写手法",
+      "tail": "情感表达",
+      "relation": "辅助"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:00:40",
+    "version": "1.1"
+  }
+}

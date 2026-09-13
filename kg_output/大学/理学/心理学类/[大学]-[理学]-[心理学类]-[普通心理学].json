@@ -1,0 +1,435 @@
+{
+  "knowledge_tree": {
+    "title": "普通心理学",
+    "content": "研究心理学基本原理和心理现象一般规律的学科，是心理学的基础和入门课程",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "心理学概述",
+        "content": "心理学的研究对象、方法和发展历史",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "心理学的研究对象",
+            "content": "研究人的心理现象及其规律的科学",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "心理过程",
+                "content": "认知过程、情绪情感过程、意志过程",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "个性心理",
+                "content": "个性倾向性、个性心理特征",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "心理学的研究方法",
+            "content": "观察法、实验法、调查法、测验法等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "实验法",
+                "content": "在控制条件下系统地操纵变量来研究心理现象",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "观察法",
+                "content": "在自然条件下有目的有计划地观察心理现象",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "感觉与知觉",
+        "content": "研究人脑对客观事物个别属性和整体属性的反映",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "感觉的基本概念",
+            "content": "人脑对直接作用于感觉器官的客观事物个别属性的反映",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "感觉阈限",
+                "content": "刚刚能引起感觉的最小刺激量",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "感觉适应",
+                "content": "刺激物持续作用下感受性发生变化的现象",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "知觉的特性",
+            "content": "知觉的选择性、整体性、理解性、恒常性",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "知觉选择性",
+                "content": "从背景中区分出对象的特性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "知觉恒常性",
+                "content": "知觉条件变化时知觉映象保持相对不变",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "记忆",
+        "content": "人脑对过去经验的保持和再现",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "记忆过程",
+            "content": "识记、保持、再认和回忆",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "识记",
+                "content": "获得知识和经验的过程",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "保持",
+                "content": "知识和经验在头脑中储存和巩固的过程",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "记忆系统",
+            "content": "感觉记忆、短时记忆、长时记忆",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "短时记忆",
+                "content": "信息保持时间在1分钟以内的记忆",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "长时记忆",
+                "content": "信息保持时间在1分钟以上乃至终生的记忆",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "思维与语言",
+        "content": "人脑对客观事物间接的、概括的反映过程",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "思维过程",
+            "content": "分析、综合、比较、抽象、概括",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "分析与综合",
+                "content": "思维的基本过程",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "抽象与概括",
+                "content": "从具体事物中抽取本质属性的过程",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "问题解决",
+            "content": "由一定情境引起的按照一定目标应用各种认知活动技能的过程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "问题解决的策略",
+                "content": "算法式、启发式等解决问题的方法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "影响问题解决的因素",
+                "content": "知识经验、定势、功能固着等",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "情绪与情感",
+        "content": "人对客观事物是否符合自身需要而产生的态度体验",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "情绪理论",
+            "content": "詹姆斯-兰格理论、坎农-巴德理论、认知评价理论等",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "詹姆斯-兰格理论",
+                "content": "情绪是对身体变化的知觉",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "认知评价理论",
+                "content": "情绪产生取决于对刺激情境的认知评价",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "情绪调节",
+            "content": "对情绪发生、体验与表达施加影响的过程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "情绪调节策略",
+                "content": "认知重评、表达抑制等调节方法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "情绪智力",
+                "content": "感知、理解、管理情绪的能力",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "心理学概述",
+      "tail": "心理过程",
+      "relation": "包含"
+    },
+    {
+      "head": "心理学概述",
+      "tail": "个性心理",
+      "relation": "包含"
+    },
+    {
+      "head": "心理过程",
+      "tail": "认知过程",
+      "relation": "包含"
+    },
+    {
+      "head": "心理过程",
+      "tail": "情绪情感过程",
+      "relation": "包含"
+    },
+    {
+      "head": "心理过程",
+      "tail": "意志过程",
+      "relation": "包含"
+    },
+    {
+      "head": "心理学研究方法",
+      "tail": "实验法",
+      "relation": "包含"
+    },
+    {
+      "head": "心理学研究方法",
+      "tail": "观察法",
+      "relation": "包含"
+    },
+    {
+      "head": "感觉与知觉",
+      "tail": "感觉的基本概念",
+      "relation": "包含"
+    },
+    {
+      "head": "感觉与知觉",
+      "tail": "知觉的特性",
+      "relation": "包含"
+    },
+    {
+      "head": "感觉的基本概念",
+      "tail": "感觉阈限",
+      "relation": "包含"
+    },
+    {
+      "head": "感觉的基本概念",
+      "tail": "感觉适应",
+      "relation": "包含"
+    },
+    {
+      "head": "知觉的特性",
+      "tail": "知觉选择性",
+      "relation": "包含"
+    },
+    {
+      "head": "知觉的特性",
+      "tail": "知觉恒常性",
+      "relation": "包含"
+    },
+    {
+      "head": "记忆",
+      "tail": "记忆过程",
+      "relation": "包含"
+    },
+    {
+      "head": "记忆",
+      "tail": "记忆系统",
+      "relation": "包含"
+    },
+    {
+      "head": "记忆过程",
+      "tail": "识记",
+      "relation": "包含"
+    },
+    {
+      "head": "记忆过程",
+      "tail": "保持",
+      "relation": "包含"
+    },
+    {
+      "head": "记忆系统",
+      "tail": "短时记忆",
+      "relation": "包含"
+    },
+    {
+      "head": "记忆系统",
+      "tail": "长时记忆",
+      "relation": "包含"
+    },
+    {
+      "head": "思维与语言",
+      "tail": "思维过程",
+      "relation": "包含"
+    },
+    {
+      "head": "思维与语言",
+      "tail": "问题解决",
+      "relation": "包含"
+    },
+    {
+      "head": "思维过程",
+      "tail": "分析与综合",
+      "relation": "包含"
+    },
+    {
+      "head": "思维过程",
+      "tail": "抽象与概括",
+      "relation": "包含"
+    },
+    {
+      "head": "问题解决",
+      "tail": "问题解决的策略",
+      "relation": "包含"
+    },
+    {
+      "head": "问题解决",
+      "tail": "影响问题解决的因素",
+      "relation": "包含"
+    },
+    {
+      "head": "情绪与情感",
+      "tail": "情绪理论",
+      "relation": "包含"
+    },
+    {
+      "head": "情绪与情感",
+      "tail": "情绪调节",
+      "relation": "包含"
+    },
+    {
+      "head": "情绪理论",
+      "tail": "詹姆斯-兰格理论",
+      "relation": "包含"
+    },
+    {
+      "head": "情绪理论",
+      "tail": "认知评价理论",
+      "relation": "包含"
+    },
+    {
+      "head": "情绪调节",
+      "tail": "情绪调节策略",
+      "relation": "包含"
+    },
+    {
+      "head": "情绪调节",
+      "tail": "情绪智力",
+      "relation": "包含"
+    },
+    {
+      "head": "感觉阈限",
+      "tail": "感觉适应",
+      "relation": "影响"
+    },
+    {
+      "head": "知觉选择性",
+      "tail": "知觉恒常性",
+      "relation": "相互影响"
+    },
+    {
+      "head": "识记",
+      "tail": "保持",
+      "relation": "先后顺序"
+    },
+    {
+      "head": "短时记忆",
+      "tail": "长时记忆",
+      "relation": "信息传递"
+    },
+    {
+      "head": "分析与综合",
+      "tail": "抽象与概括",
+      "relation": "思维基础"
+    },
+    {
+      "head": "问题解决策略",
+      "tail": "影响问题解决的因素",
+      "relation": "相互作用"
+    },
+    {
+      "head": "詹姆斯-兰格理论",
+      "tail": "认知评价理论",
+      "relation": "理论发展"
+    },
+    {
+      "head": "情绪调节策略",
+      "tail": "情绪智力",
+      "relation": "体现"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:57:57",
+    "version": "1.1"
+  }
+}

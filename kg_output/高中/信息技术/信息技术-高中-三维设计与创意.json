@@ -1,0 +1,320 @@
+{
+  "knowledge_tree": {
+    "title": "三维设计与创意",
+    "content": "高中信息技术选择性必修5，涵盖三维设计基础、建模方法、创意设计与作品制作",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "三维设计基础",
+        "content": "从二维到三维的转换、三维设计的一般过程与特点",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "从二维到三维",
+            "content": "二维坐标系与三维坐标系的区别，三视图的概念与绘制方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "二维坐标系",
+                "content": "由平面内两条互相垂直且原点重合的数轴组成，x轴和y轴",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "三维坐标系",
+                "content": "在二维基础上增加z轴，三个坐标轴互相垂直且原点重合",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "三视图",
+                "content": "主视图、左视图、俯视图的投影原理与绘制方法",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "三维设计一般过程",
+            "content": "规划设计→构建模型→设计外观→生成发布的完整流程",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "规划设计",
+                "content": "确定作品外形并绘制轮廓图和尺寸图",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "构建三维模型",
+                "content": "利用软件构建或导入三维扫描模型",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "设计外观",
+                "content": "设置颜色、纹理、反射率等表面属性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "生成发布",
+                "content": "通过打印、动画或交互形式发布作品",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "三维设计特点",
+            "content": "立体化、数字化、虚拟化、视觉效果震撼",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "三维建模技术",
+        "content": "正向工程建模与逆向工程建模方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "基本几何体建模",
+            "content": "通过组合长方体、球体等基本几何体构建模型",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "布尔运算",
+                "content": "并集、差集、交集运算生成新模型",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "截面轮廓线建模",
+            "content": "通过草图拉伸、旋转、扫掠等操作生成模型",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "拉伸操作",
+                "content": "将二维轮廓沿指定方向延伸形成三维体",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "旋转操作",
+                "content": "将二维轮廓绕轴旋转形成回转体",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "多边形建模",
+            "content": "通过点、线、面元素构建网格模型",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "网格细分",
+                "content": "通过增加多边形数量提高模型精度",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "曲面建模",
+            "content": "利用NURBS曲线构建复杂有机曲面",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "三维设计相关技术",
+        "content": "支持三维设计实现的关键技术体系",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "三维重建技术",
+            "content": "通过扫描或照片重建现实物体模型",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "基于图像的重建",
+                "content": "通过多角度照片生成三维模型",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "激光扫描技术",
+                "content": "通过激光测量获取物体表面三维数据",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "三维渲染技术",
+            "content": "通过材质、灯光等设置使模型更真实",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "直接光照",
+                "content": "光源直接照射产生的明暗效果",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "全局光照",
+                "content": "包含直接光照和间接光照的真实渲染",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "三维显示技术",
+            "content": "实现立体视觉显示的技术方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "双目视差原理",
+                "content": "利用左右眼图像差异产生立体感",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "VR头盔显示",
+                "content": "通过透镜成像原理实现沉浸式体验",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "三维打印技术",
+            "content": "将数字模型逐层打印成实体",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "熔融沉积造型",
+                "content": "通过加热挤出材料逐层堆积",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "三维创意设计",
+        "content": "三维作品的艺术设计原则与方法",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "设计原则",
+            "content": "可用性、统一性、审美性等基本原则",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "场景设计原则",
+                "content": "遵循物理属性、与角色风格统一",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "角色设计原则",
+                "content": "文化性与科学性统一、与场景风格协调",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "三维动画制作",
+            "content": "从剧本到发布的完整动画制作流程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "剧本创作",
+                "content": "故事构思与剧本编写",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "关键帧动画",
+                "content": "通过设置关键帧生成平滑动画",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "路径动画",
+                "content": "物体沿指定路径运动",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "三维坐标系",
+      "tail": "二维坐标系",
+      "relation": "扩展自"
+    },
+    {
+      "head": "三视图",
+      "tail": "三维坐标系",
+      "relation": "基于"
+    },
+    {
+      "head": "布尔运算",
+      "tail": "基本几何体建模",
+      "relation": "应用于"
+    },
+    {
+      "head": "拉伸操作",
+      "tail": "截面轮廓线建模",
+      "relation": "属于"
+    },
+    {
+      "head": "多边形建模",
+      "tail": "网格细分",
+      "relation": "包含"
+    },
+    {
+      "head": "基于图像的重建",
+      "tail": "三维重建技术",
+      "relation": "实现方式"
+    },
+    {
+      "head": "全局光照",
+      "tail": "直接光照",
+      "relation": "包含"
+    },
+    {
+      "head": "VR头盔显示",
+      "tail": "双目视差原理",
+      "relation": "基于"
+    },
+    {
+      "head": "场景设计原则",
+      "tail": "角色设计原则",
+      "relation": "协调配合"
+    },
+    {
+      "head": "关键帧动画",
+      "tail": "路径动画",
+      "relation": "替代方案"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:43:27",
+    "version": "1.1"
+  }
+}

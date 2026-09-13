@@ -1,0 +1,491 @@
+{
+  "knowledge_tree": {
+    "title": "中国建筑史",
+    "content": "研究中国古代建筑发展历程、类型、技术、艺术与思想的学科",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "原始社会建筑",
+        "content": "中国建筑的起源与早期形态，以穴居和巢居为代表",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "穴居",
+            "content": "北方地区主要的原始居住形式，从横穴、竖穴发展到半穴居",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "发展序列",
+                "content": "横穴→竖穴→半穴居→地面建筑",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "代表遗址",
+                "content": "西安半坡遗址、临潼姜寨遗址",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "巢居",
+            "content": "南方地区主要的原始居住形式，为干阑式建筑的雏形",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "发展序列",
+                "content": "独木巢居→多木巢居→干阑式建筑",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "代表遗址",
+                "content": "浙江余姚河姆渡遗址",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "原始公共建筑",
+            "content": "反映社会结构的早期建筑，如大房子、祭坛",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "大房子",
+                "content": "半坡遗址中位于聚落中心的大型建筑，可能用于公共活动",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "祭坛",
+                "content": "辽宁牛河梁红山文化遗址中的圆形祭坛",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "奴隶社会建筑",
+        "content": "夏、商、西周、春秋时期的建筑，出现城市、宫殿和礼制建筑",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "夏代建筑",
+            "content": "二里头遗址为代表的早期宫殿建筑雏形",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "二里头一号宫殿",
+                "content": "大型庭院式建筑，体现“前朝后寝”的布局萌芽",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "商代建筑",
+            "content": "城市与宫殿建筑进一步发展，如郑州商城、殷墟",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "殷墟",
+                "content": "商代晚期都城遗址，宫殿建筑基址规模宏大",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "西周建筑",
+            "content": "礼制思想深刻影响建筑，出现瓦、斗栱等构件",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "瓦的发明",
+                "content": "陕西岐山凤雏村遗址发现中国最早的瓦",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "斗栱的雏形",
+                "content": "出现支撑屋檐的挑梁结构",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "《考工记》",
+                "content": "记载西周营国制度，如“方九里，旁三门”等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "春秋时期建筑",
+            "content": "高台建筑的盛行与技术的进步",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "高台建筑",
+                "content": "夯土高台之上建造木构房屋，追求宏伟气势",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "封建社会前期建筑",
+        "content": "战国、秦、汉、三国、两晋、南北朝时期的建筑，中国建筑体系基本形成",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "战国时期建筑",
+            "content": "城市建设高潮，出现《营造法式》前身的记录",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "城市规模扩大",
+                "content": "如齐临淄、赵邯郸等大城市",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "秦代建筑",
+            "content": "宏大工程的建设，如阿房宫、长城、秦始皇陵",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "阿房宫",
+                "content": "规模空前的宫殿群，体现中央集权的强大",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "汉代建筑",
+            "content": "木构架建筑技术成熟，建筑类型丰富",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "木构架体系",
+                "content": "抬梁式与穿斗式两种主要结构体系成熟",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "屋顶形式",
+                "content": "庑殿、歇山、悬山、攒尖、囤顶基本齐备",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "建筑类型",
+                "content": "宫殿、陵墓、礼制建筑（明堂、辟雍）、民居等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "代表实例",
+                "content": "通过画像砖、石阙、明器了解汉代建筑形象",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "三国两晋南北朝建筑",
+            "content": "佛教建筑传入并本土化，高层佛塔出现",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "佛教建筑",
+                "content": "佛寺、佛塔、石窟寺三大类型",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "塔的演变",
+                "content": "从印度窣堵波到中国楼阁式塔的转变",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "代表实例",
+                "content": "北魏洛阳永宁寺塔、嵩岳寺塔",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "封建社会中期建筑",
+        "content": "隋、唐、五代、宋、辽、金时期的建筑，中国建筑发展的巅峰与转型",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "隋唐建筑",
+            "content": "建筑风格雄浑豪迈，技术精湛，制度严密",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "都城规划",
+                "content": "隋唐长安城，古代都城规划的典范",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "木构技术",
+                "content": "斗栱硕大，出檐深远，整体结构稳健",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "代表实例",
+                "content": "山西五台山佛光寺东大殿、南禅寺大殿",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "宋代建筑",
+            "content": "建筑风格转向纤巧秀丽，制度规范化",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "《营造法式》",
+                "content": "李诫编修，古代最完整的建筑技术典籍",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "建筑特点",
+                "content": "斗栱作用减弱，屋面坡度增高，装饰增多",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "代表实例",
+                "content": "山西太原晋祠圣母殿、河北正定隆兴寺",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "辽金建筑",
+            "content": "继承唐代风格，并融入地方特色",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "辽代建筑",
+                "content": "接近唐风，如独乐寺观音阁、应县木塔",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "金代建筑",
+                "content": "受宋影响，趋向华丽，如大同华严寺",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "封建社会后期建筑",
+        "content": "元、明、清时期的建筑，制度高度标准化，装饰艺术登峰造极",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "元代建筑",
+            "content": "受喇嘛教影响，出现新建筑形式，结构有所创新",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "结构特点",
+                "content": "大胆运用减柱法、移柱法",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "代表实例",
+                "content": "山西芮城永乐宫、北京妙应寺白塔",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "明代建筑",
+            "content": "官式建筑高度标准化，砖石建筑普及",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "官式建筑",
+                "content": "形成严格定式，为清代《工程做法》奠定基础",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "砖的普及",
+                "content": "出现无梁殿等纯砖石结构建筑",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "代表实例",
+                "content": "北京故宫、天坛",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "清代建筑",
+            "content": "建筑装饰极度发展，园林艺术成就显著",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《工程做法则例》",
+                "content": "清代官式建筑的标准规范",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "斗口制",
+                "content": "以斗口为模数的设计方法",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "园林艺术",
+                "content": "皇家园林与私家园林均达到鼎盛",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "穴居",
+      "tail": "半穴居",
+      "relation": "演变为"
+    },
+    {
+      "head": "巢居",
+      "tail": "干阑式建筑",
+      "relation": "演变为"
+    },
+    {
+      "head": "二里头一号宫殿",
+      "tail": "前朝后寝",
+      "relation": "体现布局萌芽"
+    },
+    {
+      "head": "西周建筑",
+      "tail": "瓦",
+      "relation": "发明"
+    },
+    {
+      "head": "西周建筑",
+      "tail": "斗栱雏形",
+      "relation": "出现"
+    },
+    {
+      "head": "《考工记》",
+      "tail": "营国制度",
+      "relation": "记载"
+    },
+    {
+      "head": "汉代建筑",
+      "tail": "抬梁式",
+      "relation": "成熟结构体系"
+    },
+    {
+      "head": "汉代建筑",
+      "tail": "穿斗式",
+      "relation": "成熟结构体系"
+    },
+    {
+      "head": "佛教建筑",
+      "tail": "佛塔",
+      "relation": "包含类型"
+    },
+    {
+      "head": "印度窣堵波",
+      "tail": "中国楼阁式塔",
+      "relation": "演变为"
+    },
+    {
+      "head": "隋唐长安城",
+      "tail": "古代都城规划",
+      "relation": "是典范"
+    },
+    {
+      "head": "佛光寺东大殿",
+      "tail": "唐代木构技术",
+      "relation": "代表实例"
+    },
+    {
+      "head": "《营造法式》",
+      "tail": "宋代建筑制度",
+      "relation": "规范化依据"
+    },
+    {
+      "head": "宋代建筑",
+      "tail": "斗栱作用减弱",
+      "relation": "特点之一"
+    },
+    {
+      "head": "辽代建筑",
+      "tail": "唐代风格",
+      "relation": "继承"
+    },
+    {
+      "head": "元代建筑",
+      "tail": "减柱法",
+      "relation": "运用"
+    },
+    {
+      "head": "明代建筑",
+      "tail": "官式建筑标准化",
+      "relation": "特点之一"
+    },
+    {
+      "head": "无梁殿",
+      "tail": "砖石结构",
+      "relation": "是实例"
+    },
+    {
+      "head": "《工程做法则例》",
+      "tail": "清代官式建筑",
+      "relation": "规范标准"
+    },
+    {
+      "head": "斗口制",
+      "tail": "设计模数",
+      "relation": "作为"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:01:59",
+    "version": "1.1"
+  }
+}

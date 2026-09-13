@@ -1,0 +1,978 @@
+{
+  "knowledge_tree": {
+    "title": "三年级信息科技：在线学习与生活",
+    "content": "本课程围绕信息科技在在线学习与生活中的应用，涵盖数字设备使用、网络资源获取、数字作品创作、在线交流、合作解决问题及在线安全等内容，旨在培养学生的数字素养与技能。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "开启信息生活",
+        "content": "第一单元：介绍信息科技的广泛应用及数字设备的基本操作。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "寻找信息科技",
+            "content": "感受信息科技在日常生活中的应用，认识常见数字设备。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "信息科技应用案例",
+                "content": "智能家电、在线学习、移动支付等具体应用场景。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "数字设备类型",
+                "content": "通信类、办公类、教育类、娱乐类、家居类、健康类设备。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "使用数字设备",
+            "content": "掌握计算机和平板电脑的基本操作，养成良好使用习惯。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "计算机基础操作",
+                "content": "启动、软件操作、关机等基本操作。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "平板电脑护眼设置",
+                "content": "设置护眼模式，保护视力。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "数字设备使用规范",
+                "content": "安全、健康、合理使用数字设备。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "体验人机交互",
+            "content": "了解扫描、触屏、手写、语音等交互方式。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "扫描交互",
+                "content": "通过扫描识别物体，如植物识别软件。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "触屏交互",
+                "content": "点击、滑动、拖动、放大、缩小、长按等操作。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "手写交互",
+                "content": "手写输入文字，适用于生僻字输入。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "语音交互",
+                "content": "通过语音指令操作设备，如导航、播放故事。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "记录美好时光",
+        "content": "第二单元：学习使用数字设备获取和加工图片、视频、音频资源。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "图片记录瞬间",
+            "content": "掌握拍摄图片的技巧和规则。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "拍摄设备",
+                "content": "数字相机、手机、平板电脑等设备。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "拍照技巧",
+                "content": "主题鲜明、主体清晰、画面美观、横拍竖拍选择。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "拍照规则",
+                "content": "遵守规定、公共秩序、尊重他人。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "美化处理图片",
+            "content": "学习旋转、裁剪、调整亮度、添加滤镜等图片处理方法。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "图片处理操作",
+                "content": "旋转、裁剪、调整亮度、消除无关内容。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "图片美化",
+                "content": "添加滤镜、相框、水印等效果。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "文明处理图片",
+                "content": "不恶意修改他人图片，尊重著作权和隐私。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "视频记录片段",
+            "content": "了解视频特点，学习录制和处理视频。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "视频特点",
+                "content": "综合图片、文字、音频等多种元素。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "视频录制技巧",
+                "content": "画面稳定、内容符合主题、景别选择。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "视频处理",
+                "content": "截取片段、添加滤镜、背景音乐、片头。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "合理观看和分享视频",
+                "content": "开启青少年模式，尊重他人肖像权。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音频记录声音",
+            "content": "了解音频应用，学习录制和处理音频。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "音频应用",
+                "content": "播放音乐、唱歌、听故事、听戏曲等。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "音频录制设备",
+                "content": "手机、平板电脑、录音笔、传声器等。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "音频处理",
+                "content": "裁剪、合并、添加特效、背景音乐。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "畅游网络世界",
+        "content": "第三单元：学习浏览、搜索、保存和整理网络资源。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "浏览网络资源",
+            "content": "使用浏览器访问网站，收藏网页。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "网络资源类型",
+                "content": "文字、图片、视频、音频等。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "浏览器操作",
+                "content": "启动浏览器、输入网址、打开网页、单击超链接。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "收藏网页",
+                "content": "将常用网页添加到收藏夹，方便快速访问。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "在线搜索资源",
+            "content": "使用搜索引擎和专门网站搜索资源，鉴别信息真伪。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "搜索引擎使用",
+                "content": "输入关键词搜索，浏览结果条目。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "精准搜索",
+                "content": "使用更具体的关键词，分类搜索（如图片、视频）。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "专门网站搜索",
+                "content": "天气、地图、音乐等专门网站。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "信息真伪鉴别",
+                "content": "从官方渠道获取信息，适当存疑。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "保存信息资源",
+            "content": "在计算机和移动设备中保存图片、文字等资源。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "计算机保存操作",
+                "content": "图片另存为、复制粘贴文字到记事本。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "移动设备保存操作",
+                "content": "保存图片到手机、复制文字到备忘录。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "合理保存和使用",
+                "content": "遵守法律法规，注明来源和出处。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "整理信息资源",
+            "content": "分类整理和汇总信息资源。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "文件与文件夹",
+                "content": "文件保存不同类型内容，文件夹用于分类存放。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "分类整理方法",
+                "content": "按内容或类型分类创建子文件夹。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "汇总信息资源",
+                "content": "使用云盘等方式将不同设备中的资源汇总到计算机。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "创作数字作品",
+        "content": "第四单元：学习数字作品的类型、创作流程及制作方法。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "认识数字作品",
+            "content": "了解数字相册、数字小报、视频、演示文稿等作品类型及用途。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "数字作品类型",
+                "content": "数字相册、数字小报、视频、演示文稿等。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "创作流程",
+                "content": "分析需求、收集素材、制作作品、完善作品、发布作品。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "制作数字相册",
+            "content": "了解数字相册特点，学习使用软件制作数字相册。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "数字相册特点",
+                "content": "以图片为主，可添加文字、音频、动画效果。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "数字相册制作软件",
+                "content": "计算机端和移动端的制作软件及模板选择。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "制作过程",
+                "content": "选择模板、替换图片、修改文字和背景音乐。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "制作数字小报",
+            "content": "了解数字小报组成部分，学习使用文字处理软件制作小报。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "数字小报组成部分",
+                "content": "文字、图片、艺术字标题等。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "规划小报",
+                "content": "确定主题、收集素材、设计页面布局。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "制作小报",
+                "content": "插入形状和文本框、输入文字、调整格式、插入图片。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "展示数字作品",
+            "content": "学习分享和展示数字作品，进行评价。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "分享途径",
+                "content": "发送到班级群、上传云平台、U盘复制等。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "展示与评价",
+                "content": "阐述作品立意，使用评价表进行评价。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "在线分享交流",
+        "content": "第五单元：学习在线交流方式、网络社交、在线行为规范及数字身份。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "畅享在线交流",
+            "content": "了解视频通话、语音交流、网络社群、视频会议、电子邮件等在线交流方式。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "在线交流方式",
+                "content": "视频通话、语音交流、网络社群、视频会议、电子邮件。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "在线交流礼仪",
+                "content": "合适的时间、场合、语言、行为。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "参与网络社交",
+            "content": "了解网络社交平台的作用及影响。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "网络社交平台作用",
+                "content": "浏览信息、学习知识、自我展示、营销推广。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "网络社交影响",
+                "content": "正能量传播（如银发知播）、负面影响（如沉迷视频、诱导打赏）。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "在线行为规范",
+            "content": "学习合理安排上网时间，保护个人隐私，谨慎发布和转发信息。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "合理安排上网时间",
+                "content": "把握上网时段、控制时长、接受家长管理。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "保护个人隐私",
+                "content": "不随意透露姓名、住址、电话等个人信息。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "谨慎发布和转发信息",
+                "content": "不传播谣言，从可靠渠道获取信息。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "认识数字身份",
+            "content": "了解数字身份的含义、唯一性及信用价值。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "数字身份含义",
+                "content": "个人在网络上的在线身份，如各种平台账号。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "数字身份唯一性",
+                "content": "实名认证，与现实身份关联。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "数字身份信用价值",
+                "content": "信用好可享受更多服务，失信会受处罚。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "在线学习探究",
+        "content": "第六单元：体验在线学习，分享学习资源，探讨在线学习效率。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "体验在线学习",
+            "content": "通过平台和应用软件在线学习学科知识及发展兴趣爱好。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "在线学习途径",
+                "content": "国家中小学智慧教育平台、各种学习应用软件。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "在线发展兴趣爱好",
+                "content": "登录相关网站、观看视频、参加线上课程等。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "分享学习资源",
+            "content": "浏览博物馆、科技馆等在线资源，并通过在线文档分享。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "浏览在线资源",
+                "content": "故宫博物院、中国数字科技馆、国家博物馆等网站VR漫游。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "分享资源",
+                "content": "使用在线文档填写和分享资源表。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "探讨在线学习",
+            "content": "自主开展在线学习，探讨提高在线学习效率的方法。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "自主在线学习",
+                "content": "自选内容，寻找资源，开展学习，分享收获。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "提高在线学习效率",
+                "content": "时间管理、组建学习共同体、注意力管理。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "合作解决问题",
+        "content": "第七单元：通过小组合作，学习分解问题、制作并评价数字作品。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "分解描述问题",
+            "content": "将大问题分解为小问题，用图示描述问题及解决流程。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "问题分解",
+                "content": "将复杂问题分解为多个可解决的小问题。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "图示描述",
+                "content": "用思维导图等图示方式描述问题及解决顺序。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "分组分派任务",
+            "content": "自愿分组，讨论并分派任务，填写在线表格。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "分组策略",
+                "content": "自愿分组，教师调整，考虑成员优势。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "任务分派",
+                "content": "小组讨论，确定分工，填写任务分工表。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "合作制作作品",
+            "content": "获取整理素材，选择软件，协作制作数字作品。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "素材获取与整理",
+                "content": "利用数字设备或网络搜索获取素材，分类整理。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "软件选择",
+                "content": "根据需求选择合适的制作软件，如在线协作平台。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "协作制作",
+                "content": "规划作品结构，分工制作幻灯片，美化作品。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "完善评价作品",
+            "content": "检查并完善作品，在线评价作品和小组活动。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "检查与完善",
+                "content": "检查作品内容、布局、效果，修改错误。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "在线评价",
+                "content": "使用在线表单进行作品投票和小组活动评价。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "守护在线安全",
+        "content": "第八单元：感悟在线社会，了解人工智能及自主可控，学习在线安全防范。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "感悟在线社会",
+            "content": "感受在线政务、医疗、购物等带来的便利，了解数字经济及支付安全。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "在线社会便利",
+                "content": "在线购票、预约挂号、政务大厅办事等。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "数字经济",
+                "content": "直播卖货、网络购物等经济形式。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "支付方式与安全",
+                "content": "现金、银行卡、刷脸、二维码、掌纹、数字人民币等支付方式及安全隐患。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "初识人工智能",
+            "content": "了解人工智能在各领域的应用，体验生成式人工智能，了解其安全风险。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "人工智能应用",
+                "content": "工业、农业、航空航天、医疗、教育等领域。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "生成式人工智能",
+                "content": "AI画图、AI歌手等应用。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "人工智能安全风险",
+                "content": "AI换脸诈骗、声音模仿等安全问题。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "了解自主可控",
+            "content": "通过密码游戏、故事和实例，了解自主可控的重要性。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "密码安全",
+                "content": "设置自主可控的密码规则，避免使用弱密码。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "自主可控故事",
+                "content": "北斗卫星导航系统、高铁、大飞机、空间站等自主技术。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "关注支持自主可控",
+                "content": "了解大国重器，承担未来社会责任。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "在线安全防范",
+            "content": "学习安全使用网络、摄像头，了解网络安全热点。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "安全使用网络",
+                "content": "不随意连接Wi-Fi、扫描二维码、进行网络支付。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "安全使用摄像头",
+                "content": "保护个人隐私，尊重他人，避免泄露。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "网络安全热点",
+                "content": "关注国家网络安全宣传周，参与安全宣传活动。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "信息科技",
+      "tail": "数字设备",
+      "relation": "应用于"
+    },
+    {
+      "head": "数字设备",
+      "tail": "计算机",
+      "relation": "包含"
+    },
+    {
+      "head": "数字设备",
+      "tail": "平板电脑",
+      "relation": "包含"
+    },
+    {
+      "head": "数字设备",
+      "tail": "手机",
+      "relation": "包含"
+    },
+    {
+      "head": "人机交互",
+      "tail": "扫描交互",
+      "relation": "包含"
+    },
+    {
+      "head": "人机交互",
+      "tail": "触屏交互",
+      "relation": "包含"
+    },
+    {
+      "head": "人机交互",
+      "tail": "手写交互",
+      "relation": "包含"
+    },
+    {
+      "head": "人机交互",
+      "tail": "语音交互",
+      "relation": "包含"
+    },
+    {
+      "head": "记录美好时光",
+      "tail": "图片记录瞬间",
+      "relation": "包含"
+    },
+    {
+      "head": "记录美好时光",
+      "tail": "美化处理图片",
+      "relation": "包含"
+    },
+    {
+      "head": "记录美好时光",
+      "tail": "视频记录片段",
+      "relation": "包含"
+    },
+    {
+      "head": "记录美好时光",
+      "tail": "音频记录声音",
+      "relation": "包含"
+    },
+    {
+      "head": "畅游网络世界",
+      "tail": "浏览网络资源",
+      "relation": "包含"
+    },
+    {
+      "head": "畅游网络世界",
+      "tail": "在线搜索资源",
+      "relation": "包含"
+    },
+    {
+      "head": "畅游网络世界",
+      "tail": "保存信息资源",
+      "relation": "包含"
+    },
+    {
+      "head": "畅游网络世界",
+      "tail": "整理信息资源",
+      "relation": "包含"
+    },
+    {
+      "head": "创作数字作品",
+      "tail": "认识数字作品",
+      "relation": "包含"
+    },
+    {
+      "head": "创作数字作品",
+      "tail": "制作数字相册",
+      "relation": "包含"
+    },
+    {
+      "head": "创作数字作品",
+      "tail": "制作数字小报",
+      "relation": "包含"
+    },
+    {
+      "head": "创作数字作品",
+      "tail": "展示数字作品",
+      "relation": "包含"
+    },
+    {
+      "head": "在线分享交流",
+      "tail": "畅享在线交流",
+      "relation": "包含"
+    },
+    {
+      "head": "在线分享交流",
+      "tail": "参与网络社交",
+      "relation": "包含"
+    },
+    {
+      "head": "在线分享交流",
+      "tail": "在线行为规范",
+      "relation": "包含"
+    },
+    {
+      "head": "在线分享交流",
+      "tail": "认识数字身份",
+      "relation": "包含"
+    },
+    {
+      "head": "在线学习探究",
+      "tail": "体验在线学习",
+      "relation": "包含"
+    },
+    {
+      "head": "在线学习探究",
+      "tail": "分享学习资源",
+      "relation": "包含"
+    },
+    {
+      "head": "在线学习探究",
+      "tail": "探讨在线学习",
+      "relation": "包含"
+    },
+    {
+      "head": "合作解决问题",
+      "tail": "分解描述问题",
+      "relation": "包含"
+    },
+    {
+      "head": "合作解决问题",
+      "tail": "分组分派任务",
+      "relation": "包含"
+    },
+    {
+      "head": "合作解决问题",
+      "tail": "合作制作作品",
+      "relation": "包含"
+    },
+    {
+      "head": "合作解决问题",
+      "tail": "完善评价作品",
+      "relation": "包含"
+    },
+    {
+      "head": "守护在线安全",
+      "tail": "感悟在线社会",
+      "relation": "包含"
+    },
+    {
+      "head": "守护在线安全",
+      "tail": "初识人工智能",
+      "relation": "包含"
+    },
+    {
+      "head": "守护在线安全",
+      "tail": "了解自主可控",
+      "relation": "包含"
+    },
+    {
+      "head": "守护在线安全",
+      "tail": "在线安全防范",
+      "relation": "包含"
+    },
+    {
+      "head": "浏览器",
+      "tail": "收藏网页",
+      "relation": "功能包括"
+    },
+    {
+      "head": "搜索引擎",
+      "tail": "关键词搜索",
+      "relation": "通过"
+    },
+    {
+      "head": "数字身份",
+      "tail": "实名认证",
+      "relation": "需要"
+    },
+    {
+      "head": "人工智能",
+      "tail": "生成式人工智能",
+      "relation": "包含"
+    },
+    {
+      "head": "自主可控",
+      "tail": "密码安全",
+      "relation": "涉及"
+    },
+    {
+      "head": "自主可控",
+      "tail": "北斗卫星导航系统",
+      "relation": "实例包括"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 18:06:32",
+    "version": "1.1"
+  }
+}

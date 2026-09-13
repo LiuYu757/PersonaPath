@@ -1,0 +1,391 @@
+{
+  "knowledge_tree": {
+    "title": "植物保护学",
+    "content": "研究植物病害、虫害、草害及其综合治理的学科，涵盖病原鉴定、发生规律、预测预报与防控技术。",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "植物病害基础",
+        "content": "植物病害的定义、病因分类、症状类型与诊断要点。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "植物病害定义",
+            "content": "植物在生物或非生物因子持续作用下，生理程序紊乱，导致组织结构异常、功能受损，经济价值下降的现象。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "病因分类",
+            "content": "按病因性质分为侵染性（生物）与非侵染性（非生物）两类。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "侵染性病因",
+                "content": "由病原生物引起，可传播，包括真菌、细菌、病毒、线虫、植原体、寄生性种子植物。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "非侵染性病因",
+                "content": "由环境胁迫或营养失调引起，不传播，如干旱、冻害、药害、缺素。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "症状类型",
+            "content": "病状（植物本身异常）与病征（病原物表现）两大类别。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "病状类型",
+                "content": "变色、坏死、腐烂、萎蔫、畸形。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "病征类型",
+                "content": "霉状物、粉状物、锈状物、颗粒状物、菌脓。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "诊断要点",
+            "content": "田间分布型、症状特点、病原检查、柯赫氏法则验证。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "病原生物学",
+        "content": "主要病原生物的分类、形态、生活史与致病机制。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "植物病原真菌",
+            "content": "具菌丝体，通过孢子繁殖，主要类群及其所致病害。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "鞭毛菌亚门",
+                "content": "游动孢子、卵孢子，代表：疫霉属、霜霉属。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "子囊菌亚门",
+                "content": "子囊孢子，代表：白粉菌、核盘菌。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "担子菌亚门",
+                "content": "担孢子，代表：锈菌、黑粉菌。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "半知菌类",
+                "content": "无性阶段为主，代表：稻瘟病菌、炭疽病菌。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "植物病原细菌",
+            "content": "原核生物，革兰氏染色、菌脓、侵染途径。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "革兰氏阴性菌",
+                "content": "假单胞菌属、黄单胞菌属。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "革兰氏阳性菌",
+                "content": "棒形杆菌属、链霉菌属。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "植物病毒",
+            "content": "核酸+蛋白衣壳，依赖活体复制，典型症状与传播方式。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "病毒粒子结构",
+                "content": "杆状、球状、线状。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "传播方式",
+                "content": "昆虫介体、机械、种子、嫁接。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "植物病原线虫",
+            "content": "土壤栖息，口针穿刺，根结线虫、胞囊线虫。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "病害流行学",
+        "content": "病害时空动态、流行模型与预测预报。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "病害循环",
+            "content": "初侵染→再侵染→越冬/越夏→传播。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "流行模型",
+            "content": "Logistic模型：dN/dt = rN(1-N/K)，其中N为病情指数，r为表观侵染速率，K为最大病情。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "预测预报类型",
+            "content": "长期趋势预测、短期发生期预测、损失预测。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "害虫生物学",
+        "content": "农业昆虫基础、分类、发育与为害特点。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "昆虫形态",
+            "content": "头、胸、腹三段，触角、口器、足、翅变异。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "变态类型",
+            "content": "不完全变态（渐变态、半变态）与完全变态。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "种群生态",
+            "content": "生命表、内禀增长率r_m、环境容纳量K。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "害虫类别",
+            "content": "刺吸式、咀嚼式、钻蛀式、吸果式。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "杂草学基础",
+        "content": "农田杂草种类、生物学特性与竞争模型。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "杂草定义",
+            "content": "在人类希望去除的时间与地点出现的植物。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "竞争模型",
+            "content": "作物-杂草竞争产量损失方程：Y_L = I/(1 + A·D)，Y_L为相对产量损失，D为杂草密度，I、A为参数。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "防治原理与方法",
+        "content": "植物保护方针“预防为主，综合防治”，方法类别与整合策略。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "农业防治",
+            "content": "轮作、清洁田园、抗性品种、调整播期。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "生物防治",
+            "content": "天敌释放、微生物农药、植物源农药。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "物理防治",
+            "content": "诱虫灯、色板、高温闷棚、人工捕杀。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "化学防治",
+            "content": "农药类别、作用机制、抗药性管理。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "杀菌剂作用机制",
+                "content": "抑制细胞壁、膜、呼吸、核酸合成。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "杀虫剂作用机制",
+                "content": "神经毒剂、生长调节、呼吸抑制。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "抗药性治理",
+                "content": "轮换用药、限制用药次数、混配、抗性监测。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "综合治理（IPM）",
+            "content": "经济阈值（ET）、经济危害水平（EIL）、决策支持系统。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "课程考试与考研常见题型示例。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "症状识别题",
+            "content": "给出田间照片，判断病状/病征并指出可能病原。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "病原鉴定题",
+            "content": "根据柯赫氏法则设计实验步骤。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "模型计算题",
+            "content": "利用Logistic模型计算病情增长速率或ET。",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "防治方案设计题",
+            "content": "针对给定作物-病虫组合，制定IPM方案并评估风险。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "植物病害",
+      "tail": "侵染性病因",
+      "relation": "包含"
+    },
+    {
+      "head": "植物病害",
+      "tail": "非侵染性病因",
+      "relation": "包含"
+    },
+    {
+      "head": "侵染性病因",
+      "tail": "植物病原真菌",
+      "relation": "包含"
+    },
+    {
+      "head": "植物病原真菌",
+      "tail": "鞭毛菌亚门",
+      "relation": "包含"
+    },
+    {
+      "head": "病害循环",
+      "tail": "初侵染",
+      "relation": "包含"
+    },
+    {
+      "head": "病害循环",
+      "tail": "再侵染",
+      "relation": "包含"
+    },
+    {
+      "head": "Logistic模型",
+      "tail": "病害流行",
+      "relation": "应用于"
+    },
+    {
+      "head": "经济阈值",
+      "tail": "综合治理",
+      "relation": "应用于"
+    },
+    {
+      "head": "柯赫氏法则",
+      "tail": "病原鉴定",
+      "relation": "用于"
+    },
+    {
+      "head": "抗药性治理",
+      "tail": "化学防治",
+      "relation": "属于"
+    },
+    {
+      "head": "昆虫变态",
+      "tail": "完全变态",
+      "relation": "包含"
+    },
+    {
+      "head": "昆虫变态",
+      "tail": "不完全变态",
+      "relation": "包含"
+    },
+    {
+      "head": "杂草竞争模型",
+      "tail": "作物产量损失",
+      "relation": "预测"
+    },
+    {
+      "head": "病毒粒子结构",
+      "tail": "病毒传播",
+      "relation": "影响"
+    },
+    {
+      "head": "杀菌剂作用机制",
+      "tail": "抗药性治理",
+      "relation": "关联"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 11:07:11",
+    "version": "1.1"
+  }
+}

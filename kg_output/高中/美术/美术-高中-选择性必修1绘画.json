@@ -1,0 +1,238 @@
+{
+  "knowledge_tree": {
+    "title": "绘画",
+    "content": "普通高中美术选择性必修1绘画课程，涵盖绘画的基本元素、技法、历史与文化内涵",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元 点线面",
+        "content": "绘画的基本形式元素，构成画面的最基本构件",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "第1课 绘画的诞生（落笔）",
+            "content": "点线面作为绘画形式元素的基本概念与作用",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "点的定义与特性",
+                "content": "绘画中最基本的元素，笔尖与纸接触产生的痕迹",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "线的定义与特性",
+                "content": "点的移动轨迹，具有界定物象边缘的重要功能",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "面的定义与特性",
+                "content": "线的移动形成面，是构成形体的基础",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "中国线描技法",
+                "content": "注重节奏和韵律的表现，追求建筑的形式美、音乐的节奏美、舞蹈的姿态美",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "线条的表现形式",
+                "content": "粗细、疏密、浓淡变化表现体量、动态和质感",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2课 神来之笔（幻想与偶然）",
+            "content": "点线面的灵活多变特性及幻想性与偶然性在绘画中的价值",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "幻想性在绘画中的作用",
+                "content": "基于形象因视觉或概念因素相似而重新加工改造形成新形象",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "偶然性在绘画中的应用",
+                "content": "随意挥笔形成的意外效果成为画面亮点",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "中国画的气韵生动",
+                "content": "涉及宇宙观、人生观，要求深入物象本质并以想象捕捉画面生命力",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "工具材料的偶然效果",
+                "content": "毛笔、墨汁、宣纸等工具天然形成偶然效果",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元 色彩",
+        "content": "色彩的物理性质、心理影响及在绘画中的应用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第1课 多姿与多彩（生活色彩）",
+            "content": "生活对色彩认知的影响及色彩的文化属性",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "色彩的联想与象征",
+                "content": "色彩被赋予的文化象征意义，如红红火火、金碧辉煌等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "色彩的心理感受",
+                "content": "不同色彩引发的心理体验和情感反应",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "红色的心理感受",
+                    "content": "炙热、活跃、躁动不安，象征革命、愤怒与仇恨",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "绿色的心理感受",
+                    "content": "生命、生长，令人赏心悦目",
+                    "difficulty": "1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第2课 文明的瑰宝（艺术色彩）",
+            "content": "不同文化背景下艺术家的色彩应用与风格差异",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "点彩画法",
+                "content": "修拉创立的以色点并置方式组成形象的绘画技法",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "色彩的文化差异",
+                "content": "不同民族对色彩理解与表达的差异",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第3课 历史的图谱（文化色彩）",
+            "content": "色彩作为文化体系的一部分及其在中华文化中的独特系统",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "中华五色观",
+                "content": "青、赤、黄、白、黑五色与方位、五行相对应的色彩系统",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "玄黄色彩系统",
+                "content": "玄黄二色加入天地概念后形成的至高色彩系统",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "民间色彩系统",
+                "content": "以自然人文为依据的民间色彩选色与命名体系",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "点",
+      "tail": "线",
+      "relation": "组合形成"
+    },
+    {
+      "head": "线",
+      "tail": "面",
+      "relation": "移动形成"
+    },
+    {
+      "head": "点线面",
+      "tail": "画面构成",
+      "relation": "作为基本元素"
+    },
+    {
+      "head": "中国线描",
+      "tail": "节奏韵律",
+      "relation": "注重表现"
+    },
+    {
+      "head": "幻想性",
+      "tail": "绘画创作",
+      "relation": "丰富审美体验"
+    },
+    {
+      "head": "偶然性",
+      "tail": "绘画效果",
+      "relation": "产生意外"
+    },
+    {
+      "head": "色彩",
+      "tail": "心理感受",
+      "relation": "引发"
+    },
+    {
+      "head": "红色",
+      "tail": "热情革命",
+      "relation": "象征"
+    },
+    {
+      "head": "绿色",
+      "tail": "生命生长",
+      "relation": "象征"
+    },
+    {
+      "head": "点彩画法",
+      "tail": "修拉",
+      "relation": "由...创立"
+    },
+    {
+      "head": "中华五色观",
+      "tail": "方位五行",
+      "relation": "对应"
+    },
+    {
+      "head": "玄黄",
+      "tail": "至高色彩",
+      "relation": "作为"
+    },
+    {
+      "head": "民间色彩",
+      "tail": "自然人文",
+      "relation": "基于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:08:29",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,537 @@
+{
+  "knowledge_tree": {
+    "title": "七年级上册数学",
+    "content": "涵盖有理数、代数式、整式加减、一元一次方程、几何图形初步等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "有理数",
+        "content": "包含正负数、数轴、相反数、绝对值、有理数大小比较等",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "正数和负数",
+            "content": "大于0的数为正数，小于0的数为负数，0既不是正数也不是负数",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "有理数的定义",
+            "content": "可以写成分数形式的数称为有理数，包括整数和分数",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "数轴",
+            "content": "规定了原点、正方向和单位长度的直线，用于表示有理数",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "数轴的三要素",
+                "content": "原点、正方向、单位长度",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "数轴上的点表示数",
+                "content": "每个有理数都可以用数轴上的一个点表示",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "相反数",
+            "content": "只有符号不同的两个数互为相反数，0的相反数是0",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "绝对值",
+            "content": "数轴上表示数的点与原点的距离，正数的绝对值是它本身，负数的绝对值是它的相反数，0的绝对值是0",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "有理数的大小比较",
+            "content": "正数大于0，负数小于0；两个负数，绝对值大的反而小",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "有理数的运算",
+        "content": "包括加减乘除和乘方运算",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "有理数的加法",
+            "content": "同号相加取相同符号，异号相加取绝对值较大加数的符号",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "加法法则",
+                "content": "同号两数相加，取相同符号，绝对值相加；异号两数相加，取绝对值较大加数的符号，绝对值相减",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "加法运算律",
+                "content": "交换律：a+b=b+a；结合律：(a+b)+c=a+(b+c)",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "有理数的减法",
+            "content": "减去一个数等于加上这个数的相反数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "有理数的乘法",
+            "content": "两数相乘，同号得正，异号得负，绝对值相乘",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "乘法法则",
+                "content": "同号得正，异号得负，绝对值相乘",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "乘法运算律",
+                "content": "交换律、结合律、分配律",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "有理数的除法",
+            "content": "除以一个不等于0的数，等于乘这个数的倒数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "有理数的乘方",
+            "content": "求n个相同因数的积的运算，负数的奇次幂是负数，偶次幂是正数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "混合运算",
+            "content": "先乘方，再乘除，最后加减；有括号先算括号内的",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "代数式",
+        "content": "用运算符号把数和字母连接而成的式子",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "列代数式",
+            "content": "用含有字母的式子表示数量关系",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "求代数式的值",
+            "content": "用数值代替代数式中的字母，按照运算关系计算得出结果",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "整式的加减",
+        "content": "单项式和多项式统称为整式，进行整式的加减运算",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "整式",
+            "content": "单项式和多项式统称整式",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "单项式",
+                "content": "数或字母的积，单独一个数或字母也是单项式",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "多项式",
+                "content": "几个单项式的和",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "同类项",
+            "content": "所含字母相同，并且相同字母的指数也相同的项",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "合并同类项",
+            "content": "把多项式中的同类项合并成一项",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "去括号",
+            "content": "括号前是正号，去括号后各项符号不变；括号前是负号，去括号后各项符号改变",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "整式的加减",
+            "content": "先去括号，再合并同类项",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "一元一次方程",
+        "content": "只含有一个未知数，未知数的次数都是1的方程",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "方程的概念",
+            "content": "含有未知数的等式",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "等式的性质",
+            "content": "等式两边加(减)同一个数(式子)，结果仍相等；等式两边乘同一个数，或除以同一个不为0的数，结果仍相等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "解一元一次方程",
+            "content": "通过去分母、去括号、移项、合并同类项、系数化为1等步骤求解",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "实际问题与一元一次方程",
+            "content": "用一元一次方程解决实际问题",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "几何图形初步",
+        "content": "认识几何图形，学习直线、射线、线段和角",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "几何图形",
+            "content": "从实物中抽象出的各种图形",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "立体图形",
+                "content": "各部分不都在同一平面内的几何图形",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "平面图形",
+                "content": "各部分都在同一平面内的几何图形",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "直线、射线、线段",
+            "content": "基本的几何图形",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "直线的性质",
+                "content": "两点确定一条直线",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "线段的性质",
+                "content": "两点之间，线段最短",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "线段的中点",
+                "content": "将线段分成两条相等线段的点",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "角",
+            "content": "有公共端点的两条射线组成的图形",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "角的度量",
+                "content": "度、分、秒是角的度量单位，1°=60′，1′=60″",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "角的比较与运算",
+                "content": "比较角的大小，进行角的和差运算",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "余角和补角",
+                "content": "两个角的和等于90°时互为余角，等于180°时互为补角",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "角的平分线",
+                "content": "从一个角的顶点出发，把这个角分成两个相等的角的射线",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "有理数",
+      "tail": "正数和负数",
+      "relation": "包含"
+    },
+    {
+      "head": "有理数",
+      "tail": "数轴",
+      "relation": "应用于"
+    },
+    {
+      "head": "数轴",
+      "tail": "数轴的三要素",
+      "relation": "由...组成"
+    },
+    {
+      "head": "有理数",
+      "tail": "相反数",
+      "relation": "具有属性"
+    },
+    {
+      "head": "有理数",
+      "tail": "绝对值",
+      "relation": "具有属性"
+    },
+    {
+      "head": "有理数",
+      "tail": "有理数的大小比较",
+      "relation": "基于"
+    },
+    {
+      "head": "有理数的运算",
+      "tail": "有理数的加法",
+      "relation": "包含"
+    },
+    {
+      "head": "有理数的加法",
+      "tail": "加法法则",
+      "relation": "基于"
+    },
+    {
+      "head": "有理数的加法",
+      "tail": "加法运算律",
+      "relation": "基于"
+    },
+    {
+      "head": "有理数的运算",
+      "tail": "有理数的减法",
+      "relation": "包含"
+    },
+    {
+      "head": "有理数的减法",
+      "tail": "有理数的加法",
+      "relation": "逆运算"
+    },
+    {
+      "head": "有理数的运算",
+      "tail": "有理数的乘法",
+      "relation": "包含"
+    },
+    {
+      "head": "有理数的乘法",
+      "tail": "乘法法则",
+      "relation": "基于"
+    },
+    {
+      "head": "有理数的乘法",
+      "tail": "乘法运算律",
+      "relation": "基于"
+    },
+    {
+      "head": "有理数的运算",
+      "tail": "有理数的除法",
+      "relation": "包含"
+    },
+    {
+      "head": "有理数的除法",
+      "tail": "有理数的乘法",
+      "relation": "逆运算"
+    },
+    {
+      "head": "有理数的运算",
+      "tail": "有理数的乘方",
+      "relation": "包含"
+    },
+    {
+      "head": "有理数的运算",
+      "tail": "混合运算",
+      "relation": "包含"
+    },
+    {
+      "head": "代数式",
+      "tail": "列代数式",
+      "relation": "包含"
+    },
+    {
+      "head": "代数式",
+      "tail": "求代数式的值",
+      "relation": "包含"
+    },
+    {
+      "head": "整式的加减",
+      "tail": "整式",
+      "relation": "基于"
+    },
+    {
+      "head": "整式",
+      "tail": "单项式",
+      "relation": "包含"
+    },
+    {
+      "head": "整式",
+      "tail": "多项式",
+      "relation": "包含"
+    },
+    {
+      "head": "整式的加减",
+      "tail": "同类项",
+      "relation": "基于"
+    },
+    {
+      "head": "整式的加减",
+      "tail": "合并同类项",
+      "relation": "基于"
+    },
+    {
+      "head": "整式的加减",
+      "tail": "去括号",
+      "relation": "基于"
+    },
+    {
+      "head": "一元一次方程",
+      "tail": "方程的概念",
+      "relation": "基于"
+    },
+    {
+      "head": "一元一次方程",
+      "tail": "等式的性质",
+      "relation": "基于"
+    },
+    {
+      "head": "一元一次方程",
+      "tail": "解一元一次方程",
+      "relation": "包含"
+    },
+    {
+      "head": "解一元一次方程",
+      "tail": "等式的性质",
+      "relation": "基于"
+    },
+    {
+      "head": "一元一次方程",
+      "tail": "实际问题与一元一次方程",
+      "relation": "应用于"
+    },
+    {
+      "head": "几何图形初步",
+      "tail": "几何图形",
+      "relation": "包含"
+    },
+    {
+      "head": "几何图形",
+      "tail": "立体图形",
+      "relation": "包含"
+    },
+    {
+      "head": "几何图形",
+      "tail": "平面图形",
+      "relation": "包含"
+    },
+    {
+      "head": "几何图形初步",
+      "tail": "直线、射线、线段",
+      "relation": "包含"
+    },
+    {
+      "head": "直线、射线、线段",
+      "tail": "直线的性质",
+      "relation": "具有"
+    },
+    {
+      "head": "直线、射线、线段",
+      "tail": "线段的性质",
+      "relation": "具有"
+    },
+    {
+      "head": "直线、射线、线段",
+      "tail": "线段的中点",
+      "relation": "具有"
+    },
+    {
+      "head": "几何图形初步",
+      "tail": "角",
+      "relation": "包含"
+    },
+    {
+      "head": "角",
+      "tail": "角的度量",
+      "relation": "基于"
+    },
+    {
+      "head": "角",
+      "tail": "角的比较与运算",
+      "relation": "包含"
+    },
+    {
+      "head": "角",
+      "tail": "余角和补角",
+      "relation": "具有属性"
+    },
+    {
+      "head": "角",
+      "tail": "角的平分线",
+      "relation": "具有"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:49:59",
+    "version": "1.1"
+  }
+}

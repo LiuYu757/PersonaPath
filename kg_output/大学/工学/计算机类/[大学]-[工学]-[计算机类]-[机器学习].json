@@ -1,0 +1,355 @@
+{
+  "knowledge_tree": {
+    "title": "机器学习",
+    "content": "研究计算机如何模拟或实现人类学习行为，以获取新的知识或技能，重新组织已有的知识结构使之不断改善自身的性能",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "基本概念",
+        "content": "机器学习的基本定义、核心思想及应用领域",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "机器学习的定义",
+            "content": "机器学习是一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。专门研究计算机怎样模拟或实现人类的学习行为，以获取新的知识或技能，重新组织已有的知识结构使之不断改善自身的性能",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "训练与测试",
+            "content": "机器学习过程通常分为训练阶段和测试阶段。训练阶段利用训练数据学习模型参数，测试阶段使用测试数据评估模型性能",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "过拟合与欠拟合",
+            "content": "过拟合指模型在训练数据上表现很好，但在测试数据上表现较差；欠拟合指模型在训练数据和测试数据上表现都不佳",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "监督学习",
+        "content": "从带有标签的训练数据中学习模型，用于预测新数据的标签",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "线性回归",
+            "content": "通过线性模型拟合数据，预测连续值输出",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "线性回归模型",
+                "content": "y = w^T x + b，其中w为权重向量，b为偏置项",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "损失函数",
+                "content": "均方误差损失函数：L(w,b) = 1/2m ∑(y_i - ŷ_i)^2",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "梯度下降法",
+                "content": "通过迭代更新参数最小化损失函数：w = w - α∇L(w)",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "逻辑回归",
+            "content": "用于解决二分类问题的线性模型，输出为概率值",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "sigmoid函数",
+                "content": "σ(z) = 1/(1+e^{-z})，将线性输出映射到(0,1)区间",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "交叉熵损失函数",
+                "content": "L = -[y log(ŷ) + (1-y)log(1-ŷ)]",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "支持向量机",
+            "content": "寻找最大间隔超平面来实现分类",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "最大间隔原理",
+                "content": "寻找能够将不同类别样本分开且间隔最大的超平面",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "核技巧",
+                "content": "通过核函数将数据映射到高维空间解决非线性问题",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "无监督学习",
+        "content": "从无标签的数据中发现隐藏的模式或结构",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "K均值聚类",
+            "content": "将数据划分为K个簇的迭代算法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "算法流程",
+                "content": "1. 随机初始化K个中心点；2. 将每个点分配到最近的中心点；3. 更新中心点位置；4. 重复2-3步直到收敛",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "肘部法则",
+                "content": "通过不同K值对应的损失函数曲线拐点确定最佳K值",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "主成分分析",
+            "content": "通过正交变换将相关变量转换为不相关的主成分，实现降维",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "方差最大化原理",
+                "content": "寻找使投影后方差最大的方向作为主成分方向",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "特征值分解",
+                "content": "通过协方差矩阵的特征值分解求解主成分",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "模型评估与选择",
+        "content": "评估模型性能并选择最优模型的方法论",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "交叉验证",
+            "content": "将数据集分成多个子集，轮流作为训练集和测试集",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "K折交叉验证",
+                "content": "将数据均分为K份，每次用K-1份训练，1份测试，重复K次",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "性能指标",
+            "content": "用于量化评估模型性能的度量标准",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "准确率",
+                "content": "正确预测的样本数占总样本数的比例",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "精确率与召回率",
+                "content": "精确率=TP/(TP+FP)，召回率=TP/(TP+FN)",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "F1分数",
+                "content": "精确率和召回率的调和平均数：F1 = 2PR/(P+R)",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "机器学习课程中常见的习题类型",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "梯度下降推导题",
+            "content": "推导特定损失函数的梯度下降更新公式",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "核函数构造题",
+            "content": "证明特定函数满足Mercer条件，可作为核函数",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "模型比较题",
+            "content": "给定数据集，比较不同机器学习算法的性能",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "机器学习",
+      "tail": "监督学习",
+      "relation": "包含"
+    },
+    {
+      "head": "机器学习",
+      "tail": "无监督学习",
+      "relation": "包含"
+    },
+    {
+      "head": "监督学习",
+      "tail": "线性回归",
+      "relation": "包含"
+    },
+    {
+      "head": "监督学习",
+      "tail": "逻辑回归",
+      "relation": "包含"
+    },
+    {
+      "head": "监督学习",
+      "tail": "支持向量机",
+      "relation": "包含"
+    },
+    {
+      "head": "线性回归",
+      "tail": "梯度下降法",
+      "relation": "使用"
+    },
+    {
+      "head": "线性回归",
+      "tail": "均方误差损失函数",
+      "relation": "基于"
+    },
+    {
+      "head": "逻辑回归",
+      "tail": "sigmoid函数",
+      "relation": "使用"
+    },
+    {
+      "head": "逻辑回归",
+      "tail": "交叉熵损失函数",
+      "relation": "基于"
+    },
+    {
+      "head": "支持向量机",
+      "tail": "核技巧",
+      "relation": "使用"
+    },
+    {
+      "head": "支持向量机",
+      "tail": "最大间隔原理",
+      "relation": "基于"
+    },
+    {
+      "head": "无监督学习",
+      "tail": "K均值聚类",
+      "relation": "包含"
+    },
+    {
+      "head": "无监督学习",
+      "tail": "主成分分析",
+      "relation": "包含"
+    },
+    {
+      "head": "K均值聚类",
+      "tail": "肘部法则",
+      "relation": "使用"
+    },
+    {
+      "head": "主成分分析",
+      "tail": "特征值分解",
+      "relation": "基于"
+    },
+    {
+      "head": "主成分分析",
+      "tail": "方差最大化原理",
+      "relation": "基于"
+    },
+    {
+      "head": "模型评估",
+      "tail": "交叉验证",
+      "relation": "包含"
+    },
+    {
+      "head": "模型评估",
+      "tail": "性能指标",
+      "relation": "包含"
+    },
+    {
+      "head": "交叉验证",
+      "tail": "K折交叉验证",
+      "relation": "具体实现"
+    },
+    {
+      "head": "性能指标",
+      "tail": "F1分数",
+      "relation": "包含"
+    },
+    {
+      "head": "精确率",
+      "tail": "召回率",
+      "relation": "与...共同构成"
+    },
+    {
+      "head": "F1分数",
+      "tail": "精确率",
+      "relation": "基于"
+    },
+    {
+      "head": "F1分数",
+      "tail": "召回率",
+      "relation": "基于"
+    },
+    {
+      "head": "过拟合",
+      "tail": "模型泛化能力",
+      "relation": "影响"
+    },
+    {
+      "head": "梯度下降法",
+      "tail": "损失函数最小化",
+      "relation": "用于实现"
+    },
+    {
+      "head": "核技巧",
+      "tail": "非线性问题",
+      "relation": "用于解决"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:55:44",
+    "version": "1.1"
+  }
+}

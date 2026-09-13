@@ -1,0 +1,573 @@
+{
+  "knowledge_tree": {
+    "title": "九年级下册化学",
+    "content": "涵盖金属和金属材料、溶液、常见的酸、碱、盐及化学与社会等核心内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第八单元 金属和金属材料",
+        "content": "学习金属的物理性质、化学性质、金属资源的利用和保护",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "课题1 金属材料",
+            "content": "了解常见金属的物理性质及合金的特性",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "常见金属的物理性质",
+                "content": "金属具有光泽、导电性、导热性、延展性等共同物理性质，但密度、熔点、硬度等各有不同",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "合金",
+                "content": "在纯金属中加热熔合某些金属或非金属制得的具有金属特性的混合物，性能发生改变，用途更广泛",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "生铁和钢",
+                    "content": "生铁含碳量2%~4.3%，钢含碳量0.03%~2%，是含碳量不同的铁合金",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "常见合金",
+                    "content": "如不锈钢、锰钢、黄铜、青铜、白铜、焊锡、硬铝等，各有特定成分、性能和用途",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "钛和钛合金",
+                    "content": "21世纪重要金属材料，具有优良性能，广泛应用于航天、船舶、化工、医疗等领域",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "课题2 金属的化学性质",
+            "content": "探究金属与氧气、酸、盐溶液的反应及金属活动性顺序",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "金属与氧气的反应",
+                "content": "大多数金属能与氧气反应，但难易程度不同（如Mg、Al常温反应，Fe、Cu高温反应，Au不反应）",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "金属与稀盐酸、稀硫酸的反应",
+                "content": "活泼金属（如Mg、Zn、Fe）能置换酸中的氢，生成盐和氢气；铜等不反应",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "置换反应",
+                    "content": "由一种单质与一种化合物反应，生成另一种单质和另一种化合物的反应",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "金属活动性顺序",
+                "content": "K Ca Na Mg Al Zn Fe Sn Pb (H) Cu Hg Ag Pt Au，可预测金属的化学性质",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "应用",
+                    "content": "判断金属与酸、盐溶液能否发生置换反应",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "课题3 金属资源的利用和保护",
+            "content": "了解金属矿物、铁的冶炼及金属资源保护",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "金属矿物",
+                "content": "大多数金属以化合物形式存在于矿物中（如赤铁矿Fe2O3、磁铁矿Fe3O4等）",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "铁的冶炼",
+                "content": "工业上在高炉中用CO还原Fe2O3：Fe2O3 + 3CO ==高温== 2Fe + 3CO2",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "含杂质物质的计算",
+                    "content": "根据化学方程式计算时需考虑杂质问题",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "金属的腐蚀与防护",
+                "content": "铁生锈是铁与氧气、水蒸气等发生化学反应的过程，需隔绝空气或水来防护",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "保护金属资源",
+                "content": "有效途径包括防止金属腐蚀、回收利用废旧金属、合理开采矿物、寻找代用品等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第九单元 溶液",
+        "content": "学习溶液的形成、溶解度、溶质的质量分数及其应用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "课题1 溶液及其应用",
+            "content": "认识溶液的形成、特征、组成及广泛应用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "溶液的形成",
+                "content": "一种或几种物质分散到另一种物质里形成的均一、稳定的混合物",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "溶质和溶剂",
+                    "content": "被溶解的物质叫溶质，能溶解其他物质的物质叫溶剂",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "溶解过程的热效应",
+                    "content": "物质溶解时通常伴随热量的变化（如NH4NO3吸热，NaOH放热）",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "溶液的应用",
+                "content": "在日常生活、工农业生产、科学研究和医疗等领域有广泛应用",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "课题2 溶解度",
+            "content": "理解饱和溶液、不饱和溶液的概念及固、气体溶解度的表示方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "饱和溶液与不饱和溶液",
+                "content": "在一定温度、一定量溶剂里，不能继续溶解某溶质的溶液是该溶质的饱和溶液；反之为不饱和溶液",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "相互转化",
+                    "content": "不饱和溶液 ==（增加溶质、蒸发溶剂、降温）==> 饱和溶液；饱和溶液 ==（增加溶剂、升温）==> 不饱和溶液",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "结晶",
+                    "content": "溶质从溶液中以晶体形式析出的过程，是分离混合物的方法",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "溶解度",
+                "content": "定量表示溶解限度的物理量",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "固体的溶解度",
+                    "content": "在一定温度下，某固态物质在100g溶剂里达到饱和状态时所溶解的质量",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "气体的溶解度",
+                    "content": "在压强为101kPa和一定温度时，1体积水里溶解达到饱和状态时的气体体积",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "溶解度曲线",
+                    "content": "表示物质的溶解度随温度变化的曲线，可查溶解度、比较溶解度大小、分析变化规律",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "课题3 溶质的质量分数",
+            "content": "掌握溶质质量分数的概念、计算及溶液的配制",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "溶质的质量分数",
+                "content": "溶质质量与溶液质量之比，计算公式：溶质的质量分数 = (溶质质量 / 溶液质量) × 100%",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "有关计算",
+                "content": "包括溶质、溶剂、溶液质量与溶质质量分数的互算，溶液稀释的计算（稀释前后溶质质量不变）",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "配制一定溶质质量分数的溶液",
+                "content": "步骤：计算、称量（或量取）、溶解、装瓶贴签",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十单元 常见的酸、碱、盐",
+        "content": "学习溶液的酸碱性、常见酸和碱的性质及用途、常见盐的性质及用途",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "课题1 溶液的酸碱性",
+            "content": "会用酸碱指示剂检验溶液的酸碱性，用pH表示溶液的酸碱度",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "酸碱指示剂",
+                "content": "能跟酸或碱的溶液起作用而显示不同颜色的物质（如石蕊、酚酞）",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "溶液酸碱度的表示——pH",
+                "content": "pH通常范围0~14，pH<7酸性，pH=7中性，pH>7碱性；可用pH试纸或酸度计测定",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "pH的应用",
+                "content": "在人体健康、工农业生产、环境保护等方面有重要意义",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "课题2 常见的酸和碱",
+            "content": "认识常见酸和碱的性质、用途及酸、碱的化学通性",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "常见的酸",
+                "content": "盐酸、硫酸的物理性质、特性（浓硫酸的腐蚀性、脱水性、吸水性）及用途",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "酸的化学性质",
+                    "content": "与指示剂作用、与活泼金属反应、与金属氧化物反应、与碱发生中和反应",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "酸具有相似化学性质的原因",
+                    "content": "在水溶液中都能解离出H+",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "常见的碱",
+                "content": "氢氧化钠（易潮解、强腐蚀性）、氢氧化钙（微溶于水）的物理性质、特性及用途",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "碱的化学性质",
+                    "content": "与指示剂作用、与非金属氧化物反应、与酸发生中和反应",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "碱具有相似化学性质的原因",
+                    "content": "在水溶液中都能解离出OH-",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "中和反应",
+                "content": "酸与碱作用生成盐和水的反应，有广泛应用",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "课题3 常见的盐",
+            "content": "认识几种常见盐的性质、用途及复分解反应",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "氯化钠",
+                "content": "俗称食盐，重要调味品，维持人体正常生理活动，用途广泛",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "碳酸钠、碳酸氢钠和碳酸钙",
+                "content": "俗称、主要用途及化学性质（与酸反应生成CO2）",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "复分解反应",
+                "content": "两种化合物互相交换成分，生成另外两种化合物的反应；发生条件：有沉淀、气体或水生成",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "化肥",
+                "content": "农作物生长所需营养元素（N、P、K等）的化合物，包括氮肥、磷肥、钾肥和复合肥料",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十一单元 化学与社会",
+        "content": "了解化学与人体健康、化学与可持续发展的关系",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "课题1 化学与人体健康",
+            "content": "认识人体中的元素、合理膳食及合理用药",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "人体中的元素",
+                "content": "常量元素（含量>0.01%）和微量元素（含量<0.01%）的生理功能及适宜摄入量",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "合理膳食",
+                "content": "六大营养物质（水、糖类、蛋白质、油脂、无机盐、维生素）的作用及均衡摄入",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "合理用药",
+                "content": "遵从医嘱，注意安全，远离毒品",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "课题2 化学与可持续发展",
+            "content": "了解化学在能源利用、材料开发及实现社会可持续发展中的作用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "化学与能源利用",
+                "content": "化石能源的转化与清洁利用，新能源（如氢能）的开发",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "化学与材料开发",
+                "content": "合成材料（塑料、合成纤维、合成橡胶）的性能、应用及新型复合材料、功能材料的开发",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "可持续发展",
+                "content": "化学在解决资源、环境、材料、能源、健康等社会性科学议题，促进社会可持续发展中的作用",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "金属",
+      "tail": "金属材料",
+      "relation": "用于制造"
+    },
+    {
+      "head": "合金",
+      "tail": "纯金属",
+      "relation": "由...制成"
+    },
+    {
+      "head": "生铁",
+      "tail": "钢",
+      "relation": "含碳量不同"
+    },
+    {
+      "head": "金属",
+      "tail": "氧气",
+      "relation": "能与...反应"
+    },
+    {
+      "head": "活泼金属",
+      "tail": "酸",
+      "relation": "能置换...中的氢"
+    },
+    {
+      "head": "金属活动性顺序",
+      "tail": "置换反应",
+      "relation": "用于预测"
+    },
+    {
+      "head": "金属矿物",
+      "tail": "金属",
+      "relation": "是...的来源"
+    },
+    {
+      "head": "一氧化碳",
+      "tail": "氧化铁",
+      "relation": "用于还原"
+    },
+    {
+      "head": "铁",
+      "tail": "氧气和水",
+      "relation": "生锈条件"
+    },
+    {
+      "head": "溶液",
+      "tail": "溶质和溶剂",
+      "relation": "由...组成"
+    },
+    {
+      "head": "溶解",
+      "tail": "热效应",
+      "relation": "伴随"
+    },
+    {
+      "head": "饱和溶液",
+      "tail": "不饱和溶液",
+      "relation": "可相互转化"
+    },
+    {
+      "head": "溶解度",
+      "tail": "温度",
+      "relation": "受...影响"
+    },
+    {
+      "head": "溶解度曲线",
+      "tail": "溶解度",
+      "relation": "表示...随温度的变化"
+    },
+    {
+      "head": "溶质的质量分数",
+      "tail": "溶质质量",
+      "relation": "计算公式涉及"
+    },
+    {
+      "head": "酸碱指示剂",
+      "tail": "酸或碱溶液",
+      "relation": "用于检验"
+    },
+    {
+      "head": "pH",
+      "tail": "溶液酸碱度",
+      "relation": "表示"
+    },
+    {
+      "head": "浓硫酸",
+      "tail": "水",
+      "relation": "稀释时需将...注入水中"
+    },
+    {
+      "head": "酸",
+      "tail": "H+",
+      "relation": "在水溶液中解离出"
+    },
+    {
+      "head": "碱",
+      "tail": "OH-",
+      "relation": "在水溶液中解离出"
+    },
+    {
+      "head": "中和反应",
+      "tail": "盐和水",
+      "relation": "生成"
+    },
+    {
+      "head": "氯化钠",
+      "tail": "人体生理活动",
+      "relation": "维持"
+    },
+    {
+      "head": "碳酸盐",
+      "tail": "酸",
+      "relation": "能与...反应生成CO2"
+    },
+    {
+      "head": "复分解反应",
+      "tail": "沉淀、气体或水",
+      "relation": "发生条件是有..."
+    },
+    {
+      "head": "化肥",
+      "tail": "农作物生长",
+      "relation": "提供营养"
+    },
+    {
+      "head": "人体健康",
+      "tail": "常量元素和微量元素",
+      "relation": "需要"
+    },
+    {
+      "head": "合理膳食",
+      "tail": "六大营养物质",
+      "relation": "需均衡摄入"
+    },
+    {
+      "head": "化学",
+      "tail": "能源利用",
+      "relation": "促进"
+    },
+    {
+      "head": "化学",
+      "tail": "材料开发",
+      "relation": "推动"
+    },
+    {
+      "head": "化学",
+      "tail": "可持续发展",
+      "relation": "支持"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:12:00",
+    "version": "1.1"
+  }
+}

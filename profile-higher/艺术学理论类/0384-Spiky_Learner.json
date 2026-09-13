@@ -1,0 +1,2337 @@
+{
+  "student_id": "0384",
+  "target_major": "艺术学理论类",
+  "archetype": "Spiky_Learner",
+  "current_grade_level": 12.9,
+  "textbook_layer": {
+    "mastered": [
+      "语文-小学-一年级上册",
+      "语文-小学-一年级下册",
+      "语文-小学-二年级上册",
+      "语文-小学-二年级下册",
+      "语文-小学-三年级上册",
+      "语文-小学-三年级下册",
+      "语文-小学-四年级上册",
+      "语文-小学-四年级下册",
+      "语文-小学-五年级上册",
+      "语文-小学-五年级下册",
+      "语文-小学-六年级上册",
+      "语文-小学-六年级下册",
+      "语文-七年级-上册",
+      "语文-七年级-下册",
+      "语文-初中-八年级上册",
+      "语文-初中-八年级下册",
+      "语文-初中-九年级上册",
+      "语文-初中-九年级下册",
+      "语文-高中-必修上册",
+      "语文-高中-必修下册",
+      "语文-高中-选择性必修上册",
+      "语文-高中-选择性必修中册",
+      "语文-高中-选择性必修下册",
+      "美术-一年级-上册",
+      "美术-小学-一年级下册",
+      "美术-小学-二年级上册",
+      "美术-小学-二年级下册",
+      "美术-小学-三年级上册",
+      "美术-小学-三年级下册",
+      "美术-小学-四年级上册",
+      "美术-小学-四年级下册",
+      "美术-五年级-上册",
+      "美术-小学-五年级下册",
+      "美术-六年级-上册",
+      "美术-小学-六年级下册",
+      "美术-七年级-上册",
+      "美术-七年级-下册",
+      "美术-初中-八年级上册",
+      "美术-初中-八年级下册",
+      "美术-初中-九年级上册",
+      "美术-初中-九年级下册",
+      "美术-高中-美术鉴赏",
+      "美术-高中-选择性必修1绘画",
+      "美术-高中-中国书画",
+      "美术-高中-雕塑",
+      "美术-高中-设计",
+      "美术-高中-工艺",
+      "美术-高中-现代媒体艺术",
+      "音乐-小学-一年级上册",
+      "音乐-小学-一年级下册",
+      "音乐-小学-二年级上册",
+      "音乐-小学-二年级下册",
+      "音乐-小学-三年级上册",
+      "音乐-小学-三年级下册",
+      "音乐-小学-四年级上册",
+      "音乐-小学-四年级下册",
+      "音乐-小学-五年级上册",
+      "音乐-小学-五年级下册",
+      "音乐-小学-六年级上册",
+      "音乐-小学-六年级下册",
+      "音乐-七年级-上册",
+      "音乐-初中-七年级下册",
+      "音乐-初中-八年级上册",
+      "音乐-初中-八年级下册",
+      "音乐-初中-九年级上册",
+      "音乐-初中-九年级下册",
+      "音乐-高中-音乐基础理论",
+      "音乐-高中-音乐鉴赏",
+      "音乐-高中-歌唱",
+      "音乐-高中-演奏",
+      "音乐-高中-合奏",
+      "音乐-高中-合唱",
+      "音乐-高中-舞蹈表演",
+      "音乐-高中-戏剧表演",
+      "音乐-高中-音乐编创",
+      "音乐-高中-视唱练耳",
+      "音乐-高中-音乐与舞蹈",
+      "音乐-高中-音乐与戏剧"
+    ],
+    "learning": [],
+    "not_mastered": [
+      "艺术学概论"
+    ]
+  },
+  "knowledge_layer": [
+    {
+      "book_name": "语文-小学-一年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-一年级上册",
+        "children": [
+          {
+            "title": "入学教育",
+            "mastery": 0.9937
+          },
+          {
+            "title": "识字单元",
+            "mastery": 0.9952
+          },
+          {
+            "title": "汉语拼音",
+            "mastery": 0.9144
+          },
+          {
+            "title": "课文阅读",
+            "mastery": 0.9752
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-一年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-一年级下册",
+        "children": [
+          {
+            "title": "识字单元",
+            "mastery": 0.9855
+          },
+          {
+            "title": "阅读单元",
+            "mastery": 0.8334
+          },
+          {
+            "title": "语文综合应用",
+            "mastery": 0.9976
+          },
+          {
+            "title": "语文基础技能",
+            "mastery": 0.9239
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-二年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-二年级上册",
+        "children": [
+          {
+            "title": "阅读模块",
+            "mastery": 0.971
+          },
+          {
+            "title": "识字模块",
+            "mastery": 0.9649
+          },
+          {
+            "title": "口语交际模块",
+            "mastery": 0.9381
+          },
+          {
+            "title": "写话模块",
+            "mastery": 0.9807
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-二年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-二年级下册",
+        "children": [
+          {
+            "title": "课文",
+            "mastery": 0.9252
+          },
+          {
+            "title": "识字",
+            "mastery": 0.9072
+          },
+          {
+            "title": "语文园地",
+            "mastery": 0.9769
+          },
+          {
+            "title": "口语交际",
+            "mastery": 0.9866
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-三年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-三年级上册",
+        "children": [
+          {
+            "title": "校园生活主题单元",
+            "mastery": 0.9426
+          },
+          {
+            "title": "金秋时节主题单元",
+            "mastery": 0.9382
+          },
+          {
+            "title": "写作能力训练",
+            "mastery": 0.9247
+          },
+          {
+            "title": "语言积累与运用",
+            "mastery": 0.9261
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-三年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-三年级下册",
+        "children": [
+          {
+            "title": "可爱的生灵",
+            "mastery": 0.92
+          },
+          {
+            "title": "寓言故事",
+            "mastery": 0.9686
+          },
+          {
+            "title": "观察与想象",
+            "mastery": 0.9941
+          },
+          {
+            "title": "传统文化",
+            "mastery": 0.9325
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-四年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-四年级上册",
+        "children": [
+          {
+            "title": "自然之美",
+            "mastery": 0.9575
+          },
+          {
+            "title": "提问策略",
+            "mastery": 0.966
+          },
+          {
+            "title": "连续观察",
+            "mastery": 0.8984
+          },
+          {
+            "title": "神话故事",
+            "mastery": 0.9035
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-四年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-四年级下册",
+        "children": [
+          {
+            "title": "乡村生活主题",
+            "mastery": 0.9966
+          },
+          {
+            "title": "科技探索主题",
+            "mastery": 0.9178
+          },
+          {
+            "title": "现代诗歌主题",
+            "mastery": 0.8997
+          },
+          {
+            "title": "动物描写主题",
+            "mastery": 0.9528
+          },
+          {
+            "title": "童话故事主题",
+            "mastery": 0.9015
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-五年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-五年级上册",
+        "children": [
+          {
+            "title": "写景抒情单元",
+            "mastery": 0.9508
+          },
+          {
+            "title": "阅读方法单元",
+            "mastery": 0.9841
+          },
+          {
+            "title": "民间故事单元",
+            "mastery": 0.9811
+          },
+          {
+            "title": "爱国主题单元",
+            "mastery": 0.9783
+          },
+          {
+            "title": "说明文写作单元",
+            "mastery": 0.9663
+          },
+          {
+            "title": "亲情描写单元",
+            "mastery": 0.9236
+          },
+          {
+            "title": "景物描写单元",
+            "mastery": 0.909
+          },
+          {
+            "title": "读书方法单元",
+            "mastery": 0.9817
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-五年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-五年级下册",
+        "children": [
+          {
+            "title": "童年往事单元",
+            "mastery": 0.9726
+          },
+          {
+            "title": "古典名著阅读",
+            "mastery": 0.9548
+          },
+          {
+            "title": "汉字文化学习",
+            "mastery": 0.9975
+          },
+          {
+            "title": "人物描写技巧",
+            "mastery": 0.9672
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-六年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-六年级上册",
+        "children": [
+          {
+            "title": "自然与想象单元",
+            "mastery": 0.8308
+          },
+          {
+            "title": "革命岁月单元",
+            "mastery": 0.9599
+          },
+          {
+            "title": "阅读策略单元",
+            "mastery": 0.9064
+          },
+          {
+            "title": "小说单元",
+            "mastery": 0.8861
+          },
+          {
+            "title": "习作单元",
+            "mastery": 0.9984
+          },
+          {
+            "title": "保护环境单元",
+            "mastery": 0.8491
+          },
+          {
+            "title": "艺术之美单元",
+            "mastery": 0.9541
+          },
+          {
+            "title": "走近鲁迅单元",
+            "mastery": 0.9971
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-六年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-六年级下册",
+        "children": [
+          {
+            "title": "民风民俗",
+            "mastery": 0.9357
+          },
+          {
+            "title": "外国文学名著",
+            "mastery": 0.967
+          },
+          {
+            "title": "情感表达方法",
+            "mastery": 0.9969
+          },
+          {
+            "title": "革命精神传承",
+            "mastery": 0.9197
+          },
+          {
+            "title": "科学探索精神",
+            "mastery": 0.9837
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-七年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-七年级-上册",
+        "children": [
+          {
+            "title": "写景抒情单元",
+            "mastery": 0.9984
+          },
+          {
+            "title": "亲情主题单元",
+            "mastery": 0.9933
+          },
+          {
+            "title": "学习成长单元",
+            "mastery": 0.9616
+          },
+          {
+            "title": "修身养德单元",
+            "mastery": 0.9015
+          },
+          {
+            "title": "人动物关系单元",
+            "mastery": 0.9618
+          },
+          {
+            "title": "想象联想单元",
+            "mastery": 0.8789
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-七年级-下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-七年级-下册",
+        "children": [
+          {
+            "title": "杰出人物单元",
+            "mastery": 0.9413
+          },
+          {
+            "title": "家国情怀单元",
+            "mastery": 0.9325
+          },
+          {
+            "title": "阅读理解方法",
+            "mastery": 0.9848
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-八年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-八年级上册",
+        "children": [
+          {
+            "title": "新闻阅读与写作",
+            "mastery": 0.969
+          },
+          {
+            "title": "回忆性散文与传记",
+            "mastery": 0.9043
+          },
+          {
+            "title": "古诗文鉴赏",
+            "mastery": 0.9891
+          },
+          {
+            "title": "散文阅读",
+            "mastery": 0.9797
+          },
+          {
+            "title": "说明文阅读",
+            "mastery": 0.9827
+          },
+          {
+            "title": "古诗文深度阅读",
+            "mastery": 0.9907
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-八年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-八年级下册",
+        "children": [
+          {
+            "title": "民俗文化单元",
+            "mastery": 0.96
+          },
+          {
+            "title": "科学事理单元",
+            "mastery": 0.9395
+          },
+          {
+            "title": "古诗文品析单元",
+            "mastery": 0.9737
+          },
+          {
+            "title": "活动探究单元",
+            "mastery": 0.8692
+          },
+          {
+            "title": "游记散文单元",
+            "mastery": 0.961
+          },
+          {
+            "title": "古诗文鉴赏单元",
+            "mastery": 0.9793
+          },
+          {
+            "title": "语文能力训练模块",
+            "mastery": 0.8919
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-九年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-九年级上册",
+        "children": [
+          {
+            "title": "诗歌单元",
+            "mastery": 0.978
+          },
+          {
+            "title": "议论性文章",
+            "mastery": 0.9685
+          },
+          {
+            "title": "文言诗文",
+            "mastery": 0.9417
+          },
+          {
+            "title": "小说阅读",
+            "mastery": 0.9928
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-九年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-九年级下册",
+        "children": [
+          {
+            "title": "诗歌鉴赏",
+            "mastery": 0.9013
+          },
+          {
+            "title": "小说阅读",
+            "mastery": 0.9395
+          },
+          {
+            "title": "文言文阅读",
+            "mastery": 0.8137
+          },
+          {
+            "title": "文艺鉴赏",
+            "mastery": 0.9644
+          },
+          {
+            "title": "戏剧活动",
+            "mastery": 0.9958
+          },
+          {
+            "title": "写作与口语交际",
+            "mastery": 0.8344
+          },
+          {
+            "title": "名著导读",
+            "mastery": 0.9164
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-必修上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-高中-必修上册",
+        "children": [
+          {
+            "title": "青春主题文学",
+            "mastery": 0.9573
+          },
+          {
+            "title": "劳动价值文学",
+            "mastery": 0.978
+          },
+          {
+            "title": "古诗词鉴赏",
+            "mastery": 0.9839
+          },
+          {
+            "title": "写景抒情散文",
+            "mastery": 0.9713
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-必修下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-高中-必修下册",
+        "children": [
+          {
+            "title": "古代散文与史传",
+            "mastery": 0.9811
+          },
+          {
+            "title": "戏剧文学",
+            "mastery": 0.9213
+          },
+          {
+            "title": "知识性读物",
+            "mastery": 0.9607
+          },
+          {
+            "title": "现代文体鉴赏",
+            "mastery": 0.9863
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-选择性必修上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-高中-选择性必修上册",
+        "children": [
+          {
+            "title": "革命文化与社会主义先进文化",
+            "mastery": 0.9525
+          },
+          {
+            "title": "先秦诸子散文",
+            "mastery": 0.9099
+          },
+          {
+            "title": "外国小说鉴赏",
+            "mastery": 0.9073
+          },
+          {
+            "title": "逻辑知识与应用",
+            "mastery": 0.9998
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-选择性必修中册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-高中-选择性必修中册",
+        "children": [
+          {
+            "title": "理论著作单元",
+            "mastery": 0.9678
+          },
+          {
+            "title": "革命文化单元",
+            "mastery": 0.9073
+          },
+          {
+            "title": "历史著述单元",
+            "mastery": 0.9915
+          },
+          {
+            "title": "外国文学单元",
+            "mastery": 0.9921
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-选择性必修下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-高中-选择性必修下册",
+        "children": [
+          {
+            "title": "古典诗词",
+            "mastery": 0.85
+          },
+          {
+            "title": "现当代文学",
+            "mastery": 0.9876
+          },
+          {
+            "title": "古代散文",
+            "mastery": 0.9331
+          },
+          {
+            "title": "科学论著",
+            "mastery": 0.9372
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-一年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-一年级-上册",
+        "children": [
+          {
+            "title": "龙的传人",
+            "mastery": 0.9729
+          },
+          {
+            "title": "奉献最美",
+            "mastery": 0.9605
+          },
+          {
+            "title": "成长足迹",
+            "mastery": 0.9355
+          },
+          {
+            "title": "我的祖国",
+            "mastery": 0.9001
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-一年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-小学-一年级下册",
+        "children": [
+          {
+            "title": "自然观察与表现",
+            "mastery": 0.7573
+          },
+          {
+            "title": "艺术技法学习",
+            "mastery": 0.8583
+          },
+          {
+            "title": "文化传承理解",
+            "mastery": 0.9735
+          },
+          {
+            "title": "人文关怀表达",
+            "mastery": 0.9698
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-二年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-小学-二年级上册",
+        "children": [
+          {
+            "title": "身边的自然",
+            "mastery": 0.9389
+          },
+          {
+            "title": "爱我家园",
+            "mastery": 0.9782
+          },
+          {
+            "title": "我是小工匠",
+            "mastery": 0.9503
+          },
+          {
+            "title": "寻找年味儿",
+            "mastery": 0.9921
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-二年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-小学-二年级下册",
+        "children": [
+          {
+            "title": "造型表现领域",
+            "mastery": 0.9938
+          },
+          {
+            "title": "设计应用领域",
+            "mastery": 0.9531
+          },
+          {
+            "title": "综合探索领域",
+            "mastery": 0.985
+          },
+          {
+            "title": "技术应用领域",
+            "mastery": 0.9811
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-三年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-小学-三年级上册",
+        "children": [
+          {
+            "title": "童年生活",
+            "mastery": 0.9378
+          },
+          {
+            "title": "我和家人",
+            "mastery": 0.9512
+          },
+          {
+            "title": "爱集体爱劳动",
+            "mastery": 0.8297
+          },
+          {
+            "title": "走进儿童剧",
+            "mastery": 0.8979
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-三年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-小学-三年级下册",
+        "children": [
+          {
+            "title": "水墨游戏",
+            "mastery": 0.8968
+          },
+          {
+            "title": "图形构成原理",
+            "mastery": 0.9525
+          },
+          {
+            "title": "线条艺术表现",
+            "mastery": 0.9731
+          },
+          {
+            "title": "色彩与情感表达",
+            "mastery": 0.9294
+          },
+          {
+            "title": "创意造型设计",
+            "mastery": 0.9463
+          },
+          {
+            "title": "人物与场景表现",
+            "mastery": 0.8039
+          },
+          {
+            "title": "手工制作技艺",
+            "mastery": 0.9484
+          },
+          {
+            "title": "立体造型创作",
+            "mastery": 0.9524
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-四年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-小学-四年级上册",
+        "children": [
+          {
+            "title": "色彩基础知识",
+            "mastery": 0.9495
+          },
+          {
+            "title": "造型与表现技法",
+            "mastery": 0.9379
+          },
+          {
+            "title": "主题创作与实践",
+            "mastery": 0.9742
+          },
+          {
+            "title": "综合技法与创意设计",
+            "mastery": 0.9546
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-四年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-小学-四年级下册",
+        "children": [
+          {
+            "title": "绘画基础技法",
+            "mastery": 0.9805
+          },
+          {
+            "title": "手工制作技艺",
+            "mastery": 0.9541
+          },
+          {
+            "title": "数字艺术创作",
+            "mastery": 0.8915
+          },
+          {
+            "title": "艺术欣赏素养",
+            "mastery": 0.9481
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-五年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-五年级-上册",
+        "children": [
+          {
+            "title": "色彩原理与应用",
+            "mastery": 0.9981
+          },
+          {
+            "title": "图案设计与制作",
+            "mastery": 0.8067
+          },
+          {
+            "title": "绘画技法探索",
+            "mastery": 0.8988
+          },
+          {
+            "title": "手工制作与传统文化",
+            "mastery": 0.9617
+          },
+          {
+            "title": "现代美术技术",
+            "mastery": 0.9772
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-五年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-小学-五年级下册",
+        "children": [
+          {
+            "title": "造型表现领域",
+            "mastery": 0.9446
+          },
+          {
+            "title": "设计应用领域",
+            "mastery": 0.9217
+          },
+          {
+            "title": "欣赏评述领域",
+            "mastery": 0.9366
+          },
+          {
+            "title": "综合探索领域",
+            "mastery": 0.9769
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-六年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-六年级-上册",
+        "children": [
+          {
+            "title": "造型表现领域",
+            "mastery": 0.7724
+          },
+          {
+            "title": "设计应用领域",
+            "mastery": 0.9514
+          },
+          {
+            "title": "传统绘画技法",
+            "mastery": 0.884
+          },
+          {
+            "title": "艺术欣赏与保护",
+            "mastery": 0.9581
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-小学-六年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-小学-六年级下册",
+        "children": [
+          {
+            "title": "明暗与立体",
+            "mastery": 0.9996
+          },
+          {
+            "title": "美的发现与记录",
+            "mastery": 0.993
+          },
+          {
+            "title": "色彩观察与表现",
+            "mastery": 0.9381
+          },
+          {
+            "title": "雕刻艺术技法",
+            "mastery": 0.8912
+          },
+          {
+            "title": "浮雕艺术创作",
+            "mastery": 0.976
+          },
+          {
+            "title": "扇面画艺术",
+            "mastery": 0.9716
+          },
+          {
+            "title": "工笔花卉技法",
+            "mastery": 0.996
+          },
+          {
+            "title": "服装设计基础",
+            "mastery": 0.7453
+          },
+          {
+            "title": "图文创作艺术",
+            "mastery": 0.9616
+          },
+          {
+            "title": "宇宙主题创作",
+            "mastery": 0.9401
+          },
+          {
+            "title": "奥运精神表现",
+            "mastery": 0.7003
+          },
+          {
+            "title": "未来学校规划",
+            "mastery": 0.993
+          },
+          {
+            "title": "毕业纪念活动",
+            "mastery": 0.9981
+          },
+          {
+            "title": "电脑美术创作",
+            "mastery": 0.9796
+          },
+          {
+            "title": "古代建筑艺术",
+            "mastery": 0.9586
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-七年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-七年级-上册",
+        "children": [
+          {
+            "title": "革命历史题材美术",
+            "mastery": 0.9353
+          },
+          {
+            "title": "线与色的造型表现",
+            "mastery": 0.8726
+          },
+          {
+            "title": "视觉传达设计",
+            "mastery": 0.989
+          },
+          {
+            "title": "舞台美术设计",
+            "mastery": 0.9943
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-七年级-下册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-七年级-下册",
+        "children": [
+          {
+            "title": "社会主义建设成就欣赏",
+            "mastery": 0.9686
+          },
+          {
+            "title": "校园生活表现技法",
+            "mastery": 0.9348
+          },
+          {
+            "title": "艺术节设计策划",
+            "mastery": 0.8993
+          },
+          {
+            "title": "革命遗址记录表现",
+            "mastery": 0.8945
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-初中-八年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-初中-八年级上册",
+        "children": [
+          {
+            "title": "中国传统色彩",
+            "mastery": 0.9798
+          },
+          {
+            "title": "中国园林艺术",
+            "mastery": 0.9498
+          },
+          {
+            "title": "中国山水画艺术",
+            "mastery": 0.8875
+          },
+          {
+            "title": "书籍装帧艺术",
+            "mastery": 0.9311
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-初中-八年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-初中-八年级下册",
+        "children": [
+          {
+            "title": "美术作品的深层意蕴",
+            "mastery": 0.9591
+          },
+          {
+            "title": "纹样与生活",
+            "mastery": 0.9527
+          },
+          {
+            "title": "生活情趣营造",
+            "mastery": 0.9264
+          },
+          {
+            "title": "居住环境设计",
+            "mastery": 0.9781
+          },
+          {
+            "title": "中国古典园林欣赏",
+            "mastery": 0.9214
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-初中-九年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-初中-九年级上册",
+        "children": [
+          {
+            "title": "中国古代美术名作欣赏",
+            "mastery": 0.8807
+          },
+          {
+            "title": "民间工艺制作技艺",
+            "mastery": 0.8521
+          },
+          {
+            "title": "陶瓷艺术实践",
+            "mastery": 0.801
+          },
+          {
+            "title": "民俗文化考察研究",
+            "mastery": 0.9431
+          },
+          {
+            "title": "民间美术体系认知",
+            "mastery": 0.9769
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-初中-九年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-初中-九年级下册",
+        "children": [
+          {
+            "title": "外国美术名作巡礼",
+            "mastery": 0.8226
+          },
+          {
+            "title": "保护世界遗产",
+            "mastery": 0.9625
+          },
+          {
+            "title": "动漫艺术创作",
+            "mastery": 0.9242
+          },
+          {
+            "title": "20世纪中国美术",
+            "mastery": 0.7936
+          },
+          {
+            "title": "毕业创作实践",
+            "mastery": 0.9788
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-高中-美术鉴赏",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-高中-美术鉴赏",
+        "children": [
+          {
+            "title": "鉴赏基础",
+            "mastery": 0.8592
+          },
+          {
+            "title": "中国美术鉴赏",
+            "mastery": 0.9988
+          },
+          {
+            "title": "外国美术鉴赏",
+            "mastery": 0.7871
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-高中-选择性必修1绘画",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-高中-选择性必修1绘画",
+        "children": [
+          {
+            "title": "点线面构成基础",
+            "mastery": 0.9993
+          },
+          {
+            "title": "色彩理论与应用",
+            "mastery": 0.8884
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-高中-中国书画",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-高中-中国书画",
+        "children": [
+          {
+            "title": "中国画",
+            "mastery": 0.9943
+          },
+          {
+            "title": "书法",
+            "mastery": 0.8765
+          },
+          {
+            "title": "篆刻",
+            "mastery": 0.976
+          },
+          {
+            "title": "诗书画印结合",
+            "mastery": 0.9811
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-高中-雕塑",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-高中-雕塑",
+        "children": [
+          {
+            "title": "雕塑概述",
+            "mastery": 0.9862
+          },
+          {
+            "title": "雕塑创作技术",
+            "mastery": 0.9865
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-高中-设计",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-高中-设计",
+        "children": [
+          {
+            "title": "设计概述",
+            "mastery": 0.9894
+          },
+          {
+            "title": "视觉传达设计",
+            "mastery": 0.87
+          },
+          {
+            "title": "产品设计",
+            "mastery": 0.9593
+          },
+          {
+            "title": "环境设计",
+            "mastery": 0.9358
+          },
+          {
+            "title": "创造价值服务人民",
+            "mastery": 0.8984
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-高中-工艺",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-高中-工艺",
+        "children": [
+          {
+            "title": "工艺基础理论",
+            "mastery": 0.9848
+          },
+          {
+            "title": "陶瓷工艺",
+            "mastery": 0.876
+          },
+          {
+            "title": "染织工艺",
+            "mastery": 0.9068
+          },
+          {
+            "title": "编织与纸艺",
+            "mastery": 0.9063
+          },
+          {
+            "title": "木工与雕刻工艺",
+            "mastery": 0.9898
+          },
+          {
+            "title": "民俗工艺制作",
+            "mastery": 0.9232
+          },
+          {
+            "title": "工艺传承与保护",
+            "mastery": 0.9563
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "美术-高中-现代媒体艺术",
+      "status": "mastered",
+      "detail": {
+        "title": "美术-高中-现代媒体艺术",
+        "children": [
+          {
+            "title": "导论",
+            "mastery": 0.9572
+          },
+          {
+            "title": "摄影艺术",
+            "mastery": 0.9296
+          },
+          {
+            "title": "摄像艺术",
+            "mastery": 0.9863
+          },
+          {
+            "title": "数字媒体艺术",
+            "mastery": 0.9789
+          },
+          {
+            "title": "交互设计思维",
+            "mastery": 0.9369
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-小学-一年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-小学-一年级上册",
+        "children": [
+          {
+            "title": "声音认知与礼仪",
+            "mastery": 0.7284
+          },
+          {
+            "title": "节奏基础学习",
+            "mastery": 0.936
+          },
+          {
+            "title": "旋律与乐器认知",
+            "mastery": 0.9815
+          },
+          {
+            "title": "歌曲演唱与音乐活动",
+            "mastery": 0.9435
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-小学-一年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-小学-一年级下册",
+        "children": [
+          {
+            "title": "音乐基础知识",
+            "mastery": 0.8881
+          },
+          {
+            "title": "歌唱技能训练",
+            "mastery": 0.8756
+          },
+          {
+            "title": "演奏技能入门",
+            "mastery": 0.9472
+          },
+          {
+            "title": "音乐体裁与形式认知",
+            "mastery": 0.9529
+          },
+          {
+            "title": "音乐活动与创作实践",
+            "mastery": 0.9134
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-小学-二年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-小学-二年级上册",
+        "children": [
+          {
+            "title": "戏曲艺术",
+            "mastery": 0.9929
+          },
+          {
+            "title": "曲艺形式",
+            "mastery": 0.923
+          },
+          {
+            "title": "民间音乐",
+            "mastery": 0.9166
+          },
+          {
+            "title": "音乐基础",
+            "mastery": 0.9401
+          },
+          {
+            "title": "音乐实践",
+            "mastery": 0.9051
+          },
+          {
+            "title": "音乐文化",
+            "mastery": 0.9619
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-小学-二年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-小学-二年级下册",
+        "children": [
+          {
+            "title": "到郊外去",
+            "mastery": 0.9673
+          },
+          {
+            "title": "健康歌",
+            "mastery": 0.9919
+          },
+          {
+            "title": "音乐中的动物",
+            "mastery": 0.8832
+          },
+          {
+            "title": "五十六朵花",
+            "mastery": 0.9986
+          },
+          {
+            "title": "调皮的小闹钟",
+            "mastery": 0.9546
+          },
+          {
+            "title": "童年的游戏",
+            "mastery": 0.9595
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-小学-三年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-小学-三年级上册",
+        "children": [
+          {
+            "title": "音乐基础知识",
+            "mastery": 0.9381
+          },
+          {
+            "title": "歌唱与演奏",
+            "mastery": 0.9598
+          },
+          {
+            "title": "音乐欣赏",
+            "mastery": 0.9932
+          },
+          {
+            "title": "音乐文化与创作",
+            "mastery": 0.9941
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-小学-三年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-小学-三年级下册",
+        "children": [
+          {
+            "title": "美丽的大自然",
+            "mastery": 0.994
+          },
+          {
+            "title": "可爱的家",
+            "mastery": 0.8303
+          },
+          {
+            "title": "音乐中的故事",
+            "mastery": 0.8496
+          },
+          {
+            "title": "民族音乐与文化",
+            "mastery": 0.9267
+          },
+          {
+            "title": "音乐基础知识",
+            "mastery": 0.9816
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-小学-四年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-小学-四年级上册",
+        "children": [
+          {
+            "title": "东海渔歌",
+            "mastery": 0.984
+          },
+          {
+            "title": "音乐中的故事",
+            "mastery": 0.949
+          },
+          {
+            "title": "音乐表现要素",
+            "mastery": 0.9865
+          },
+          {
+            "title": "音乐文化体验",
+            "mastery": 0.9706
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-小学-四年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-小学-四年级下册",
+        "children": [
+          {
+            "title": "中国民族音乐",
+            "mastery": 0.9029
+          },
+          {
+            "title": "戏曲艺术",
+            "mastery": 0.9564
+          },
+          {
+            "title": "世界音乐文化",
+            "mastery": 0.952
+          },
+          {
+            "title": "音乐基础知识",
+            "mastery": 0.9688
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-小学-五年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-小学-五年级上册",
+        "children": [
+          {
+            "title": "西部风情",
+            "mastery": 0.962
+          },
+          {
+            "title": "绿色畅想",
+            "mastery": 0.9224
+          },
+          {
+            "title": "欢快舞步",
+            "mastery": 0.9092
+          },
+          {
+            "title": "音乐故事",
+            "mastery": 0.9214
+          },
+          {
+            "title": "八音盒",
+            "mastery": 0.9809
+          },
+          {
+            "title": "音乐基础知识",
+            "mastery": 0.9936
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-小学-五年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-小学-五年级下册",
+        "children": [
+          {
+            "title": "北国之声",
+            "mastery": 0.8131
+          },
+          {
+            "title": "五十六朵花",
+            "mastery": 0.8603
+          },
+          {
+            "title": "演唱技巧",
+            "mastery": 0.9966
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-小学-六年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-小学-六年级上册",
+        "children": [
+          {
+            "title": "我的祖国",
+            "mastery": 0.955
+          },
+          {
+            "title": "美丽的草原",
+            "mastery": 0.9755
+          },
+          {
+            "title": "星空畅想",
+            "mastery": 0.9882
+          },
+          {
+            "title": "音乐综合应用",
+            "mastery": 0.9559
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-小学-六年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-小学-六年级下册",
+        "children": [
+          {
+            "title": "爱满人间",
+            "mastery": 0.8721
+          },
+          {
+            "title": "八音盒",
+            "mastery": 0.9345
+          },
+          {
+            "title": "环球采风",
+            "mastery": 0.9338
+          },
+          {
+            "title": "五十六朵花",
+            "mastery": 0.9739
+          },
+          {
+            "title": "母亲河",
+            "mastery": 0.961
+          },
+          {
+            "title": "告别时刻",
+            "mastery": 0.8873
+          },
+          {
+            "title": "音乐综合实践",
+            "mastery": 0.9949
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-七年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-七年级-上册",
+        "children": [
+          {
+            "title": "生活中的音乐",
+            "mastery": 0.9914
+          },
+          {
+            "title": "多彩的音乐风格",
+            "mastery": 0.9356
+          },
+          {
+            "title": "中国音乐的历史进程",
+            "mastery": 0.9387
+          },
+          {
+            "title": "西方音乐发展史",
+            "mastery": 0.9964
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-初中-七年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-初中-七年级下册",
+        "children": [
+          {
+            "title": "声音科学基础",
+            "mastery": 0.989
+          },
+          {
+            "title": "音乐艺术特性",
+            "mastery": 0.9642
+          },
+          {
+            "title": "音乐表现方法",
+            "mastery": 0.9482
+          },
+          {
+            "title": "音乐实践技术",
+            "mastery": 0.9818
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-初中-八年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-初中-八年级上册",
+        "children": [
+          {
+            "title": "旋律的奥秘",
+            "mastery": 0.7661
+          },
+          {
+            "title": "和声的力量",
+            "mastery": 0.9609
+          },
+          {
+            "title": "复调的智慧",
+            "mastery": 0.9631
+          },
+          {
+            "title": "配器的色彩",
+            "mastery": 0.9199
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-初中-八年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-初中-八年级下册",
+        "children": [
+          {
+            "title": "华夏古韵",
+            "mastery": 0.9855
+          },
+          {
+            "title": "梨园风采",
+            "mastery": 0.9855
+          },
+          {
+            "title": "西乐撷英",
+            "mastery": 0.852
+          },
+          {
+            "title": "神州音韵",
+            "mastery": 0.961
+          },
+          {
+            "title": "音乐故事",
+            "mastery": 0.8996
+          },
+          {
+            "title": "音乐理论与技能",
+            "mastery": 0.846
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-初中-九年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-初中-九年级上册",
+        "children": [
+          {
+            "title": "光辉的历程",
+            "mastery": 0.9205
+          },
+          {
+            "title": "音乐故事（二）",
+            "mastery": 0.8919
+          },
+          {
+            "title": "曲苑天地",
+            "mastery": 0.9872
+          },
+          {
+            "title": "西乐撷英（二）",
+            "mastery": 0.9826
+          },
+          {
+            "title": "舞剧音乐",
+            "mastery": 0.9162
+          },
+          {
+            "title": "中国流行风",
+            "mastery": 0.9905
+          },
+          {
+            "title": "音乐基础知识",
+            "mastery": 0.888
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-初中-九年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-初中-九年级下册",
+        "children": [
+          {
+            "title": "百卉含英",
+            "mastery": 0.9752
+          },
+          {
+            "title": "梨园风采（二）",
+            "mastery": 0.9709
+          },
+          {
+            "title": "西乐撷英（三）",
+            "mastery": 0.9637
+          },
+          {
+            "title": "音乐基础知识",
+            "mastery": 0.94
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-高中-音乐基础理论",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-高中-音乐基础理论",
+        "children": [
+          {
+            "title": "节奏与节拍",
+            "mastery": 0.7525
+          },
+          {
+            "title": "音值组合",
+            "mastery": 0.8909
+          },
+          {
+            "title": "节拍划分",
+            "mastery": 0.9234
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-高中-音乐鉴赏",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-高中-音乐鉴赏",
+        "children": [
+          {
+            "title": "音乐基础知识",
+            "mastery": 0.967
+          },
+          {
+            "title": "中国音乐文化",
+            "mastery": 0.9739
+          },
+          {
+            "title": "西方音乐发展",
+            "mastery": 0.938
+          },
+          {
+            "title": "世界音乐文化",
+            "mastery": 0.8943
+          },
+          {
+            "title": "音乐社会功能",
+            "mastery": 0.8617
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-高中-歌唱",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-高中-歌唱",
+        "children": [
+          {
+            "title": "歌唱基础知识",
+            "mastery": 0.9947
+          },
+          {
+            "title": "歌唱发声技巧",
+            "mastery": 0.9421
+          },
+          {
+            "title": "合唱艺术",
+            "mastery": 0.807
+          },
+          {
+            "title": "艺术表现与保护",
+            "mastery": 0.9843
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-高中-演奏",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-高中-演奏",
+        "children": [
+          {
+            "title": "乐队基础知识",
+            "mastery": 0.7303
+          },
+          {
+            "title": "中国民族管弦乐队",
+            "mastery": 0.9841
+          },
+          {
+            "title": "西洋管弦乐队",
+            "mastery": 0.9094
+          },
+          {
+            "title": "合奏实践要求",
+            "mastery": 0.8964
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-高中-合奏",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-高中-合奏",
+        "children": [
+          {
+            "title": "民族管弦乐队合奏",
+            "mastery": 0.9276
+          },
+          {
+            "title": "打击乐合奏",
+            "mastery": 0.9865
+          },
+          {
+            "title": "弹拨乐合奏",
+            "mastery": 0.991
+          },
+          {
+            "title": "丝竹乐合奏",
+            "mastery": 0.9963
+          },
+          {
+            "title": "小型管弦乐队合奏",
+            "mastery": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-高中-合唱",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-高中-合唱",
+        "children": [
+          {
+            "title": "合唱基础训练",
+            "mastery": 0.9871
+          },
+          {
+            "title": "音准控制技术",
+            "mastery": 0.9408
+          },
+          {
+            "title": "节奏层次训练",
+            "mastery": 0.9577
+          },
+          {
+            "title": "吐字咬字技术",
+            "mastery": 0.962
+          },
+          {
+            "title": "声部均衡控制",
+            "mastery": 0.9785
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-高中-舞蹈表演",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-高中-舞蹈表演",
+        "children": [
+          {
+            "title": "中外民间舞",
+            "mastery": 0.7564
+          },
+          {
+            "title": "中外古典舞",
+            "mastery": 0.8829
+          },
+          {
+            "title": "现代舞与编创",
+            "mastery": 0.9753
+          },
+          {
+            "title": "舞蹈表演实践",
+            "mastery": 0.957
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-高中-戏剧表演",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-高中-戏剧表演",
+        "children": [
+          {
+            "title": "戏剧表演概述",
+            "mastery": 0.9845
+          },
+          {
+            "title": "配乐朗诵艺术",
+            "mastery": 0.942
+          },
+          {
+            "title": "课本剧创作",
+            "mastery": 0.873
+          },
+          {
+            "title": "话剧艺术",
+            "mastery": 0.9991
+          },
+          {
+            "title": "音乐剧表演",
+            "mastery": 0.9168
+          },
+          {
+            "title": "歌剧艺术",
+            "mastery": 0.8115
+          },
+          {
+            "title": "戏曲艺术",
+            "mastery": 0.9367
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-高中-音乐编创",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-高中-音乐编创",
+        "children": [
+          {
+            "title": "走近音乐编创",
+            "mastery": 0.9674
+          },
+          {
+            "title": "旋律写作技术",
+            "mastery": 0.9532
+          },
+          {
+            "title": "音乐主题与结构",
+            "mastery": 0.9822
+          },
+          {
+            "title": "歌词创作技术",
+            "mastery": 0.9122
+          },
+          {
+            "title": "计算机音乐应用",
+            "mastery": 0.9605
+          },
+          {
+            "title": "伴奏编配技术",
+            "mastery": 0.9407
+          },
+          {
+            "title": "辅助作曲技巧",
+            "mastery": 0.9549
+          },
+          {
+            "title": "名家作品分析",
+            "mastery": 0.9706
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-高中-视唱练耳",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-高中-视唱练耳",
+        "children": [
+          {
+            "title": "节奏训练",
+            "mastery": 0.9119
+          },
+          {
+            "title": "听音训练",
+            "mastery": 0.9629
+          },
+          {
+            "title": "视唱训练",
+            "mastery": 0.993
+          },
+          {
+            "title": "拍子训练",
+            "mastery": 0.9871
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-高中-音乐与舞蹈",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-高中-音乐与舞蹈",
+        "children": [
+          {
+            "title": "舞蹈的起源与基础",
+            "mastery": 0.9275
+          },
+          {
+            "title": "中国民族民间舞蹈",
+            "mastery": 0.8733
+          },
+          {
+            "title": "古典与芭蕾舞蹈",
+            "mastery": 0.9449
+          },
+          {
+            "title": "现代与社交舞蹈",
+            "mastery": 0.9733
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "音乐-高中-音乐与戏剧",
+      "status": "mastered",
+      "detail": {
+        "title": "音乐-高中-音乐与戏剧",
+        "children": [
+          {
+            "title": "戏剧的概念与形式",
+            "mastery": 0.9837
+          },
+          {
+            "title": "中国戏曲",
+            "mastery": 0.9863
+          },
+          {
+            "title": "中国歌剧",
+            "mastery": 0.7192
+          },
+          {
+            "title": "欧洲歌剧",
+            "mastery": 0.994
+          },
+          {
+            "title": "音乐剧",
+            "mastery": 0.9711
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "艺术学概论",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-艺术学-艺术学理论类-艺术学概论",
+        "children": [
+          {
+            "title": "艺术的本质与特征",
+            "mastery": 0.1423
+          },
+          {
+            "title": "艺术的起源",
+            "mastery": 0.0889
+          },
+          {
+            "title": "艺术的功能",
+            "mastery": 0.2746
+          },
+          {
+            "title": "艺术分类",
+            "mastery": 0.358
+          },
+          {
+            "title": "艺术创作",
+            "mastery": 0.0525
+          },
+          {
+            "title": "艺术作品",
+            "mastery": 0.2734
+          },
+          {
+            "title": "艺术接受",
+            "mastery": 0.2958
+          },
+          {
+            "title": "艺术的发生发展",
+            "mastery": 0.1839
+          }
+        ]
+      }
+    }
+  ]
+}

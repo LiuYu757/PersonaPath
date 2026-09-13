@@ -1,0 +1,880 @@
+{
+  "knowledge_tree": {
+    "title": "医学微生物学",
+    "content": "研究病原微生物的形态、结构、代谢、遗传变异、致病机制、免疫、诊断与防治的基础医学主干课程",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "绪论",
+        "content": "微生物与微生物学、医学微生物学发展简史",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "微生物的特点",
+            "content": "体积微小、结构简单、繁殖迅速、数量庞大、代谢旺盛、营养谱广、易变异",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "微生物的分类",
+            "content": "非细胞型、原核细胞型、真核细胞型三大类及主要特征对比",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "微生物与人类关系",
+            "content": "有益作用、正常菌群、条件致病菌、病原微生物概念",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "医学微生物学发展三阶段",
+            "content": "经验时期、实验时期、现代时期标志性事件",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "细菌学",
+        "content": "细菌的形态结构、生理、遗传变异、感染免疫、诊断防治及常见病原菌",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "细菌的形态与结构",
+            "content": "基本形态、大小测量、细胞壁结构与功能、特殊结构及染色方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "细菌基本形态",
+                "content": "球菌、杆菌、螺形菌及其亚类形态特征",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "细菌大小与测量单位",
+                "content": "微米(μm)与纳米(nm)单位及换算",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "革兰阳性菌细胞壁",
+                "content": "厚肽聚糖三维立体网状结构、磷壁酸功能",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "革兰阴性菌细胞壁",
+                "content": "薄肽聚糖二维平面结构、外膜(脂蛋白、脂质双层、LPS)功能",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "细菌L型",
+                "content": "细胞壁缺陷型、形成条件、形态特点及致病性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "荚膜",
+                "content": "化学组成、形成条件、抗吞噬与黏附功能",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "鞭毛",
+                "content": "结构(基础小体、钩状体、丝状体)、运动及抗原性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "菌毛",
+                "content": "普通菌毛与性菌毛结构功能、接合概念",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "芽胞",
+                "content": "形成条件、结构、抵抗力及医学意义",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "革兰染色法",
+                "content": "步骤、结果判定及临床意义",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "细菌的生理",
+            "content": "理化性状、生长繁殖、营养代谢、人工培养",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "细菌生长曲线四期",
+                "content": "迟缓期、对数期、稳定期、衰亡期特点及用途",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "细菌生长繁殖条件",
+                "content": "营养物质、酸碱度、温度、气体环境",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "细菌营养类型",
+                "content": "自养菌、异养菌(腐生菌、寄生菌)定义",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "细菌分解代谢产物及生化试验",
+                "content": "糖发酵、吲哚、甲基红、VP、枸橼酸盐、H2S试验",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "细菌合成代谢产物",
+                "content": "热原质、毒素与侵袭性酶、色素、抗生素、细菌素、维生素",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "培养基种类",
+                "content": "基础、增菌、选择、鉴别、厌氧培养基概念",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "细菌在培养基中的生长现象",
+                "content": "液体、固体(菌落概念)、半固体生长表现",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "消毒与灭菌",
+            "content": "物理、化学及生物因素对微生物的影响",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "基本概念",
+                "content": "消毒、灭菌、抑菌、防腐、无菌、无菌操作定义",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "物理消毒灭菌法",
+                "content": "热力(干热、湿热)、辐射、滤过、超声波、干燥低温法",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "湿热灭菌优点",
+                    "content": "蛋白质易凝固、穿透力强、蒸汽潜热",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "巴氏消毒法",
+                    "content": "低温杀灭病原菌、保持不耐热成分、两种方法",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "高压蒸汽灭菌法",
+                    "content": "121℃ 15-30min、适用物品、灭菌指标",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "紫外线杀菌机制",
+                    "content": "作用于DNA形成胸腺嘧啶二聚体、穿透性差、适用场景",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "化学消毒剂作用机制",
+                "content": "使蛋白变性、干扰酶活性、损伤细胞膜",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "影响消毒效果因素",
+                "content": "消毒剂性质浓度时间、微生物种类数量、有机物、温度、pH",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "噬菌体",
+            "content": "生物学性状、与宿主菌关系、应用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "噬菌体结构",
+                "content": "蝌蚪形头部(核酸+蛋白衣壳)、尾部(尾领、尾鞘、尾髓、尾板、尾丝、尾刺)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "毒性噬菌体复制周期",
+                "content": "吸附、穿入、生物合成、成熟与释放",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "温和噬菌体与溶原性",
+                "content": "前噬菌体、溶原性细菌、溶原性转换概念",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "噬菌体应用",
+                "content": "细菌鉴定分型、耐药性感染治疗、分子生物学工具、噬菌体展示技术",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "细菌的遗传与变异",
+            "content": "遗传物质基础、基因突变、基因转移重组、医学应用",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "细菌染色体特点",
+                "content": "环状双链DNA、拟核、无内含子、操纵子结构",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "质粒基本特性",
+                "content": "自主复制、赋予宿主特殊性状、可转移、不相容性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "常见质粒类型",
+                "content": "F质粒、R质粒、Col质粒、代谢质粒功能",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "转位因子",
+                "content": "插入序列(IS)、转座子(Tn)、转座噬菌体特点",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "基因突变特性",
+                "content": "自发性、稀少性、可诱发性、独立性、稳定性、可逆性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "基因转移与重组方式",
+                "content": "转化、接合、转导、溶原性转换、原生质体融合",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "转化",
+                    "content": "游离DNA片段进入受体菌、同源重组、感受态概念",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "接合",
+                    "content": "F质粒接合过程、Hfr菌株、性导、R质粒接合",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "转导",
+                    "content": "普遍性转导、局限性转导机制与区别",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "细菌遗传变异医学应用",
+                "content": "诊断治疗预防、致癌物检测、流行病学调查、基因工程",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "细菌的感染与免疫",
+            "content": "感染来源类型、细菌致病性、宿主免疫防御",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "正常菌群与条件致病菌",
+                "content": "概念、分布、生理作用、菌群失调、医院感染",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "细菌致病性三大因素",
+                "content": "毒力、侵入数量、侵入门户",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "细菌毒力组成",
+                "content": "侵袭力(黏附素、荚膜、侵袭性物质)与毒素(外毒素、内毒素)",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "外毒素特征",
+                    "content": "蛋白质、毒性强、选择性、不耐热、抗原性强、可制成类毒素",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "内毒素特征",
+                    "content": "LPS、耐热、毒性弱、无选择性、抗原性弱、不能脱毒为类毒素",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "宿主免疫防御",
+                "content": "固有免疫(屏障、吞噬细胞、体液因子)与适应性免疫(体液、细胞)",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "感染类型",
+                "content": "隐性、潜伏、显性(急性/慢性、局部/全身)、带菌状态",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "全身感染临床类型",
+                    "content": "菌血症、毒血症、败血症、脓毒血症、内毒素血症",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "细菌感染的检查与防治",
+            "content": "标本采集原则、病原学检查方法、血清学诊断、人工免疫",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "病原学检查程序",
+                "content": "涂片镜检、分离培养、生化试验、血清学鉴定、动物试验、药敏试验",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "快速检测方法",
+                "content": "抗原检测、核酸检测(PCR、探针)、气液相色谱",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "血清学诊断",
+                "content": "抗体效价概念、双份血清4倍升高、常用试验(凝集、沉淀、补结、中和、ELISA)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "人工主动免疫制剂",
+                "content": "灭活疫苗、减毒活疫苗、亚单位疫苗、核酸疫苗、类毒素",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "人工被动免疫制剂",
+                "content": "抗毒素、丙种球蛋白、抗菌免疫血清、免疫细胞与细胞因子",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "两种人工免疫比较",
+                "content": "物质、出现时间、维持时间、用途差异",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "常见病原性细菌",
+            "content": "球菌、肠道杆菌、弧菌、厌氧菌、分枝杆菌、动物源性菌等",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "葡萄球菌属",
+                "content": "金黄色葡萄球菌致病物质(凝固酶、毒素、SPA)与所致疾病",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "链球菌属",
+                "content": "A群链球菌致病物质(M蛋白、侵袭酶、毒素)与所致疾病",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "肺炎链球菌",
+                "content": "荚膜致病作用、大叶性肺炎、微生物学检查要点",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "奈瑟菌属",
+                "content": "脑膜炎奈瑟菌(流脑)、淋病奈瑟菌(淋病)生物学与致病性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "埃希菌属",
+                "content": "大肠埃希菌致病类型(机会感染、肠内感染)及五类致腹泻菌株",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "志贺菌属",
+                "content": "痢疾杆菌致病物质(侵袭力、内毒素、外毒素)与细菌性痢疾",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "沙门菌属",
+                "content": "伤寒沙门菌致病机制、肠热症过程、肥达试验原理与结果分析",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "霍乱弧菌",
+                "content": "形态染色、培养特性、肠毒素结构与致病机制、免疫性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "厌氧芽胞梭菌",
+                "content": "破伤风梭菌、产气荚膜梭菌、肉毒梭菌、艰难梭菌致病特点",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "无芽胞厌氧菌",
+                "content": "致病条件、感染特征、常见菌属及所致疾病",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "结核分枝杆菌",
+                "content": "抗酸性、培养特性、致病物质、原发与继发感染、结核菌素试验",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "布鲁菌属",
+                "content": "波浪热机制、免疫特点、微生物学检查与防治",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "炭疽芽胞杆菌",
+                "content": "形态特征、荚膜与炭疽毒素致病作用、临床类型与防治",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "其他重要细菌",
+        "content": "放线菌、棒状杆菌、其他革兰阴性杆菌",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "放线菌属与诺卡菌属",
+            "content": "硫磺样颗粒、诺卡菌抗酸性、足菌肿概念",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "白喉棒状杆菌",
+            "content": "异染颗粒、白喉毒素结构与作用机制、锡克试验、防治原则",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "铜绿假单胞菌",
+            "content": "条件致病菌特点、致病物质、医院感染、耐药机制",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "流感嗜血杆菌",
+            "content": "卫星现象、生长需要X与V因子、所致疾病",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "军团菌属",
+            "content": "嗜肺军团菌培养特性、军团病类型、传播途径",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "百日咳鲍特菌",
+            "content": "致病物质(百日咳毒素等)、局部免疫、疫苗预防",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "细菌学",
+        "content": "研究细菌的形态、生理、遗传、致病及防治",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "细菌基本性状",
+            "content": "细菌的大小、形态、结构与功能",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "细胞壁",
+                "content": "革兰阳性/阴性差异；肽聚糖骨架",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "特殊结构",
+                "content": "荚膜、鞭毛、菌毛、芽胞",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "细菌遗传变异",
+            "content": "质粒、转座子、噬菌体介导的变异",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "细菌致病机制",
+            "content": "侵袭力、毒素、免疫逃逸",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "外毒素",
+                "content": "蛋白质，可脱毒为类毒素",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "内毒素",
+                "content": "LPS，热稳定，引起发热、休克",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "细菌感染的诊断",
+            "content": "涂片镜检、培养、生化鉴定、血清学",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "细菌感染的防治",
+            "content": "抗生素、疫苗、消毒灭菌",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "真菌学",
+        "content": "真菌的形态、致病、免疫与实验室诊断",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "真菌基本结构",
+            "content": "菌丝、孢子、双相性",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "真菌致病类型",
+            "content": "浅部、皮下、深部、机会性感染",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "真菌免疫性",
+            "content": "细胞免疫为主，抗体作用有限",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "真菌实验室检查",
+            "content": "KOH湿片、培养、血清学、分子检测",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "病毒学",
+        "content": "病毒的结构、复制、致病、免疫与防治",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "病毒基本性状",
+            "content": "非细胞型、专性寄生、复制增殖",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "病毒结构",
+                "content": "核心+衣壳=核衣壳；有/无包膜",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "病毒对称型",
+                "content": "螺旋、二十面体、复合对称",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "病毒复制周期",
+            "content": "吸附-穿入-脱壳-生物合成-组装释放",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "逆转录病毒复制",
+                "content": "RNA→DNA→整合→转录",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "病毒致病机制",
+            "content": "溶细胞、稳定状态、转化、潜伏",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "抗病毒免疫",
+            "content": "干扰素、中和抗体、CTL",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "病毒感染的诊断",
+            "content": "PCR、血清学、细胞培养、抗原检测",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "病毒感染的防治",
+            "content": "疫苗、抗病毒药物、基因治疗",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "HIV防治",
+                "content": "HAART鸡尾酒疗法",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "肝炎病毒",
+            "content": "HAV、HBV、HCV、HDV、HEV等",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "HBV抗原抗体系统",
+                "content": "HBsAg、抗-HBs、HBeAg、抗-HBe、抗-HBc",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "呼吸道病毒",
+            "content": "流感、麻疹、腮腺炎、冠状病毒等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "流感病毒变异",
+                "content": "抗原漂移与抗原转换",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "肠道病毒",
+            "content": "脊髓灰质炎、柯萨奇、埃可、轮状病毒等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "出血热病毒",
+            "content": "汉坦、新疆出血热、登革病毒等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "疱疹病毒",
+            "content": "HSV、VZV、CMV、EBV等",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "HSV潜伏感染",
+                "content": "潜伏于三叉神经节/骶神经节",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "逆转录病毒",
+            "content": "HIV、HTLV-Ⅰ/Ⅱ",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "HIV结构基因",
+                "content": "gag、pol、env",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "HIV调节基因",
+                "content": "tat、rev、nef等",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "朊病毒",
+            "content": "PrP^Sc，无核酸，引起TSE",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "PrP^C→PrP^Sc",
+                "content": "构象改变导致致病",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "细菌细胞壁",
+      "relation": "由...组成",
+      "tail": "肽聚糖"
+    },
+    {
+      "head": "革兰阳性菌细胞壁",
+      "relation": "特有成分",
+      "tail": "磷壁酸"
+    },
+    {
+      "head": "革兰阴性菌细胞壁",
+      "relation": "特有结构",
+      "tail": "外膜"
+    },
+    {
+      "head": "外膜",
+      "relation": "包含",
+      "tail": "脂多糖(LPS)"
+    },
+    {
+      "head": "脂多糖",
+      "relation": "又称",
+      "tail": "内毒素"
+    },
+    {
+      "head": "细菌细胞壁",
+      "relation": "组成",
+      "tail": "肽聚糖"
+    },
+    {
+      "head": "革兰阴性菌细胞壁",
+      "relation": "含有",
+      "tail": "外膜（LPS）"
+    },
+    {
+      "head": "外毒素",
+      "relation": "可脱毒为",
+      "tail": "类毒素"
+    },
+    {
+      "head": "内毒素",
+      "relation": "化学本质为",
+      "tail": "LPS"
+    },
+    {
+      "head": "病毒核衣壳",
+      "relation": "由...组成",
+      "tail": "核酸+衣壳蛋白"
+    },
+    {
+      "head": "包膜病毒",
+      "relation": "通过...获得包膜",
+      "tail": "出芽时宿主细胞膜"
+    },
+    {
+      "head": "流感病毒HA",
+      "relation": "功能为",
+      "tail": "吸附红细胞/宿主细胞"
+    },
+    {
+      "head": "流感病毒NA",
+      "relation": "功能为",
+      "tail": "水解神经氨酸促进释放"
+    },
+    {
+      "head": "HBV Dane颗粒",
+      "relation": "含有",
+      "tail": "不完全双链DNA+DNA多聚酶"
+    },
+    {
+      "head": "HIV包膜糖蛋白gp120",
+      "relation": "结合",
+      "tail": "CD4分子"
+    },
+    {
+      "head": "朊病毒PrP^Sc",
+      "relation": "由...转变而来",
+      "tail": "PrP^C构象改变"
+    },
+    {
+      "head": "PrP^Sc",
+      "relation": "抵抗",
+      "tail": "蛋白酶消化"
+    }
+  ]
+}

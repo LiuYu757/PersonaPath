@@ -1,0 +1,695 @@
+{
+  "knowledge_tree": {
+    "title": "高中物理选择性必修第一册",
+    "content": "包含动量守恒定律、机械振动、机械波和光四个核心章节",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一章 动量守恒定律",
+        "content": "研究物体运动的动量变化规律及守恒条件",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "动量",
+            "content": "物体的质量和速度的乘积，p=mv，是矢量",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "动量的定义",
+                "content": "p=mv，单位kg·m/s，方向与速度方向相同",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "动量的矢量性",
+                "content": "动量是矢量，运算遵循平行四边形定则",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "动量的变化量",
+                "content": "Δp=mΔv，反映物体运动状态的变化",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "动量定理",
+            "content": "物体所受合外力的冲量等于物体动量的变化",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "冲量的定义",
+                "content": "I=FΔt，单位N·s，是过程量",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "动量定理的表达式",
+                "content": "FΔt=Δp=mv'-mv",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "平均作用力的计算",
+                "content": "F=Δp/Δt，用于求解变力作用问题",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "动量守恒定律",
+            "content": "系统不受外力或所受外力矢量和为零时，系统动量守恒",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "守恒条件",
+                "content": "系统不受外力或外力矢量和为零",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "一维碰撞问题",
+                "content": "沿同一直线运动的物体碰撞动量守恒",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "爆炸与反冲",
+                "content": "系统内部作用导致动量重新分配",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "实验：验证动量守恒定律",
+            "content": "通过碰撞实验验证动量守恒定律",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "气垫导轨实验",
+                "content": "利用气垫导轨减小摩擦，测量碰撞前后速度",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "数据分析方法",
+                "content": "通过测量质量与速度乘积之和验证守恒",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "弹性碰撞与非弹性碰撞",
+            "content": "根据动能是否守恒分类碰撞类型",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "弹性碰撞",
+                "content": "动能守恒的碰撞，满足动量守恒和动能守恒",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "完全非弹性碰撞",
+                "content": "碰撞后粘合在一起，动能损失最大",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "恢复系数",
+                "content": "e=(v2'-v1')/(v1-v2)，衡量碰撞弹性程度",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "反冲运动 火箭",
+            "content": "系统内部分物体抛出导致剩余部分获得反向动量",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "反冲原理",
+                "content": "内力作用导致系统各部分动量重新分配",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "火箭推进原理",
+                "content": "通过向后喷出物质获得向前推力",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "多级火箭",
+                "content": "通过逐级抛弃空壳提高最终速度",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二章 机械振动",
+        "content": "研究物体在平衡位置附近的往复运动",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "简谐运动",
+            "content": "物体位移与时间满足正弦函数关系的振动",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "弹簧振子模型",
+                "content": "理想化的简谐运动模型，忽略摩擦和质量",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "振动图像的物理意义",
+                "content": "位移-时间图像反映振动规律",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "简谐运动的特征",
+                "content": "周期性、对称性、能量守恒",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "简谐运动的描述",
+            "content": "用物理量描述简谐运动的特征",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "振幅",
+                "content": "振动物体离开平衡位置的最大距离",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "周期和频率",
+                "content": "完成一次全振动的时间T和单位时间内振动次数f",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "相位和初相",
+                "content": "描述振动步调的物理量",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "简谐运动的回复力和能量",
+            "content": "简谐运动的动力学特征和能量转化",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "回复力特点",
+                "content": "F=-kx，与位移成正比且方向相反",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "能量转化规律",
+                "content": "动能和势能相互转化，机械能守恒",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "简谐运动的判断依据",
+                "content": "根据回复力或运动学方程判断是否为简谐运动",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "单摆",
+            "content": "在小角度下做简谐运动的装置",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "单摆的回复力",
+                "content": "重力沿切线方向的分量提供回复力",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "单摆周期公式",
+                "content": "T=2π√(l/g)，与振幅和质量无关",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "单摆的应用",
+                "content": "测量重力加速度、计时等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "实验：用单摆测量重力加速度",
+            "content": "利用单摆周期公式测量当地重力加速度",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "实验原理",
+                "content": "g=4π²l/T²，通过测量l和T求g",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "误差分析",
+                "content": "摆角、空气阻力、测量误差等影响因素",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "受迫振动 共振",
+            "content": "系统在周期性驱动力作用下的振动现象",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "受迫振动的特征",
+                "content": "稳定后的频率等于驱动力的频率",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "共振现象",
+                "content": "当驱动力频率等于系统固有频率时振幅最大",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "共振的应用与防止",
+                "content": "利用共振和避免有害共振",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三章 机械波",
+        "content": "研究振动在介质中的传播现象",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "波的形成",
+            "content": "振动在介质中的传播过程",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "横波与纵波",
+                "content": "根据质点振动方向与波传播方向的关系分类",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "机械波的产生条件",
+                "content": "波源和弹性介质",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "波传播的特点",
+                "content": "传播的是振动形式和能量，介质本身不迁移",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "波的描述",
+            "content": "描述波的特征的物理量",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "波长、频率和波速",
+                "content": "v=λf，反映波的空间和时间周期性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "波的图像",
+                "content": "某一时刻介质中各质点的位移分布",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "振动图像与波的图像的区别",
+                "content": "个体与整体、时间与空间的区别",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "波的反射、折射和衍射",
+            "content": "波在传播过程中遇到障碍物的现象",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "波的反射定律",
+                "content": "入射角等于反射角，在同一平面内",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "波的折射定律",
+                "content": "sinθ1/sinθ2=v1/v2=n2/n1",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "波的衍射",
+                "content": "波绕过障碍物传播的现象，需满足尺寸条件",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "波的干涉",
+            "content": "两列波相遇时产生的叠加现象",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "干涉条件",
+                "content": "频率相同、相位差恒定、振动方向相同",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "加强点和减弱点的条件",
+                "content": "波程差为波长整数倍或半波长奇数倍",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "驻波",
+                "content": "两列振幅相同的相干波相向传播时形成",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "多普勒效应",
+            "content": "波源与观察者相对运动时观察到的频率变化",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "多普勒效应原理",
+                "content": "相对运动导致波峰间距变化",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "频率变化规律",
+                "content": "f'=f(v±v0)/(v∓vs)，取决于相对运动方向",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "应用实例",
+                "content": "雷达测速、医学诊断、天文观测等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第四章 光",
+        "content": "研究光的传播规律和光现象",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "光的折射",
+            "content": "光从一种介质斜射入另一种介质时传播方向改变",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "折射定律",
+                "content": "入射光线、折射光线和法线在同一平面内",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "折射率",
+                "content": "n=c/v，反映介质的光学性质",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "测量玻璃的折射率",
+                "content": "通过实验测量透明介质的折射率",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "全反射",
+            "content": "光从光密介质射向光疏介质时全部反射的现象",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "全反射条件",
+                "content": "光从光密到光疏介质且入射角大于临界角",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "临界角计算",
+                "content": "sinC=1/n，与介质折射率有关",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "光导纤维",
+                "content": "利用全反射原理传输光信号",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "光的干涉",
+            "content": "两列光波叠加产生明暗相间条纹的现象",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "双缝干涉",
+                "content": "杨氏双缝实验证明光的波动性",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "干涉条纹间距",
+                "content": "Δx=(l/d)λ，与波长成正比",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "薄膜干涉",
+                "content": "光在薄膜上下表面反射后叠加产生干涉",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "实验：用双缝干涉测量光的波长",
+            "content": "利用双缝干涉条纹测量光波波长",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "实验原理",
+                "content": "λ=(d/l)Δx，通过测量Δx求波长",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "测量方法",
+                "content": "使用测量头测量条纹间距",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "光的衍射",
+            "content": "光绕过障碍物传播的现象",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "单缝衍射",
+                "content": "光通过单缝产生明暗相间条纹",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "圆孔衍射",
+                "content": "光通过小孔产生明暗相间圆环",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "衍射光栅",
+                "content": "利用多缝衍射产生明亮尖锐的条纹",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "光的偏振 激光",
+            "content": "光的横波特性和激光的特性",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "光的偏振",
+                "content": "光波振动方向的不对称性",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "偏振片的作用",
+                "content": "只允许特定振动方向的光通过",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "激光的特性",
+                "content": "单色性好、方向性好、亮度高、相干性好",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "动量",
+      "tail": "动量定理",
+      "relation": "推导出"
+    },
+    {
+      "head": "动量定理",
+      "tail": "冲量",
+      "relation": "基于"
+    },
+    {
+      "head": "动量守恒定律",
+      "tail": "系统",
+      "relation": "应用于"
+    },
+    {
+      "head": "动量守恒定律",
+      "tail": "弹性碰撞",
+      "relation": "适用于"
+    },
+    {
+      "head": "简谐运动",
+      "tail": "回复力",
+      "relation": "由...产生"
+    },
+    {
+      "head": "简谐运动",
+      "tail": "弹簧振子",
+      "relation": "实例"
+    },
+    {
+      "head": "单摆",
+      "tail": "简谐运动",
+      "relation": "在特定条件下是"
+    },
+    {
+      "head": "受迫振动",
+      "tail": "共振",
+      "relation": "导致"
+    },
+    {
+      "head": "机械波",
+      "tail": "简谐运动",
+      "relation": "传播"
+    },
+    {
+      "head": "横波",
+      "tail": "纵波",
+      "relation": "与...并列"
+    },
+    {
+      "head": "波的干涉",
+      "tail": "相干波",
+      "relation": "需要"
+    },
+    {
+      "head": "多普勒效应",
+      "tail": "波源运动",
+      "relation": "由...引起"
+    },
+    {
+      "head": "光的折射",
+      "tail": "折射率",
+      "relation": "定义"
+    },
+    {
+      "head": "全反射",
+      "tail": "临界角",
+      "relation": "由...决定"
+    },
+    {
+      "head": "光的干涉",
+      "tail": "波动性",
+      "relation": "证明"
+    },
+    {
+      "head": "双缝干涉",
+      "tail": "波长测量",
+      "relation": "用于"
+    },
+    {
+      "head": "光的衍射",
+      "tail": "单缝衍射",
+      "relation": "包括"
+    },
+    {
+      "head": "光的偏振",
+      "tail": "横波",
+      "relation": "证明光具有"
+    },
+    {
+      "head": "激光",
+      "tail": "相干光",
+      "relation": "是"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:25:04",
+    "version": "1.1"
+  }
+}

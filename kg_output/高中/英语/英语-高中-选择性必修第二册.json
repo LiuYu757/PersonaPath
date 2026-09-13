@@ -1,0 +1,265 @@
+{
+  "knowledge_tree": {
+    "title": "Selective Compulsory English Book 2",
+    "content": "High school English textbook focusing on themes like science, culture, food, travel, and first aid, with integrated skills development.",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "Unit 1: Science and Scientists",
+        "content": "Explores scientific discoveries, the scientific method, and the lives of scientists.",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "John Snow and Cholera",
+            "content": "Case study on how John Snow used data mapping to identify the source of a cholera outbreak.",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "The Scientific Method",
+                "content": "Steps include asking questions, collecting data, analyzing results, and drawing conclusions.",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "Epidemiology",
+                "content": "The study of how diseases spread and can be controlled.",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Qian Xuesen",
+            "content": "The father of China's aerospace program, highlighting his contributions and patriotism.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Stephen Hawking",
+            "content": "His work on the big bang theory and his determination despite physical challenges.",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "Noun Clauses as Predicative",
+            "content": "Grammar focus on clauses that follow linking verbs to rename or describe the subject.",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Bridging Cultures",
+        "content": "Discusses cultural exchange, studying abroad, and overcoming cultural shock.",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "Xie Lei's Experience",
+            "content": "A Chinese student's adaptation to life and study in the UK.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Cultural Shock",
+                "content": "The feelings of confusion and anxiety when exposed to a new culture.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Adaptation Strategies",
+                "content": "Methods to overcome cultural shock, such as living with a host family and participating in social activities.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Debate on Studying Abroad",
+            "content": "Arguments for and against studying abroad, considering economic, personal, and academic factors.",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "Chinese Language Learning Abroad",
+            "content": "The role of Confucius Institutes in promoting Chinese language and culture.",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: Food and Culture",
+        "content": "Examines the relationship between food and cultural identity.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Chinese Cuisine",
+            "content": "The diversity and regional variations of Chinese food.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "Sichuan Cuisine",
+                "content": "Known for its bold, spicy flavors and use of peppercorns.",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Shandong Cuisine",
+                "content": "Features boiled dumplings and pancake rolls, emphasizing family meals.",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Healthy Eating",
+            "content": "Discusses the components of a balanced diet and the dangers of excessive sugar.",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "Past Perfect Tense",
+            "content": "Grammar focus on actions completed before another past action.",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 4: Journey Across a Vast Land",
+        "content": "Describes a train journey across Canada, highlighting geography and culture.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Canadian Geography",
+            "content": "Features like the Canadian Rockies, prairies, and Great Lakes.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Cultural Insights",
+            "content": "Experiences in cities like Toronto and Montreal, including multicultural aspects.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Discourse Markers",
+            "content": "Linking words and phrases to show relationships between ideas.",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 5: First Aid",
+        "content": "Provides knowledge and techniques for handling medical emergencies.",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "Types of Burns",
+            "content": "Categorizes burns into first, second, and third degree based on skin damage.",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "First-Degree Burns",
+                "content": "Affect only the top layer of skin, e.g., mild sunburn.",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "Second-Degree Burns",
+                "content": "Damage layers beneath the top skin, causing blisters and more pain.",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "Third-Degree Burns",
+                "content": "Destroy all skin layers and require immediate hospital care.",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "First Aid for Burns",
+            "content": "Steps include cooling the burn, covering it, and seeking medical help if severe.",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "Heimlich Manoeuvre",
+            "content": "Technique to help someone who is choking, developed by Dr. Henry Heimlich.",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "-ing Form as Adverbial",
+            "content": "Grammar focus on using verb-ing phrases to indicate time, reason, or manner.",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "John Snow",
+      "tail": "cholera",
+      "relation": "investigated"
+    },
+    {
+      "head": "Scientific method",
+      "tail": "data collection",
+      "relation": "includes"
+    },
+    {
+      "head": "Qian Xuesen",
+      "tail": "aerospace",
+      "relation": "pioneered"
+    },
+    {
+      "head": "Stephen Hawking",
+      "tail": "big bang theory",
+      "relation": "supported"
+    },
+    {
+      "head": "Xie Lei",
+      "tail": "cultural adaptation",
+      "relation": "experienced"
+    },
+    {
+      "head": "Studying abroad",
+      "tail": "personal growth",
+      "relation": "promotes"
+    },
+    {
+      "head": "Chinese cuisine",
+      "tail": "cultural identity",
+      "relation": "reflects"
+    },
+    {
+      "head": "Healthy diet",
+      "tail": "sugar consumption",
+      "relation": "limits"
+    },
+    {
+      "head": "Canadian journey",
+      "tail": "geographical features",
+      "relation": "explores"
+    },
+    {
+      "head": "First aid",
+      "tail": "burns",
+      "relation": "treats"
+    },
+    {
+      "head": "Heimlich manoeuvre",
+      "tail": "choking",
+      "relation": "addresses"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:22:52",
+    "version": "1.1"
+  }
+}

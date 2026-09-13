@@ -1,0 +1,242 @@
+{
+  "knowledge_tree": {
+    "title": "量子力学教程",
+    "content": "量子力学是描述微观粒子运动规律的物理学理论，是近代物理学的基础。",
+    "difficulty": "4",
+    "children": [
+      {
+        "title": "波函数与薛定谔方程",
+        "content": "描述微观粒子状态的波函数及其随时间演化的薛定谔方程。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "波函数的统计诠释",
+            "content": "波函数模的平方代表粒子在空间某点出现的概率密度。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "波函数的基本性质",
+                "content": "波函数必须是单值、连续、有限的函数。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "归一化条件",
+                "content": "波函数在全空间的积分等于1，表示粒子存在的总概率为1。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "薛定谔方程",
+            "content": "描述波函数随时间演化的偏微分方程。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "定态薛定谔方程",
+                "content": "当势能不显含时间时，波函数可以分离变量，得到与时间无关的定态薛定谔方程。",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "一维无限深势阱",
+                    "content": "粒子被限制在无限高势垒之间的运动，能量量子化。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "一维谐振子",
+                    "content": "势能函数为二次函数的系统，能量量子化，能级等间距。",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "算符与力学量",
+        "content": "量子力学中力学量用算符表示，测量值为算符的本征值。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "算符的基本概念",
+            "content": "算符是对函数进行某种运算的符号。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "厄米算符",
+                "content": "厄米算符的本征值为实数，对应物理上的可观测力学量。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "对易关系",
+                "content": "算符乘积的顺序不可交换，对易关系与不确定性原理相关。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "动量算符",
+            "content": "在坐标表象下，动量算符为 -iħ∂/∂x。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "角动量算符",
+            "content": "包括轨道角动量和自旋角动量。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "轨道角动量对易关系",
+                "content": "[Lx, Ly] = iħLz 等对易关系式。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "表象理论",
+        "content": "量子态和算符的不同表示形式。",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "坐标表象",
+            "content": "以位置坐标为自变量的波函数表示。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "动量表象",
+            "content": "以动量为自变量的波函数表示。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "近似方法",
+        "content": "求解复杂系统薛定谔方程的近似方法。",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "微扰论",
+            "content": "当系统的哈密顿量可以写为已知部分和微小扰动之和时使用的近似方法。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "非简并定态微扰论",
+                "content": "适用于无简并的能级。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "变分法",
+            "content": "通过选取试探波函数来估算系统基态能量的方法。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "波函数",
+      "tail": "薛定谔方程",
+      "relation": "由...描述演化"
+    },
+    {
+      "head": "波函数",
+      "tail": "统计诠释",
+      "relation": "具有"
+    },
+    {
+      "head": "统计诠释",
+      "tail": "归一化条件",
+      "relation": "要求"
+    },
+    {
+      "head": "薛定谔方程",
+      "tail": "定态薛定谔方程",
+      "relation": "在特定条件下简化为"
+    },
+    {
+      "head": "定态薛定谔方程",
+      "tail": "一维无限深势阱",
+      "relation": "用于求解"
+    },
+    {
+      "head": "定态薛定谔方程",
+      "tail": "一维谐振子",
+      "relation": "用于求解"
+    },
+    {
+      "head": "力学量",
+      "tail": "算符",
+      "relation": "用...表示"
+    },
+    {
+      "head": "算符",
+      "tail": "厄米算符",
+      "relation": "包括"
+    },
+    {
+      "head": "算符",
+      "tail": "对易关系",
+      "relation": "满足"
+    },
+    {
+      "head": "对易关系",
+      "tail": "不确定性原理",
+      "relation": "与...相关"
+    },
+    {
+      "head": "角动量算符",
+      "tail": "轨道角动量对易关系",
+      "relation": "满足"
+    },
+    {
+      "head": "表象理论",
+      "tail": "坐标表象",
+      "relation": "包括"
+    },
+    {
+      "head": "表象理论",
+      "tail": "动量表象",
+      "relation": "包括"
+    },
+    {
+      "head": "近似方法",
+      "tail": "微扰论",
+      "relation": "包括"
+    },
+    {
+      "head": "近似方法",
+      "tail": "变分法",
+      "relation": "包括"
+    },
+    {
+      "head": "微扰论",
+      "tail": "非简并定态微扰论",
+      "relation": "包括"
+    },
+    {
+      "head": "波函数的基本性质",
+      "tail": "归一化条件",
+      "relation": "是...的前提"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:14:18",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "knowledge_tree": {
+    "title": "高中音乐合奏",
+    "content": "选择性必修合奏课程，涵盖民族管弦乐队、打击乐、弹拨乐、丝竹乐、小型管弦乐队、管乐及弦乐合奏",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "民族管弦乐队合奏",
+        "content": "中国传统乐器组合的合奏形式",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "作品鉴赏",
+            "content": "《乱云飞》彭修文改编，源自现代京剧《杜鹃山》",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "结构特点",
+                "content": "遵循京剧传统结构，融入西方管弦乐交响性",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "音乐元素",
+                "content": "京剧唱腔、板腔体、文武场特色",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "排演实践",
+            "content": "《金蛇狂舞》聂耳改编，描写端午节赛龙舟场景",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "演奏技巧",
+                "content": "打击乐力度变化，弹拨乐'弹'与'轮'区别",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "情绪处理",
+                "content": "全曲热烈欢快，结尾段达到高潮",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "拓展与探究",
+            "content": "民族乐器排列及少数民族乐器了解",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "打击乐合奏",
+        "content": "以打击乐器为主的合奏形式",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "作品鉴赏",
+            "content": "《龙腾虎跃》李民雄曲，浙东锣鼓素材",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "曲式结构",
+                "content": "引子-快板(两主题)-打击乐段-再现",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "演奏技法",
+                "content": "五架鼓的不同组合与音色对比",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "排演实践",
+            "content": "《闹元宵》李民雄改编，表现元宵佳节热闹场面",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "记谱法",
+                "content": "民族打击乐文字谱与符号谱",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "节奏处理",
+                "content": "三种节拍变化，后十六、附点、切分节奏型",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "弹拨乐合奏",
+        "content": "以弹拨乐器为主的合奏形式",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "作品鉴赏",
+            "content": "《春天》罗马尼亚民间乐曲，曹文工编配",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "主题发展",
+                "content": "三个主题呈现，快板舞曲性质",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "音色运用",
+                "content": "中阮、大阮、玛林巴的音色转换",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "排演实践",
+            "content": "《快乐的罗嗦》彝族民间乐曲，李复斌编配",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "曲式结构",
+                "content": "ABA三段式，引子-呈示-发展",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "声部处理",
+                "content": "不同音区乐器切换，形成追赶效果",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "丝竹乐合奏",
+        "content": "江南丝竹音乐风格，以笛、箫、二胡等为主",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "作品鉴赏",
+            "content": "《春思》周成龙曲，传统江南丝竹风格",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "调式特点",
+                "content": "羽调与商调交替进行",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "演奏特色",
+                "content": "各声部音色融合，错落有致",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "排演实践",
+            "content": "《迎宾曲》顾冠仁曲，新江南丝竹代表作",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "结构分析",
+                "content": "快-慢-快三部分，慢板采用《茉莉花》主题",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "声部平衡",
+                "content": "旋律清晰度保持，伴奏织体不喧宾夺主",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "小型管弦乐队合奏",
+        "content": "小型西洋管弦乐队编制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "作品鉴赏",
+            "content": "《勃兰登堡协奏曲》巴赫曲，早期协奏曲形式",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "乐器编制",
+                "content": "独奏组:小号、竖笛、双簧管、小提琴；伴奏组:弦乐+拨弦古钢琴",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "乐章分析",
+                "content": "三乐章结构:快板-行板-更快快板",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "排演实践",
+            "content": "《半个月亮爬上来》《游击队歌》编配版本",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "乐器选择",
+                "content": "各声部移调乐器配置与音域协调",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "合奏观念",
+                "content": "声部音量控制，管乐与弦乐音色融合",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "民族管弦乐队合奏",
+      "tail": "乱云飞",
+      "relation": "包含作品"
+    },
+    {
+      "head": "乱云飞",
+      "tail": "京剧板腔体",
+      "relation": "运用元素"
+    },
+    {
+      "head": "金蛇狂舞",
+      "tail": "端午节赛龙舟",
+      "relation": "表现内容"
+    },
+    {
+      "head": "打击乐合奏",
+      "tail": "龙腾虎跃",
+      "relation": "代表作品"
+    },
+    {
+      "head": "龙腾虎跃",
+      "tail": "浙东锣鼓",
+      "relation": "取材于"
+    },
+    {
+      "head": "闹元宵",
+      "tail": "文字谱记谱法",
+      "relation": "使用"
+    },
+    {
+      "head": "弹拨乐合奏",
+      "tail": "春天",
+      "relation": "包含作品"
+    },
+    {
+      "head": "春天",
+      "tail": "罗马尼亚民间音乐",
+      "relation": "源自"
+    },
+    {
+      "head": "快乐的罗嗦",
+      "tail": "彝族民间音乐",
+      "relation": "基于"
+    },
+    {
+      "head": "丝竹乐合奏",
+      "tail": "江南丝竹",
+      "relation": "属于风格"
+    },
+    {
+      "head": "春思",
+      "tail": "羽商调式交替",
+      "relation": "采用"
+    },
+    {
+      "head": "迎宾曲",
+      "tail": "茉莉花主题",
+      "relation": "引用"
+    },
+    {
+      "head": "小型管弦乐队",
+      "tail": "勃兰登堡协奏曲",
+      "relation": "演奏作品"
+    },
+    {
+      "head": "勃兰登堡协奏曲",
+      "tail": "复调手法",
+      "relation": "运用"
+    },
+    {
+      "head": "半个月亮爬上来",
+      "tail": "维吾尔族民歌",
+      "relation": "改编自"
+    },
+    {
+      "head": "游击队歌",
+      "tail": "进行曲风格",
+      "relation": "具有"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 15:56:24",
+    "version": "1.1"
+  }
+}

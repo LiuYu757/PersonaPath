@@ -1,0 +1,727 @@
+{
+  "knowledge_tree": {
+    "title": "音乐编创",
+    "content": "普通高中音乐必修课程，涵盖音乐创作的基本知识、旋律写作、音乐主题、歌曲结构、歌词创作、计算机音乐基础、伴奏编配及名家名作等内容。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "走近音乐编创",
+        "content": "介绍音乐编创的基本概念、创作源泉、继承与创新方法，以及必要的乐理知识和记谱能力。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "生活是创作的源泉",
+            "content": "创作者应热爱生活，观察生活，表达情感。音乐起源于日常生活、劳作和社会活动。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "音乐编创的继承与创新",
+            "content": "继承包括原曲填词和重新编曲；创新指对新内容、新形式和新技法的探索。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "原曲填词",
+                "content": "为已有曲调填写新词，是最常见的歌曲创作与传承方式。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "重新编曲",
+                "content": "对原有歌曲进行较大幅度改编，加入原创因素，重新编排处理。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "原创音乐",
+                "content": "独立创作的作品，强调保护知识产权。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "熟记民歌与名曲",
+            "content": "通过歌唱积累旋律素材，学习民间音乐，传承经典作品。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "具备乐理知识和记谱能力",
+            "content": "包括基本乐理、作曲技术理论、音乐学理论等，以及视唱练耳和内心听觉能力。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "记谱法",
+            "content": "常用简谱和五线谱，准确记录音高、节奏、节拍、速度、力度及表情等要素。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "力度及表情标记",
+                "content": "如强（f）、弱（p）、渐强（cresc.）、渐弱（dim.）等。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "节拍与速度",
+                "content": "节拍用拍号表示，速度用速率或速度术语表示。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "旋律写作",
+        "content": "旋律是音乐的主体和基础，包括旋律的发展手法、节奏和旋律线。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "旋律的发展手法",
+            "content": "包括同音反复、级进、跳进等手法。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "同音反复",
+                "content": "相同音高的连续进行，常用于表现力量感或口语化旋律。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "级进",
+                "content": "相邻音按音阶顺序作二度上行或下行运动，表现平静、舒缓的情绪。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "跳进",
+                "content": "三度及以上音程的旋律进行，分为小跳和大跳，扩展旋律活跃性。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "节奏",
+            "content": "小节或单位时间内音符时值的组合形态及密度，包括均分节奏、前长后短节奏、前短后长节奏和切分节奏。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "旋律线",
+            "content": "不同音高起伏的轮廓，包括自由曲线、平直线、平缓进行和跌宕起伏等形态。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "音乐主题",
+        "content": "音乐主题是歌曲构建和发展的核心，常见类型包括颂歌主题、进行曲主题、抒情主题和歌舞曲主题。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "音乐主题的常见类型",
+            "content": "包括颂歌主题、进行曲主题、抒情主题和歌舞曲主题。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "音乐主题的发展手法",
+            "content": "包括重复式展开和对比式展开，如完全重复、变化重复、模进、变奏、倒影和逆行等。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "歌曲结构",
+        "content": "歌曲的结构形式包括一段体、二段体、三段体和多段体，由乐句、乐节、乐汇和动机组织而成。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "一段体",
+            "content": "又称一部曲式，是以乐段为基础构成的独立结构，如起承转合式。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "二段体",
+            "content": "包括并列二段体和再现二段体，A段为主干段，B段为副歌或对比段。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "三段体",
+            "content": "包括ABA再现三段体和ABC并列三段体，规模较大，具有戏剧性变化。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "歌词",
+        "content": "歌词是音乐与文学的结合体，具有音乐性，注重歌唱性和声韵。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "歌词的基本特点",
+            "content": "具有音乐性，结构、节奏受音乐制约，讲究声韵。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "歌词与诗歌",
+            "content": "歌词是诗歌的一种，但更注重音乐性与歌唱性。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "歌词的选择",
+            "content": "应具备歌唱性，有诗的意境，思想性与艺术性统一。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "歌词的合辙押韵",
+            "content": "常用十三种韵脚，如言前韵、梭波韵等，押韵得体增强音乐性。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "为旋律编创歌词",
+            "content": "分析旋律要素，力求词曲情绪、风格、结构一致，避免“倒字”现象。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "计算机音乐基础",
+        "content": "介绍计算机音乐的基本概念、辅助作曲系统及乐谱输入、编辑、导出和打印方法。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "计算机音乐基本概念",
+            "content": "广义指音乐信息经计算机处理生成的乐谱或音响，狭义指通过算法自动生成的乐谱和音响。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "计算机辅助作曲系统",
+            "content": "包括软硬件连接与设置、编曲软件及设置、音频驱动程序、乐器音源设置、MIDI输入接口设置和节拍机设置等。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "乐谱的输入",
+            "content": "包括步进输入和实时录入，乐谱设定、编辑、记谱法和音符输入等方法。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "总谱及分谱的谱面设计",
+            "content": "包括谱面调整、谱表间距、隐藏乐谱、磁性布局、拆行和作品标题等信息设置。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "乐谱导出",
+            "content": "可导出音频、MIDI、视频、图像、PDF和通用乐谱格式文件。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "乐谱打印",
+            "content": "包括总谱打印、分谱打印和打印机设置。",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "伴奏编配基础",
+        "content": "介绍音乐织体、和声基础、钢琴伴奏织体和伴奏模块的搭建方法。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "音乐织体",
+            "content": "包括单声织体、主调织体、复调织体和综合织体。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "和声基础",
+            "content": "包括和弦构成、和弦连接、和声功能、和声进行等。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "和弦构成",
+                "content": "按三度音程叠置构成的多声音响，包括三和弦、七和弦、九和弦等。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "和弦连接",
+                "content": "包括和声连接法和旋律连接法，以及四部和声与键盘和声的排列。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "和声功能",
+                "content": "正三和弦和副三和弦的功能属性，如主功能、属功能和下属功能。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "和声进行",
+                "content": "和弦序进，如传统和声的T-S-D-T进行和流行音乐的典型进行。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "钢琴伴奏织体",
+            "content": "包括分解和弦、音型化块状和弦、合唱式织体、对位织体和长音与琶音和弦衬托等基本形态。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "伴奏模块的搭建",
+            "content": "包括主干模块、填充模块、中断模块、前奏与间奏模块和结尾模块的搭建方法。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "辅助作曲技巧",
+        "content": "介绍利用计算机算法进行自动化演绎的辅助作曲技巧，如和弦标记、节奏生成、智能编曲等。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "为已有的和弦自动写出标记",
+            "content": "运用西贝柳斯的“自动写入和弦标记”功能帮助记谱。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "为已有的和弦标记写出具体音符",
+            "content": "程序自动生成和弦音和简单节奏型。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "节奏自动生成模式",
+            "content": "利用辅助作曲程序生成鼓谱，如摇滚、布鲁斯、乡村等风格。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "智能编曲",
+            "content": "将和弦谱内容按乐器法要求自动分配给选定乐器。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "谱行分层编辑",
+            "content": "在单行谱中编辑多个声部，进行分层处理、换位和跨谱行连符尾等操作。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "构思的导入与导出",
+            "content": "将零碎动机或伴奏模块以素材库形式存储，供编曲时调用。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "名家名作",
+        "content": "介绍王洛宾、雷振邦、施光南和舒伯特等作曲家的生平、创作风格及代表作品。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "王洛宾",
+            "content": "收集整理、改编翻译了十几个民族的七百多首民歌，代表作品有《在那遥远的地方》和《半个月亮爬上来》。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "雷振邦",
+            "content": "创作了大量具有少数民族风格的歌曲，如《刘三姐》《五朵金花》《冰山上的来客》等。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "施光南",
+            "content": "人民音乐家，作品具有浓郁的民族风格，如《吐鲁番的葡萄熟了》《在希望的田野上》《祝酒歌》等。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "舒伯特",
+            "content": "奥地利作曲家，被誉为“歌曲之王”，代表作品有《魔王》《美丽的磨坊姑娘》等。",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "音乐编创",
+      "tail": "走近音乐编创",
+      "relation": "包含"
+    },
+    {
+      "head": "走近音乐编创",
+      "tail": "生活是创作的源泉",
+      "relation": "包含"
+    },
+    {
+      "head": "走近音乐编创",
+      "tail": "音乐编创的继承与创新",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐编创的继承与创新",
+      "tail": "原曲填词",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐编创的继承与创新",
+      "tail": "重新编曲",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐编创的继承与创新",
+      "tail": "原创音乐",
+      "relation": "包含"
+    },
+    {
+      "head": "走近音乐编创",
+      "tail": "熟记民歌与名曲",
+      "relation": "包含"
+    },
+    {
+      "head": "走近音乐编创",
+      "tail": "具备乐理知识和记谱能力",
+      "relation": "包含"
+    },
+    {
+      "head": "走近音乐编创",
+      "tail": "记谱法",
+      "relation": "包含"
+    },
+    {
+      "head": "记谱法",
+      "tail": "力度及表情标记",
+      "relation": "包含"
+    },
+    {
+      "head": "记谱法",
+      "tail": "节拍与速度",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐编创",
+      "tail": "旋律写作",
+      "relation": "包含"
+    },
+    {
+      "head": "旋律写作",
+      "tail": "旋律的发展手法",
+      "relation": "包含"
+    },
+    {
+      "head": "旋律的发展手法",
+      "tail": "同音反复",
+      "relation": "包含"
+    },
+    {
+      "head": "旋律的发展手法",
+      "tail": "级进",
+      "relation": "包含"
+    },
+    {
+      "head": "旋律的发展手法",
+      "tail": "跳进",
+      "relation": "包含"
+    },
+    {
+      "head": "旋律写作",
+      "tail": "节奏",
+      "relation": "包含"
+    },
+    {
+      "head": "旋律写作",
+      "tail": "旋律线",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐编创",
+      "tail": "音乐主题",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐主题",
+      "tail": "音乐主题的常见类型",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐主题",
+      "tail": "音乐主题的发展手法",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐编创",
+      "tail": "歌曲结构",
+      "relation": "包含"
+    },
+    {
+      "head": "歌曲结构",
+      "tail": "一段体",
+      "relation": "包含"
+    },
+    {
+      "head": "歌曲结构",
+      "tail": "二段体",
+      "relation": "包含"
+    },
+    {
+      "head": "歌曲结构",
+      "tail": "三段体",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐编创",
+      "tail": "歌词",
+      "relation": "包含"
+    },
+    {
+      "head": "歌词",
+      "tail": "歌词的基本特点",
+      "relation": "包含"
+    },
+    {
+      "head": "歌词",
+      "tail": "歌词与诗歌",
+      "relation": "包含"
+    },
+    {
+      "head": "歌词",
+      "tail": "歌词的选择",
+      "relation": "包含"
+    },
+    {
+      "head": "歌词",
+      "tail": "歌词的合辙押韵",
+      "relation": "包含"
+    },
+    {
+      "head": "歌词",
+      "tail": "为旋律编创歌词",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐编创",
+      "tail": "计算机音乐基础",
+      "relation": "包含"
+    },
+    {
+      "head": "计算机音乐基础",
+      "tail": "计算机音乐基本概念",
+      "relation": "包含"
+    },
+    {
+      "head": "计算机音乐基础",
+      "tail": "计算机辅助作曲系统",
+      "relation": "包含"
+    },
+    {
+      "head": "计算机音乐基础",
+      "tail": "乐谱的输入",
+      "relation": "包含"
+    },
+    {
+      "head": "计算机音乐基础",
+      "tail": "总谱及分谱的谱面设计",
+      "relation": "包含"
+    },
+    {
+      "head": "计算机音乐基础",
+      "tail": "乐谱导出",
+      "relation": "包含"
+    },
+    {
+      "head": "计算机音乐基础",
+      "tail": "乐谱打印",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐编创",
+      "tail": "伴奏编配基础",
+      "relation": "包含"
+    },
+    {
+      "head": "伴奏编配基础",
+      "tail": "音乐织体",
+      "relation": "包含"
+    },
+    {
+      "head": "伴奏编配基础",
+      "tail": "和声基础",
+      "relation": "包含"
+    },
+    {
+      "head": "和声基础",
+      "tail": "和弦构成",
+      "relation": "包含"
+    },
+    {
+      "head": "和声基础",
+      "tail": "和弦连接",
+      "relation": "包含"
+    },
+    {
+      "head": "和声基础",
+      "tail": "和声功能",
+      "relation": "包含"
+    },
+    {
+      "head": "和声基础",
+      "tail": "和声进行",
+      "relation": "包含"
+    },
+    {
+      "head": "伴奏编配基础",
+      "tail": "钢琴伴奏织体",
+      "relation": "包含"
+    },
+    {
+      "head": "伴奏编配基础",
+      "tail": "伴奏模块的搭建",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐编创",
+      "tail": "辅助作曲技巧",
+      "relation": "包含"
+    },
+    {
+      "head": "辅助作曲技巧",
+      "tail": "为已有的和弦自动写出标记",
+      "relation": "包含"
+    },
+    {
+      "head": "辅助作曲技巧",
+      "tail": "为已有的和弦标记写出具体音符",
+      "relation": "包含"
+    },
+    {
+      "head": "辅助作曲技巧",
+      "tail": "节奏自动生成模式",
+      "relation": "包含"
+    },
+    {
+      "head": "辅助作曲技巧",
+      "tail": "智能编曲",
+      "relation": "包含"
+    },
+    {
+      "head": "辅助作曲技巧",
+      "tail": "谱行分层编辑",
+      "relation": "包含"
+    },
+    {
+      "head": "辅助作曲技巧",
+      "tail": "构思的导入与导出",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐编创",
+      "tail": "名家名作",
+      "relation": "包含"
+    },
+    {
+      "head": "名家名作",
+      "tail": "王洛宾",
+      "relation": "包含"
+    },
+    {
+      "head": "名家名作",
+      "tail": "雷振邦",
+      "relation": "包含"
+    },
+    {
+      "head": "名家名作",
+      "tail": "施光南",
+      "relation": "包含"
+    },
+    {
+      "head": "名家名作",
+      "tail": "舒伯特",
+      "relation": "包含"
+    },
+    {
+      "head": "旋律写作",
+      "tail": "音乐主题",
+      "relation": "基础于"
+    },
+    {
+      "head": "音乐主题",
+      "tail": "歌曲结构",
+      "relation": "基础于"
+    },
+    {
+      "head": "歌词",
+      "tail": "歌曲结构",
+      "relation": "应用于"
+    },
+    {
+      "head": "计算机音乐基础",
+      "tail": "辅助作曲技巧",
+      "relation": "应用于"
+    },
+    {
+      "head": "和声基础",
+      "tail": "钢琴伴奏织体",
+      "relation": "应用于"
+    },
+    {
+      "head": "钢琴伴奏织体",
+      "tail": "伴奏模块的搭建",
+      "relation": "应用于"
+    },
+    {
+      "head": "王洛宾",
+      "tail": "在那遥远的地方",
+      "relation": "创作"
+    },
+    {
+      "head": "雷振邦",
+      "tail": "花儿为什么这样红",
+      "relation": "创作"
+    },
+    {
+      "head": "施光南",
+      "tail": "紫藤花",
+      "relation": "创作"
+    },
+    {
+      "head": "舒伯特",
+      "tail": "野玫瑰",
+      "relation": "创作"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:05:46",
+    "version": "1.1"
+  }
+}

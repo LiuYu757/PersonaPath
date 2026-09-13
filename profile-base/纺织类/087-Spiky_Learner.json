@@ -1,0 +1,526 @@
+{
+  "student_id": "087",
+  "target_major": "纺织类",
+  "archetype": "Spiky_Learner",
+  "current_grade_level": 8.2,
+  "textbook_layer": {
+    "mastered": [
+      "物理-初中-八年级上册"
+    ],
+    "learning": [
+      "化学-初中-九年级上册",
+      "物理-初中-八年级下册",
+      "物理-初中-九年级全一册"
+    ],
+    "not_mastered": [
+      "化学-九年级-下册",
+      "化学-高中-必修第一册",
+      "化学-高中-必修第二册",
+      "化学-高中-化学反应原理",
+      "化学-高中-物质结构与性质",
+      "化学-高中-有机化学基础",
+      "物理-高中-必修第一册",
+      "物理-高中-必修第二册",
+      "物理-高中-必修第三册",
+      "物理-高中-选择性必修第一册",
+      "物理-高中-选择性必修第二册",
+      "物理-高中-选择性必修第三册",
+      "纺织品染整工艺学"
+    ]
+  },
+  "knowledge_layer": [
+    {
+      "book_name": "物理-初中-八年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "物理-初中-八年级上册",
+        "children": [
+          {
+            "title": "机械运动",
+            "mastery": 0.9106
+          },
+          {
+            "title": "声现象",
+            "mastery": 0.941
+          },
+          {
+            "title": "物态变化",
+            "mastery": 0.9881
+          },
+          {
+            "title": "光现象",
+            "mastery": 0.9418
+          },
+          {
+            "title": "透镜及其应用",
+            "mastery": 0.9231
+          },
+          {
+            "title": "质量与密度",
+            "mastery": 0.8893
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-初中-九年级上册",
+      "status": "learning",
+      "detail": {
+        "title": "化学-初中-九年级上册",
+        "children": [
+          {
+            "title": "第一单元 走进化学世界",
+            "mastery": 0.5468
+          },
+          {
+            "title": "第二单元 空气和氧气",
+            "mastery": 0.6775
+          },
+          {
+            "title": "第三单元 物质构成的奥秘",
+            "mastery": 0.5867
+          },
+          {
+            "title": "第四单元 自然界的水",
+            "mastery": 0.1664
+          },
+          {
+            "title": "第五单元 化学反应的定量关系",
+            "mastery": 0.8465
+          },
+          {
+            "title": "第六单元 碳和碳的氧化物",
+            "mastery": 0.9088
+          },
+          {
+            "title": "第七单元 能源的合理利用与开发",
+            "mastery": 0.6008
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-初中-八年级下册",
+      "status": "learning",
+      "detail": {
+        "title": "物理-初中-八年级下册",
+        "children": [
+          {
+            "title": "力",
+            "mastery": 0.7829
+          },
+          {
+            "title": "运动和力",
+            "mastery": 0.6966
+          },
+          {
+            "title": "压强",
+            "mastery": 0.5451
+          },
+          {
+            "title": "浮力",
+            "mastery": 0.7176
+          },
+          {
+            "title": "功和机械能",
+            "mastery": 0.932
+          },
+          {
+            "title": "简单机械",
+            "mastery": 0.7418
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-初中-九年级全一册",
+      "status": "learning",
+      "detail": {
+        "title": "物理-初中-九年级全一册",
+        "children": [
+          {
+            "title": "内能",
+            "mastery": 0.955
+          },
+          {
+            "title": "内能的利用",
+            "mastery": 0.6331
+          },
+          {
+            "title": "电流和电路",
+            "mastery": 0.7849
+          },
+          {
+            "title": "电压与电阻",
+            "mastery": 0.8146
+          },
+          {
+            "title": "欧姆定律",
+            "mastery": 0.4944
+          },
+          {
+            "title": "电功率",
+            "mastery": 0.7872
+          },
+          {
+            "title": "生活用电",
+            "mastery": 0.4402
+          },
+          {
+            "title": "电与磁",
+            "mastery": 0.6681
+          },
+          {
+            "title": "电磁波与应用",
+            "mastery": 0.8885
+          },
+          {
+            "title": "能源与可持续发展",
+            "mastery": 0.3896
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-九年级-下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-九年级-下册",
+        "children": [
+          {
+            "title": "金属和金属材料",
+            "mastery": 0.2718
+          },
+          {
+            "title": "溶液",
+            "mastery": 0.0973
+          },
+          {
+            "title": "常见的酸、碱、盐",
+            "mastery": 0.4493
+          },
+          {
+            "title": "化学与社会",
+            "mastery": 0.461
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-高中-必修第一册",
+        "children": [
+          {
+            "title": "物质及其变化",
+            "mastery": 0.2378
+          },
+          {
+            "title": "钠和氯元素及其化合物",
+            "mastery": 0.266
+          },
+          {
+            "title": "铁金属材料",
+            "mastery": 0.3236
+          },
+          {
+            "title": "物质结构元素周期律",
+            "mastery": 0.1107
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-高中-必修第二册",
+        "children": [
+          {
+            "title": "化工生产中的重要非金属元素",
+            "mastery": 0.1387
+          },
+          {
+            "title": "化学反应与能量",
+            "mastery": 0.3367
+          },
+          {
+            "title": "有机化合物",
+            "mastery": 0.2616
+          },
+          {
+            "title": "化学与可持续发展",
+            "mastery": 0.3435
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-化学反应原理",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-高中-化学反应原理",
+        "children": [
+          {
+            "title": "化学反应的热效应",
+            "mastery": 0.2387
+          },
+          {
+            "title": "化学反应速率与化学平衡",
+            "mastery": 0.3221
+          },
+          {
+            "title": "水溶液中的离子反应与平衡",
+            "mastery": 0.5292
+          },
+          {
+            "title": "化学反应与电能转化",
+            "mastery": 0.0551
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-物质结构与性质",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-高中-物质结构与性质",
+        "children": [
+          {
+            "title": "原子结构与性质",
+            "mastery": 0.2819
+          },
+          {
+            "title": "分子结构与性质",
+            "mastery": 0.3375
+          },
+          {
+            "title": "晶体结构与性质",
+            "mastery": 0.319
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-有机化学基础",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-高中-有机化学基础",
+        "children": [
+          {
+            "title": "有机化合物的结构特点",
+            "mastery": 0.1806
+          },
+          {
+            "title": "研究有机化合物的一般方法",
+            "mastery": 0.3733
+          },
+          {
+            "title": "烃类化合物",
+            "mastery": 0.411
+          },
+          {
+            "title": "烃的衍生物",
+            "mastery": 0.4276
+          },
+          {
+            "title": "生物大分子",
+            "mastery": 0.1186
+          },
+          {
+            "title": "合成高分子",
+            "mastery": 0.3122
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-必修第一册",
+        "children": [
+          {
+            "title": "运动的描述",
+            "mastery": 0.3607
+          },
+          {
+            "title": "匀变速直线运动",
+            "mastery": 0.135
+          },
+          {
+            "title": "相互作用",
+            "mastery": 0.1096
+          },
+          {
+            "title": "牛顿运动定律",
+            "mastery": 0.3166
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-必修第二册",
+        "children": [
+          {
+            "title": "抛体运动",
+            "mastery": 0.397
+          },
+          {
+            "title": "圆周运动",
+            "mastery": 0.2721
+          },
+          {
+            "title": "万有引力与宇宙航行",
+            "mastery": 0.2021
+          },
+          {
+            "title": "机械能守恒定律",
+            "mastery": 0.3159
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-必修第三册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-必修第三册",
+        "children": [
+          {
+            "title": "静电场及其应用",
+            "mastery": 0.1753
+          },
+          {
+            "title": "静电场中的能量",
+            "mastery": 0.064
+          },
+          {
+            "title": "电路及其应用",
+            "mastery": 0.3453
+          },
+          {
+            "title": "电能能量守恒定律",
+            "mastery": 0.2331
+          },
+          {
+            "title": "电磁感应与电磁波初步",
+            "mastery": 0.3048
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-选择性必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-选择性必修第一册",
+        "children": [
+          {
+            "title": "动量守恒定律",
+            "mastery": 0.0653
+          },
+          {
+            "title": "机械振动",
+            "mastery": 0.2044
+          },
+          {
+            "title": "机械波",
+            "mastery": 0.3609
+          },
+          {
+            "title": "光",
+            "mastery": 0.1571
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-选择性必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-选择性必修第二册",
+        "children": [
+          {
+            "title": "安培力与洛伦兹力",
+            "mastery": 0.1312
+          },
+          {
+            "title": "电磁感应",
+            "mastery": 0.111
+          },
+          {
+            "title": "交变电流",
+            "mastery": 0.0589
+          },
+          {
+            "title": "电磁振荡与电磁波",
+            "mastery": 0.2
+          },
+          {
+            "title": "传感器技术",
+            "mastery": 0.1358
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-选择性必修第三册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-选择性必修第三册",
+        "children": [
+          {
+            "title": "分子动理论",
+            "mastery": 0.2076
+          },
+          {
+            "title": "气体、固体和液体",
+            "mastery": 0.387
+          },
+          {
+            "title": "热力学定律",
+            "mastery": 0.2853
+          },
+          {
+            "title": "原子结构和波粒二象性",
+            "mastery": 0.5035
+          },
+          {
+            "title": "原子核",
+            "mastery": 0.3422
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "纺织品染整工艺学",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-工学-纺织类-纺织品染整工艺学",
+        "children": [
+          {
+            "title": "染整前处理",
+            "mastery": 0.2986
+          },
+          {
+            "title": "染色技术",
+            "mastery": 0.1872
+          },
+          {
+            "title": "印花技术",
+            "mastery": 0.0868
+          },
+          {
+            "title": "整理技术",
+            "mastery": 0.2274
+          }
+        ]
+      }
+    }
+  ]
+}

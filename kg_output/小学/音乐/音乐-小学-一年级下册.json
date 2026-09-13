@@ -1,0 +1,525 @@
+{
+  "knowledge_tree": {
+    "title": "一年级下册音乐",
+    "content": "小学一年级下册音乐教材，涵盖唱歌、演奏、音乐知识、音乐活动等内容",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "音乐基础知识",
+        "content": "音乐基本概念和符号",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "音符与节奏",
+            "content": "基本音符时值和节奏型",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "四分音符",
+                "content": "时值为一拍的音符",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "八分音符",
+                "content": "时值为半拍的音符",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "基本节奏型",
+                "content": "de de i de i等节奏组合",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音乐记号",
+            "content": "各种音乐演奏记号",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "延音线",
+                "content": "连接相同音高的音符，时值相加",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "力度记号",
+                "content": "pp很弱、p弱、mp中弱、mf中强、f强、ff很强",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "速度术语",
+                "content": "中速稍慢、中速稍快、快速、慢速等",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "变化音记号",
+            "content": "升号和降号",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "升号",
+                "content": "将音升高半音",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "降号",
+                "content": "将音降低半音",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "变化音演唱技巧",
+                "content": "升音韵母唱i，降音韵母唱u",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "歌唱技能",
+        "content": "歌曲演唱技巧和方法",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "呼吸技巧",
+            "content": "正确的歌唱呼吸方法",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "深呼吸",
+                "content": "演唱前的准备呼吸",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "一口气演唱",
+                "content": "用一口气完成乐句演唱",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "换气技巧",
+                "content": "在合适的位置换气",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "演唱技巧",
+            "content": "各种歌曲演唱技巧",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "跳音演唱",
+                "content": "短促有力的演唱方式",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "连音演唱",
+                "content": "连贯流畅的演唱方式",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "力度变化演唱",
+                "content": "根据力度记号变化音量",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "多声部演唱",
+            "content": "合唱和轮唱技巧",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "二声部合唱",
+                "content": "两个声部同时演唱",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "轮唱",
+                "content": "不同时间开始演唱同一旋律",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "声部配合",
+                "content": "各声部之间的协调配合",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "演奏技能",
+        "content": "键盘乐器演奏基础",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "手指训练",
+            "content": "手指灵活性和独立性训练",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "手指编号",
+                "content": "1-5指对应左右手",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "指法操",
+                "content": "手指灵活性训练",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "闭眼弹奏",
+                "content": "不看键盘的触键练习",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "键盘基础",
+            "content": "键盘乐器基本知识",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "键盘位置",
+                "content": "左右手在键盘上的基本位置",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "音组识别",
+                "content": "识别不同音组的相同旋律",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "双手配合",
+                "content": "左右手协调弹奏",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "旋律弹奏",
+            "content": "简单旋律的演奏",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "单旋律弹奏",
+                "content": "单手演奏旋律",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "旋律补充",
+                "content": "根据提示补充完整旋律",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "节奏准确",
+                "content": "保持稳定的节奏",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "音乐体裁与形式",
+        "content": "不同音乐类型和形式",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "摇篮曲",
+            "content": "哄婴儿入睡的歌曲",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "摇篮曲特点",
+                "content": "柔和、舒缓、安静",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "中外摇篮曲",
+                "content": "不同国家的摇篮曲作品",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "摇篮曲演唱",
+                "content": "用轻柔的声音演唱",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "圆舞曲",
+            "content": "三拍子的舞曲",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "圆舞曲特点",
+                "content": "三拍子，强弱弱节奏",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "儿童圆舞曲",
+                "content": "适合儿童演唱的圆舞曲",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "圆舞曲舞蹈",
+                "content": "基本的圆舞舞步",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "号子",
+            "content": "劳动时演唱的歌曲",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "号子特点",
+                "content": "一领众和，节奏鲜明",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "打麦号子",
+                "content": "打麦时演唱的劳动号子",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "号子演唱形式",
+                "content": "领唱与合唱的配合",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "音乐活动与创作",
+        "content": "音乐游戏和创作活动",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "节奏游戏",
+            "content": "各种节奏训练游戏",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "节奏拼接",
+                "content": "将不同节奏型组合在一起",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "节奏传递",
+                "content": "依次传递节奏型",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "节奏伴奏",
+                "content": "为歌曲添加节奏伴奏",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音乐创作",
+            "content": "简单的音乐创编",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "旋律创编",
+                "content": "创作简单的旋律",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "节奏创编",
+                "content": "创作节奏型",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "配器创作",
+                "content": "为旋律选择打击乐器",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音乐表演",
+            "content": "音乐情境表演",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "情境创设",
+                "content": "创设音乐表演情境",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "角色扮演",
+                "content": "扮演音乐中的角色",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "综合表演",
+                "content": "结合唱歌、演奏、舞蹈的表演",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "延音线",
+      "tail": "音符时值",
+      "relation": "影响"
+    },
+    {
+      "head": "力度记号",
+      "tail": "音量控制",
+      "relation": "指示"
+    },
+    {
+      "head": "速度术语",
+      "tail": "演奏速度",
+      "relation": "规定"
+    },
+    {
+      "head": "升号",
+      "tail": "音高变化",
+      "relation": "升高半音"
+    },
+    {
+      "head": "降号",
+      "tail": "音高变化",
+      "relation": "降低半音"
+    },
+    {
+      "head": "深呼吸",
+      "tail": "气息支持",
+      "relation": "提供"
+    },
+    {
+      "head": "一口气演唱",
+      "tail": "气息控制",
+      "relation": "训练"
+    },
+    {
+      "head": "跳音演唱",
+      "tail": "音色表现",
+      "relation": "产生短促效果"
+    },
+    {
+      "head": "连音演唱",
+      "tail": "音色表现",
+      "relation": "产生连贯效果"
+    },
+    {
+      "head": "手指编号",
+      "tail": "键盘演奏",
+      "relation": "基础"
+    },
+    {
+      "head": "指法操",
+      "tail": "手指灵活性",
+      "relation": "训练"
+    },
+    {
+      "head": "键盘位置",
+      "tail": "音高定位",
+      "relation": "确定"
+    },
+    {
+      "head": "摇篮曲",
+      "tail": "柔和音色",
+      "relation": "要求"
+    },
+    {
+      "head": "圆舞曲",
+      "tail": "三拍子节奏",
+      "relation": "特征"
+    },
+    {
+      "head": "号子",
+      "tail": "劳动节奏",
+      "relation": "配合"
+    },
+    {
+      "head": "节奏拼接",
+      "tail": "节奏感",
+      "relation": "培养"
+    },
+    {
+      "head": "旋律创编",
+      "tail": "音乐创造力",
+      "relation": "发展"
+    },
+    {
+      "head": "情境表演",
+      "tail": "音乐理解",
+      "relation": "深化"
+    },
+    {
+      "head": "二声部合唱",
+      "tail": "和声感知",
+      "relation": "培养"
+    },
+    {
+      "head": "双手配合",
+      "tail": "协调能力",
+      "relation": "训练"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:54:15",
+    "version": "1.1"
+  }
+}

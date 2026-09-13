@@ -1,0 +1,789 @@
+{
+  "knowledge_tree": {
+    "title": "八年级上册地理",
+    "content": "中国地理基础知识，包括疆域、人口、民族、自然环境、自然资源、经济发展及美丽中国建设",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一章 从世界看中国",
+        "content": "中国的地理位置、疆域、行政区划、人口和民族特征",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第一节 疆域",
+            "content": "中国的地理位置特征、疆域范围及行政区划",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "优越的地理位置",
+                "content": "中国位于东半球和北半球，大部分位于北温带，南部部分地区位于热带，海陆兼备",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "半球位置",
+                    "content": "中国位于东半球和北半球",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "纬度位置",
+                    "content": "中国大部分位于北温带，南部部分地区位于热带，没有寒带",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "海陆位置",
+                    "content": "中国位于亚欧大陆东部、太平洋西岸，海陆兼备",
+                    "difficulty": "1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "海阔陆广的大国",
+                "content": "中国陆地面积约960万平方千米，居世界第三位，疆域东西和南北跨度大",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "领土四至点",
+                    "content": "最北端在黑龙江省漠河市北端的黑龙江主航道中心线上，最南端在海南省南沙群岛中的曾母暗沙附近，最西端在新疆维吾尔自治区的帕米尔高原上，最东端在黑龙江省黑龙江与乌苏里江主航道中心线的汇合处",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "陆上邻国",
+                    "content": "中国与14个国家陆上相邻",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "濒临的海洋",
+                    "content": "中国大陆濒临渤海、黄海、东海、南海，台湾岛东岸直接濒临太平洋",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "隔海相望的国家",
+                    "content": "中国与8个国家隔海相望",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "行政区划",
+                "content": "中国实行三级行政区划，包括34个省级行政区",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "三级行政区划",
+                    "content": "省（自治区、直辖市）、县（市、自治县）、乡（镇、民族乡）三级",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "省级行政区",
+                    "content": "中国有23个省、5个自治区、4个直辖市和2个特别行政区",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "省级行政区的名称、简称和行政中心",
+                    "content": "各省级行政区有特定的简称和行政中心",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第二节 人口",
+            "content": "中国人口数量、增长特点及分布特征",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "世界人口大国",
+                "content": "中国人口总数约14.12亿，是世界人口大国",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "人口增长",
+                "content": "中华人民共和国成立后人口增长迅速，20世纪70年代实施计划生育政策后增长放缓",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "人口分布不均",
+                "content": "中国人口分布东密西疏，以黑河—腾冲线为界",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "人口地理分界线",
+                    "content": "黑河—腾冲线是中国人口地理分界线，东南部人口密集，西北部人口稀疏",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "人口密度",
+                    "content": "2020年中国人口密度约为147人/平方千米，东南部许多地区超过400人/平方千米，西北部大片地区低于10人/平方千米",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "城镇人口",
+                "content": "中国城镇人口占比约2/3，已从以乡村人口为主转为以城镇人口为主",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第三节 民族",
+            "content": "中国民族构成、分布特点及民族文化",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "中华民族大家庭",
+                "content": "中国有56个民族，汉族人口最多，约占91%，其他55个民族为少数民族",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "民族分布特点",
+                "content": "民族分布具有“大杂居、小聚居、交错居住”的特点",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "汉族分布",
+                    "content": "汉族人口遍布全国各地",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "少数民族分布",
+                    "content": "少数民族人口相对集中在西南、西北和东北等地区",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "民族语言和文字",
+                "content": "大多数民族有自己的语言，有些民族有自己的文字",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二章 中国的自然环境",
+        "content": "中国的地形、气候、河流与湖泊等自然环境特征",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第一节 地形",
+            "content": "中国地势特征、地形类型及山脉分布",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "地势西高东低，呈现三级阶梯",
+                "content": "中国地势自西向东分为三级阶梯",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "第一级阶梯",
+                    "content": "青藏高原，平均海拔在4000米以上",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "第二级阶梯",
+                    "content": "高原和盆地为主，海拔一般在1000-2000米",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "第三级阶梯",
+                    "content": "平原和丘陵为主，海拔大多在500米以下",
+                    "difficulty": "1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "地形类型齐全，山区面积广大",
+                "content": "中国地形类型多样，山地、高原、盆地、平原、丘陵兼备，山区面积超过全国总面积的2/3",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "山脉纵横交错",
+                "content": "中国山脉构成地形的网格状骨架",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "主要山脉",
+                    "content": "包括东西走向、东北-西南走向、南北走向等山脉",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "地形区与山脉的关系",
+                    "content": "山脉常为不同地形区之间的分界",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第二节 气候",
+            "content": "中国气候类型、特征及影响因素",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "季风气候显著",
+                "content": "中国大部分地区属于典型的季风气候，四季分明，雨热同期",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "气温分布",
+                    "content": "冬季南北温差大，夏季普遍高温",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "降水分布",
+                    "content": "年降水量从东南沿海向西北内陆递减，降水集中在夏季",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "气候类型多样",
+                "content": "中国气候类型复杂多样，包括热带季风气候、亚热带季风气候、温带季风气候、温带大陆性气候和高原山地气候",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "温度带划分",
+                    "content": "从北到南分为寒温带、中温带、暖温带、亚热带、热带，青藏高原为高寒区",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "干湿地区划分",
+                    "content": "分为湿润区、半湿润区、半干旱区、干旱区",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "影响因素复杂",
+                "content": "海陆位置、纬度位置和地形是影响中国气候的主要因素",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "海陆位置影响",
+                    "content": "东部季风气候显著，西北温带大陆性气候为主",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "纬度位置影响",
+                    "content": "自北向南气温逐渐升高，形成不同的温度带",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "地形影响",
+                    "content": "山地气候垂直差异明显，青藏高原形成高原山地气候",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第三节 河流与湖泊",
+            "content": "中国河流与湖泊的分布、特征及开发利用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "河湖众多，区域差异显著",
+                "content": "中国河流分为外流区和内流区，湖泊分为淡水湖和咸水湖",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "外流区与内流区",
+                    "content": "外流区约占全国面积的2/3，内流区约占1/3",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "河流水文特征",
+                    "content": "外流河汛期在夏季，内流河水量小，多为季节性河流",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "湖泊分布",
+                    "content": "长江中下游地区是中国最大的淡水湖泊群，青藏高原是世界最大的高原湖泊群",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "长江",
+                "content": "中国第一大河，发源于唐古拉山脉，注入东海",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "长江概况",
+                    "content": "干流全长超过6300千米，流域面积约180万平方千米",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "水文特征",
+                    "content": "水量大，水能资源丰富，航运发达",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "开发利用与保护",
+                    "content": "修建水利枢纽，治理荆江河段，保护生态环境",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "黄河",
+                "content": "中国第二长河，发源于巴颜喀拉山脉，注入渤海",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "黄河概况",
+                    "content": "干流全长超过5400千米，呈“几”字形弯曲",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "水文特征",
+                    "content": "水少沙多，下游为“地上河”",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "治理与开发",
+                    "content": "水土保持，调水调沙，加固堤防",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三章 中国的自然资源",
+        "content": "中国土地资源、水资源、矿产资源、海洋资源的特征及利用保护",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第一节 土地资源",
+            "content": "中国土地资源类型、分布及利用保护",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "总量大，种类全",
+                "content": "中国土地资源总量丰富，但人均占有量少",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "分布不均",
+                "content": "耕地和林地集中在东部，草地集中在西部",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "合理利用每一寸土地",
+                "content": "因地制宜，保护耕地，建设高标准农田",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第二节 水资源",
+            "content": "中国水资源分布、利用及保护",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "总量丰富，时空分布不均",
+                "content": "水资源南丰北缺，夏秋多冬春少，年际变化大",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "合理利用与保护水资源",
+                "content": "节约用水，防治水污染，兴建水库，跨流域调水",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第三节 矿产资源",
+            "content": "中国矿产资源类型、分布及开发利用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "种类齐全，多寡不均",
+                "content": "矿产资源种类齐全，但人均占有量少，分布不均",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "产消量大，进口量多",
+                "content": "许多矿产消费依赖进口，需加强勘探和循环利用",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第四节 海洋资源",
+            "content": "中国海洋资源类型、分布及开发利用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "从鱼盐之利到海洋资源综合开发",
+                "content": "海洋渔业、海盐生产、海洋油气资源开发等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "行舟楫之便，通四海之洲",
+                "content": "海洋交通运输发展，港口建设",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "从利用近海到开发远洋",
+                "content": "近海保护，远洋开发，深海勘探",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第四章 中国的经济发展",
+        "content": "中国农业、工业、交通运输的发展特征及科技作用",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第一节 农业",
+            "content": "中国农业分布、发展及科技助力",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "因地制宜的农业分布",
+                "content": "农业区域差异明显，东部以种植业为主，西部以畜牧业为主",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "科技助力农业发展",
+                "content": "杂交水稻、农业机械化、水利设施等推动农业发展",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第二节 工业",
+            "content": "中国工业发展、分布及科技促进低碳转型",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "门类齐全的工业大国",
+                "content": "工业体系完整，制造业大国，产品出口以机电产品为主",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "相对集中的工业分布",
+                "content": "工业集中在东部沿海和长江沿线地区",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "科技促进工业低碳发展",
+                "content": "提高能源效率，发展清洁能源，推动工业低碳转型",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第三节 交通运输",
+            "content": "中国交通运输网络发展及影响",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "覆盖全国、东密西疏的交通网络",
+                "content": "交通线东密西疏，形成由公路、铁路、航空等组成的交通网",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "内畅外通的交通联系",
+                "content": "国内交通便捷，国际联系加强",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第五章 建设美丽中国",
+        "content": "中国自然灾害特点、防灾减灾、环境保护及生态文明建设",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第一节 自然灾害与防灾减灾",
+            "content": "中国自然灾害类型、分布及防灾减灾措施",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "自然灾害严重",
+                "content": "自然灾害种类多、频率高、分布广，主要有气象灾害和地质灾害",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "除害兴利并举",
+                "content": "坚持“预防为主、防抗救相结合”，提升防灾减灾能力",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "自救互救",
+                "content": "学习应急避灾知识，提高自救互救能力",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第二节 环境保护与发展",
+            "content": "中国环境问题、治理措施及生态文明建设",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "积极应对环境问题",
+                "content": "针对资源短缺、环境污染、生态退化等问题采取治理措施",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "走向生态文明",
+                "content": "坚持人与自然和谐共生，用生态文明理念引领高质量发展",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "中国",
+      "tail": "东半球",
+      "relation": "位于"
+    },
+    {
+      "head": "中国",
+      "tail": "北半球",
+      "relation": "位于"
+    },
+    {
+      "head": "中国",
+      "tail": "北温带",
+      "relation": "大部分位于"
+    },
+    {
+      "head": "中国",
+      "tail": "热带",
+      "relation": "南部部分地区位于"
+    },
+    {
+      "head": "中国",
+      "tail": "亚欧大陆东部",
+      "relation": "位于"
+    },
+    {
+      "head": "中国",
+      "tail": "太平洋西岸",
+      "relation": "位于"
+    },
+    {
+      "head": "中国",
+      "tail": "14个陆上邻国",
+      "relation": "与...接壤"
+    },
+    {
+      "head": "中国",
+      "tail": "8个隔海相望国家",
+      "relation": "与...隔海相望"
+    },
+    {
+      "head": "中国",
+      "tail": "三级行政区划",
+      "relation": "实行"
+    },
+    {
+      "head": "中国",
+      "tail": "34个省级行政区",
+      "relation": "包括"
+    },
+    {
+      "head": "中国",
+      "tail": "人口众多",
+      "relation": "特征"
+    },
+    {
+      "head": "中国",
+      "tail": "人口分布东密西疏",
+      "relation": "特征"
+    },
+    {
+      "head": "中国",
+      "tail": "56个民族",
+      "relation": "有"
+    },
+    {
+      "head": "中国",
+      "tail": "民族分布大杂居、小聚居",
+      "relation": "特征"
+    },
+    {
+      "head": "中国",
+      "tail": "地势西高东低",
+      "relation": "特征"
+    },
+    {
+      "head": "中国",
+      "tail": "三级阶梯",
+      "relation": "分为"
+    },
+    {
+      "head": "中国",
+      "tail": "地形类型多样",
+      "relation": "特征"
+    },
+    {
+      "head": "中国",
+      "tail": "山区面积广大",
+      "relation": "特征"
+    },
+    {
+      "head": "中国",
+      "tail": "季风气候显著",
+      "relation": "特征"
+    },
+    {
+      "head": "中国",
+      "tail": "气候类型多样",
+      "relation": "特征"
+    },
+    {
+      "head": "中国",
+      "tail": "河流众多",
+      "relation": "特征"
+    },
+    {
+      "head": "中国",
+      "tail": "湖泊分布广泛",
+      "relation": "特征"
+    },
+    {
+      "head": "中国",
+      "tail": "自然资源总量丰富",
+      "relation": "特征"
+    },
+    {
+      "head": "中国",
+      "tail": "人均资源不足",
+      "relation": "特征"
+    },
+    {
+      "head": "中国",
+      "tail": "农业分布因地制宜",
+      "relation": "特征"
+    },
+    {
+      "head": "中国",
+      "tail": "工业门类齐全",
+      "relation": "特征"
+    },
+    {
+      "head": "中国",
+      "tail": "交通运输发展迅速",
+      "relation": "特征"
+    },
+    {
+      "head": "中国",
+      "tail": "自然灾害频发",
+      "relation": "特征"
+    },
+    {
+      "head": "中国",
+      "tail": "环境保护与可持续发展",
+      "relation": "实施"
+    },
+    {
+      "head": "长江",
+      "tail": "中国第一长河",
+      "relation": "是"
+    },
+    {
+      "head": "黄河",
+      "tail": "中国第二长河",
+      "relation": "是"
+    },
+    {
+      "head": "秦岭-淮河线",
+      "tail": "中国南北地理分界线",
+      "relation": "是"
+    },
+    {
+      "head": "黑河-腾冲线",
+      "tail": "中国人口地理分界线",
+      "relation": "是"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:10:22",
+    "version": "1.1"
+  }
+}

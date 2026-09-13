@@ -1,0 +1,1228 @@
+{
+  "student_id": "984",
+  "target_major": "能源动力类",
+  "archetype": "Linear_Learner",
+  "current_grade_level": 8.5,
+  "textbook_layer": {
+    "mastered": [
+      "数学-小学-一年级上册",
+      "数学-小学-一年级下册",
+      "数学-小学-二年级上册",
+      "数学-小学-二年级下册",
+      "数学-小学-三年级上册",
+      "数学-小学-三年级下册",
+      "数学-小学-四年级上册",
+      "数学-小学-四年级下册",
+      "数学-小学-五年级上册",
+      "数学-小学-五年级下册",
+      "数学-小学-六年级上册",
+      "数学-小学-六年级下册",
+      "数学-七年级-上册",
+      "数学-七年级-下册"
+    ],
+    "learning": [
+      "数学-八年级-上册",
+      "数学-初中-八年级下册",
+      "物理-初中-八年级上册",
+      "物理-初中-八年级下册"
+    ],
+    "not_mastered": [
+      "数学-初中-九年级上册",
+      "数学-初中-九年级下册",
+      "数学-高中-必修第一册",
+      "数学-高中-必修第二册",
+      "数学-高中-选择性必修第一册",
+      "数学-高中-选择性必修第二册",
+      "数学-高中-选择性必修第三册",
+      "物理-初中-九年级全一册",
+      "物理-高中-必修第一册",
+      "物理-高中-必修第二册",
+      "物理-高中-必修第三册",
+      "物理-高中-选择性必修第一册",
+      "物理-高中-选择性必修第二册",
+      "物理-高中-选择性必修第三册",
+      "化学-初中-九年级上册",
+      "化学-九年级-下册",
+      "化学-高中-必修第一册",
+      "化学-高中-必修第二册",
+      "化学-高中-化学反应原理",
+      "化学-高中-物质结构与性质",
+      "化学-高中-有机化学基础",
+      "工程热力学"
+    ]
+  },
+  "knowledge_layer": [
+    {
+      "book_name": "数学-小学-一年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-一年级上册",
+        "children": [
+          {
+            "title": "数的认识与运算",
+            "mastery": 0.9279
+          },
+          {
+            "title": "图形与空间",
+            "mastery": 0.7796
+          },
+          {
+            "title": "时间认知与应用",
+            "mastery": 0.8938
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-一年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-一年级下册",
+        "children": [
+          {
+            "title": "100以内数的认识",
+            "mastery": 0.9068
+          },
+          {
+            "title": "20以内的退位减法",
+            "mastery": 0.6239
+          },
+          {
+            "title": "分类与整理",
+            "mastery": 0.9801
+          },
+          {
+            "title": "认识人民币",
+            "mastery": 0.9227
+          },
+          {
+            "title": "100以内的加法和减法",
+            "mastery": 0.7055
+          },
+          {
+            "title": "找规律",
+            "mastery": 0.7435
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-二年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-二年级上册",
+        "children": [
+          {
+            "title": "长度单位",
+            "mastery": 0.8823
+          },
+          {
+            "title": "100以内的加法和减法",
+            "mastery": 0.8346
+          },
+          {
+            "title": "角的初步认识",
+            "mastery": 0.8311
+          },
+          {
+            "title": "表内乘法",
+            "mastery": 0.4377
+          },
+          {
+            "title": "观察物体",
+            "mastery": 0.702
+          },
+          {
+            "title": "认识时间",
+            "mastery": 0.9843
+          },
+          {
+            "title": "数学广角——搭配",
+            "mastery": 0.6565
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-二年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-二年级下册",
+        "children": [
+          {
+            "title": "数据收集和整理",
+            "mastery": 0.7761
+          },
+          {
+            "title": "表内除法",
+            "mastery": 0.8965
+          },
+          {
+            "title": "图形的运动",
+            "mastery": 0.8443
+          },
+          {
+            "title": "万以内数的认识",
+            "mastery": 0.9054
+          },
+          {
+            "title": "克和千克",
+            "mastery": 0.8125
+          },
+          {
+            "title": "数学广角——推理",
+            "mastery": 0.9663
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-三年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-三年级上册",
+        "children": [
+          {
+            "title": "时、分、秒",
+            "mastery": 0.7864
+          },
+          {
+            "title": "万以内的加法和减法",
+            "mastery": 0.7532
+          },
+          {
+            "title": "测量",
+            "mastery": 0.8476
+          },
+          {
+            "title": "倍的认识",
+            "mastery": 0.6762
+          },
+          {
+            "title": "多位数乘一位数",
+            "mastery": 0.8667
+          },
+          {
+            "title": "长方形和正方形",
+            "mastery": 0.8386
+          },
+          {
+            "title": "分数的初步认识",
+            "mastery": 0.897
+          },
+          {
+            "title": "数学广角——集合",
+            "mastery": 0.5938
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-三年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-三年级下册",
+        "children": [
+          {
+            "title": "除数是一位数的除法",
+            "mastery": 0.8479
+          },
+          {
+            "title": "两位数乘两位数",
+            "mastery": 0.7179
+          },
+          {
+            "title": "面积概念与计算",
+            "mastery": 0.6329
+          },
+          {
+            "title": "年、月、日认识",
+            "mastery": 0.8589
+          },
+          {
+            "title": "小数初步认识",
+            "mastery": 0.7056
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-四年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-四年级上册",
+        "children": [
+          {
+            "title": "大数的认识",
+            "mastery": 0.9251
+          },
+          {
+            "title": "面积单位与几何图形",
+            "mastery": 0.6188
+          },
+          {
+            "title": "数的运算与规律",
+            "mastery": 0.7635
+          },
+          {
+            "title": "数据表示与数学思想",
+            "mastery": 0.6018
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-四年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-四年级下册",
+        "children": [
+          {
+            "title": "四则运算",
+            "mastery": 0.7623
+          },
+          {
+            "title": "观察物体",
+            "mastery": 0.758
+          },
+          {
+            "title": "运算律",
+            "mastery": 0.7255
+          },
+          {
+            "title": "小数的意义和性质",
+            "mastery": 0.6446
+          },
+          {
+            "title": "三角形",
+            "mastery": 0.7144
+          },
+          {
+            "title": "小数的加法和减法",
+            "mastery": 0.6622
+          },
+          {
+            "title": "图形的运动",
+            "mastery": 0.7341
+          },
+          {
+            "title": "平均数与条形统计图",
+            "mastery": 0.8486
+          },
+          {
+            "title": "鸡兔同笼问题",
+            "mastery": 0.7006
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-五年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-五年级上册",
+        "children": [
+          {
+            "title": "小数乘法",
+            "mastery": 0.8133
+          },
+          {
+            "title": "位置",
+            "mastery": 0.8724
+          },
+          {
+            "title": "小数除法",
+            "mastery": 0.9405
+          },
+          {
+            "title": "简易方程",
+            "mastery": 0.5491
+          },
+          {
+            "title": "多边形的面积",
+            "mastery": 0.7787
+          },
+          {
+            "title": "可能性",
+            "mastery": 0.7642
+          },
+          {
+            "title": "数学广角",
+            "mastery": 0.7528
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-五年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-五年级下册",
+        "children": [
+          {
+            "title": "观察物体（三）",
+            "mastery": 0.7835
+          },
+          {
+            "title": "因数和倍数",
+            "mastery": 0.6123
+          },
+          {
+            "title": "长方体和正方体",
+            "mastery": 0.8609
+          },
+          {
+            "title": "分数的意义和性质",
+            "mastery": 0.5003
+          },
+          {
+            "title": "图形的运动（三）",
+            "mastery": 0.91
+          },
+          {
+            "title": "分数的加法和减法",
+            "mastery": 0.6214
+          },
+          {
+            "title": "折线统计图",
+            "mastery": 0.7845
+          },
+          {
+            "title": "数学广角——找次品",
+            "mastery": 0.4105
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-六年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-六年级上册",
+        "children": [
+          {
+            "title": "分数乘法",
+            "mastery": 0.7929
+          },
+          {
+            "title": "位置与方向",
+            "mastery": 0.8919
+          },
+          {
+            "title": "分数除法",
+            "mastery": 0.8691
+          },
+          {
+            "title": "比",
+            "mastery": 0.762
+          },
+          {
+            "title": "圆",
+            "mastery": 0.8196
+          },
+          {
+            "title": "百分数",
+            "mastery": 0.7092
+          },
+          {
+            "title": "扇形统计图",
+            "mastery": 0.9766
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-六年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-六年级下册",
+        "children": [
+          {
+            "title": "负数",
+            "mastery": 0.8559
+          },
+          {
+            "title": "百分数（二）",
+            "mastery": 0.8677
+          },
+          {
+            "title": "圆柱与圆锥",
+            "mastery": 0.7299
+          },
+          {
+            "title": "比例",
+            "mastery": 0.7442
+          },
+          {
+            "title": "数学广角—鸽巢问题",
+            "mastery": 0.7381
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-七年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-七年级-上册",
+        "children": [
+          {
+            "title": "有理数",
+            "mastery": 0.8533
+          },
+          {
+            "title": "代数式与整式",
+            "mastery": 0.6349
+          },
+          {
+            "title": "一元一次方程",
+            "mastery": 0.8077
+          },
+          {
+            "title": "几何图形初步",
+            "mastery": 0.9911
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-七年级-下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-七年级-下册",
+        "children": [
+          {
+            "title": "相交线与平行线",
+            "mastery": 0.7064
+          },
+          {
+            "title": "实数",
+            "mastery": 0.8743
+          },
+          {
+            "title": "平面直角坐标系",
+            "mastery": 0.6762
+          },
+          {
+            "title": "二元一次方程组",
+            "mastery": 0.6907
+          },
+          {
+            "title": "不等式与不等式组",
+            "mastery": 0.5585
+          },
+          {
+            "title": "数据的收集整理与描述",
+            "mastery": 0.7843
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-八年级-上册",
+      "status": "learning",
+      "detail": {
+        "title": "数学-八年级-上册",
+        "children": [
+          {
+            "title": "三角形",
+            "mastery": 0.8555
+          },
+          {
+            "title": "全等三角形",
+            "mastery": 0.6948
+          },
+          {
+            "title": "轴对称",
+            "mastery": 0.4565
+          },
+          {
+            "title": "整式与分式运算",
+            "mastery": 0.5609
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-初中-八年级下册",
+      "status": "learning",
+      "detail": {
+        "title": "数学-初中-八年级下册",
+        "children": [
+          {
+            "title": "二次根式",
+            "mastery": 0.6938
+          },
+          {
+            "title": "勾股定理",
+            "mastery": 0.6828
+          },
+          {
+            "title": "平行四边形",
+            "mastery": 0.5611
+          },
+          {
+            "title": "一次函数",
+            "mastery": 0.6148
+          },
+          {
+            "title": "数据的分析",
+            "mastery": 0.6462
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-初中-八年级上册",
+      "status": "learning",
+      "detail": {
+        "title": "物理-初中-八年级上册",
+        "children": [
+          {
+            "title": "机械运动",
+            "mastery": 0.5012
+          },
+          {
+            "title": "声现象",
+            "mastery": 0.1427
+          },
+          {
+            "title": "物态变化",
+            "mastery": 0.5443
+          },
+          {
+            "title": "光现象",
+            "mastery": 0.6846
+          },
+          {
+            "title": "透镜及其应用",
+            "mastery": 0.5925
+          },
+          {
+            "title": "质量与密度",
+            "mastery": 0.2385
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-初中-八年级下册",
+      "status": "learning",
+      "detail": {
+        "title": "物理-初中-八年级下册",
+        "children": [
+          {
+            "title": "力",
+            "mastery": 0.308
+          },
+          {
+            "title": "运动和力",
+            "mastery": 0.1692
+          },
+          {
+            "title": "压强",
+            "mastery": 0.3667
+          },
+          {
+            "title": "浮力",
+            "mastery": 0.8687
+          },
+          {
+            "title": "功和机械能",
+            "mastery": 0.5477
+          },
+          {
+            "title": "简单机械",
+            "mastery": 0.6595
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-初中-九年级上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-初中-九年级上册",
+        "children": [
+          {
+            "title": "一元二次方程",
+            "mastery": 0.2272
+          },
+          {
+            "title": "二次函数",
+            "mastery": 0.106
+          },
+          {
+            "title": "旋转",
+            "mastery": 0.3389
+          },
+          {
+            "title": "圆",
+            "mastery": 0.2102
+          },
+          {
+            "title": "概率初步",
+            "mastery": 0.1739
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-初中-九年级下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-初中-九年级下册",
+        "children": [
+          {
+            "title": "反比例函数",
+            "mastery": 0.1905
+          },
+          {
+            "title": "相似",
+            "mastery": 0.1252
+          },
+          {
+            "title": "锐角三角函数",
+            "mastery": 0.0617
+          },
+          {
+            "title": "投影与视图",
+            "mastery": 0.0235
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-必修第一册",
+        "children": [
+          {
+            "title": "集合与常用逻辑用语",
+            "mastery": 0.0908
+          },
+          {
+            "title": "对数函数",
+            "mastery": 0.209
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-必修第二册",
+        "children": [
+          {
+            "title": "平面向量及其应用",
+            "mastery": 0.2814
+          },
+          {
+            "title": "空间直线与平面的垂直",
+            "mastery": 0.2202
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-选择性必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-选择性必修第一册",
+        "children": [
+          {
+            "title": "空间向量与立体几何",
+            "mastery": 0.1224
+          },
+          {
+            "title": "直线与圆",
+            "mastery": 0.068
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-选择性必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-选择性必修第二册",
+        "children": [
+          {
+            "title": "数列的概念与表示",
+            "mastery": 0.0107
+          },
+          {
+            "title": "等差数列",
+            "mastery": 0.0631
+          },
+          {
+            "title": "等比数列",
+            "mastery": 0.2953
+          },
+          {
+            "title": "数学归纳法",
+            "mastery": 0.1253
+          },
+          {
+            "title": "数列的综合应用",
+            "mastery": 0.0597
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-选择性必修第三册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-选择性必修第三册",
+        "children": [
+          {
+            "title": "计数原理",
+            "mastery": 0.1345
+          },
+          {
+            "title": "随机变量及其分布",
+            "mastery": 0.1654
+          },
+          {
+            "title": "成对数据的统计分析",
+            "mastery": 0.0963
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-初中-九年级全一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-初中-九年级全一册",
+        "children": [
+          {
+            "title": "内能",
+            "mastery": 0.0924
+          },
+          {
+            "title": "内能的利用",
+            "mastery": 0.2676
+          },
+          {
+            "title": "电流和电路",
+            "mastery": 0.0543
+          },
+          {
+            "title": "电压与电阻",
+            "mastery": 0.1416
+          },
+          {
+            "title": "欧姆定律",
+            "mastery": 0.1209
+          },
+          {
+            "title": "电功率",
+            "mastery": 0.1359
+          },
+          {
+            "title": "生活用电",
+            "mastery": 0.0639
+          },
+          {
+            "title": "电与磁",
+            "mastery": 0.1907
+          },
+          {
+            "title": "电磁波与应用",
+            "mastery": 0.1822
+          },
+          {
+            "title": "能源与可持续发展",
+            "mastery": 0.3077
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-必修第一册",
+        "children": [
+          {
+            "title": "运动的描述",
+            "mastery": 0.3507
+          },
+          {
+            "title": "匀变速直线运动",
+            "mastery": 0.3845
+          },
+          {
+            "title": "相互作用",
+            "mastery": 0.1455
+          },
+          {
+            "title": "牛顿运动定律",
+            "mastery": 0.1547
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-必修第二册",
+        "children": [
+          {
+            "title": "抛体运动",
+            "mastery": 0.1523
+          },
+          {
+            "title": "圆周运动",
+            "mastery": 0.2235
+          },
+          {
+            "title": "万有引力与宇宙航行",
+            "mastery": 0.22
+          },
+          {
+            "title": "机械能守恒定律",
+            "mastery": 0.3615
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-必修第三册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-必修第三册",
+        "children": [
+          {
+            "title": "静电场及其应用",
+            "mastery": 0.1093
+          },
+          {
+            "title": "静电场中的能量",
+            "mastery": 0.2408
+          },
+          {
+            "title": "电路及其应用",
+            "mastery": 0.034
+          },
+          {
+            "title": "电能能量守恒定律",
+            "mastery": 0.107
+          },
+          {
+            "title": "电磁感应与电磁波初步",
+            "mastery": 0.1835
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-选择性必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-选择性必修第一册",
+        "children": [
+          {
+            "title": "动量守恒定律",
+            "mastery": 0.038
+          },
+          {
+            "title": "机械振动",
+            "mastery": 0.0743
+          },
+          {
+            "title": "机械波",
+            "mastery": 0.1232
+          },
+          {
+            "title": "光",
+            "mastery": 0.211
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-选择性必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-选择性必修第二册",
+        "children": [
+          {
+            "title": "安培力与洛伦兹力",
+            "mastery": 0.3667
+          },
+          {
+            "title": "电磁感应",
+            "mastery": 0.113
+          },
+          {
+            "title": "交变电流",
+            "mastery": 0.0483
+          },
+          {
+            "title": "电磁振荡与电磁波",
+            "mastery": 0.306
+          },
+          {
+            "title": "传感器技术",
+            "mastery": 0.1439
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-选择性必修第三册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "物理-高中-选择性必修第三册",
+        "children": [
+          {
+            "title": "分子动理论",
+            "mastery": 0.0819
+          },
+          {
+            "title": "气体、固体和液体",
+            "mastery": 0.1481
+          },
+          {
+            "title": "热力学定律",
+            "mastery": 0.0305
+          },
+          {
+            "title": "原子结构和波粒二象性",
+            "mastery": 0.2142
+          },
+          {
+            "title": "原子核",
+            "mastery": 0.0177
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-初中-九年级上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-初中-九年级上册",
+        "children": [
+          {
+            "title": "第一单元 走进化学世界",
+            "mastery": 0.2215
+          },
+          {
+            "title": "第二单元 空气和氧气",
+            "mastery": 0.3115
+          },
+          {
+            "title": "第三单元 物质构成的奥秘",
+            "mastery": 0.0366
+          },
+          {
+            "title": "第四单元 自然界的水",
+            "mastery": 0.0157
+          },
+          {
+            "title": "第五单元 化学反应的定量关系",
+            "mastery": 0.0375
+          },
+          {
+            "title": "第六单元 碳和碳的氧化物",
+            "mastery": 0.0668
+          },
+          {
+            "title": "第七单元 能源的合理利用与开发",
+            "mastery": 0.1473
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-九年级-下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-九年级-下册",
+        "children": [
+          {
+            "title": "金属和金属材料",
+            "mastery": 0.0929
+          },
+          {
+            "title": "溶液",
+            "mastery": 0.3904
+          },
+          {
+            "title": "常见的酸、碱、盐",
+            "mastery": 0.2201
+          },
+          {
+            "title": "化学与社会",
+            "mastery": 0.0785
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-高中-必修第一册",
+        "children": [
+          {
+            "title": "物质及其变化",
+            "mastery": 0.0928
+          },
+          {
+            "title": "钠和氯元素及其化合物",
+            "mastery": 0.0578
+          },
+          {
+            "title": "铁金属材料",
+            "mastery": 0.1169
+          },
+          {
+            "title": "物质结构元素周期律",
+            "mastery": 0.1178
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-高中-必修第二册",
+        "children": [
+          {
+            "title": "化工生产中的重要非金属元素",
+            "mastery": 0.1969
+          },
+          {
+            "title": "化学反应与能量",
+            "mastery": 0.4886
+          },
+          {
+            "title": "有机化合物",
+            "mastery": 0.0742
+          },
+          {
+            "title": "化学与可持续发展",
+            "mastery": 0.335
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-化学反应原理",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-高中-化学反应原理",
+        "children": [
+          {
+            "title": "化学反应的热效应",
+            "mastery": 0.0729
+          },
+          {
+            "title": "化学反应速率与化学平衡",
+            "mastery": 0.0644
+          },
+          {
+            "title": "水溶液中的离子反应与平衡",
+            "mastery": 0.2462
+          },
+          {
+            "title": "化学反应与电能转化",
+            "mastery": 0.3878
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-物质结构与性质",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-高中-物质结构与性质",
+        "children": [
+          {
+            "title": "原子结构与性质",
+            "mastery": 0.153
+          },
+          {
+            "title": "分子结构与性质",
+            "mastery": 0.2123
+          },
+          {
+            "title": "晶体结构与性质",
+            "mastery": 0.1687
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-有机化学基础",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-高中-有机化学基础",
+        "children": [
+          {
+            "title": "有机化合物的结构特点",
+            "mastery": 0.1782
+          },
+          {
+            "title": "研究有机化合物的一般方法",
+            "mastery": 0.1371
+          },
+          {
+            "title": "烃类化合物",
+            "mastery": 0.0105
+          },
+          {
+            "title": "烃的衍生物",
+            "mastery": 0.3245
+          },
+          {
+            "title": "生物大分子",
+            "mastery": 0.417
+          },
+          {
+            "title": "合成高分子",
+            "mastery": 0.5063
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "工程热力学",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-工学-能源动力类-工程热力学",
+        "children": [
+          {
+            "title": "基本概念与定义",
+            "mastery": 0.0504
+          },
+          {
+            "title": "热力学第一定律",
+            "mastery": 0.055
+          },
+          {
+            "title": "热力学第二定律",
+            "mastery": 0.1174
+          },
+          {
+            "title": "工质热力性质",
+            "mastery": 0.2262
+          },
+          {
+            "title": "热力过程与循环",
+            "mastery": 0.0831
+          }
+        ]
+      }
+    }
+  ]
+}

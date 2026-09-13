@@ -1,0 +1,441 @@
+{
+  "knowledge_tree": {
+    "title": "大学计算机",
+    "content": "大学计算机基础课程，涵盖计算机系统、数据表示、程序设计、算法与数据结构、操作系统、网络、数据库等核心内容",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "计算机系统概述",
+        "content": "计算机的基本组成和工作原理",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "计算机硬件系统",
+            "content": "计算机的物理组成部分",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "中央处理器",
+                "content": "计算机的核心部件，负责执行指令和处理数据",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "CPU的组成",
+                    "content": "运算器、控制器和寄存器组",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "指令执行周期",
+                    "content": "取指、译码、执行、写回",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "存储器系统",
+                "content": "计算机中用于存储数据和程序的设备",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "存储器的层次结构",
+                    "content": "寄存器、缓存、主存、外存的多级存储体系",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "内存地址",
+                    "content": "存储器中每个存储单元的编号",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "计算机软件系统",
+            "content": "计算机运行所需的各种程序和数据",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "系统软件",
+                "content": "管理和控制计算机硬件资源的软件",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "操作系统",
+                    "content": "计算机系统的核心控制程序",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "应用软件",
+                "content": "为解决特定问题而开发的软件",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "数据表示与运算",
+        "content": "计算机中数据的表示方法和基本运算",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "数制与转换",
+            "content": "不同进制数的表示和相互转换",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "二进制",
+                "content": "基数为2的计数系统",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "十六进制",
+                "content": "基数为16的计数系统",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "进制转换方法",
+                "content": "二进制、十进制、十六进制之间的转换规则",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据编码",
+            "content": "数据在计算机中的编码表示",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "原码表示法",
+                "content": "数值的最高位表示符号位的编码方法",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "补码表示法",
+                "content": "计算机中表示有符号整数的标准方法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "浮点数表示",
+                "content": "IEEE 754浮点数标准",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "程序设计基础",
+        "content": "程序设计的基本概念和方法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "程序结构",
+            "content": "程序的基本组成结构",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "顺序结构",
+                "content": "按语句书写顺序依次执行",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "选择结构",
+                "content": "根据条件选择执行路径",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "循环结构",
+                "content": "重复执行某段代码",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据类型",
+            "content": "程序中数据的分类和特性",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "基本数据类型",
+                "content": "整型、浮点型、字符型等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "复合数据类型",
+                "content": "数组、结构体等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "算法与数据结构",
+        "content": "解决问题的步骤描述和数据组织方式",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "基本算法",
+            "content": "常用的基本算法思想",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "排序算法",
+                "content": "冒泡排序、快速排序等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "查找算法",
+                "content": "顺序查找、二分查找等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据结构",
+            "content": "数据的组织、存储和管理方式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "线性结构",
+                "content": "线性表、栈、队列等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "树形结构",
+                "content": "二叉树、堆等",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "计算机系统概述",
+      "tail": "计算机硬件系统",
+      "relation": "包含"
+    },
+    {
+      "head": "计算机系统概述",
+      "tail": "计算机软件系统",
+      "relation": "包含"
+    },
+    {
+      "head": "计算机硬件系统",
+      "tail": "中央处理器",
+      "relation": "包含"
+    },
+    {
+      "head": "计算机硬件系统",
+      "tail": "存储器系统",
+      "relation": "包含"
+    },
+    {
+      "head": "中央处理器",
+      "tail": "CPU的组成",
+      "relation": "由...组成"
+    },
+    {
+      "head": "中央处理器",
+      "tail": "指令执行周期",
+      "relation": "基于"
+    },
+    {
+      "head": "存储器系统",
+      "tail": "存储器的层次结构",
+      "relation": "体现"
+    },
+    {
+      "head": "存储器系统",
+      "tail": "内存地址",
+      "relation": "使用"
+    },
+    {
+      "head": "计算机软件系统",
+      "tail": "系统软件",
+      "relation": "包含"
+    },
+    {
+      "head": "计算机软件系统",
+      "tail": "应用软件",
+      "relation": "包含"
+    },
+    {
+      "head": "系统软件",
+      "tail": "操作系统",
+      "relation": "包含"
+    },
+    {
+      "head": "数据表示与运算",
+      "tail": "数制与转换",
+      "relation": "包含"
+    },
+    {
+      "head": "数据表示与运算",
+      "tail": "数据编码",
+      "relation": "包含"
+    },
+    {
+      "head": "数制与转换",
+      "tail": "二进制",
+      "relation": "包含"
+    },
+    {
+      "head": "数制与转换",
+      "tail": "十六进制",
+      "relation": "包含"
+    },
+    {
+      "head": "数制与转换",
+      "tail": "进制转换方法",
+      "relation": "基于"
+    },
+    {
+      "head": "数据编码",
+      "tail": "原码表示法",
+      "relation": "包含"
+    },
+    {
+      "head": "数据编码",
+      "tail": "补码表示法",
+      "relation": "包含"
+    },
+    {
+      "head": "数据编码",
+      "tail": "浮点数表示",
+      "relation": "包含"
+    },
+    {
+      "head": "程序设计基础",
+      "tail": "程序结构",
+      "relation": "包含"
+    },
+    {
+      "head": "程序设计基础",
+      "tail": "数据类型",
+      "relation": "包含"
+    },
+    {
+      "head": "程序结构",
+      "tail": "顺序结构",
+      "relation": "包含"
+    },
+    {
+      "head": "程序结构",
+      "tail": "选择结构",
+      "relation": "包含"
+    },
+    {
+      "head": "程序结构",
+      "tail": "循环结构",
+      "relation": "包含"
+    },
+    {
+      "head": "数据类型",
+      "tail": "基本数据类型",
+      "relation": "包含"
+    },
+    {
+      "head": "数据类型",
+      "tail": "复合数据类型",
+      "relation": "包含"
+    },
+    {
+      "head": "算法与数据结构",
+      "tail": "基本算法",
+      "relation": "包含"
+    },
+    {
+      "head": "算法与数据结构",
+      "tail": "数据结构",
+      "relation": "包含"
+    },
+    {
+      "head": "基本算法",
+      "tail": "排序算法",
+      "relation": "包含"
+    },
+    {
+      "head": "基本算法",
+      "tail": "查找算法",
+      "relation": "包含"
+    },
+    {
+      "head": "数据结构",
+      "tail": "线性结构",
+      "relation": "包含"
+    },
+    {
+      "head": "数据结构",
+      "tail": "树形结构",
+      "relation": "包含"
+    },
+    {
+      "head": "补码表示法",
+      "tail": "原码表示法",
+      "relation": "改进自"
+    },
+    {
+      "head": "循环结构",
+      "tail": "选择结构",
+      "relation": "可结合使用"
+    },
+    {
+      "head": "排序算法",
+      "tail": "查找算法",
+      "relation": "常配合使用"
+    },
+    {
+      "head": "线性结构",
+      "tail": "树形结构",
+      "relation": "可转换为"
+    },
+    {
+      "head": "操作系统",
+      "tail": "存储器系统",
+      "relation": "管理"
+    },
+    {
+      "head": "程序设计基础",
+      "tail": "算法与数据结构",
+      "relation": "应用于"
+    },
+    {
+      "head": "数据表示与运算",
+      "tail": "计算机硬件系统",
+      "relation": "基于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:53:26",
+    "version": "1.1"
+  }
+}

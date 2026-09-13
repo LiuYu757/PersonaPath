@@ -1,0 +1,492 @@
+{
+  "student_id": "089",
+  "target_major": "动物医学类",
+  "archetype": "Weak_Foundation",
+  "current_grade_level": 8.7,
+  "textbook_layer": {
+    "mastered": [
+      "生物-七年级-上册",
+      "生物-七年级-下册"
+    ],
+    "learning": [
+      "生物-初中-八年级上册",
+      "生物-初中-八年级下册"
+    ],
+    "not_mastered": [
+      "生物-高中-分子与细胞",
+      "生物-高中-遗传与进化",
+      "生物-高中-稳态与调节",
+      "生物-高中-生物与环境",
+      "生物学-高中-生物技术与工程",
+      "化学-初中-九年级上册",
+      "化学-九年级-下册",
+      "化学-高中-必修第一册",
+      "化学-高中-必修第二册",
+      "化学-高中-化学反应原理",
+      "化学-高中-物质结构与性质",
+      "化学-高中-有机化学基础",
+      "兽医药理学",
+      "兽医临床诊断学"
+    ]
+  },
+  "knowledge_layer": [
+    {
+      "book_name": "生物-七年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "生物-七年级-上册",
+        "children": [
+          {
+            "title": "认识生物",
+            "mastery": 0.7931
+          },
+          {
+            "title": "细胞的结构与功能",
+            "mastery": 0.8984
+          },
+          {
+            "title": "生物体的构成层次",
+            "mastery": 0.649
+          },
+          {
+            "title": "生物圈中的绿色植物",
+            "mastery": 0.8646
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物-七年级-下册",
+      "status": "mastered",
+      "detail": {
+        "title": "生物-七年级-下册",
+        "children": [
+          {
+            "title": "植物的生活",
+            "mastery": 0.943
+          },
+          {
+            "title": "人体生理与健康",
+            "mastery": 0.4762
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物-初中-八年级上册",
+      "status": "learning",
+      "detail": {
+        "title": "生物-初中-八年级上册",
+        "children": [
+          {
+            "title": "人体生命活动的调节",
+            "mastery": 0.2241
+          },
+          {
+            "title": "健康生活与疾病预防",
+            "mastery": 0.5612
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物-初中-八年级下册",
+      "status": "learning",
+      "detail": {
+        "title": "生物-初中-八年级下册",
+        "children": [
+          {
+            "title": "生物圈中生命的延续和发展",
+            "mastery": 0.1029
+          },
+          {
+            "title": "健康地生活",
+            "mastery": 0.1084
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物-高中-分子与细胞",
+      "status": "not_mastered",
+      "detail": {
+        "title": "生物-高中-分子与细胞",
+        "children": [
+          {
+            "title": "走近细胞",
+            "mastery": 0.0936
+          },
+          {
+            "title": "组成细胞的分子",
+            "mastery": 0.0465
+          },
+          {
+            "title": "细胞基本结构",
+            "mastery": 0.0008
+          },
+          {
+            "title": "细胞代谢调控",
+            "mastery": 0.0161
+          },
+          {
+            "title": "细胞生命历程",
+            "mastery": 0.2746
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物-高中-遗传与进化",
+      "status": "not_mastered",
+      "detail": {
+        "title": "生物-高中-遗传与进化",
+        "children": [
+          {
+            "title": "遗传因子的发现",
+            "mastery": 0.0584
+          },
+          {
+            "title": "基因和染色体的关系",
+            "mastery": 0.1745
+          },
+          {
+            "title": "基因的本质",
+            "mastery": 0.0461
+          },
+          {
+            "title": "基因的表达",
+            "mastery": 0.1496
+          },
+          {
+            "title": "基因突变及其他变异",
+            "mastery": 0.0263
+          },
+          {
+            "title": "生物的进化",
+            "mastery": 0.0582
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物-高中-稳态与调节",
+      "status": "not_mastered",
+      "detail": {
+        "title": "生物-高中-稳态与调节",
+        "children": [
+          {
+            "title": "人体的内环境与稳态",
+            "mastery": 0.0637
+          },
+          {
+            "title": "神经调节",
+            "mastery": 0.0727
+          },
+          {
+            "title": "体液调节",
+            "mastery": 0.2056
+          },
+          {
+            "title": "免疫调节",
+            "mastery": 0.0333
+          },
+          {
+            "title": "植物生命活动的调节",
+            "mastery": 0.0298
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物-高中-生物与环境",
+      "status": "not_mastered",
+      "detail": {
+        "title": "生物-高中-生物与环境",
+        "children": [
+          {
+            "title": "种群及其动态",
+            "mastery": 0.0994
+          },
+          {
+            "title": "群落及其演替",
+            "mastery": 0.0937
+          },
+          {
+            "title": "生态系统及其稳定性",
+            "mastery": 0.1324
+          },
+          {
+            "title": "人与环境关系",
+            "mastery": 0.2815
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物学-高中-生物技术与工程",
+      "status": "not_mastered",
+      "detail": {
+        "title": "生物学-高中-生物技术与工程",
+        "children": [
+          {
+            "title": "发酵工程",
+            "mastery": 0.0293
+          },
+          {
+            "title": "细胞工程",
+            "mastery": 0.0979
+          },
+          {
+            "title": "基因工程",
+            "mastery": 0.1165
+          },
+          {
+            "title": "生物技术的安全性与伦理问题",
+            "mastery": 0.0814
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-初中-九年级上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-初中-九年级上册",
+        "children": [
+          {
+            "title": "第一单元 走进化学世界",
+            "mastery": 0.1903
+          },
+          {
+            "title": "第二单元 空气和氧气",
+            "mastery": 0.0044
+          },
+          {
+            "title": "第三单元 物质构成的奥秘",
+            "mastery": 0.0776
+          },
+          {
+            "title": "第四单元 自然界的水",
+            "mastery": 0.1555
+          },
+          {
+            "title": "第五单元 化学反应的定量关系",
+            "mastery": 0.0879
+          },
+          {
+            "title": "第六单元 碳和碳的氧化物",
+            "mastery": 0.0168
+          },
+          {
+            "title": "第七单元 能源的合理利用与开发",
+            "mastery": 0.3518
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-九年级-下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-九年级-下册",
+        "children": [
+          {
+            "title": "金属和金属材料",
+            "mastery": 0.3683
+          },
+          {
+            "title": "溶液",
+            "mastery": 0.0112
+          },
+          {
+            "title": "常见的酸、碱、盐",
+            "mastery": 0.1599
+          },
+          {
+            "title": "化学与社会",
+            "mastery": 0.2521
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-高中-必修第一册",
+        "children": [
+          {
+            "title": "物质及其变化",
+            "mastery": 0.1235
+          },
+          {
+            "title": "钠和氯元素及其化合物",
+            "mastery": 0.1193
+          },
+          {
+            "title": "铁金属材料",
+            "mastery": 0.0439
+          },
+          {
+            "title": "物质结构元素周期律",
+            "mastery": 0.0639
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-高中-必修第二册",
+        "children": [
+          {
+            "title": "化工生产中的重要非金属元素",
+            "mastery": 0.0238
+          },
+          {
+            "title": "化学反应与能量",
+            "mastery": 0.0075
+          },
+          {
+            "title": "有机化合物",
+            "mastery": 0.0348
+          },
+          {
+            "title": "化学与可持续发展",
+            "mastery": 0.0408
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-化学反应原理",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-高中-化学反应原理",
+        "children": [
+          {
+            "title": "化学反应的热效应",
+            "mastery": 0.1246
+          },
+          {
+            "title": "化学反应速率与化学平衡",
+            "mastery": 0.056
+          },
+          {
+            "title": "水溶液中的离子反应与平衡",
+            "mastery": 0.0432
+          },
+          {
+            "title": "化学反应与电能转化",
+            "mastery": 0.0292
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-物质结构与性质",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-高中-物质结构与性质",
+        "children": [
+          {
+            "title": "原子结构与性质",
+            "mastery": 0.1424
+          },
+          {
+            "title": "分子结构与性质",
+            "mastery": 0.2818
+          },
+          {
+            "title": "晶体结构与性质",
+            "mastery": 0.0622
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-有机化学基础",
+      "status": "not_mastered",
+      "detail": {
+        "title": "化学-高中-有机化学基础",
+        "children": [
+          {
+            "title": "有机化合物的结构特点",
+            "mastery": 0.0067
+          },
+          {
+            "title": "研究有机化合物的一般方法",
+            "mastery": 0.3525
+          },
+          {
+            "title": "烃类化合物",
+            "mastery": 0.1429
+          },
+          {
+            "title": "烃的衍生物",
+            "mastery": 0.1796
+          },
+          {
+            "title": "生物大分子",
+            "mastery": 0.1185
+          },
+          {
+            "title": "合成高分子",
+            "mastery": 0.4535
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "兽医药理学",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-农学-动物医学类-兽医药理学",
+        "children": [
+          {
+            "title": "药物动力学基础",
+            "mastery": 0.0695
+          },
+          {
+            "title": "药效学基础",
+            "mastery": 0.1197
+          },
+          {
+            "title": "抗微生物药物",
+            "mastery": 0.1276
+          },
+          {
+            "title": "临床用药方案设计",
+            "mastery": 0.0498
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "兽医临床诊断学",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-农学-动物医学类-兽医临床诊断学",
+        "children": [
+          {
+            "title": "临床检查基本方法与程序",
+            "mastery": 0.0291
+          },
+          {
+            "title": "系统检查与体征评估",
+            "mastery": 0.194
+          },
+          {
+            "title": "辅助诊断技术应用",
+            "mastery": 0.0971
+          },
+          {
+            "title": "诊断思维与症状分析",
+            "mastery": 0.2002
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "knowledge_tree": {
+    "title": "机械原理",
+    "content": "研究机构结构、运动学、动力学及机械系统设计的学科基础",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "机构的结构分析",
+        "content": "研究机构的组成原理及具有确定运动的条件",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "机构的组成",
+            "content": "机构由机架、原动件和从动件系统组成",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "构件",
+                "content": "机构中独立的运动单元体",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "运动副",
+                "content": "两构件直接接触形成的可动连接",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "运动副元素",
+                    "content": "构成运动副的接触表面",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "运动副分类",
+                    "content": "按接触形式分为低副和高副",
+                    "difficulty": "2",
+                    "children": [
+                      {
+                        "title": "低副",
+                        "content": "面接触的运动副，如转动副、移动副",
+                        "difficulty": "2",
+                        "children": []
+                      },
+                      {
+                        "title": "高副",
+                        "content": "点或线接触的运动副，如齿轮副、凸轮副",
+                        "difficulty": "2",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "运动链",
+                "content": "两个以上构件通过运动副连接构成的系统",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "机构",
+                "content": "将运动链的一个构件固定为机架，并给定原动件",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "机构运动简图",
+            "content": "用简单线条和符号表示机构各构件间相对运动关系的图形",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "运动副符号",
+                "content": "表示转动副、移动副等的标准符号",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "构件表示方法",
+                "content": "用线条或方块表示构件",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "机构自由度的计算",
+            "content": "计算机构具有独立运动的数目",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "平面机构自由度公式",
+                "content": "F=3n-2PL-PH，其中n为活动构件数，PL为低副数，PH为高副数",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "计算自由度注意事项",
+                "content": "需考虑复合铰链、局部自由度和虚约束",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "机构具有确定运动的条件",
+                "content": "原动件数目等于机构自由度数",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "连杆机构",
+        "content": "由低副连接构件组成的机构",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "铰链四杆机构",
+            "content": "四个构件用转动副连接而成的机构",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "基本类型",
+                "content": "曲柄摇杆机构、双曲柄机构、双摇杆机构",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "曲柄存在条件",
+                "content": "最短杆与最长杆长度之和小于等于其余两杆长度之和，且最短杆为连架杆或机架",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "平面四杆机构的演化",
+            "content": "通过改变构件形状或运动副类型得到新机构",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "曲柄滑块机构",
+                "content": "由铰链四杆机构演化而来，将转动副变为移动副",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "凸轮机构",
+        "content": "含有凸轮的高副机构，实现从动件复杂运动规律",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "凸轮机构组成",
+            "content": "由凸轮、从动件和机架组成",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "从动件常用运动规律",
+            "content": "等速运动、等加速等减速运动、简谐运动",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "齿轮机构",
+        "content": "通过齿轮啮合传递运动和动力的机构",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "齿廓啮合基本定律",
+            "content": "保证瞬时传动比恒定的齿廓曲线条件",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "渐开线齿廓",
+            "content": "满足齿廓啮合基本定律的常用齿廓",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "渐开线性质",
+                "content": "法线恒切于基圆，发生线长度等于基圆上滚过的弧长",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "渐开线标准齿轮",
+            "content": "基本参数符合标准的齿轮",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "基本参数",
+                "content": "模数、压力角、齿数、齿顶高系数、顶隙系数",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "几何尺寸计算",
+                "content": "分度圆直径d=mz，齿顶圆直径da=d+2ha等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "轮系",
+        "content": "由一系列齿轮组成的传动系统",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "轮系分类",
+            "content": "定轴轮系、周转轮系、复合轮系",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "定轴轮系传动比计算",
+            "content": "等于各级齿轮副传动比的连乘积，需考虑方向",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "周转轮系传动比计算",
+            "content": "使用转化机构法（反转法）计算",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "机械的平衡",
+        "content": "消除或减小机械运转时产生的惯性力和惯性力矩",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "刚性转子平衡",
+            "content": "调整转子的质量分布，使其惯性力系达到平衡",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "静平衡",
+                "content": "适用于轴向尺寸较小的转子，平衡惯性力",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "动平衡",
+                "content": "适用于轴向尺寸较大的转子，平衡惯性力和惯性力矩",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "机械的运转及其速度波动的调节",
+        "content": "研究机械的真实运动规律及速度波动的调节方法",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "机械运转过程",
+            "content": "起动、稳定运转、停车三个阶段",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "机械速度波动调节",
+            "content": "安装飞轮以减小周期性速度波动",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "机构",
+      "tail": "构件",
+      "relation": "由...组成"
+    },
+    {
+      "head": "机构",
+      "tail": "运动副",
+      "relation": "由...连接"
+    },
+    {
+      "head": "运动副",
+      "tail": "低副",
+      "relation": "包含"
+    },
+    {
+      "head": "运动副",
+      "tail": "高副",
+      "relation": "包含"
+    },
+    {
+      "head": "机构自由度公式",
+      "tail": "机构具有确定运动的条件",
+      "relation": "用于推导"
+    },
+    {
+      "head": "铰链四杆机构",
+      "tail": "曲柄存在条件",
+      "relation": "受限于"
+    },
+    {
+      "head": "凸轮机构",
+      "tail": "从动件运动规律",
+      "relation": "用于设计"
+    },
+    {
+      "head": "齿廓啮合基本定律",
+      "tail": "渐开线齿廓",
+      "relation": "被...满足"
+    },
+    {
+      "head": "渐开线标准齿轮",
+      "tail": "几何尺寸计算",
+      "relation": "基于"
+    },
+    {
+      "head": "周转轮系",
+      "tail": "转化机构法",
+      "relation": "使用...进行计算"
+    },
+    {
+      "head": "刚性转子平衡",
+      "tail": "动平衡",
+      "relation": "包含"
+    },
+    {
+      "head": "机械速度波动调节",
+      "tail": "飞轮",
+      "relation": "通过...实现"
+    },
+    {
+      "head": "构件",
+      "tail": "运动副元素",
+      "relation": "拥有"
+    },
+    {
+      "head": "运动链",
+      "tail": "机构",
+      "relation": "可转化为"
+    },
+    {
+      "head": "机构运动简图",
+      "tail": "运动副符号",
+      "relation": "使用"
+    },
+    {
+      "head": "平面机构自由度公式",
+      "tail": "计算自由度注意事项",
+      "relation": "需结合"
+    },
+    {
+      "head": "曲柄滑块机构",
+      "tail": "铰链四杆机构",
+      "relation": "由...演化而来"
+    },
+    {
+      "head": "齿轮机构",
+      "tail": "轮系",
+      "relation": "是...的基本单元"
+    },
+    {
+      "head": "静平衡",
+      "tail": "动平衡",
+      "relation": "是...的特例"
+    },
+    {
+      "head": "模数",
+      "tail": "渐开线标准齿轮几何尺寸",
+      "relation": "是...的基本参数"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:10:24",
+    "version": "1.1"
+  }
+}

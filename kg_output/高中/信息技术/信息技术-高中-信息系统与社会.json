@@ -1,0 +1,170 @@
+{
+  "knowledge_tree": {
+    "title": "信息系统与社会",
+    "content": "高中信息技术必修课程，涵盖信息技术基础、信息系统组成与功能、开发过程、基础设施及信息安全与社会责任等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "信息技术基础",
+        "content": "信息技术的发展历史、趋势、关键技术及社会应用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "信息技术发展历史",
+            "content": "从语言、文字、造纸印刷到现代通信与计算机技术的发展历程",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "语言产生",
+                "content": "人类信息表达方式的突破，促进思维发展",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "文字出现",
+                "content": "信息从语音同步传播变为视觉异步传播",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "信息技术发展趋势",
+            "content": "数字化、网络化、智能化发展方向",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "多样化信息终端",
+                "content": "各种设备装上芯片并通过网络连接",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "信息系统组成与功能",
+        "content": "信息系统的结构、关键要素、类型及功能",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "信息系统基本结构",
+            "content": "包括基础设施层、资源管理层、业务逻辑层和应用表现层",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "基础设施层",
+                "content": "计算机、通信网络等硬件设施",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "信息系统关键要素",
+            "content": "人、信息技术、数据和过程四个关键要素",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "人的要素",
+                "content": "包括开发者、维护者、决策者、用户等角色",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "信息安全与社会责任",
+        "content": "信息安全风险、防范措施及信息社会责任",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "信息安全风险",
+            "content": "自然灾害、软硬件漏洞、恶意攻击和人为失误等风险",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "恶意攻击类型",
+                "content": "包括搭线窃听、伪装合法用户、病毒攻击等",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "安全防范措施",
+            "content": "身份认证、防火墙、数据备份、数据加密等技术",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "身份认证方式",
+                "content": "用户名密码、信物验证、生物特征识别",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "信息技术",
+      "tail": "信息系统",
+      "relation": "支撑"
+    },
+    {
+      "head": "信息系统",
+      "tail": "基础设施层",
+      "relation": "包含"
+    },
+    {
+      "head": "信息系统",
+      "tail": "资源管理层",
+      "relation": "包含"
+    },
+    {
+      "head": "身份认证",
+      "tail": "生物特征识别",
+      "relation": "包括"
+    },
+    {
+      "head": "恶意攻击",
+      "tail": "病毒攻击",
+      "relation": "包括"
+    },
+    {
+      "head": "数据加密",
+      "tail": "RSA算法",
+      "relation": "使用"
+    },
+    {
+      "head": "云计算",
+      "tail": "大数据处理",
+      "relation": "支持"
+    },
+    {
+      "head": "物联网",
+      "tail": "传感器",
+      "relation": "依赖"
+    },
+    {
+      "head": "信息系统开发",
+      "tail": "生命周期模型",
+      "relation": "遵循"
+    },
+    {
+      "head": "网络学习",
+      "tail": "通信网络",
+      "relation": "依赖"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:39:47",
+    "version": "1.1"
+  }
+}

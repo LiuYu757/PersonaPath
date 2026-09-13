@@ -1,0 +1,1698 @@
+{
+  "student_id": "700",
+  "target_major": "哲学类",
+  "archetype": "Linear_Learner",
+  "current_grade_level": 10.5,
+  "textbook_layer": {
+    "mastered": [
+      "语文-小学-一年级上册",
+      "语文-小学-一年级下册",
+      "语文-小学-二年级上册",
+      "语文-小学-二年级下册",
+      "语文-小学-三年级上册",
+      "语文-小学-三年级下册",
+      "语文-小学-四年级上册",
+      "语文-小学-四年级下册",
+      "语文-小学-五年级上册",
+      "语文-小学-五年级下册",
+      "语文-小学-六年级上册",
+      "语文-小学-六年级下册",
+      "语文-七年级-上册",
+      "语文-七年级-下册",
+      "语文-初中-八年级上册",
+      "语文-初中-八年级下册",
+      "语文-初中-九年级上册",
+      "语文-初中-九年级下册",
+      "语文-高中-必修上册",
+      "历史-七年级-上册",
+      "历史-七年级-中国历史下册",
+      "历史-八年级-上册",
+      "历史-初中-八年级下册",
+      "历史-初中-世界历史上册",
+      "历史-初中-九年级下册",
+      "历史-高中-中外历史纲要上",
+      "历史-高中-国家制度与社会治理",
+      "历史-高中-经济与社会生活",
+      "历史-高中-文化交流与传播",
+      "道德与法治-一年级-上册",
+      "道德与法治-一年级-下册",
+      "道德与法治-小学-二年级上册",
+      "道德与法治-小学-二年级下册",
+      "道德与法治-小学-三年级上册",
+      "道德与法治-小学-三年级下册",
+      "道德与法治-小学-四年级上册",
+      "道德与法治-小学-四年级下册",
+      "道德与法治-小学-五年级上册",
+      "道德与法治-小学-五年级下册",
+      "道德与法治-小学-六年级上册",
+      "道德与法治-小学-六年级下册",
+      "道德与法治-七年级-上册",
+      "道德与法治-七年级-下册",
+      "道德与法治-初中-八年级上册",
+      "道德与法治-初中-八年级下册",
+      "道德与法治-初中-九年级上册",
+      "道德与法治-初中-九年级下册",
+      "思想政治-高中-中国特色社会主义",
+      "思想政治-高中-经济与社会",
+      "思想政治-高中-政治与法治",
+      "思想政治-高中-哲学与文化",
+      "思想政治-高中-当代国际政治与经济",
+      "思想政治-高中-法律与生活",
+      "思想政治-高中-逻辑与思维"
+    ],
+    "learning": [
+      "语文-高中-必修下册",
+      "历史-高中-中外历史纲要下"
+    ],
+    "not_mastered": [
+      "语文-高中-选择性必修上册",
+      "语文-高中-选择性必修中册",
+      "语文-高中-选择性必修下册",
+      "马克思主义哲学",
+      "马克思恩格斯列宁历史理论经典著作导读"
+    ]
+  },
+  "knowledge_layer": [
+    {
+      "book_name": "语文-小学-一年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-一年级上册",
+        "children": [
+          {
+            "title": "入学教育",
+            "mastery": 0.9205
+          },
+          {
+            "title": "识字单元",
+            "mastery": 0.8312
+          },
+          {
+            "title": "汉语拼音",
+            "mastery": 0.9272
+          },
+          {
+            "title": "课文阅读",
+            "mastery": 0.9199
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-一年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-一年级下册",
+        "children": [
+          {
+            "title": "识字单元",
+            "mastery": 0.887
+          },
+          {
+            "title": "阅读单元",
+            "mastery": 0.9487
+          },
+          {
+            "title": "语文综合应用",
+            "mastery": 0.9635
+          },
+          {
+            "title": "语文基础技能",
+            "mastery": 0.8076
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-二年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-二年级上册",
+        "children": [
+          {
+            "title": "阅读模块",
+            "mastery": 0.8349
+          },
+          {
+            "title": "识字模块",
+            "mastery": 0.7773
+          },
+          {
+            "title": "口语交际模块",
+            "mastery": 0.6521
+          },
+          {
+            "title": "写话模块",
+            "mastery": 0.8686
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-二年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-二年级下册",
+        "children": [
+          {
+            "title": "课文",
+            "mastery": 0.8845
+          },
+          {
+            "title": "识字",
+            "mastery": 0.8614
+          },
+          {
+            "title": "语文园地",
+            "mastery": 0.6905
+          },
+          {
+            "title": "口语交际",
+            "mastery": 0.9142
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-三年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-三年级上册",
+        "children": [
+          {
+            "title": "校园生活主题单元",
+            "mastery": 0.9254
+          },
+          {
+            "title": "金秋时节主题单元",
+            "mastery": 0.8883
+          },
+          {
+            "title": "写作能力训练",
+            "mastery": 0.9628
+          },
+          {
+            "title": "语言积累与运用",
+            "mastery": 0.8157
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-三年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-三年级下册",
+        "children": [
+          {
+            "title": "可爱的生灵",
+            "mastery": 0.9496
+          },
+          {
+            "title": "寓言故事",
+            "mastery": 0.9171
+          },
+          {
+            "title": "观察与想象",
+            "mastery": 0.7849
+          },
+          {
+            "title": "传统文化",
+            "mastery": 0.8423
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-四年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-四年级上册",
+        "children": [
+          {
+            "title": "自然之美",
+            "mastery": 0.7547
+          },
+          {
+            "title": "提问策略",
+            "mastery": 0.9573
+          },
+          {
+            "title": "连续观察",
+            "mastery": 0.8316
+          },
+          {
+            "title": "神话故事",
+            "mastery": 0.9124
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-四年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-四年级下册",
+        "children": [
+          {
+            "title": "乡村生活主题",
+            "mastery": 0.7837
+          },
+          {
+            "title": "科技探索主题",
+            "mastery": 0.6319
+          },
+          {
+            "title": "现代诗歌主题",
+            "mastery": 0.7889
+          },
+          {
+            "title": "动物描写主题",
+            "mastery": 0.6412
+          },
+          {
+            "title": "童话故事主题",
+            "mastery": 0.8814
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-五年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-五年级上册",
+        "children": [
+          {
+            "title": "写景抒情单元",
+            "mastery": 0.9239
+          },
+          {
+            "title": "阅读方法单元",
+            "mastery": 0.7932
+          },
+          {
+            "title": "民间故事单元",
+            "mastery": 0.7665
+          },
+          {
+            "title": "爱国主题单元",
+            "mastery": 0.916
+          },
+          {
+            "title": "说明文写作单元",
+            "mastery": 0.876
+          },
+          {
+            "title": "亲情描写单元",
+            "mastery": 0.7178
+          },
+          {
+            "title": "景物描写单元",
+            "mastery": 0.9263
+          },
+          {
+            "title": "读书方法单元",
+            "mastery": 0.6474
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-五年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-五年级下册",
+        "children": [
+          {
+            "title": "童年往事单元",
+            "mastery": 0.7231
+          },
+          {
+            "title": "古典名著阅读",
+            "mastery": 0.6342
+          },
+          {
+            "title": "汉字文化学习",
+            "mastery": 0.7181
+          },
+          {
+            "title": "人物描写技巧",
+            "mastery": 0.8729
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-六年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-六年级上册",
+        "children": [
+          {
+            "title": "自然与想象单元",
+            "mastery": 0.8824
+          },
+          {
+            "title": "革命岁月单元",
+            "mastery": 0.817
+          },
+          {
+            "title": "阅读策略单元",
+            "mastery": 0.7906
+          },
+          {
+            "title": "小说单元",
+            "mastery": 0.6983
+          },
+          {
+            "title": "习作单元",
+            "mastery": 0.843
+          },
+          {
+            "title": "保护环境单元",
+            "mastery": 0.8474
+          },
+          {
+            "title": "艺术之美单元",
+            "mastery": 0.6858
+          },
+          {
+            "title": "走近鲁迅单元",
+            "mastery": 0.8919
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-六年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-六年级下册",
+        "children": [
+          {
+            "title": "民风民俗",
+            "mastery": 0.8866
+          },
+          {
+            "title": "外国文学名著",
+            "mastery": 0.8311
+          },
+          {
+            "title": "情感表达方法",
+            "mastery": 0.8053
+          },
+          {
+            "title": "革命精神传承",
+            "mastery": 0.8075
+          },
+          {
+            "title": "科学探索精神",
+            "mastery": 0.7572
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-七年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-七年级-上册",
+        "children": [
+          {
+            "title": "写景抒情单元",
+            "mastery": 0.8831
+          },
+          {
+            "title": "亲情主题单元",
+            "mastery": 0.9577
+          },
+          {
+            "title": "学习成长单元",
+            "mastery": 0.9221
+          },
+          {
+            "title": "修身养德单元",
+            "mastery": 0.8118
+          },
+          {
+            "title": "人动物关系单元",
+            "mastery": 0.9147
+          },
+          {
+            "title": "想象联想单元",
+            "mastery": 0.9226
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-七年级-下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-七年级-下册",
+        "children": [
+          {
+            "title": "杰出人物单元",
+            "mastery": 0.5544
+          },
+          {
+            "title": "家国情怀单元",
+            "mastery": 0.6334
+          },
+          {
+            "title": "阅读理解方法",
+            "mastery": 0.9161
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-八年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-八年级上册",
+        "children": [
+          {
+            "title": "新闻阅读与写作",
+            "mastery": 0.9375
+          },
+          {
+            "title": "回忆性散文与传记",
+            "mastery": 0.8492
+          },
+          {
+            "title": "古诗文鉴赏",
+            "mastery": 0.9829
+          },
+          {
+            "title": "散文阅读",
+            "mastery": 0.7539
+          },
+          {
+            "title": "说明文阅读",
+            "mastery": 0.6669
+          },
+          {
+            "title": "古诗文深度阅读",
+            "mastery": 0.8168
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-八年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-八年级下册",
+        "children": [
+          {
+            "title": "民俗文化单元",
+            "mastery": 0.8644
+          },
+          {
+            "title": "科学事理单元",
+            "mastery": 0.9116
+          },
+          {
+            "title": "古诗文品析单元",
+            "mastery": 0.9438
+          },
+          {
+            "title": "活动探究单元",
+            "mastery": 0.8178
+          },
+          {
+            "title": "游记散文单元",
+            "mastery": 0.77
+          },
+          {
+            "title": "古诗文鉴赏单元",
+            "mastery": 0.9304
+          },
+          {
+            "title": "语文能力训练模块",
+            "mastery": 0.6621
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-九年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-九年级上册",
+        "children": [
+          {
+            "title": "诗歌单元",
+            "mastery": 0.9384
+          },
+          {
+            "title": "议论性文章",
+            "mastery": 0.8688
+          },
+          {
+            "title": "文言诗文",
+            "mastery": 0.8724
+          },
+          {
+            "title": "小说阅读",
+            "mastery": 0.7743
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-九年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-九年级下册",
+        "children": [
+          {
+            "title": "诗歌鉴赏",
+            "mastery": 0.6241
+          },
+          {
+            "title": "小说阅读",
+            "mastery": 0.7658
+          },
+          {
+            "title": "文言文阅读",
+            "mastery": 0.9568
+          },
+          {
+            "title": "文艺鉴赏",
+            "mastery": 0.6999
+          },
+          {
+            "title": "戏剧活动",
+            "mastery": 0.7794
+          },
+          {
+            "title": "写作与口语交际",
+            "mastery": 0.735
+          },
+          {
+            "title": "名著导读",
+            "mastery": 0.8435
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-必修上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-高中-必修上册",
+        "children": [
+          {
+            "title": "青春主题文学",
+            "mastery": 0.9013
+          },
+          {
+            "title": "劳动价值文学",
+            "mastery": 0.8282
+          },
+          {
+            "title": "古诗词鉴赏",
+            "mastery": 0.9723
+          },
+          {
+            "title": "写景抒情散文",
+            "mastery": 0.7845
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-七年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "历史-七年级-上册",
+        "children": [
+          {
+            "title": "史前时期：原始社会与中华文明的起源",
+            "mastery": 0.9115
+          },
+          {
+            "title": "夏商周时期：奴隶制王朝的更替和向封建社会的过渡",
+            "mastery": 0.8909
+          },
+          {
+            "title": "秦汉时期：统一多民族封建国家的建立和巩固",
+            "mastery": 0.7837
+          },
+          {
+            "title": "三国两晋南北朝时期：政权分立与民族交融",
+            "mastery": 0.9021
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-七年级-中国历史下册",
+      "status": "mastered",
+      "detail": {
+        "title": "历史-七年级-中国历史下册",
+        "children": [
+          {
+            "title": "隋唐时期：繁荣与开放的时代",
+            "mastery": 0.7201
+          },
+          {
+            "title": "辽宋夏金元时期：民族关系发展和社会变化",
+            "mastery": 0.8487
+          },
+          {
+            "title": "明清时期：统一多民族封建国家的巩固与发展",
+            "mastery": 0.8228
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-八年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "历史-八年级-上册",
+        "children": [
+          {
+            "title": "中国开始沦为半殖民地半封建社会",
+            "mastery": 0.7101
+          },
+          {
+            "title": "近代化探索与民族危机",
+            "mastery": 0.8142
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-初中-八年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "历史-初中-八年级下册",
+        "children": [
+          {
+            "title": "中华人民共和国的成立和巩固",
+            "mastery": 0.9267
+          },
+          {
+            "title": "社会主义制度的建立与探索",
+            "mastery": 0.6903
+          },
+          {
+            "title": "中国特色社会主义道路",
+            "mastery": 0.8228
+          },
+          {
+            "title": "民族团结与祖国统一",
+            "mastery": 0.8434
+          },
+          {
+            "title": "国防建设与外交成就",
+            "mastery": 0.7983
+          },
+          {
+            "title": "科技文化与社会生活",
+            "mastery": 0.7213
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-初中-世界历史上册",
+      "status": "mastered",
+      "detail": {
+        "title": "历史-初中-世界历史上册",
+        "children": [
+          {
+            "title": "古代亚非文明",
+            "mastery": 0.8259
+          },
+          {
+            "title": "古代欧洲文明",
+            "mastery": 0.7798
+          },
+          {
+            "title": "封建时代的欧洲",
+            "mastery": 0.8404
+          },
+          {
+            "title": "封建时代的亚洲国家",
+            "mastery": 0.8871
+          },
+          {
+            "title": "走向近代",
+            "mastery": 0.9025
+          },
+          {
+            "title": "资本主义制度的初步确立",
+            "mastery": 0.9909
+          },
+          {
+            "title": "工业革命和国际共产主义运动",
+            "mastery": 0.814
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-初中-九年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "历史-初中-九年级下册",
+        "children": [
+          {
+            "title": "殖民地人民的反抗运动",
+            "mastery": 0.6093
+          },
+          {
+            "title": "资本主义制度的扩展",
+            "mastery": 0.7129
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-高中-中外历史纲要上",
+      "status": "mastered",
+      "detail": {
+        "title": "历史-高中-中外历史纲要上",
+        "children": [
+          {
+            "title": "从中华文明起源到秦汉统一多民族封建国家的建立与巩固",
+            "mastery": 0.7887
+          },
+          {
+            "title": "辛亥革命与中华民国的建立",
+            "mastery": 0.8859
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-高中-国家制度与社会治理",
+      "status": "mastered",
+      "detail": {
+        "title": "历史-高中-国家制度与社会治理",
+        "children": [
+          {
+            "title": "政治制度",
+            "mastery": 0.7632
+          },
+          {
+            "title": "官员选拔与管理",
+            "mastery": 0.8029
+          },
+          {
+            "title": "法律与教化",
+            "mastery": 0.7789
+          },
+          {
+            "title": "民族关系与国家关系",
+            "mastery": 0.6928
+          },
+          {
+            "title": "货币与赋税制度",
+            "mastery": 0.8767
+          },
+          {
+            "title": "基层治理与社会保障",
+            "mastery": 0.9114
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-高中-经济与社会生活",
+      "status": "mastered",
+      "detail": {
+        "title": "历史-高中-经济与社会生活",
+        "children": [
+          {
+            "title": "食物生产与社会生活",
+            "mastery": 0.9301
+          },
+          {
+            "title": "生产工具与劳作方式",
+            "mastery": 0.7275
+          },
+          {
+            "title": "商业贸易与日常生活",
+            "mastery": 0.9453
+          },
+          {
+            "title": "村落、城镇与居住环境",
+            "mastery": 0.9398
+          },
+          {
+            "title": "交通发展与社会变迁",
+            "mastery": 0.6255
+          },
+          {
+            "title": "医疗与公共卫生",
+            "mastery": 0.7129
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-高中-文化交流与传播",
+      "status": "mastered",
+      "detail": {
+        "title": "历史-高中-文化交流与传播",
+        "children": [
+          {
+            "title": "源远流长的中华文化",
+            "mastery": 0.8269
+          },
+          {
+            "title": "丰富多样的世界文化",
+            "mastery": 0.898
+          },
+          {
+            "title": "人口迁徙与文化交融",
+            "mastery": 0.8823
+          },
+          {
+            "title": "商路贸易与文化交流",
+            "mastery": 0.5946
+          },
+          {
+            "title": "战争与文化演变",
+            "mastery": 0.7317
+          },
+          {
+            "title": "文化的传承与保护",
+            "mastery": 0.8907
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-一年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-一年级-上册",
+        "children": [
+          {
+            "title": "身份认同与校园适应",
+            "mastery": 0.7902
+          },
+          {
+            "title": "校园生活与人际交往",
+            "mastery": 0.9289
+          },
+          {
+            "title": "生活习惯养成",
+            "mastery": 0.9509
+          },
+          {
+            "title": "文明礼仪与公共秩序",
+            "mastery": 0.6933
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-一年级-下册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-一年级-下册",
+        "children": [
+          {
+            "title": "个人成长与自我管理",
+            "mastery": 0.8602
+          },
+          {
+            "title": "集体生活与人际交往",
+            "mastery": 0.7327
+          },
+          {
+            "title": "家庭认知与责任培养",
+            "mastery": 0.7782
+          },
+          {
+            "title": "社会责任与国家意识",
+            "mastery": 0.9097
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-小学-二年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-小学-二年级上册",
+        "children": [
+          {
+            "title": "节假日文化认知",
+            "mastery": 0.8534
+          },
+          {
+            "title": "班级集体生活",
+            "mastery": 0.8141
+          },
+          {
+            "title": "家乡认同教育",
+            "mastery": 0.6667
+          },
+          {
+            "title": "爱国主义教育",
+            "mastery": 0.8718
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-小学-二年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-小学-二年级下册",
+        "children": [
+          {
+            "title": "个人成长与尝试",
+            "mastery": 0.6796
+          },
+          {
+            "title": "游戏活动与安全",
+            "mastery": 0.8295
+          },
+          {
+            "title": "环境保护意识",
+            "mastery": 0.7709
+          },
+          {
+            "title": "坚持努力品质",
+            "mastery": 0.5603
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-小学-三年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-小学-三年级上册",
+        "children": [
+          {
+            "title": "做学习的主人",
+            "mastery": 0.8569
+          },
+          {
+            "title": "爱科学学科学",
+            "mastery": 0.869
+          },
+          {
+            "title": "在集体中成长",
+            "mastery": 0.9689
+          },
+          {
+            "title": "公共生活靠大家",
+            "mastery": 0.7662
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-小学-三年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-小学-三年级下册",
+        "children": [
+          {
+            "title": "我和我的同伴",
+            "mastery": 0.9175
+          },
+          {
+            "title": "我在这里长大",
+            "mastery": 0.8381
+          },
+          {
+            "title": "我们的公共生活",
+            "mastery": 0.8215
+          },
+          {
+            "title": "多样的交通和通信",
+            "mastery": 0.8986
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-小学-四年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-小学-四年级上册",
+        "children": [
+          {
+            "title": "与班级共成长",
+            "mastery": 0.7874
+          },
+          {
+            "title": "为父母分担",
+            "mastery": 0.7564
+          },
+          {
+            "title": "信息万花筒",
+            "mastery": 0.8648
+          },
+          {
+            "title": "让生活多一些绿色",
+            "mastery": 0.8335
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-小学-四年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-小学-四年级下册",
+        "children": [
+          {
+            "title": "同伴与交往",
+            "mastery": 0.856
+          },
+          {
+            "title": "消费与资源管理",
+            "mastery": 0.9495
+          },
+          {
+            "title": "劳动价值认知",
+            "mastery": 0.8563
+          },
+          {
+            "title": "家乡文化认同",
+            "mastery": 0.6529
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-小学-五年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-小学-五年级上册",
+        "children": [
+          {
+            "title": "自主选择课余生活",
+            "mastery": 0.5085
+          },
+          {
+            "title": "学会沟通交流",
+            "mastery": 0.7983
+          },
+          {
+            "title": "主动拒绝烟酒与毒品",
+            "mastery": 0.7653
+          },
+          {
+            "title": "选举产生班委会",
+            "mastery": 0.779
+          },
+          {
+            "title": "我们神圣的国土",
+            "mastery": 0.8345
+          },
+          {
+            "title": "中华民族一家亲",
+            "mastery": 0.9775
+          },
+          {
+            "title": "美丽文字民族瑰宝",
+            "mastery": 0.9315
+          },
+          {
+            "title": "古代科技耀我中华",
+            "mastery": 0.7895
+          },
+          {
+            "title": "传统美德源远流长",
+            "mastery": 0.7804
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-小学-五年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-小学-五年级下册",
+        "children": [
+          {
+            "title": "我们一家人",
+            "mastery": 0.9571
+          },
+          {
+            "title": "公共生活靠大家",
+            "mastery": 0.5388
+          },
+          {
+            "title": "百年追梦 复兴中华",
+            "mastery": 0.9476
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-小学-六年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-小学-六年级上册",
+        "children": [
+          {
+            "title": "我们的守护者",
+            "mastery": 0.9174
+          },
+          {
+            "title": "我们是公民",
+            "mastery": 0.8438
+          },
+          {
+            "title": "我们的国家机构",
+            "mastery": 0.8302
+          },
+          {
+            "title": "法律保护我们健康成长",
+            "mastery": 0.8034
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-小学-六年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-小学-六年级下册",
+        "children": [
+          {
+            "title": "完善自我 健康成长",
+            "mastery": 0.8804
+          },
+          {
+            "title": "爱护地球 共同责任",
+            "mastery": 0.8495
+          },
+          {
+            "title": "多样文明 多彩生活",
+            "mastery": 0.9678
+          },
+          {
+            "title": "让世界更美好",
+            "mastery": 0.7291
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-七年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-七年级-上册",
+        "children": [
+          {
+            "title": "少年有梦",
+            "mastery": 0.6979
+          },
+          {
+            "title": "成长的时空",
+            "mastery": 0.5746
+          },
+          {
+            "title": "珍爱生命",
+            "mastery": 0.7947
+          },
+          {
+            "title": "人生追求",
+            "mastery": 0.622
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-七年级-下册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-七年级-下册",
+        "children": [
+          {
+            "title": "珍惜青春时光",
+            "mastery": 0.6007
+          },
+          {
+            "title": "焕发青春活力",
+            "mastery": 0.762
+          },
+          {
+            "title": "传承中华优秀传统文化",
+            "mastery": 0.858
+          },
+          {
+            "title": "生活在法治社会",
+            "mastery": 0.7728
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-初中-八年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-初中-八年级上册",
+        "children": [
+          {
+            "title": "走进社会生活",
+            "mastery": 0.7882
+          },
+          {
+            "title": "维护社会秩序",
+            "mastery": 0.7131
+          },
+          {
+            "title": "勇担社会责任",
+            "mastery": 0.793
+          },
+          {
+            "title": "维护国家利益",
+            "mastery": 0.6682
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-初中-八年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-初中-八年级下册",
+        "children": [
+          {
+            "title": "坚持宪法至上",
+            "mastery": 0.7609
+          },
+          {
+            "title": "理解权利义务",
+            "mastery": 0.7012
+          },
+          {
+            "title": "人民当家作主",
+            "mastery": 0.8557
+          },
+          {
+            "title": "崇尚法治精神",
+            "mastery": 0.9229
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-初中-九年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-初中-九年级上册",
+        "children": [
+          {
+            "title": "富强与创新",
+            "mastery": 0.8823
+          },
+          {
+            "title": "民主与法治",
+            "mastery": 0.7863
+          },
+          {
+            "title": "文明与家园",
+            "mastery": 0.826
+          },
+          {
+            "title": "和谐与梦想",
+            "mastery": 0.9214
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "道德与法治-初中-九年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "道德与法治-初中-九年级下册",
+        "children": [
+          {
+            "title": "我们共同的世界",
+            "mastery": 0.948
+          },
+          {
+            "title": "世界舞台上的中国",
+            "mastery": 0.9175
+          },
+          {
+            "title": "走向未来的少年",
+            "mastery": 0.9831
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "思想政治-高中-中国特色社会主义",
+      "status": "mastered",
+      "detail": {
+        "title": "思想政治-高中-中国特色社会主义",
+        "children": [
+          {
+            "title": "社会主义发展历程",
+            "mastery": 0.8743
+          },
+          {
+            "title": "中国道路历史选择",
+            "mastery": 0.9021
+          },
+          {
+            "title": "中国特色社会主义开创发展",
+            "mastery": 0.6639
+          },
+          {
+            "title": "新时代民族复兴征程",
+            "mastery": 0.7124
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "思想政治-高中-经济与社会",
+      "status": "mastered",
+      "detail": {
+        "title": "思想政治-高中-经济与社会",
+        "children": [
+          {
+            "title": "生产资料所有制与经济体制",
+            "mastery": 0.7772
+          },
+          {
+            "title": "经济发展与社会进步",
+            "mastery": 0.8917
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "思想政治-高中-政治与法治",
+      "status": "mastered",
+      "detail": {
+        "title": "思想政治-高中-政治与法治",
+        "children": [
+          {
+            "title": "中国共产党的领导",
+            "mastery": 0.5699
+          },
+          {
+            "title": "人民当家作主",
+            "mastery": 0.9857
+          },
+          {
+            "title": "全面依法治国",
+            "mastery": 0.8615
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "思想政治-高中-哲学与文化",
+      "status": "mastered",
+      "detail": {
+        "title": "思想政治-高中-哲学与文化",
+        "children": [
+          {
+            "title": "探索世界与把握规律",
+            "mastery": 0.7015
+          },
+          {
+            "title": "认识社会与价值选择",
+            "mastery": 0.8988
+          },
+          {
+            "title": "文化传承与文化创新",
+            "mastery": 0.8216
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "思想政治-高中-当代国际政治与经济",
+      "status": "mastered",
+      "detail": {
+        "title": "思想政治-高中-当代国际政治与经济",
+        "children": [
+          {
+            "title": "各具特色的国家",
+            "mastery": 0.679
+          },
+          {
+            "title": "世界多极化趋势",
+            "mastery": 0.6447
+          },
+          {
+            "title": "经济全球化进程",
+            "mastery": 0.8049
+          },
+          {
+            "title": "国际组织与全球治理",
+            "mastery": 0.9106
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "思想政治-高中-法律与生活",
+      "status": "mastered",
+      "detail": {
+        "title": "思想政治-高中-法律与生活",
+        "children": [
+          {
+            "title": "民事权利与义务",
+            "mastery": 0.6519
+          },
+          {
+            "title": "家庭与婚姻",
+            "mastery": 0.7901
+          },
+          {
+            "title": "就业与创业",
+            "mastery": 0.8593
+          },
+          {
+            "title": "社会争议解决",
+            "mastery": 0.8172
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "思想政治-高中-逻辑与思维",
+      "status": "mastered",
+      "detail": {
+        "title": "思想政治-高中-逻辑与思维",
+        "children": [
+          {
+            "title": "树立科学思维观念",
+            "mastery": 0.8165
+          },
+          {
+            "title": "遵循逻辑思维规则",
+            "mastery": 0.6458
+          },
+          {
+            "title": "运用辩证思维方法",
+            "mastery": 0.6783
+          },
+          {
+            "title": "提高创新思维能力",
+            "mastery": 0.5909
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-必修下册",
+      "status": "learning",
+      "detail": {
+        "title": "语文-高中-必修下册",
+        "children": [
+          {
+            "title": "古代散文与史传",
+            "mastery": 0.89
+          },
+          {
+            "title": "戏剧文学",
+            "mastery": 0.385
+          },
+          {
+            "title": "知识性读物",
+            "mastery": 0.435
+          },
+          {
+            "title": "现代文体鉴赏",
+            "mastery": 0.5132
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-高中-中外历史纲要下",
+      "status": "learning",
+      "detail": {
+        "title": "历史-高中-中外历史纲要下",
+        "children": [
+          {
+            "title": "古代文明的产生与发展",
+            "mastery": 0.1388
+          },
+          {
+            "title": "中古时期的世界格局",
+            "mastery": 0.3468
+          },
+          {
+            "title": "资本主义制度的确立过程",
+            "mastery": 0.4177
+          },
+          {
+            "title": "工业革命与社会主义运动",
+            "mastery": 0.3833
+          },
+          {
+            "title": "20世纪世界格局演变",
+            "mastery": 0.607
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-选择性必修上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "语文-高中-选择性必修上册",
+        "children": [
+          {
+            "title": "革命文化与社会主义先进文化",
+            "mastery": 0.1547
+          },
+          {
+            "title": "先秦诸子散文",
+            "mastery": 0.1471
+          },
+          {
+            "title": "外国小说鉴赏",
+            "mastery": 0.0819
+          },
+          {
+            "title": "逻辑知识与应用",
+            "mastery": 0.1193
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-选择性必修中册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "语文-高中-选择性必修中册",
+        "children": [
+          {
+            "title": "理论著作单元",
+            "mastery": 0.2135
+          },
+          {
+            "title": "革命文化单元",
+            "mastery": 0.0267
+          },
+          {
+            "title": "历史著述单元",
+            "mastery": 0.2136
+          },
+          {
+            "title": "外国文学单元",
+            "mastery": 0.1171
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-选择性必修下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "语文-高中-选择性必修下册",
+        "children": [
+          {
+            "title": "古典诗词",
+            "mastery": 0.0545
+          },
+          {
+            "title": "现当代文学",
+            "mastery": 0.1489
+          },
+          {
+            "title": "古代散文",
+            "mastery": 0.0387
+          },
+          {
+            "title": "科学论著",
+            "mastery": 0.1395
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "马克思主义哲学",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-哲学-哲学类-马克思主义哲学",
+        "children": [
+          {
+            "title": "马克思主义的哲学观",
+            "mastery": 0.3557
+          },
+          {
+            "title": "世界的物质性与意识",
+            "mastery": 0.0662
+          },
+          {
+            "title": "实践与世界的二重化",
+            "mastery": 0.3633
+          },
+          {
+            "title": "社会基本矛盾与发展规律",
+            "mastery": 0.0788
+          },
+          {
+            "title": "认识活动与真理发展",
+            "mastery": 0.1603
+          },
+          {
+            "title": "价值、价值观与人类发展",
+            "mastery": 0.1453
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "马克思恩格斯列宁历史理论经典著作导读",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-哲学-哲学类-马克思恩格斯列宁历史理论经典著作导读",
+        "children": [
+          {
+            "title": "历史唯物主义基本原理",
+            "mastery": 0.2158
+          },
+          {
+            "title": "经典文本精要",
+            "mastery": 0.1565
+          },
+          {
+            "title": "方法论与考点分析",
+            "mastery": 0.3745
+          }
+        ]
+      }
+    }
+  ]
+}

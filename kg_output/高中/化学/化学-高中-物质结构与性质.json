@@ -1,0 +1,629 @@
+{
+  "knowledge_tree": {
+    "title": "物质结构与性质",
+    "content": "高中化学选择性必修2，涵盖原子结构、分子结构、晶体结构及配合物与超分子等内容",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "原子结构与性质",
+        "content": "研究原子核外电子排布规律及其与元素性质的关系",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "原子结构",
+            "content": "原子核外电子的运动状态和排布规律",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "能层与能级",
+                "content": "核外电子按能量不同分成能层(K、L、M...)，同一能层又分为不同能级(s、p、d、f)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "基态与激发态",
+                "content": "处于最低能量状态的原子叫基态原子，吸收能量后变为激发态",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "原子光谱",
+                "content": "电子跃迁时吸收或释放特定频率的光，形成特征谱线",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "构造原理",
+                "content": "随核电荷数递增，电子填入能级的顺序",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电子排布式",
+                "content": "表示原子核外电子排布的方式",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电子云与原子轨道",
+                "content": "电子在核外空间出现的概率密度分布，原子轨道是电子的空间运动状态",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "泡利原理",
+                "content": "一个原子轨道最多容纳2个自旋相反的电子",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "洪特规则",
+                "content": "电子填入简并轨道时先单独分占且自旋平行",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "能量最低原理",
+                "content": "基态原子电子排布遵循能量最低原则",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "原子结构与元素的性质",
+            "content": "原子结构与元素周期律的关系",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "元素周期表",
+                "content": "元素按原子序数排列的表格，体现周期性变化",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "原子半径",
+                "content": "原子大小的度量，呈周期性变化",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电离能",
+                "content": "气态基态原子失去一个电子所需的最低能量",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电负性",
+                "content": "原子对键合电子吸引力的大小",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "分子结构与性质",
+        "content": "研究化学键、分子空间结构及其与物质性质的关系",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "共价键",
+            "content": "原子间通过共用电子对形成的相互作用",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "σ键",
+                "content": "头碰头重叠形成的共价键，具有轴对称性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "π键",
+                "content": "肩并肩重叠形成的共价键，具有镜面对称性",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "键参数",
+                "content": "描述共价键性质的物理量",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "键能",
+                    "content": "气态分子中1mol化学键解离成气态原子所吸收的能量",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "键长",
+                    "content": "形成化学键的两个原子核间的平衡距离",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "键角",
+                    "content": "分子中相邻共价键之间的夹角",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "分子的空间结构",
+            "content": "分子中原子的几何排列方式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "分子结构测定",
+                "content": "使用红外光谱、X射线衍射等方法测定分子结构",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "价层电子对互斥模型",
+                "content": "预测分子空间结构的理论模型",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "杂化轨道理论",
+                "content": "解释分子空间结构的价键理论",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "sp³杂化",
+                    "content": "1个s轨道和3个p轨道杂化形成4个sp³杂化轨道",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "sp²杂化",
+                    "content": "1个s轨道和2个p轨道杂化形成3个sp²杂化轨道",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "sp杂化",
+                    "content": "1个s轨道和1个p轨道杂化形成2个sp杂化轨道",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "分子结构与物质的性质",
+            "content": "分子结构对物质性质的影响",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "共价键的极性",
+                "content": "由不同原子形成的共价键，电子对发生偏移",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "分子的极性",
+                "content": "分子中正负电荷中心是否重合",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "分子间作用力",
+                "content": "分子之间的相互作用",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "范德华力",
+                    "content": "分子间普遍存在的较弱的作用力",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "氢键",
+                    "content": "与电负性很大的原子形成共价键的氢原子与另一个电负性很大的原子之间的作用力",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "溶解性",
+                "content": "相似相溶规律：极性溶质易溶于极性溶剂，非极性溶质易溶于非极性溶剂",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "分子的手性",
+                "content": "分子与其镜像不能叠合的性质",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "晶体结构与性质",
+        "content": "研究晶体的类型、结构及其与性质的关系",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "物质的聚集状态与晶体的常识",
+            "content": "物质的不同聚集状态和晶体的基本概念",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "物质的聚集状态",
+                "content": "包括气态、液态、固态、等离子体、液晶等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "晶体与非晶体",
+                "content": "晶体具有周期性微观结构，非晶体粒子排列相对无序",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "晶胞",
+                "content": "描述晶体结构的基本单元",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "晶体结构的测定",
+                "content": "使用X射线衍射等方法测定晶体结构",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "分子晶体与共价晶体",
+            "content": "两类重要的晶体类型",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "分子晶体",
+                "content": "由分子通过分子间作用力形成的晶体",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "共价晶体",
+                "content": "原子通过共价键形成的三维骨架结构晶体",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "金属晶体与离子晶体",
+            "content": "另外两类重要的晶体类型",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "金属晶体",
+                "content": "金属原子通过金属键形成的晶体",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "离子晶体",
+                "content": "阴阳离子通过离子键形成的晶体",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "配合物与超分子",
+            "content": "特殊的分子聚集形式",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "配合物",
+                "content": "中心离子与配体通过配位键形成的化合物",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "超分子",
+                "content": "两种或两种以上分子通过分子间相互作用形成的分子聚集体",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "原子结构",
+      "tail": "能层与能级",
+      "relation": "包含"
+    },
+    {
+      "head": "原子结构",
+      "tail": "基态与激发态",
+      "relation": "包含"
+    },
+    {
+      "head": "原子结构",
+      "tail": "原子光谱",
+      "relation": "包含"
+    },
+    {
+      "head": "原子结构",
+      "tail": "构造原理",
+      "relation": "包含"
+    },
+    {
+      "head": "原子结构",
+      "tail": "电子排布式",
+      "relation": "包含"
+    },
+    {
+      "head": "原子结构",
+      "tail": "电子云与原子轨道",
+      "relation": "包含"
+    },
+    {
+      "head": "原子结构",
+      "tail": "泡利原理",
+      "relation": "包含"
+    },
+    {
+      "head": "原子结构",
+      "tail": "洪特规则",
+      "relation": "包含"
+    },
+    {
+      "head": "原子结构",
+      "tail": "能量最低原理",
+      "relation": "包含"
+    },
+    {
+      "head": "原子结构与元素的性质",
+      "tail": "元素周期表",
+      "relation": "包含"
+    },
+    {
+      "head": "原子结构与元素的性质",
+      "tail": "原子半径",
+      "relation": "包含"
+    },
+    {
+      "head": "原子结构与元素的性质",
+      "tail": "电离能",
+      "relation": "包含"
+    },
+    {
+      "head": "原子结构与元素的性质",
+      "tail": "电负性",
+      "relation": "包含"
+    },
+    {
+      "head": "共价键",
+      "tail": "σ键",
+      "relation": "包含"
+    },
+    {
+      "head": "共价键",
+      "tail": "π键",
+      "relation": "包含"
+    },
+    {
+      "head": "共价键",
+      "tail": "键参数",
+      "relation": "包含"
+    },
+    {
+      "head": "键参数",
+      "tail": "键能",
+      "relation": "包含"
+    },
+    {
+      "head": "键参数",
+      "tail": "键长",
+      "relation": "包含"
+    },
+    {
+      "head": "键参数",
+      "tail": "键角",
+      "relation": "包含"
+    },
+    {
+      "head": "分子的空间结构",
+      "tail": "分子结构测定",
+      "relation": "包含"
+    },
+    {
+      "head": "分子的空间结构",
+      "tail": "价层电子对互斥模型",
+      "relation": "包含"
+    },
+    {
+      "head": "分子的空间结构",
+      "tail": "杂化轨道理论",
+      "relation": "包含"
+    },
+    {
+      "head": "杂化轨道理论",
+      "tail": "sp³杂化",
+      "relation": "包含"
+    },
+    {
+      "head": "杂化轨道理论",
+      "tail": "sp²杂化",
+      "relation": "包含"
+    },
+    {
+      "head": "杂化轨道理论",
+      "tail": "sp杂化",
+      "relation": "包含"
+    },
+    {
+      "head": "分子结构与物质的性质",
+      "tail": "共价键的极性",
+      "relation": "包含"
+    },
+    {
+      "head": "分子结构与物质的性质",
+      "tail": "分子的极性",
+      "relation": "包含"
+    },
+    {
+      "head": "分子结构与物质的性质",
+      "tail": "分子间作用力",
+      "relation": "包含"
+    },
+    {
+      "head": "分子间作用力",
+      "tail": "范德华力",
+      "relation": "包含"
+    },
+    {
+      "head": "分子间作用力",
+      "tail": "氢键",
+      "relation": "包含"
+    },
+    {
+      "head": "分子结构与物质的性质",
+      "tail": "溶解性",
+      "relation": "包含"
+    },
+    {
+      "head": "分子结构与物质的性质",
+      "tail": "分子的手性",
+      "relation": "包含"
+    },
+    {
+      "head": "物质的聚集状态与晶体的常识",
+      "tail": "物质的聚集状态",
+      "relation": "包含"
+    },
+    {
+      "head": "物质的聚集状态与晶体的常识",
+      "tail": "晶体与非晶体",
+      "relation": "包含"
+    },
+    {
+      "head": "物质的聚集状态与晶体的常识",
+      "tail": "晶胞",
+      "relation": "包含"
+    },
+    {
+      "head": "物质的聚集状态与晶体的常识",
+      "tail": "晶体结构的测定",
+      "relation": "包含"
+    },
+    {
+      "head": "分子晶体与共价晶体",
+      "tail": "分子晶体",
+      "relation": "包含"
+    },
+    {
+      "head": "分子晶体与共价晶体",
+      "tail": "共价晶体",
+      "relation": "包含"
+    },
+    {
+      "head": "金属晶体与离子晶体",
+      "tail": "金属晶体",
+      "relation": "包含"
+    },
+    {
+      "head": "金属晶体与离子晶体",
+      "tail": "离子晶体",
+      "relation": "包含"
+    },
+    {
+      "head": "配合物与超分子",
+      "tail": "配合物",
+      "relation": "包含"
+    },
+    {
+      "head": "配合物与超分子",
+      "tail": "超分子",
+      "relation": "包含"
+    },
+    {
+      "head": "σ键",
+      "tail": "π键",
+      "relation": "同为共价键类型"
+    },
+    {
+      "head": "键能",
+      "tail": "键长",
+      "relation": "共同描述共价键强度"
+    },
+    {
+      "head": "价层电子对互斥模型",
+      "tail": "杂化轨道理论",
+      "relation": "共同解释分子空间结构"
+    },
+    {
+      "head": "范德华力",
+      "tail": "氢键",
+      "relation": "同为分子间作用力"
+    },
+    {
+      "head": "分子晶体",
+      "tail": "共价晶体",
+      "relation": "同为晶体类型"
+    },
+    {
+      "head": "金属晶体",
+      "tail": "离子晶体",
+      "relation": "同为晶体类型"
+    },
+    {
+      "head": "配合物",
+      "tail": "超分子",
+      "relation": "同为特殊分子聚集形式"
+    },
+    {
+      "head": "电子排布式",
+      "tail": "构造原理",
+      "relation": "基于"
+    },
+    {
+      "head": "分子空间结构",
+      "tail": "价层电子对互斥模型",
+      "relation": "预测"
+    },
+    {
+      "head": "分子空间结构",
+      "tail": "杂化轨道理论",
+      "relation": "解释"
+    },
+    {
+      "head": "物质性质",
+      "tail": "分子结构",
+      "relation": "决定"
+    },
+    {
+      "head": "晶体性质",
+      "tail": "晶体结构",
+      "relation": "决定"
+    },
+    {
+      "head": "电离能",
+      "tail": "电负性",
+      "relation": "同为元素周期性性质"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:55:09",
+    "version": "1.1"
+  }
+}

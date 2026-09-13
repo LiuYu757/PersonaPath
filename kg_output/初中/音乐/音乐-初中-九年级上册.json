@@ -1,0 +1,433 @@
+{
+  "knowledge_tree": {
+    "title": "九年级上册音乐",
+    "content": "义务教育教科书九年级上册音乐（简谱），包含六个单元的音乐知识与欣赏内容",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "第一单元 光辉的历程",
+        "content": "革命历史题材音乐作品欣赏与演唱",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "游击队歌",
+            "content": "贺绿汀词曲，中速轻快地，准确演唱弱起节奏和换气记号",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "弱起节奏",
+                "content": "乐曲或乐章从弱拍或强拍的弱部分开始",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "换气记号",
+                "content": "乐谱中表示需要呼吸换气的标记",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "保卫黄河",
+            "content": "钢琴协奏曲《黄河》第四乐章，表现中国人民反抗日本侵略者的决心",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "钢琴协奏曲",
+                "content": "由钢琴独奏与管弦乐队协同演奏的大型音乐作品",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "音乐形象塑造",
+                "content": "通过音乐表现手段塑造特定形象和情感",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "四渡赤水出奇兵",
+            "content": "《长征组歌》选曲，领唱与混声合唱，表现红军长征艰苦历程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "组歌",
+                "content": "由若干首具有相对独立性的一组歌曲，在统一的艺术构思下组成的声乐套曲",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "混声合唱",
+                "content": "由女高音、女低音、男高音、男低音四个声部组成的合唱形式",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元 音乐故事（二）",
+        "content": "叙事性音乐作品欣赏与分析",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "鳟鱼",
+            "content": "舒伯特艺术歌曲，具有叙事性，注意变化音和钢琴伴奏的作用",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "艺术歌曲",
+                "content": "18世纪末19世纪初欧洲盛行的抒情歌曲，歌词多采用著名诗歌",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "变化音",
+                "content": "调式基本音级以外的音，用于丰富和声色彩",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "大海与辛巴达的船",
+            "content": "里姆斯基-科萨科夫《舍赫拉查达》第一乐章，管弦乐合奏",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "交响组曲",
+                "content": "由多个乐章组成的大型管弦乐套曲",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "音乐主题",
+                "content": "乐曲中具有特征性并处于显著地位的旋律",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三单元 曲苑天地",
+        "content": "中国曲艺音乐欣赏与学习",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "京韵大鼓",
+            "content": "流行于北京、天津的说唱艺术，伴奏乐器主要有三弦、四胡",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "骆派京韵",
+                "content": "骆玉笙创立的委婉抒情、韵味醇厚的京韵大鼓流派",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "板鼓",
+                "content": "说唱音乐伴奏乐器，鼓身扁圆形，两面蒙牛皮",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "苏州弹词",
+            "content": "流行于江浙沪的说唱艺术，使用苏州方言自弹自唱",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "琵琶伴奏",
+                "content": "弹词主要伴奏乐器之一",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "小三弦",
+                "content": "弹词主要伴奏乐器之一",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "四川清音",
+            "content": "流行于四川省的说唱艺术，女演员左手击板，右手敲竹鼓",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "竹鼓",
+                "content": "四川清音特色打击乐器",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "琵琶伴奏",
+                "content": "四川清音主要伴奏乐器",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第四单元 西乐撷英（二）",
+        "content": "西方古典音乐作品欣赏",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "摇篮曲",
+            "content": "舒伯特艺术歌曲，轻柔连贯的声音表现抒情静谧意境",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "倚音",
+                "content": "装饰音的一种，由单个或多个小音符组成",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "c小调练习曲",
+            "content": "肖邦钢琴曲，表现华沙起义失败后的悲愤心情",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "练习曲",
+                "content": "为锻炼乐器演奏技巧而创作的乐曲",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "流浪者之歌",
+            "content": "萨拉萨蒂小提琴曲，表现吉普赛人流浪生活和奔放性格",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "小提琴技巧",
+                "content": "高难度的小提琴演奏技术",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第五单元 舞剧音乐",
+        "content": "中外舞剧音乐欣赏与分析",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "舞剧",
+            "content": "以舞蹈为主要表现手段，综合音乐、美术、文学等的舞台表演艺术",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "舞剧音乐",
+            "content": "舞剧的重要组成部分，具有发展剧情、渲染气氛和刻画情感的作用",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "天鹅湖选曲",
+            "content": "柴可夫斯基芭蕾舞剧音乐，包括《场景》、《拿波利舞曲》等",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "主题旋律",
+                "content": "代表天鹅公主形象的音乐主题",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第六单元 中国流行风",
+        "content": "中国流行歌曲欣赏与演唱",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "流行歌曲",
+            "content": "具有大众性与通俗娱乐性的歌曲",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "让世界充满爱",
+            "content": "1986年国际和平年百名歌手演唱作品",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "切分节奏",
+                "content": "改变节拍强弱规律的节奏型",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "民族音乐元素",
+            "content": "流行歌曲中融入的传统民族音乐素材",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "音乐基础知识",
+        "content": "乐句、乐段、曲式、调式等音乐理论",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "曲式结构",
+            "content": "音乐作品的结构形式，包括一段体、二段体、三段体等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "五声调式",
+            "content": "中国传统调式体系，包括宫、商、角、徵、羽五种调式",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "歌曲体裁",
+            "content": "包括颂歌、抒情歌曲、进行曲、舞蹈歌曲、叙事歌曲、讽刺歌曲等",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "游击队歌",
+      "tail": "弱起节奏",
+      "relation": "包含"
+    },
+    {
+      "head": "游击队歌",
+      "tail": "换气记号",
+      "relation": "运用"
+    },
+    {
+      "head": "保卫黄河",
+      "tail": "钢琴协奏曲",
+      "relation": "属于"
+    },
+    {
+      "head": "四渡赤水出奇兵",
+      "tail": "组歌",
+      "relation": "属于"
+    },
+    {
+      "head": "四渡赤水出奇兵",
+      "tail": "混声合唱",
+      "relation": "采用"
+    },
+    {
+      "head": "鳟鱼",
+      "tail": "艺术歌曲",
+      "relation": "属于"
+    },
+    {
+      "head": "鳟鱼",
+      "tail": "变化音",
+      "relation": "运用"
+    },
+    {
+      "head": "大海与辛巴达的船",
+      "tail": "交响组曲",
+      "relation": "属于"
+    },
+    {
+      "head": "京韵大鼓",
+      "tail": "骆派京韵",
+      "relation": "包含"
+    },
+    {
+      "head": "京韵大鼓",
+      "tail": "板鼓",
+      "relation": "使用"
+    },
+    {
+      "head": "苏州弹词",
+      "tail": "琵琶伴奏",
+      "relation": "使用"
+    },
+    {
+      "head": "苏州弹词",
+      "tail": "小三弦",
+      "relation": "使用"
+    },
+    {
+      "head": "四川清音",
+      "tail": "竹鼓",
+      "relation": "使用"
+    },
+    {
+      "head": "摇篮曲",
+      "tail": "倚音",
+      "relation": "运用"
+    },
+    {
+      "head": "c小调练习曲",
+      "tail": "练习曲",
+      "relation": "属于"
+    },
+    {
+      "head": "舞剧",
+      "tail": "舞剧音乐",
+      "relation": "包含"
+    },
+    {
+      "head": "天鹅湖选曲",
+      "tail": "主题旋律",
+      "relation": "包含"
+    },
+    {
+      "head": "让世界充满爱",
+      "tail": "切分节奏",
+      "relation": "运用"
+    },
+    {
+      "head": "流行歌曲",
+      "tail": "民族音乐元素",
+      "relation": "融合"
+    },
+    {
+      "head": "音乐基础知识",
+      "tail": "曲式结构",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐基础知识",
+      "tail": "五声调式",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐基础知识",
+      "tail": "歌曲体裁",
+      "relation": "包含"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:42:55",
+    "version": "1.1"
+  }
+}

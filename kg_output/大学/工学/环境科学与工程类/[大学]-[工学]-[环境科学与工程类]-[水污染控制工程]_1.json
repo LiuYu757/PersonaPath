@@ -1,0 +1,322 @@
+{
+  "knowledge_tree": {
+    "title": "水污染控制工程",
+    "content": "研究水体污染成因、危害及控制技术的工程学科",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "水污染基本概念",
+        "content": "水体污染的定义、类型和危害",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "水体污染定义",
+            "content": "污染物进入水体，导致水质恶化，影响水体使用功能的现象",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "污染源分类",
+            "content": "点源污染（工业废水、生活污水）和面源污染（农业径流、城市径流）",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "主要污染物类型",
+            "content": "物理污染物、化学污染物、生物污染物",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "水质指标与标准",
+        "content": "表征水质状况的物理、化学和生物指标",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "物理指标",
+            "content": "温度、色度、浊度、悬浮物（SS）等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "化学指标",
+            "content": "pH值、溶解氧（DO）、化学需氧量（COD）、生化需氧量（BOD）等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "BOD定义",
+                "content": "生化需氧量，表示水中有机物被微生物分解所需的氧量",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "COD定义",
+                "content": "化学需氧量，表示用化学氧化剂氧化水中有机物所需的氧量",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "BOD/COD比值意义",
+                "content": "反映废水可生化性，比值大于0.3认为可生化处理",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "水质标准",
+            "content": "根据不同水体功能制定的水质限值要求",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "物理处理技术",
+        "content": "利用物理作用分离水中悬浮物和漂浮物",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "格栅",
+            "content": "去除大颗粒悬浮物和漂浮物",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "沉淀",
+            "content": "利用重力作用使悬浮颗粒沉降分离",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "斯托克斯公式",
+                "content": "v = g(ρp-ρ)d²/18μ，计算颗粒沉降速度",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "沉淀类型",
+                "content": "自由沉淀、絮凝沉淀、区域沉淀、压缩沉淀",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "气浮",
+            "content": "利用微气泡粘附悬浮物使其上浮分离",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "化学处理技术",
+        "content": "利用化学反应去除污染物",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "混凝",
+            "content": "通过投加混凝剂使胶体颗粒脱稳聚集",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "混凝机理",
+                "content": "压缩双电层、吸附电中和、吸附架桥、沉淀物网捕",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "中和",
+            "content": "调节废水pH值至中性",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "化学沉淀",
+            "content": "通过化学反应生成难溶沉淀物",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "生物处理技术",
+        "content": "利用微生物代谢作用降解有机污染物",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "活性污泥法",
+            "content": "利用悬浮生长的微生物群体处理废水",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "基本流程",
+                "content": "曝气池-二沉池-污泥回流",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "莫诺特方程",
+                "content": "μ = μmaxS/(Ks+S)，描述微生物比增长速率与底物浓度关系",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "生物膜法",
+            "content": "利用附着在载体表面的微生物膜处理废水",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "厌氧生物处理",
+            "content": "在无氧条件下通过厌氧微生物降解有机物",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "污泥处理与处置",
+        "content": "对水处理过程中产生的污泥进行处理和最终处置",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "污泥浓缩",
+            "content": "减少污泥体积，降低后续处理负荷",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "污泥消化",
+            "content": "通过厌氧或好氧过程稳定污泥",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "污泥脱水",
+            "content": "进一步降低污泥含水率",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "水污染控制工程",
+      "tail": "物理处理技术",
+      "relation": "包含"
+    },
+    {
+      "head": "水污染控制工程",
+      "tail": "化学处理技术",
+      "relation": "包含"
+    },
+    {
+      "head": "水污染控制工程",
+      "tail": "生物处理技术",
+      "relation": "包含"
+    },
+    {
+      "head": "水质指标",
+      "tail": "BOD",
+      "relation": "包含"
+    },
+    {
+      "head": "水质指标",
+      "tail": "COD",
+      "relation": "包含"
+    },
+    {
+      "head": "BOD",
+      "tail": "COD",
+      "relation": "关联比较"
+    },
+    {
+      "head": "BOD/COD比值",
+      "tail": "废水可生化性",
+      "relation": "表征"
+    },
+    {
+      "head": "沉淀",
+      "tail": "斯托克斯公式",
+      "relation": "基于"
+    },
+    {
+      "head": "斯托克斯公式",
+      "tail": "颗粒沉降速度",
+      "relation": "用于计算"
+    },
+    {
+      "head": "活性污泥法",
+      "tail": "莫诺特方程",
+      "relation": "应用"
+    },
+    {
+      "head": "莫诺特方程",
+      "tail": "微生物增长动力学",
+      "relation": "描述"
+    },
+    {
+      "head": "物理处理技术",
+      "tail": "沉淀",
+      "relation": "包含"
+    },
+    {
+      "head": "化学处理技术",
+      "tail": "混凝",
+      "relation": "包含"
+    },
+    {
+      "head": "生物处理技术",
+      "tail": "活性污泥法",
+      "relation": "包含"
+    },
+    {
+      "head": "生物处理技术",
+      "tail": "生物膜法",
+      "relation": "包含"
+    },
+    {
+      "head": "混凝",
+      "tail": "混凝机理",
+      "relation": "基于"
+    },
+    {
+      "head": "水体污染",
+      "tail": "污染源分类",
+      "relation": "包含"
+    },
+    {
+      "head": "点源污染",
+      "tail": "面源污染",
+      "relation": "区别于"
+    },
+    {
+      "head": "污泥处理与处置",
+      "tail": "污泥浓缩",
+      "relation": "包含"
+    },
+    {
+      "head": "污泥处理与处置",
+      "tail": "污泥消化",
+      "relation": "包含"
+    },
+    {
+      "head": "水污染控制工程",
+      "tail": "污泥处理与处置",
+      "relation": "包含"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:26:49",
+    "version": "1.1"
+  }
+}

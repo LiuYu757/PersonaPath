@@ -1,0 +1,293 @@
+{
+  "knowledge_tree": {
+    "title": "财政学",
+    "content": "研究政府收支活动及其对资源配置和收入分配影响的学科",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "财政职能",
+        "content": "政府财政活动在经济中的作用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "资源配置职能",
+            "content": "政府通过财政手段优化社会资源配置",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "公共产品提供",
+                "content": "政府提供市场无法有效供给的公共产品",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "公共产品特征",
+                    "content": "非排他性和非竞争性",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "搭便车问题",
+                    "content": "消费者不愿真实显示对公共产品的偏好",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "收入分配职能",
+            "content": "政府通过财政手段调节收入分配差距",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "累进税率",
+                "content": "税率随收入增加而提高的税收制度",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "经济稳定职能",
+            "content": "政府通过财政政策平抑经济波动",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "财政收入",
+        "content": "政府为履行职能而筹集资金的活动",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "税收原理",
+            "content": "税收的基本理论和原则",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "税收原则",
+                "content": "税收制度设计的基本准则",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "公平原则",
+                    "content": "税收负担应公平分配",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "效率原则",
+                    "content": "税收应尽量减少对经济的扭曲",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "税收转嫁与归宿",
+                "content": "税收负担的转移过程和最终承担者",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "公债理论",
+            "content": "政府债务的发行、管理和效应",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "财政支出",
+        "content": "政府为提供公共产品和服务而进行的资金支付",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "支出分类",
+            "content": "财政支出的不同分类方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "购买性支出",
+                "content": "政府直接购买商品和劳务的支出",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "转移性支出",
+                "content": "政府无偿转移支付给个人或企业的支出",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "成本效益分析",
+            "content": "评估公共项目经济效益的方法",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "财政政策",
+        "content": "政府通过收支活动调节宏观经济的政策",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "自动稳定器",
+            "content": "经济系统内生的稳定机制",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "相机抉择",
+            "content": "政府根据经济形势主动调整的财政政策",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "财政学",
+      "tail": "财政职能",
+      "relation": "包含"
+    },
+    {
+      "head": "财政职能",
+      "tail": "资源配置职能",
+      "relation": "包含"
+    },
+    {
+      "head": "财政职能",
+      "tail": "收入分配职能",
+      "relation": "包含"
+    },
+    {
+      "head": "财政职能",
+      "tail": "经济稳定职能",
+      "relation": "包含"
+    },
+    {
+      "head": "资源配置职能",
+      "tail": "公共产品提供",
+      "relation": "实现方式"
+    },
+    {
+      "head": "公共产品提供",
+      "tail": "公共产品特征",
+      "relation": "基于"
+    },
+    {
+      "head": "公共产品特征",
+      "tail": "搭便车问题",
+      "relation": "导致"
+    },
+    {
+      "head": "收入分配职能",
+      "tail": "累进税率",
+      "relation": "应用工具"
+    },
+    {
+      "head": "财政学",
+      "tail": "财政收入",
+      "relation": "研究内容"
+    },
+    {
+      "head": "财政收入",
+      "tail": "税收原理",
+      "relation": "包含"
+    },
+    {
+      "head": "税收原理",
+      "tail": "税收原则",
+      "relation": "核心内容"
+    },
+    {
+      "head": "税收原则",
+      "tail": "公平原则",
+      "relation": "包含"
+    },
+    {
+      "head": "税收原则",
+      "tail": "效率原则",
+      "relation": "包含"
+    },
+    {
+      "head": "税收原理",
+      "tail": "税收转嫁与归宿",
+      "relation": "研究内容"
+    },
+    {
+      "head": "财政收入",
+      "tail": "公债理论",
+      "relation": "包含"
+    },
+    {
+      "head": "财政学",
+      "tail": "财政支出",
+      "relation": "研究内容"
+    },
+    {
+      "head": "财政支出",
+      "tail": "支出分类",
+      "relation": "包含"
+    },
+    {
+      "head": "支出分类",
+      "tail": "购买性支出",
+      "relation": "分类方式"
+    },
+    {
+      "head": "支出分类",
+      "tail": "转移性支出",
+      "relation": "分类方式"
+    },
+    {
+      "head": "财政支出",
+      "tail": "成本效益分析",
+      "relation": "评估方法"
+    },
+    {
+      "head": "财政学",
+      "tail": "财政政策",
+      "relation": "应用领域"
+    },
+    {
+      "head": "财政政策",
+      "tail": "自动稳定器",
+      "relation": "政策工具"
+    },
+    {
+      "head": "财政政策",
+      "tail": "相机抉择",
+      "relation": "政策类型"
+    },
+    {
+      "head": "经济稳定职能",
+      "tail": "财政政策",
+      "relation": "实现手段"
+    },
+    {
+      "head": "公平原则",
+      "tail": "累进税率",
+      "relation": "应用体现"
+    },
+    {
+      "head": "效率原则",
+      "tail": "税收转嫁与归宿",
+      "relation": "研究基础"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:43:38",
+    "version": "1.1"
+  }
+}

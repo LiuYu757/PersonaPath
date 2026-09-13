@@ -1,0 +1,686 @@
+{
+  "knowledge_tree": {
+    "title": "高中语文必修上册",
+    "content": "涵盖现代诗歌、小说、古诗词、散文等文学体裁，聚焦青春情怀、劳动价值、学习之道、自然感悟等主题",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元：青春的价值",
+        "content": "通过诗歌和小说作品，抒发青春情怀，探讨青春的价值与意义",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "现代诗歌",
+            "content": "五首风格各异的现代诗歌，运用意象抒发情感",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《沁园春·长沙》",
+                "content": "毛泽东词作，抒发昂扬向上的青春激情，表达雄视天下的凌云壮志",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "意象分析",
+                    "content": "看万山红遍、层林尽染、漫江碧透等意象的运用",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "语言特色",
+                    "content": "炼字选词的精妙之处，如红遍、尽染、碧透等富有表现力的词语",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《立在地球边上放号》",
+                "content": "郭沫若诗作，赞美摧毁旧世界、创造新生活的雄强之力",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "《红烛》",
+                "content": "闻一多诗作，赞美红烛以烧蜡成灰来点亮世界的奉献精神",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "《峨日朵雪峰之侧》",
+                "content": "昌耀诗作，展现谦卑而强劲的生命力量",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "《致云雀》",
+                "content": "雪莱诗作，表达奔放的激情和坚定的理想",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "现代小说",
+            "content": "两篇不同时代背景的小说，展现青春情怀",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "《百合花》",
+                "content": "茹志鹃小说，表现战争年代一名革命军人的牺牲",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "细节描写",
+                    "content": "新媳妇发现重伤的是小通讯员，一针一针缝补他衣服上的破洞",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "人物形象",
+                    "content": "小通讯员的纯朴勇敢，新媳妇的善良深情",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《哦，香雪》",
+                "content": "铁凝小说，表现改革开放初期山村少女对现代生活的向往",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "心理描写",
+                    "content": "香雪等几位姑娘的心理变化与情感波澜",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "象征意义",
+                    "content": "铅笔盒象征现代文明和知识渴望",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元：劳动的价值与意义",
+        "content": "通过人物通讯和新闻评论，彰显劳动的伟大意义",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "人物通讯",
+            "content": "报道杰出劳动者的事迹，树立时代楷模",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "《喜看稻菽千重浪》",
+                "content": "记述袁隆平发现天然杂交稻、培育杂交稻的历程",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "典型事件",
+                    "content": "头顶烈日脚踩淤泥终于找到水稻雄性不育植株",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "科学精神",
+                    "content": "敢于挑战权威，坚持真理，不断创新",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《心有一团火，温暖众人心》",
+                "content": "记述售货员张秉贵热情周到的服务事迹",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "服务细节",
+                    "content": "以热对冷，变冷为热，感动不讲理的顾客",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "劳动态度",
+                    "content": "全心全意为人民服务的一团火精神",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《探界者钟扬》",
+                "content": "讲述科学家钟扬献身种子事业、普及科学知识的故事",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "探索精神",
+                    "content": "不断探索生命的高度和广度",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "奉献精神",
+                    "content": "在青藏高原采集种子，无私奉献",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "新闻评论",
+            "content": "评论社会热点，引导社会舆论",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《以工匠精神雕琢时代品质》",
+                "content": "阐述工匠精神的内涵和当代价值",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "工匠精神内涵",
+                    "content": "精益求精、专心如一、臻于至善",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "现实意义",
+                    "content": "擦亮劳动光荣的价值原色，倡导质量至上的市场风尚",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "古诗词中的劳动",
+            "content": "描写古代劳动场景，感受劳动之美",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "《芣苢》",
+                "content": "《诗经》中描写采摘芣苢的劳动场景",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "重章叠唱",
+                    "content": "通过采、有、掇、捋、袺、襭等动词的变化展现劳动过程",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "劳动欢乐",
+                    "content": "表现劳动时的欢乐与情趣",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《插秧歌》",
+                "content": "杨万里诗作，描绘一家四口冒雨插秧的紧张生活",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "劳动场景",
+                    "content": "田夫抛秧田妇接，小儿拔秧大儿插",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "吃苦耐劳",
+                    "content": "表现农家吃苦耐劳、勤奋乐观的精神",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三单元：古诗词鉴赏",
+        "content": "汇集不同时期、不同体式的诗词名作，体味古人丰富的情感",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "古体诗",
+            "content": "形式较为自由，不严格讲究格律",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《短歌行》",
+                "content": "曹操诗作，表达对时光流逝的感慨和建功立业的宏愿",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "比兴手法",
+                    "content": "譬如朝露，去日苦多等比喻的运用",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "用典化用",
+                    "content": "青青子衿，悠悠我心等化用前人诗句",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《归园田居》",
+                "content": "陶渊明诗作，抒发对官场生活的厌倦和归隐田园的自由喜悦",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "白描手法",
+                    "content": "方宅十余亩，草屋八九间等朴素描写",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "田园意象",
+                    "content": "榆柳、桃李、狗吠、鸡鸣等田园生活图景",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "唐诗",
+            "content": "唐代诗歌，格律严谨，意境深远",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《梦游天姥吟留别》",
+                "content": "李白诗作，以浪漫瑰丽的想象描绘迷离惝恍的梦境",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "浪漫主义",
+                    "content": "天姥连天向天横，势拔五岳掩赤城等夸张描写",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "梦境象征",
+                    "content": "梦境寄寓着对自由人生的向往和对现实的不满",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《登高》",
+                "content": "杜甫诗作，写登高远眺，身世之悲与忧国之情齐集心头",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "律诗格律",
+                    "content": "每联对仗，句法谨严",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "沉郁意境",
+                    "content": "无边落木萧萧下，不尽长江滚滚来等意境营造",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《琵琶行》",
+                "content": "白居易长篇乐府诗，叙述琵琶女的故事，述说自己的人生遭际",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "音乐描写",
+                    "content": "大弦嘈嘈如急雨，小弦切切如私语等精妙比喻",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "同病相怜",
+                    "content": "同是天涯沦落人，相逢何必曾相识的情感共鸣",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "宋词",
+            "content": "宋代词作，豪放与婉约两种风格",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《念奴娇·赤壁怀古》",
+                "content": "苏轼词作，咏古抒怀，雄浑苍凉",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "写景咏史",
+                    "content": "乱石穿空，惊涛拍岸，卷起千堆雪等壮丽景象",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "人生感悟",
+                    "content": "人生如梦，一尊还酹江月的旷达洒脱",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《永遇乐·京口北固亭怀古》",
+                "content": "辛弃疾词作，登高凭眺、怀古伤今",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "用典手法",
+                    "content": "多处运用历史典故表达情感",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "爱国情怀",
+                    "content": "凭谁问：廉颇老矣，尚能饭否的悲愤与豪迈",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《声声慢》",
+                "content": "李清照词作，抒写愁苦情绪",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "叠字运用",
+                    "content": "寻寻觅觅，冷冷清清，凄凄惨惨戚戚的独特效果",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "愁绪渲染",
+                    "content": "通过意象组合渲染浓重的愁绪",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第七单元：写景抒情散文",
+        "content": "描写自然景物，融入人生思考，体现民族审美心理",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "现代散文",
+            "content": "现代写景抒情散文名篇",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《故都的秋》",
+                "content": "郁达夫散文，描写故都北平的秋味",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "秋味特点",
+                    "content": "清、静、悲凉的秋味描写",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "平凡景物",
+                    "content": "通过牵牛花、槐蕊、秋雨、秋枣等平凡事物表现秋味",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《荷塘月色》",
+                "content": "朱自清散文，描写清华园荷塘的月色",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "意境营造",
+                    "content": "月光如流水一般，静静地泻在这一片叶子和花上",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "比喻通感",
+                    "content": "微风过处，送来缕缕清香，仿佛远处高楼上渺茫的歌声似的",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《我与地坛》",
+                "content": "史铁生散文，记述在地坛的思考和对母亲的怀念",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "生命思考",
+                    "content": "对生死问题的深刻思考",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "母爱描写",
+                    "content": "对母亲无私爱的回忆和痛彻心扉的悔恨",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "古代散文",
+            "content": "古代写景抒情的散文名篇",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《赤壁赋》",
+                "content": "苏轼散文，写夜游赤壁的所见所感",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "景情理融合",
+                    "content": "写景、抒情、说理完美融合",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "主客问答",
+                    "content": "通过主客问答的方式，逐层阐述观点",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "《登泰山记》",
+                "content": "姚鼐散文，记述登泰山的经过和所见",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "简洁明快",
+                    "content": "描写、叙事简洁明快",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "细节描写",
+                    "content": "苍山负雪，明烛天南等生动描写",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "古诗词诵读",
+        "content": "四首经典古诗词，涵盖不同时期和体裁",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "《静女》",
+            "content": "《诗经》中爱情诗，描写男女约会的情景",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "《涉江采芙蓉》",
+            "content": "《古诗十九首》中抒写游子思乡情怀的诗作",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "《虞美人》",
+            "content": "李煜词作，抒发亡国之痛和故国之思",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "《鹊桥仙》",
+            "content": "秦观词作，歌咏忠贞不渝的爱情",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "《沁园春·长沙》",
+      "tail": "意象运用",
+      "relation": "运用"
+    },
+    {
+      "head": "《红烛》",
+      "tail": "奉献精神",
+      "relation": "歌颂"
+    },
+    {
+      "head": "《百合花》",
+      "tail": "细节描写",
+      "relation": "通过"
+    },
+    {
+      "head": "《哦，香雪》",
+      "tail": "象征手法",
+      "relation": "运用"
+    },
+    {
+      "head": "袁隆平",
+      "tail": "科学精神",
+      "relation": "体现"
+    },
+    {
+      "head": "张秉贵",
+      "tail": "服务精神",
+      "relation": "展现"
+    },
+    {
+      "head": "钟扬",
+      "tail": "探索精神",
+      "relation": "体现"
+    },
+    {
+      "head": "《芣苢》",
+      "tail": "劳动欢乐",
+      "relation": "表现"
+    },
+    {
+      "head": "《短歌行》",
+      "tail": "比兴手法",
+      "relation": "运用"
+    },
+    {
+      "head": "《归园田居》",
+      "tail": "白描手法",
+      "relation": "运用"
+    },
+    {
+      "head": "《梦游天姥吟留别》",
+      "tail": "浪漫主义",
+      "relation": "体现"
+    },
+    {
+      "head": "《登高》",
+      "tail": "沉郁意境",
+      "relation": "营造"
+    },
+    {
+      "head": "《琵琶行》",
+      "tail": "音乐描写",
+      "relation": "精妙"
+    },
+    {
+      "head": "《念奴娇·赤壁怀古》",
+      "tail": "写景咏史",
+      "relation": "结合"
+    },
+    {
+      "head": "《声声慢》",
+      "tail": "叠字运用",
+      "relation": "特色"
+    },
+    {
+      "head": "《故都的秋》",
+      "tail": "秋味描写",
+      "relation": "独特"
+    },
+    {
+      "head": "《荷塘月色》",
+      "tail": "比喻通感",
+      "relation": "运用"
+    },
+    {
+      "head": "《我与地坛》",
+      "tail": "生命思考",
+      "relation": "深刻"
+    },
+    {
+      "head": "《赤壁赋》",
+      "tail": "景情理融合",
+      "relation": "实现"
+    },
+    {
+      "head": "古诗词",
+      "tail": "民族审美",
+      "relation": "体现"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:33:28",
+    "version": "1.1"
+  }
+}

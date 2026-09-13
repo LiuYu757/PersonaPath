@@ -1,0 +1,700 @@
+{
+  "knowledge_tree": {
+    "title": "新闻学概论（第八版）",
+    "content": "李良荣主编《新闻学概论》第八版系统梳理新闻学基础理论、历史演进与业务规范，覆盖新闻本体、新闻事业、新闻媒介、新闻生产、新闻改革五大板块，构建中国特色新闻学知识体系。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "1 新闻本体论",
+        "content": "界定新闻本质、特征、价值与分类，回答“新闻是什么”“新闻从哪里来”“新闻如何分类”三大元问题。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "1.1 新闻的定义与特征",
+            "content": "给出“事实报道”与“事实信息”双重定义，提炼真实、新鲜、及时三大核心特征。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "1.1.1 定义1：新闻是新近发生事实的报道",
+                "content": "强调新闻的形式——公开传播的报道文本。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "1.1.2 定义2：新闻是新近事实变动的信息",
+                "content": "强调新闻的实质——消除受众不确定性的信息。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "1.1.3 特征1：真实性",
+                "content": "事实第一性，新闻第二性；真实是新闻的生命。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "1.1.4 特征2：新鲜性",
+                "content": "时间新、内容新、角度新。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "1.1.5 特征3：及时性",
+                "content": "传播速度竞争以分秒计。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "1.2 新闻本源与要素",
+            "content": "阐明“变动产生新闻”，介绍5W+1H要素。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "1.2.1 变动产生新闻",
+                "content": "世界永恒变动是新闻的源头。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "1.2.2 关系决定需要",
+                "content": "受众与变动的关联度决定新闻价值。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "1.2.3 5W要素",
+                "content": "Who、What、When、Where、Why。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "1.2.4 1H要素",
+                "content": "How，过程与方式。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "1.3 新闻价值与新闻的价值",
+            "content": "区分“新闻价值”（选择标准）与“新闻的价值”（社会效果）。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "1.3.1 新闻价值五要素",
+                "content": "重要性、显著性、时新性、接近性、趣味性。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "1.3.2 新闻的价值评估",
+                "content": "以社会公共利益为最高尺度。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "1.4 新闻分类",
+            "content": "多维度划分新闻类型。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "1.4.1 硬新闻与软新闻",
+                "content": "硬新闻关乎国计民生，软新闻侧重趣味人情。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "1.4.2 突发性新闻与延缓性新闻",
+                "content": "以时间界限划分。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "1.4.3 国际、全国、地方新闻",
+                "content": "以地理范围划分。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2 新闻事业论",
+        "content": "梳理新闻事业产生、发展规律与体制类型。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "2.1 新闻事业的产生",
+            "content": "资本主义商品经济催生近代报业。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "2.1.1 手抄新闻",
+                "content": "16世纪威尼斯出现最早商业新闻纸。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "2.1.2 新闻书与周刊",
+                "content": "印刷周期拉长，内容趋系统化。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "2.1.3 日报诞生",
+                "content": "1663年《莱比锡新闻》标志现代日报起点。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "2.2 三大传统媒体演进",
+            "content": "报纸→广播→电视的技术迭代。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "2.2.1 广播诞生",
+                "content": "1920年KDKA电台开播。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "2.2.2 电视诞生",
+                "content": "1936年BBC亚历山大宫开播。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "2.3 新媒体崛起",
+            "content": "互联网造就第四媒体。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "2.3.1 数字化",
+                "content": "比特替代原子，信息海量存储。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "2.3.2 交互性",
+                "content": "UGC、众包、迭代新闻模式。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "2.3.3 超时空",
+                "content": "全球同步、24小时滚动。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "2.4 新闻体制类型",
+            "content": "所有制与政治制度决定体制。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "2.4.1 私营媒介",
+                "content": "以美国为代表，董事会决策，广告支撑。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "2.4.2 公营媒介",
+                "content": "以BBC为代表，视听费为主，相对独立。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "2.4.3 国营媒介",
+                "content": "以法国前ORTF为代表，政府拨款，宣传取向。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "2.4.4 中国体制",
+                "content": "党管媒体、国有控股、事业性质企业管理。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3 新闻媒介论",
+        "content": "分析媒介性质、功能、效果与定位。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "3.1 媒介的共性、特性、个性",
+            "content": "三层级界定媒介身份。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "3.1.1 共性",
+                "content": "真实、及时、公开的大众传播工具。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "3.1.2 特性",
+                "content": "所有制、阶级性、办报方针、内容取向。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "3.1.3 个性",
+                "content": "风格、栏目、语言、受众差异。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "3.2 双重属性",
+            "content": "上层建筑+信息产业；“事业性质，企业管理”。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "3.3 功能体系",
+            "content": "四位一体功能模型。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "3.3.1 信息功能",
+                "content": "沟通情况，消除不确定性。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "3.3.2 宣传功能",
+                "content": "整合社会，凝聚共识。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "3.3.3 舆论监督",
+                "content": "监测环境，权力制衡。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "3.3.4 知识娱乐",
+                "content": "传播知识，提供休闲。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "3.4 正负效应",
+            "content": "功能双刃剑。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "3.4.1 正效应",
+                "content": "促进民主、经济发展、文化繁荣。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "3.4.2 负效应",
+                "content": "信息污染、人际淡漠、智能下降、欲望膨胀。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "3.5 功能定位",
+            "content": "媒介差异化生存策略。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "3.5.1 信息+赢利型",
+                "content": "如CNN、参考消息。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "3.5.2 消闲+服务+赢利型",
+                "content": "如都市报、音乐台。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "3.5.3 纯宣传型",
+                "content": "如对外广播。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4 新闻生产论",
+        "content": "聚焦新闻选择、制作、流通与把关。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "4.1 新闻选择标准",
+            "content": "新闻价值+宣传价值+法律伦理。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "4.2 新闻生产流程",
+            "content": "采→写→编→评→发→馈。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "4.2.1 人工智能写作",
+                "content": "机器人Dreamwriter、快笔小新0.3秒出稿。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "4.2.2 算法推送",
+                "content": "今日头条个性化推荐机制。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "4.2.3 中央厨房",
+                "content": "一次采集、多元生成、多渠道发布。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.3 新闻失实与治理",
+            "content": "故意失实、非故意失实、后真相治理。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "4.3.1 假新闻类型",
+                "content": "无中生有、标题党、悬疑新闻、曲解原意。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "4.3.2 治理机制",
+                "content": "人工+AI审核、事实核查、平台问责。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5 新闻改革论",
+        "content": "中国新闻改革历程与方向。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "5.1 四次新闻改革",
+            "content": "1942、1956、1979、2013年四次节点。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "5.2 技术驱动变革",
+            "content": "2G→5G技术迭代与媒体融合。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "5.3 新型主流媒体",
+            "content": "“四力”标准与“四全”目标。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "5.3.1 四力",
+                "content": "传播力、引导力、影响力、公信力。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "5.3.2 四全",
+                "content": "全时段、全方位、全媒体、全覆盖。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "5.3.3 四不底线",
+                "content": "不失真、不失语、不失品、不失位。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.4 体制创新",
+            "content": "从单一国企到党媒+民媒+自媒三足鼎立。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "舆论引导与舆论监督",
+        "content": "第十一章核心内容，阐释舆论引导与监督的互补关系、基本原则及网络时代新挑战",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "舆论引导",
+            "content": "党报功能：以理论、制度、道路自信公开信息、揭示真相，讲究艺术，紧贴热点、先发制人",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "多元社会挑战",
+                "content": "互联网放大利益群体诉求，非政府组织崛起，社会整合难度加大",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "网络意见领袖博弈",
+                "content": "去中心化—再中心化过程中，网络大V与主流媒体争夺话语主导权",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "颜色革命风险",
+                "content": "境外势力利用网络舆论发动“软政变”，舆论失控成为政权崩溃前奏",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "舆论监督",
+            "content": "媒介职责：揭露权力失范、市场失序、公德失范，与党内、法律、群众监督并列",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "监督功能",
+                "content": "威慑腐败、促进问题解决、密切党群关系、衡量党性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "监督性质",
+                "content": "人民内部矛盾批评，区别于“大批判”“揭丑报道”“黑幕新闻”",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "监督原则",
+                "content": "开、好、管三字方针：实事求是、适时适量适宜、保护批评者与申诉权、党委领导与独立负责并重",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "谨防媒体审判",
+                "content": "媒介不得代替司法定性定罪，应止步于事实呈现",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "舆论新格局",
+            "content": "传统媒体舆论场与网络舆论场并存，博客—微博—微信—短视频平台演进",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "网络民意元年",
+                "content": "2007年四大网络事件标志网络舆论崛起，推动政策回应",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "三低人群主导",
+                "content": "低学历、低收入、低年龄群体引爆反腐、拆迁、讨薪议题，群体极化明显",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "中间阶层回归",
+                "content": "实名制与清网后，70/80/90后理性表达，安全、教育、医疗成新热点",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "大众传媒与社会系统",
+        "content": "第十二章核心内容，分析媒介生态对制度、发展水平、改革方向、运作模式及职业理念的决定作用",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "媒介生态环境5决定",
+            "content": "制度、水平、改革、模式、理念均受社会系统制约",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "媒介系统4功能",
+            "content": "开发信息资源、实现社会总目标、促进个人社会化、推动社会整合",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "新生态环境3变量",
+            "content": "全球化、高风险社会、多元社会重塑传媒运作逻辑",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "全球化与话语权",
+                "content": "国际传播成为国家利益博弈前沿，西强我弱格局待破",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "风险社会双重性",
+                "content": "传媒既可预警减灾，也可能放大风险制造恐慌",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "一元与多元平衡",
+                "content": "国家主流价值与多元利益表达需兼顾",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "新闻自由与社会控制",
+        "content": "第十三章核心内容，界定新闻自由权属、历史演进及法律、行政、资本、自律四重控制机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "新闻自由定义",
+            "content": "公民无需批准出版、不受事先审查、自由接近新闻源的权利",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "历史三阶段",
+            "content": "16-17世纪反封建王朝、17-18世纪资产阶级革命、17-19世纪反资产阶级政府控制",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "法规三大限制",
+            "content": "国家安全法、诽谤法、隐私法构成普遍限制",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "中国宪法第35条",
+            "content": "公民言论、出版自由条款，新闻自由权属人民而非媒体机构",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "新闻",
+      "relation": "具有特征",
+      "tail": "真实、新鲜、及时"
+    },
+    {
+      "head": "变动",
+      "relation": "产生",
+      "tail": "新闻"
+    },
+    {
+      "head": "新闻价值",
+      "relation": "决定",
+      "tail": "新闻选择"
+    },
+    {
+      "head": "新闻媒介",
+      "relation": "具有功能",
+      "tail": "信息、宣传、监督、知识娱乐"
+    },
+    {
+      "head": "党性原则",
+      "relation": "是",
+      "tail": "中国新闻事业基本制度"
+    },
+    {
+      "head": "真实性",
+      "relation": "是",
+      "tail": "新闻的生命"
+    },
+    {
+      "head": "人工智能",
+      "relation": "应用于",
+      "tail": "新闻写作、推送、审核"
+    },
+    {
+      "head": "中央厨房",
+      "relation": "实现",
+      "tail": "一次采集多元发布"
+    },
+    {
+      "head": "新型主流媒体",
+      "relation": "以互联网为",
+      "tail": "主要载体"
+    },
+    {
+      "head": "三足鼎立",
+      "relation": "描述",
+      "tail": "党媒、民媒、自媒格局"
+    },
+    {
+      "head": "舆论引导",
+      "relation": "互补于",
+      "tail": "舆论监督"
+    },
+    {
+      "head": "网络意见领袖",
+      "relation": "博弈于",
+      "tail": "主流媒体话语主导权"
+    },
+    {
+      "head": "媒介生态环境",
+      "relation": "决定",
+      "tail": "媒介制度与发展水平"
+    },
+    {
+      "head": "新闻自由",
+      "relation": "受限于",
+      "tail": "国家安全法、诽谤法、隐私法"
+    },
+    {
+      "head": "媒体审判",
+      "relation": "干扰",
+      "tail": "司法独立与程序正义"
+    }
+  ],
+  "metadata": {
+    "chunks_merged": 2,
+    "generated_at": "2025-11-18 22:19:14",
+    "version": "1.1"
+  }
+}

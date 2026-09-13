@@ -1,0 +1,582 @@
+{
+  "knowledge_tree": {
+    "title": "高中物理必修第二册",
+    "content": "涵盖抛体运动、圆周运动、万有引力与宇宙航行、机械能守恒定律等核心内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "抛体运动",
+        "content": "物体以一定初速度抛出，在重力作用下的曲线运动",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "曲线运动",
+            "content": "运动轨迹为曲线的运动，速度方向沿切线方向",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "曲线运动的速度方向",
+                "content": "质点在某一点的速度方向沿曲线在该点的切线方向",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "物体做曲线运动的条件",
+                "content": "当物体所受合力的方向与速度方向不在同一直线上时，物体做曲线运动",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "运动的合成与分解",
+            "content": "将复杂运动分解为两个或多个简单的分运动",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "分运动与合运动",
+                "content": "分运动是实际运动的组成部分，合运动是分运动的矢量合成",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "运动的合成",
+                "content": "由分运动求合运动的过程",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "运动的分解",
+                "content": "由合运动求分运动的过程",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "平抛运动",
+            "content": "初速度沿水平方向的抛体运动",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "平抛运动的特点",
+                "content": "水平方向做匀速直线运动，竖直方向做自由落体运动",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "平抛运动的规律",
+                "content": "位移公式：x=v₀t, y=1/2gt²；速度公式：v_x=v₀, v_y=gt",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "斜抛运动",
+            "content": "初速度斜向上或斜向下的抛体运动",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "斜抛运动的规律",
+                "content": "可分解为水平方向的匀速直线运动和竖直方向的竖直上抛运动",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "圆周运动",
+        "content": "物体沿圆周轨迹的运动",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "描述圆周运动的物理量",
+            "content": "线速度、角速度、周期、转速等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "线速度",
+                "content": "v=Δs/Δt，方向沿切线方向",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "角速度",
+                "content": "ω=Δθ/Δt，单位rad/s",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "周期与转速",
+                "content": "周期T完成一周所需时间，转速n单位时间转过的圈数",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "线速度与角速度的关系",
+                "content": "v=ωr",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "向心力",
+            "content": "使物体做圆周运动所需的指向圆心的力",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "向心力的定义",
+                "content": "F_n=mv²/r=mω²r",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "向心力的来源",
+                "content": "由某个力或几个力的合力提供",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "向心加速度",
+            "content": "由向心力产生的加速度，方向指向圆心",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "向心加速度的表达式",
+                "content": "a_n=v²/r=ω²r",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "生活中的圆周运动",
+            "content": "应用圆周运动原理分析实际问题",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "火车转弯",
+                "content": "外轨略高于内轨，提供部分向心力",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "汽车过拱形桥",
+                "content": "最高点桥面对车的支持力小于重力",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "航天器中的失重现象",
+                "content": "当重力完全提供向心力时，出现完全失重",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "离心运动",
+                "content": "当向心力不足时，物体逐渐远离圆心",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "万有引力与宇宙航行",
+        "content": "万有引力定律及其在天体运动中的应用",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "行星的运动",
+            "content": "开普勒行星运动定律",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "开普勒第一定律",
+                "content": "所有行星绕太阳运动的轨道都是椭圆，太阳处在椭圆的一个焦点上",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "开普勒第二定律",
+                "content": "对任意一个行星来说，它与太阳的连线在相等的时间内扫过的面积相等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "开普勒第三定律",
+                "content": "所有行星轨道的半长轴的三次方跟它的公转周期的二次方的比都相等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "万有引力定律",
+            "content": "自然界中任何两个物体都相互吸引，引力的大小与质量的乘积成正比，与距离的平方成反比",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "万有引力定律的表达式",
+                "content": "F=Gm₁m₂/r²",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "引力常量",
+                "content": "G=6.67×10⁻¹¹N·m²/kg²",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "万有引力理论的成就",
+            "content": "应用万有引力定律解决实际问题",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "计算天体质量",
+                "content": "通过万有引力提供向心力计算中心天体质量",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "发现未知天体",
+                "content": "通过理论计算预测并发现新天体",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "宇宙航行",
+            "content": "应用万有引力定律实现航天飞行",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "宇宙速度",
+                "content": "第一、第二、第三宇宙速度",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "人造地球卫星",
+                "content": "绕地球运行的人造天体",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "相对论时空观与牛顿力学的局限性",
+            "content": "爱因斯坦相对论的基本观点和牛顿力学的适用范围",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "相对论时空观",
+                "content": "时间延缓、长度收缩等效应",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "牛顿力学的局限性",
+                "content": "在高速运动和微观领域不适用",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "机械能守恒定律",
+        "content": "功、能关系及机械能守恒定律",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "功与功率",
+            "content": "功的定义和功率的概念",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "功的定义",
+                "content": "W=Flcosα，力对物体所做的功等于力的大小、位移的大小、力与位移夹角的余弦这三者的乘积",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "正功和负功",
+                "content": "当0≤α<90°时做正功；当α=90°时不做功；当90°<α≤180°时做负功",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "功率",
+                "content": "P=W/t=Fv，表示做功的快慢",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "重力势能",
+            "content": "物体由于被举高而具有的能量",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "重力做功的特点",
+                "content": "重力做功与路径无关，只与起点和终点的位置有关",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "重力势能的表达式",
+                "content": "E_p=mgh",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "重力势能的相对性",
+                "content": "重力势能的大小与参考平面的选择有关",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "弹性势能",
+                "content": "物体发生弹性形变而具有的能量",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "动能和动能定理",
+            "content": "物体由于运动而具有的能量",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "动能的表达式",
+                "content": "E_k=1/2mv²",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "动能定理",
+                "content": "合力在一个过程中对物体做的功等于物体在这个过程中动能的变化",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "机械能守恒定律",
+            "content": "在只有重力或弹力做功的物体系统内，动能与势能可以互相转化，而总的机械能保持不变",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "机械能守恒的条件",
+                "content": "只有重力或弹力做功",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "机械能守恒定律的应用",
+                "content": "解决抛体运动、圆周运动等实际问题",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "实验：验证机械能守恒定律",
+            "content": "通过实验验证机械能守恒定律",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "实验原理",
+                "content": "测量物体下落过程中重力势能的减少量和动能的增加量",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "实验方法",
+                "content": "使用打点计时器或光电门测量速度和高度",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "曲线运动",
+      "tail": "抛体运动",
+      "relation": "是一种"
+    },
+    {
+      "head": "抛体运动",
+      "tail": "平抛运动",
+      "relation": "包含"
+    },
+    {
+      "head": "抛体运动",
+      "tail": "斜抛运动",
+      "relation": "包含"
+    },
+    {
+      "head": "平抛运动",
+      "tail": "水平方向匀速直线运动",
+      "relation": "可分解为"
+    },
+    {
+      "head": "平抛运动",
+      "tail": "竖直方向自由落体运动",
+      "relation": "可分解为"
+    },
+    {
+      "head": "运动的合成与分解",
+      "tail": "分运动",
+      "relation": "用于分析"
+    },
+    {
+      "head": "运动的合成与分解",
+      "tail": "合运动",
+      "relation": "用于分析"
+    },
+    {
+      "head": "圆周运动",
+      "tail": "线速度",
+      "relation": "由...描述"
+    },
+    {
+      "head": "圆周运动",
+      "tail": "角速度",
+      "relation": "由...描述"
+    },
+    {
+      "head": "圆周运动",
+      "tail": "向心力",
+      "relation": "需要"
+    },
+    {
+      "head": "向心力",
+      "tail": "向心加速度",
+      "relation": "产生"
+    },
+    {
+      "head": "万有引力定律",
+      "tail": "行星的运动",
+      "relation": "解释"
+    },
+    {
+      "head": "开普勒行星运动定律",
+      "tail": "万有引力定律",
+      "relation": "为...提供支持"
+    },
+    {
+      "head": "万有引力定律",
+      "tail": "计算天体质量",
+      "relation": "应用于"
+    },
+    {
+      "head": "万有引力定律",
+      "tail": "宇宙航行",
+      "relation": "应用于"
+    },
+    {
+      "head": "机械能守恒定律",
+      "tail": "动能",
+      "relation": "涉及"
+    },
+    {
+      "head": "机械能守恒定律",
+      "tail": "重力势能",
+      "relation": "涉及"
+    },
+    {
+      "head": "机械能守恒定律",
+      "tail": "弹性势能",
+      "relation": "涉及"
+    },
+    {
+      "head": "功",
+      "tail": "能量变化",
+      "relation": "量度"
+    },
+    {
+      "head": "功率",
+      "tail": "做功的快慢",
+      "relation": "表示"
+    },
+    {
+      "head": "动能定理",
+      "tail": "动能",
+      "relation": "描述...的变化"
+    },
+    {
+      "head": "曲线运动",
+      "tail": "速度方向",
+      "relation": "具有不断变化的"
+    },
+    {
+      "head": "曲线运动",
+      "tail": "加速度",
+      "relation": "一定不为零"
+    },
+    {
+      "head": "平抛运动",
+      "tail": "轨迹",
+      "relation": "是抛物线"
+    },
+    {
+      "head": "匀速圆周运动",
+      "tail": "变速运动",
+      "relation": "是"
+    },
+    {
+      "head": "万有引力定律",
+      "tail": "引力常量",
+      "relation": "包含"
+    },
+    {
+      "head": "第一宇宙速度",
+      "tail": "人造地球卫星",
+      "relation": "是实现...的最小发射速度"
+    },
+    {
+      "head": "第二宇宙速度",
+      "tail": "脱离地球引力",
+      "relation": "是实现...的最小速度"
+    },
+    {
+      "head": "第三宇宙速度",
+      "tail": "脱离太阳系",
+      "relation": "是实现...的最小速度"
+    },
+    {
+      "head": "重力势能",
+      "tail": "参考平面",
+      "relation": "相对于"
+    },
+    {
+      "head": "机械能守恒定律",
+      "tail": "只有重力或弹力做功",
+      "relation": "适用条件是"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:07:29",
+    "version": "1.1"
+  }
+}

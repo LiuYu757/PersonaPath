@@ -1,0 +1,555 @@
+{
+  "knowledge_tree": {
+    "title": "传播学教程",
+    "content": "传播学基础理论与应用",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "传播的基本概念",
+        "content": "传播的定义、要素与功能",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "传播的定义",
+            "content": "社会信息的传递或社会信息系统的运行",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "传播的基本要素",
+            "content": "传播者、受传者、讯息、媒介、反馈、噪音",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "传播的基本功能",
+            "content": "拉斯韦尔三功能说（环境监视、社会协调、社会遗产传承）和赖特的四功能说（增加娱乐功能）",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "人类传播的历史与发展",
+        "content": "从符号到大众传播的演进过程",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "口语传播时代",
+            "content": "人类传播活动第一个发展阶段，依赖于发声器官",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "文字传播时代",
+            "content": "文字发明使信息得以长期保存",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "印刷传播时代",
+            "content": "始于印刷机的发明，实现信息批量生产",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "电子传播时代",
+            "content": "信息远距离快速传输成为可能",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "传播的主要类型",
+        "content": "五种基本传播类型及其特点",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "人内传播",
+            "content": "个人接受外部信息并在体内处理的活动",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "米德的'主我与客我'理论",
+                "content": "自我意识'主我'与'客我'的互动形成人内传播",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "人际传播",
+            "content": "个人与个人之间的信息传播活动",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "群体传播",
+            "content": "群体内部的信息传播活动",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "群体压力与趋同心理",
+                "content": "信息在群体中传播时会受到群体压力的影响",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "组织传播",
+            "content": "组织所从事的信息活动",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "大众传播",
+            "content": "专业媒介组织运用传播技术广泛、快速、连续传播信息",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "大众传播的特点",
+                "content": "传播者专业化、讯息公开性、受众广泛匿名、反馈间接性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "大众传播的社会功能",
+                "content": "环境监视、社会联系与协调、社会遗产传承、娱乐",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "传播模式与理论",
+        "content": "传播过程模式与主要传播理论",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "线性传播模式",
+            "content": "单向直线传播过程描述",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "拉斯韦尔的5W模式",
+                "content": "Who-Says What-In Which Channel-To Whom-With What Effect",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "香农-韦弗模式",
+                "content": "通信过程的数学理论，引入噪音概念",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "循环和互动传播模式",
+            "content": "双向互动传播过程描述",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "奥斯古德-施拉姆模式",
+                "content": "传播单位功能理论，强调传受双方的平等性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "施拉姆的大众传播模式",
+                "content": "描述大众传播机构与受众的互动关系",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "系统传播模式",
+            "content": "社会系统框架下的传播过程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "赖利夫妇的系统模式",
+                "content": "将传播过程置于社会系统框架中考察",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "马莱兹克的系统模式",
+                "content": "从心理学角度构建的传播系统模型",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "传播效果研究",
+        "content": "传播效果理论的历史发展",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "子弹论/皮下注射论",
+            "content": "传播媒介具有不可抵抗的强大效果",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "有限效果论",
+            "content": "传播效果受到多种因素制约",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "传播流与两级传播理论",
+                "content": "信息经由意见领袖过滤再到一般受众",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "创新扩散理论",
+                "content": "新事物在社会系统中传播的过程与规律",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "适度效果论",
+            "content": "从受众角度考察传播效果",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "使用与满足理论",
+                "content": "受众基于特定需求主动使用媒介",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "议程设置理论",
+                "content": "媒介不能决定怎么想，但能决定想什么",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "强大效果论",
+            "content": "重新强调大众传播的强大效果",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "沉默的螺旋理论",
+                "content": "舆论形成过程中多数意见的压力作用",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "知沟理论",
+                "content": "大众传播会扩大社会知识差距",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "传播学研究方法",
+        "content": "传播学研究的基本方法体系",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "问卷调查法",
+            "content": "通过问卷收集数据的大规模研究方法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "内容分析法",
+            "content": "对传播内容进行客观、系统、定量描述的研究方法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "控制实验法",
+            "content": "在控制条件下测试因果关系的经典方法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "田野调查法",
+            "content": "在自然环境中观察和记录传播行为",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "传播",
+      "tail": "传播的基本要素",
+      "relation": "包含"
+    },
+    {
+      "head": "传播的基本要素",
+      "tail": "传播者",
+      "relation": "包含"
+    },
+    {
+      "head": "传播的基本要素",
+      "tail": "受传者",
+      "relation": "包含"
+    },
+    {
+      "head": "传播的基本要素",
+      "tail": "讯息",
+      "relation": "包含"
+    },
+    {
+      "head": "传播的基本要素",
+      "tail": "媒介",
+      "relation": "包含"
+    },
+    {
+      "head": "传播的基本要素",
+      "tail": "反馈",
+      "relation": "包含"
+    },
+    {
+      "head": "传播的基本要素",
+      "tail": "噪音",
+      "relation": "包含"
+    },
+    {
+      "head": "拉斯韦尔三功能说",
+      "tail": "环境监视",
+      "relation": "包含"
+    },
+    {
+      "head": "拉斯韦尔三功能说",
+      "tail": "社会协调",
+      "relation": "包含"
+    },
+    {
+      "head": "拉斯韦尔三功能说",
+      "tail": "社会遗产传承",
+      "relation": "包含"
+    },
+    {
+      "head": "赖特的四功能说",
+      "tail": "娱乐功能",
+      "relation": "增加"
+    },
+    {
+      "head": "人类传播的历史",
+      "tail": "口语传播时代",
+      "relation": "起始于"
+    },
+    {
+      "head": "人类传播的历史",
+      "tail": "文字传播时代",
+      "relation": "演进为"
+    },
+    {
+      "head": "人类传播的历史",
+      "tail": "印刷传播时代",
+      "relation": "演进为"
+    },
+    {
+      "head": "人类传播的历史",
+      "tail": "电子传播时代",
+      "relation": "演进为"
+    },
+    {
+      "head": "传播的主要类型",
+      "tail": "人内传播",
+      "relation": "包含"
+    },
+    {
+      "head": "传播的主要类型",
+      "tail": "人际传播",
+      "relation": "包含"
+    },
+    {
+      "head": "传播的主要类型",
+      "tail": "群体传播",
+      "relation": "包含"
+    },
+    {
+      "head": "传播的主要类型",
+      "tail": "组织传播",
+      "relation": "包含"
+    },
+    {
+      "head": "传播的主要类型",
+      "tail": "大众传播",
+      "relation": "包含"
+    },
+    {
+      "head": "人内传播",
+      "tail": "米德的'主我与客我'理论",
+      "relation": "基于"
+    },
+    {
+      "head": "群体传播",
+      "tail": "群体压力与趋同心理",
+      "relation": "受制于"
+    },
+    {
+      "head": "大众传播",
+      "tail": "大众传播的特点",
+      "relation": "具有"
+    },
+    {
+      "head": "大众传播",
+      "tail": "大众传播的社会功能",
+      "relation": "具有"
+    },
+    {
+      "head": "传播模式与理论",
+      "tail": "线性传播模式",
+      "relation": "包含"
+    },
+    {
+      "head": "传播模式与理论",
+      "tail": "循环和互动传播模式",
+      "relation": "包含"
+    },
+    {
+      "head": "传播模式与理论",
+      "tail": "系统传播模式",
+      "relation": "包含"
+    },
+    {
+      "head": "线性传播模式",
+      "tail": "拉斯韦尔的5W模式",
+      "relation": "包含"
+    },
+    {
+      "head": "线性传播模式",
+      "tail": "香农-韦弗模式",
+      "relation": "包含"
+    },
+    {
+      "head": "循环和互动传播模式",
+      "tail": "奥斯古德-施拉姆模式",
+      "relation": "包含"
+    },
+    {
+      "head": "循环和互动传播模式",
+      "tail": "施拉姆的大众传播模式",
+      "relation": "包含"
+    },
+    {
+      "head": "系统传播模式",
+      "tail": "赖利夫妇的系统模式",
+      "relation": "包含"
+    },
+    {
+      "head": "系统传播模式",
+      "tail": "马莱兹克的系统模式",
+      "relation": "包含"
+    },
+    {
+      "head": "传播效果研究",
+      "tail": "子弹论/皮下注射论",
+      "relation": "起始于"
+    },
+    {
+      "head": "传播效果研究",
+      "tail": "有限效果论",
+      "relation": "演进为"
+    },
+    {
+      "head": "传播效果研究",
+      "tail": "适度效果论",
+      "relation": "演进为"
+    },
+    {
+      "head": "传播效果研究",
+      "tail": "强大效果论",
+      "relation": "演进为"
+    },
+    {
+      "head": "有限效果论",
+      "tail": "传播流与两级传播理论",
+      "relation": "包含"
+    },
+    {
+      "head": "有限效果论",
+      "tail": "创新扩散理论",
+      "relation": "包含"
+    },
+    {
+      "head": "适度效果论",
+      "tail": "使用与满足理论",
+      "relation": "包含"
+    },
+    {
+      "head": "适度效果论",
+      "tail": "议程设置理论",
+      "relation": "包含"
+    },
+    {
+      "head": "强大效果论",
+      "tail": "沉默的螺旋理论",
+      "relation": "包含"
+    },
+    {
+      "head": "强大效果论",
+      "tail": "知沟理论",
+      "relation": "包含"
+    },
+    {
+      "head": "传播学研究方法",
+      "tail": "问卷调查法",
+      "relation": "包含"
+    },
+    {
+      "head": "传播学研究方法",
+      "tail": "内容分析法",
+      "relation": "包含"
+    },
+    {
+      "head": "传播学研究方法",
+      "tail": "控制实验法",
+      "relation": "包含"
+    },
+    {
+      "head": "传播学研究方法",
+      "tail": "田野调查法",
+      "relation": "包含"
+    },
+    {
+      "head": "香农-韦弗模式",
+      "tail": "噪音",
+      "relation": "引入概念"
+    },
+    {
+      "head": "议程设置理论",
+      "tail": "大众传播",
+      "relation": "描述效果"
+    },
+    {
+      "head": "沉默的螺旋理论",
+      "tail": "舆论形成",
+      "relation": "解释过程"
+    },
+    {
+      "head": "知沟理论",
+      "tail": "社会知识差距",
+      "relation": "分析影响"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:23:56",
+    "version": "1.1"
+  }
+}

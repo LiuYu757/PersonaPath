@@ -1,0 +1,703 @@
+{
+  "knowledge_tree": {
+    "title": "中国书画",
+    "content": "中国书画是中国文化特有的艺术形式，包含中国画、书法与篆刻三大部分，强调书画同源、笔墨技法与意境表达。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "中国画",
+        "content": "运用中国美学思想，通过构图立意、用笔用墨设色等技法创造独特艺术风格的绘画。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "书画同源",
+            "content": "中国书法与绘画在起源、工具材料、笔法墨韵及审美意境上相通，是同质异体的艺术。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "汉字与绘画起源相同",
+                "content": "汉字源自原始图画，早期文字与绘画区别不明显，后逐渐分化。",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "陶尊符号",
+                    "content": "新石器时代陶尊上的刻画符号，被认为是原始文字或图画文字。",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "汉字演变",
+                    "content": "从甲骨文、金文到大篆、小篆、隶书，再到草书、行书、楷书。",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "工具与材料相同",
+                "content": "使用笔、墨、纸、砚（文房四宝）作为共同创作工具。",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "毛笔",
+                    "content": "硬毫、软毫、兼毫三类，按笔锋分长锋、中锋、短锋。",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "墨",
+                    "content": "分松烟墨和油烟墨，墨分五色（焦、浓、重、淡、清）。",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "宣纸",
+                    "content": "生宣吸水性强宜写意，熟宣纸质硬宜工笔。",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "砚",
+                    "content": "端砚、歙砚、洮河砚、澄泥砚四大名砚，讲究下墨与发墨。",
+                    "difficulty": "1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "笔法与墨韵相通",
+                "content": "书画均讲究中锋、侧锋、逆锋等笔法，以及墨的浓淡干湿变化。",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "笔法",
+                    "content": "中锋、侧锋、逆锋、拖锋等用笔方法。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "墨法",
+                    "content": "破墨、积墨、泼墨等技法，创造墨韵层次。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "审美与意境相同",
+                "content": "均追求气韵生动、意境深远，强调主观情感表达。",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "结字原则",
+                    "content": "主次有序、开合呼应、虚实相生等结构规律。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "意境营造",
+                    "content": "通过留白、象征等手法创造画外之意。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "山水情怀",
+            "content": "表现自然山水，重意境营造，技法包括皴法、树法、水法等。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "画石画山",
+                "content": "石分三面，山分四阶段（勾、皴、染、点），皴法多样。",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "皴法",
+                    "content": "披麻皴、斧劈皴、解索皴、折带皴、雨点皴、荷叶皴等。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "画树",
+                "content": "树分四歧，先画树干，再分前后左右出枝，点叶与夹叶画法。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "画水",
+                "content": "线勾、皴擦渲染或留白表现，形态万千。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "三远法",
+                "content": "高远、深远、平远三种空间处理方式。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "山水意境",
+                "content": "以大观小、留白等手法营造诗情画意。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "缘物寄情",
+            "content": "花鸟画通过动植物形象寄托情感，分工笔与写意两类。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "工笔花鸟",
+                "content": "精工细作，步骤包括起稿勾勒、分染、着色、渲染罩色。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "写意花鸟",
+                "content": "粗放简练的笔墨表现形神与意境，重笔墨趣味。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "托物言志",
+                "content": "如兰竹喻高洁，梅菊喻坚贞，赋予物象人文内涵。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "以形写神",
+            "content": "人物画注重刻画人物神态与内在精神，分白描、工笔重彩、写意。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "白描画法",
+                "content": "完全用线条表现物象，单勾与复勾，十八描技法。",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "十八描",
+                    "content": "高古游丝描、琴弦描、铁线描、行云流水描等线描技法。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "工笔重彩",
+                "content": "精细勾勒后设色，色彩绚丽，如唐代仕女画。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "写意人物",
+                "content": "简练笔墨概括形神，强调意境与情感表达。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "继承创新",
+            "content": "近现代中国画在传统基础上吸收西方艺术元素，推陈出新。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "推陈出新",
+                "content": "吴昌硕、齐白石等继承传统并形成个人风格。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "洋为中用",
+                "content": "徐悲鸿、蒋兆和等融合西方素描与水墨技法。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "书法",
+        "content": "汉字书写艺术，通过笔法、结字、章法表现美感与情感。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "学书有法",
+            "content": "掌握执笔、运笔、点画等基本方法，楷书为基础。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "书体演变",
+                "content": "篆、隶、草、行、楷五大书体发展历程。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "执笔运笔",
+                "content": "五指执笔法，枕腕、提腕、悬腕运腕方式。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "中锋与提按",
+                "content": "笔锋居中运行，提笔与按笔交替使用。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "点画写法",
+                "content": "点、横、竖、撇、捺、折、钩、挑、戈等笔画形态。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "结字章法",
+            "content": "汉字结构安排与整体布局规律。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "独体字结字",
+                "content": "笔画少的字讲究平衡稳定，局部参差变化。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "合体字结字",
+                "content": "左右、上下、围合、上中下、左中右、复合等结构类型。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "章法布局",
+                "content": "纵有列横有行，或纵有列横无行，追求行气贯通。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "篆刻",
+        "content": "书法与镌刻结合的艺术，具实用与欣赏价值，分朱文白文。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "方寸之间",
+            "content": "印章的起源、发展、实用功能与艺术价值。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "印章起源",
+                "content": "殷商时代出现，战国普遍使用，秦汉后功能扩大。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "实用功能",
+                "content": "凭证信物、权力象征、封检物品、吉语佩印等。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "艺术价值",
+                "content": "承载汉字文化审美，方寸间展现自由精神。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "篆刻之道",
+            "content": "篆法、章法、刀法三要素，以及治印步骤。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "篆法",
+                "content": "篆书书写要点与笔顺特点，中锋用笔。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "章法",
+                "content": "分朱布白，自然均衡、大小相间、穿插挪让、边栏修饰。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "刀法",
+                "content": "冲刀法、切刀法、双刀法、单刀法等运刀技法。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "治印步骤",
+                "content": "打磨印石、设计印稿、印稿上石、运刀刻制、钤印。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "诗书画印结合",
+        "content": "中国画独特形式，题款钤印增强画面意境与文化内涵。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "题款",
+            "content": "落款、题诗、跋文等，与画面内容呼应。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "钤印",
+            "content": "姓名章、别号章、闲章等，形式与内容配合画面。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "章法布局",
+            "content": "经营位置，虚实、疏密、开合、呼应等法则。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "中国书画",
+      "tail": "中国画",
+      "relation": "包含"
+    },
+    {
+      "head": "中国书画",
+      "tail": "书法",
+      "relation": "包含"
+    },
+    {
+      "head": "中国书画",
+      "tail": "篆刻",
+      "relation": "包含"
+    },
+    {
+      "head": "中国画",
+      "tail": "山水画",
+      "relation": "包含"
+    },
+    {
+      "head": "中国画",
+      "tail": "花鸟画",
+      "relation": "包含"
+    },
+    {
+      "head": "中国画",
+      "tail": "人物画",
+      "relation": "包含"
+    },
+    {
+      "head": "书画同源",
+      "tail": "汉字与绘画起源相同",
+      "relation": "基础"
+    },
+    {
+      "head": "书画同源",
+      "tail": "工具与材料相同",
+      "relation": "基础"
+    },
+    {
+      "head": "书画同源",
+      "tail": "笔法与墨韵相通",
+      "relation": "基础"
+    },
+    {
+      "head": "书画同源",
+      "tail": "审美与意境相同",
+      "relation": "基础"
+    },
+    {
+      "head": "笔法",
+      "tail": "中锋",
+      "relation": "包含"
+    },
+    {
+      "head": "笔法",
+      "tail": "侧锋",
+      "relation": "包含"
+    },
+    {
+      "head": "笔法",
+      "tail": "逆锋",
+      "relation": "包含"
+    },
+    {
+      "head": "墨法",
+      "tail": "破墨",
+      "relation": "包含"
+    },
+    {
+      "head": "墨法",
+      "tail": "积墨",
+      "relation": "包含"
+    },
+    {
+      "head": "墨法",
+      "tail": "泼墨",
+      "relation": "包含"
+    },
+    {
+      "head": "山水画",
+      "tail": "皴法",
+      "relation": "运用"
+    },
+    {
+      "head": "山水画",
+      "tail": "三远法",
+      "relation": "运用"
+    },
+    {
+      "head": "花鸟画",
+      "tail": "工笔花鸟",
+      "relation": "分支"
+    },
+    {
+      "head": "花鸟画",
+      "tail": "写意花鸟",
+      "relation": "分支"
+    },
+    {
+      "head": "人物画",
+      "tail": "白描",
+      "relation": "分支"
+    },
+    {
+      "head": "人物画",
+      "tail": "工笔重彩",
+      "relation": "分支"
+    },
+    {
+      "head": "人物画",
+      "tail": "写意人物",
+      "relation": "分支"
+    },
+    {
+      "head": "白描",
+      "tail": "十八描",
+      "relation": "运用"
+    },
+    {
+      "head": "继承创新",
+      "tail": "推陈出新",
+      "relation": "包含"
+    },
+    {
+      "head": "继承创新",
+      "tail": "洋为中用",
+      "relation": "包含"
+    },
+    {
+      "head": "书法",
+      "tail": "学书有法",
+      "relation": "基础"
+    },
+    {
+      "head": "书法",
+      "tail": "结字章法",
+      "relation": "基础"
+    },
+    {
+      "head": "学书有法",
+      "tail": "书体演变",
+      "relation": "包含"
+    },
+    {
+      "head": "学书有法",
+      "tail": "执笔运笔",
+      "relation": "包含"
+    },
+    {
+      "head": "学书有法",
+      "tail": "点画写法",
+      "relation": "包含"
+    },
+    {
+      "head": "结字章法",
+      "tail": "独体字结字",
+      "relation": "包含"
+    },
+    {
+      "head": "结字章法",
+      "tail": "合体字结字",
+      "relation": "包含"
+    },
+    {
+      "head": "结字章法",
+      "tail": "章法布局",
+      "relation": "包含"
+    },
+    {
+      "head": "篆刻",
+      "tail": "方寸之间",
+      "relation": "基础"
+    },
+    {
+      "head": "篆刻",
+      "tail": "篆刻之道",
+      "relation": "基础"
+    },
+    {
+      "head": "篆刻之道",
+      "tail": "篆法",
+      "relation": "包含"
+    },
+    {
+      "head": "篆刻之道",
+      "tail": "章法",
+      "relation": "包含"
+    },
+    {
+      "head": "篆刻之道",
+      "tail": "刀法",
+      "relation": "包含"
+    },
+    {
+      "head": "诗书画印结合",
+      "tail": "题款",
+      "relation": "包含"
+    },
+    {
+      "head": "诗书画印结合",
+      "tail": "钤印",
+      "relation": "包含"
+    },
+    {
+      "head": "诗书画印结合",
+      "tail": "章法布局",
+      "relation": "包含"
+    },
+    {
+      "head": "笔墨纸砚",
+      "tail": "毛笔",
+      "relation": "组成"
+    },
+    {
+      "head": "笔墨纸砚",
+      "tail": "墨",
+      "relation": "组成"
+    },
+    {
+      "head": "笔墨纸砚",
+      "tail": "宣纸",
+      "relation": "组成"
+    },
+    {
+      "head": "笔墨纸砚",
+      "tail": "砚",
+      "relation": "组成"
+    },
+    {
+      "head": "工笔花鸟",
+      "tail": "起稿勾勒",
+      "relation": "步骤"
+    },
+    {
+      "head": "工笔花鸟",
+      "tail": "分染",
+      "relation": "步骤"
+    },
+    {
+      "head": "工笔花鸟",
+      "tail": "着色",
+      "relation": "步骤"
+    },
+    {
+      "head": "工笔花鸟",
+      "tail": "渲染罩色",
+      "relation": "步骤"
+    },
+    {
+      "head": "写意花鸟",
+      "tail": "托物言志",
+      "relation": "表现手法"
+    },
+    {
+      "head": "山水画",
+      "tail": "画石画山",
+      "relation": "技法"
+    },
+    {
+      "head": "山水画",
+      "tail": "画树",
+      "relation": "技法"
+    },
+    {
+      "head": "山水画",
+      "tail": "画水",
+      "relation": "技法"
+    },
+    {
+      "head": "山水画",
+      "tail": "山水意境",
+      "relation": "追求"
+    },
+    {
+      "head": "篆刻",
+      "tail": "朱文",
+      "relation": "形式"
+    },
+    {
+      "head": "篆刻",
+      "tail": "白文",
+      "relation": "形式"
+    },
+    {
+      "head": "刀法",
+      "tail": "冲刀法",
+      "relation": "包含"
+    },
+    {
+      "head": "刀法",
+      "tail": "切刀法",
+      "relation": "包含"
+    },
+    {
+      "head": "章法",
+      "tail": "自然均衡",
+      "relation": "原则"
+    },
+    {
+      "head": "章法",
+      "tail": "大小相间",
+      "relation": "原则"
+    },
+    {
+      "head": "章法",
+      "tail": "穿插挪让",
+      "relation": "原则"
+    },
+    {
+      "head": "章法",
+      "tail": "边栏修饰",
+      "relation": "原则"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:10:02",
+    "version": "1.1"
+  }
+}

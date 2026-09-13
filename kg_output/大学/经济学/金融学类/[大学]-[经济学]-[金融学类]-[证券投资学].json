@@ -1,0 +1,1196 @@
+{
+  "knowledge_tree": {
+    "title": "证券投资学",
+    "content": "研究证券投资理论与方法的学问，涵盖证券、证券市场、投资收益与风险、资产组合理论、资本市场理论、效率市场、债券投资分析等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "证券",
+        "content": "用以表明各类财产所有权或债权的凭证或证书的统称",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "证券的概念及特征",
+            "content": "证券是用以表明各类财产所有权或债权的凭证或证书的统称",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "证券的定义",
+                "content": "证券上记载有一定的财产或权益内容，持有证券即可依据券面所载内容取得相应的权益",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "有价证券的本质",
+                "content": "代表资产所有权或债权的一种法律证书，即代表一种经济权利",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "有价证券的功能",
+                "content": "资本证券化、节省现金使用、控制货币供应量、资源配置等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "股票",
+            "content": "股份公司发给出资人的股份资本所有权书面凭证",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "股票的特征",
+                "content": "不返还性、风险性、流通性",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "股票的分类",
+                "content": "按是否记名、有无面值、股东权利等划分",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "股票的价值和价格",
+                "content": "票面价值、账面价值、市场价值、清算价值等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "股票的收益",
+                "content": "现金股利收益、资产增值、市价盈利等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "债券",
+            "content": "发行人出具的承诺按一定利率定期支付利息和到期偿还本金的债务凭证",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "债券的特征",
+                "content": "流动性、收益性、风险性、返还性",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "债券的分类",
+                "content": "按发行主体、偿还期限、利息支付方式等划分",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "债券的收益、价格和风险",
+                "content": "当期收益率、到期收益率、最终收益率等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "证券市场",
+        "content": "有价证券发行与交易的网络和体系",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "证券市场概述",
+            "content": "证券市场的概念、功能与作用、双刃性问题、现代特点",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "证券市场的概念",
+                "content": "证券市场是有价证券发行与交易的网络和体系",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "证券市场的功能与作用",
+                "content": "调配社会资金、促进企业经营合理化、自发调节经济等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "证券市场的双刃性问题",
+                "content": "股市动荡引起或加剧经济波动，助长投机活动",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "现代证券市场的特点",
+                "content": "筹资技术多样化、投资大众化和法人化、电脑化和现代化、国际化和自由化",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "证券发行市场",
+            "content": "发行、推销新的证券的市场",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "证券发行市场结构",
+                "content": "证券发行人、承销人、投资者",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "股票发行市场",
+                "content": "股票发行方式、程序、价格确定",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "债券发行市场",
+                "content": "债券发行条件、方式及程序、发行价格",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "证券交易市场",
+            "content": "已发行的有价证券交易与转让的市场",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "证券交易市场结构",
+                "content": "证券交易所市场、场外交易市场、第三市场、第四市场",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "证券商",
+                "content": "证券经纪商、证券自营商、自营经纪人等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "证券交易方式",
+                "content": "现货交易、期货交易、信用交易、期权交易等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "股票价格指数",
+            "content": "用以表示多种股票平均价格水平及其变动并衡量股市行情的指标",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "股票价格指数的作用",
+                "content": "衡量股市价格涨落，反映经济政治发展变化",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "股票价格指数的主要计算方法",
+                "content": "简单算术平均指数、修正简单算术平均指数、加权平均指数",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "世界上几种重要的股票价格指数",
+                "content": "道·琼斯指数、标准普尔指数、金融时报指数等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "中国的股票价格指数",
+                "content": "上海证券交易所指数、深圳证券交易所指数",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "证券投资收益与风险",
+        "content": "证券投资收益的衡量与风险来源分析",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "证券投资收益",
+            "content": "初始投资的价值增值，来源于现金支付和市场价格升值",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "收益的衡量",
+                "content": "持有期收益率（HPR）的计算",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "要求的收益率",
+                "content": "真实收益率、预期通货膨胀率和风险的补偿",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "多期收益的衡量",
+                "content": "算术平均数法、几何平均数法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "期望收益率",
+                "content": "各种情况下收益率的加权平均",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "投资组合的期望收益",
+                "content": "组成组合的各个证券的期望收益的加权平均",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "证券投资风险",
+            "content": "投资收益率的不确定性",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "风险的来源",
+                "content": "经营风险、财务风险、流动风险、违约风险等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "风险的衡量",
+                "content": "范围法、标准差法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "风险和收益的关系",
+                "content": "用变异系数衡量每单位期望收益的风险",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "投资者的效用函数",
+            "content": "投资者对各种不同投资方案的主观偏好指标",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "投资者效用",
+                "content": "投资者从投资中所得到的主观上的满足程度",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "三种形式的投资者效用函数",
+                "content": "凹性效用函数、凸性效用函数、线性效用函数",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "资产组合理论",
+        "content": "论述每项资产的风险和收益与其他资产的风险和收益间的相互关系，以及投资者应如何合理地选择自己的最佳投资组合",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "资产组合的收益与风险",
+            "content": "资产组合期望收益和方差的计算",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "资产组合的收益",
+                "content": "证券组合的期望收益率是单个证券期望收益率的加权平均数",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "资产组合的风险",
+                "content": "组合风险不仅依赖于单个证券的风险，而且依赖于证券之间的相互影响",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "资产组合的效率边界",
+            "content": "在相同风险情况下期望收益最大的组合，或在相同期望收益的情况下风险最低的组合",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "仅有风险资产时的效率边界",
+                "content": "马克威茨模型，效率边界是凹性的",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "有无风险资产时的效率边界",
+                "content": "托宾模型，效率边界是一条直线",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "效率边界与投资者的投资选择",
+                "content": "风险回避者的最佳组合一定位于效率边界上",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "投资组合的风险分散效应",
+            "content": "投资组合风险分散效应的大小与组合中资产的收益的相关程度有很大关系",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "完全正相关时的情况",
+                "content": "组合风险无法低于两者之间最小的",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "完全不相关时的情况",
+                "content": "可以降低风险",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "完全负相关时的情况",
+                "content": "组合风险可大大降低，甚至可以使风险降为零",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "由N项资产构成的组合的风险分散",
+                "content": "资产组合的风险将主要由资产间相互作用的结果决定",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "系统风险与非系统风险",
+                "content": "非系统风险可通过增加资产数目消除，系统风险无法消除",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "资产组合理论的局限",
+                "content": "应用存在局限，但对投资管理有重要启示",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "资本市场理论",
+        "content": "反映证券市场变化规律的证券投资理论",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "资本资产定价模型",
+            "content": "讨论在均衡的市场上，每一证券的风险与收益的关系",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "夏普与资本资产定价模型",
+                "content": "夏普等人建立了资本资产定价模型",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "资本市场线",
+                "content": "无风险资产与市场组合构成的新组合的收益与风险的关系",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "投资选择的分割定理",
+                "content": "投资者的投资决策分为两个阶段",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "证券市场线与资本资产定价模型",
+                "content": "单个资产的期望收益与其系统风险之间的线性关系",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "特征线与资本资产价格",
+                "content": "证券的超额收益是市场组合的超额收益与该证券系统风险的函数关系",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "因素模型与套利定价理论",
+            "content": "讨论证券的期望收益与风险之间的关系，但所用的假设和技术与CAPM不同",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "因素模型",
+                "content": "单因素模型、单指数模型、双因素模型、多因素模型",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "套利定价理论",
+                "content": "由Ross提出，APT也讨论了证券的期望收益与风险之间的关系",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "套利定价理论的推导",
+                "content": "基于无风险套利的思想",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "套利定价理论与资本资产定价模型的比较",
+                "content": "APT比CAPM的假设条件简单，CAPM可看作是APT的特例",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "套利定价理论在投资组合策略中的应用",
+                "content": "投资组合构建的决策、策略分析、实施",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "关于资产定价理论的实证研究",
+            "content": "对资本资产定价模型和套利定价理论的实证检验",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "对资本资产定价模型的实证研究",
+                "content": "用单个资产和资产组合对CAPM的检验，β值的稳定性，估计β值的新方法",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "对套利模型的实证研究",
+                "content": "Roll和Ross的实证结论，Fama和French的研究结论，Jegadeesh和Titman的研究结论",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "效率市场",
+        "content": "股票价格已经完全反映了所有的相关信息",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "效率市场假说",
+            "content": "股票价格已经完全反映了所有的相关信息",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "股票价格的随机游走与效率市场",
+                "content": "股票价格的变化完全是随机的",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "三种效率市场",
+                "content": "弱有效率市场、次强有效率市场、强有效率市场",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "竞争是市场效率的根源",
+                "content": "证券价格趋向于反映所有相关信息是市场竞争的结果",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "完善市场与效率市场",
+                "content": "有效率资本市场的要求比完善资本市场的要求宽松得多",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "关于效率市场假说的实证研究",
+            "content": "对效率市场假说的实证检验",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "效率市场假说面临的测试问题",
+                "content": "数量问题、选择偏差、小概率事件问题",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "弱有效率市场的检验",
+                "content": "自相关、操作试验、过滤法则和相对强度等检验",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "次强效率市场的检验",
+                "content": "事件研究，如拆股、购并、收益变化等",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "关于强效率市场的检验",
+                "content": "对内部人员的股票交易和专业投资机构的股票交易的盈利状况的检验",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "关于效率市场假说的另一些实证研究",
+                "content": "小公司现象与规模现象、期间效应、反向投资策略等",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "有效率资本市场的启示",
+            "content": "投资者和股份公司财务管理人员可以从市场效率研究中得到启示",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "市场没有记忆",
+                "content": "证券价格与其历史状况无关",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "相信市场价格",
+                "content": "在有效率市场上，人们可以相信市场价格的正确性",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "市场没有幻觉",
+                "content": "企业无法通过拆股、改换会计方式等手段欺骗投资者",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "股票价格的弹性大",
+                "content": "每一种股票都是一个拥有很多替代物的商品",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "不要越俎代庖",
+                "content": "投资者并不会为别人帮助他干了他自己能干的事情而支付报酬",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "寻找规律者自己消灭了规律",
+                "content": "市场有效率正是由那些认为市场无效率或效率不高的人的努力工作所促成的",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "行为金融",
+            "content": "对效率市场假说提出质疑的新理论解释",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "行为金融理论的提出",
+                "content": "经典现代金融理论的某些基本假设与投资者的实际投资决策行为不符",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "行为金融理论关于投资者决策行为特点的研究与讨论",
+                "content": "过分自信、非贝叶斯预测、回避损失和心理会计、减少后悔推卸责任",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "行为金融对某些市场无效率现象的解释",
+                "content": "对证券交易行为与主动性投资管理、反向投资策略、公司股票报酬之谜的解释",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "两个行为金融理论模型",
+                "content": "BSV模型、DHS模型",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "效率市场与行为金融模型的争论",
+                "content": "解释的普适性问题、实证研究结果的支持问题、坏模型问题",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "债券投资收益分析与债券合成",
+        "content": "债券投资收益率计算与债券组合策略",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "债券的特征",
+            "content": "偿还期、面值、票面利率、内含选择权",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "偿还期",
+                "content": "债券通常都有一个固定的到期日",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "面值",
+                "content": "面值与债券到期日的价值是一致的",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "票面利率",
+                "content": "票面利率与付息频率、零息债券、浮动利率与逆浮动利率",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "内含选择权",
+                "content": "赋予发行者的选择权和赋予投资者的选择权",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "到期收益率与到期收益率曲线",
+            "content": "债券到期收益率计算与利率期限结构",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "到期收益率",
+                "content": "一般债券的到期收益率、约当收益率、年实际收益率",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "到期收益率的缺陷分析",
+                "content": "到期收益率的四个假定及其分析",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "到期收益率曲线",
+                "content": "利率期限结构的作用与构建",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "收益率溢价",
+                "content": "绝对利差与相对利差、市场间利差与市场内利差、税后收益率与等税收益率、静态利差",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "持有收益率与总收益分析",
+            "content": "债券投资在某一投资期内实现的收益率分析",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "持有收益率",
+                "content": "在某一投资期内实现的收益率",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "总收益分析",
+                "content": "利息收入、利息的利息、资本利得三个收益来源的分解",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "总收益的敏感性分析",
+                "content": "市场利率变化对总收益的影响",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "债券合成与套利",
+            "content": "用零息债券复制附息债券，寻找套利机会",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "零息债券的定义",
+                "content": "到期一次偿还本金和利息的债券",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "债券合成",
+                "content": "用零息债券复制附息债券，或者相反",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "债券投资",
+        "content": "固定收益证券的定价、风险与投资策略",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "债券定价基础",
+            "content": "债券价值计算的核心是现金流贴现，任何确定的现金流均可视为零息债券的组合",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "附息债券定价",
+                "content": "将附息债券分解为多个零息债券进行定价，公式为∑(CF_t / (1+r_t)^t)",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "零息债券复制",
+                "content": "通过附息债券组合可以合成零息债券，存在套利机会时可通过卖空高估债券、买入低估组合获利",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "年金证券与零息债券复制",
+                "content": "附息债券可分解为年金证券和零息债券，用于相对价值分析",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "债券风险与管理",
+            "content": "债券投资面临利率风险、违约风险等，主要通过久期和凸性进行度量与管理",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "久期",
+                "content": "衡量债券价格对利率变动的敏感性，包括金额久期、比率久期和修正久期",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "凸性",
+                "content": "衡量债券价格-收益率曲线的曲度，修正久期估计的误差",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "免疫策略",
+                "content": "通过匹配资产与负债的久期，使组合价值不受利率变动影响",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "避险策略",
+                "content": "利用流动性高的债券对冲流动性差的债券的价格风险",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "套利机会识别",
+            "content": "当债券市场价格与理论价值偏离时存在套利机会",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "套利定义",
+                "content": "利用定价不一致进行无风险获利，需满足价差存在和同时等额操作",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "套利实现方法",
+                "content": "购买低估债券，卖空复制其现金流的债券组合",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "股票投资",
+        "content": "权益证券的估值方法与投资分析",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "股票估值模型",
+            "content": "通过贴现未来现金流确定股票内在价值",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "股利贴现模型",
+                "content": "V0 = ∑(DIV_t / (1+k)^t)，其中k为要求回报率",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "固定增长模型",
+                "content": "戈登模型：V0 = DIV1 / (k-g)，适用于稳定增长公司",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "多阶段增长模型",
+                "content": "适用于不同增长阶段的公司，分段计算现值",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "基本面分析",
+            "content": "通过宏观经济、行业和公司分析评估股票价值",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "宏观经济因素",
+                "content": "经济周期、利率、通货膨胀等对股市的整体影响",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "行业分析",
+                "content": "行业生命周期、政策环境、竞争格局等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "公司分析",
+                "content": "财务状况、盈利能力、管理层素质等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "技术分析",
+            "content": "通过价格和成交量数据预测未来走势",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "道氏理论",
+                "content": "市场存在主要、次要和日常三种趋势，通过股价平均数互证判断走势",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "K线图分析",
+                "content": "通过蜡烛图形态识别市场情绪和转折点",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "移动平均线",
+                "content": "通过不同期限均线关系判断趋势和买卖点",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "衍生品投资",
+        "content": "期货、期权等衍生金融产品的定价与交易策略",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "期货",
+            "content": "标准化合约，约定未来特定时间以特定价格交割资产",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "期货定价",
+                "content": "无套利定价原理，F0 = S0 * e^(rT) 或考虑持有成本",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "套期保值",
+                "content": "利用期货对冲现货价格风险，通过套头比优化效果",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "期权",
+            "content": "赋予持有者在特定时间以特定价格买卖资产的权利",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "期权定价",
+                "content": "Black-Scholes模型：C = S*N(d1) - K*e^(-rT)*N(d2)",
+                "difficulty": "5",
+                "children": []
+              },
+              {
+                "title": "交易策略",
+                "content": "包括保护性看跌期权、备兑认购期权、价差组合等",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "投资基金",
+        "content": "集合投资工具的管理与业绩评估",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "基金类型",
+            "content": "按组织形式分为公司型与契约型，按运作方式分为开放型与封闭型",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "业绩评估",
+            "content": "通过夏普比率、特雷诺比率、詹森指数等风险调整后收益指标评估",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "证券",
+      "tail": "有价证券",
+      "relation": "包含"
+    },
+    {
+      "head": "股票",
+      "tail": "普通股",
+      "relation": "包含"
+    },
+    {
+      "head": "债券",
+      "tail": "公司债券",
+      "relation": "包含"
+    },
+    {
+      "head": "证券市场",
+      "tail": "证券发行市场",
+      "relation": "包含"
+    },
+    {
+      "head": "证券市场",
+      "tail": "证券交易市场",
+      "relation": "包含"
+    },
+    {
+      "head": "股票价格指数",
+      "tail": "道·琼斯指数",
+      "relation": "包含"
+    },
+    {
+      "head": "证券投资收益",
+      "tail": "持有期收益率",
+      "relation": "衡量指标"
+    },
+    {
+      "head": "证券投资风险",
+      "tail": "标准差",
+      "relation": "衡量方法"
+    },
+    {
+      "head": "资产组合理论",
+      "tail": "马克威茨模型",
+      "relation": "基于"
+    },
+    {
+      "head": "资产组合",
+      "tail": "效率边界",
+      "relation": "具有"
+    },
+    {
+      "head": "资本资产定价模型",
+      "tail": "证券市场线",
+      "relation": "推导出"
+    },
+    {
+      "head": "套利定价理论",
+      "tail": "因素模型",
+      "relation": "基于"
+    },
+    {
+      "head": "效率市场假说",
+      "tail": "随机游走",
+      "relation": "表现为"
+    },
+    {
+      "head": "行为金融",
+      "tail": "投资者决策行为",
+      "relation": "研究"
+    },
+    {
+      "head": "债券",
+      "tail": "到期收益率",
+      "relation": "具有"
+    },
+    {
+      "head": "到期收益率曲线",
+      "tail": "利率期限结构",
+      "relation": "表示"
+    },
+    {
+      "head": "债券合成",
+      "tail": "零息债券",
+      "relation": "利用"
+    },
+    {
+      "head": "股票",
+      "tail": "市盈率",
+      "relation": "具有"
+    },
+    {
+      "head": "债券",
+      "tail": "票面利率",
+      "relation": "具有"
+    },
+    {
+      "head": "投资组合",
+      "tail": "风险分散",
+      "relation": "实现"
+    },
+    {
+      "head": "资本市场线",
+      "tail": "无风险资产",
+      "relation": "包含"
+    },
+    {
+      "head": "特征线",
+      "tail": "资本资产定价模型",
+      "relation": "衍生自"
+    },
+    {
+      "head": "效率市场",
+      "tail": "行为金融",
+      "relation": "受到挑战"
+    },
+    {
+      "head": "持有收益率",
+      "tail": "总收益分析",
+      "relation": "用于"
+    },
+    {
+      "head": "到期收益率",
+      "tail": "再投资风险",
+      "relation": "忽略"
+    },
+    {
+      "head": "套利定价理论",
+      "tail": "资本资产定价模型",
+      "relation": "替代"
+    },
+    {
+      "head": "附息债券",
+      "tail": "零息债券",
+      "relation": "可分解为"
+    },
+    {
+      "head": "久期",
+      "tail": "利率风险",
+      "relation": "用于度量"
+    },
+    {
+      "head": "凸性",
+      "tail": "久期",
+      "relation": "修正估计误差"
+    },
+    {
+      "head": "免疫策略",
+      "tail": "久期",
+      "relation": "基于匹配"
+    },
+    {
+      "head": "套利",
+      "tail": "定价不一致",
+      "relation": "利用"
+    },
+    {
+      "head": "股利贴现模型",
+      "tail": "现金流贴现",
+      "relation": "应用"
+    },
+    {
+      "head": "戈登模型",
+      "tail": "股利贴现模型",
+      "relation": "是特例"
+    },
+    {
+      "head": "基本面分析",
+      "tail": "股票估值",
+      "relation": "支持"
+    },
+    {
+      "head": "技术分析",
+      "tail": "市场行为",
+      "relation": "基于"
+    },
+    {
+      "head": "Black-Scholes模型",
+      "tail": "期权定价",
+      "relation": "用于"
+    },
+    {
+      "head": "期货定价",
+      "tail": "无套利原理",
+      "relation": "基于"
+    },
+    {
+      "head": "套期保值",
+      "tail": "期货",
+      "relation": "应用"
+    },
+    {
+      "head": "投资基金",
+      "tail": "分散投资",
+      "relation": "实现"
+    }
+  ],
+  "metadata": {
+    "chunks_merged": 2,
+    "generated_at": "2025-11-18 19:48:35",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,1771 @@
+{
+  "knowledge_tree": {
+    "title": "中药药理学",
+    "content": "研究中药与机体相互作用及作用规律的桥梁学科，涵盖中药药性、配伍、药效、药动、毒理及中成药等理论体系与实验技术。",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "第一章 绪论",
+        "content": "中药药理学的基本概念、学科特征、主要任务及现代研究发展历程。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "中药药理学定义",
+            "content": "在中医药理论指导下，应用现代科学技术研究中药与机体相互作用及作用规律的科学（PTCM）。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "研究内容",
+            "content": "中药药效学、中药药动学、中药毒理学三大板块。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "学科特征",
+            "content": "与中医药理论紧密结合；研究对象多样；作用多靶点、多环节、整合调节。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "主要任务",
+            "content": "阐明中药作用机制、物质基础；提高临床疗效；评价安全性；发现创新中药；推动中药现代化。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第二章 中药药性",
+        "content": "四气、五味、归经、升降浮沉等药性理论及其现代研究。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "四气",
+            "content": "寒、热、温、凉四种药性，反映中药影响人体阴阳盛衰的作用趋势。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "四气与中枢神经系统",
+                "content": "寒凉药多抑制，温热药多兴奋；可改变脑内神经递质水平。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "四气与能量代谢",
+                "content": "温热药增强能量代谢，寒凉药抑制；与Na+-K+-ATP酶活性相关。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "五味",
+            "content": "辛、甘、酸、苦、咸，与化学成分及功效对应。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "辛味药",
+                "content": "多含挥发油，具发散、行气、活血作用。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "苦味药",
+                "content": "多含生物碱、苷类，具清热、泻火、燥湿作用。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "归经",
+            "content": "药物对脏腑经络的选择性作用，与有效成分分布、受体学说等相关。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "升降浮沉",
+            "content": "药物作用的趋向性，与性味、质地、炮制、配伍有关。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第三章 中药配伍",
+        "content": "七情配伍、配伍层次、配伍比例及现代配伍机制研究。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "七情配伍",
+            "content": "单行、相须、相使、相畏、相杀、相恶、相反七种关系。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "配伍层次",
+            "content": "药队配伍、饮片配伍、组分配伍、成分配伍四个层次。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "配伍比例",
+            "content": "剂量比例决定药效方向，如左金丸（黄连:吴茱萸=6:1）与反左金丸（1:6）寒热属性相反。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第四章 中药药效学",
+        "content": "中药作用特点、影响因素及研究方法。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "基本作用",
+            "content": "扶正、祛邪、调节（单向/双向）。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "作用特点",
+            "content": "多样性、选择性、复杂性、非线性、双向性。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "研究方法",
+            "content": "中医证候模型、病证结合模型、含药血清/脑脊液法、网络药理学、高通量筛选等。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第五章 中药药动学",
+        "content": "中药体内过程、时量-时效关系及研究方法。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "体内过程",
+            "content": "跨膜转运、吸收、分布、代谢、排泄；受复方配伍、证候状态影响。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "研究方法",
+            "content": "血药浓度法、生物效应法、PK-PD结合模型、微透析、Caco-2细胞模型等。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第六章 中药毒理学",
+        "content": "毒性分级、毒作用机制及安全性评价。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "毒性分级",
+            "content": "大毒、有毒、小毒三级；含乌头碱、马兜铃酸、重金属等毒性成分。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "毒性控制",
+            "content": "依法炮制、对证用药、合理配伍、掌握煎服方法。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第七章 中成药学",
+        "content": "中成药组方原理、剂型特点及研究方法。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "组方协同",
+            "content": "君臣佐使配伍，多成分、多靶点整合调节。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "剂型特点",
+            "content": "传统丸散膏丹与现代缓控释、滴丸、软胶囊等剂型，影响药动学与疗效。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "各论 常用方药",
+        "content": "按功效分类介绍常用药、配伍、方剂及成药。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "解表方药",
+            "content": "麻黄、桂枝、柴胡、葛根等；麻黄汤、桑菊饮；九味羌活丸。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "清热方药",
+            "content": "黄连、黄芩、金银花、连翘等；白虎汤、黄连解毒汤；牛黄解毒片。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "泻下方药",
+            "content": "大黄、芒硝、火麻仁等；大承气汤；麻仁丸。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "祛风湿方药",
+            "content": "秦艽、独活、川乌、雷公藤等；独活寄生汤；风湿骨痛胶囊。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "芳香化湿方药",
+            "content": "广藿香、苍术、厚朴、砂仁等；平胃散；藿香正气水。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "利水渗湿方药",
+            "content": "茯苓、泽泻、茵陈、金钱草等；五苓散、茵陈蒿汤。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第一章 绪论",
+        "content": "中药药理学的研究内容、任务与发展简史",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "中药药理学定义",
+            "content": "研究中药与机体相互作用及其规律的科学",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "研究任务",
+            "content": "阐明作用机制、指导临床用药、发现新药",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第二章 中药药性理论",
+        "content": "四气五味、升降浮沉、归经、毒性等药性学说",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "四气",
+            "content": "寒、热、温、凉四种药性",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "寒凉药作用",
+                "content": "清热、泻火、解毒、凉血",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "温热药作用",
+                "content": "温里、散寒、助阳、通络",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "五味",
+            "content": "辛、甘、酸、苦、咸五种味道",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "辛味功效",
+                "content": "发散、行气、行血",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "苦味功效",
+                "content": "清热、泻火、燥湿、降逆",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三章 中药配伍与禁忌",
+        "content": "七情配伍、十八反、十九畏等配伍理论",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "七情配伍",
+            "content": "单行、相须、相使、相畏、相杀、相恶、相反",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "相须",
+                "content": "功效相似药物合用增强疗效",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "相反",
+                "content": "合用产生毒性或降低疗效",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "十八反",
+            "content": "甘草反甘遂、大戟、芫花、海藻等配伍禁忌",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第四章 中药药效学",
+        "content": "中药作用的基本规律与影响因素",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "作用特点",
+            "content": "多成分、多靶点、多环节、整体调节",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "量效关系",
+            "content": "剂量与效应之间的规律",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "时效关系",
+                "content": "时间-效应关系曲线",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "影响因素",
+            "content": "药物、机体、环境三方面因素",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第五章 中药药动学",
+        "content": "中药体内过程与血药浓度变化规律",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "体内过程",
+            "content": "吸收、分布、代谢、排泄",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "吸收",
+                "content": "跨膜转运方式与影响因素",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "代谢",
+                "content": "肝脏代谢与肠道菌群转化",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "血药浓度",
+            "content": "多成分整合药动学参数",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第六章 中药毒理学",
+        "content": "中药毒性类型、机制与安全性评价",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "毒性类型",
+            "content": "急性、亚急性、慢性、特殊毒性",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "毒性机制",
+            "content": "靶器官损伤与分子机制",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "安全性评价",
+            "content": "GLP规范与毒理学试验方法",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第七章 解表方药",
+        "content": "发汗解表类中药药理作用与机制",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "麻黄",
+            "content": "发汗、平喘、利尿、升压作用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "发汗机制",
+                "content": "兴奋α受体促进汗腺分泌",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "平喘成分",
+                "content": "麻黄碱、伪麻黄碱",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "桂枝",
+            "content": "解热、镇痛、抗炎、抗过敏",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "解热机制",
+                "content": "抑制下丘脑PGE2合成",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "柴胡",
+            "content": "解热、抗炎、保肝、利胆",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "解热成分",
+                "content": "柴胡皂苷、挥发油",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第八章 清热方药",
+        "content": "清热解毒类中药药理作用与机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "黄芩",
+            "content": "抗菌、抗病毒、抗炎、保肝",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "抗菌谱",
+                "content": "对金黄色葡萄球菌、痢疾杆菌有效",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "保肝机制",
+                "content": "抑制脂质过氧化与炎症因子",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "黄连",
+            "content": "抗菌、抗毒素、降血糖",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "小檗碱作用",
+                "content": "抑制细菌DNA合成",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "金银花",
+            "content": "抗菌、抗病毒、解热、抗炎",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "绿原酸功效",
+                "content": "抗氧化与免疫调节",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第九章 泻下方药",
+        "content": "通便逐水类中药药理作用与机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "大黄",
+            "content": "泻下、利胆、止血、抗菌",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "泻下成分",
+                "content": "蒽醌苷类刺激肠蠕动",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "止血机制",
+                "content": "促进血小板聚集与血管收缩",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "芒硝",
+            "content": "容积性泻药与软坚散结",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "泻下机制",
+                "content": "Na2SO4形成高渗溶液",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十章 祛风湿方药",
+        "content": "抗炎镇痛类中药药理作用与机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "秦艽",
+            "content": "抗炎、镇痛、保肝、利胆",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "抗炎成分",
+                "content": "秦艽碱甲抑制PGE2合成",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "防己",
+            "content": "镇痛、抗炎、降压、抗心律失常",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "镇痛机制",
+                "content": "抑制中枢与外周疼痛介质",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十一章 化湿方药",
+        "content": "芳香化湿类中药药理作用与机制",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "苍术",
+            "content": "调节胃肠运动、抗溃疡、保肝",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "胃肠调节",
+                "content": "双向调节平滑肌运动",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "厚朴",
+            "content": "抗菌、抗炎、镇痛、肌松",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "肌松成分",
+                "content": "厚朴酚、和厚朴酚",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十二章 利水渗湿方药",
+        "content": "利尿通淋类中药药理作用与机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "茯苓",
+            "content": "利尿、免疫调节、镇静、抗肿瘤",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "利尿机制",
+                "content": "抑制肾小管Na+重吸收",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "泽泻",
+            "content": "利尿、降血脂、抗脂肪肝",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "降血脂成分",
+                "content": "泽泻醇A、B",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十三章 温里方药",
+        "content": "温里祛寒类中药药理作用与机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "附子",
+            "content": "强心、抗休克、抗炎、镇痛",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "强心成分",
+                "content": "去甲乌药碱（DMC）",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "作用机制",
+                    "content": "β受体部分激动剂",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "毒性成分",
+                "content": "乌头碱类双酯型生物碱",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "中毒表现",
+                    "content": "心律失常、神经麻痹",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "干姜",
+            "content": "促进消化、止吐、抗炎、强心",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "止吐机制",
+                "content": "抑制中枢与外周催吐化学感受区",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "肉桂",
+            "content": "扩张血管、抗血小板、抗炎",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "扩血管成分",
+                "content": "桂皮醛",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十四章 理气方药",
+        "content": "行气止痛类中药药理作用与机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "枳实",
+            "content": "调节胃肠、兴奋子宫、升压",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "升压成分",
+                "content": "对羟福林、N-甲基酪胺",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "陈皮",
+            "content": "祛痰、平喘、利胆、抗溃疡",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "祛痰机制",
+                "content": "刺激胃黏膜反射性增加支气管分泌",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "木香",
+            "content": "调节胃肠、利胆、解痉",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "解痉成分",
+                "content": "木香内酯、去氢木香内酯",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十五章 消食方药",
+        "content": "消食导滞类中药药理作用与机制",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "山楂",
+            "content": "助消化、降血脂、抗氧化",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "助消化成分",
+                "content": "脂肪酶、有机酸",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "降血脂机制",
+                "content": "抑制HMG-CoA还原酶",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "鸡内金",
+            "content": "促进消化酶分泌、增强胃肠运动",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "有效成分",
+                "content": "胃激素、胃蛋白酶",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十六章 止血方药",
+        "content": "收敛止血类中药药理作用与机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "三七",
+            "content": "止血、抗血栓、抗炎、镇痛",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "止血机制",
+                "content": "收缩血管、促进血小板聚集",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "抗血栓成分",
+                "content": "三七皂苷Rg1",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "白及",
+            "content": "收敛止血、促进创面愈合",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "止血机制",
+                "content": "增强血小板因子Ⅲ活性",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十七章 活血化瘀方药",
+        "content": "活血祛瘀类中药药理作用与机制",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "丹参",
+            "content": "抗心肌缺血、抗血栓、改善微循环",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "有效成分",
+                "content": "丹参酮ⅡA、丹酚酸B",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "抗心肌缺血机制",
+                    "content": "抗氧化、抑制钙超载",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "川芎",
+            "content": "扩张血管、抗血小板、镇痛",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "有效成分",
+                "content": "川芎嗪、阿魏酸",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "延胡索",
+            "content": "镇痛、镇静、抗心律失常",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "镇痛成分",
+                "content": "延胡索乙素（左旋四氢巴马汀）",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "作用机制",
+                    "content": "阻断多巴胺D1受体",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十八章 化痰止咳平喘方药",
+        "content": "化痰止咳类中药药理作用与机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "半夏",
+            "content": "镇咳、镇吐、抗肿瘤",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "镇咳机制",
+                "content": "抑制咳嗽中枢",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "毒性成分",
+                "content": "草酸钙针晶刺激黏膜",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "桔梗",
+            "content": "祛痰、镇咳、抗炎",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "祛痰机制",
+                "content": "皂苷刺激胃黏膜反射性分泌",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "苦杏仁",
+            "content": "镇咳平喘、润肠通便",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "镇咳成分",
+                "content": "苦杏仁苷水解产生氢氰酸",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "毒性表现",
+                    "content": "呼吸抑制、惊厥",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第十九章 安神方药",
+        "content": "宁心安神类中药药理作用与机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "酸枣仁",
+            "content": "镇静催眠、抗焦虑、增强记忆",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "有效成分",
+                "content": "酸枣仁皂苷A、B",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "作用机制",
+                "content": "调节GABA受体与5-HT系统",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "朱砂",
+            "content": "镇静安神、抗心律失常",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "毒性成分",
+                "content": "硫化汞（HgS）",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "中毒表现",
+                    "content": "汞中毒致肾脑损害",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二十章 平肝息风方药",
+        "content": "平肝潜阳类中药药理作用与机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "天麻",
+            "content": "镇静、抗惊厥、降压、神经保护",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "有效成分",
+                "content": "天麻素、天麻苷元",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "作用机制",
+                    "content": "与苯二氮䓬受体结合",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "钩藤",
+            "content": "降压、镇静、抗血小板聚集",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "降压成分",
+                "content": "钩藤碱、异钩藤碱",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "牛黄",
+            "content": "镇静、抗惊厥、解热、抗炎",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "有效成分",
+                "content": "胆红素、牛磺酸",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二十一章 开窍方药",
+        "content": "开窍醒神类中药药理作用与机制",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "麝香",
+            "content": "双向调节中枢、抗脑缺血、兴奋子宫",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "有效成分",
+                "content": "麝香酮",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "中枢作用",
+                    "content": "兴奋或抑制取决于机能状态",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "冰片",
+            "content": "增加血脑屏障通透性、抗炎、镇痛",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "作用机制",
+                "content": "可逆性开放紧密连接",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "石菖蒲",
+            "content": "镇静、抗惊厥、改善学习记忆",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "有效成分",
+                "content": "β-细辛醚、α-细辛醚",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二十二章 补虚方药",
+        "content": "补益气血阴阳类中药药理作用与机制",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "人参",
+            "content": "增强免疫、抗应激、改善记忆、强心",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "有效成分",
+                "content": "人参皂苷Rb1、Rg1",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "记忆增强机制",
+                    "content": "促进胆碱能系统功能",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "黄芪",
+            "content": "增强免疫、促进造血、抗应激、抗氧化",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "有效成分",
+                "content": "黄芪多糖、黄芪甲苷",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "当归",
+            "content": "促进造血、抗血栓、调节子宫",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "有效成分",
+                "content": "阿魏酸、当归多糖",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "淫羊藿",
+            "content": "增强性腺功能、抗骨质疏松、免疫调节",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "有效成分",
+                "content": "淫羊藿苷、淫羊藿多糖",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二十三章 收涩方药",
+        "content": "收敛固涩类中药药理作用与机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "五味子",
+            "content": "保肝、镇静、抗氧化、降血糖",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "保肝机制",
+                "content": "诱导CytP450酶、抗氧化",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "山茱萸",
+            "content": "降血糖、抗休克、调节免疫",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "降血糖成分",
+                "content": "熊果酸、齐墩果酸",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "肉豆蔻",
+            "content": "止泻、抗炎、中枢抑制",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "止泻机制",
+                "content": "抑制小肠蠕动与M受体",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二十四章 攻毒杀虫止痒方药",
+        "content": "解毒杀虫类中药药理作用与机制",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "雄黄",
+            "content": "抗菌、抗血吸虫、抗肿瘤",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "毒性成分",
+                "content": "As2S2（二硫化二砷）",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "中毒机制",
+                    "content": "砷与巯基酶结合致细胞窒息",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "蛇床子",
+            "content": "抗病原微生物、抗炎、止痒、性激素样",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "有效成分",
+                "content": "蛇床子素、花椒毒酚",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "川楝子",
+            "content": "驱虫、抗菌、兴奋平滑肌",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "驱虫成分",
+                "content": "川楝素",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "砒石",
+            "content": "腐蚀、抗肿瘤、平喘",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "毒性成分",
+                "content": "As2O3（三氧化二砷）",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "洁尔阴洗液",
+            "content": "抗病原微生物、抗炎、止痒",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "主要成分",
+                "content": "蛇床子、苦参、黄柏",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二十五章 中药药理动物模型",
+        "content": "证候与病证结合动物模型建立与评价",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "模型分类",
+            "content": "疾病模型、证候模型、病证结合模型",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "设计原则",
+            "content": "相似性、标准化、重复性、经济性",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "常用模型",
+            "content": "脾虚、肾虚、血瘀、血虚等证候模型",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "脾虚模型",
+                "content": "苦寒泻下法、饮食失节法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "肾虚模型",
+                "content": "糖皮质激素法、腺嘌呤法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "血瘀模型",
+                "content": "高分子右旋糖酐法、寒凝法",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二十六章 中药血清药理学与脑脊液药理学",
+        "content": "含药血清/脑脊液体外实验方法学",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "血清药理学",
+            "content": "含药血清制备与体外药效评价",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "给药方案",
+                "content": "每日2次×3天，末次1h采血",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "血清处理",
+                "content": "56℃灭活30min，-20℃保存",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "脑脊液药理学",
+            "content": "含药脑脊液用于中枢药效研究",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "采血时间",
+                "content": "末次给药后40min-3h",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "优势",
+                "content": "排除血脑屏障干扰，真实反映中枢作用",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二十七章 中药新药药理研究",
+        "content": "新药有效性评价与实验设计",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "试验设计原则",
+            "content": "随机、对照、重复、盲法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "剂量设计",
+            "content": "临床等效剂量=人用量×动物系数×稀释度",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "对照设置",
+            "content": "正常、模型、阳性药对照",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "新药分类",
+            "content": "9类注册分类与药效学要求",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第二十八章 新技术在中药药理研究中的应用",
+        "content": "现代技术推动中药药理研究方法学进步",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "组学技术",
+            "content": "基因组、转录组、蛋白组、代谢组",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "代谢组学",
+                "content": "UPLC-QTOF-MS分析内源性代谢物",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "成像技术",
+            "content": "激光共聚焦、高内涵、小动物活体成像",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "激光共聚焦",
+                "content": "荧光断层扫描与三维重建",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "高内涵筛选",
+                "content": "多参数自动化细胞成像分析",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电生理技术",
+            "content": "膜片钳、微电极阵列",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "膜片钳",
+                "content": "记录单离子通道电流的金标准",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "无线遥测技术",
+            "content": "清醒动物生理信号连续监测",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "中药药理学",
+      "tail": "中药药效学",
+      "relation": "包含"
+    },
+    {
+      "head": "中药药理学",
+      "tail": "中药药动学",
+      "relation": "包含"
+    },
+    {
+      "head": "中药药理学",
+      "tail": "中药毒理学",
+      "relation": "包含"
+    },
+    {
+      "head": "四气",
+      "tail": "中枢神经系统功能",
+      "relation": "影响"
+    },
+    {
+      "head": "四气",
+      "tail": "能量代谢",
+      "relation": "调节"
+    },
+    {
+      "head": "五味",
+      "tail": "化学成分",
+      "relation": "对应"
+    },
+    {
+      "head": "归经",
+      "tail": "有效成分分布",
+      "relation": "相关"
+    },
+    {
+      "head": "升降浮沉",
+      "tail": "炮制、配伍",
+      "relation": "受...影响"
+    },
+    {
+      "head": "七情配伍",
+      "tail": "相须、相使、相畏、相杀、相恶、相反",
+      "relation": "分为"
+    },
+    {
+      "head": "配伍比例",
+      "tail": "药效方向",
+      "relation": "决定"
+    },
+    {
+      "head": "中药药效学",
+      "tail": "中医证候模型",
+      "relation": "采用"
+    },
+    {
+      "head": "中药药动学",
+      "tail": "PK-PD结合模型",
+      "relation": "应用"
+    },
+    {
+      "head": "中药毒理学",
+      "tail": "毒性分级",
+      "relation": "进行"
+    },
+    {
+      "head": "中成药",
+      "tail": "君臣佐使",
+      "relation": "遵循"
+    },
+    {
+      "head": "麻黄",
+      "tail": "发汗、平喘、利尿",
+      "relation": "具有"
+    },
+    {
+      "head": "黄连",
+      "tail": "小檗碱",
+      "relation": "含主要活性成分"
+    },
+    {
+      "head": "大黄",
+      "tail": "蒽醌类",
+      "relation": "含泻下成分"
+    },
+    {
+      "head": "川乌",
+      "tail": "乌头碱",
+      "relation": "含毒性成分"
+    },
+    {
+      "head": "茯苓",
+      "tail": "茯苓多糖",
+      "relation": "含免疫增强成分"
+    },
+    {
+      "head": "泽泻",
+      "tail": "泽泻醇A",
+      "relation": "含利尿成分"
+    },
+    {
+      "head": "茵陈",
+      "tail": "6,7-二甲氧基香豆素",
+      "relation": "含利胆成分"
+    },
+    {
+      "head": "藿香正气水",
+      "tail": "胃肠运动",
+      "relation": "双向调节"
+    },
+    {
+      "head": "四气",
+      "relation": "包含",
+      "tail": "寒凉药"
+    },
+    {
+      "head": "四气",
+      "relation": "包含",
+      "tail": "温热药"
+    },
+    {
+      "head": "五味",
+      "relation": "包含",
+      "tail": "辛味"
+    },
+    {
+      "head": "五味",
+      "relation": "包含",
+      "tail": "苦味"
+    },
+    {
+      "head": "七情配伍",
+      "relation": "包含",
+      "tail": "相须"
+    },
+    {
+      "head": "七情配伍",
+      "relation": "包含",
+      "tail": "相反"
+    },
+    {
+      "head": "附子",
+      "relation": "含有",
+      "tail": "去甲乌药碱"
+    },
+    {
+      "head": "附子",
+      "relation": "含有",
+      "tail": "乌头碱"
+    },
+    {
+      "head": "去甲乌药碱",
+      "relation": "作用于",
+      "tail": "β受体"
+    },
+    {
+      "head": "乌头碱",
+      "relation": "导致",
+      "tail": "心律失常"
+    },
+    {
+      "head": "大黄",
+      "relation": "含有",
+      "tail": "蒽醌苷类"
+    },
+    {
+      "head": "蒽醌苷类",
+      "relation": "刺激",
+      "tail": "肠蠕动"
+    },
+    {
+      "head": "苦杏仁苷",
+      "relation": "水解产生",
+      "tail": "氢氰酸"
+    },
+    {
+      "head": "氢氰酸",
+      "relation": "抑制",
+      "tail": "呼吸中枢"
+    },
+    {
+      "head": "天麻素",
+      "relation": "作用于",
+      "tail": "苯二氮䓬受体"
+    },
+    {
+      "head": "麝香酮",
+      "relation": "双向调节",
+      "tail": "中枢神经系统"
+    },
+    {
+      "head": "人参皂苷Rb1",
+      "relation": "促进",
+      "tail": "胆碱能系统"
+    },
+    {
+      "head": "黄芪多糖",
+      "relation": "增强",
+      "tail": "免疫功能"
+    },
+    {
+      "head": "丹参酮ⅡA",
+      "relation": "抑制",
+      "tail": "脂质过氧化"
+    },
+    {
+      "head": "延胡索乙素",
+      "relation": "阻断",
+      "tail": "多巴胺D1受体"
+    },
+    {
+      "head": "五味子醇甲",
+      "relation": "诱导",
+      "tail": "肝药酶CytP450"
+    },
+    {
+      "head": "蛇床子素",
+      "relation": "抑制",
+      "tail": "真菌细胞膜合成"
+    },
+    {
+      "head": "川楝素",
+      "relation": "兴奋",
+      "tail": "蛔虫肌肉ATP分解"
+    },
+    {
+      "head": "雄黄",
+      "relation": "主要含",
+      "tail": "As2S2"
+    },
+    {
+      "head": "As2S2",
+      "relation": "具有",
+      "tail": "抗肿瘤活性"
+    },
+    {
+      "head": "代谢组学",
+      "relation": "采用",
+      "tail": "UPLC-QTOF-MS"
+    },
+    {
+      "head": "激光共聚焦",
+      "relation": "实现",
+      "tail": "三维荧光成像"
+    },
+    {
+      "head": "膜片钳",
+      "relation": "记录",
+      "tail": "单离子通道电流"
+    },
+    {
+      "head": "血清药理学",
+      "relation": "采用",
+      "tail": "含药血清体外实验"
+    },
+    {
+      "head": "脑脊液药理学",
+      "relation": "排除",
+      "tail": "血脑屏障干扰"
+    }
+  ],
+  "metadata": {
+    "chunks_merged": 2,
+    "generated_at": "2025-11-18 22:02:12",
+    "version": "1.1"
+  }
+}

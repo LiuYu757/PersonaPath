@@ -1,0 +1,1208 @@
+{
+  "student_id": "712",
+  "target_major": "中医学类",
+  "archetype": "Linear_Learner",
+  "current_grade_level": 11.0,
+  "textbook_layer": {
+    "mastered": [
+      "语文-小学-一年级上册",
+      "语文-小学-一年级下册",
+      "语文-小学-二年级上册",
+      "语文-小学-二年级下册",
+      "语文-小学-三年级上册",
+      "语文-小学-三年级下册",
+      "语文-小学-四年级上册",
+      "语文-小学-四年级下册",
+      "语文-小学-五年级上册",
+      "语文-小学-五年级下册",
+      "语文-小学-六年级上册",
+      "语文-小学-六年级下册",
+      "语文-七年级-上册",
+      "语文-七年级-下册",
+      "语文-初中-八年级上册",
+      "语文-初中-八年级下册",
+      "语文-初中-九年级上册",
+      "语文-初中-九年级下册",
+      "语文-高中-必修上册",
+      "生物-七年级-上册",
+      "生物-七年级-下册",
+      "生物-初中-八年级上册",
+      "生物-初中-八年级下册",
+      "生物-高中-分子与细胞",
+      "生物-高中-遗传与进化",
+      "生物-高中-稳态与调节",
+      "生物-高中-生物与环境",
+      "生物学-高中-生物技术与工程",
+      "化学-初中-九年级上册",
+      "化学-九年级-下册",
+      "化学-高中-必修第一册",
+      "化学-高中-化学反应原理",
+      "化学-高中-物质结构与性质",
+      "化学-高中-有机化学基础"
+    ],
+    "learning": [
+      "语文-高中-必修下册",
+      "化学-高中-必修第二册"
+    ],
+    "not_mastered": [
+      "语文-高中-选择性必修上册",
+      "语文-高中-选择性必修中册",
+      "语文-高中-选择性必修下册",
+      "方剂学",
+      "针灸学",
+      "中医外科学"
+    ]
+  },
+  "knowledge_layer": [
+    {
+      "book_name": "语文-小学-一年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-一年级上册",
+        "children": [
+          {
+            "title": "入学教育",
+            "mastery": 0.4296
+          },
+          {
+            "title": "识字单元",
+            "mastery": 0.8637
+          },
+          {
+            "title": "汉语拼音",
+            "mastery": 0.7988
+          },
+          {
+            "title": "课文阅读",
+            "mastery": 0.7681
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-一年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-一年级下册",
+        "children": [
+          {
+            "title": "识字单元",
+            "mastery": 0.8877
+          },
+          {
+            "title": "阅读单元",
+            "mastery": 0.6818
+          },
+          {
+            "title": "语文综合应用",
+            "mastery": 0.9063
+          },
+          {
+            "title": "语文基础技能",
+            "mastery": 0.8712
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-二年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-二年级上册",
+        "children": [
+          {
+            "title": "阅读模块",
+            "mastery": 0.8435
+          },
+          {
+            "title": "识字模块",
+            "mastery": 0.6902
+          },
+          {
+            "title": "口语交际模块",
+            "mastery": 0.6955
+          },
+          {
+            "title": "写话模块",
+            "mastery": 0.9393
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-二年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-二年级下册",
+        "children": [
+          {
+            "title": "课文",
+            "mastery": 0.7667
+          },
+          {
+            "title": "识字",
+            "mastery": 0.8561
+          },
+          {
+            "title": "语文园地",
+            "mastery": 0.7723
+          },
+          {
+            "title": "口语交际",
+            "mastery": 0.9115
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-三年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-三年级上册",
+        "children": [
+          {
+            "title": "校园生活主题单元",
+            "mastery": 0.7734
+          },
+          {
+            "title": "金秋时节主题单元",
+            "mastery": 0.7958
+          },
+          {
+            "title": "写作能力训练",
+            "mastery": 0.9713
+          },
+          {
+            "title": "语言积累与运用",
+            "mastery": 0.947
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-三年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-三年级下册",
+        "children": [
+          {
+            "title": "可爱的生灵",
+            "mastery": 0.8412
+          },
+          {
+            "title": "寓言故事",
+            "mastery": 0.8194
+          },
+          {
+            "title": "观察与想象",
+            "mastery": 0.4737
+          },
+          {
+            "title": "传统文化",
+            "mastery": 0.9017
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-四年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-四年级上册",
+        "children": [
+          {
+            "title": "自然之美",
+            "mastery": 0.7163
+          },
+          {
+            "title": "提问策略",
+            "mastery": 0.8083
+          },
+          {
+            "title": "连续观察",
+            "mastery": 0.9438
+          },
+          {
+            "title": "神话故事",
+            "mastery": 0.8766
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-四年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-四年级下册",
+        "children": [
+          {
+            "title": "乡村生活主题",
+            "mastery": 0.9807
+          },
+          {
+            "title": "科技探索主题",
+            "mastery": 0.8254
+          },
+          {
+            "title": "现代诗歌主题",
+            "mastery": 0.6548
+          },
+          {
+            "title": "动物描写主题",
+            "mastery": 0.9955
+          },
+          {
+            "title": "童话故事主题",
+            "mastery": 0.8635
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-五年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-五年级上册",
+        "children": [
+          {
+            "title": "写景抒情单元",
+            "mastery": 0.8347
+          },
+          {
+            "title": "阅读方法单元",
+            "mastery": 0.8227
+          },
+          {
+            "title": "民间故事单元",
+            "mastery": 0.7693
+          },
+          {
+            "title": "爱国主题单元",
+            "mastery": 0.8242
+          },
+          {
+            "title": "说明文写作单元",
+            "mastery": 0.9122
+          },
+          {
+            "title": "亲情描写单元",
+            "mastery": 0.5868
+          },
+          {
+            "title": "景物描写单元",
+            "mastery": 0.7959
+          },
+          {
+            "title": "读书方法单元",
+            "mastery": 0.6285
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-五年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-五年级下册",
+        "children": [
+          {
+            "title": "童年往事单元",
+            "mastery": 0.9079
+          },
+          {
+            "title": "古典名著阅读",
+            "mastery": 0.7641
+          },
+          {
+            "title": "汉字文化学习",
+            "mastery": 0.7107
+          },
+          {
+            "title": "人物描写技巧",
+            "mastery": 0.9192
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-六年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-六年级上册",
+        "children": [
+          {
+            "title": "自然与想象单元",
+            "mastery": 0.5521
+          },
+          {
+            "title": "革命岁月单元",
+            "mastery": 0.7903
+          },
+          {
+            "title": "阅读策略单元",
+            "mastery": 0.9257
+          },
+          {
+            "title": "小说单元",
+            "mastery": 0.8636
+          },
+          {
+            "title": "习作单元",
+            "mastery": 0.5399
+          },
+          {
+            "title": "保护环境单元",
+            "mastery": 0.924
+          },
+          {
+            "title": "艺术之美单元",
+            "mastery": 0.8829
+          },
+          {
+            "title": "走近鲁迅单元",
+            "mastery": 0.8694
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-六年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-六年级下册",
+        "children": [
+          {
+            "title": "民风民俗",
+            "mastery": 0.869
+          },
+          {
+            "title": "外国文学名著",
+            "mastery": 0.9182
+          },
+          {
+            "title": "情感表达方法",
+            "mastery": 0.8811
+          },
+          {
+            "title": "革命精神传承",
+            "mastery": 0.8987
+          },
+          {
+            "title": "科学探索精神",
+            "mastery": 0.8552
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-七年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-七年级-上册",
+        "children": [
+          {
+            "title": "写景抒情单元",
+            "mastery": 0.8934
+          },
+          {
+            "title": "亲情主题单元",
+            "mastery": 0.7908
+          },
+          {
+            "title": "学习成长单元",
+            "mastery": 0.8582
+          },
+          {
+            "title": "修身养德单元",
+            "mastery": 0.6933
+          },
+          {
+            "title": "人动物关系单元",
+            "mastery": 0.7335
+          },
+          {
+            "title": "想象联想单元",
+            "mastery": 0.8472
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-七年级-下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-七年级-下册",
+        "children": [
+          {
+            "title": "杰出人物单元",
+            "mastery": 0.6734
+          },
+          {
+            "title": "家国情怀单元",
+            "mastery": 0.9918
+          },
+          {
+            "title": "阅读理解方法",
+            "mastery": 0.6411
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-八年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-八年级上册",
+        "children": [
+          {
+            "title": "新闻阅读与写作",
+            "mastery": 0.8515
+          },
+          {
+            "title": "回忆性散文与传记",
+            "mastery": 0.9551
+          },
+          {
+            "title": "古诗文鉴赏",
+            "mastery": 0.7563
+          },
+          {
+            "title": "散文阅读",
+            "mastery": 0.5921
+          },
+          {
+            "title": "说明文阅读",
+            "mastery": 0.674
+          },
+          {
+            "title": "古诗文深度阅读",
+            "mastery": 0.7615
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-八年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-八年级下册",
+        "children": [
+          {
+            "title": "民俗文化单元",
+            "mastery": 0.8028
+          },
+          {
+            "title": "科学事理单元",
+            "mastery": 0.4942
+          },
+          {
+            "title": "古诗文品析单元",
+            "mastery": 0.7804
+          },
+          {
+            "title": "活动探究单元",
+            "mastery": 0.6724
+          },
+          {
+            "title": "游记散文单元",
+            "mastery": 0.8515
+          },
+          {
+            "title": "古诗文鉴赏单元",
+            "mastery": 0.9208
+          },
+          {
+            "title": "语文能力训练模块",
+            "mastery": 0.6965
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-九年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-九年级上册",
+        "children": [
+          {
+            "title": "诗歌单元",
+            "mastery": 0.7708
+          },
+          {
+            "title": "议论性文章",
+            "mastery": 0.8226
+          },
+          {
+            "title": "文言诗文",
+            "mastery": 0.7571
+          },
+          {
+            "title": "小说阅读",
+            "mastery": 0.6793
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-九年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-九年级下册",
+        "children": [
+          {
+            "title": "诗歌鉴赏",
+            "mastery": 0.9015
+          },
+          {
+            "title": "小说阅读",
+            "mastery": 0.9017
+          },
+          {
+            "title": "文言文阅读",
+            "mastery": 0.5445
+          },
+          {
+            "title": "文艺鉴赏",
+            "mastery": 0.748
+          },
+          {
+            "title": "戏剧活动",
+            "mastery": 0.9613
+          },
+          {
+            "title": "写作与口语交际",
+            "mastery": 0.7868
+          },
+          {
+            "title": "名著导读",
+            "mastery": 0.7489
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-必修上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-高中-必修上册",
+        "children": [
+          {
+            "title": "青春主题文学",
+            "mastery": 0.9731
+          },
+          {
+            "title": "劳动价值文学",
+            "mastery": 0.7806
+          },
+          {
+            "title": "古诗词鉴赏",
+            "mastery": 0.9422
+          },
+          {
+            "title": "写景抒情散文",
+            "mastery": 0.8049
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物-七年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "生物-七年级-上册",
+        "children": [
+          {
+            "title": "认识生物",
+            "mastery": 0.5847
+          },
+          {
+            "title": "细胞的结构与功能",
+            "mastery": 0.7294
+          },
+          {
+            "title": "生物体的构成层次",
+            "mastery": 0.8229
+          },
+          {
+            "title": "生物圈中的绿色植物",
+            "mastery": 0.9681
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物-七年级-下册",
+      "status": "mastered",
+      "detail": {
+        "title": "生物-七年级-下册",
+        "children": [
+          {
+            "title": "植物的生活",
+            "mastery": 0.9548
+          },
+          {
+            "title": "人体生理与健康",
+            "mastery": 0.8415
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物-初中-八年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "生物-初中-八年级上册",
+        "children": [
+          {
+            "title": "人体生命活动的调节",
+            "mastery": 0.9587
+          },
+          {
+            "title": "健康生活与疾病预防",
+            "mastery": 0.9743
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物-初中-八年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "生物-初中-八年级下册",
+        "children": [
+          {
+            "title": "生物圈中生命的延续和发展",
+            "mastery": 0.7822
+          },
+          {
+            "title": "健康地生活",
+            "mastery": 0.8167
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物-高中-分子与细胞",
+      "status": "mastered",
+      "detail": {
+        "title": "生物-高中-分子与细胞",
+        "children": [
+          {
+            "title": "走近细胞",
+            "mastery": 0.8847
+          },
+          {
+            "title": "组成细胞的分子",
+            "mastery": 0.8036
+          },
+          {
+            "title": "细胞基本结构",
+            "mastery": 0.5635
+          },
+          {
+            "title": "细胞代谢调控",
+            "mastery": 0.7969
+          },
+          {
+            "title": "细胞生命历程",
+            "mastery": 0.9702
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物-高中-遗传与进化",
+      "status": "mastered",
+      "detail": {
+        "title": "生物-高中-遗传与进化",
+        "children": [
+          {
+            "title": "遗传因子的发现",
+            "mastery": 0.8655
+          },
+          {
+            "title": "基因和染色体的关系",
+            "mastery": 0.525
+          },
+          {
+            "title": "基因的本质",
+            "mastery": 0.7127
+          },
+          {
+            "title": "基因的表达",
+            "mastery": 0.8562
+          },
+          {
+            "title": "基因突变及其他变异",
+            "mastery": 0.7537
+          },
+          {
+            "title": "生物的进化",
+            "mastery": 0.7211
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物-高中-稳态与调节",
+      "status": "mastered",
+      "detail": {
+        "title": "生物-高中-稳态与调节",
+        "children": [
+          {
+            "title": "人体的内环境与稳态",
+            "mastery": 0.7279
+          },
+          {
+            "title": "神经调节",
+            "mastery": 0.8975
+          },
+          {
+            "title": "体液调节",
+            "mastery": 0.5922
+          },
+          {
+            "title": "免疫调节",
+            "mastery": 0.8649
+          },
+          {
+            "title": "植物生命活动的调节",
+            "mastery": 0.7764
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物-高中-生物与环境",
+      "status": "mastered",
+      "detail": {
+        "title": "生物-高中-生物与环境",
+        "children": [
+          {
+            "title": "种群及其动态",
+            "mastery": 0.74
+          },
+          {
+            "title": "群落及其演替",
+            "mastery": 0.7907
+          },
+          {
+            "title": "生态系统及其稳定性",
+            "mastery": 0.7359
+          },
+          {
+            "title": "人与环境关系",
+            "mastery": 0.7791
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "生物学-高中-生物技术与工程",
+      "status": "mastered",
+      "detail": {
+        "title": "生物学-高中-生物技术与工程",
+        "children": [
+          {
+            "title": "发酵工程",
+            "mastery": 0.706
+          },
+          {
+            "title": "细胞工程",
+            "mastery": 0.6851
+          },
+          {
+            "title": "基因工程",
+            "mastery": 0.8649
+          },
+          {
+            "title": "生物技术的安全性与伦理问题",
+            "mastery": 0.9407
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-初中-九年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "化学-初中-九年级上册",
+        "children": [
+          {
+            "title": "第一单元 走进化学世界",
+            "mastery": 0.8379
+          },
+          {
+            "title": "第二单元 空气和氧气",
+            "mastery": 0.8483
+          },
+          {
+            "title": "第三单元 物质构成的奥秘",
+            "mastery": 0.7046
+          },
+          {
+            "title": "第四单元 自然界的水",
+            "mastery": 0.7987
+          },
+          {
+            "title": "第五单元 化学反应的定量关系",
+            "mastery": 0.9073
+          },
+          {
+            "title": "第六单元 碳和碳的氧化物",
+            "mastery": 0.964
+          },
+          {
+            "title": "第七单元 能源的合理利用与开发",
+            "mastery": 0.8992
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-九年级-下册",
+      "status": "mastered",
+      "detail": {
+        "title": "化学-九年级-下册",
+        "children": [
+          {
+            "title": "金属和金属材料",
+            "mastery": 0.9489
+          },
+          {
+            "title": "溶液",
+            "mastery": 0.9189
+          },
+          {
+            "title": "常见的酸、碱、盐",
+            "mastery": 0.9113
+          },
+          {
+            "title": "化学与社会",
+            "mastery": 0.6738
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-必修第一册",
+      "status": "mastered",
+      "detail": {
+        "title": "化学-高中-必修第一册",
+        "children": [
+          {
+            "title": "物质及其变化",
+            "mastery": 0.7331
+          },
+          {
+            "title": "钠和氯元素及其化合物",
+            "mastery": 0.8654
+          },
+          {
+            "title": "铁金属材料",
+            "mastery": 0.7832
+          },
+          {
+            "title": "物质结构元素周期律",
+            "mastery": 0.887
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-化学反应原理",
+      "status": "mastered",
+      "detail": {
+        "title": "化学-高中-化学反应原理",
+        "children": [
+          {
+            "title": "化学反应的热效应",
+            "mastery": 0.8473
+          },
+          {
+            "title": "化学反应速率与化学平衡",
+            "mastery": 0.9066
+          },
+          {
+            "title": "水溶液中的离子反应与平衡",
+            "mastery": 0.8872
+          },
+          {
+            "title": "化学反应与电能转化",
+            "mastery": 0.8942
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-物质结构与性质",
+      "status": "mastered",
+      "detail": {
+        "title": "化学-高中-物质结构与性质",
+        "children": [
+          {
+            "title": "原子结构与性质",
+            "mastery": 0.7435
+          },
+          {
+            "title": "分子结构与性质",
+            "mastery": 0.7319
+          },
+          {
+            "title": "晶体结构与性质",
+            "mastery": 0.7722
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-有机化学基础",
+      "status": "mastered",
+      "detail": {
+        "title": "化学-高中-有机化学基础",
+        "children": [
+          {
+            "title": "有机化合物的结构特点",
+            "mastery": 0.6904
+          },
+          {
+            "title": "研究有机化合物的一般方法",
+            "mastery": 0.7557
+          },
+          {
+            "title": "烃类化合物",
+            "mastery": 0.9015
+          },
+          {
+            "title": "烃的衍生物",
+            "mastery": 0.9206
+          },
+          {
+            "title": "生物大分子",
+            "mastery": 0.8162
+          },
+          {
+            "title": "合成高分子",
+            "mastery": 0.909
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-必修下册",
+      "status": "learning",
+      "detail": {
+        "title": "语文-高中-必修下册",
+        "children": [
+          {
+            "title": "古代散文与史传",
+            "mastery": 0.8585
+          },
+          {
+            "title": "戏剧文学",
+            "mastery": 0.1304
+          },
+          {
+            "title": "知识性读物",
+            "mastery": 0.2431
+          },
+          {
+            "title": "现代文体鉴赏",
+            "mastery": 0.0758
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "化学-高中-必修第二册",
+      "status": "learning",
+      "detail": {
+        "title": "化学-高中-必修第二册",
+        "children": [
+          {
+            "title": "化工生产中的重要非金属元素",
+            "mastery": 0.8929
+          },
+          {
+            "title": "化学反应与能量",
+            "mastery": 0.406
+          },
+          {
+            "title": "有机化合物",
+            "mastery": 0.8036
+          },
+          {
+            "title": "化学与可持续发展",
+            "mastery": 0.8949
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-选择性必修上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "语文-高中-选择性必修上册",
+        "children": [
+          {
+            "title": "革命文化与社会主义先进文化",
+            "mastery": 0.1625
+          },
+          {
+            "title": "先秦诸子散文",
+            "mastery": 0.0695
+          },
+          {
+            "title": "外国小说鉴赏",
+            "mastery": 0.0763
+          },
+          {
+            "title": "逻辑知识与应用",
+            "mastery": 0.2779
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-选择性必修中册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "语文-高中-选择性必修中册",
+        "children": [
+          {
+            "title": "理论著作单元",
+            "mastery": 0.0812
+          },
+          {
+            "title": "革命文化单元",
+            "mastery": 0.213
+          },
+          {
+            "title": "历史著述单元",
+            "mastery": 0.3349
+          },
+          {
+            "title": "外国文学单元",
+            "mastery": 0.0688
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-选择性必修下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "语文-高中-选择性必修下册",
+        "children": [
+          {
+            "title": "古典诗词",
+            "mastery": 0.5335
+          },
+          {
+            "title": "现当代文学",
+            "mastery": 0.0663
+          },
+          {
+            "title": "古代散文",
+            "mastery": 0.0207
+          },
+          {
+            "title": "科学论著",
+            "mastery": 0.0686
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "方剂学",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-医学-中医学类-方剂学",
+        "children": [
+          {
+            "title": "方剂学基础理论",
+            "mastery": 0.0485
+          },
+          {
+            "title": "君臣佐使配伍理论",
+            "mastery": 0.1431
+          },
+          {
+            "title": "方剂分类体系",
+            "mastery": 0.0797
+          },
+          {
+            "title": "方剂组成变化规律",
+            "mastery": 0.2597
+          },
+          {
+            "title": "常用剂型与煎服规范",
+            "mastery": 0.0656
+          },
+          {
+            "title": "经典方剂解析",
+            "mastery": 0.1917
+          },
+          {
+            "title": "配伍禁忌与用药安全",
+            "mastery": 0.1068
+          },
+          {
+            "title": "方剂学考点分析",
+            "mastery": 0.1775
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "针灸学",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-医学-中医学类-针灸学",
+        "children": [
+          {
+            "title": "经络系统",
+            "mastery": 0.3038
+          },
+          {
+            "title": "腧穴理论",
+            "mastery": 0.2799
+          },
+          {
+            "title": "刺灸技术",
+            "mastery": 0.0373
+          },
+          {
+            "title": "针灸治疗学",
+            "mastery": 0.4324
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "中医外科学",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-医学-中医学类-中医外科学",
+        "children": [
+          {
+            "title": "总论",
+            "mastery": 0.0839
+          },
+          {
+            "title": "皮肤病",
+            "mastery": 0.0752
+          },
+          {
+            "title": "肛肠病",
+            "mastery": 0.0837
+          },
+          {
+            "title": "泌尿男性生殖病",
+            "mastery": 0.2251
+          }
+        ]
+      }
+    }
+  ]
+}

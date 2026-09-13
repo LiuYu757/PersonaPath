@@ -1,0 +1,583 @@
+{
+  "knowledge_tree": {
+    "title": "七年级上册音乐",
+    "content": "义务教育教科书音乐七年级上册（简谱版），包含音乐基础知识、音乐欣赏、演唱演奏等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元 生活中的音乐",
+        "content": "探索音乐在日常生活中的应用和意义",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "学习项目一 生活中的音乐",
+            "content": "分析音乐在不同生活场景中的作用",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "婚礼仪式音乐",
+                "content": "婚礼中使用的音乐及其功能",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "阅兵式音乐",
+                "content": "阅兵式中使用的进行曲等音乐类型",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "电影音乐",
+                "content": "电影中配乐的作用和意义",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "学习项目二 音乐开启心灵之窗",
+            "content": "音乐对情绪的影响和调节作用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "音乐情绪识别",
+                "content": "识别和理解音乐表达的情绪",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "情绪调节音乐",
+                "content": "使用音乐来调节情绪的方法",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "学习项目三 学习乐谱，记录你的音乐生活",
+            "content": "简谱基础知识复习和应用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "音符与休止符",
+                "content": "各种音符和休止符的记法和时值",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "音高与音程",
+                "content": "音高表示方法和音程概念",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "常见节奏型",
+                "content": "各种基本节奏型的认识和演奏",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元 多彩的音乐风格",
+        "content": "探索中国和世界各民族音乐风格",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "学习项目一 中国音乐万花筒",
+            "content": "了解中国各地区民族民间音乐",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "各地区音乐风格",
+                "content": "中国不同地区的音乐特色和代表作品",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "民歌风格差异",
+                "content": "分析不同地区民歌风格的差异和原因",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "茉莉花",
+                "content": "江苏民歌《茉莉花》的学习和演唱",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "学习项目二 世界民族音乐博览会",
+            "content": "了解世界各民族音乐文化",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "世界各国民族音乐",
+                "content": "认识世界不同地区的民族音乐特色",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "民族乐器认识",
+                "content": "了解各国特色民族乐器",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "民族节奏体验",
+                "content": "体验和演奏各民族典型节奏",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三单元 中国音乐的历史进程",
+        "content": "了解中国音乐从古至今的发展历程",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "学习项目一 中国音乐考古博物馆",
+            "content": "探索中国古代音乐文化和文物",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "古代乐器",
+                "content": "认识中国古代各类乐器",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "音乐文物",
+                "content": "了解中国音乐文物及其历史价值",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "古代乐谱",
+                "content": "认识中国古代乐谱记录方法",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "学习项目二 中国近现代音乐风云录",
+            "content": "了解20世纪中国音乐发展历程",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "近现代音乐作品",
+                "content": "认识中国近现代重要音乐作品",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "学堂乐歌",
+                "content": "了解学堂乐歌的历史和意义",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "音乐舞蹈史诗《东方红》",
+                "content": "学习和欣赏《东方红》音乐舞蹈史诗",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "学习项目三 歌唱我们的祖国",
+            "content": "学习和演唱歌颂祖国的音乐作品",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "领航",
+                "content": "学习和演唱歌曲《领航》",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "长征题材音乐",
+                "content": "了解和演唱长征题材音乐作品",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第四单元 西方音乐发展史掠影",
+        "content": "了解西方音乐从古希腊到现代的发展历程",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "学习项目一 从古希腊到古典主义",
+            "content": "了解西方音乐从古希腊到古典主义时期的发展",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "古希腊古罗马音乐",
+                "content": "了解西方音乐起源时期的音乐特点",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "巴洛克音乐",
+                "content": "认识巴洛克时期音乐特点和代表作品",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "古典主义音乐",
+                "content": "了解古典主义时期音乐特点和代表作曲家",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "学习项目二 音乐中的浪漫主义",
+            "content": "了解浪漫主义时期音乐特点",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "浪漫主义音乐特征",
+                "content": "认识浪漫主义音乐的个人情感表达特点",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "浪漫主义代表作品",
+                "content": "学习和欣赏浪漫主义时期代表作品",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "学习项目三 20世纪西方音乐轨迹",
+            "content": "了解20世纪西方现代音乐发展",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "现代音乐流派",
+                "content": "认识20世纪各种现代音乐流派",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "代表作曲家作品",
+                "content": "了解20世纪重要作曲家及其作品",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "印在心里的歌",
+        "content": "重要歌曲的学习和背唱",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "中华人民共和国国歌",
+            "content": "学习和背唱国歌",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "国际歌",
+            "content": "学习和背唱国际歌",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "简谱",
+      "tail": "音符",
+      "relation": "包含"
+    },
+    {
+      "head": "简谱",
+      "tail": "休止符",
+      "relation": "包含"
+    },
+    {
+      "head": "简谱",
+      "tail": "节奏型",
+      "relation": "包含"
+    },
+    {
+      "head": "音符",
+      "tail": "全音符",
+      "relation": "包含"
+    },
+    {
+      "head": "音符",
+      "tail": "二分音符",
+      "relation": "包含"
+    },
+    {
+      "head": "音符",
+      "tail": "四分音符",
+      "relation": "包含"
+    },
+    {
+      "head": "音符",
+      "tail": "八分音符",
+      "relation": "包含"
+    },
+    {
+      "head": "音符",
+      "tail": "十六分音符",
+      "relation": "包含"
+    },
+    {
+      "head": "音符",
+      "tail": "附点音符",
+      "relation": "包含"
+    },
+    {
+      "head": "休止符",
+      "tail": "全休止符",
+      "relation": "包含"
+    },
+    {
+      "head": "休止符",
+      "tail": "二分休止符",
+      "relation": "包含"
+    },
+    {
+      "head": "休止符",
+      "tail": "四分休止符",
+      "relation": "包含"
+    },
+    {
+      "head": "休止符",
+      "tail": "八分休止符",
+      "relation": "包含"
+    },
+    {
+      "head": "休止符",
+      "tail": "十六分休止符",
+      "relation": "包含"
+    },
+    {
+      "head": "休止符",
+      "tail": "附点休止符",
+      "relation": "包含"
+    },
+    {
+      "head": "音程",
+      "tail": "纯一度",
+      "relation": "包含"
+    },
+    {
+      "head": "音程",
+      "tail": "大二度",
+      "relation": "包含"
+    },
+    {
+      "head": "音程",
+      "tail": "小三度",
+      "relation": "包含"
+    },
+    {
+      "head": "音程",
+      "tail": "大三度",
+      "relation": "包含"
+    },
+    {
+      "head": "音程",
+      "tail": "纯四度",
+      "relation": "包含"
+    },
+    {
+      "head": "音程",
+      "tail": "纯五度",
+      "relation": "包含"
+    },
+    {
+      "head": "音程",
+      "tail": "大六度",
+      "relation": "包含"
+    },
+    {
+      "head": "音程",
+      "tail": "小七度",
+      "relation": "包含"
+    },
+    {
+      "head": "音程",
+      "tail": "大七度",
+      "relation": "包含"
+    },
+    {
+      "head": "音程",
+      "tail": "纯八度",
+      "relation": "包含"
+    },
+    {
+      "head": "中国民族音乐",
+      "tail": "各地区音乐风格",
+      "relation": "包含"
+    },
+    {
+      "head": "中国民族音乐",
+      "tail": "民歌",
+      "relation": "包含"
+    },
+    {
+      "head": "中国民族音乐",
+      "tail": "戏曲音乐",
+      "relation": "包含"
+    },
+    {
+      "head": "中国民族音乐",
+      "tail": "曲艺音乐",
+      "relation": "包含"
+    },
+    {
+      "head": "茉莉花",
+      "tail": "江苏民歌",
+      "relation": "属于"
+    },
+    {
+      "head": "茉莉花",
+      "tail": "中国文化代表",
+      "relation": "作为"
+    },
+    {
+      "head": "西方音乐史",
+      "tail": "古希腊音乐",
+      "relation": "起始于"
+    },
+    {
+      "head": "西方音乐史",
+      "tail": "中世纪音乐",
+      "relation": "包含"
+    },
+    {
+      "head": "西方音乐史",
+      "tail": "文艺复兴音乐",
+      "relation": "包含"
+    },
+    {
+      "head": "西方音乐史",
+      "tail": "巴洛克音乐",
+      "relation": "包含"
+    },
+    {
+      "head": "西方音乐史",
+      "tail": "古典主义音乐",
+      "relation": "包含"
+    },
+    {
+      "head": "西方音乐史",
+      "tail": "浪漫主义音乐",
+      "relation": "包含"
+    },
+    {
+      "head": "西方音乐史",
+      "tail": "现代音乐",
+      "relation": "包含"
+    },
+    {
+      "head": "巴洛克音乐",
+      "tail": "巴赫",
+      "relation": "代表作曲家"
+    },
+    {
+      "head": "古典主义音乐",
+      "tail": "海顿",
+      "relation": "代表作曲家"
+    },
+    {
+      "head": "古典主义音乐",
+      "tail": "莫扎特",
+      "relation": "代表作曲家"
+    },
+    {
+      "head": "古典主义音乐",
+      "tail": "贝多芬",
+      "relation": "代表作曲家"
+    },
+    {
+      "head": "浪漫主义音乐",
+      "tail": "舒伯特",
+      "relation": "代表作曲家"
+    },
+    {
+      "head": "浪漫主义音乐",
+      "tail": "肖邦",
+      "relation": "代表作曲家"
+    },
+    {
+      "head": "浪漫主义音乐",
+      "tail": "李斯特",
+      "relation": "代表作曲家"
+    },
+    {
+      "head": "音乐情绪",
+      "tail": "音乐表现",
+      "relation": "影响"
+    },
+    {
+      "head": "音乐情绪",
+      "tail": "情感体验",
+      "relation": "产生"
+    },
+    {
+      "head": "节奏",
+      "tail": "音乐表现力",
+      "relation": "增强"
+    },
+    {
+      "head": "旋律",
+      "tail": "音乐记忆",
+      "relation": "帮助"
+    },
+    {
+      "head": "和声",
+      "tail": "音乐色彩",
+      "relation": "丰富"
+    },
+    {
+      "head": "音乐欣赏",
+      "tail": "音乐理解",
+      "relation": "培养"
+    },
+    {
+      "head": "音乐欣赏",
+      "tail": "审美能力",
+      "relation": "提高"
+    },
+    {
+      "head": "演唱演奏",
+      "tail": "音乐表现",
+      "relation": "实践"
+    },
+    {
+      "head": "音乐创作",
+      "tail": "音乐想象力",
+      "relation": "培养"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:43:56",
+    "version": "1.1"
+  }
+}

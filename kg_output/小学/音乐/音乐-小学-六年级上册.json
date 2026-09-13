@@ -1,0 +1,178 @@
+{
+  "knowledge_tree": {
+    "title": "六年级上册音乐",
+    "content": "义务教育教科书六年级上册音乐课程，包含歌唱、欣赏、音乐知识等内容",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "第一单元 我的祖国",
+        "content": "爱国主义主题音乐单元",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "唱歌 我的中国心",
+            "content": "深情演唱表达爱国情怀的歌曲",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "演唱技巧",
+                "content": "声音自然松弛，不要喊唱，注意气息调整",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "节奏变化处理",
+                "content": "第二部分从'长江、长城'开始节奏变化较大",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "欣赏 春天的故事",
+            "content": "领唱与合唱作品，反映改革开放历史进程",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "欣赏 东方之珠",
+            "content": "罗大佑词曲，具有时代特征的歌曲",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第二单元 美丽的草原",
+        "content": "草原民族音乐主题单元",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "唱歌 美丽的夏牧场",
+            "content": "哈萨克族风格歌曲",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "骨干音",
+                "content": "音乐中出现次数较多、位置较重要的音",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "欣赏 赛马",
+            "content": "二胡独奏曲，描绘草原万马奔腾景象",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第三单元 星空畅想",
+        "content": "宇宙太空主题音乐单元",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "唱歌 我爱银河",
+            "content": "优美抒情、充满幻想地演唱",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "级进与跳进",
+                "content": "音阶中相邻音级连接为级进，不相邻为跳进",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第四单元 外国影视音乐",
+        "content": "外国影视作品音乐欣赏",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "唱歌 小小少年",
+            "content": "德国电影《英俊少年》插曲",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第五单元 八音盒",
+        "content": "音乐剧和器乐作品欣赏",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "唱歌 雪绒花",
+            "content": "音乐剧《音乐之声》选曲",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第六单元 奥林匹克风",
+        "content": "体育音乐主题单元",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "唱歌 我和你",
+            "content": "北京奥运会主题曲",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "美丽的夏牧场",
+      "tail": "骨干音",
+      "relation": "运用"
+    },
+    {
+      "head": "我爱银河",
+      "tail": "级进与跳进",
+      "relation": "运用"
+    },
+    {
+      "head": "赛马",
+      "tail": "二胡",
+      "relation": "使用乐器"
+    },
+    {
+      "head": "雪绒花",
+      "tail": "音乐剧",
+      "relation": "选自"
+    },
+    {
+      "head": "我和你",
+      "tail": "奥运会",
+      "relation": "主题曲"
+    },
+    {
+      "head": "小小少年",
+      "tail": "电影插曲",
+      "relation": "属于"
+    },
+    {
+      "head": "骨干音",
+      "tail": "重要音级",
+      "relation": "定义为"
+    },
+    {
+      "head": "级进",
+      "tail": "跳进",
+      "relation": "对比关系"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:53:09",
+    "version": "1.1"
+  }
+}

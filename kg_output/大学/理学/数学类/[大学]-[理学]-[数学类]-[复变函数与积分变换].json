@@ -1,0 +1,343 @@
+{
+  "knowledge_tree": {
+    "title": "复变函数与积分变换",
+    "content": "华中科技大学数学系教材，系统介绍复变函数论与积分变换的基本概念、理论和方法，涵盖解析函数、复积分、级数、留数、共形映射及傅里叶、拉普拉斯变换等内容",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "复数与复变函数",
+        "content": "复数域、复平面、复变函数极限与连续，为后续解析函数理论奠基",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "复数概念与运算",
+            "content": "复数定义、四则运算、共轭、模与辐角",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "复数定义",
+                "content": "形如z=x+iy的数，i²=−1，x为实部，y为虚部",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "四则运算",
+                "content": "加、减、乘、除定义及代数性质，满足交换、结合、分配律",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "共轭复数",
+                "content": "z̄=x−iy，性质：z+z̄=2Re z，zz̄=|z|²",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "模与辐角",
+                "content": "|z|=√(x²+y²)，Arg z=arctan(y/x)+2kπ，主值arg z∈(−π,π]",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "复数表示形式",
+            "content": "代数、三角、指数三种表示及其转换",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "三角表示",
+                "content": "z=r(cos θ+i sin θ)，r=|z|，θ=Arg z",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "指数表示",
+                "content": "z=re^{iθ}，欧拉公式e^{iθ}=cos θ+i sin θ",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "几何意义",
+                "content": "复数对应平面点或向量，模为长度，辐角为方向角",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "复变函数基础",
+            "content": "复变函数定义、极限、连续，与实函数异同",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "函数定义",
+                "content": "w=f(z)，z∈D⊂ℂ，w∈ℂ，单值与多值函数",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "极限与连续",
+                "content": "lim_{z→z₀}f(z)=A定义，连续⇔lim_{z→z₀}f(z)=f(z₀)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "无穷远点",
+                "content": "扩充复平面ℂ∪{∞}，邻域|z|>R，运算规则",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "解析函数",
+        "content": "复可导与解析概念、C-R条件、初等复函数",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "复可导与解析",
+            "content": "导数定义、解析函数概念、求导法则",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "导数定义",
+                "content": "f′(z₀)=lim_{Δz→0}[f(z₀+Δz)−f(z₀)]/Δz，与路径无关",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "解析函数",
+                "content": "在区域D内每点可导，称f在D解析；点解析⇔邻域解析",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "C-R方程",
+                "content": "∂u/∂x=∂v/∂y，∂u/∂y=−∂v/∂x，可导充要条件",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "初等复函数",
+            "content": "指数、三角、对数、幂函数及其解析性",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "指数函数",
+                "content": "e^z=e^x(cos y+i sin y)，周期2πi，(e^z)′=e^z",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "三角函数",
+                "content": "sin z=(e^{iz}−e^{−iz})/(2i)，cos z=(e^{iz}+e^{−iz})/2，无界",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "对数函数",
+                "content": "Ln z=ln|z|+i Arg z，多值，主值ln z",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "幂函数",
+                "content": "z^α=e^{α Ln z}，多值性，解析分支",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "复变函数积分",
+        "content": "复积分定义、性质、Cauchy理论、原函数",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "复积分定义",
+            "content": "∫_C f(z)dz=∫_C (u+iv)(dx+idy)，与路径有关",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "参数化计算",
+                "content": "z=z(t)，dz=z′(t)dt，化为实积分",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "积分性质",
+                "content": "线性、方向性、估值|∫_C f dz|≤∫_C |f| ds",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Cauchy定理",
+            "content": "单连通域内解析⇒沿闭路积分为零",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "Cauchy-Goursat",
+                "content": "f解析⇒∮_C f(z)dz=0，无需f′连续",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "复合闭路",
+                "content": "多连通域，∮_{C}=∑∮_{C_k}，留数定理基础",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Cauchy积分公式",
+            "content": "f(z₀)=1/(2πi)∮_C f(z)/(z−z₀) dz",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "高阶导数",
+                "content": "f^{(n)}(z₀)=n!/(2πi)∮_C f(z)/(z−z₀)^{n+1} dz",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "最大模原理",
+                "content": "解析非常数⇒|f|在边界取最大",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "解析函数的级数表示",
+        "content": "幂级数、Taylor与Laurent展开，收敛区域",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "幂级数",
+            "content": "∑c_n(z−z₀)^n，收敛圆|z−z₀|<R",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "收敛半径",
+                "content": "R=1/limsup |c_n|^{1/n}或比值法",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "和函数解析性",
+                "content": "收敛圆内和解析，可逐项求导积分",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Taylor展开",
+            "content": "f(z)=∑f^{(n)}(z₀)/n! (z−z₀)^n，解析点邻域唯一",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "初等函数展开",
+                "content": "e^z、sin z、cos z、(1−z)^{−1}等Maclaurin级数",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Laurent级数",
+            "content": "环形域R₁<|z−z₀|<R₂内展开，含负幂项",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "唯一性",
+                "content": "Laurent系数c_n=1/(2πi)∮ f(z)/(z−z₀)^{n+1} dz",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "孤立奇点分类",
+                "content": "可去奇点、极点、本性奇点，由主部决定",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "留数及其应用",
+        "content": "留数定义、计算、定理及实积分计算",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "留数概念",
+            "content": "Res(f,z₀)=c_{−1}，Laurent负一次幂系数",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "可去奇点",
+                "content": "Res=0",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "简单极点",
+                "content": "Res=lim_{z→z₀}(z−z₀)f(z)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "m阶极点",
+                "content": "Res=1/(m−1)! lim_{z→z₀} d^{m−1}/dz^{m−1}[(z−z₀)^m f(z)]",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "留数定理",
+            "content": "∮_C f(z)dz=2πi ∑ Res(f,z_k)",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "实积分应用",
+                "content": "三角积分、有理函数积分、含e^{iax}积分",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "对数留数与辐角原理",
+                "content": "N−P=1/(2π)Δ_C arg f(z)",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "无穷远点留数",
+            "content": "Res(f,∞)=−Res(1/z² f(1/z),0)",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "generated_at": "2025-11-18 22:33:03",
+    "version": "1.1"
+  }
+}

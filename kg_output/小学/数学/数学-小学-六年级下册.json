@@ -1,0 +1,504 @@
+{
+  "knowledge_tree": {
+    "title": "六年级下册数学",
+    "content": "包含负数、百分数、圆柱与圆锥、比例、数学广角等核心内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "负数",
+        "content": "表示相反意义的量，如温度、收入与支出",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "负数的定义",
+            "content": "在正数前添加负号“-”的数，如-6表示零下6摄氏度",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "正数的定义",
+            "content": "大于0的数，如+6可省略正号写作6",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "0的特殊性",
+            "content": "0既不是正数也不是负数",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "数轴",
+            "content": "用直线上的点表示数，0为原点，右侧为正，左侧为负",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "数轴的三要素",
+                "content": "原点、正方向、单位长度",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "数轴上的点表示数",
+                "content": "每个点对应一个实数，距离表示大小",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "比较负数大小",
+            "content": "负号后的数字越大，值越小，如-18°C < -3°C",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "百分数（二）",
+        "content": "折扣、成数、税率、利率的应用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "折扣",
+            "content": "几折表示十分之几，即百分之几十，如打八五折按原价85%出售",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "折扣公式",
+                "content": "现价 = 原价 × 折扣率",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "典型问题类型",
+                "content": "已知原价和折扣求现价，或已知现价和折扣求原价",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "成数",
+            "content": "表示一个数是另一个数的十分之几，如二成即20%",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "成数应用",
+                "content": "常用于表示农业收成、行业增长情况",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "税率",
+            "content": "应纳税额与各种收入中应纳税部分的比率",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "税率公式",
+                "content": "应纳税额 = 应纳税收入 × 税率",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "利率",
+            "content": "单位时间内利息与本金的比率",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "利息公式",
+                "content": "利息 = 本金 × 利率 × 存期",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "本息和公式",
+                "content": "本息和 = 本金 × (1 + 利率 × 存期)",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "圆柱与圆锥",
+        "content": "认识圆柱和圆锥的特征，计算表面积和体积",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "圆柱的认识",
+            "content": "由两个圆形底面和一个曲面侧面组成",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "圆柱的组成",
+                "content": "两个底面（圆）、侧面（曲面）、高（两底面圆心距离）",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "圆柱的展开图",
+                "content": "侧面展开为长方形，长等于底面周长，宽等于高",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "圆柱的表面积",
+            "content": "侧面积与两个底面积之和",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "侧面积公式",
+                "content": "S侧 = 底面周长 × 高 = 2πrh",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "底面积公式",
+                "content": "S底 = πr²",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "表面积公式",
+                "content": "S表 = S侧 + 2S底 = 2πrh + 2πr²",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "圆柱的体积",
+            "content": "底面积乘以高",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "体积公式",
+                "content": "V = S底 × h = πr²h",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "体积公式推导",
+                "content": "通过切割拼成长方体，底面积等于圆柱底面积，高等于圆柱高",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "圆锥的认识",
+            "content": "由一个圆形底面和一个曲面侧面组成，顶点到底面圆心的距离为高",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "圆锥的体积",
+            "content": "等底等高圆柱体积的三分之一",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "体积公式",
+                "content": "V = (1/3)πr²h",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "体积公式推导",
+                "content": "通过倒水或沙子的实验，发现与等底等高圆柱的体积关系",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "比例",
+        "content": "比例的意义、性质、应用及正反比例关系",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "比例的意义",
+            "content": "表示两个比相等的式子，如a:b=c:d",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "比例的各部分名称",
+                "content": "a、d为外项，b、c为内项",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "比例的基本性质",
+            "content": "在比例里，两个外项的积等于两个内项的积",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "基本性质表达式",
+                "content": "如果a:b=c:d，那么ad=bc",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "解比例",
+            "content": "求比例中的未知项",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "解比例的方法",
+                "content": "利用比例的基本性质，将比例转化为方程求解",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "正比例",
+            "content": "两种相关联的量，一种量变化，另一种量也随着变化，如果这两种量中相对应的两个数的比值一定",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "正比例关系式",
+                "content": "y/x = k（一定）",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "正比例图像",
+                "content": "是一条从原点出发的射线",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "反比例",
+            "content": "两种相关联的量，一种量变化，另一种量也随着变化，如果这两种量中相对应的两个数的乘积一定",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "反比例关系式",
+                "content": "x × y = k（一定）",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "反比例图像",
+                "content": "是一条光滑的曲线",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "比例尺",
+            "content": "图上距离与实际距离的比",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "比例尺公式",
+                "content": "比例尺 = 图上距离 : 实际距离",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "比例尺类型",
+                "content": "数值比例尺和线段比例尺",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "图形的放大与缩小",
+            "content": "按一定比例放大或缩小图形，形状不变，大小改变",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数学广角—鸽巢问题",
+        "content": "最简单的抽屉原理",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "鸽巢原理",
+            "content": "如果n个鸽巢容纳n+1只鸽子，那么至少有一个鸽巢中有2只鸽子",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "鸽巢原理的应用",
+            "content": "解决至少保证问题，如至少有多少人属相相同",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "负数",
+      "tail": "数轴",
+      "relation": "用于表示"
+    },
+    {
+      "head": "数轴",
+      "tail": "数轴的三要素",
+      "relation": "由...组成"
+    },
+    {
+      "head": "百分数",
+      "tail": "折扣",
+      "relation": "包含"
+    },
+    {
+      "head": "折扣",
+      "tail": "折扣公式",
+      "relation": "基于"
+    },
+    {
+      "head": "百分数",
+      "tail": "成数",
+      "relation": "包含"
+    },
+    {
+      "head": "百分数",
+      "tail": "税率",
+      "relation": "包含"
+    },
+    {
+      "head": "税率",
+      "tail": "税率公式",
+      "relation": "基于"
+    },
+    {
+      "head": "百分数",
+      "tail": "利率",
+      "relation": "包含"
+    },
+    {
+      "head": "利率",
+      "tail": "利息公式",
+      "relation": "基于"
+    },
+    {
+      "head": "圆柱",
+      "tail": "圆柱的表面积",
+      "relation": "包含"
+    },
+    {
+      "head": "圆柱的表面积",
+      "tail": "侧面积公式",
+      "relation": "由...组成"
+    },
+    {
+      "head": "圆柱的表面积",
+      "tail": "底面积公式",
+      "relation": "由...组成"
+    },
+    {
+      "head": "圆柱",
+      "tail": "圆柱的体积",
+      "relation": "包含"
+    },
+    {
+      "head": "圆柱的体积",
+      "tail": "体积公式",
+      "relation": "基于"
+    },
+    {
+      "head": "圆锥",
+      "tail": "圆锥的体积",
+      "relation": "包含"
+    },
+    {
+      "head": "圆锥的体积",
+      "tail": "体积公式",
+      "relation": "基于"
+    },
+    {
+      "head": "圆柱的体积",
+      "tail": "圆锥的体积",
+      "relation": "推导出"
+    },
+    {
+      "head": "比例",
+      "tail": "比例的意义",
+      "relation": "包含"
+    },
+    {
+      "head": "比例",
+      "tail": "比例的基本性质",
+      "relation": "包含"
+    },
+    {
+      "head": "比例的基本性质",
+      "tail": "解比例",
+      "relation": "应用于"
+    },
+    {
+      "head": "比例",
+      "tail": "正比例",
+      "relation": "包含"
+    },
+    {
+      "head": "正比例",
+      "tail": "正比例关系式",
+      "relation": "基于"
+    },
+    {
+      "head": "比例",
+      "tail": "反比例",
+      "relation": "包含"
+    },
+    {
+      "head": "反比例",
+      "tail": "反比例关系式",
+      "relation": "基于"
+    },
+    {
+      "head": "比例",
+      "tail": "比例尺",
+      "relation": "包含"
+    },
+    {
+      "head": "比例尺",
+      "tail": "比例尺公式",
+      "relation": "基于"
+    },
+    {
+      "head": "比例",
+      "tail": "图形的放大与缩小",
+      "relation": "应用于"
+    },
+    {
+      "head": "鸽巢问题",
+      "tail": "鸽巢原理",
+      "relation": "基于"
+    },
+    {
+      "head": "鸽巢原理",
+      "tail": "鸽巢原理的应用",
+      "relation": "应用于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:11:49",
+    "version": "1.1"
+  }
+}

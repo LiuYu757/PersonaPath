@@ -1,0 +1,479 @@
+{
+  "knowledge_tree": {
+    "title": "音乐与戏剧",
+    "content": "高中音乐必修课程，涵盖戏剧欣赏、戏曲、歌剧、音乐剧等核心内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "戏剧的概念与形式",
+        "content": "戏剧是一种包含文学、绘画、雕塑、音乐和舞蹈等多种成分的表演艺术",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "戏剧的定义",
+            "content": "演员是戏剧舞台表演的中心，通过语言、动作和音乐表现人物性格和情感",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "戏剧的特点",
+            "content": "演员扮演人物表演故事，运用假定性及虚拟性手段表现人生、社会生活",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "戏剧的形式",
+            "content": "包括话剧、戏曲、歌剧、音乐剧、舞剧、哑剧、傀儡剧、电影和电视剧",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "中国戏曲",
+        "content": "具有中国民族特点的戏剧形式，以唱腔和器乐伴奏为特征",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "戏曲表演",
+            "content": "包含唱、念、做、打四种表演手段",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "角色行当",
+                "content": "生、旦、净、丑四种类型",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "表演程式",
+                "content": "亮相、起霸、趟马、走边、档子等规范化动作",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "基本功和特技",
+                "content": "包括毯子功、把子功、水袖功、髯口功等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "戏曲音乐",
+            "content": "戏曲演出中由唱腔和器乐伴奏构成的部分",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "戏曲唱腔",
+                "content": "曲牌体和板腔体两种音乐结构",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "戏曲演唱",
+                "content": "注重吐字、行腔，依字行腔",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "戏曲伴奏",
+                "content": "分为文场和武场，以主奏乐器为特色",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "戏曲声腔及剧种",
+            "content": "四大声腔系统及各地地方剧种",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "四大声腔",
+                "content": "昆山腔、弋阳腔、梆子腔、皮黄调",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "剧种与地域文化",
+                "content": "剧种与形成地地域文化的密切关系",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "剧种唱腔与方言",
+                "content": "唱腔演唱语音来源于剧种形成及流行地的方言语音",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "中国歌剧",
+        "content": "中国特色的歌剧艺术形式",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "形成与发展",
+            "content": "从儿童歌舞剧到民族歌剧的发展历程",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "黎锦晖儿童歌舞剧",
+                "content": "《麻雀与小孩》《小小画家》等早期作品",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "延安秧歌剧",
+                "content": "《兄妹开荒》《夫妻识字》等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "《白毛女》",
+                "content": "中国歌剧形成的标志性作品",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "代表性作品",
+            "content": "各个时期的经典歌剧作品",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "《洪湖赤卫队》",
+                "content": "1959年首演，革命历史题材",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "《江姐》",
+                "content": "1964年首演，红色经典歌剧",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "《伤逝》",
+                "content": "1981年首演，施光南作曲",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "《原野》",
+                "content": "1987年首演，金湘作曲",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音乐特点",
+            "content": "中国歌剧的音乐创作特征",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "板腔体运用",
+                "content": "借鉴戏曲板腔体结构发展音乐",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "民族音乐元素",
+                "content": "运用民间音乐素材创作",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "中西结合",
+                "content": "中国传统音乐与西方歌剧形式的结合",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "欧洲歌剧",
+        "content": "起源于意大利的音乐戏剧形式",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "歌剧常识",
+            "content": "歌剧的基本知识和历史发展",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "起源与发展",
+                "content": "16世纪末形成于意大利，流行于欧洲各地",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "重要作曲家",
+                "content": "莫扎特、威尔第、瓦格纳、普契尼等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "歌剧类型",
+                "content": "正歌剧、喜歌剧、轻歌剧等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "歌剧表现形式",
+            "content": "歌剧中的各种音乐表现形式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "声乐形式",
+                "content": "咏叹调、宣叙调、重唱、合唱",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "器乐形式",
+                "content": "序曲、幕间曲等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "声部分类",
+                "content": "女高音、女中音、女低音、男高音、男中音、男低音",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音乐结构",
+            "content": "歌剧的音乐组织形式",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "分曲体结构",
+                "content": "以咏叹调为中心的场景结构",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "通连体结构",
+                "content": "瓦格纳的无终旋律",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "主导动机",
+                "content": "瓦格纳歌剧中的主题贯穿手法",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "音乐剧",
+        "content": "音乐、舞蹈、戏剧相结合的现代舞台艺术",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "中国音乐剧",
+            "content": "中国音乐剧的发展历程",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "起源与发展",
+                "content": "从黎锦晖儿童歌舞剧到现代音乐剧",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "代表性作品",
+                "content": "《芳草心》《四毛英雄传》《未来组合》等",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "艺术特点",
+                "content": "歌舞演故事，现代歌舞与民族歌舞结合",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "西方音乐剧",
+            "content": "欧美音乐剧的发展与特点",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "历史发展",
+                "content": "从游唱剧、轻歌舞剧到现代音乐剧",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "百老汇音乐剧",
+                "content": "美国音乐剧的代表",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "经典作品",
+                "content": "《演艺船》《俄克拉荷马》《西区故事》《猫》等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音乐剧艺术特征",
+            "content": "音乐剧的艺术表现形式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "音乐特点",
+                "content": "通俗易记的旋律，AABA歌曲结构",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "舞蹈特点",
+                "content": "各种舞蹈形式的综合运用",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "表演特点",
+                "content": "说、唱、舞相结合的综合表演",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "戏剧",
+      "tail": "戏曲",
+      "relation": "包含"
+    },
+    {
+      "head": "戏剧",
+      "tail": "歌剧",
+      "relation": "包含"
+    },
+    {
+      "head": "戏剧",
+      "tail": "音乐剧",
+      "relation": "包含"
+    },
+    {
+      "head": "戏曲",
+      "tail": "唱念做打",
+      "relation": "表演手段"
+    },
+    {
+      "head": "戏曲",
+      "tail": "生旦净丑",
+      "relation": "角色行当"
+    },
+    {
+      "head": "戏曲音乐",
+      "tail": "曲牌体",
+      "relation": "包含"
+    },
+    {
+      "head": "戏曲音乐",
+      "tail": "板腔体",
+      "relation": "包含"
+    },
+    {
+      "head": "中国歌剧",
+      "tail": "白毛女",
+      "relation": "标志作品"
+    },
+    {
+      "head": "中国歌剧",
+      "tail": "板腔体",
+      "relation": "运用"
+    },
+    {
+      "head": "欧洲歌剧",
+      "tail": "咏叹调",
+      "relation": "包含"
+    },
+    {
+      "head": "欧洲歌剧",
+      "tail": "宣叙调",
+      "relation": "包含"
+    },
+    {
+      "head": "音乐剧",
+      "tail": "歌舞演故事",
+      "relation": "特征"
+    },
+    {
+      "head": "音乐剧",
+      "tail": "百老汇",
+      "relation": "发展地"
+    },
+    {
+      "head": "黎锦晖",
+      "tail": "儿童歌舞剧",
+      "relation": "创作"
+    },
+    {
+      "head": "瓦格纳",
+      "tail": "无终旋律",
+      "relation": "创立"
+    },
+    {
+      "head": "四大声腔",
+      "tail": "昆山腔",
+      "relation": "包含"
+    },
+    {
+      "head": "四大声腔",
+      "tail": "弋阳腔",
+      "relation": "包含"
+    },
+    {
+      "head": "四大声腔",
+      "tail": "梆子腔",
+      "relation": "包含"
+    },
+    {
+      "head": "四大声腔",
+      "tail": "皮黄调",
+      "relation": "包含"
+    },
+    {
+      "head": "文场",
+      "tail": "弦乐器",
+      "relation": "包含"
+    },
+    {
+      "head": "武场",
+      "tail": "打击乐器",
+      "relation": "包含"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:00:41",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "knowledge_tree": {
+    "title": "兽医药理学",
+    "content": "研究药物与动物机体相互作用规律及其机制，为临床合理用药提供理论依据",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "药物动力学基础",
+        "content": "定量描述药物在动物体内吸收、分布、代谢、排泄（ADME）过程",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "一级动力学",
+            "content": "单位时间内药物转运或消除比例恒定，公式：dC/dt = –kC",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "零级动力学",
+            "content": "单位时间内药物转运或消除量恒定，公式：dC/dt = –k0",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "半衰期（t½）",
+            "content": "血药浓度下降一半所需时间，t½ = 0.693/k",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "表观分布容积（Vd）",
+            "content": "体内药量与血药浓度比值，Vd = D/C0",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "清除率（Cl）",
+            "content": "单位时间内机体清除药物的血浆体积，Cl = k × Vd",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "生物利用度（F）",
+            "content": "药物进入系统循环的相对量与速率，F = (AUCpo/AUCiv) × 100%",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "药效学基础",
+        "content": "研究药物对机体的作用机制、强度与剂量关系",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "激动剂",
+            "content": "与受体结合并产生最大效应，如β2-激动剂克伦特罗",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "拮抗剂",
+            "content": "与受体结合但不产生效应，如阿托品拮抗M胆碱受体",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "量效关系",
+            "content": "药物剂量与效应强度关系，常用Emax与ED50描述",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "治疗指数（TI）",
+            "content": "TI = LD50/ED50，评价药物安全性",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "协同作用",
+            "content": "两药合用效应大于单药效应之和，如青霉素+克拉维酸",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "拮抗作用",
+            "content": "两药合用效应小于单药效应之和，如氟喹诺酮+二价阳离子",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "抗微生物药物",
+        "content": "抑制或杀灭病原微生物的化学治疗药物",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "β-内酰胺类",
+            "content": "抑制细菌细胞壁合成，如青霉素G、头孢噻呋",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "青霉素G",
+                "content": "窄谱，对G+菌高效，易被β-内酰胺酶水解",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "头孢噻呋",
+                "content": "第三代头孢，广谱，对G–菌活性增强，t½ 1.1–2.1 h（牛）",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "氟喹诺酮类",
+            "content": "抑制DNA旋转酶，广谱，如恩诺沙星、达氟沙星",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "恩诺沙星",
+                "content": "犬猫2.5–5 mg/kg q24h，休药期：猪3 d、鸡8 d",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "氨基糖苷类",
+            "content": "抑制30S亚基，如庆大霉素、阿米卡星，肾耳毒性",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "耐药性机制",
+            "content": "产生灭活酶、靶点突变、外排泵、膜通透性降低",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "抗寄生虫药物",
+        "content": "驱除或杀灭动物体内外寄生虫",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "大环内酯类",
+            "content": "如伊维菌素，增强Cl–通道，对线虫、节肢动物高效",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "苯并咪唑类",
+            "content": "如阿苯达唑，抑制微管聚合，广谱驱蠕虫",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "咪唑并噻唑类",
+            "content": "如左旋咪唑，抑制琥珀酸脱氢酶，驱线虫兼免疫增强",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "解热镇痛抗炎药（NSAIDs）",
+        "content": "抑制COX，减少前列腺素合成，具解热、镇痛、抗炎作用",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "氟尼辛葡甲胺",
+            "content": "牛1.1–2.2 mg/kg IV，用于急性乳房炎-子宫炎综合征",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "美洛昔康",
+            "content": "犬0.2 mg/kg首剂，维持0.1 mg/kg q24h，COX-2选择性高",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "不良反应",
+            "content": "胃肠道溃疡、肾乳头坏死、血小板功能障碍",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "麻醉与镇痛",
+        "content": "全身麻醉、局部麻醉及镇痛药物的应用",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "丙泊酚",
+            "content": "静脉麻醉，犬6 mg/kg IV，起效30 s，维持5–10 min",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "赛拉嗪",
+            "content": "α2-激动剂，牛0.05–0.2 mg/kg IM，镇静镇痛肌松",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "利多卡因",
+            "content": "局麻，0.5–2 %，最大剂量犬4 mg/kg（含肾上腺素）",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "生物制品与免疫药物",
+        "content": "疫苗、抗血清、细胞因子等",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "灭活疫苗",
+            "content": "如口蹄疫灭活疫苗，需加佐剂，免疫期4–6 月",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "活疫苗",
+            "content": "如犬瘟热弱毒苗，一次免疫，局部细胞免疫重要",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "抗血清",
+            "content": "紧急预防或治疗，如破伤风抗毒素，注意过敏反应",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "给药方案设计",
+        "content": "基于PK/PD参数制定剂量与间隔",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "剂量公式",
+            "content": "D = Cp × Vd / F，Cp为目标稳态浓度",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "维持剂量",
+            "content": "D = Cl × Cpss × τ / F，τ为给药间隔",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "负荷剂量",
+            "content": "LD = Cpss × Vd / F，快速达到稳态",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "典型例题",
+            "content": "奶牛静脉注射头孢噻呋2.2 mg/kg，Vd 0.2 L/kg，t½ 1.5 h，求维持Cp 1 μg/mL的连续输注速率",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "药物动力学基础",
+      "tail": "一级动力学",
+      "relation": "包含"
+    },
+    {
+      "head": "一级动力学",
+      "tail": "半衰期（t½）",
+      "relation": "推导"
+    },
+    {
+      "head": "表观分布容积（Vd）",
+      "tail": "清除率（Cl）",
+      "relation": "关联"
+    },
+    {
+      "head": "清除率（Cl）",
+      "tail": "维持剂量",
+      "relation": "应用于"
+    },
+    {
+      "head": "药效学基础",
+      "tail": "治疗指数（TI）",
+      "relation": "包含"
+    },
+    {
+      "head": "β-内酰胺类",
+      "tail": "耐药性机制",
+      "relation": "导致"
+    },
+    {
+      "head": "氟喹诺酮类",
+      "tail": "耐药性机制",
+      "relation": "导致"
+    },
+    {
+      "head": "NSAIDs",
+      "tail": "氟尼辛葡甲胺",
+      "relation": "包含"
+    },
+    {
+      "head": "NSAIDs",
+      "tail": "胃肠道溃疡",
+      "relation": "导致"
+    },
+    {
+      "head": "丙泊酚",
+      "tail": "麻醉与镇痛",
+      "relation": "从属"
+    },
+    {
+      "head": "灭活疫苗",
+      "tail": "佐剂",
+      "relation": "需要"
+    },
+    {
+      "head": "活疫苗",
+      "tail": "细胞免疫",
+      "relation": "诱导"
+    },
+    {
+      "head": "给药方案设计",
+      "tail": "剂量公式",
+      "relation": "基于"
+    },
+    {
+      "head": "负荷剂量",
+      "tail": "维持剂量",
+      "relation": "先于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 11:05:47",
+    "version": "1.1"
+  }
+}

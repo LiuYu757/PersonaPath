@@ -1,0 +1,250 @@
+{
+  "knowledge_tree": {
+    "title": "三年级上册语文",
+    "content": "人教版三年级上册语文教材，包含阅读、写作、口语交际等模块，注重语言积累与运用能力的培养",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元",
+        "content": "校园生活主题单元，聚焦新鲜词句的积累与初步写作",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "大青树下的小学",
+            "content": "描写边疆小学各民族学生共同学习的场景",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "多民族校园场景",
+                "content": "汉族、傣族、景颇族等民族学生共同学习",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "拟人化描写手法",
+                "content": "树枝不摇、鸟儿不叫等拟人化描写衬托朗读声的感染力",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "花的学校",
+            "content": "泰戈尔散文诗，通过想象描写花的生长与绽放",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "拟人修辞运用",
+                "content": "将花比作地下学校的学生，雨停后放假",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "意象联想训练",
+                "content": "通过花的生长联想学生的成长过程",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "不懂就要问",
+            "content": "孙中山勤学好问的故事",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "学习态度培养",
+                "content": "强调质疑与提问的重要性",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "私塾教育背景",
+                "content": "了解传统教育方式与现代教育的区别",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元",
+        "content": "金秋时节主题，学习理解难懂词语的方法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "古诗三首",
+            "content": "《望洞庭》《山行》《夜书所见》三首秋景诗",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "望洞庭",
+                "content": "刘禹锡描写洞庭湖秋夜景色的七言绝句",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "山行",
+                "content": "杜牧描绘秋日山行所见枫林景色的名篇",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "夜书所见",
+                "content": "叶绍翁秋夜思乡之作",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "铺满金色巴掌的水泥道",
+            "content": "描写秋日落叶铺就的金色道路",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "比喻修辞运用",
+                "content": "将梧桐落叶比作金色巴掌",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "细节观察方法",
+                "content": "学习从颜色、形状、质感等多角度观察事物",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "写作训练",
+        "content": "日记写作与叙事能力培养",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "写日记",
+            "content": "学习日记格式与内容选择",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "日记格式规范",
+                "content": "日期、星期、天气等基本要素",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "生活素材选择",
+                "content": "从日常生活中选取有价值的记录内容",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "猜猜他是谁",
+            "content": "通过特征描写让人物形象鲜明",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "外貌特征描写",
+                "content": "抓住人物显著外部特征进行描写",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "性格特点表现",
+                "content": "通过具体事例表现人物性格",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "语文园地",
+        "content": "语言积累与运用综合训练",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "成语积累",
+            "content": "摇头晃脑、披头散发等描写神态的成语",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "朗读技巧",
+            "content": "通过语气变化表达句子情感",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "古诗积累",
+            "content": "《所见》等古诗背诵与理解",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "大青树下的小学",
+      "tail": "多民族校园场景",
+      "relation": "描写了"
+    },
+    {
+      "head": "花的学校",
+      "tail": "拟人修辞运用",
+      "relation": "运用了"
+    },
+    {
+      "head": "不懂就要问",
+      "tail": "学习态度培养",
+      "relation": "体现了"
+    },
+    {
+      "head": "古诗三首",
+      "tail": "望洞庭",
+      "relation": "包含"
+    },
+    {
+      "head": "铺满金色巴掌的水泥道",
+      "tail": "比喻修辞运用",
+      "relation": "运用了"
+    },
+    {
+      "head": "写日记",
+      "tail": "日记格式规范",
+      "relation": "需要掌握"
+    },
+    {
+      "head": "猜猜他是谁",
+      "tail": "外貌特征描写",
+      "relation": "训练了"
+    },
+    {
+      "head": "语文园地",
+      "tail": "成语积累",
+      "relation": "包含"
+    },
+    {
+      "head": "观察训练",
+      "tail": "细节观察方法",
+      "relation": "培养了"
+    },
+    {
+      "head": "金秋时节",
+      "tail": "古诗三首",
+      "relation": "通过...表现"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:00:05",
+    "version": "1.1"
+  }
+}

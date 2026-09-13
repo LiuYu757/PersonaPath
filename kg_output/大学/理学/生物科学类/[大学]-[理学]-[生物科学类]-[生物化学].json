@@ -1,0 +1,420 @@
+{
+  "knowledge_tree": {
+    "title": "生物化学",
+    "content": "研究生物体内化学分子与化学反应的科学，是生命科学的基础学科。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "生物分子的结构与功能",
+        "content": "构成生命体的基本化学物质，包括水、糖类、脂类、蛋白质、核酸等。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "水与生命",
+            "content": "水是生命体中含量最多的分子，其独特的物理化学性质是生命存在的必要条件。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "水的极性",
+                "content": "水分子中氧原子电负性大，氢原子电负性小，形成极性共价键，使水分子成为极性分子。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "氢键",
+                "content": "水分子间或水分子与其他极性分子间由氢原子与电负性强的原子（O, N）形成的弱静电吸引力。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "水的比热容",
+                "content": "水的比热容高，能吸收大量热量而自身温度变化不大，对维持生物体温度稳定有重要作用。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "水的解离与pH",
+                "content": "水可微弱解离生成H+和OH-，pH是衡量溶液酸碱度的指标，pH = -lg[H+]。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "糖类",
+            "content": "多羟基醛或多羟基酮及其衍生物，是生物体的主要能源和结构物质。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "单糖",
+                "content": "最简单的糖，不能水解为更小的糖单位，如葡萄糖、果糖、核糖。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "葡萄糖的结构",
+                    "content": "六碳醛糖，存在直链式和环式（吡喃糖）结构，环式有α和β两种异头物。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "单糖的旋光性",
+                    "content": "单糖分子具有手性碳原子，能使平面偏振光旋转，分为D型和L型。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "二糖",
+                "content": "由两分子单糖通过糖苷键连接而成，如蔗糖、麦芽糖、乳糖。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "多糖",
+                "content": "由多个单糖分子脱水缩合而成的高分子化合物，如淀粉、糖原、纤维素。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "淀粉的结构与功能",
+                    "content": "植物储能多糖，由直链淀粉（α-1,4糖苷键）和支链淀粉（α-1,4和α-1,6糖苷键）组成。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "脂类",
+            "content": "不溶于水，能溶于有机溶剂的生物分子，包括脂肪、磷脂、类固醇等。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "三酰甘油（脂肪）",
+                "content": "由一分子甘油和三分子脂肪酸通过酯键连接而成，是主要的储能物质。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "脂肪酸",
+                    "content": "长链羧酸，根据是否含双键分为饱和脂肪酸和不饱和脂肪酸。",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "磷脂",
+                "content": "含有磷酸基团的脂类，是生物膜的主要成分，具有亲水头和疏水尾，形成双分子层。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "蛋白质",
+            "content": "由氨基酸通过肽键连接而成的大分子，执行几乎所有的生命活动。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "氨基酸",
+                "content": "蛋白质的基本结构单位，是含氨基和羧基的有机化合物。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "氨基酸的通式",
+                    "content": "中心碳原子（α-碳）连接氨基、羧基、氢原子和一个可变侧链R基。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "必需氨基酸",
+                    "content": "人体不能合成或合成速度不能满足需要，必须由食物供给的氨基酸。",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "肽键",
+                "content": "一个氨基酸的α-羧基与另一个氨基酸的α-氨基脱水缩合形成的酰胺键。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "蛋白质的结构层次",
+                "content": "蛋白质分子具有一级、二级、三级、四级结构，决定其复杂的三维空间构象和功能。",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "一级结构",
+                    "content": "蛋白质分子中氨基酸的排列顺序，由肽键连接。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "二级结构",
+                    "content": "多肽链主链骨架盘绕折叠形成的规则结构，如α-螺旋、β-折叠，主要由氢键稳定。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "三级结构",
+                    "content": "整条多肽链在二级结构基础上进一步盘曲折叠形成的三维空间结构。",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "四级结构",
+                    "content": "由两条或两条以上具有独立三级结构的多肽链通过非共价键相互作用聚合而成的蛋白质结构。",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "核酸",
+            "content": "携带遗传信息的大分子，包括DNA和RNA。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "核苷酸",
+                "content": "核酸的基本组成单位，由含氮碱基、戊糖和磷酸基团组成。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "DNA双螺旋结构",
+                "content": "由两条反向平行的多核苷酸链围绕同一中心轴盘绕形成的右手螺旋结构，碱基配对原则为A=T, G≡C。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "酶与代谢",
+        "content": "酶是生物催化剂，代谢是生物体内维持生命的各种化学反应的总称。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "酶的特性",
+            "content": "酶具有高效性、专一性、作用条件温和（易受温度、pH影响）等特性。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "酶的专一性",
+                "content": "一种酶通常只催化一种或一类底物发生特定的化学反应。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "酶的作用机制",
+            "content": "酶通过降低反应的活化能来加速反应，其作用机制包括锁钥学说和诱导契合学说。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "糖代谢",
+            "content": "生物体内糖类物质的合成与分解过程，主要包括糖酵解、三羧酸循环等。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "糖酵解",
+                "content": "在细胞质中，一分子葡萄糖分解为两分子丙酮酸并产生少量ATP和NADH的过程。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "生物化学",
+      "tail": "生物分子的结构与功能",
+      "relation": "研究核心"
+    },
+    {
+      "head": "生物化学",
+      "tail": "酶与代谢",
+      "relation": "研究核心"
+    },
+    {
+      "head": "水",
+      "tail": "氢键",
+      "relation": "形成"
+    },
+    {
+      "head": "水的极性",
+      "tail": "氢键",
+      "relation": "是形成的基础"
+    },
+    {
+      "head": "氢键",
+      "tail": "水的比热容",
+      "relation": "是导致其较高的原因"
+    },
+    {
+      "head": "水的解离",
+      "tail": "pH",
+      "relation": "定义了"
+    },
+    {
+      "head": "糖类",
+      "tail": "单糖",
+      "relation": "由...构成"
+    },
+    {
+      "head": "糖类",
+      "tail": "二糖",
+      "relation": "由...构成"
+    },
+    {
+      "head": "糖类",
+      "tail": "多糖",
+      "relation": "由...构成"
+    },
+    {
+      "head": "单糖",
+      "tail": "葡萄糖",
+      "relation": "是...的一个实例"
+    },
+    {
+      "head": "葡萄糖",
+      "tail": "环式结构",
+      "relation": "存在"
+    },
+    {
+      "head": "单糖",
+      "tail": "旋光性",
+      "relation": "具有"
+    },
+    {
+      "head": "多糖",
+      "tail": "淀粉",
+      "relation": "是...的一个实例"
+    },
+    {
+      "head": "淀粉",
+      "tail": "直链淀粉",
+      "relation": "包含"
+    },
+    {
+      "head": "淀粉",
+      "tail": "支链淀粉",
+      "relation": "包含"
+    },
+    {
+      "head": "脂类",
+      "tail": "三酰甘油",
+      "relation": "包含"
+    },
+    {
+      "head": "脂类",
+      "tail": "磷脂",
+      "relation": "包含"
+    },
+    {
+      "head": "三酰甘油",
+      "tail": "脂肪酸",
+      "relation": "由...构成"
+    },
+    {
+      "head": "磷脂",
+      "tail": "生物膜",
+      "relation": "是...的主要成分"
+    },
+    {
+      "head": "蛋白质",
+      "tail": "氨基酸",
+      "relation": "由...构成"
+    },
+    {
+      "head": "氨基酸",
+      "tail": "肽键",
+      "relation": "通过...连接"
+    },
+    {
+      "head": "蛋白质",
+      "tail": "蛋白质的结构层次",
+      "relation": "具有"
+    },
+    {
+      "head": "蛋白质的结构层次",
+      "tail": "一级结构",
+      "relation": "包含"
+    },
+    {
+      "head": "蛋白质的结构层次",
+      "tail": "二级结构",
+      "relation": "包含"
+    },
+    {
+      "head": "蛋白质的结构层次",
+      "tail": "三级结构",
+      "relation": "包含"
+    },
+    {
+      "head": "蛋白质的结构层次",
+      "tail": "四级结构",
+      "relation": "包含"
+    },
+    {
+      "head": "二级结构",
+      "tail": "氢键",
+      "relation": "主要由...稳定"
+    },
+    {
+      "head": "核酸",
+      "tail": "核苷酸",
+      "relation": "由...构成"
+    },
+    {
+      "head": "核酸",
+      "tail": "DNA双螺旋结构",
+      "relation": "具有特定结构"
+    },
+    {
+      "head": "DNA双螺旋结构",
+      "tail": "碱基配对原则",
+      "relation": "遵循"
+    },
+    {
+      "head": "酶",
+      "tail": "代谢",
+      "relation": "催化"
+    },
+    {
+      "head": "酶",
+      "tail": "高效性",
+      "relation": "具有特性"
+    },
+    {
+      "head": "酶",
+      "tail": "专一性",
+      "relation": "具有特性"
+    },
+    {
+      "head": "酶的作用机制",
+      "tail": "降低活化能",
+      "relation": "通过"
+    },
+    {
+      "head": "糖代谢",
+      "tail": "糖酵解",
+      "relation": "包含过程"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:19:27",
+    "version": "1.1"
+  }
+}

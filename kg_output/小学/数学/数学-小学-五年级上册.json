@@ -1,0 +1,743 @@
+{
+  "knowledge_tree": {
+    "title": "五年级上册数学",
+    "content": "包含小数乘法、位置、小数除法、简易方程、多边形的面积、可能性、数学广角等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "小数乘法",
+        "content": "小数乘法的计算方法和应用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "小数乘整数",
+            "content": "将小数转化为整数计算，再确定小数点的位置",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "计算方法",
+                "content": "先按整数乘法算出积，再点小数点；点小数点时，看因数中一共有几位小数，就从积的右边起数出几位，点上小数点",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "积的近似数",
+                "content": "按需要采用四舍五入法求积的近似数",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "小数乘小数",
+            "content": "计算方法与小数乘整数相同，注意积的小数位数",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "计算方法",
+                "content": "先按整数乘法算出积，再点小数点；点小数点时，看因数中一共有几位小数，就从积的右边起数出几位，点上小数点",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "积与因数的关系",
+                "content": "一个数（0除外）乘大于1的数，积比原来的数大；一个数（0除外）乘小于1的数，积比原来的数小",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "整数乘法运算律推广到小数",
+            "content": "整数乘法的交换律、结合律和分配律，对于小数乘法也适用",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "乘法交换律",
+                "content": "a×b=b×a",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "乘法结合律",
+                "content": "(a×b)×c=a×(b×c)",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "乘法分配律",
+                "content": "a×(b+c)=a×b+a×c",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "解决问题",
+            "content": "用小数乘法解决实际问题",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "估算解决实际问题",
+                "content": "用估算的方法解决购物等实际问题",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "分段计费问题",
+                "content": "解决出租车费、水费等分段计费问题",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "位置",
+        "content": "用数对表示位置",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "数对的定义",
+            "content": "用有顺序的两个数表示一个确定的位置",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "数对的表示方法",
+            "content": "通常表示列为第一个数，行为第二个数",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "用数对确定位置",
+            "content": "根据数对在方格纸上确定点的位置",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "小数除法",
+        "content": "小数除法的计算方法和应用",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "除数是整数的小数除法",
+            "content": "按整数除法的方法计算，商的小数点要和被除数的小数点对齐",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "计算方法",
+                "content": "按整数除法的方法计算，商的小数点要和被除数的小数点对齐",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "整数部分不够商1",
+                "content": "要在商的个位上写0，点上小数点后再除",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "一个数除以小数",
+            "content": "将除数转化为整数，再按除数是整数的小数除法进行计算",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "计算方法",
+                "content": "先移动除数的小数点，使它变成整数；除数的小数点向右移动几位，被除数的小数点也向右移动几位（位数不够的，在被除数的末尾用0补足）；然后按除数是整数的小数除法进行计算",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "商的近似数",
+            "content": "按需要采用四舍五入法求商的近似数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "循环小数",
+            "content": "一个数的小数部分，从某一位起，一个数字或者几个数字依次不断重复出现，这样的小数叫做循环小数",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "循环节",
+                "content": "一个循环小数的小数部分，依次不断重复出现的数字，就是这个循环小数的循环节",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "有限小数和无限小数",
+                "content": "小数部分的位数有限的小数是有限小数；小数部分的位数无限的小数是无限小数",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "用计算器探索规律",
+            "content": "用计算器计算，发现规律",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "解决问题",
+            "content": "用小数除法解决实际问题",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "进一法和去尾法",
+                "content": "根据实际情况采用进一法或去尾法取商的近似值",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "简易方程",
+        "content": "用字母表示数，解简易方程",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "用字母表示数",
+            "content": "用字母表示数、数量关系、运算定律和计算公式",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "用字母表示数量关系",
+                "content": "如速度、时间、路程的关系：s=vt",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "用字母表示运算定律",
+                "content": "如乘法分配律：a(b+c)=ab+ac",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "用字母表示计算公式",
+                "content": "如长方形面积公式：S=ab",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "方程的意义",
+            "content": "含有未知数的等式叫做方程",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "等式的性质",
+            "content": "等式两边加上或减去同一个数，左右两边仍然相等；等式两边乘同一个数，或除以同一个不为0的数，左右两边仍然相等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "解方程",
+            "content": "求方程的解的过程叫做解方程",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "解简单方程",
+                "content": "利用等式的性质解形如x±a=b、ax=b、x÷a=b的方程",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "解稍复杂的方程",
+                "content": "解形如ax±b=c、a(x±b)=c的方程",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "实际问题与方程",
+            "content": "列方程解决实际问题",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "列方程解决问题的步骤",
+                "content": "1.找出未知数，用字母x表示；2.分析实际问题中的数量关系，找出等量关系，列方程；3.解方程并检验、作答",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "列方程解决相遇问题",
+                "content": "如：甲速×时间+乙速×时间=总路程",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "多边形的面积",
+        "content": "平行四边形、三角形、梯形等多边形的面积计算",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "平行四边形的面积",
+            "content": "平行四边形的面积=底×高，S=ah",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "面积公式的推导",
+                "content": "通过割补法将平行四边形转化成长方形推导面积公式",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "三角形的面积",
+            "content": "三角形的面积=底×高÷2，S=ah÷2",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "面积公式的推导",
+                "content": "用两个完全一样的三角形拼成一个平行四边形推导面积公式",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "梯形的面积",
+            "content": "梯形的面积=（上底+下底）×高÷2，S=（a+b）h÷2",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "面积公式的推导",
+                "content": "用两个完全一样的梯形拼成一个平行四边形推导面积公式",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "组合图形的面积",
+            "content": "将组合图形分割或添补成已学过的图形，再计算面积",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "不规则图形的面积",
+            "content": "用数方格或转化为学过的图形估算不规则图形的面积",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "可能性",
+        "content": "事件发生的确定性和不确定性",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "事件的确定性",
+            "content": "有些事件的发生是确定的，如太阳从东边升起",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "事件的不确定性",
+            "content": "有些事件的发生是不确定的，如明天会下雨",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "可能性的大小",
+            "content": "事件发生的可能性有大有小",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数学广角——植树问题",
+        "content": "植树问题中的数学模型",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "两端都栽",
+            "content": "棵数=间隔数+1",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "两端不栽",
+            "content": "棵数=间隔数-1",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "一端栽一端不栽",
+            "content": "棵数=间隔数",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "封闭图形植树",
+            "content": "棵数=间隔数",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "小数乘法",
+      "tail": "小数乘整数",
+      "relation": "包含"
+    },
+    {
+      "head": "小数乘法",
+      "tail": "小数乘小数",
+      "relation": "包含"
+    },
+    {
+      "head": "小数乘法",
+      "tail": "整数乘法运算律推广到小数",
+      "relation": "包含"
+    },
+    {
+      "head": "小数乘法",
+      "tail": "解决问题",
+      "relation": "包含"
+    },
+    {
+      "head": "小数乘整数",
+      "tail": "计算方法",
+      "relation": "包含"
+    },
+    {
+      "head": "小数乘整数",
+      "tail": "积的近似数",
+      "relation": "包含"
+    },
+    {
+      "head": "小数乘小数",
+      "tail": "计算方法",
+      "relation": "包含"
+    },
+    {
+      "head": "小数乘小数",
+      "tail": "积与因数的关系",
+      "relation": "包含"
+    },
+    {
+      "head": "整数乘法运算律推广到小数",
+      "tail": "乘法交换律",
+      "relation": "包含"
+    },
+    {
+      "head": "整数乘法运算律推广到小数",
+      "tail": "乘法结合律",
+      "relation": "包含"
+    },
+    {
+      "head": "整数乘法运算律推广到小数",
+      "tail": "乘法分配律",
+      "relation": "包含"
+    },
+    {
+      "head": "解决问题",
+      "tail": "估算解决实际问题",
+      "relation": "包含"
+    },
+    {
+      "head": "解决问题",
+      "tail": "分段计费问题",
+      "relation": "包含"
+    },
+    {
+      "head": "位置",
+      "tail": "数对的定义",
+      "relation": "包含"
+    },
+    {
+      "head": "位置",
+      "tail": "数对的表示方法",
+      "relation": "包含"
+    },
+    {
+      "head": "位置",
+      "tail": "用数对确定位置",
+      "relation": "包含"
+    },
+    {
+      "head": "小数除法",
+      "tail": "除数是整数的小数除法",
+      "relation": "包含"
+    },
+    {
+      "head": "小数除法",
+      "tail": "一个数除以小数",
+      "relation": "包含"
+    },
+    {
+      "head": "小数除法",
+      "tail": "商的近似数",
+      "relation": "包含"
+    },
+    {
+      "head": "小数除法",
+      "tail": "循环小数",
+      "relation": "包含"
+    },
+    {
+      "head": "小数除法",
+      "tail": "用计算器探索规律",
+      "relation": "包含"
+    },
+    {
+      "head": "小数除法",
+      "tail": "解决问题",
+      "relation": "包含"
+    },
+    {
+      "head": "除数是整数的小数除法",
+      "tail": "计算方法",
+      "relation": "包含"
+    },
+    {
+      "head": "除数是整数的小数除法",
+      "tail": "整数部分不够商1",
+      "relation": "包含"
+    },
+    {
+      "head": "一个数除以小数",
+      "tail": "计算方法",
+      "relation": "包含"
+    },
+    {
+      "head": "循环小数",
+      "tail": "循环节",
+      "relation": "包含"
+    },
+    {
+      "head": "循环小数",
+      "tail": "有限小数和无限小数",
+      "relation": "包含"
+    },
+    {
+      "head": "解决问题",
+      "tail": "进一法和去尾法",
+      "relation": "包含"
+    },
+    {
+      "head": "简易方程",
+      "tail": "用字母表示数",
+      "relation": "包含"
+    },
+    {
+      "head": "简易方程",
+      "tail": "方程的意义",
+      "relation": "包含"
+    },
+    {
+      "head": "简易方程",
+      "tail": "等式的性质",
+      "relation": "包含"
+    },
+    {
+      "head": "简易方程",
+      "tail": "解方程",
+      "relation": "包含"
+    },
+    {
+      "head": "简易方程",
+      "tail": "实际问题与方程",
+      "relation": "包含"
+    },
+    {
+      "head": "用字母表示数",
+      "tail": "用字母表示数量关系",
+      "relation": "包含"
+    },
+    {
+      "head": "用字母表示数",
+      "tail": "用字母表示运算定律",
+      "relation": "包含"
+    },
+    {
+      "head": "用字母表示数",
+      "tail": "用字母表示计算公式",
+      "relation": "包含"
+    },
+    {
+      "head": "解方程",
+      "tail": "解简单方程",
+      "relation": "包含"
+    },
+    {
+      "head": "解方程",
+      "tail": "解稍复杂的方程",
+      "relation": "包含"
+    },
+    {
+      "head": "实际问题与方程",
+      "tail": "列方程解决问题的步骤",
+      "relation": "包含"
+    },
+    {
+      "head": "实际问题与方程",
+      "tail": "列方程解决相遇问题",
+      "relation": "包含"
+    },
+    {
+      "head": "多边形的面积",
+      "tail": "平行四边形的面积",
+      "relation": "包含"
+    },
+    {
+      "head": "多边形的面积",
+      "tail": "三角形的面积",
+      "relation": "包含"
+    },
+    {
+      "head": "多边形的面积",
+      "tail": "梯形的面积",
+      "relation": "包含"
+    },
+    {
+      "head": "多边形的面积",
+      "tail": "组合图形的面积",
+      "relation": "包含"
+    },
+    {
+      "head": "多边形的面积",
+      "tail": "不规则图形的面积",
+      "relation": "包含"
+    },
+    {
+      "head": "平行四边形的面积",
+      "tail": "面积公式的推导",
+      "relation": "包含"
+    },
+    {
+      "head": "三角形的面积",
+      "tail": "面积公式的推导",
+      "relation": "包含"
+    },
+    {
+      "head": "梯形的面积",
+      "tail": "面积公式的推导",
+      "relation": "包含"
+    },
+    {
+      "head": "可能性",
+      "tail": "事件的确定性",
+      "relation": "包含"
+    },
+    {
+      "head": "可能性",
+      "tail": "事件的不确定性",
+      "relation": "包含"
+    },
+    {
+      "head": "可能性",
+      "tail": "可能性的大小",
+      "relation": "包含"
+    },
+    {
+      "head": "数学广角——植树问题",
+      "tail": "两端都栽",
+      "relation": "包含"
+    },
+    {
+      "head": "数学广角——植树问题",
+      "tail": "两端不栽",
+      "relation": "包含"
+    },
+    {
+      "head": "数学广角——植树问题",
+      "tail": "一端栽一端不栽",
+      "relation": "包含"
+    },
+    {
+      "head": "数学广角——植树问题",
+      "tail": "封闭图形植树",
+      "relation": "包含"
+    },
+    {
+      "head": "小数乘法",
+      "tail": "整数乘法",
+      "relation": "基于"
+    },
+    {
+      "head": "小数除法",
+      "tail": "整数除法",
+      "relation": "基于"
+    },
+    {
+      "head": "平行四边形的面积",
+      "tail": "长方形的面积",
+      "relation": "基于"
+    },
+    {
+      "head": "三角形的面积",
+      "tail": "平行四边形的面积",
+      "relation": "基于"
+    },
+    {
+      "head": "梯形的面积",
+      "tail": "平行四边形的面积",
+      "relation": "基于"
+    },
+    {
+      "head": "组合图形的面积",
+      "tail": "基本图形的面积",
+      "relation": "基于"
+    },
+    {
+      "head": "数对",
+      "tail": "位置",
+      "relation": "用于表示"
+    },
+    {
+      "head": "方程",
+      "tail": "实际问题",
+      "relation": "用于解决"
+    },
+    {
+      "head": "植树问题",
+      "tail": "实际问题",
+      "relation": "用于解决"
+    },
+    {
+      "head": "小数乘法",
+      "tail": "小数除法",
+      "relation": "互为逆运算"
+    },
+    {
+      "head": "平行四边形的面积",
+      "tail": "三角形的面积",
+      "relation": "相关"
+    },
+    {
+      "head": "平行四边形的面积",
+      "tail": "梯形的面积",
+      "relation": "相关"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:13:05",
+    "version": "1.1"
+  }
+}

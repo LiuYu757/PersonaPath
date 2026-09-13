@@ -1,0 +1,375 @@
+{
+  "knowledge_tree": {
+    "title": "数字信号处理",
+    "content": "研究离散时间信号与系统的分析、处理及设计方法的学科，是电子信息类专业的核心课程。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "离散时间信号与系统",
+        "content": "离散时间信号的定义、表示方法及离散时间系统的基本概念与分类。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "离散时间信号",
+            "content": "在离散时间点上定义的信号，通常表示为序列x[n]。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "序列的表示",
+                "content": "用函数或图形表示离散序列，如x[n] = {..., 0.5, 1, 0.5, ...}。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "典型序列",
+                "content": "单位采样序列δ[n]、单位阶跃序列u[n]、实指数序列、正弦序列等。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "序列的基本运算",
+                "content": "包括相加、相乘、移位、翻折、尺度变换等。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "离散时间系统",
+            "content": "将输入序列映射为输出序列的变换或运算。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "系统分类",
+                "content": "线性系统、时不变系统、因果系统、稳定系统。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "线性时不变系统",
+                "content": "同时满足线性和时不变性的系统，其特性完全由单位脉冲响应h[n]描述。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "卷积和",
+                "content": "计算LTI系统零状态响应的基本运算，公式为y[n] = x[n] * h[n] = Σx[k]h[n-k]。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Z变换",
+        "content": "分析离散时间信号与系统的重要数学工具，类似于连续时间系统中的拉普拉斯变换。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "Z变换的定义",
+            "content": "双边Z变换：X(z) = Σx[n]z^{-n}；单边Z变换：Σx[n]z^{-n}, n>=0。",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "收敛域",
+            "content": "使Z变换级数收敛的z值集合，是Z变换的重要组成部分。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "逆Z变换",
+            "content": "从Z域表达式恢复时域序列的方法，包括部分分式展开法、留数法等。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "Z变换的性质",
+            "content": "线性、时移、尺度变换、卷积等定理。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "系统函数",
+            "content": "LTI系统Z变换的比值H(z)=Y(z)/X(z)，表征系统的频率特性。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "离散傅里叶变换",
+        "content": "对有限长序列进行傅里叶分析的重要工具，是数字信号处理的核心。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "DFT定义",
+            "content": "X[k] = Σx[n]e^{-j2πkn/N}, k=0,1,...,N-1。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "IDFT定义",
+            "content": "x[n] = (1/N)ΣX[k]e^{j2πkn/N}, n=0,1,...,N-1。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "DFT的性质",
+            "content": "线性、循环移位、循环卷积、对称性等。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "频率采样定理",
+            "content": "DFT可视为对序列连续频谱的等间隔采样。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "快速傅里叶变换",
+        "content": "高效计算DFT的算法，大大降低了计算复杂度。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "FFT基本思想",
+            "content": "利用DFT系数的对称性和周期性，将长序列DFT分解为短序列DFT的组合。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "基2-FFT算法",
+            "content": "包括时域抽取法和频域抽取法，将N点DFT分解为两个N/2点DFT。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "计算复杂度比较",
+            "content": "直接计算DFT需O(N²)次运算，FFT仅需O(Nlog₂N)次运算。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数字滤波器设计",
+        "content": "根据指标要求设计数字滤波器的系统函数或单位脉冲响应。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "IIR滤波器设计",
+            "content": "无限长单位脉冲响应滤波器，通常由模拟滤波器经变换得到。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "脉冲响应不变法",
+                "content": "保持模拟滤波器单位脉冲响应形状的设计方法。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "双线性变换法",
+                "content": "将s平面映射到z平面的非线性变换，避免频率混叠。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "FIR滤波器设计",
+            "content": "有限长单位脉冲响应滤波器，可实现严格线性相位。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "窗函数法",
+                "content": "用窗函数截断理想滤波器单位脉冲响应的设计方法。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "频率采样法",
+                "content": "在频域对理想频率响应采样，再经IDFT得到FIR滤波器系数。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "离散时间信号",
+      "tail": "序列的表示",
+      "relation": "包含"
+    },
+    {
+      "head": "离散时间信号",
+      "tail": "典型序列",
+      "relation": "包含"
+    },
+    {
+      "head": "离散时间信号",
+      "tail": "序列的基本运算",
+      "relation": "包含"
+    },
+    {
+      "head": "离散时间系统",
+      "tail": "系统分类",
+      "relation": "包含"
+    },
+    {
+      "head": "离散时间系统",
+      "tail": "线性时不变系统",
+      "relation": "包含"
+    },
+    {
+      "head": "线性时不变系统",
+      "tail": "卷积和",
+      "relation": "基于"
+    },
+    {
+      "head": "Z变换",
+      "tail": "Z变换的定义",
+      "relation": "包含"
+    },
+    {
+      "head": "Z变换",
+      "tail": "收敛域",
+      "relation": "包含"
+    },
+    {
+      "head": "Z变换",
+      "tail": "逆Z变换",
+      "relation": "包含"
+    },
+    {
+      "head": "Z变换",
+      "tail": "Z变换的性质",
+      "relation": "包含"
+    },
+    {
+      "head": "Z变换",
+      "tail": "系统函数",
+      "relation": "应用于"
+    },
+    {
+      "head": "离散傅里叶变换",
+      "tail": "DFT定义",
+      "relation": "包含"
+    },
+    {
+      "head": "离散傅里叶变换",
+      "tail": "IDFT定义",
+      "relation": "包含"
+    },
+    {
+      "head": "离散傅里叶变换",
+      "tail": "DFT的性质",
+      "relation": "包含"
+    },
+    {
+      "head": "离散傅里叶变换",
+      "tail": "频率采样定理",
+      "relation": "基于"
+    },
+    {
+      "head": "快速傅里叶变换",
+      "tail": "FFT基本思想",
+      "relation": "基于"
+    },
+    {
+      "head": "快速傅里叶变换",
+      "tail": "基2-FFT算法",
+      "relation": "包含"
+    },
+    {
+      "head": "快速傅里叶变换",
+      "tail": "计算复杂度比较",
+      "relation": "涉及"
+    },
+    {
+      "head": "数字滤波器设计",
+      "tail": "IIR滤波器设计",
+      "relation": "包含"
+    },
+    {
+      "head": "数字滤波器设计",
+      "tail": "FIR滤波器设计",
+      "relation": "包含"
+    },
+    {
+      "head": "IIR滤波器设计",
+      "tail": "脉冲响应不变法",
+      "relation": "包含"
+    },
+    {
+      "head": "IIR滤波器设计",
+      "tail": "双线性变换法",
+      "relation": "包含"
+    },
+    {
+      "head": "FIR滤波器设计",
+      "tail": "窗函数法",
+      "relation": "包含"
+    },
+    {
+      "head": "FIR滤波器设计",
+      "tail": "频率采样法",
+      "relation": "包含"
+    },
+    {
+      "head": "卷积和",
+      "tail": "线性时不变系统",
+      "relation": "描述"
+    },
+    {
+      "head": "系统函数",
+      "tail": "Z变换",
+      "relation": "基于"
+    },
+    {
+      "head": "频率采样定理",
+      "tail": "离散傅里叶变换",
+      "relation": "解释"
+    },
+    {
+      "head": "FFT基本思想",
+      "tail": "离散傅里叶变换",
+      "relation": "优化"
+    },
+    {
+      "head": "典型序列",
+      "tail": "单位采样序列",
+      "relation": "包含"
+    },
+    {
+      "head": "典型序列",
+      "tail": "单位阶跃序列",
+      "relation": "包含"
+    },
+    {
+      "head": "Z变换的性质",
+      "tail": "卷积定理",
+      "relation": "包含"
+    },
+    {
+      "head": "卷积定理",
+      "tail": "系统函数",
+      "relation": "关联"
+    },
+    {
+      "head": "数字滤波器设计",
+      "tail": "系统函数",
+      "relation": "目标"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:32:15",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,678 @@
+{
+  "knowledge_tree": {
+    "title": "九年级上册化学",
+    "content": "九年级上册化学教材，涵盖化学基础概念、物质构成、化学反应、碳和碳的氧化物、能源等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "绪论 化学使世界变得更加绚丽多彩",
+        "content": "化学的定义、重要性及发展历程",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "化学的定义",
+            "content": "化学是研究物质的组成、结构、性质、转化及应用的一门基础学科，其特征是从分子层次认识物质，通过化学变化创造物质",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "化学的重要性",
+            "content": "化学在衣食住行、医疗、工业等领域的应用",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "化学发展历程",
+            "content": "从古代炼金术到现代化学的演变，包括拉瓦锡、道尔顿等科学家的贡献",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第一单元 走进化学世界",
+        "content": "物质的变化和性质、化学实验与科学探究",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "课题1 物质的变化和性质",
+            "content": "物理变化与化学变化的区别，物理性质与化学性质",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "物理变化",
+                "content": "没有生成新物质的变化，如水的沸腾、石蜡的熔化",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "化学变化",
+                "content": "生成新物质的变化，如氢氧化钠与硫酸铜反应、大理石与盐酸反应",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "物理性质",
+                "content": "不需要发生化学变化就表现出来的性质，如颜色、状态、气味、硬度、熔点、沸点、密度",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "化学性质",
+                "content": "在化学变化中表现出来的性质，如可燃性、氧化性",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "课题2 化学实验与科学探究",
+            "content": "化学实验室规则、基本操作和科学探究方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "化学实验室规则",
+                "content": "安全注意事项和试剂取用规则",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "化学实验基本操作",
+                "content": "固体和液体试剂的取用、加热、仪器连接、洗涤等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "科学探究",
+                "content": "通过观察和实验获取证据，通过分析和推理得出结论",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元 空气和氧气",
+        "content": "空气的组成、氧气的性质和制取",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "课题1 我们周围的空气",
+            "content": "空气的成分、各成分的性质和用途，保护大气环境",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "空气的成分",
+                "content": "按体积计算，氮气78%、氧气21%、稀有气体0.94%、二氧化碳0.03%、其他气体0.03%",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "氮气的性质和用途",
+                "content": "无色无味，化学性质不活泼，用作保护气、制造硝酸和氮肥",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "氧气的性质和用途",
+                "content": "无色无味，支持燃烧，用于医疗急救、炼钢等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "稀有气体的性质和用途",
+                "content": "无色无味，化学性质不活泼，用于霓虹灯、激光器等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "保护大气环境",
+                "content": "空气污染的危害及防治措施",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "课题2 氧气",
+            "content": "氧气的物理性质和化学性质",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "氧气的物理性质",
+                "content": "无色无味气体，密度略大于空气，不易溶于水",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "氧气的化学性质",
+                "content": "支持燃烧，与碳、硫、铁等物质反应",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "化合反应",
+                "content": "由两种或两种以上物质生成另一种物质的反应",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "氧化反应",
+                "content": "物质与氧气发生的反应",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "课题3 制取氧气",
+            "content": "实验室制取氧气的方法和原理",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "高锰酸钾制氧气",
+                "content": "高锰酸钾加热分解生成锰酸钾、二氧化锰和氧气",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "过氧化氢制氧气",
+                "content": "过氧化氢在二氧化锰催化下分解生成水和氧气",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "催化剂",
+                "content": "能改变其他物质的化学反应速率，而本身的质量和化学性质在反应前后都没有变化的物质",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "分解反应",
+                "content": "由一种反应物生成两种或两种以上其他物质的反应",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三单元 物质构成的奥秘",
+        "content": "分子和原子、原子结构、元素",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "课题1 分子和原子",
+            "content": "物质由微观粒子构成，分子和原子的概念",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "分子",
+                "content": "保持物质化学性质的最小粒子",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "原子",
+                "content": "化学变化中的最小粒子",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "分子的性质",
+                "content": "质量和体积很小、不断运动、有间隔",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "课题2 原子结构",
+            "content": "原子的构成、核外电子排布、相对原子质量",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "原子的构成",
+                "content": "原子由原子核和核外电子构成，原子核由质子和中子构成",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "核外电子排布",
+                "content": "电子分层排布，用原子结构示意图表示",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "离子",
+                "content": "带电的原子，如钠离子、氯离子",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "相对原子质量",
+                "content": "以一种碳原子质量的1/12为标准，其他原子的质量与它相比较所得的比",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "课题3 元素",
+            "content": "元素的概念、元素符号、元素周期表",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "元素",
+                "content": "质子数相同的一类原子的总称",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "元素符号",
+                "content": "表示元素的国际通用符号",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "元素周期表",
+                "content": "根据元素原子结构和性质科学有序排列得到的表",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第四单元 自然界的水",
+        "content": "水资源及其利用、水的组成、物质组成的表示",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "课题1 水资源及其利用",
+            "content": "水资源的分布、保护和水净化",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "水资源分布",
+                "content": "地球水资源丰富但淡水有限，我国水资源分布不均",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "水污染与保护",
+                "content": "水污染的危害及防治措施",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "水的净化",
+                "content": "沉降、过滤、吸附、蒸馏等净化方法",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "硬水和软水",
+                "content": "含有较多可溶性钙、镁化合物的水叫硬水，不含或含较少可溶性钙、镁化合物的水叫软水",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "课题2 水的组成",
+            "content": "水的电解实验和组成分析",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电解水实验",
+                "content": "水通电分解生成氢气和氧气",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "水的组成",
+                "content": "水由氢元素和氧元素组成",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "单质和化合物",
+                "content": "由同种元素组成的纯净物叫单质，由不同种元素组成的纯净物叫化合物",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "氧化物",
+                "content": "由两种元素组成且其中一种是氧元素的化合物",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "课题3 物质组成的表示",
+            "content": "化学式、化合价和相关计算",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "化学式",
+                "content": "用元素符号和数字的组合表示物质组成的式子",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "化合价",
+                "content": "元素在化合物中表现出来的性质，用于确定化学式",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "相对分子质量",
+                "content": "化学式中各原子的相对原子质量的总和",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "元素质量比",
+                "content": "化合物中各元素的质量比",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "元素质量分数",
+                "content": "某元素质量与组成物质的元素总质量之比",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第五单元 化学反应的定量关系",
+        "content": "质量守恒定律、化学方程式",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "课题1 质量守恒定律",
+            "content": "质量守恒定律的内容和微观解释",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "质量守恒定律",
+                "content": "参加化学反应的各物质的质量总和等于反应后生成的各物质的质量总和",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "微观解释",
+                "content": "化学反应前后原子的种类、数目、质量不变",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "课题2 化学方程式",
+            "content": "化学方程式的书写和计算",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "化学方程式",
+                "content": "用化学式表示化学反应的式子",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "化学方程式的书写",
+                "content": "依据客观事实和质量守恒定律",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "根据化学方程式的计算",
+                "content": "利用化学反应中物质的质量比进行计算",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第六单元 碳和碳的氧化物",
+        "content": "碳单质的多样性、碳的氧化物、二氧化碳的实验室制取",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "课题1 碳单质的多样性",
+            "content": "金刚石、石墨、C60等碳单质的性质和用途",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "金刚石",
+                "content": "无色透明固体，天然最硬物质，用于裁玻璃、钻头等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "石墨",
+                "content": "灰黑色有金属光泽固体，质软导电，用于电极、铅笔芯等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "C60",
+                "content": "分子由60个碳原子构成，结构似足球，有特殊性质",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "碳的化学性质",
+                "content": "常温稳定，高温能与氧气、氧化物反应",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "课题2 碳的氧化物",
+            "content": "二氧化碳和一氧化碳的性质和用途",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "二氧化碳",
+                "content": "无色无味气体，密度大于空气，能溶于水，不支持燃烧，能与水、石灰水反应",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "一氧化碳",
+                "content": "无色无味气体，难溶于水，可燃性、还原性、毒性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "温室效应",
+                "content": "二氧化碳等气体导致地球升温的现象",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "低碳行动",
+                "content": "减少二氧化碳排放的措施",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "课题3 二氧化碳的实验室制取",
+            "content": "实验室制取二氧化碳的原理、装置和检验",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "反应原理",
+                "content": "碳酸钙与稀盐酸反应生成氯化钙、水和二氧化碳",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "制取装置",
+                "content": "固液不加热型发生装置，向上排空气法收集",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "检验方法",
+                "content": "通入澄清石灰水变浑浊",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第七单元 能源的合理利用与开发",
+        "content": "燃料的燃烧、化石能源的合理利用",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "课题1 燃料的燃烧",
+            "content": "燃烧的条件、灭火的原理、化学反应中的能量变化",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "燃烧的条件",
+                "content": "可燃物、氧气、达到着火点",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "灭火的原理",
+                "content": "清除可燃物、隔绝氧气、降温至着火点以下",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "易燃物和易爆物",
+                "content": "安全使用和储存的知识",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "化学反应中的能量变化",
+                "content": "通常表现为热量的变化，放热或吸热",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "课题2 化石能源的合理利用",
+            "content": "煤、石油、天然气的利用和环境影响",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "煤",
+                "content": "主要含碳元素，用作燃料和化工原料",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "石油",
+                "content": "主要含碳氢元素，炼制得到多种产品",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "天然气",
+                "content": "主要成分甲烷，清洁燃料",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "化石能源的环境影响",
+                "content": "燃烧产生污染物和温室气体",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "新能源开发",
+                "content": "氢能、太阳能、风能等清洁能源",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "化学",
+      "tail": "物质",
+      "relation": "研究"
+    },
+    {
+      "head": "化学变化",
+      "tail": "物理变化",
+      "relation": "区别"
+    },
+    {
+      "head": "氧气",
+      "tail": "燃烧",
+      "relation": "支持"
+    },
+    {
+      "head": "催化剂",
+      "tail": "化学反应速率",
+      "relation": "改变"
+    },
+    {
+      "head": "分子",
+      "tail": "原子",
+      "relation": "由...构成"
+    },
+    {
+      "head": "元素",
+      "tail": "原子",
+      "relation": "质子数相同"
+    },
+    {
+      "head": "化学式",
+      "tail": "元素符号",
+      "relation": "由...组成"
+    },
+    {
+      "head": "质量守恒定律",
+      "tail": "原子",
+      "relation": "基于"
+    },
+    {
+      "head": "二氧化碳",
+      "tail": "石灰水",
+      "relation": "使...变浑浊"
+    },
+    {
+      "head": "燃烧",
+      "tail": "氧气",
+      "relation": "需要"
+    },
+    {
+      "head": "化石能源",
+      "tail": "环境污染",
+      "relation": "导致"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:14:08",
+    "version": "1.1"
+  }
+}

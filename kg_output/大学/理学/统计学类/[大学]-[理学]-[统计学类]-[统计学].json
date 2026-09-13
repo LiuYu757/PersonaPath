@@ -1,0 +1,895 @@
+{
+  "knowledge_tree": {
+    "title": "统计学",
+    "content": "统计学是研究数据的收集、整理、分析和解释的科学，旨在探索数据内在的规律性和不确定性。",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "描述统计学",
+        "content": "通过图表和概括性数字来描述数据的基本特征。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "数据的类型",
+            "content": "数据分为定性数据和定量数据。定量数据又分为连续型数据和离散型数据。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "定性数据",
+                "content": "表示类别或品质的数据，如性别、品牌。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "定量数据",
+                "content": "用数值表示的数据，可以进行数学运算。",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "连续型数据",
+                    "content": "可以在某个区间内取任意值的数据，如身高、温度。",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "离散型数据",
+                    "content": "只能取整数或特定值的数据，如人数、零件数。",
+                    "difficulty": "1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "数据的图表展示",
+            "content": "用图形直观展示数据的分布和特征。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "直方图",
+                "content": "用于展示定量数据的分布，横轴为数据分组，纵轴为频数或频率。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "条形图",
+                "content": "用于展示定性数据或离散型数据的频数分布。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "饼图",
+                "content": "用于表示各部分在总体中所占的比例。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "箱线图",
+                "content": "用于显示一组数据的五数概括（最小值、第一四分位数、中位数、第三四分位数、最大值）和异常值。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "数据的概括性度量",
+            "content": "用数字概括数据的中心位置、离散程度和分布形状。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "集中趋势的度量",
+                "content": "描述数据向中心点聚集的程度。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "平均数",
+                    "content": "所有数据之和除以数据个数，公式：`x̄ = (Σx_i) / n`。",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "中位数",
+                    "content": "将数据排序后位于中间位置的值。",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "众数",
+                    "content": "数据中出现次数最多的值。",
+                    "difficulty": "1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "离散程度的度量",
+                "content": "描述数据的分散或变异程度。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "极差",
+                    "content": "最大值与最小值之差。",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "方差",
+                    "content": "各数据与平均数离差平方的平均数，公式：`s² = Σ(x_i - x̄)² / (n-1)`（样本方差）。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "标准差",
+                    "content": "方差的算术平方根，公式：`s = √s²`。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "四分位距",
+                    "content": "第三四分位数与第一四分位数之差。",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "概率论基础",
+        "content": "研究随机现象数量规律的数学分支，为推断统计学提供理论依据。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "基本概念",
+            "content": "包括随机试验、样本空间、事件等。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "随机事件",
+                "content": "随机试验中可能发生也可能不发生的结果。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "概率的定义",
+                "content": "描述事件发生可能性大小的数值，介于0和1之间。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "概率的计算",
+            "content": "包括古典概型、几何概型和概率的公理化定义。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "古典概型",
+                "content": "每个基本事件发生的可能性相同，概率公式：`P(A) = k/n`。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "条件概率",
+                "content": "事件A在事件B已发生条件下的概率，公式：`P(A|B) = P(A∩B) / P(B)`。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "乘法公式",
+                "content": "`P(A∩B) = P(A|B)P(B)`。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "全概率公式",
+                "content": "若事件B₁, B₂, ..., Bk是样本空间的一个划分，则`P(A) = ΣP(A|B_i)P(B_i)`。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "贝叶斯公式",
+                "content": "`P(B_i|A) = [P(A|B_i)P(B_i)] / P(A)`。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "随机变量及其分布",
+            "content": "将随机试验的结果数量化。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "离散型随机变量",
+                "content": "取值为有限个或可列个的随机变量。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "概率分布律",
+                    "content": "描述离散型随机变量取各个值的概率。",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "二项分布",
+                    "content": "n重伯努利试验中成功次数的分布，公式：`P(X=k) = C(n,k) p^k (1-p)^(n-k)`。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "泊松分布",
+                    "content": "单位时间内稀有事件发生次数的分布，公式：`P(X=k) = (λ^k e^{-λ}) / k!`。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "连续型随机变量",
+                "content": "取值充满某个区间的随机变量。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "概率密度函数",
+                    "content": "描述连续型随机变量在某个值附近取值的概率密度。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "正态分布",
+                    "content": "最重要的连续型分布，概率密度函数为`f(x) = (1/√(2πσ²)) exp(-(x-μ)²/(2σ²))`。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "均匀分布",
+                    "content": "在区间[a, b]上等可能取值的分布。",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "抽样分布与参数估计",
+        "content": "研究样本统计量的分布，并利用样本信息对总体参数进行估计。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "抽样与抽样分布",
+            "content": "样本统计量的概率分布称为抽样分布。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "简单随机抽样",
+                "content": "每个样本被抽中的概率相同。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "样本均值的分布",
+                "content": "若总体服从正态分布，则样本均值服从正态分布；若总体非正态但样本量足够大（n≥30），根据中心极限定理，样本均值近似服从正态分布。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "中心极限定理",
+                "content": "无论总体分布形态如何，当样本量足够大时，样本均值的抽样分布近似于正态分布。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "参数估计",
+            "content": "用样本统计量估计总体参数的方法。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "点估计",
+                "content": "用样本统计量的某个取值直接作为总体参数的估计值。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "矩估计法",
+                    "content": "用样本矩估计总体矩。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "最大似然估计法",
+                    "content": "选择使样本出现概率最大的参数值作为估计值。",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "区间估计",
+                "content": "在点估计的基础上，给出一个包含总体参数的区间，并给出该区间包含参数真值的可信程度。",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "置信区间",
+                    "content": "由样本统计量构造的总体参数的估计区间。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "单个总体均值的区间估计",
+                    "content": "已知总体方差时用Z统计量，未知时用t统计量。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "假设检验",
+        "content": "利用样本信息判断关于总体参数的某个假设是否成立。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "基本思想与步骤",
+            "content": "包括提出原假设和备择假设、确定检验统计量、规定显著性水平、做出决策等。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "原假设与备择假设",
+                "content": "原假设是等待检验的假设，通常表示没有差异或没有效果；备择假设是与原假设对立的假设。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "显著性水平",
+                "content": "拒绝原假设时可能犯错的概率，记为α，通常取0.05或0.01。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "P值",
+                "content": "在原假设成立的前提下，得到当前样本结果或更极端结果的概率。P值越小，拒绝原假设的证据越强。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "单个总体的假设检验",
+            "content": "对单个总体参数的检验。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "总体均值的检验",
+                "content": "包括Z检验（总体方差已知）和t检验（总体方差未知）。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "总体比例的检验",
+                "content": "使用Z统计量进行检验。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "两个总体的假设检验",
+            "content": "比较两个总体参数的差异。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "两个总体均值之差的检验",
+                "content": "包括独立样本和配对样本的检验。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "方差分析与回归分析",
+        "content": "研究变量间关系的统计方法。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "单因素方差分析",
+            "content": "检验多个总体均值是否相等的统计方法。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "基本思想",
+                "content": "通过比较组间变异和组内变异来判断因素对观测值是否有显著影响。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "方差分析表",
+                "content": "展示平方和、自由度、均方和F统计量的表格。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "相关与回归分析",
+            "content": "研究变量间相互关系的密切程度和数量规律。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "相关分析",
+                "content": "研究变量间关系的方向和密切程度。",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "相关系数",
+                    "content": "度量两个定量变量之间线性相关程度的统计量，公式：`r = Σ[(x_i - x̄)(y_i - ȳ)] / √[Σ(x_i - x̄)² Σ(y_i - ȳ)²]`。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "一元线性回归",
+                "content": "研究一个自变量与一个因变量之间的线性关系。",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "回归模型",
+                    "content": "`y = β₀ + β₁x + ε`，其中ε为随机误差。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "最小二乘估计",
+                    "content": "通过最小化残差平方和来估计回归系数β₀和β₁。",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "回归方程的显著性检验",
+                    "content": "包括对回归系数的t检验和对回归方程的F检验。",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "统计学",
+      "tail": "描述统计学",
+      "relation": "包含"
+    },
+    {
+      "head": "统计学",
+      "tail": "概率论基础",
+      "relation": "包含"
+    },
+    {
+      "head": "统计学",
+      "tail": "推断统计学",
+      "relation": "包含"
+    },
+    {
+      "head": "描述统计学",
+      "tail": "数据的类型",
+      "relation": "包含"
+    },
+    {
+      "head": "描述统计学",
+      "tail": "数据的图表展示",
+      "relation": "包含"
+    },
+    {
+      "head": "描述统计学",
+      "tail": "数据的概括性度量",
+      "relation": "包含"
+    },
+    {
+      "head": "数据的类型",
+      "tail": "定性数据",
+      "relation": "包含"
+    },
+    {
+      "head": "数据的类型",
+      "tail": "定量数据",
+      "relation": "包含"
+    },
+    {
+      "head": "定量数据",
+      "tail": "连续型数据",
+      "relation": "包含"
+    },
+    {
+      "head": "定量数据",
+      "tail": "离散型数据",
+      "relation": "包含"
+    },
+    {
+      "head": "数据的图表展示",
+      "tail": "直方图",
+      "relation": "包含"
+    },
+    {
+      "head": "数据的图表展示",
+      "tail": "条形图",
+      "relation": "包含"
+    },
+    {
+      "head": "数据的图表展示",
+      "tail": "饼图",
+      "relation": "包含"
+    },
+    {
+      "head": "数据的图表展示",
+      "tail": "箱线图",
+      "relation": "包含"
+    },
+    {
+      "head": "数据的概括性度量",
+      "tail": "集中趋势的度量",
+      "relation": "包含"
+    },
+    {
+      "head": "数据的概括性度量",
+      "tail": "离散程度的度量",
+      "relation": "包含"
+    },
+    {
+      "head": "集中趋势的度量",
+      "tail": "平均数",
+      "relation": "包含"
+    },
+    {
+      "head": "集中趋势的度量",
+      "tail": "中位数",
+      "relation": "包含"
+    },
+    {
+      "head": "集中趋势的度量",
+      "tail": "众数",
+      "relation": "包含"
+    },
+    {
+      "head": "离散程度的度量",
+      "tail": "极差",
+      "relation": "包含"
+    },
+    {
+      "head": "离散程度的度量",
+      "tail": "方差",
+      "relation": "包含"
+    },
+    {
+      "head": "离散程度的度量",
+      "tail": "标准差",
+      "relation": "包含"
+    },
+    {
+      "head": "离散程度的度量",
+      "tail": "四分位距",
+      "relation": "包含"
+    },
+    {
+      "head": "概率论基础",
+      "tail": "基本概念",
+      "relation": "包含"
+    },
+    {
+      "head": "概率论基础",
+      "tail": "概率的计算",
+      "relation": "包含"
+    },
+    {
+      "head": "概率论基础",
+      "tail": "随机变量及其分布",
+      "relation": "包含"
+    },
+    {
+      "head": "基本概念",
+      "tail": "随机事件",
+      "relation": "包含"
+    },
+    {
+      "head": "基本概念",
+      "tail": "概率的定义",
+      "relation": "包含"
+    },
+    {
+      "head": "概率的计算",
+      "tail": "古典概型",
+      "relation": "包含"
+    },
+    {
+      "head": "概率的计算",
+      "tail": "条件概率",
+      "relation": "包含"
+    },
+    {
+      "head": "概率的计算",
+      "tail": "乘法公式",
+      "relation": "包含"
+    },
+    {
+      "head": "概率的计算",
+      "tail": "全概率公式",
+      "relation": "包含"
+    },
+    {
+      "head": "概率的计算",
+      "tail": "贝叶斯公式",
+      "relation": "包含"
+    },
+    {
+      "head": "随机变量及其分布",
+      "tail": "离散型随机变量",
+      "relation": "包含"
+    },
+    {
+      "head": "随机变量及其分布",
+      "tail": "连续型随机变量",
+      "relation": "包含"
+    },
+    {
+      "head": "离散型随机变量",
+      "tail": "概率分布律",
+      "relation": "包含"
+    },
+    {
+      "head": "离散型随机变量",
+      "tail": "二项分布",
+      "relation": "包含"
+    },
+    {
+      "head": "离散型随机变量",
+      "tail": "泊松分布",
+      "relation": "包含"
+    },
+    {
+      "head": "连续型随机变量",
+      "tail": "概率密度函数",
+      "relation": "包含"
+    },
+    {
+      "head": "连续型随机变量",
+      "tail": "正态分布",
+      "relation": "包含"
+    },
+    {
+      "head": "连续型随机变量",
+      "tail": "均匀分布",
+      "relation": "包含"
+    },
+    {
+      "head": "推断统计学",
+      "tail": "抽样分布与参数估计",
+      "relation": "包含"
+    },
+    {
+      "head": "推断统计学",
+      "tail": "假设检验",
+      "relation": "包含"
+    },
+    {
+      "head": "抽样分布与参数估计",
+      "tail": "抽样与抽样分布",
+      "relation": "包含"
+    },
+    {
+      "head": "抽样分布与参数估计",
+      "tail": "参数估计",
+      "relation": "包含"
+    },
+    {
+      "head": "抽样与抽样分布",
+      "tail": "简单随机抽样",
+      "relation": "包含"
+    },
+    {
+      "head": "抽样与抽样分布",
+      "tail": "样本均值的分布",
+      "relation": "包含"
+    },
+    {
+      "head": "抽样与抽样分布",
+      "tail": "中心极限定理",
+      "relation": "包含"
+    },
+    {
+      "head": "参数估计",
+      "tail": "点估计",
+      "relation": "包含"
+    },
+    {
+      "head": "参数估计",
+      "tail": "区间估计",
+      "relation": "包含"
+    },
+    {
+      "head": "点估计",
+      "tail": "矩估计法",
+      "relation": "包含"
+    },
+    {
+      "head": "点估计",
+      "tail": "最大似然估计法",
+      "relation": "包含"
+    },
+    {
+      "head": "区间估计",
+      "tail": "置信区间",
+      "relation": "包含"
+    },
+    {
+      "head": "区间估计",
+      "tail": "单个总体均值的区间估计",
+      "relation": "包含"
+    },
+    {
+      "head": "假设检验",
+      "tail": "基本思想与步骤",
+      "relation": "包含"
+    },
+    {
+      "head": "假设检验",
+      "tail": "单个总体的假设检验",
+      "relation": "包含"
+    },
+    {
+      "head": "假设检验",
+      "tail": "两个总体的假设检验",
+      "relation": "包含"
+    },
+    {
+      "head": "基本思想与步骤",
+      "tail": "原假设与备择假设",
+      "relation": "包含"
+    },
+    {
+      "head": "基本思想与步骤",
+      "tail": "显著性水平",
+      "relation": "包含"
+    },
+    {
+      "head": "基本思想与步骤",
+      "tail": "P值",
+      "relation": "包含"
+    },
+    {
+      "head": "单个总体的假设检验",
+      "tail": "总体均值的检验",
+      "relation": "包含"
+    },
+    {
+      "head": "单个总体的假设检验",
+      "tail": "总体比例的检验",
+      "relation": "包含"
+    },
+    {
+      "head": "两个总体的假设检验",
+      "tail": "两个总体均值之差的检验",
+      "relation": "包含"
+    },
+    {
+      "head": "方差分析与回归分析",
+      "tail": "单因素方差分析",
+      "relation": "包含"
+    },
+    {
+      "head": "方差分析与回归分析",
+      "tail": "相关与回归分析",
+      "relation": "包含"
+    },
+    {
+      "head": "相关与回归分析",
+      "tail": "相关分析",
+      "relation": "包含"
+    },
+    {
+      "head": "相关与回归分析",
+      "tail": "一元线性回归",
+      "relation": "包含"
+    },
+    {
+      "head": "相关分析",
+      "tail": "相关系数",
+      "relation": "包含"
+    },
+    {
+      "head": "一元线性回归",
+      "tail": "回归模型",
+      "relation": "包含"
+    },
+    {
+      "head": "一元线性回归",
+      "tail": "最小二乘估计",
+      "relation": "包含"
+    },
+    {
+      "head": "一元线性回归",
+      "tail": "回归方程的显著性检验",
+      "relation": "包含"
+    },
+    {
+      "head": "概率论基础",
+      "tail": "推断统计学",
+      "relation": "为...提供理论依据"
+    },
+    {
+      "head": "中心极限定理",
+      "tail": "样本均值的分布",
+      "relation": "是...的理论基础"
+    },
+    {
+      "head": "条件概率",
+      "tail": "贝叶斯公式",
+      "relation": "推导出"
+    },
+    {
+      "head": "点估计",
+      "tail": "区间估计",
+      "relation": "是...的基础"
+    },
+    {
+      "head": "相关分析",
+      "tail": "一元线性回归",
+      "relation": "是...的前提"
+    },
+    {
+      "head": "平均数",
+      "tail": "方差",
+      "relation": "用于计算"
+    },
+    {
+      "head": "方差",
+      "tail": "标准差",
+      "relation": "是...的平方根"
+    },
+    {
+      "head": "正态分布",
+      "tail": "样本均值的分布",
+      "relation": "是...的极限分布"
+    },
+    {
+      "head": "直方图",
+      "tail": "连续型数据",
+      "relation": "常用于展示"
+    },
+    {
+      "head": "条形图",
+      "tail": "定性数据",
+      "relation": "常用于展示"
+    },
+    {
+      "head": "原假设",
+      "tail": "P值",
+      "relation": "用于计算"
+    },
+    {
+      "head": "最小二乘估计",
+      "tail": "回归系数",
+      "relation": "用于估计"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:25:37",
+    "version": "1.1"
+  }
+}

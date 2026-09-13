@@ -1,0 +1,565 @@
+{
+  "knowledge_tree": {
+    "title": "美术九年级上册",
+    "content": "义务教育教科书美术九年级上册，涵盖中国古代美术名作、民间工艺、陶瓷艺术、古城古镇考察及民间美术等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元 感受中国古代美术名作",
+        "content": "欣赏和分析中国古代绘画、雕塑、工艺和建筑作品，体会其文化内涵和审美特征",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第1课 独树一帜的中国画",
+            "content": "中国画的历史发展、艺术形式与审美特色，包括人物画、山水画、花鸟画及工笔画与写意画",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "中国画的定义与历史",
+                "content": "中国画是以毛笔、墨、宣纸等为工具，注重笔墨韵味和意境表达的绘画形式，历史悠久",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "人物画",
+                "content": "强调“以形传神”，通过刻画人物形象传达内在精神",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "代表作品《步辇图》",
+                    "content": "唐代阎立本作，表现唐朝与吐蕃和亲的场景，人物形象生动传神",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "代表作品《韩熙载夜宴图》",
+                    "content": "五代顾闳中作，以工笔重彩长卷形式描绘南唐吏部侍郎韩熙载的家宴场景",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "山水画",
+                "content": "强调表现意境，通过自然景观抒发情感",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "代表作品《溪山行旅图》",
+                    "content": "北宋范宽作，以全景式构图描绘关中山区雄伟的自然景色",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "代表作品《富春山居图》",
+                    "content": "元代黄公望作，描绘浙江富春江一带的河山，笔墨凝练",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "花鸟画",
+                "content": "强调借物抒情、托物言志，通过花鸟题材表达情感",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "代表作品《写生珍禽图》",
+                    "content": "五代黄筌作，强调写实，重视表现动物的质感",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "代表作品《墨竹图》",
+                    "content": "北宋文同作，以墨色浓淡变化画竹，表达思想情感",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "六法论",
+                "content": "南齐谢赫提出的品评中国画的标准：气韵生动、骨法用笔、应物象形、随类赋彩、经营位置、传移模写",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2课 异彩纷呈的中国古代雕塑、工艺和建筑",
+            "content": "欣赏和分析中国古代雕塑、工艺和建筑作品，了解其特征和功能",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "中国古代雕塑",
+                "content": "注重神韵而非逼真造型，包括陵墓雕塑、宗教雕塑、民俗雕塑等",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "代表作品奉先寺卢舍那佛龛",
+                    "content": "唐代河南洛阳龙门石窟的雕塑，主佛高17.14米，结跏趺坐",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "代表作品跃马",
+                    "content": "西汉霍去病墓石雕，利用巨石原形略加雕凿，捕捉骏马奋蹄欲跃的神态",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "中国古代工艺",
+                "content": "包括彩陶、玉器、青铜器、漆器、织绣、瓷器等，闪耀古代劳动人民智慧",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "青铜器",
+                    "content": "商周时期的青铜器，如四羊方尊、大盂鼎，造型和谐富于力度",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "瓷器",
+                    "content": "宋代和明清的瓷器，如青花海水龙纹瓷扁瓶、粉彩九桃天球瓶，设计精美",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "中国古代建筑",
+                "content": "独特的木构架结构、组群布局和建筑形象，如应县木塔、北京故宫、颐和园",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "屋顶类型",
+                    "content": "歇山、重檐庑殿、四角攒尖、硬山、悬山、卷棚、单坡、圆攒尖、单檐庑殿等",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "代表建筑故宫太和殿",
+                    "content": "明、清北京皇城的核心建筑，面阔十一间，进深五间，通高35.05米",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元 情趣浓郁 能工巧匠",
+        "content": "学习运用剪纸、编结艺术、蜡染、扎染、彩塑等艺术形式，表达对美好生活的向往",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第1课 剪纸",
+            "content": "剪纸是我国传统的民间艺术，有着悠久的历史，用于迎春喜庆的装饰",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "剪纸的定义",
+                "content": "运用剪刀、刻刀等工具，用纸进行剪、刻、镂空等艺术加工，达到造型目的",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "剪纸的题材",
+                "content": "人物、动物、植物、风景、吉祥图案等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "剪纸的表现形式",
+                "content": "单色剪纸和彩色剪纸，通过点色、套色、拼贴等手法实现",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "剪纸的制作方法",
+                "content": "起稿、剪刻、粘贴",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2课 编结艺术",
+            "content": "编结是由绳与结构成的艺术，在中国有吉祥、祈福等特殊含义",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "编结的分类",
+                "content": "实用结（如行李结、鞋带结）和装饰结（如同心结、盘长结）",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "平结的制作方法",
+                "content": "将两根绳交叉相互缠绕，形成结",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "双结的制作方法",
+                "content": "编结两个完全一样的结，寓意好事成双",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第3课 线材造型",
+            "content": "用线材进行创作，可以用电线、铝线、铁丝或天然植物材料",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "线材造型的材料",
+                "content": "电线、铝线、铁丝或天然植物如玉米皮、布条、皱纹纸",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "天然植物编织",
+                "content": "用竹、草、藤、棕等材料编织帽、篮、包、地毯等日用品",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第4课 蜡染与扎染",
+            "content": "蜡染与扎染是我国古代发明的染色技艺，有着悠久的历史与文化传统",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "蜡染",
+                "content": "用蜡作为防染剂，熔化后绘于防染部分，然后再冷染，出现自然冰裂纹",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "扎染",
+                "content": "通过捆、结、叠、折、缝、夹等扎法，经单色统染或多色套染形成特殊效果",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第5课 彩塑",
+            "content": "中国彩塑分为石窟彩塑、庙宇彩塑、陵墓彩塑、民俗彩塑四类",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "彩塑的制作要诀",
+                "content": "“三分塑，七分彩”，泥塑造追求简约，以色彩丰富和完善造型",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "代表流派",
+                "content": "南方江苏无锡的“惠山泥人”和北方天津的“泥人张”",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三单元 土和火的艺术",
+        "content": "通过欣赏陶瓷艺术作品，学习制陶技艺，制作陶艺作品，美化生活",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "陶瓷艺术概述",
+            "content": "陶土或瓷土用水调和后具有可塑性，经火烧制成为陶器或瓷器",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "陶器和瓷器的区别",
+            "content": "原料、烧成温度、质地、透明度、吸水率等方面的差异",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "陶艺成型方法",
+            "content": "泥条盘筑成型、泥板成型、手工拉坯成型等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "日用陶瓷设计",
+            "content": "注重实用功能，造型尺度合理，装饰美观协调",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第四单元 古城古镇美术文化考察",
+        "content": "通过古城古镇考察和民俗文化展的活动，了解我国民居建筑的特点及民间艺术与民俗之间的关系",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第1课 古城古镇考察",
+            "content": "考察各地古城古镇建筑，如徽州民居、吴越民居、四合院、窑洞、土楼等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "建筑构件",
+                "content": "瓦当、斗拱、窗棂、门框、门楣、隔扇、铺首、抱鼓石、柱础、铺地等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "写生步骤",
+                "content": "观察理解、确定构图、画主体景物、整理画面",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2课 民俗文化展",
+            "content": "通过民俗文化展的活动，了解民间美术与民俗之间的关系",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "春节民俗",
+                "content": "舞龙、舞狮、跑旱船、踩高跷、扭秧歌、贴春联、窗花、年画等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "民间美术与民俗",
+                "content": "年画源自贴门神画、剪纸与节日祭庆活动相关、面塑与喜庆祭祀相关等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第五单元 中国民间美术",
+        "content": "通过欣赏作品，了解民间美术的主要种类及其功能和特点，感受我国各民族的优秀文化",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第1课 民间美术的主要种类",
+            "content": "民间美术分为木版年画、剪纸、玩具、雕塑、皮影、木偶、刺绣、陶瓷、染织、编结等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "木版年画",
+                "content": "著名产区有山东杨家埠、天津杨柳青、四川绵竹等，题材充满祥和寓意",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "剪纸",
+                "content": "具有成熟稳定的艺术特征，跻身世界艺术之林",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "玩具",
+                "content": "节令玩具、观赏玩具、益智玩具、健身玩具等，如布老虎",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第2课 民间美术的功能与特点",
+            "content": "民间美术根植于民间，反映生活习惯、民俗民风、审美志趣等，具有清新简朴的艺术风格",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "第3课 我国少数民族的美术文化",
+            "content": "欣赏古代和现代少数民族美术，如岩画、石窟壁画、唐卡、服饰、建筑等",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "古代少数民族美术",
+                "content": "岩画、新疆石窟壁画、藏族唐卡、鄂尔多斯青铜器等",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "现代少数民族美术",
+                "content": "服饰、头饰、手工艺品、建筑等，体现浓郁的民族特征",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "中国画",
+      "tail": "人物画",
+      "relation": "包含"
+    },
+    {
+      "head": "中国画",
+      "tail": "山水画",
+      "relation": "包含"
+    },
+    {
+      "head": "中国画",
+      "tail": "花鸟画",
+      "relation": "包含"
+    },
+    {
+      "head": "人物画",
+      "tail": "以形传神",
+      "relation": "强调"
+    },
+    {
+      "head": "山水画",
+      "tail": "表现意境",
+      "relation": "强调"
+    },
+    {
+      "head": "花鸟画",
+      "tail": "借物抒情",
+      "relation": "强调"
+    },
+    {
+      "head": "六法论",
+      "tail": "气韵生动",
+      "relation": "包含"
+    },
+    {
+      "head": "六法论",
+      "tail": "骨法用笔",
+      "relation": "包含"
+    },
+    {
+      "head": "中国古代雕塑",
+      "tail": "陵墓雕塑",
+      "relation": "包含"
+    },
+    {
+      "head": "中国古代雕塑",
+      "tail": "宗教雕塑",
+      "relation": "包含"
+    },
+    {
+      "head": "中国古代工艺",
+      "tail": "青铜器",
+      "relation": "包含"
+    },
+    {
+      "head": "中国古代工艺",
+      "tail": "瓷器",
+      "relation": "包含"
+    },
+    {
+      "head": "中国古代建筑",
+      "tail": "木构架结构",
+      "relation": "具有"
+    },
+    {
+      "head": "剪纸",
+      "tail": "单色剪纸",
+      "relation": "分为"
+    },
+    {
+      "head": "剪纸",
+      "tail": "彩色剪纸",
+      "relation": "分为"
+    },
+    {
+      "head": "编结艺术",
+      "tail": "实用结",
+      "relation": "分为"
+    },
+    {
+      "head": "编结艺术",
+      "tail": "装饰结",
+      "relation": "分为"
+    },
+    {
+      "head": "线材造型",
+      "tail": "天然植物材料",
+      "relation": "使用"
+    },
+    {
+      "head": "蜡染",
+      "tail": "防染剂",
+      "relation": "使用"
+    },
+    {
+      "head": "扎染",
+      "tail": "捆扎防染",
+      "relation": "通过"
+    },
+    {
+      "head": "彩塑",
+      "tail": "三分塑七分彩",
+      "relation": "遵循"
+    },
+    {
+      "head": "陶瓷艺术",
+      "tail": "陶器",
+      "relation": "包含"
+    },
+    {
+      "head": "陶瓷艺术",
+      "tail": "瓷器",
+      "relation": "包含"
+    },
+    {
+      "head": "古城古镇建筑",
+      "tail": "建筑构件",
+      "relation": "具有"
+    },
+    {
+      "head": "民俗文化",
+      "tail": "春节民俗",
+      "relation": "包含"
+    },
+    {
+      "head": "民间美术",
+      "tail": "木版年画",
+      "relation": "包含"
+    },
+    {
+      "head": "民间美术",
+      "tail": "剪纸",
+      "relation": "包含"
+    },
+    {
+      "head": "民间美术",
+      "tail": "玩具",
+      "relation": "包含"
+    },
+    {
+      "head": "少数民族美术",
+      "tail": "古代少数民族美术",
+      "relation": "包含"
+    },
+    {
+      "head": "少数民族美术",
+      "tail": "现代少数民族美术",
+      "relation": "包含"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:18:51",
+    "version": "1.1"
+  }
+}

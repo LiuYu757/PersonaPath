@@ -1,0 +1,346 @@
+{
+  "knowledge_tree": {
+    "title": "PEP Primary English Grade 6 Book 1",
+    "content": "English textbook for Grade 6 students (3rd grade starter), covering topics like places, transportation, weekend plans, hobbies, jobs, and emotions.",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "Unit 1: How can I get there?",
+        "content": "Asking for and giving directions to places in a city/town.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Places vocabulary",
+            "content": "Names of common places: science museum, post office, bookstore, cinema, hospital, pet hospital, park, library, zoo, school.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Prepositions of place",
+            "content": "Words to describe location: near, next to, beside, behind, in front of, over there.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Asking for directions",
+            "content": "Question patterns: 'Where is the...?', 'How can I get to the...?', 'Is there a...?'",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Giving directions",
+            "content": "Using imperative sentences: 'Turn left/right at...', 'Go straight', 'It's next to/near...'",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Reading a map",
+            "content": "Understanding and following directions on a simple map.",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 2: Ways to go to school",
+        "content": "Talking about different modes of transportation and traffic safety.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Transportation vocabulary",
+            "content": "Modes of transport: on foot, by bus, by plane, by taxi, by ship, by subway, by train, by sled, by ferry.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Frequency adverbs",
+            "content": "Words describing how often: usually, often, sometimes.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Traffic safety rules",
+            "content": "Understanding and following traffic rules: stop at red light, go at green light, slow down at yellow light, wear a helmet, pay attention to traffic lights.",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Comparative transportation",
+            "content": "Comparing how people go to school in different countries/cultures.",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 3: My weekend plan",
+        "content": "Talking about future plans using 'be going to' structure.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Future time expressions",
+            "content": "Words indicating future time: this morning/afternoon/evening, tonight, tomorrow, next week.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Activities vocabulary",
+            "content": "Common weekend activities: visit grandparents, go to the supermarket, see a film, take a trip, go ice-skating, wash clothes, draw pictures, make a snowman, go for a picnic.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "'Be going to' structure",
+            "content": "Using 'be going to' to talk about future plans: 'I'm going to...', 'What are you going to do?'",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Asking about plans",
+            "content": "Question patterns: 'What are you going to do?', 'Where are you going?', 'When are you going?'",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 4: I have a pen pal",
+        "content": "Talking about hobbies and corresponding question forms.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Hobbies vocabulary",
+            "content": "Common hobbies: dancing, singing, reading stories, playing football, doing kung fu, doing word puzzles, going hiking, studying Chinese, cooking Chinese food.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Asking about hobbies",
+            "content": "Question patterns: 'What are your hobbies?', 'What are Peter's hobbies?'",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Simple present tense",
+            "content": "Using simple present to describe regular activities: 'He likes...', 'She lives...'",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Yes/No questions with 'does'",
+            "content": "Asking and answering questions: 'Does he live in Sydney?', 'Does he like doing word puzzles?'",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 5: What does he do?",
+        "content": "Talking about different jobs and workplaces.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Jobs vocabulary",
+            "content": "Common occupations: factory worker, postman, businessman, police officer, fisherman, scientist, pilot, coach, head teacher, doctor, secretary, sports reporter, PE teacher.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Workplaces vocabulary",
+            "content": "Places where people work: sea, university, gym, office, pet hospital, rescue plane.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Asking about occupations",
+            "content": "Question patterns: 'What does he do?', 'Where does he work?', 'How does he go to work?'",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Future career aspirations",
+            "content": "Talking about what you want to be: 'I want to be a...', 'I'm going to be a...'",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Unit 6: How do you feel?",
+        "content": "Expressing emotions and giving advice.",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "Emotions vocabulary",
+            "content": "Words describing feelings: angry, afraid, sad, worried, happy, ill, cold.",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "Giving advice",
+            "content": "Using 'should' to give suggestions: 'You should see a doctor', 'You should take a deep breath'",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Asking about feelings",
+            "content": "Question patterns: 'How do you feel?', 'What's wrong?'",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "Health and wellness",
+            "content": "Talking about being healthy: 'stay healthy', 'do more exercise', 'wear warm clothes'",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Recycle 1 & 2",
+        "content": "Review units consolidating previous learning.",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "Integrated language use",
+            "content": "Applying learned language in new contexts and stories.",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "Story comprehension",
+            "content": "Understanding and retelling simple stories in English.",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Language Focus Areas",
+        "content": "Key grammatical structures and language patterns",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "Question forms",
+            "content": "Wh-questions and Yes/No questions in different tenses.",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "Tenses",
+            "content": "Simple present, present continuous, and 'be going to' for future.",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "Modal verbs",
+            "content": "Using 'can', 'should', 'must' for ability, advice, and obligation.",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "Places vocabulary",
+      "tail": "Asking for directions",
+      "relation": "used in"
+    },
+    {
+      "head": "Prepositions of place",
+      "tail": "Giving directions",
+      "relation": "essential for"
+    },
+    {
+      "head": "Transportation vocabulary",
+      "tail": "Ways to go to school",
+      "relation": "core component of"
+    },
+    {
+      "head": "Frequency adverbs",
+      "tail": "Talking about routines",
+      "relation": "used to describe"
+    },
+    {
+      "head": "Traffic safety rules",
+      "tail": "Modal verbs",
+      "relation": "expressed using"
+    },
+    {
+      "head": "Future time expressions",
+      "tail": "'Be going to' structure",
+      "relation": "used with"
+    },
+    {
+      "head": "Activities vocabulary",
+      "tail": "Weekend plans",
+      "relation": "describes"
+    },
+    {
+      "head": "Hobbies vocabulary",
+      "tail": "Simple present tense",
+      "relation": "described using"
+    },
+    {
+      "head": "Yes/No questions with 'does'",
+      "tail": "Asking about hobbies",
+      "relation": "grammatical form for"
+    },
+    {
+      "head": "Jobs vocabulary",
+      "tail": "Workplaces vocabulary",
+      "relation": "associated with"
+    },
+    {
+      "head": "Asking about occupations",
+      "tail": "Question forms",
+      "relation": "example of"
+    },
+    {
+      "head": "Emotions vocabulary",
+      "tail": "Giving advice",
+      "relation": "leads to"
+    },
+    {
+      "head": "Health and wellness",
+      "tail": "Modal verbs",
+      "relation": "expressed using"
+    },
+    {
+      "head": "Integrated language use",
+      "tail": "All units",
+      "relation": "combines elements from"
+    },
+    {
+      "head": "Story comprehension",
+      "tail": "Reading skills",
+      "relation": "develops"
+    },
+    {
+      "head": "Question forms",
+      "tail": "All units",
+      "relation": "fundamental to"
+    },
+    {
+      "head": "Tenses",
+      "tail": "Describing time",
+      "relation": "essential for"
+    },
+    {
+      "head": "'Be going to' structure",
+      "tail": "Future plans",
+      "relation": "used for"
+    },
+    {
+      "head": "Simple present tense",
+      "tail": "Habits and routines",
+      "relation": "describes"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 18:56:07",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,1556 @@
+{
+  "student_id": "0816",
+  "target_major": "自动化类",
+  "archetype": "Linear_Learner",
+  "current_grade_level": 12.5,
+  "textbook_layer": {
+    "mastered": [
+      "数学-小学-一年级上册",
+      "数学-小学-一年级下册",
+      "数学-小学-二年级上册",
+      "数学-小学-二年级下册",
+      "数学-小学-三年级上册",
+      "数学-小学-三年级下册",
+      "数学-小学-四年级上册",
+      "数学-小学-四年级下册",
+      "数学-小学-五年级上册",
+      "数学-小学-五年级下册",
+      "数学-小学-六年级上册",
+      "数学-小学-六年级下册",
+      "数学-七年级-上册",
+      "数学-七年级-下册",
+      "数学-八年级-上册",
+      "数学-初中-八年级下册",
+      "数学-初中-九年级上册",
+      "数学-初中-九年级下册",
+      "数学-高中-必修第一册",
+      "数学-高中-必修第二册",
+      "数学-高中-选择性必修第一册",
+      "数学-高中-选择性必修第二册",
+      "数学-高中-选择性必修第三册",
+      "物理-初中-八年级上册",
+      "物理-初中-八年级下册",
+      "物理-初中-九年级全一册",
+      "物理-高中-必修第一册",
+      "物理-高中-必修第二册",
+      "物理-高中-必修第三册",
+      "物理-高中-选择性必修第一册",
+      "物理-高中-选择性必修第二册",
+      "物理-高中-选择性必修第三册",
+      "信息科技-一年级-信息交流与分享",
+      "信息科技-小学-信息隐私与安全",
+      "信息科技-三年级-在线学习与生活",
+      "信息科技-四年级-数据与编码",
+      "信息科技-小学-五年级全一册",
+      "信息科技-六年级-过程与控制",
+      "信息科技-七年级-互联网应用与创新",
+      "信息科技-初中-物联网实践与探索",
+      "信息科技-初中-人工智能与智慧社会",
+      "信息技术-高中-数据与计算",
+      "信息技术-高中-数据与数据结构",
+      "信息技术-高中-网络基础",
+      "信息技术-高中-数据管理与分析",
+      "信息技术-高中-人工智能初步",
+      "信息技术-高中-三维设计与创意",
+      "信息技术-高中-开源硬件项目设计"
+    ],
+    "learning": [
+      "模拟电子技术基础"
+    ],
+    "not_mastered": [
+      "数字电子技术基础"
+    ]
+  },
+  "knowledge_layer": [
+    {
+      "book_name": "数学-小学-一年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-一年级上册",
+        "children": [
+          {
+            "title": "数的认识与运算",
+            "mastery": 0.7665
+          },
+          {
+            "title": "图形与空间",
+            "mastery": 0.7587
+          },
+          {
+            "title": "时间认知与应用",
+            "mastery": 0.9892
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-一年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-一年级下册",
+        "children": [
+          {
+            "title": "100以内数的认识",
+            "mastery": 0.8011
+          },
+          {
+            "title": "20以内的退位减法",
+            "mastery": 0.8058
+          },
+          {
+            "title": "分类与整理",
+            "mastery": 0.8671
+          },
+          {
+            "title": "认识人民币",
+            "mastery": 0.8669
+          },
+          {
+            "title": "100以内的加法和减法",
+            "mastery": 0.7811
+          },
+          {
+            "title": "找规律",
+            "mastery": 0.7865
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-二年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-二年级上册",
+        "children": [
+          {
+            "title": "长度单位",
+            "mastery": 0.843
+          },
+          {
+            "title": "100以内的加法和减法",
+            "mastery": 0.7884
+          },
+          {
+            "title": "角的初步认识",
+            "mastery": 0.7299
+          },
+          {
+            "title": "表内乘法",
+            "mastery": 0.8978
+          },
+          {
+            "title": "观察物体",
+            "mastery": 0.8398
+          },
+          {
+            "title": "认识时间",
+            "mastery": 0.7975
+          },
+          {
+            "title": "数学广角——搭配",
+            "mastery": 0.744
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-二年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-二年级下册",
+        "children": [
+          {
+            "title": "数据收集和整理",
+            "mastery": 0.6145
+          },
+          {
+            "title": "表内除法",
+            "mastery": 0.909
+          },
+          {
+            "title": "图形的运动",
+            "mastery": 0.8359
+          },
+          {
+            "title": "万以内数的认识",
+            "mastery": 0.8795
+          },
+          {
+            "title": "克和千克",
+            "mastery": 0.7579
+          },
+          {
+            "title": "数学广角——推理",
+            "mastery": 0.9312
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-三年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-三年级上册",
+        "children": [
+          {
+            "title": "时、分、秒",
+            "mastery": 0.7058
+          },
+          {
+            "title": "万以内的加法和减法",
+            "mastery": 0.8576
+          },
+          {
+            "title": "测量",
+            "mastery": 0.6291
+          },
+          {
+            "title": "倍的认识",
+            "mastery": 0.7893
+          },
+          {
+            "title": "多位数乘一位数",
+            "mastery": 0.6738
+          },
+          {
+            "title": "长方形和正方形",
+            "mastery": 0.8253
+          },
+          {
+            "title": "分数的初步认识",
+            "mastery": 0.9367
+          },
+          {
+            "title": "数学广角——集合",
+            "mastery": 0.7769
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-三年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-三年级下册",
+        "children": [
+          {
+            "title": "除数是一位数的除法",
+            "mastery": 0.9057
+          },
+          {
+            "title": "两位数乘两位数",
+            "mastery": 0.7386
+          },
+          {
+            "title": "面积概念与计算",
+            "mastery": 0.8822
+          },
+          {
+            "title": "年、月、日认识",
+            "mastery": 0.8825
+          },
+          {
+            "title": "小数初步认识",
+            "mastery": 0.9611
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-四年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-四年级上册",
+        "children": [
+          {
+            "title": "大数的认识",
+            "mastery": 0.8597
+          },
+          {
+            "title": "面积单位与几何图形",
+            "mastery": 0.6877
+          },
+          {
+            "title": "数的运算与规律",
+            "mastery": 0.9039
+          },
+          {
+            "title": "数据表示与数学思想",
+            "mastery": 0.9055
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-四年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-四年级下册",
+        "children": [
+          {
+            "title": "四则运算",
+            "mastery": 0.9784
+          },
+          {
+            "title": "观察物体",
+            "mastery": 0.8151
+          },
+          {
+            "title": "运算律",
+            "mastery": 0.8364
+          },
+          {
+            "title": "小数的意义和性质",
+            "mastery": 0.8557
+          },
+          {
+            "title": "三角形",
+            "mastery": 0.7107
+          },
+          {
+            "title": "小数的加法和减法",
+            "mastery": 0.9253
+          },
+          {
+            "title": "图形的运动",
+            "mastery": 0.7543
+          },
+          {
+            "title": "平均数与条形统计图",
+            "mastery": 0.4964
+          },
+          {
+            "title": "鸡兔同笼问题",
+            "mastery": 0.9524
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-五年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-五年级上册",
+        "children": [
+          {
+            "title": "小数乘法",
+            "mastery": 0.8669
+          },
+          {
+            "title": "位置",
+            "mastery": 0.9574
+          },
+          {
+            "title": "小数除法",
+            "mastery": 0.8059
+          },
+          {
+            "title": "简易方程",
+            "mastery": 0.9738
+          },
+          {
+            "title": "多边形的面积",
+            "mastery": 0.8353
+          },
+          {
+            "title": "可能性",
+            "mastery": 0.7609
+          },
+          {
+            "title": "数学广角",
+            "mastery": 0.62
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-五年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-五年级下册",
+        "children": [
+          {
+            "title": "观察物体（三）",
+            "mastery": 0.8099
+          },
+          {
+            "title": "因数和倍数",
+            "mastery": 0.9222
+          },
+          {
+            "title": "长方体和正方体",
+            "mastery": 0.5166
+          },
+          {
+            "title": "分数的意义和性质",
+            "mastery": 0.9552
+          },
+          {
+            "title": "图形的运动（三）",
+            "mastery": 0.9377
+          },
+          {
+            "title": "分数的加法和减法",
+            "mastery": 0.9473
+          },
+          {
+            "title": "折线统计图",
+            "mastery": 0.8975
+          },
+          {
+            "title": "数学广角——找次品",
+            "mastery": 0.9486
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-六年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-六年级上册",
+        "children": [
+          {
+            "title": "分数乘法",
+            "mastery": 0.7603
+          },
+          {
+            "title": "位置与方向",
+            "mastery": 0.8132
+          },
+          {
+            "title": "分数除法",
+            "mastery": 0.814
+          },
+          {
+            "title": "比",
+            "mastery": 0.8221
+          },
+          {
+            "title": "圆",
+            "mastery": 0.6388
+          },
+          {
+            "title": "百分数",
+            "mastery": 0.5378
+          },
+          {
+            "title": "扇形统计图",
+            "mastery": 0.9707
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-六年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-六年级下册",
+        "children": [
+          {
+            "title": "负数",
+            "mastery": 0.9013
+          },
+          {
+            "title": "百分数（二）",
+            "mastery": 0.9816
+          },
+          {
+            "title": "圆柱与圆锥",
+            "mastery": 0.8664
+          },
+          {
+            "title": "比例",
+            "mastery": 0.831
+          },
+          {
+            "title": "数学广角—鸽巢问题",
+            "mastery": 0.9749
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-七年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-七年级-上册",
+        "children": [
+          {
+            "title": "有理数",
+            "mastery": 0.5573
+          },
+          {
+            "title": "代数式与整式",
+            "mastery": 0.709
+          },
+          {
+            "title": "一元一次方程",
+            "mastery": 0.7013
+          },
+          {
+            "title": "几何图形初步",
+            "mastery": 0.8841
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-七年级-下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-七年级-下册",
+        "children": [
+          {
+            "title": "相交线与平行线",
+            "mastery": 0.8805
+          },
+          {
+            "title": "实数",
+            "mastery": 0.8386
+          },
+          {
+            "title": "平面直角坐标系",
+            "mastery": 0.7972
+          },
+          {
+            "title": "二元一次方程组",
+            "mastery": 0.8441
+          },
+          {
+            "title": "不等式与不等式组",
+            "mastery": 0.7496
+          },
+          {
+            "title": "数据的收集整理与描述",
+            "mastery": 0.9169
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-八年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-八年级-上册",
+        "children": [
+          {
+            "title": "三角形",
+            "mastery": 0.7677
+          },
+          {
+            "title": "全等三角形",
+            "mastery": 0.8758
+          },
+          {
+            "title": "轴对称",
+            "mastery": 0.6818
+          },
+          {
+            "title": "整式与分式运算",
+            "mastery": 0.66
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-初中-八年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-初中-八年级下册",
+        "children": [
+          {
+            "title": "二次根式",
+            "mastery": 0.9049
+          },
+          {
+            "title": "勾股定理",
+            "mastery": 0.6716
+          },
+          {
+            "title": "平行四边形",
+            "mastery": 0.8779
+          },
+          {
+            "title": "一次函数",
+            "mastery": 0.548
+          },
+          {
+            "title": "数据的分析",
+            "mastery": 0.7692
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-初中-九年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-初中-九年级上册",
+        "children": [
+          {
+            "title": "一元二次方程",
+            "mastery": 0.9259
+          },
+          {
+            "title": "二次函数",
+            "mastery": 0.9182
+          },
+          {
+            "title": "旋转",
+            "mastery": 0.936
+          },
+          {
+            "title": "圆",
+            "mastery": 0.5591
+          },
+          {
+            "title": "概率初步",
+            "mastery": 0.5427
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-初中-九年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-初中-九年级下册",
+        "children": [
+          {
+            "title": "反比例函数",
+            "mastery": 0.8409
+          },
+          {
+            "title": "相似",
+            "mastery": 0.9591
+          },
+          {
+            "title": "锐角三角函数",
+            "mastery": 0.843
+          },
+          {
+            "title": "投影与视图",
+            "mastery": 0.8998
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-必修第一册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-高中-必修第一册",
+        "children": [
+          {
+            "title": "集合与常用逻辑用语",
+            "mastery": 0.694
+          },
+          {
+            "title": "对数函数",
+            "mastery": 0.9096
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-必修第二册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-高中-必修第二册",
+        "children": [
+          {
+            "title": "平面向量及其应用",
+            "mastery": 0.8425
+          },
+          {
+            "title": "空间直线与平面的垂直",
+            "mastery": 0.8682
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-选择性必修第一册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-高中-选择性必修第一册",
+        "children": [
+          {
+            "title": "空间向量与立体几何",
+            "mastery": 0.7141
+          },
+          {
+            "title": "直线与圆",
+            "mastery": 0.5498
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-选择性必修第二册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-高中-选择性必修第二册",
+        "children": [
+          {
+            "title": "数列的概念与表示",
+            "mastery": 0.6452
+          },
+          {
+            "title": "等差数列",
+            "mastery": 0.695
+          },
+          {
+            "title": "等比数列",
+            "mastery": 0.9315
+          },
+          {
+            "title": "数学归纳法",
+            "mastery": 0.6697
+          },
+          {
+            "title": "数列的综合应用",
+            "mastery": 0.4957
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-选择性必修第三册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-高中-选择性必修第三册",
+        "children": [
+          {
+            "title": "计数原理",
+            "mastery": 0.6766
+          },
+          {
+            "title": "随机变量及其分布",
+            "mastery": 0.9597
+          },
+          {
+            "title": "成对数据的统计分析",
+            "mastery": 0.7698
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-初中-八年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "物理-初中-八年级上册",
+        "children": [
+          {
+            "title": "机械运动",
+            "mastery": 0.5771
+          },
+          {
+            "title": "声现象",
+            "mastery": 0.575
+          },
+          {
+            "title": "物态变化",
+            "mastery": 0.8951
+          },
+          {
+            "title": "光现象",
+            "mastery": 0.9675
+          },
+          {
+            "title": "透镜及其应用",
+            "mastery": 0.7701
+          },
+          {
+            "title": "质量与密度",
+            "mastery": 0.9165
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-初中-八年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "物理-初中-八年级下册",
+        "children": [
+          {
+            "title": "力",
+            "mastery": 0.8122
+          },
+          {
+            "title": "运动和力",
+            "mastery": 0.8935
+          },
+          {
+            "title": "压强",
+            "mastery": 0.646
+          },
+          {
+            "title": "浮力",
+            "mastery": 0.8465
+          },
+          {
+            "title": "功和机械能",
+            "mastery": 0.952
+          },
+          {
+            "title": "简单机械",
+            "mastery": 0.7904
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-初中-九年级全一册",
+      "status": "mastered",
+      "detail": {
+        "title": "物理-初中-九年级全一册",
+        "children": [
+          {
+            "title": "内能",
+            "mastery": 0.8936
+          },
+          {
+            "title": "内能的利用",
+            "mastery": 0.8216
+          },
+          {
+            "title": "电流和电路",
+            "mastery": 0.984
+          },
+          {
+            "title": "电压与电阻",
+            "mastery": 0.9152
+          },
+          {
+            "title": "欧姆定律",
+            "mastery": 0.8642
+          },
+          {
+            "title": "电功率",
+            "mastery": 0.8396
+          },
+          {
+            "title": "生活用电",
+            "mastery": 0.9462
+          },
+          {
+            "title": "电与磁",
+            "mastery": 0.985
+          },
+          {
+            "title": "电磁波与应用",
+            "mastery": 0.8931
+          },
+          {
+            "title": "能源与可持续发展",
+            "mastery": 0.5821
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-必修第一册",
+      "status": "mastered",
+      "detail": {
+        "title": "物理-高中-必修第一册",
+        "children": [
+          {
+            "title": "运动的描述",
+            "mastery": 0.9175
+          },
+          {
+            "title": "匀变速直线运动",
+            "mastery": 0.8049
+          },
+          {
+            "title": "相互作用",
+            "mastery": 0.9611
+          },
+          {
+            "title": "牛顿运动定律",
+            "mastery": 0.5751
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-必修第二册",
+      "status": "mastered",
+      "detail": {
+        "title": "物理-高中-必修第二册",
+        "children": [
+          {
+            "title": "抛体运动",
+            "mastery": 0.8867
+          },
+          {
+            "title": "圆周运动",
+            "mastery": 0.7097
+          },
+          {
+            "title": "万有引力与宇宙航行",
+            "mastery": 0.8756
+          },
+          {
+            "title": "机械能守恒定律",
+            "mastery": 0.8677
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-必修第三册",
+      "status": "mastered",
+      "detail": {
+        "title": "物理-高中-必修第三册",
+        "children": [
+          {
+            "title": "静电场及其应用",
+            "mastery": 0.9687
+          },
+          {
+            "title": "静电场中的能量",
+            "mastery": 0.6764
+          },
+          {
+            "title": "电路及其应用",
+            "mastery": 0.9162
+          },
+          {
+            "title": "电能能量守恒定律",
+            "mastery": 0.5685
+          },
+          {
+            "title": "电磁感应与电磁波初步",
+            "mastery": 0.7243
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-选择性必修第一册",
+      "status": "mastered",
+      "detail": {
+        "title": "物理-高中-选择性必修第一册",
+        "children": [
+          {
+            "title": "动量守恒定律",
+            "mastery": 0.8649
+          },
+          {
+            "title": "机械振动",
+            "mastery": 0.5865
+          },
+          {
+            "title": "机械波",
+            "mastery": 0.9429
+          },
+          {
+            "title": "光",
+            "mastery": 0.7832
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-选择性必修第二册",
+      "status": "mastered",
+      "detail": {
+        "title": "物理-高中-选择性必修第二册",
+        "children": [
+          {
+            "title": "安培力与洛伦兹力",
+            "mastery": 0.8288
+          },
+          {
+            "title": "电磁感应",
+            "mastery": 0.7001
+          },
+          {
+            "title": "交变电流",
+            "mastery": 0.7506
+          },
+          {
+            "title": "电磁振荡与电磁波",
+            "mastery": 0.9382
+          },
+          {
+            "title": "传感器技术",
+            "mastery": 0.879
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "物理-高中-选择性必修第三册",
+      "status": "mastered",
+      "detail": {
+        "title": "物理-高中-选择性必修第三册",
+        "children": [
+          {
+            "title": "分子动理论",
+            "mastery": 0.8762
+          },
+          {
+            "title": "气体、固体和液体",
+            "mastery": 0.8831
+          },
+          {
+            "title": "热力学定律",
+            "mastery": 0.5656
+          },
+          {
+            "title": "原子结构和波粒二象性",
+            "mastery": 0.7119
+          },
+          {
+            "title": "原子核",
+            "mastery": 0.9691
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "信息科技-一年级-信息交流与分享",
+      "status": "mastered",
+      "detail": {
+        "title": "信息科技-一年级-信息交流与分享",
+        "children": [
+          {
+            "title": "数字设备认知",
+            "mastery": 0.7656
+          },
+          {
+            "title": "数字资源应用",
+            "mastery": 0.6662
+          },
+          {
+            "title": "人工智能体验",
+            "mastery": 0.9228
+          },
+          {
+            "title": "数字创作表达",
+            "mastery": 0.7765
+          },
+          {
+            "title": "信息交流规范",
+            "mastery": 0.9779
+          },
+          {
+            "title": "公共服务应用",
+            "mastery": 0.4347
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "信息科技-小学-信息隐私与安全",
+      "status": "mastered",
+      "detail": {
+        "title": "信息科技-小学-信息隐私与安全",
+        "children": [
+          {
+            "title": "数字健康与规范",
+            "mastery": 0.9133
+          },
+          {
+            "title": "隐私保护与信息安全",
+            "mastery": 0.9643
+          },
+          {
+            "title": "信息辨别与管理",
+            "mastery": 0.8392
+          },
+          {
+            "title": "数字权益与文明行为",
+            "mastery": 0.7227
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "信息科技-三年级-在线学习与生活",
+      "status": "mastered",
+      "detail": {
+        "title": "信息科技-三年级-在线学习与生活",
+        "children": [
+          {
+            "title": "开启信息生活",
+            "mastery": 0.825
+          },
+          {
+            "title": "记录美好时光",
+            "mastery": 0.9387
+          },
+          {
+            "title": "畅游网络世界",
+            "mastery": 0.6373
+          },
+          {
+            "title": "创作数字作品",
+            "mastery": 0.8162
+          },
+          {
+            "title": "在线分享交流",
+            "mastery": 0.787
+          },
+          {
+            "title": "在线学习探究",
+            "mastery": 0.6218
+          },
+          {
+            "title": "合作解决问题",
+            "mastery": 0.9264
+          },
+          {
+            "title": "守护在线安全",
+            "mastery": 0.6521
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "信息科技-四年级-数据与编码",
+      "status": "mastered",
+      "detail": {
+        "title": "信息科技-四年级-数据与编码",
+        "children": [
+          {
+            "title": "数据的多样性",
+            "mastery": 0.8782
+          },
+          {
+            "title": "编码基础",
+            "mastery": 0.8324
+          },
+          {
+            "title": "常见编码应用",
+            "mastery": 0.8969
+          },
+          {
+            "title": "数据管理技术",
+            "mastery": 0.7661
+          },
+          {
+            "title": "数据安全保护",
+            "mastery": 0.7067
+          },
+          {
+            "title": "人工智能应用",
+            "mastery": 0.5317
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "信息科技-小学-五年级全一册",
+      "status": "mastered",
+      "detail": {
+        "title": "信息科技-小学-五年级全一册",
+        "children": [
+          {
+            "title": "算法基础概念",
+            "mastery": 0.9071
+          },
+          {
+            "title": "循环结构原理",
+            "mastery": 0.732
+          },
+          {
+            "title": "流程图表示方法",
+            "mastery": 0.9901
+          },
+          {
+            "title": "生活应用实例",
+            "mastery": 0.5765
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "信息科技-六年级-过程与控制",
+      "status": "mastered",
+      "detail": {
+        "title": "信息科技-六年级-过程与控制",
+        "children": [
+          {
+            "title": "初识过程与控制",
+            "mastery": 0.9473
+          },
+          {
+            "title": "数据运算与逻辑",
+            "mastery": 0.5603
+          },
+          {
+            "title": "反馈与控制系统",
+            "mastery": 0.7524
+          },
+          {
+            "title": "系统描述与设计",
+            "mastery": 0.8405
+          },
+          {
+            "title": "人工智能初步",
+            "mastery": 0.6992
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "信息科技-七年级-互联网应用与创新",
+      "status": "mastered",
+      "detail": {
+        "title": "信息科技-七年级-互联网应用与创新",
+        "children": [
+          {
+            "title": "互联网基础与原理",
+            "mastery": 0.7953
+          },
+          {
+            "title": "网络标识与寻址",
+            "mastery": 0.6226
+          },
+          {
+            "title": "互联网服务与应用",
+            "mastery": 0.6308
+          },
+          {
+            "title": "网页制作与网站建设",
+            "mastery": 0.6422
+          },
+          {
+            "title": "互联网创新与安全",
+            "mastery": 0.7698
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "信息科技-初中-物联网实践与探索",
+      "status": "mastered",
+      "detail": {
+        "title": "信息科技-初中-物联网实践与探索",
+        "children": [
+          {
+            "title": "物联网概述",
+            "mastery": 0.8329
+          },
+          {
+            "title": "传感器技术",
+            "mastery": 0.8211
+          },
+          {
+            "title": "物联网协议",
+            "mastery": 0.9766
+          },
+          {
+            "title": "物联系统结构",
+            "mastery": 0.8763
+          },
+          {
+            "title": "物联网安全",
+            "mastery": 0.9724
+          },
+          {
+            "title": "物联网应用",
+            "mastery": 0.9164
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "信息科技-初中-人工智能与智慧社会",
+      "status": "mastered",
+      "detail": {
+        "title": "信息科技-初中-人工智能与智慧社会",
+        "children": [
+          {
+            "title": "人工智能概述",
+            "mastery": 0.8721
+          },
+          {
+            "title": "人工智能技术实现",
+            "mastery": 0.7498
+          },
+          {
+            "title": "智能内容生成技术",
+            "mastery": 0.7577
+          },
+          {
+            "title": "智能推理与应用伦理",
+            "mastery": 0.7297
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "信息技术-高中-数据与计算",
+      "status": "mastered",
+      "detail": {
+        "title": "信息技术-高中-数据与计算",
+        "children": [
+          {
+            "title": "数据、信息与知识",
+            "mastery": 0.5715
+          },
+          {
+            "title": "数字化与编码",
+            "mastery": 0.8461
+          },
+          {
+            "title": "数据科学与大数据",
+            "mastery": 0.937
+          },
+          {
+            "title": "算法与程序实现",
+            "mastery": 0.6895
+          },
+          {
+            "title": "数据处理与应用",
+            "mastery": 0.7721
+          },
+          {
+            "title": "人工智能",
+            "mastery": 0.7492
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "信息技术-高中-数据与数据结构",
+      "status": "mastered",
+      "detail": {
+        "title": "信息技术-高中-数据与数据结构",
+        "children": [
+          {
+            "title": "走进数据世界",
+            "mastery": 0.8201
+          },
+          {
+            "title": "数据结构基础",
+            "mastery": 0.849
+          },
+          {
+            "title": "线性数据结构",
+            "mastery": 0.8682
+          },
+          {
+            "title": "非线性数据结构",
+            "mastery": 0.8669
+          },
+          {
+            "title": "算法与实现方法",
+            "mastery": 0.925
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "信息技术-高中-网络基础",
+      "status": "mastered",
+      "detail": {
+        "title": "信息技术-高中-网络基础",
+        "children": [
+          {
+            "title": "网络概述",
+            "mastery": 0.8736
+          },
+          {
+            "title": "网络分类与传输",
+            "mastery": 0.6668
+          },
+          {
+            "title": "网络协议与设备",
+            "mastery": 0.9764
+          },
+          {
+            "title": "网络安全技术",
+            "mastery": 0.8036
+          },
+          {
+            "title": "物联网与应用服务",
+            "mastery": 0.7344
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "信息技术-高中-数据管理与分析",
+      "status": "mastered",
+      "detail": {
+        "title": "信息技术-高中-数据管理与分析",
+        "children": [
+          {
+            "title": "数据科学基础",
+            "mastery": 0.5818
+          },
+          {
+            "title": "数据管理技术",
+            "mastery": 0.8631
+          },
+          {
+            "title": "数据分析方法",
+            "mastery": 0.7174
+          },
+          {
+            "title": "数据可视化与报告",
+            "mastery": 0.8862
+          },
+          {
+            "title": "数据采集与处理",
+            "mastery": 0.5984
+          },
+          {
+            "title": "数据清洗与预处理",
+            "mastery": 0.8253
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "信息技术-高中-人工智能初步",
+      "status": "mastered",
+      "detail": {
+        "title": "信息技术-高中-人工智能初步",
+        "children": [
+          {
+            "title": "人工智能概述",
+            "mastery": 0.8001
+          },
+          {
+            "title": "人工智能技术原理",
+            "mastery": 0.9193
+          },
+          {
+            "title": "人工智能领域应用",
+            "mastery": 0.7103
+          },
+          {
+            "title": "人工智能发展与挑战",
+            "mastery": 0.8189
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "信息技术-高中-三维设计与创意",
+      "status": "mastered",
+      "detail": {
+        "title": "信息技术-高中-三维设计与创意",
+        "children": [
+          {
+            "title": "三维设计基础",
+            "mastery": 0.659
+          },
+          {
+            "title": "三维建模技术",
+            "mastery": 0.7361
+          },
+          {
+            "title": "三维设计相关技术",
+            "mastery": 0.9605
+          },
+          {
+            "title": "三维创意设计",
+            "mastery": 0.9056
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "信息技术-高中-开源硬件项目设计",
+      "status": "mastered",
+      "detail": {
+        "title": "信息技术-高中-开源硬件项目设计",
+        "children": [
+          {
+            "title": "开源硬件及其特征",
+            "mastery": 0.8063
+          },
+          {
+            "title": "开源硬件项目剖析",
+            "mastery": 0.8851
+          },
+          {
+            "title": "开源硬件创意设计",
+            "mastery": 0.7478
+          },
+          {
+            "title": "开源硬件项目制作",
+            "mastery": 0.8216
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "模拟电子技术基础",
+      "status": "learning",
+      "detail": {
+        "title": "模拟电子技术基础",
+        "children": [
+          {
+            "title": "常用半导体器件",
+            "mastery": 0.7371
+          },
+          {
+            "title": "基本放大电路",
+            "mastery": 0.2278
+          },
+          {
+            "title": "集成运算放大器",
+            "mastery": 0.7654
+          },
+          {
+            "title": "反馈与信号处理",
+            "mastery": 0.7852
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数字电子技术基础",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-工学-自动化类-数字电子技术基础",
+        "children": [
+          {
+            "title": "数制与码制",
+            "mastery": 0.2006
+          },
+          {
+            "title": "逻辑代数基础",
+            "mastery": 0.1736
+          },
+          {
+            "title": "组合逻辑电路",
+            "mastery": 0.1408
+          },
+          {
+            "title": "时序逻辑电路",
+            "mastery": 0.3201
+          },
+          {
+            "title": "半导体存储器",
+            "mastery": 0.2623
+          },
+          {
+            "title": "可编程逻辑器件",
+            "mastery": 0.3772
+          },
+          {
+            "title": "脉冲波形电路",
+            "mastery": 0.3239
+          },
+          {
+            "title": "数模与模数转换",
+            "mastery": 0.132
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "knowledge_tree": {
+    "title": "五年级数学下册",
+    "content": "五年级下册数学主要内容包括观察物体、因数和倍数、长方体和正方体、分数的意义和性质、图形的运动、分数的加法和减法、折线统计图、数学广角等",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "观察物体（三）",
+        "content": "从不同方向观察立体图形，培养空间想象能力",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "从三个方向观察物体",
+            "content": "根据从前面、左面、上面看到的图形摆出几何体",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "根据视图摆几何体",
+            "content": "根据给定的三视图摆出相应的几何体",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "因数和倍数",
+        "content": "理解因数和倍数的概念，掌握2、5、3的倍数特征，了解质数和合数",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "因数和倍数的认识",
+            "content": "在整数除法中，如果商是整数且没有余数，除数是被除数的因数，被除数是除数的倍数",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "求一个数的因数",
+            "content": "通过除法或乘法找出一个数的所有因数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "求一个数的倍数",
+            "content": "通过乘法找出一个数的倍数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "2、5、3的倍数特征",
+            "content": "个位上是0、2、4、6、8的数是2的倍数；个位上是0或5的数是5的倍数；各位上数字的和是3的倍数的数是3的倍数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "质数和合数",
+            "content": "一个数如果只有1和它本身两个因数，这样的数叫做质数；一个数如果除了1和它本身还有别的因数，这样的数叫做合数",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "长方体和正方体",
+        "content": "认识长方体和正方体的特征，掌握表面积和体积的计算方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "长方体的认识",
+            "content": "长方体有6个面，12条棱，8个顶点；相对的面完全相同，相对的棱长度相等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "正方体的认识",
+            "content": "正方体有6个完全相同的面，12条长度相等的棱",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "长方体和正方体的表面积",
+            "content": "长方体或正方体6个面的总面积叫做它的表面积",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "长方体表面积计算公式",
+                "content": "S = 2(ab + ah + bh)",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "正方体表面积计算公式",
+                "content": "S = 6a²",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "长方体和正方体的体积",
+            "content": "物体所占空间的大小叫做物体的体积",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "体积单位",
+                "content": "立方厘米(cm³)、立方分米(dm³)、立方米(m³)",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "长方体体积计算公式",
+                "content": "V = abh",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "正方体体积计算公式",
+                "content": "V = a³",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "体积单位间的进率",
+                "content": "1m³ = 1000dm³, 1dm³ = 1000cm³",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "容积和容积单位",
+            "content": "容器所能容纳物体的体积叫做容器的容积",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "容积单位",
+                "content": "升(L)、毫升(mL)；1L = 1000mL, 1L = 1dm³, 1mL = 1cm³",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "分数的意义和性质",
+        "content": "理解分数的意义，掌握分数的基本性质，会进行约分和通分",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "分数的意义",
+            "content": "一个物体、一个计量单位或一些物体都可以看作一个整体，用自然数1来表示，叫做单位1",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "分数单位",
+                "content": "把单位1平均分成若干份，表示其中一份的数叫做分数单位",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "分数与除法",
+            "content": "被除数 ÷ 除数 = 被除数/除数 (除数≠0)",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "真分数和假分数",
+            "content": "分子比分母小的分数叫做真分数，真分数小于1；分子比分母大或分子和分母相等的分数叫做假分数，假分数大于或等于1",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "分数的基本性质",
+            "content": "分数的分子和分母同时乘或者除以相同的数(0除外)，分数的大小不变",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "约分",
+            "content": "把一个分数化成和它相等，但分子和分母都比较小的分数，叫做约分",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "最大公因数",
+                "content": "几个数公有的因数叫做它们的公因数，其中最大的叫做它们的最大公因数",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "最简分数",
+                "content": "分子和分母只有公因数1的分数叫做最简分数",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "通分",
+            "content": "把异分母分数分别化成和原来分数相等的同分母分数，叫做通分",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "最小公倍数",
+                "content": "几个数公有的倍数叫做它们的公倍数，其中最小的叫做它们的最小公倍数",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "分数和小数的互化",
+            "content": "小数表示的就是十分之几、百分之几、千分之几……的数，可以直接写成分母是10、100、1000……的分数，再化简",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "图形的运动（三）",
+        "content": "认识旋转，能在方格纸上画出一个简单图形旋转90°后的图形",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "旋转的含义",
+            "content": "物体绕着某一点或轴运动，这种运动现象叫做旋转",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "旋转的三要素",
+            "content": "旋转中心、旋转方向、旋转角度",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "在方格纸上画旋转图形",
+            "content": "确定旋转中心、旋转方向和旋转角度，找出关键点的对应点，再连线",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "分数的加法和减法",
+        "content": "掌握同分母分数、异分母分数加减法的计算方法，理解分数加减混合运算的顺序",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "同分母分数加减法",
+            "content": "分母不变，只把分子相加减",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "异分母分数加减法",
+            "content": "先通分，然后按照同分母分数加减法的法则进行计算",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "分数加减混合运算",
+            "content": "分数加减混合运算的运算顺序与整数加减混合运算的顺序相同",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "折线统计图",
+        "content": "认识单式折线统计图和复式折线统计图，能根据需要选择合适的统计图表示数据",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "单式折线统计图",
+            "content": "用一条折线表示数据的变化趋势",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "复式折线统计图",
+            "content": "用两条或多条折线表示多组数据的变化趋势，便于比较",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数学广角——找次品",
+        "content": "通过观察、猜测、实验、推理等活动，体会解决问题策略的多样性及运用优化方法解决问题的有效性",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "找次品的基本方法",
+            "content": "用天平找次品时，把物体分成3份，尽量平均分，可以保证找出次品且称的次数最少",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "因数和倍数",
+      "tail": "2、5、3的倍数特征",
+      "relation": "包含"
+    },
+    {
+      "head": "因数和倍数",
+      "tail": "质数和合数",
+      "relation": "包含"
+    },
+    {
+      "head": "长方体和正方体",
+      "tail": "长方体的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "长方体和正方体",
+      "tail": "正方体的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "长方体和正方体",
+      "tail": "表面积",
+      "relation": "包含"
+    },
+    {
+      "head": "长方体和正方体",
+      "tail": "体积",
+      "relation": "包含"
+    },
+    {
+      "head": "体积",
+      "tail": "容积",
+      "relation": "相关"
+    },
+    {
+      "head": "分数的意义和性质",
+      "tail": "分数的意义",
+      "relation": "包含"
+    },
+    {
+      "head": "分数的意义和性质",
+      "tail": "分数与除法",
+      "relation": "包含"
+    },
+    {
+      "head": "分数的意义和性质",
+      "tail": "真分数和假分数",
+      "relation": "包含"
+    },
+    {
+      "head": "分数的意义和性质",
+      "tail": "分数的基本性质",
+      "relation": "包含"
+    },
+    {
+      "head": "分数的意义和性质",
+      "tail": "约分",
+      "relation": "包含"
+    },
+    {
+      "head": "分数的意义和性质",
+      "tail": "通分",
+      "relation": "包含"
+    },
+    {
+      "head": "约分",
+      "tail": "最大公因数",
+      "relation": "基于"
+    },
+    {
+      "head": "通分",
+      "tail": "最小公倍数",
+      "relation": "基于"
+    },
+    {
+      "head": "分数的加法和减法",
+      "tail": "同分母分数加减法",
+      "relation": "包含"
+    },
+    {
+      "head": "分数的加法和减法",
+      "tail": "异分母分数加减法",
+      "relation": "包含"
+    },
+    {
+      "head": "异分母分数加减法",
+      "tail": "通分",
+      "relation": "基于"
+    },
+    {
+      "head": "图形的运动",
+      "tail": "旋转",
+      "relation": "包含"
+    },
+    {
+      "head": "折线统计图",
+      "tail": "单式折线统计图",
+      "relation": "包含"
+    },
+    {
+      "head": "折线统计图",
+      "tail": "复式折线统计图",
+      "relation": "包含"
+    },
+    {
+      "head": "数学广角",
+      "tail": "找次品",
+      "relation": "包含"
+    },
+    {
+      "head": "观察物体",
+      "tail": "空间想象",
+      "relation": "培养"
+    },
+    {
+      "head": "分数",
+      "tail": "小数",
+      "relation": "可以互化"
+    },
+    {
+      "head": "长方体",
+      "tail": "正方体",
+      "relation": "特殊关系"
+    },
+    {
+      "head": "因数",
+      "tail": "倍数",
+      "relation": "相互依存"
+    },
+    {
+      "head": "质数",
+      "tail": "合数",
+      "relation": "互补概念"
+    },
+    {
+      "head": "真分数",
+      "tail": "假分数",
+      "relation": "互补概念"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:15:43",
+    "version": "1.1"
+  }
+}

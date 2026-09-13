@@ -1,0 +1,830 @@
+{
+  "student_id": "999",
+  "target_major": "数学类",
+  "archetype": "Linear_Learner",
+  "current_grade_level": 4.3,
+  "textbook_layer": {
+    "mastered": [
+      "数学-小学-一年级上册",
+      "数学-小学-一年级下册",
+      "数学-小学-二年级上册",
+      "数学-小学-二年级下册",
+      "数学-小学-三年级上册",
+      "数学-小学-三年级下册"
+    ],
+    "learning": [
+      "数学-小学-四年级上册",
+      "数学-小学-四年级下册"
+    ],
+    "not_mastered": [
+      "数学-小学-五年级上册",
+      "数学-小学-五年级下册",
+      "数学-小学-六年级上册",
+      "数学-小学-六年级下册",
+      "数学-七年级-上册",
+      "数学-七年级-下册",
+      "数学-八年级-上册",
+      "数学-初中-八年级下册",
+      "数学-初中-九年级上册",
+      "数学-初中-九年级下册",
+      "数学-高中-必修第一册",
+      "数学-高中-必修第二册",
+      "数学-高中-选择性必修第一册",
+      "数学-高中-选择性必修第二册",
+      "数学-高中-选择性必修第三册",
+      "高等数学",
+      "线性代数",
+      "概率论与数理统计",
+      "复变函数与积分变换"
+    ]
+  },
+  "knowledge_layer": [
+    {
+      "book_name": "数学-小学-一年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-一年级上册",
+        "children": [
+          {
+            "title": "数的认识与运算",
+            "mastery": 0.731
+          },
+          {
+            "title": "图形与空间",
+            "mastery": 0.9161
+          },
+          {
+            "title": "时间认知与应用",
+            "mastery": 0.8352
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-一年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-一年级下册",
+        "children": [
+          {
+            "title": "100以内数的认识",
+            "mastery": 0.8793
+          },
+          {
+            "title": "20以内的退位减法",
+            "mastery": 0.6432
+          },
+          {
+            "title": "分类与整理",
+            "mastery": 0.9082
+          },
+          {
+            "title": "认识人民币",
+            "mastery": 0.9973
+          },
+          {
+            "title": "100以内的加法和减法",
+            "mastery": 0.8272
+          },
+          {
+            "title": "找规律",
+            "mastery": 0.8819
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-二年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-二年级上册",
+        "children": [
+          {
+            "title": "长度单位",
+            "mastery": 0.8062
+          },
+          {
+            "title": "100以内的加法和减法",
+            "mastery": 0.8781
+          },
+          {
+            "title": "角的初步认识",
+            "mastery": 0.781
+          },
+          {
+            "title": "表内乘法",
+            "mastery": 0.9508
+          },
+          {
+            "title": "观察物体",
+            "mastery": 0.7548
+          },
+          {
+            "title": "认识时间",
+            "mastery": 0.6839
+          },
+          {
+            "title": "数学广角——搭配",
+            "mastery": 0.9546
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-二年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-二年级下册",
+        "children": [
+          {
+            "title": "数据收集和整理",
+            "mastery": 0.704
+          },
+          {
+            "title": "表内除法",
+            "mastery": 0.8725
+          },
+          {
+            "title": "图形的运动",
+            "mastery": 0.8706
+          },
+          {
+            "title": "万以内数的认识",
+            "mastery": 0.8901
+          },
+          {
+            "title": "克和千克",
+            "mastery": 0.9193
+          },
+          {
+            "title": "数学广角——推理",
+            "mastery": 0.9092
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-三年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-三年级上册",
+        "children": [
+          {
+            "title": "时、分、秒",
+            "mastery": 0.7961
+          },
+          {
+            "title": "万以内的加法和减法",
+            "mastery": 0.7464
+          },
+          {
+            "title": "测量",
+            "mastery": 0.8356
+          },
+          {
+            "title": "倍的认识",
+            "mastery": 0.8701
+          },
+          {
+            "title": "多位数乘一位数",
+            "mastery": 0.8357
+          },
+          {
+            "title": "长方形和正方形",
+            "mastery": 0.7325
+          },
+          {
+            "title": "分数的初步认识",
+            "mastery": 0.825
+          },
+          {
+            "title": "数学广角——集合",
+            "mastery": 0.915
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-三年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "数学-小学-三年级下册",
+        "children": [
+          {
+            "title": "除数是一位数的除法",
+            "mastery": 0.9057
+          },
+          {
+            "title": "两位数乘两位数",
+            "mastery": 0.9254
+          },
+          {
+            "title": "面积概念与计算",
+            "mastery": 0.546
+          },
+          {
+            "title": "年、月、日认识",
+            "mastery": 0.8424
+          },
+          {
+            "title": "小数初步认识",
+            "mastery": 0.8666
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-四年级上册",
+      "status": "learning",
+      "detail": {
+        "title": "数学-小学-四年级上册",
+        "children": [
+          {
+            "title": "大数的认识",
+            "mastery": 0.5457
+          },
+          {
+            "title": "面积单位与几何图形",
+            "mastery": 0.1002
+          },
+          {
+            "title": "数的运算与规律",
+            "mastery": 0.6417
+          },
+          {
+            "title": "数据表示与数学思想",
+            "mastery": 0.423
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-四年级下册",
+      "status": "learning",
+      "detail": {
+        "title": "数学-小学-四年级下册",
+        "children": [
+          {
+            "title": "四则运算",
+            "mastery": 0.3685
+          },
+          {
+            "title": "观察物体",
+            "mastery": 0.81
+          },
+          {
+            "title": "运算律",
+            "mastery": 0.9866
+          },
+          {
+            "title": "小数的意义和性质",
+            "mastery": 0.7888
+          },
+          {
+            "title": "三角形",
+            "mastery": 0.7415
+          },
+          {
+            "title": "小数的加法和减法",
+            "mastery": 0.815
+          },
+          {
+            "title": "图形的运动",
+            "mastery": 0.5356
+          },
+          {
+            "title": "平均数与条形统计图",
+            "mastery": 0.5201
+          },
+          {
+            "title": "鸡兔同笼问题",
+            "mastery": 0.4639
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-五年级上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-小学-五年级上册",
+        "children": [
+          {
+            "title": "小数乘法",
+            "mastery": 0.1553
+          },
+          {
+            "title": "位置",
+            "mastery": 0.0917
+          },
+          {
+            "title": "小数除法",
+            "mastery": 0.463
+          },
+          {
+            "title": "简易方程",
+            "mastery": 0.1485
+          },
+          {
+            "title": "多边形的面积",
+            "mastery": 0.1243
+          },
+          {
+            "title": "可能性",
+            "mastery": 0.0657
+          },
+          {
+            "title": "数学广角",
+            "mastery": 0.1886
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-五年级下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-小学-五年级下册",
+        "children": [
+          {
+            "title": "观察物体（三）",
+            "mastery": 0.132
+          },
+          {
+            "title": "因数和倍数",
+            "mastery": 0.2328
+          },
+          {
+            "title": "长方体和正方体",
+            "mastery": 0.0637
+          },
+          {
+            "title": "分数的意义和性质",
+            "mastery": 0.1116
+          },
+          {
+            "title": "图形的运动（三）",
+            "mastery": 0.1708
+          },
+          {
+            "title": "分数的加法和减法",
+            "mastery": 0.4036
+          },
+          {
+            "title": "折线统计图",
+            "mastery": 0.4998
+          },
+          {
+            "title": "数学广角——找次品",
+            "mastery": 0.1167
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-六年级上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-小学-六年级上册",
+        "children": [
+          {
+            "title": "分数乘法",
+            "mastery": 0.1413
+          },
+          {
+            "title": "位置与方向",
+            "mastery": 0.0396
+          },
+          {
+            "title": "分数除法",
+            "mastery": 0.3622
+          },
+          {
+            "title": "比",
+            "mastery": 0.1324
+          },
+          {
+            "title": "圆",
+            "mastery": 0.017
+          },
+          {
+            "title": "百分数",
+            "mastery": 0.2398
+          },
+          {
+            "title": "扇形统计图",
+            "mastery": 0.3037
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-小学-六年级下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-小学-六年级下册",
+        "children": [
+          {
+            "title": "负数",
+            "mastery": 0.1411
+          },
+          {
+            "title": "百分数（二）",
+            "mastery": 0.1695
+          },
+          {
+            "title": "圆柱与圆锥",
+            "mastery": 0.3754
+          },
+          {
+            "title": "比例",
+            "mastery": 0.2458
+          },
+          {
+            "title": "数学广角—鸽巢问题",
+            "mastery": 0.2127
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-七年级-上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-七年级-上册",
+        "children": [
+          {
+            "title": "有理数",
+            "mastery": 0.1683
+          },
+          {
+            "title": "代数式与整式",
+            "mastery": 0.3198
+          },
+          {
+            "title": "一元一次方程",
+            "mastery": 0.1806
+          },
+          {
+            "title": "几何图形初步",
+            "mastery": 0.1003
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-七年级-下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-七年级-下册",
+        "children": [
+          {
+            "title": "相交线与平行线",
+            "mastery": 0.2471
+          },
+          {
+            "title": "实数",
+            "mastery": 0.3034
+          },
+          {
+            "title": "平面直角坐标系",
+            "mastery": 0.1519
+          },
+          {
+            "title": "二元一次方程组",
+            "mastery": 0.0494
+          },
+          {
+            "title": "不等式与不等式组",
+            "mastery": 0.1348
+          },
+          {
+            "title": "数据的收集整理与描述",
+            "mastery": 0.0552
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-八年级-上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-八年级-上册",
+        "children": [
+          {
+            "title": "三角形",
+            "mastery": 0.2405
+          },
+          {
+            "title": "全等三角形",
+            "mastery": 0.2119
+          },
+          {
+            "title": "轴对称",
+            "mastery": 0.1808
+          },
+          {
+            "title": "整式与分式运算",
+            "mastery": 0.1761
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-初中-八年级下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-初中-八年级下册",
+        "children": [
+          {
+            "title": "二次根式",
+            "mastery": 0.4415
+          },
+          {
+            "title": "勾股定理",
+            "mastery": 0.1661
+          },
+          {
+            "title": "平行四边形",
+            "mastery": 0.1647
+          },
+          {
+            "title": "一次函数",
+            "mastery": 0.4814
+          },
+          {
+            "title": "数据的分析",
+            "mastery": 0.3005
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-初中-九年级上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-初中-九年级上册",
+        "children": [
+          {
+            "title": "一元二次方程",
+            "mastery": 0.4406
+          },
+          {
+            "title": "二次函数",
+            "mastery": 0.2101
+          },
+          {
+            "title": "旋转",
+            "mastery": 0.2255
+          },
+          {
+            "title": "圆",
+            "mastery": 0.3237
+          },
+          {
+            "title": "概率初步",
+            "mastery": 0.2386
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-初中-九年级下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-初中-九年级下册",
+        "children": [
+          {
+            "title": "反比例函数",
+            "mastery": 0.2182
+          },
+          {
+            "title": "相似",
+            "mastery": 0.3539
+          },
+          {
+            "title": "锐角三角函数",
+            "mastery": 0.2715
+          },
+          {
+            "title": "投影与视图",
+            "mastery": 0.0851
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-必修第一册",
+        "children": [
+          {
+            "title": "集合与常用逻辑用语",
+            "mastery": 0.0706
+          },
+          {
+            "title": "对数函数",
+            "mastery": 0.1187
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-必修第二册",
+        "children": [
+          {
+            "title": "平面向量及其应用",
+            "mastery": 0.0694
+          },
+          {
+            "title": "空间直线与平面的垂直",
+            "mastery": 0.0092
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-选择性必修第一册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-选择性必修第一册",
+        "children": [
+          {
+            "title": "空间向量与立体几何",
+            "mastery": 0.1316
+          },
+          {
+            "title": "直线与圆",
+            "mastery": 0.1251
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-选择性必修第二册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-选择性必修第二册",
+        "children": [
+          {
+            "title": "数列的概念与表示",
+            "mastery": 0.1125
+          },
+          {
+            "title": "等差数列",
+            "mastery": 0.1216
+          },
+          {
+            "title": "等比数列",
+            "mastery": 0.1055
+          },
+          {
+            "title": "数学归纳法",
+            "mastery": 0.0284
+          },
+          {
+            "title": "数列的综合应用",
+            "mastery": 0.2872
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "数学-高中-选择性必修第三册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "数学-高中-选择性必修第三册",
+        "children": [
+          {
+            "title": "计数原理",
+            "mastery": 0.3863
+          },
+          {
+            "title": "随机变量及其分布",
+            "mastery": 0.0428
+          },
+          {
+            "title": "成对数据的统计分析",
+            "mastery": 0.2031
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "高等数学",
+      "status": "not_mastered",
+      "detail": {
+        "title": "高等数学",
+        "children": [
+          {
+            "title": "函数与极限",
+            "mastery": 0.0634
+          },
+          {
+            "title": "导数与微分",
+            "mastery": 0.1942
+          },
+          {
+            "title": "微分中值定理与应用",
+            "mastery": 0.0756
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "线性代数",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-理学-数学类-线性代数",
+        "children": [
+          {
+            "title": "行列式理论",
+            "mastery": 0.2665
+          },
+          {
+            "title": "矩阵理论",
+            "mastery": 0.2833
+          },
+          {
+            "title": "向量空间理论",
+            "mastery": 0.0098
+          },
+          {
+            "title": "相似理论与二次型",
+            "mastery": 0.1446
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "概率论与数理统计",
+      "status": "not_mastered",
+      "detail": {
+        "title": "概率论与数理统计",
+        "children": [
+          {
+            "title": "随机事件及其概率",
+            "mastery": 0.2132
+          },
+          {
+            "title": "随机变量及其分布",
+            "mastery": 0.0421
+          },
+          {
+            "title": "多维随机变量",
+            "mastery": 0.1298
+          },
+          {
+            "title": "数字特征与极限定理",
+            "mastery": 0.1826
+          },
+          {
+            "title": "数理统计基础",
+            "mastery": 0.162
+          },
+          {
+            "title": "参数估计",
+            "mastery": 0.1621
+          },
+          {
+            "title": "假设检验",
+            "mastery": 0.2996
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "复变函数与积分变换",
+      "status": "not_mastered",
+      "detail": {
+        "title": "复变函数与积分变换",
+        "children": [
+          {
+            "title": "复数与复变函数",
+            "mastery": 0.3439
+          },
+          {
+            "title": "解析函数",
+            "mastery": 0.2733
+          },
+          {
+            "title": "复变函数积分",
+            "mastery": 0.3461
+          },
+          {
+            "title": "解析函数的级数表示",
+            "mastery": 0.3002
+          },
+          {
+            "title": "留数及其应用",
+            "mastery": 0.2455
+          }
+        ]
+      }
+    }
+  ]
+}

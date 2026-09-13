@@ -1,0 +1,221 @@
+{
+  "knowledge_tree": {
+    "title": "高中音乐演奏课本",
+    "content": "涵盖乐队常识、乐器分类、演奏技巧及合奏实践",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元 认识乐队",
+        "content": "介绍乐队基本概念与组合形式",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "第一节 乐队常识",
+            "content": "乐队的历史演变与基本概念",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "乐队的历史",
+                "content": "从古代祭祀乐舞到现代乐队形式的发展",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "乐队的组合方式",
+                "content": "重奏与合奏的区别与特点",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元 中国民族管弦乐队",
+        "content": "中国民族乐器的分类与演奏技法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第二节 中国民族管弦乐队常识",
+            "content": "乐队编制与排列方式",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "乐队编制",
+                "content": "吹管、弹拨、拉弦、打击四个声部的构成",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "位置排列",
+                "content": "两种典型舞台排列方式及其特点",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第三节 吹管乐器",
+            "content": "笛、箫、笙、唢呐等吹管乐器介绍",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "笛子演奏技巧",
+                "content": "连奏、吐奏、花舌、滑音、历音等技法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "唢呐演奏技巧",
+                "content": "单吐、双吐、三吐、箫音模仿等技法",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三单元 西洋管弦乐队",
+        "content": "西洋乐器的分类与演奏技法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第七节 西洋管弦乐队常识",
+            "content": "乐队编制与声部构成",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "乐队编制类型",
+                "content": "四管编制、三管编制、单管编制的区别",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "位置排列原则",
+                "content": "弦乐组为基础声部的排列逻辑",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "第八节 木管乐器",
+            "content": "长笛、双簧管、单簧管、大管等乐器",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "长笛演奏技巧",
+                "content": "呼吸控制、舌奏四种方法、泛音奏法",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "双簧管演奏特点",
+                "content": "发音精确性、音色穿透力与呼吸控制",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "乐队",
+      "tail": "重奏",
+      "relation": "包含演奏形式"
+    },
+    {
+      "head": "乐队",
+      "tail": "合奏",
+      "relation": "包含演奏形式"
+    },
+    {
+      "head": "中国民族管弦乐队",
+      "tail": "吹管乐器",
+      "relation": "包含声部"
+    },
+    {
+      "head": "中国民族管弦乐队",
+      "tail": "弹拨乐器",
+      "relation": "包含声部"
+    },
+    {
+      "head": "笛子",
+      "tail": "连奏",
+      "relation": "演奏技法"
+    },
+    {
+      "head": "笛子",
+      "tail": "吐奏",
+      "relation": "演奏技法"
+    },
+    {
+      "head": "西洋管弦乐队",
+      "tail": "木管乐器",
+      "relation": "包含声部"
+    },
+    {
+      "head": "西洋管弦乐队",
+      "tail": "铜管乐器",
+      "relation": "包含声部"
+    },
+    {
+      "head": "长笛",
+      "tail": "呼吸控制",
+      "relation": "演奏基础"
+    },
+    {
+      "head": "单簧管",
+      "tail": "舌奏技巧",
+      "relation": "演奏技法"
+    },
+    {
+      "head": "合奏",
+      "tail": "音色融合",
+      "relation": "要求"
+    },
+    {
+      "head": "合奏",
+      "tail": "音准统一",
+      "relation": "要求"
+    },
+    {
+      "head": "丰收锣鼓",
+      "tail": "彭修文",
+      "relation": "由...创作"
+    },
+    {
+      "head": "青少年管弦乐队指南",
+      "tail": "布里顿",
+      "relation": "由...创作"
+    },
+    {
+      "head": "吹管乐器",
+      "tail": "唢呐",
+      "relation": "包含乐器"
+    },
+    {
+      "head": "弹拨乐器",
+      "tail": "琵琶",
+      "relation": "包含乐器"
+    },
+    {
+      "head": "拉弦乐器",
+      "tail": "二胡",
+      "relation": "包含乐器"
+    },
+    {
+      "head": "打击乐器",
+      "tail": "大鼓",
+      "relation": "包含乐器"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 15:59:33",
+    "version": "1.1"
+  }
+}

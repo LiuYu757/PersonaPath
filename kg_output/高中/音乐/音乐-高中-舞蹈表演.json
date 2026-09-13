@@ -1,0 +1,239 @@
+{
+  "knowledge_tree": {
+    "title": "高中舞蹈表演",
+    "content": "涵盖中外民间舞、古典舞、现代舞及编创表演的综合性舞蹈课程",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元 中外民间舞",
+        "content": "学习各民族传统舞蹈形式与风格特征",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "第一节 汉族民间舞",
+            "content": "学习北方秧歌与南方花灯等汉族民间舞种",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "东北秧歌基本形态",
+                "content": "含胸微屈膝的基本体态与正步位站姿",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "上下动律",
+                    "content": "腰部发力划下弧线的上下扭动，重拍向上",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "压脚跟",
+                    "content": "脚跟低抬快速下压，压在重拍上",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "手巾花技巧",
+                "content": "东北秧歌特有的手巾花表演技法",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "单臂花",
+                    "content": "慢起快压绕，压腕翘指掌心向前",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "交替花",
+                    "content": "从身侧抬起，以指带腕，腕带臂的运动方式",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第二节 少数民族民间舞",
+            "content": "学习傣族、藏族等少数民族舞蹈风格",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "傣族舞基本手形",
+                "content": "掌形、叶形、爪形等特色手形",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "掌形手",
+                    "content": "四指并拢伸直，虎口张开的手形",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "叶形手",
+                    "content": "模仿树叶形状的优雅手形",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "傣族舞基本脚位",
+                "content": "之字位、丁字位等特色站姿",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "之字位",
+                    "content": "双脚呈之字形站立的舞姿",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "前点交叉位",
+                    "content": "前脚点地，后脚支撑的交叉站姿",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第二单元 中外古典舞",
+        "content": "学习具有典范意义的传统舞蹈体系",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "第四节 中国古典舞",
+            "content": "学习身韵、汉唐、敦煌等古典舞学派",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "基本手形",
+                "content": "兰花手、剑指等古典舞手形",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "兰花手",
+                    "content": "拇指与中指相捏，其余三指依次翘起",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "剑指",
+                    "content": "食指与中指并拢伸直，拇指压于无名指上",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "三圆动律",
+                "content": "平圆、立圆、八字圆的运动轨迹",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "平圆运动",
+                    "content": "在水平面上划圆的运动方式",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "立圆运动",
+                    "content": "在垂直面上划圆的运动方式",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "东北秧歌",
+      "tail": "上下动律",
+      "relation": "包含"
+    },
+    {
+      "head": "东北秧歌",
+      "tail": "压脚跟",
+      "relation": "包含"
+    },
+    {
+      "head": "手巾花技巧",
+      "tail": "单臂花",
+      "relation": "包含"
+    },
+    {
+      "head": "手巾花技巧",
+      "tail": "交替花",
+      "relation": "包含"
+    },
+    {
+      "head": "傣族舞",
+      "tail": "掌形手",
+      "relation": "包含"
+    },
+    {
+      "head": "傣族舞",
+      "tail": "叶形手",
+      "relation": "包含"
+    },
+    {
+      "head": "之字位",
+      "tail": "前点交叉位",
+      "relation": "同属于"
+    },
+    {
+      "head": "中国古典舞",
+      "tail": "兰花手",
+      "relation": "包含"
+    },
+    {
+      "head": "中国古典舞",
+      "tail": "剑指",
+      "relation": "包含"
+    },
+    {
+      "head": "三圆动律",
+      "tail": "平圆运动",
+      "relation": "包含"
+    },
+    {
+      "head": "三圆动律",
+      "tail": "立圆运动",
+      "relation": "包含"
+    },
+    {
+      "head": "东北秧歌基本形态",
+      "tail": "上下动律",
+      "relation": "运用"
+    },
+    {
+      "head": "傣族舞基本手形",
+      "tail": "掌形手",
+      "relation": "包含"
+    },
+    {
+      "head": "交替花",
+      "tail": "单臂花",
+      "relation": "技法延伸"
+    },
+    {
+      "head": "平圆运动",
+      "tail": "立圆运动",
+      "relation": "运动轨迹变体"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 15:55:37",
+    "version": "1.1"
+  }
+}

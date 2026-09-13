@@ -1,0 +1,467 @@
+{
+  "knowledge_tree": {
+    "title": "电工学电工技术上册",
+    "content": "电工学基础理论，涵盖电路基本概念、直流电路分析、暂态过程、正弦交流电路等核心内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "电路的基本概念与基本定律",
+        "content": "电路模型、基本物理量、电路元件特性和基本定律",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "电路与电路模型",
+            "content": "实际电路与理想电路元件的抽象模型",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "电路组成",
+                "content": "电源、负载、中间环节三部分构成",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "电路模型",
+                "content": "理想元件及其组合对实际电路的模拟",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电路的基本物理量",
+            "content": "电流、电压、电动势、功率等基本物理量",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "电流",
+                "content": "电荷定向移动形成电流，单位安培(A)",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "电流方向",
+                    "content": "正电荷运动方向规定为电流方向",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "电流强度",
+                    "content": "单位时间内通过导体横截面的电荷量",
+                    "difficulty": "1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "电压",
+                "content": "电场力移动单位正电荷所做的功，单位伏特(V)",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "电压方向",
+                    "content": "从高电位指向低电位",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "电位",
+                    "content": "电路中某点相对于参考点的电压",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "电动势",
+                "content": "电源力移动单位正电荷所做的功，单位伏特(V)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电功率",
+                "content": "单位时间内电场力所做的功，单位瓦特(W)",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "功率计算公式",
+                    "content": "P=UI（关联参考方向）",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "电路元件",
+            "content": "电阻、电感、电容等基本电路元件",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "电阻元件",
+                "content": "消耗电能的二端元件",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "欧姆定律",
+                    "content": "U=IR，线性电阻的电压电流关系",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "电阻的串并联",
+                    "content": "串联电阻分压，并联电阻分流",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "电感元件",
+                "content": "储存磁场能量的二端元件",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "电感特性",
+                    "content": "电流不能突变，u=Ldi/dt",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "电容元件",
+                "content": "储存电场能量的二端元件",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "电容特性",
+                    "content": "电压不能突变，i=Cdu/dt",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "基尔霍夫定律",
+            "content": "电路分析的基本定律",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "基尔霍夫电流定律(KCL)",
+                "content": "任一节点电流代数和为零",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "基尔霍夫电压定律(KVL)",
+                "content": "任一回路电压代数和为零",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "电路的分析方法",
+        "content": "直流电路的各种分析方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "支路电流法",
+            "content": "以支路电流为未知量的电路分析方法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "节点电压法",
+            "content": "以节点电压为未知量的电路分析方法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "叠加定理",
+            "content": "线性电路中多个电源共同作用的响应等于各电源单独作用响应的代数和",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "戴维宁定理",
+            "content": "任一线性有源二端网络可用电压源与电阻串联等效",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "诺顿定理",
+            "content": "任一线性有源二端网络可用电流源与电阻并联等效",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "电路的暂态分析",
+        "content": "含储能元件电路的过渡过程分析",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "暂态过程概念",
+            "content": "电路从一种稳态到另一种稳态的过渡过程",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "RC电路的暂态响应",
+            "content": "电阻电容电路的充放电过程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "时间常数",
+                "content": "τ=RC，表征暂态过程快慢的参数",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "RL电路的暂态响应",
+            "content": "电阻电感电路的过渡过程",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "一阶电路的三要素法",
+            "content": "f(t)=f(∞)+[f(0+)-f(∞)]e^(-t/τ)",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "正弦交流电路",
+        "content": "正弦激励下稳态电路分析",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "正弦量的基本概念",
+            "content": "正弦交流电的三要素和表示方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "正弦量三要素",
+                "content": "幅值、角频率、初相位",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "有效值",
+                "content": "与直流电热效应相等的交流电数值",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "相位差",
+                "content": "两个同频率正弦量的相位之差",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "相量法",
+            "content": "用复数表示正弦量的分析方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "相量表示",
+                "content": "用复数模表示有效值，辐角表示初相位",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "相量运算",
+                "content": "正弦量的加减乘除转化为复数运算",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "单一参数交流电路",
+            "content": "纯电阻、纯电感、纯电容电路特性",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电阻元件交流特性",
+                "content": "电压电流同相位，P=UI",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电感元件交流特性",
+                "content": "电压超前电流90°，Q=UI",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电容元件交流特性",
+                "content": "电压滞后电流90°，Q=UI",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "RLC串联电路",
+            "content": "电阻电感电容串联的交流电路分析",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "阻抗三角形",
+                "content": "电阻、电抗、阻抗构成的直角三角形关系",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "功率三角形",
+                "content": "有功功率、无功功率、视在功率构成的直角三角形关系",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "功率因数",
+                "content": "有功功率与视在功率的比值",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "电路模型",
+      "tail": "理想元件",
+      "relation": "由...组成"
+    },
+    {
+      "head": "电流",
+      "tail": "电荷定向移动",
+      "relation": "由...形成"
+    },
+    {
+      "head": "电压",
+      "tail": "电位差",
+      "relation": "等于"
+    },
+    {
+      "head": "欧姆定律",
+      "tail": "线性电阻",
+      "relation": "适用于"
+    },
+    {
+      "head": "基尔霍夫定律",
+      "tail": "电路分析",
+      "relation": "是...基础"
+    },
+    {
+      "head": "支路电流法",
+      "tail": "基尔霍夫定律",
+      "relation": "基于"
+    },
+    {
+      "head": "叠加定理",
+      "tail": "线性电路",
+      "relation": "适用于"
+    },
+    {
+      "head": "戴维宁定理",
+      "tail": "有源二端网络",
+      "relation": "用于等效"
+    },
+    {
+      "head": "暂态过程",
+      "tail": "储能元件",
+      "relation": "由...引起"
+    },
+    {
+      "head": "时间常数",
+      "tail": "暂态过程快慢",
+      "relation": "表征"
+    },
+    {
+      "head": "三要素法",
+      "tail": "一阶电路",
+      "relation": "适用于"
+    },
+    {
+      "head": "正弦量",
+      "tail": "三要素",
+      "relation": "由...确定"
+    },
+    {
+      "head": "相量法",
+      "tail": "正弦交流电路",
+      "relation": "用于分析"
+    },
+    {
+      "head": "阻抗三角形",
+      "tail": "RLC串联电路",
+      "relation": "描述"
+    },
+    {
+      "head": "功率因数",
+      "tail": "有功功率",
+      "relation": "与...相关"
+    },
+    {
+      "head": "电阻元件",
+      "tail": "消耗电能",
+      "relation": "功能是"
+    },
+    {
+      "head": "电感元件",
+      "tail": "储存磁场能量",
+      "relation": "功能是"
+    },
+    {
+      "head": "电容元件",
+      "tail": "储存电场能量",
+      "relation": "功能是"
+    },
+    {
+      "head": "KCL",
+      "tail": "节点电流",
+      "relation": "描述"
+    },
+    {
+      "head": "KVL",
+      "tail": "回路电压",
+      "relation": "描述"
+    },
+    {
+      "head": "有效值",
+      "tail": "热效应",
+      "relation": "基于"
+    },
+    {
+      "head": "相位差",
+      "tail": "同频率正弦量",
+      "relation": "比较"
+    },
+    {
+      "head": "功率三角形",
+      "tail": "功率关系",
+      "relation": "直观表示"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:41:32",
+    "version": "1.1"
+  }
+}

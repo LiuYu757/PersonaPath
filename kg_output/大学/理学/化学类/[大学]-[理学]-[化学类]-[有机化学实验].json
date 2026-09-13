@@ -1,0 +1,391 @@
+{
+  "knowledge_tree": {
+    "title": "有机化学实验",
+    "content": "有机化学实验是化学类专业的核心实践课程，涵盖有机化合物的合成、分离、纯化、鉴定及基本实验操作技术。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "实验安全与基本操作",
+        "content": "有机化学实验的基本安全规范、常用玻璃仪器的认识与使用、加热与冷却方法。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "安全须知",
+            "content": "熟悉实验室安全规则，了解常见有机溶剂的毒性、易燃性及应急处理方法。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "常用玻璃仪器",
+            "content": "圆底烧瓶、冷凝管、分液漏斗、蒸馏头等仪器的用途与使用方法。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "加热与冷却技术",
+            "content": "水浴、油浴、空气冷凝管的使用；冰水浴、冰盐浴等冷却方法的应用。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "有机合成基本反应",
+        "content": "典型的有机合成反应，如取代、加成、消除、氧化还原等。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "酯化反应",
+            "content": "羧酸与醇在酸催化下生成酯和水的反应。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "反应机理",
+                "content": "酸催化下羧酸质子化，醇亲核进攻形成四面体中间体，最终脱水生成酯。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "典型实验：乙酸乙酯的合成",
+                "content": "冰醋酸与乙醇在浓硫酸催化下加热回流制备乙酸乙酯。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "格氏反应",
+            "content": "卤代烃与镁在无水乙醚中反应生成格氏试剂，进而与羰基化合物加成制备醇。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "格氏试剂的制备",
+                "content": "反应必须在绝对无水条件下进行，防止格氏试剂水解。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "与醛酮的加成",
+                "content": "格氏试剂对醛酮羰基进行亲核加成，水解后得到不同结构的醇。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "分离与纯化技术",
+        "content": "从反应混合物中分离和提纯目标产物的常用方法。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "蒸馏",
+            "content": "利用液体混合物中各组分沸点不同进行分离。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "简单蒸馏",
+                "content": "用于分离沸点相差较大（>30°C）的液体混合物。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "分馏",
+                "content": "利用分馏柱实现沸点相近液体的分离。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "重结晶",
+            "content": "利用物质在不同温度下溶解度的差异来纯化固体化合物。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "溶剂的选择",
+                "content": "理想溶剂应对产物高温溶解性好，低温溶解性差，且与杂质溶解度差异大。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "操作步骤",
+                "content": "加热溶解、热过滤、冷却结晶、抽滤、洗涤、干燥。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "色谱法",
+            "content": "利用物质在固定相和流动相之间分配比的差异进行分离。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "薄层色谱",
+                "content": "快速监测反应进程和鉴定化合物。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "柱色谱",
+                "content": "用于较大规模混合物的分离纯化。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "化合物鉴定与表征",
+        "content": "通过物理常数测定和波谱分析确定有机化合物的结构和纯度。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "物理常数测定",
+            "content": "包括熔点、沸点、折射率、旋光度等的测定。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "熔点测定",
+                "content": "用于鉴定固体化合物和判断其纯度。纯物质有固定且敏锐的熔点。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "红外光谱",
+            "content": "基于分子中化学键的振动吸收，用于鉴定官能团。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "特征吸收峰",
+                "content": "如O-H伸缩振动在3200-3600 cm⁻¹，C=O伸缩振动在1700 cm⁻¹左右。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "核磁共振氢谱",
+            "content": "提供分子中氢原子的类型、数目及相邻基团的信息，是确定分子结构的有力工具。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "化学位移",
+                "content": "氢核的共振频率相对标准物的偏移，反映其化学环境。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "耦合常数",
+                "content": "相邻氢原子自旋之间的相互作用导致谱峰分裂，提供立体结构信息。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "有机化学实验",
+      "tail": "实验安全与基本操作",
+      "relation": "包含"
+    },
+    {
+      "head": "有机化学实验",
+      "tail": "有机合成基本反应",
+      "relation": "包含"
+    },
+    {
+      "head": "有机化学实验",
+      "tail": "分离与纯化技术",
+      "relation": "包含"
+    },
+    {
+      "head": "有机化学实验",
+      "tail": "化合物鉴定与表征",
+      "relation": "包含"
+    },
+    {
+      "head": "实验安全与基本操作",
+      "tail": "安全须知",
+      "relation": "包含"
+    },
+    {
+      "head": "实验安全与基本操作",
+      "tail": "常用玻璃仪器",
+      "relation": "包含"
+    },
+    {
+      "head": "实验安全与基本操作",
+      "tail": "加热与冷却技术",
+      "relation": "包含"
+    },
+    {
+      "head": "有机合成基本反应",
+      "tail": "酯化反应",
+      "relation": "包含"
+    },
+    {
+      "head": "有机合成基本反应",
+      "tail": "格氏反应",
+      "relation": "包含"
+    },
+    {
+      "head": "酯化反应",
+      "tail": "反应机理",
+      "relation": "包含"
+    },
+    {
+      "head": "酯化反应",
+      "tail": "典型实验：乙酸乙酯的合成",
+      "relation": "包含"
+    },
+    {
+      "head": "典型实验：乙酸乙酯的合成",
+      "tail": "反应机理",
+      "relation": "基于"
+    },
+    {
+      "head": "格氏反应",
+      "tail": "格氏试剂的制备",
+      "relation": "包含"
+    },
+    {
+      "head": "格氏反应",
+      "tail": "与醛酮的加成",
+      "relation": "包含"
+    },
+    {
+      "head": "格氏试剂的制备",
+      "tail": "与醛酮的加成",
+      "relation": "是...的前提"
+    },
+    {
+      "head": "分离与纯化技术",
+      "tail": "蒸馏",
+      "relation": "包含"
+    },
+    {
+      "head": "分离与纯化技术",
+      "tail": "重结晶",
+      "relation": "包含"
+    },
+    {
+      "head": "分离与纯化技术",
+      "tail": "色谱法",
+      "relation": "包含"
+    },
+    {
+      "head": "蒸馏",
+      "tail": "简单蒸馏",
+      "relation": "包含"
+    },
+    {
+      "head": "蒸馏",
+      "tail": "分馏",
+      "relation": "包含"
+    },
+    {
+      "head": "分馏",
+      "tail": "简单蒸馏",
+      "relation": "是...的改进"
+    },
+    {
+      "head": "重结晶",
+      "tail": "溶剂的选择",
+      "relation": "包含"
+    },
+    {
+      "head": "重结晶",
+      "tail": "操作步骤",
+      "relation": "包含"
+    },
+    {
+      "head": "溶剂的选择",
+      "tail": "操作步骤",
+      "relation": "影响"
+    },
+    {
+      "head": "色谱法",
+      "tail": "薄层色谱",
+      "relation": "包含"
+    },
+    {
+      "head": "色谱法",
+      "tail": "柱色谱",
+      "relation": "包含"
+    },
+    {
+      "head": "薄层色谱",
+      "tail": "柱色谱",
+      "relation": "原理应用于"
+    },
+    {
+      "head": "化合物鉴定与表征",
+      "tail": "物理常数测定",
+      "relation": "包含"
+    },
+    {
+      "head": "化合物鉴定与表征",
+      "tail": "红外光谱",
+      "relation": "包含"
+    },
+    {
+      "head": "化合物鉴定与表征",
+      "tail": "核磁共振氢谱",
+      "relation": "包含"
+    },
+    {
+      "head": "物理常数测定",
+      "tail": "熔点测定",
+      "relation": "包含"
+    },
+    {
+      "head": "红外光谱",
+      "tail": "特征吸收峰",
+      "relation": "用于分析"
+    },
+    {
+      "head": "核磁共振氢谱",
+      "tail": "化学位移",
+      "relation": "基于"
+    },
+    {
+      "head": "核磁共振氢谱",
+      "tail": "耦合常数",
+      "relation": "基于"
+    },
+    {
+      "head": "化学位移",
+      "tail": "耦合常数",
+      "relation": "共同用于解析分子结构"
+    },
+    {
+      "head": "常用玻璃仪器",
+      "tail": "蒸馏",
+      "relation": "用于"
+    },
+    {
+      "head": "加热与冷却技术",
+      "tail": "酯化反应",
+      "relation": "应用于"
+    },
+    {
+      "head": "安全须知",
+      "tail": "格氏试剂的制备",
+      "relation": "是...的重要前提"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:51:47",
+    "version": "1.1"
+  }
+}

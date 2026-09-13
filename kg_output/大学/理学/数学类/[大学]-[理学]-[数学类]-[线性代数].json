@@ -1,0 +1,670 @@
+{
+  "knowledge_tree": {
+    "title": "线性代数",
+    "content": "研究向量、向量空间、线性变换和线性方程组的数学分支",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "行列式",
+        "content": "一个将方阵映射到一个标量的函数，记作det(A)或|A|",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "二阶与三阶行列式",
+            "content": "对角线法则（沙路法则）",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "二阶行列式计算",
+                "content": "|a b; c d| = ad - bc",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "三阶行列式计算",
+                "content": "对角线展开法",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "n阶行列式",
+            "content": "基于逆序数定义的全排列求和",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "排列与逆序数",
+                "content": "排列中逆序对的总数",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "n阶行列式定义",
+                "content": "det(A) = Σ(-1)^t a_{1p1}a_{2p2}...a_{npn}",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "行列式的性质",
+            "content": "用于简化行列式计算的一系列规则",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "转置不变性",
+                "content": "det(A^T) = det(A)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "行（列）互换",
+                "content": "行列式变号",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "倍乘性质",
+                "content": "某行（列）乘k，行列式值乘k",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "行（列）加法",
+                "content": "行列式值不变",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "行列式按行（列）展开",
+            "content": "利用代数余子式展开行列式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "余子式与代数余子式",
+                "content": "M_ij与A_ij = (-1)^(i+j)M_ij",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "展开定理",
+                "content": "det(A) = Σa_ijA_ij (对任意i或j)",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "克拉默法则",
+            "content": "用行列式求解线性方程组",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "克拉默法则内容",
+                "content": "若系数行列式D≠0，则方程组有唯一解x_j = D_j/D",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "克拉默法则应用",
+                "content": "求解系数行列式不为零的线性方程组",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "行列式计算题型",
+            "content": "常见行列式计算方法和技巧",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "三角化法",
+                "content": "利用性质化为上（下）三角行列式",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "递推法",
+                "content": "建立递推关系式计算行列式",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "数学归纳法",
+                "content": "证明行列式公式",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "范德蒙德行列式",
+                "content": "特殊形式的行列式",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "矩阵",
+        "content": "由数排成的矩形阵列，是线性代数的主要研究对象",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "矩阵的基本概念",
+            "content": "矩阵的定义、类型和基本运算",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "矩阵定义",
+                "content": "m×n个数a_ij排成的m行n列数表",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "特殊矩阵",
+                "content": "零矩阵、单位矩阵、对角矩阵等",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "矩阵相等",
+                "content": "同型矩阵对应元素相等",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "矩阵运算",
+            "content": "矩阵的加法、数乘、乘法等运算规则",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "矩阵加法",
+                "content": "同型矩阵对应元素相加",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "数乘矩阵",
+                "content": "数k乘矩阵每个元素",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "矩阵乘法",
+                "content": "A的列数等于B的行数时定义",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "矩阵的幂",
+                "content": "方阵的乘方运算",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "矩阵的转置",
+                "content": "行列互换得到新矩阵",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "逆矩阵",
+            "content": "方阵A存在矩阵B使AB=BA=E，则B为A的逆矩阵",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "逆矩阵定义",
+                "content": "满足AA⁻¹ = A⁻¹A = E的矩阵A⁻¹",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "逆矩阵存在条件",
+                "content": "方阵A可逆的充要条件是det(A)≠0",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "逆矩阵求法",
+                "content": "伴随矩阵法A⁻¹ = A*/det(A)",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "逆矩阵性质",
+                "content": "(AB)⁻¹ = B⁻¹A⁻¹等",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "矩阵的分块",
+            "content": "将矩阵分割成小矩阵进行运算",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "分块矩阵",
+                "content": "用纵线和横线分割矩阵",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "分块矩阵运算",
+                "content": "分块矩阵的加法、数乘和乘法",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "矩阵的初等变换",
+            "content": "矩阵的行（列）变换操作",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "初等变换类型",
+                "content": "交换两行（列）、倍乘某行（列）、倍加某行（列）",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "初等矩阵",
+                "content": "单位矩阵经过一次初等变换得到的矩阵",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "矩阵的秩",
+                "content": "矩阵中最高阶非零子式的阶数",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "线性方程组与矩阵",
+            "content": "用矩阵表示和求解线性方程组",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "线性方程组的矩阵表示",
+                "content": "Ax = b",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "高斯消元法",
+                "content": "通过初等行变换求解线性方程组",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "向量与向量空间",
+        "content": "研究向量的线性关系和向量空间的结构",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "向量及其运算",
+            "content": "向量的基本概念和线性运算",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "n维向量",
+                "content": "n个有次序的数a1,a2,...,an所组成的数组",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "向量的线性运算",
+                "content": "向量的加法和数乘",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "向量组的线性相关性",
+            "content": "研究向量之间的线性关系",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "线性表示",
+                "content": "一个向量可由其他向量线性表示",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "线性相关与线性无关",
+                "content": "存在（不存在）不全为零的系数使线性组合为零",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "线性相关性的判定",
+                "content": "利用秩或行列式判定相关性",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "向量组的秩",
+            "content": "向量组的最大无关组所含向量的个数",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "最大线性无关组",
+                "content": "向量组中线性无关的部分组，且可表示组中所有向量",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "向量组的秩",
+                "content": "最大无关组所含向量的个数",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "向量空间",
+            "content": "满足封闭性的向量集合",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "向量空间定义",
+                "content": "对加法和数乘封闭的非空集合",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "子空间",
+                "content": "向量空间的子集且本身也是向量空间",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "基与维数",
+                "content": "向量空间的基和维数概念",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "线性方程组的解的结构",
+            "content": "齐次和非齐次线性方程组解的性质",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "齐次线性方程组",
+                "content": "Ax=0的解的性质",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "非齐次线性方程组",
+                "content": "Ax=b的解的结构",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "相似矩阵与二次型",
+        "content": "研究矩阵的相似对角化和二次型的标准化",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "向量的内积与正交性",
+            "content": "向量的内积运算和正交关系",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "内积定义",
+                "content": "向量的一种乘法运算，结果为标量",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "正交向量组",
+                "content": "两两正交的向量组",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "方阵的特征值与特征向量",
+            "content": "满足Ax=λx的非零向量x称为特征向量，λ为特征值",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "特征值与特征向量定义",
+                "content": "满足(A-λE)x=0的非零解",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "特征多项式",
+                "content": "f(λ)=|A-λE|",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "特征值与特征向量求法",
+                "content": "求解特征方程|A-λE|=0",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "相似矩阵",
+            "content": "存在可逆矩阵P使P⁻¹AP=B，则A与B相似",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "相似矩阵定义",
+                "content": "P⁻¹AP=B",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "相似矩阵的性质",
+                "content": "相似矩阵有相同的特征值等性质",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "对称矩阵的对角化",
+            "content": "实对称矩阵可正交相似于对角矩阵",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "实对称矩阵的性质",
+                "content": "特征值为实数，不同特征值对应特征向量正交",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "正交矩阵",
+                "content": "满足A^TA=E的矩阵",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "二次型及其标准形",
+            "content": "二次齐次多项式及其矩阵表示",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "二次型定义",
+                "content": "n个变量的二次齐次多项式",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "二次型的矩阵表示",
+                "content": "f(x)=x^TAx",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "化二次型为标准形",
+                "content": "通过正交变换或配方法化为标准形",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "正定二次型",
+            "content": "对任意非零向量x，f(x)>0的二次型",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "正定二次型定义",
+                "content": "对任意x≠0，有x^TAx>0",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "正定矩阵的判定",
+                "content": "特征值全正或顺序主子式全正",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "行列式",
+      "tail": "矩阵",
+      "relation": "应用于"
+    },
+    {
+      "head": "行列式",
+      "tail": "克拉默法则",
+      "relation": "推导出"
+    },
+    {
+      "head": "矩阵",
+      "tail": "逆矩阵",
+      "relation": "包含"
+    },
+    {
+      "head": "矩阵",
+      "tail": "线性方程组",
+      "relation": "用于表示"
+    },
+    {
+      "head": "向量",
+      "tail": "向量空间",
+      "relation": "构成"
+    },
+    {
+      "head": "线性相关性",
+      "tail": "向量组的秩",
+      "relation": "决定"
+    },
+    {
+      "head": "特征值与特征向量",
+      "tail": "相似矩阵",
+      "relation": "应用于"
+    },
+    {
+      "head": "相似矩阵",
+      "tail": "对称矩阵的对角化",
+      "relation": "是特例"
+    },
+    {
+      "head": "二次型",
+      "tail": "对称矩阵",
+      "relation": "对应"
+    },
+    {
+      "head": "正定二次型",
+      "tail": "正定矩阵",
+      "relation": "等价于"
+    },
+    {
+      "head": "行列式的性质",
+      "tail": "行列式计算",
+      "relation": "用于简化"
+    },
+    {
+      "head": "初等变换",
+      "tail": "矩阵的秩",
+      "relation": "用于计算"
+    },
+    {
+      "head": "最大线性无关组",
+      "tail": "向量组的秩",
+      "relation": "定义"
+    },
+    {
+      "head": "齐次线性方程组",
+      "tail": "非齐次线性方程组",
+      "relation": "基础解系用于表示"
+    },
+    {
+      "head": "正交矩阵",
+      "tail": "对称矩阵的对角化",
+      "relation": "用于实现"
+    },
+    {
+      "head": "特征多项式",
+      "tail": "特征值",
+      "relation": "用于求解"
+    },
+    {
+      "head": "n阶行列式",
+      "tail": "排列与逆序数",
+      "relation": "基于"
+    },
+    {
+      "head": "矩阵乘法",
+      "tail": "线性变换",
+      "relation": "表示"
+    },
+    {
+      "head": "向量空间",
+      "tail": "基与维数",
+      "relation": "由...描述"
+    },
+    {
+      "head": "高斯消元法",
+      "tail": "初等变换",
+      "relation": "基于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 19:03:32",
+    "version": "1.1"
+  }
+}

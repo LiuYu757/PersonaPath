@@ -1,0 +1,485 @@
+{
+  "knowledge_tree": {
+    "title": "结构力学专题教程",
+    "content": "结构力学是土木工程的核心课程，研究结构在荷载作用下的内力、变形和稳定性。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "结构力学基本概念",
+        "content": "介绍结构力学的研究对象、基本假设和基本术语。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "结构的定义与分类",
+            "content": "结构是由构件组成的、能承受荷载的体系。按几何特征可分为杆系结构、板壳结构和实体结构。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "基本假设",
+            "content": "包括连续性假设、均匀性假设、各向同性假设和小变形假设。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "荷载分类",
+            "content": "按作用时间分为恒载、活载；按作用性质分为静力荷载、动力荷载。",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "静定结构内力分析",
+        "content": "静定结构的内力仅由平衡条件即可确定。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "静定梁",
+            "content": "仅受弯构件，如简支梁、悬臂梁。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "剪力方程与弯矩方程",
+                "content": "建立剪力、弯矩随截面位置变化的函数。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "剪力弯矩图",
+                "content": "直观表示内力沿杆长的分布。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "叠加法作弯矩图",
+                "content": "利用已知简单荷载下的弯矩图叠加得到复杂荷载下的弯矩图。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "静定刚架",
+            "content": "由梁和柱刚性连接而成的结构。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "刚结点特性",
+                "content": "刚结点处各杆端弯矩保持平衡，夹角不变。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "分段叠加法",
+                "content": "将刚架拆分为单杆，分别作弯矩图后再组合。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "三铰拱",
+            "content": "在竖向荷载下产生水平推力的曲线结构。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "合理拱轴线",
+                "content": "在特定荷载下使拱截面仅受压力的轴线。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "静定桁架",
+            "content": "由二力杆通过铰接点组成的格构式结构。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "结点法",
+                "content": "取结点为隔离体，利用平面汇交力系平衡方程求解杆力。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "截面法",
+                "content": "用截面截断桁架，取一部分为隔离体，利用平面一般力系平衡方程求解杆力。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "零杆判定",
+                "content": "在特定结点形式下内力为零的杆件。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "静定结构位移计算",
+        "content": "计算结构在荷载、温度变化、支座移动等因素下产生的位移。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "虚功原理",
+            "content": "外力在可能位移上所做的虚功等于内力在可能变形上所做的虚功。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "单位荷载法",
+            "content": "在所求位移点沿位移方向虚设单位力，利用虚功原理计算位移。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "莫尔积分公式",
+                "content": "Δ = Σ∫(M_bar * M_p / EI) ds，用于弯曲变形为主的杆件结构。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "图乘法",
+                "content": "当杆件为直杆且EI为常数时，用弯矩图面积乘以其形心对应单位力弯矩图竖标来简化积分运算。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "力法",
+        "content": "求解超静定结构的基本方法之一，以多余未知力为基本未知量。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "基本体系与基本未知量",
+            "content": "解除多余约束，代之以多余未知力，得到静定的基本体系。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "力法典型方程",
+            "content": "根据基本体系在多余未知力方向和原结构约束处位移一致的条件建立方程。δ11X1 + Δ1P = 0。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "对称性利用",
+            "content": "利用结构和荷载的对称性简化计算，将未知力分为正对称和反对称组。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "位移法",
+        "content": "以结构的独立结点位移为基本未知量求解超静定结构的方法。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "等截面直杆的转角位移方程",
+            "content": "表达杆端弯矩与杆端位移、荷载之间的关系。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "位移法基本未知量",
+            "content": "独立的结点角位移和结点线位移。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "位移法典型方程",
+            "content": "根据附加约束上的反力合力为零的条件建立平衡方程。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "矩阵位移法",
+        "content": "以矩阵形式表达位移法，便于计算机编程求解。",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "单元刚度矩阵",
+            "content": "表示单元杆端力与杆端位移之间的关系。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "坐标变换",
+            "content": "将局部坐标系下的单元刚度矩阵转换到整体坐标系。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "结构总刚度矩阵",
+            "content": "由各单元刚度矩阵按“对号入座”法则集装而成。",
+            "difficulty": "5",
+            "children": []
+          },
+          {
+            "title": "边界条件处理",
+            "content": "引入支座约束条件，修改总刚度方程。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "影响线",
+        "content": "表示单位移动荷载作用下结构某量值变化规律的图形。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "静力法作影响线",
+            "content": "利用平衡条件建立量值与荷载位置的函数关系。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "机动法作影响线",
+            "content": "根据虚功原理，沿量值正向发生虚位移，荷载作用点的竖向位移图即为影响线形状。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "最不利荷载位置",
+            "content": "利用影响线确定使某量值达到最大值时移动荷载的位置。",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "结构稳定性分析",
+        "content": "研究结构平衡状态的稳定性，确定临界荷载。",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "稳定平衡与不稳定平衡",
+            "content": "平衡状态受到微小干扰后，能恢复原状为稳定，不能恢复为不稳定。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "欧拉临界荷载",
+            "content": "理想轴压杆的临界荷载公式 P_cr = π²EI / (μl)²。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "稳定方程",
+            "content": "根据平衡的二重性（原始平衡形式和弯曲平衡形式）建立的特征方程。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "结构动力学基础",
+        "content": "研究结构在动力荷载作用下的响应。",
+        "difficulty": "5",
+        "children": [
+          {
+            "title": "单自由度体系自由振动",
+            "content": "无外部激励，仅由初始位移或初始速度引起的振动。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "自振频率",
+                "content": "ω = √(k/m)，体系固有的振动频率。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "单自由度体系受迫振动",
+            "content": "在外部动力荷载作用下的振动。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "杜哈梅积分",
+                "content": "计算任意荷载作用下动力响应的积分公式。",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "结构力学",
+      "tail": "静定结构内力分析",
+      "relation": "包含"
+    },
+    {
+      "head": "静定结构内力分析",
+      "tail": "静定梁",
+      "relation": "包含"
+    },
+    {
+      "head": "静定梁",
+      "tail": "剪力弯矩图",
+      "relation": "核心内容"
+    },
+    {
+      "head": "剪力弯矩图",
+      "tail": "叠加法作弯矩图",
+      "relation": "绘制方法"
+    },
+    {
+      "head": "静定结构内力分析",
+      "tail": "静定桁架",
+      "relation": "包含"
+    },
+    {
+      "head": "静定桁架",
+      "tail": "结点法",
+      "relation": "分析方法"
+    },
+    {
+      "head": "静定桁架",
+      "tail": "截面法",
+      "relation": "分析方法"
+    },
+    {
+      "head": "结点法",
+      "tail": "零杆判定",
+      "relation": "应用技巧"
+    },
+    {
+      "head": "静定结构位移计算",
+      "tail": "单位荷载法",
+      "relation": "基于"
+    },
+    {
+      "head": "单位荷载法",
+      "tail": "虚功原理",
+      "relation": "理论基础"
+    },
+    {
+      "head": "单位荷载法",
+      "tail": "莫尔积分公式",
+      "relation": "具体实现"
+    },
+    {
+      "head": "莫尔积分公式",
+      "tail": "图乘法",
+      "relation": "简化计算"
+    },
+    {
+      "head": "力法",
+      "tail": "力法典型方程",
+      "relation": "核心方程"
+    },
+    {
+      "head": "力法典型方程",
+      "tail": "位移协调条件",
+      "relation": "建立依据"
+    },
+    {
+      "head": "力法",
+      "tail": "对称性利用",
+      "relation": "简化技巧"
+    },
+    {
+      "head": "位移法",
+      "tail": "转角位移方程",
+      "relation": "基础"
+    },
+    {
+      "head": "位移法",
+      "tail": "位移法典型方程",
+      "relation": "核心方程"
+    },
+    {
+      "head": "位移法典型方程",
+      "tail": "平衡条件",
+      "relation": "建立依据"
+    },
+    {
+      "head": "矩阵位移法",
+      "tail": "位移法",
+      "relation": "计算机实现形式"
+    },
+    {
+      "head": "矩阵位移法",
+      "tail": "单元刚度矩阵",
+      "relation": "基本构件"
+    },
+    {
+      "head": "单元刚度矩阵",
+      "tail": "坐标变换",
+      "relation": "必要步骤"
+    },
+    {
+      "head": "矩阵位移法",
+      "tail": "结构总刚度矩阵",
+      "relation": "核心步骤"
+    },
+    {
+      "head": "影响线",
+      "tail": "静力法作影响线",
+      "relation": "绘制方法"
+    },
+    {
+      "head": "影响线",
+      "tail": "机动法作影响线",
+      "relation": "绘制方法"
+    },
+    {
+      "head": "机动法作影响线",
+      "tail": "虚功原理",
+      "relation": "理论基础"
+    },
+    {
+      "head": "影响线",
+      "tail": "最不利荷载位置",
+      "relation": "主要应用"
+    },
+    {
+      "head": "结构稳定性分析",
+      "tail": "欧拉临界荷载",
+      "relation": "核心概念"
+    },
+    {
+      "head": "结构稳定性分析",
+      "tail": "稳定方程",
+      "relation": "求解方法"
+    },
+    {
+      "head": "结构动力学基础",
+      "tail": "单自由度体系自由振动",
+      "relation": "包含"
+    },
+    {
+      "head": "单自由度体系自由振动",
+      "tail": "自振频率",
+      "relation": "核心参数"
+    },
+    {
+      "head": "结构动力学基础",
+      "tail": "单自由度体系受迫振动",
+      "relation": "包含"
+    },
+    {
+      "head": "单自由度体系受迫振动",
+      "tail": "杜哈梅积分",
+      "relation": "分析方法"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 16:59:31",
+    "version": "1.1"
+  }
+}

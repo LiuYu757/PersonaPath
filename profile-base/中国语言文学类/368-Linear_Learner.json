@@ -1,0 +1,1174 @@
+{
+  "student_id": "368",
+  "target_major": "中国语言文学类",
+  "archetype": "Linear_Learner",
+  "current_grade_level": 9.7,
+  "textbook_layer": {
+    "mastered": [
+      "语文-小学-一年级上册",
+      "语文-小学-一年级下册",
+      "语文-小学-二年级上册",
+      "语文-小学-二年级下册",
+      "语文-小学-三年级上册",
+      "语文-小学-三年级下册",
+      "语文-小学-四年级上册",
+      "语文-小学-四年级下册",
+      "语文-小学-五年级上册",
+      "语文-小学-五年级下册",
+      "语文-小学-六年级上册",
+      "语文-小学-六年级下册",
+      "语文-七年级-上册",
+      "语文-七年级-下册",
+      "语文-初中-八年级上册",
+      "语文-初中-八年级下册",
+      "语文-初中-九年级上册",
+      "历史-七年级-上册",
+      "历史-七年级-中国历史下册",
+      "历史-八年级-上册",
+      "历史-初中-八年级下册",
+      "历史-初中-世界历史上册"
+    ],
+    "learning": [
+      "语文-初中-九年级下册",
+      "语文-高中-必修上册",
+      "历史-初中-九年级下册",
+      "历史-高中-中外历史纲要上",
+      "历史-高中-国家制度与社会治理",
+      "历史-高中-经济与社会生活",
+      "历史-高中-文化交流与传播"
+    ],
+    "not_mastered": [
+      "语文-高中-必修下册",
+      "语文-高中-选择性必修上册",
+      "语文-高中-选择性必修中册",
+      "语文-高中-选择性必修下册",
+      "历史-高中-中外历史纲要下",
+      "比较文学概论",
+      "古代汉语",
+      "古代汉语下",
+      "中国古代文学史",
+      "中国古代文学史中",
+      "中国古代文学史下",
+      "中国现代文学史1915～2018"
+    ]
+  },
+  "knowledge_layer": [
+    {
+      "book_name": "语文-小学-一年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-一年级上册",
+        "children": [
+          {
+            "title": "入学教育",
+            "mastery": 0.7633
+          },
+          {
+            "title": "识字单元",
+            "mastery": 0.6767
+          },
+          {
+            "title": "汉语拼音",
+            "mastery": 0.9514
+          },
+          {
+            "title": "课文阅读",
+            "mastery": 0.9545
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-一年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-一年级下册",
+        "children": [
+          {
+            "title": "识字单元",
+            "mastery": 0.8861
+          },
+          {
+            "title": "阅读单元",
+            "mastery": 0.8085
+          },
+          {
+            "title": "语文综合应用",
+            "mastery": 0.513
+          },
+          {
+            "title": "语文基础技能",
+            "mastery": 0.7608
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-二年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-二年级上册",
+        "children": [
+          {
+            "title": "阅读模块",
+            "mastery": 0.8066
+          },
+          {
+            "title": "识字模块",
+            "mastery": 0.5904
+          },
+          {
+            "title": "口语交际模块",
+            "mastery": 0.4178
+          },
+          {
+            "title": "写话模块",
+            "mastery": 0.8796
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-二年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-二年级下册",
+        "children": [
+          {
+            "title": "课文",
+            "mastery": 0.9292
+          },
+          {
+            "title": "识字",
+            "mastery": 0.6497
+          },
+          {
+            "title": "语文园地",
+            "mastery": 0.8318
+          },
+          {
+            "title": "口语交际",
+            "mastery": 0.5845
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-三年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-三年级上册",
+        "children": [
+          {
+            "title": "校园生活主题单元",
+            "mastery": 0.7991
+          },
+          {
+            "title": "金秋时节主题单元",
+            "mastery": 0.9477
+          },
+          {
+            "title": "写作能力训练",
+            "mastery": 0.3797
+          },
+          {
+            "title": "语言积累与运用",
+            "mastery": 0.6926
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-三年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-三年级下册",
+        "children": [
+          {
+            "title": "可爱的生灵",
+            "mastery": 0.7743
+          },
+          {
+            "title": "寓言故事",
+            "mastery": 0.7012
+          },
+          {
+            "title": "观察与想象",
+            "mastery": 0.7772
+          },
+          {
+            "title": "传统文化",
+            "mastery": 0.569
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-四年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-四年级上册",
+        "children": [
+          {
+            "title": "自然之美",
+            "mastery": 0.9081
+          },
+          {
+            "title": "提问策略",
+            "mastery": 0.8889
+          },
+          {
+            "title": "连续观察",
+            "mastery": 0.8303
+          },
+          {
+            "title": "神话故事",
+            "mastery": 0.7489
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-四年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-四年级下册",
+        "children": [
+          {
+            "title": "乡村生活主题",
+            "mastery": 0.6179
+          },
+          {
+            "title": "科技探索主题",
+            "mastery": 0.7708
+          },
+          {
+            "title": "现代诗歌主题",
+            "mastery": 0.8794
+          },
+          {
+            "title": "动物描写主题",
+            "mastery": 0.8376
+          },
+          {
+            "title": "童话故事主题",
+            "mastery": 0.8621
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-五年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-五年级上册",
+        "children": [
+          {
+            "title": "写景抒情单元",
+            "mastery": 0.7284
+          },
+          {
+            "title": "阅读方法单元",
+            "mastery": 0.9157
+          },
+          {
+            "title": "民间故事单元",
+            "mastery": 0.585
+          },
+          {
+            "title": "爱国主题单元",
+            "mastery": 0.8157
+          },
+          {
+            "title": "说明文写作单元",
+            "mastery": 0.8321
+          },
+          {
+            "title": "亲情描写单元",
+            "mastery": 0.7692
+          },
+          {
+            "title": "景物描写单元",
+            "mastery": 0.502
+          },
+          {
+            "title": "读书方法单元",
+            "mastery": 0.9133
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-五年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-五年级下册",
+        "children": [
+          {
+            "title": "童年往事单元",
+            "mastery": 0.7987
+          },
+          {
+            "title": "古典名著阅读",
+            "mastery": 0.5485
+          },
+          {
+            "title": "汉字文化学习",
+            "mastery": 0.978
+          },
+          {
+            "title": "人物描写技巧",
+            "mastery": 0.7307
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-六年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-六年级上册",
+        "children": [
+          {
+            "title": "自然与想象单元",
+            "mastery": 0.7098
+          },
+          {
+            "title": "革命岁月单元",
+            "mastery": 0.7279
+          },
+          {
+            "title": "阅读策略单元",
+            "mastery": 0.9454
+          },
+          {
+            "title": "小说单元",
+            "mastery": 0.6477
+          },
+          {
+            "title": "习作单元",
+            "mastery": 0.8753
+          },
+          {
+            "title": "保护环境单元",
+            "mastery": 0.7541
+          },
+          {
+            "title": "艺术之美单元",
+            "mastery": 0.6802
+          },
+          {
+            "title": "走近鲁迅单元",
+            "mastery": 0.8865
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-小学-六年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-小学-六年级下册",
+        "children": [
+          {
+            "title": "民风民俗",
+            "mastery": 0.7694
+          },
+          {
+            "title": "外国文学名著",
+            "mastery": 0.895
+          },
+          {
+            "title": "情感表达方法",
+            "mastery": 0.9824
+          },
+          {
+            "title": "革命精神传承",
+            "mastery": 0.8522
+          },
+          {
+            "title": "科学探索精神",
+            "mastery": 0.7594
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-七年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-七年级-上册",
+        "children": [
+          {
+            "title": "写景抒情单元",
+            "mastery": 0.8742
+          },
+          {
+            "title": "亲情主题单元",
+            "mastery": 0.8192
+          },
+          {
+            "title": "学习成长单元",
+            "mastery": 0.6036
+          },
+          {
+            "title": "修身养德单元",
+            "mastery": 0.7204
+          },
+          {
+            "title": "人动物关系单元",
+            "mastery": 0.8989
+          },
+          {
+            "title": "想象联想单元",
+            "mastery": 0.8784
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-七年级-下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-七年级-下册",
+        "children": [
+          {
+            "title": "杰出人物单元",
+            "mastery": 0.8345
+          },
+          {
+            "title": "家国情怀单元",
+            "mastery": 0.8697
+          },
+          {
+            "title": "阅读理解方法",
+            "mastery": 0.7927
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-八年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-八年级上册",
+        "children": [
+          {
+            "title": "新闻阅读与写作",
+            "mastery": 0.7356
+          },
+          {
+            "title": "回忆性散文与传记",
+            "mastery": 0.8056
+          },
+          {
+            "title": "古诗文鉴赏",
+            "mastery": 0.9794
+          },
+          {
+            "title": "散文阅读",
+            "mastery": 0.6185
+          },
+          {
+            "title": "说明文阅读",
+            "mastery": 0.8973
+          },
+          {
+            "title": "古诗文深度阅读",
+            "mastery": 0.8399
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-八年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-八年级下册",
+        "children": [
+          {
+            "title": "民俗文化单元",
+            "mastery": 0.7859
+          },
+          {
+            "title": "科学事理单元",
+            "mastery": 0.556
+          },
+          {
+            "title": "古诗文品析单元",
+            "mastery": 0.902
+          },
+          {
+            "title": "活动探究单元",
+            "mastery": 0.7551
+          },
+          {
+            "title": "游记散文单元",
+            "mastery": 0.7614
+          },
+          {
+            "title": "古诗文鉴赏单元",
+            "mastery": 0.8632
+          },
+          {
+            "title": "语文能力训练模块",
+            "mastery": 0.681
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-九年级上册",
+      "status": "mastered",
+      "detail": {
+        "title": "语文-初中-九年级上册",
+        "children": [
+          {
+            "title": "诗歌单元",
+            "mastery": 0.8718
+          },
+          {
+            "title": "议论性文章",
+            "mastery": 0.8125
+          },
+          {
+            "title": "文言诗文",
+            "mastery": 0.8953
+          },
+          {
+            "title": "小说阅读",
+            "mastery": 0.746
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-七年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "历史-七年级-上册",
+        "children": [
+          {
+            "title": "史前时期：原始社会与中华文明的起源",
+            "mastery": 0.938
+          },
+          {
+            "title": "夏商周时期：奴隶制王朝的更替和向封建社会的过渡",
+            "mastery": 0.9031
+          },
+          {
+            "title": "秦汉时期：统一多民族封建国家的建立和巩固",
+            "mastery": 0.7639
+          },
+          {
+            "title": "三国两晋南北朝时期：政权分立与民族交融",
+            "mastery": 0.6776
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-七年级-中国历史下册",
+      "status": "mastered",
+      "detail": {
+        "title": "历史-七年级-中国历史下册",
+        "children": [
+          {
+            "title": "隋唐时期：繁荣与开放的时代",
+            "mastery": 0.9142
+          },
+          {
+            "title": "辽宋夏金元时期：民族关系发展和社会变化",
+            "mastery": 0.5869
+          },
+          {
+            "title": "明清时期：统一多民族封建国家的巩固与发展",
+            "mastery": 0.922
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-八年级-上册",
+      "status": "mastered",
+      "detail": {
+        "title": "历史-八年级-上册",
+        "children": [
+          {
+            "title": "中国开始沦为半殖民地半封建社会",
+            "mastery": 0.7948
+          },
+          {
+            "title": "近代化探索与民族危机",
+            "mastery": 0.9101
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-初中-八年级下册",
+      "status": "mastered",
+      "detail": {
+        "title": "历史-初中-八年级下册",
+        "children": [
+          {
+            "title": "中华人民共和国的成立和巩固",
+            "mastery": 0.6011
+          },
+          {
+            "title": "社会主义制度的建立与探索",
+            "mastery": 0.7022
+          },
+          {
+            "title": "中国特色社会主义道路",
+            "mastery": 0.5877
+          },
+          {
+            "title": "民族团结与祖国统一",
+            "mastery": 0.7534
+          },
+          {
+            "title": "国防建设与外交成就",
+            "mastery": 0.6731
+          },
+          {
+            "title": "科技文化与社会生活",
+            "mastery": 0.8608
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-初中-世界历史上册",
+      "status": "mastered",
+      "detail": {
+        "title": "历史-初中-世界历史上册",
+        "children": [
+          {
+            "title": "古代亚非文明",
+            "mastery": 0.8529
+          },
+          {
+            "title": "古代欧洲文明",
+            "mastery": 0.7029
+          },
+          {
+            "title": "封建时代的欧洲",
+            "mastery": 0.8392
+          },
+          {
+            "title": "封建时代的亚洲国家",
+            "mastery": 0.9159
+          },
+          {
+            "title": "走向近代",
+            "mastery": 0.8535
+          },
+          {
+            "title": "资本主义制度的初步确立",
+            "mastery": 0.8286
+          },
+          {
+            "title": "工业革命和国际共产主义运动",
+            "mastery": 0.7331
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-初中-九年级下册",
+      "status": "learning",
+      "detail": {
+        "title": "语文-初中-九年级下册",
+        "children": [
+          {
+            "title": "诗歌鉴赏",
+            "mastery": 0.4006
+          },
+          {
+            "title": "小说阅读",
+            "mastery": 0.242
+          },
+          {
+            "title": "文言文阅读",
+            "mastery": 0.1119
+          },
+          {
+            "title": "文艺鉴赏",
+            "mastery": 0.1084
+          },
+          {
+            "title": "戏剧活动",
+            "mastery": 0.1952
+          },
+          {
+            "title": "写作与口语交际",
+            "mastery": 0.91
+          },
+          {
+            "title": "名著导读",
+            "mastery": 0.2269
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-必修上册",
+      "status": "learning",
+      "detail": {
+        "title": "语文-高中-必修上册",
+        "children": [
+          {
+            "title": "青春主题文学",
+            "mastery": 0.1783
+          },
+          {
+            "title": "劳动价值文学",
+            "mastery": 0.5813
+          },
+          {
+            "title": "古诗词鉴赏",
+            "mastery": 0.319
+          },
+          {
+            "title": "写景抒情散文",
+            "mastery": 0.6966
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-初中-九年级下册",
+      "status": "learning",
+      "detail": {
+        "title": "历史-初中-九年级下册",
+        "children": [
+          {
+            "title": "殖民地人民的反抗运动",
+            "mastery": 0.3186
+          },
+          {
+            "title": "资本主义制度的扩展",
+            "mastery": 0.8459
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-高中-中外历史纲要上",
+      "status": "learning",
+      "detail": {
+        "title": "历史-高中-中外历史纲要上",
+        "children": [
+          {
+            "title": "从中华文明起源到秦汉统一多民族封建国家的建立与巩固",
+            "mastery": 0.2025
+          },
+          {
+            "title": "辛亥革命与中华民国的建立",
+            "mastery": 0.2817
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-高中-国家制度与社会治理",
+      "status": "learning",
+      "detail": {
+        "title": "历史-高中-国家制度与社会治理",
+        "children": [
+          {
+            "title": "政治制度",
+            "mastery": 0.2837
+          },
+          {
+            "title": "官员选拔与管理",
+            "mastery": 0.5347
+          },
+          {
+            "title": "法律与教化",
+            "mastery": 0.4489
+          },
+          {
+            "title": "民族关系与国家关系",
+            "mastery": 0.6946
+          },
+          {
+            "title": "货币与赋税制度",
+            "mastery": 0.4288
+          },
+          {
+            "title": "基层治理与社会保障",
+            "mastery": 0.4355
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-高中-经济与社会生活",
+      "status": "learning",
+      "detail": {
+        "title": "历史-高中-经济与社会生活",
+        "children": [
+          {
+            "title": "食物生产与社会生活",
+            "mastery": 0.3178
+          },
+          {
+            "title": "生产工具与劳作方式",
+            "mastery": 0.487
+          },
+          {
+            "title": "商业贸易与日常生活",
+            "mastery": 0.4598
+          },
+          {
+            "title": "村落、城镇与居住环境",
+            "mastery": 0.2778
+          },
+          {
+            "title": "交通发展与社会变迁",
+            "mastery": 0.4045
+          },
+          {
+            "title": "医疗与公共卫生",
+            "mastery": 0.8084
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-高中-文化交流与传播",
+      "status": "learning",
+      "detail": {
+        "title": "历史-高中-文化交流与传播",
+        "children": [
+          {
+            "title": "源远流长的中华文化",
+            "mastery": 0.4524
+          },
+          {
+            "title": "丰富多样的世界文化",
+            "mastery": 0.5478
+          },
+          {
+            "title": "人口迁徙与文化交融",
+            "mastery": 0.4026
+          },
+          {
+            "title": "商路贸易与文化交流",
+            "mastery": 0.5266
+          },
+          {
+            "title": "战争与文化演变",
+            "mastery": 0.5786
+          },
+          {
+            "title": "文化的传承与保护",
+            "mastery": 0.2989
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-必修下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "语文-高中-必修下册",
+        "children": [
+          {
+            "title": "古代散文与史传",
+            "mastery": 0.1229
+          },
+          {
+            "title": "戏剧文学",
+            "mastery": 0.4688
+          },
+          {
+            "title": "知识性读物",
+            "mastery": 0.1512
+          },
+          {
+            "title": "现代文体鉴赏",
+            "mastery": 0.2862
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-选择性必修上册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "语文-高中-选择性必修上册",
+        "children": [
+          {
+            "title": "革命文化与社会主义先进文化",
+            "mastery": 0.2567
+          },
+          {
+            "title": "先秦诸子散文",
+            "mastery": 0.2238
+          },
+          {
+            "title": "外国小说鉴赏",
+            "mastery": 0.181
+          },
+          {
+            "title": "逻辑知识与应用",
+            "mastery": 0.2239
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-选择性必修中册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "语文-高中-选择性必修中册",
+        "children": [
+          {
+            "title": "理论著作单元",
+            "mastery": 0.0716
+          },
+          {
+            "title": "革命文化单元",
+            "mastery": 0.1009
+          },
+          {
+            "title": "历史著述单元",
+            "mastery": 0.1928
+          },
+          {
+            "title": "外国文学单元",
+            "mastery": 0.4324
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "语文-高中-选择性必修下册",
+      "status": "not_mastered",
+      "detail": {
+        "title": "语文-高中-选择性必修下册",
+        "children": [
+          {
+            "title": "古典诗词",
+            "mastery": 0.0486
+          },
+          {
+            "title": "现当代文学",
+            "mastery": 0.0803
+          },
+          {
+            "title": "古代散文",
+            "mastery": 0.2546
+          },
+          {
+            "title": "科学论著",
+            "mastery": 0.0449
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "历史-高中-中外历史纲要下",
+      "status": "not_mastered",
+      "detail": {
+        "title": "历史-高中-中外历史纲要下",
+        "children": [
+          {
+            "title": "古代文明的产生与发展",
+            "mastery": 0.1643
+          },
+          {
+            "title": "中古时期的世界格局",
+            "mastery": 0.3819
+          },
+          {
+            "title": "资本主义制度的确立过程",
+            "mastery": 0.3906
+          },
+          {
+            "title": "工业革命与社会主义运动",
+            "mastery": 0.1471
+          },
+          {
+            "title": "20世纪世界格局演变",
+            "mastery": 0.0321
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "比较文学概论",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-文学-中国语言文学类-比较文学概论",
+        "children": [
+          {
+            "title": "比较文学的定义与性质",
+            "mastery": 0.0285
+          },
+          {
+            "title": "比较文学的研究方法",
+            "mastery": 0.1751
+          },
+          {
+            "title": "比较文学核心概念",
+            "mastery": 0.5486
+          },
+          {
+            "title": "比较文学实践应用",
+            "mastery": 0.053
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "古代汉语",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-文学-中国语言文学类-古代汉语",
+        "children": [
+          {
+            "title": "文字学",
+            "mastery": 0.0482
+          },
+          {
+            "title": "音韵学",
+            "mastery": 0.1195
+          },
+          {
+            "title": "词汇学",
+            "mastery": 0.3388
+          },
+          {
+            "title": "语法学",
+            "mastery": 0.0329
+          },
+          {
+            "title": "训诂学",
+            "mastery": 0.1427
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "古代汉语下",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-文学-中国语言文学类-古代汉语",
+        "children": [
+          {
+            "title": "文字学",
+            "mastery": 0.0869
+          },
+          {
+            "title": "音韵学",
+            "mastery": 0.1821
+          },
+          {
+            "title": "训诂学",
+            "mastery": 0.1443
+          },
+          {
+            "title": "语法体系",
+            "mastery": 0.1209
+          },
+          {
+            "title": "修辞手法",
+            "mastery": 0.1799
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "中国古代文学史",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-文学-中国语言文学类-中国古代文学史",
+        "children": [
+          {
+            "title": "先秦文学",
+            "mastery": 0.0459
+          },
+          {
+            "title": "秦汉至南北朝文学",
+            "mastery": 0.228
+          },
+          {
+            "title": "唐代文学",
+            "mastery": 0.1046
+          },
+          {
+            "title": "宋元明清文学",
+            "mastery": 0.1234
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "中国古代文学史中",
+      "status": "not_mastered",
+      "detail": {
+        "title": "中国古代文学史",
+        "children": [
+          {
+            "title": "明代文学",
+            "mastery": 0.334
+          },
+          {
+            "title": "清前中期文学",
+            "mastery": 0.1885
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "中国古代文学史下",
+      "status": "not_mastered",
+      "detail": {
+        "title": "中国古代文学史（下）",
+        "children": [
+          {
+            "title": "宋代文学",
+            "mastery": 0.0724
+          },
+          {
+            "title": "元代文学",
+            "mastery": 0.0778
+          },
+          {
+            "title": "明清文学",
+            "mastery": 0.2702
+          }
+        ]
+      }
+    },
+    {
+      "book_name": "中国现代文学史1915～2018",
+      "status": "not_mastered",
+      "detail": {
+        "title": "大学-文学-中国语言文学类-中国现代文学史1915～2018",
+        "children": [
+          {
+            "title": "五四文学革命（1915-1927）",
+            "mastery": 0.2096
+          },
+          {
+            "title": "左翼文学运动（1928-1937）",
+            "mastery": 0.386
+          },
+          {
+            "title": "解放区与国统区文学（1937-1949）",
+            "mastery": 0.1243
+          },
+          {
+            "title": "当代文学思潮（1949-2018）",
+            "mastery": 0.1893
+          }
+        ]
+      }
+    }
+  ]
+}

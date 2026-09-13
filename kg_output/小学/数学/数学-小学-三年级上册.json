@@ -1,0 +1,548 @@
+{
+  "knowledge_tree": {
+    "title": "三年级上册数学",
+    "content": "人教版三年级上册数学，主要包含时、分、秒，万以内的加法和减法，测量，倍的认识，多位数乘一位数，长方形和正方形，分数的初步认识，数学广角——集合等内容",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "时、分、秒",
+        "content": "认识时间单位时、分、秒，了解它们之间的关系，会进行简单的时间计算",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "秒的认识",
+            "content": "认识时间单位秒，知道1分=60秒，会进行有关秒的简单计算",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "时间单位的换算",
+            "content": "时、分、秒之间的换算：1时=60分，1分=60秒",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "时间的计算",
+            "content": "计算经过的时间，解决与时间相关的实际问题",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "万以内的加法和减法",
+        "content": "学习万以内数的加法和减法，包括口算、笔算和估算",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "加法",
+            "content": "万以内数的加法运算，包括不进位加法和进位加法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "两位数加两位数",
+                "content": "计算两位数加两位数的和，包括进位和不进位的情况",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "几百几十加几百几十",
+                "content": "计算几百几十加几百几十的和，理解进位原理",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "减法",
+            "content": "万以内数的减法运算，包括不退位减法和退位减法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "两位数减两位数",
+                "content": "计算两位数减两位数的差，包括退位和不退位的情况",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "几百几十减几百几十",
+                "content": "计算几百几十减几百几十的差，理解退位原理",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "加减法的验算",
+            "content": "通过加法验算减法，通过减法验算加法，培养验算的习惯",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "估算",
+            "content": "结合实际情境进行估算，判断计算结果的合理性",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "测量",
+        "content": "认识长度单位毫米、分米、千米和重量单位吨，会进行简单的单位换算",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "毫米、分米的认识",
+            "content": "认识长度单位毫米和分米，知道1厘米=10毫米，1分米=10厘米，1米=10分米",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "千米的认识",
+            "content": "认识长度单位千米，知道1千米=1000米",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "吨的认识",
+            "content": "认识质量单位吨，知道1吨=1000千克",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "单位换算",
+            "content": "进行长度单位和质量单位的换算",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "倍的认识",
+        "content": "建立倍的概念，理解倍的意义，会解决简单的倍比问题",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "倍的意义",
+            "content": "通过具体情境理解倍的含义，知道一个数里面有几个另一个数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "求一个数是另一个数的几倍",
+            "content": "用除法求一个数是另一个数的几倍",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "求一个数的几倍是多少",
+            "content": "用乘法求一个数的几倍是多少",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "多位数乘一位数",
+        "content": "学习多位数乘一位数的口算、笔算和估算，包括进位和不进位的情况",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "口算乘法",
+            "content": "整十、整百、整千数乘一位数及两位数乘一位数（不进位）的口算",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "笔算乘法",
+            "content": "多位数乘一位数的笔算方法，包括不进位乘法和进位乘法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "有关0的乘法",
+            "content": "0和任何数相乘都得0",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "估算",
+            "content": "用估算解决实际问题",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "解决问题",
+            "content": "运用乘法解决生活中的实际问题",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "长方形和正方形",
+        "content": "认识长方形和正方形的特征，会计算长方形和正方形的周长",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "四边形",
+            "content": "认识四边形，了解四边形的特征",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "长方形和正方形的特征",
+            "content": "认识长方形和正方形，知道它们的边和角的特征",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "周长",
+            "content": "理解周长的含义，能测量具体图形的周长",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "长方形和正方形的周长计算",
+            "content": "计算长方形和正方形的周长，长方形周长=(长+宽)×2，正方形周长=边长×4",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "解决问题",
+            "content": "运用周长知识解决生活中的实际问题",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "分数的初步认识",
+        "content": "初步认识分数，会读、写分数，会比较分数的大小，会计算简单的分数加减法",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "几分之一",
+            "content": "认识几分之一，会读、写几分之一",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "几分之几",
+            "content": "认识几分之几，会读、写几分之几",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "分数的大小比较",
+            "content": "比较同分母分数的大小，比较分子是1的分数的大小",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "简单的分数加减法",
+            "content": "计算同分母分数的加减法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "分数的简单应用",
+            "content": "用分数表示日常生活中的事物，解决简单的分数问题",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数学广角——集合",
+        "content": "通过直观图理解集合的意义，会用集合思想解决简单的实际问题",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "集合的意义",
+            "content": "初步理解集合的意义，知道集合图的表示方法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "重叠问题",
+            "content": "用集合图解决简单的重叠问题",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "时、分、秒",
+      "tail": "秒的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "时、分、秒",
+      "tail": "时间单位的换算",
+      "relation": "包含"
+    },
+    {
+      "head": "时、分、秒",
+      "tail": "时间的计算",
+      "relation": "包含"
+    },
+    {
+      "head": "时间单位的换算",
+      "tail": "1时=60分",
+      "relation": "基于"
+    },
+    {
+      "head": "时间单位的换算",
+      "tail": "1分=60秒",
+      "relation": "基于"
+    },
+    {
+      "head": "万以内的加法和减法",
+      "tail": "加法",
+      "relation": "包含"
+    },
+    {
+      "head": "万以内的加法和减法",
+      "tail": "减法",
+      "relation": "包含"
+    },
+    {
+      "head": "万以内的加法和减法",
+      "tail": "加减法的验算",
+      "relation": "包含"
+    },
+    {
+      "head": "万以内的加法和减法",
+      "tail": "估算",
+      "relation": "包含"
+    },
+    {
+      "head": "加法",
+      "tail": "两位数加两位数",
+      "relation": "包含"
+    },
+    {
+      "head": "加法",
+      "tail": "几百几十加几百几十",
+      "relation": "包含"
+    },
+    {
+      "head": "减法",
+      "tail": "两位数减两位数",
+      "relation": "包含"
+    },
+    {
+      "head": "减法",
+      "tail": "几百几十减几百几十",
+      "relation": "包含"
+    },
+    {
+      "head": "测量",
+      "tail": "毫米、分米的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "测量",
+      "tail": "千米的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "测量",
+      "tail": "吨的认识",
+      "relation": "包含"
+    },
+    {
+      "head": "测量",
+      "tail": "单位换算",
+      "relation": "包含"
+    },
+    {
+      "head": "毫米、分米的认识",
+      "tail": "1厘米=10毫米",
+      "relation": "基于"
+    },
+    {
+      "head": "毫米、分米的认识",
+      "tail": "1分米=10厘米",
+      "relation": "基于"
+    },
+    {
+      "head": "毫米、分米的认识",
+      "tail": "1米=10分米",
+      "relation": "基于"
+    },
+    {
+      "head": "千米的认识",
+      "tail": "1千米=1000米",
+      "relation": "基于"
+    },
+    {
+      "head": "吨的认识",
+      "tail": "1吨=1000千克",
+      "relation": "基于"
+    },
+    {
+      "head": "倍的认识",
+      "tail": "倍的意义",
+      "relation": "包含"
+    },
+    {
+      "head": "倍的认识",
+      "tail": "求一个数是另一个数的几倍",
+      "relation": "包含"
+    },
+    {
+      "head": "倍的认识",
+      "tail": "求一个数的几倍是多少",
+      "relation": "包含"
+    },
+    {
+      "head": "求一个数是另一个数的几倍",
+      "tail": "除法",
+      "relation": "基于"
+    },
+    {
+      "head": "求一个数的几倍是多少",
+      "tail": "乘法",
+      "relation": "基于"
+    },
+    {
+      "head": "多位数乘一位数",
+      "tail": "口算乘法",
+      "relation": "包含"
+    },
+    {
+      "head": "多位数乘一位数",
+      "tail": "笔算乘法",
+      "relation": "包含"
+    },
+    {
+      "head": "多位数乘一位数",
+      "tail": "有关0的乘法",
+      "relation": "包含"
+    },
+    {
+      "head": "多位数乘一位数",
+      "tail": "估算",
+      "relation": "包含"
+    },
+    {
+      "head": "多位数乘一位数",
+      "tail": "解决问题",
+      "relation": "包含"
+    },
+    {
+      "head": "有关0的乘法",
+      "tail": "0和任何数相乘都得0",
+      "relation": "基于"
+    },
+    {
+      "head": "长方形和正方形",
+      "tail": "四边形",
+      "relation": "包含"
+    },
+    {
+      "head": "长方形和正方形",
+      "tail": "长方形和正方形的特征",
+      "relation": "包含"
+    },
+    {
+      "head": "长方形和正方形",
+      "tail": "周长",
+      "relation": "包含"
+    },
+    {
+      "head": "长方形和正方形",
+      "tail": "长方形和正方形的周长计算",
+      "relation": "包含"
+    },
+    {
+      "head": "长方形和正方形",
+      "tail": "解决问题",
+      "relation": "包含"
+    },
+    {
+      "head": "长方形和正方形的周长计算",
+      "tail": "长方形周长公式",
+      "relation": "基于"
+    },
+    {
+      "head": "长方形和正方形的周长计算",
+      "tail": "正方形周长公式",
+      "relation": "基于"
+    },
+    {
+      "head": "分数的初步认识",
+      "tail": "几分之一",
+      "relation": "包含"
+    },
+    {
+      "head": "分数的初步认识",
+      "tail": "几分之几",
+      "relation": "包含"
+    },
+    {
+      "head": "分数的初步认识",
+      "tail": "分数的大小比较",
+      "relation": "包含"
+    },
+    {
+      "head": "分数的初步认识",
+      "tail": "简单的分数加减法",
+      "relation": "包含"
+    },
+    {
+      "head": "分数的初步认识",
+      "tail": "分数的简单应用",
+      "relation": "包含"
+    },
+    {
+      "head": "数学广角——集合",
+      "tail": "集合的意义",
+      "relation": "包含"
+    },
+    {
+      "head": "数学广角——集合",
+      "tail": "重叠问题",
+      "relation": "包含"
+    },
+    {
+      "head": "时间的计算",
+      "tail": "时、分、秒的换算",
+      "relation": "基于"
+    },
+    {
+      "head": "加减法的验算",
+      "tail": "加法和减法的互逆关系",
+      "relation": "基于"
+    },
+    {
+      "head": "口算乘法",
+      "tail": "乘法口诀",
+      "relation": "基于"
+    },
+    {
+      "head": "笔算乘法",
+      "tail": "乘法竖式计算规则",
+      "relation": "基于"
+    },
+    {
+      "head": "分数的大小比较",
+      "tail": "同分母分数比较",
+      "relation": "基于"
+    },
+    {
+      "head": "简单的分数加减法",
+      "tail": "同分母分数加减法规则",
+      "relation": "基于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:19:36",
+    "version": "1.1"
+  }
+}

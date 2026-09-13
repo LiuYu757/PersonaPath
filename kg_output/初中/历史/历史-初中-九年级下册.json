@@ -1,0 +1,178 @@
+{
+  "knowledge_tree": {
+    "title": "九年级下册世界历史",
+    "content": "涵盖殖民地人民反抗、资本主义制度扩展、两次工业革命、近代科学文化、两次世界大战及战后世界格局等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "殖民地人民的反抗与资本主义制度的扩展",
+        "content": "19世纪殖民地独立运动与资本主义制度扩展",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "拉丁美洲独立运动",
+            "content": "18世纪末19世纪初拉美地区反抗西班牙葡萄牙殖民统治",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "玻利瓦尔的斗争",
+                "content": "领导解放哥伦比亚、委内瑞拉和厄瓜多尔，建立大哥伦比亚共和国",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "圣马丁的远征",
+                "content": "领导阿根廷、智利和秘鲁独立运动，与玻利瓦尔并称南美解放者",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "印度民族大起义",
+            "content": "1857年印度土兵和民众反抗英国殖民统治",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "章西女王领导",
+                "content": "领导军民与英军激战，最后壮烈牺牲",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "东印度公司角色",
+                "content": "英国东印度公司对印度的殖民统治与经济掠夺",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "俄国的改革",
+        "content": "彼得一世与亚历山大二世改革推动俄国近代化",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "彼得一世改革",
+            "content": "学习西方技术，加强中央集权，建立新式军队",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "西方化政策",
+                "content": "派遣留学生、创办科学院、提倡西方生活方式",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "领土扩张",
+                "content": "通过战争夺取波罗的海出海口，营建圣彼得堡",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "1861年农奴制改革",
+            "content": "亚历山大二世颁布法令废除农奴制",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "改革内容",
+                "content": "农奴获得人身自由，可通过赎买获得土地",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "历史影响",
+                "content": "推动俄国资本主义发展，但保留大量农奴制残余",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "美国内战",
+        "content": "1861-1865年北方联邦与南方邦联的战争",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "南北矛盾根源",
+            "content": "奴隶制存废问题与经济发展模式差异",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "经济制度差异",
+                "content": "北方资本主义工业与南方种植园经济矛盾",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "林肯的作用",
+            "content": "颁布《解放宣言》和《宅地法》，维护国家统一",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "《解放宣言》",
+                "content": "1863年宣布解放叛乱州奴隶",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "拉丁美洲独立运动",
+      "tail": "玻利瓦尔",
+      "relation": "由...领导"
+    },
+    {
+      "head": "拉丁美洲独立运动",
+      "tail": "圣马丁",
+      "relation": "由...领导"
+    },
+    {
+      "head": "印度民族大起义",
+      "tail": "章西女王",
+      "relation": "由...领导"
+    },
+    {
+      "head": "英国东印度公司",
+      "tail": "印度民族大起义",
+      "relation": "引发"
+    },
+    {
+      "head": "彼得一世改革",
+      "tail": "西方科学技术",
+      "relation": "学习"
+    },
+    {
+      "head": "1861年农奴制改革",
+      "tail": "俄国资本主义发展",
+      "relation": "推动"
+    },
+    {
+      "head": "美国内战",
+      "tail": "奴隶制废除",
+      "relation": "导致"
+    },
+    {
+      "head": "林肯",
+      "tail": "《解放宣言》",
+      "relation": "颁布"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:22:59",
+    "version": "1.1"
+  }
+}

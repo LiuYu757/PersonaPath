@@ -1,0 +1,330 @@
+{
+  "knowledge_tree": {
+    "title": "八年级下册数学",
+    "content": "包含二次根式、勾股定理、平行四边形、一次函数、数据的分析等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "二次根式",
+        "content": "形如√a（a≥0）的式子称为二次根式",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "二次根式的定义",
+            "content": "形如√a（a≥0）的式子叫做二次根式",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "二次根式的性质",
+            "content": "(√a)²=a（a≥0）；√a²=|a|",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "最简二次根式",
+            "content": "被开方数不含分母且不含能开得尽方的因数或因式",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "二次根式的运算",
+            "content": "包括乘除运算和加减运算",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "乘法法则",
+                "content": "√a·√b=√ab（a≥0,b≥0）",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "除法法则",
+                "content": "√a/√b=√(a/b)（a≥0,b>0）",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "加减运算",
+                "content": "先将二次根式化为最简二次根式，再合并同类二次根式",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "勾股定理",
+        "content": "直角三角形两直角边的平方和等于斜边的平方",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "勾股定理",
+            "content": "如果直角三角形的两条直角边长分别为a,b，斜边长为c，那么a²+b²=c²",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "勾股定理的证明",
+            "content": "通过赵爽弦图等方法证明",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "勾股定理的逆定理",
+            "content": "如果三角形的三边长a,b,c满足a²+b²=c²，那么这个三角形是直角三角形",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "勾股数",
+            "content": "能够成为直角三角形三条边长的三个正整数",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "平行四边形",
+        "content": "两组对边分别平行的四边形",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "平行四边形的定义",
+            "content": "两组对边分别平行的四边形叫做平行四边形",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "平行四边形的性质",
+            "content": "对边相等、对角相等、对角线互相平分",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "平行四边形的判定",
+            "content": "多种判定方法，如两组对边分别相等、对角线互相平分等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "特殊的平行四边形",
+            "content": "包括矩形、菱形、正方形",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "矩形",
+                "content": "有一个角是直角的平行四边形",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "菱形",
+                "content": "有一组邻边相等的平行四边形",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "正方形",
+                "content": "既是矩形又是菱形的四边形",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "一次函数",
+        "content": "形如y=kx+b（k≠0）的函数",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "函数的概念",
+            "content": "在一个变化过程中，如果有两个变量x与y，并且对于x的每一个确定的值，y都有唯一确定的值与其对应",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "正比例函数",
+            "content": "形如y=kx（k≠0）的函数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "一次函数",
+            "content": "形如y=kx+b（k≠0）的函数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "一次函数的图象和性质",
+            "content": "图象是一条直线，k>0时y随x增大而增大，k<0时y随x增大而减小",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "待定系数法",
+            "content": "先设出函数解析式，再根据条件确定解析式中未知的系数",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "数据的分析",
+        "content": "用样本估计总体，分析数据的集中趋势和波动程度",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "平均数",
+            "content": "包括算术平均数和加权平均数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "中位数",
+            "content": "将一组数据按大小顺序排列，处在中间位置的数",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "众数",
+            "content": "一组数据中出现次数最多的数据",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "方差",
+            "content": "衡量一组数据波动大小的量",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "用样本估计总体",
+            "content": "通过样本数据的分析来推断总体的情况",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "二次根式",
+      "tail": "最简二次根式",
+      "relation": "包含"
+    },
+    {
+      "head": "二次根式",
+      "tail": "二次根式的运算",
+      "relation": "包含"
+    },
+    {
+      "head": "二次根式的运算",
+      "tail": "乘法法则",
+      "relation": "包含"
+    },
+    {
+      "head": "二次根式的运算",
+      "tail": "除法法则",
+      "relation": "包含"
+    },
+    {
+      "head": "二次根式的运算",
+      "tail": "加减运算",
+      "relation": "包含"
+    },
+    {
+      "head": "勾股定理",
+      "tail": "勾股定理的证明",
+      "relation": "包含"
+    },
+    {
+      "head": "勾股定理",
+      "tail": "勾股定理的逆定理",
+      "relation": "互为逆定理"
+    },
+    {
+      "head": "勾股定理",
+      "tail": "勾股数",
+      "relation": "应用于"
+    },
+    {
+      "head": "平行四边形",
+      "tail": "矩形的定义",
+      "relation": "特殊形式"
+    },
+    {
+      "head": "平行四边形",
+      "tail": "菱形的定义",
+      "relation": "特殊形式"
+    },
+    {
+      "head": "平行四边形",
+      "tail": "正方形的定义",
+      "relation": "特殊形式"
+    },
+    {
+      "head": "一次函数",
+      "tail": "正比例函数",
+      "relation": "特殊形式"
+    },
+    {
+      "head": "一次函数",
+      "tail": "待定系数法",
+      "relation": "应用于"
+    },
+    {
+      "head": "数据的分析",
+      "tail": "平均数",
+      "relation": "包含"
+    },
+    {
+      "head": "数据的分析",
+      "tail": "中位数",
+      "relation": "包含"
+    },
+    {
+      "head": "数据的分析",
+      "tail": "众数",
+      "relation": "包含"
+    },
+    {
+      "head": "数据的分析",
+      "tail": "方差",
+      "relation": "包含"
+    },
+    {
+      "head": "数据的分析",
+      "tail": "用样本估计总体",
+      "relation": "应用于"
+    },
+    {
+      "head": "平均数",
+      "tail": "加权平均数",
+      "relation": "特殊形式"
+    },
+    {
+      "head": "矩形",
+      "tail": "正方形",
+      "relation": "特殊形式"
+    },
+    {
+      "head": "菱形",
+      "tail": "正方形",
+      "relation": "特殊形式"
+    },
+    {
+      "head": "正比例函数",
+      "tail": "一次函数",
+      "relation": "特殊形式"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 20:56:16",
+    "version": "1.1"
+  }
+}

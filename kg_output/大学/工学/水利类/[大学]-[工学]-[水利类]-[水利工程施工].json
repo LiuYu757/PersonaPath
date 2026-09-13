@@ -1,0 +1,464 @@
+{
+  "knowledge_tree": {
+    "title": "水利工程施工",
+    "content": "水利工程施工是研究水利工程建设过程中施工技术、施工组织与管理的一门综合性学科。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "施工导流",
+        "content": "在水利工程施工期间，为创造干地施工条件，将河水通过预定泄水通道导向下游的工程措施。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "导流方式",
+            "content": "包括全段围堰法导流和分段围堰法导流。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "全段围堰法导流",
+                "content": "在河床主体工程的上、下游各修建一道围堰，拦截河水，将其通过临时或永久泄水建筑物泄向下游。",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "隧洞导流",
+                    "content": "利用隧洞作为导流泄水通道，适用于河谷狭窄、岸坡陡峻的山区河流。",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "明渠导流",
+                    "content": "在河岸或滩地上开挖明渠，用于引导河水。",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "分段围堰法导流",
+                "content": "用围堰将建筑物分段分期围护起来进行施工的方法。",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "束窄河床导流",
+                    "content": "通过围堰束窄原有河床，使河水从被束窄的河床通过。",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "围堰工程",
+            "content": "围堰是临时挡水建筑物，用来围护施工基坑。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "土石围堰",
+                "content": "利用当地材料如土料、石料或土石混合料填筑而成的围堰。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "混凝土围堰",
+                "content": "采用混凝土浇筑的围堰，抗冲能力强，挡水水头高。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "过水围堰",
+                "content": "允许堰顶过水的围堰，用于汛期洪水流量大、历时短的情况。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "截流",
+            "content": "施工导流中，关闭导流泄水建筑物，使河水改道由永久泄水建筑物或预留缺口下泄的工程措施。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "立堵法",
+                "content": "从龙口一端或两端向中间抛投进占，逐渐缩窄龙口直至合龙。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "平堵法",
+                "content": "沿龙口全线均匀地抛投材料，使堰体均匀上升直至高出水面。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "地基处理",
+        "content": "对水利工程建筑物地基进行加固或改善其工程性质的技术措施。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "灌浆",
+            "content": "将具有胶凝性的浆液灌入地基裂隙或孔隙中，以提高其整体性和抗渗性。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "固结灌浆",
+                "content": "为改善节理裂隙发育或有破碎带的岩石的物理力学性能而进行的灌浆。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "帷幕灌浆",
+                "content": "在坝基岩石中建造防渗帷幕的灌浆。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "接触灌浆",
+                "content": "在混凝土与基岩接触面进行的灌浆，以增强结合。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "防渗墙",
+            "content": "在地基中建造连续墙体以截断地下水渗流通道。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "槽孔型防渗墙",
+                "content": "先分段开挖槽孔，然后回填防渗材料形成的连续墙。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "土石方工程",
+        "content": "水利工程中土体的开挖、运输和填筑等施工过程。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "土石分级",
+            "content": "根据开挖方法和难度对土石进行的工程分类。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "土的分级",
+                "content": "根据土的坚硬程度和开挖方法划分，如Ⅰ~Ⅳ级。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "岩石分级",
+                "content": "根据岩石的坚固系数进行分级，如Ⅴ~ⅩⅥ级。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "爆破技术",
+            "content": "利用炸药爆炸能量破碎岩石的技术。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "浅孔爆破",
+                "content": "孔径小于50mm，孔深小于5m的爆破方法。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "深孔爆破",
+                "content": "孔径大于50mm，孔深大于5m的爆破方法。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "碾压式土石坝施工",
+            "content": "将土石料分层填筑并碾压密实的筑坝方法。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "坝料开采与运输",
+                "content": "坝料从料场开采并通过运输机械运至坝面的过程。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "辅料与平整",
+                "content": "将运输至坝面的填料按设计厚度铺开并平整。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "压实",
+                "content": "通过碾压机械对辅平的填料进行碾压，使其达到设计密实度。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "混凝土工程",
+        "content": "水利工程中混凝土建筑物的施工，包括混凝土制备、运输、浇筑和养护。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "模板工程",
+            "content": "为混凝土成型制作临时性模型板的工程。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "模板类型",
+                "content": "包括木模板、钢模板、滑动模板等。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "混凝土浇筑",
+            "content": "将混凝土拌合物灌入模板内并捣实成型的工艺过程。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "分层分块浇筑",
+                "content": "将大体积混凝土结构划分为若干浇筑层和浇筑块进行施工。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "温度控制",
+                "content": "为防止大体积混凝土温度裂缝而采取的措施，如预冷骨料、埋设冷却水管等。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "混凝土养护",
+            "content": "为混凝土硬化创造适宜的温度和湿度条件。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "施工组织设计",
+        "content": "对工程项目施工的全过程进行的总体规划与部署。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "施工总布置",
+            "content": "对施工期间所需的临时设施、交通道路等在施工场地内进行合理规划。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "施工进度计划",
+            "content": "采用横道图、网络图等方法对工程施工顺序和工期进行安排。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "施工导流",
+      "tail": "围堰工程",
+      "relation": "依赖于"
+    },
+    {
+      "head": "施工导流",
+      "tail": "截流",
+      "relation": "包含关键工序"
+    },
+    {
+      "head": "全段围堰法导流",
+      "tail": "隧洞导流",
+      "relation": "可采用"
+    },
+    {
+      "head": "全段围堰法导流",
+      "tail": "明渠导流",
+      "relation": "可采用"
+    },
+    {
+      "head": "分段围堰法导流",
+      "tail": "束窄河床导流",
+      "relation": "常采用"
+    },
+    {
+      "head": "围堰工程",
+      "tail": "土石围堰",
+      "relation": "包含类型"
+    },
+    {
+      "head": "围堰工程",
+      "tail": "混凝土围堰",
+      "relation": "包含类型"
+    },
+    {
+      "head": "围堰工程",
+      "tail": "过水围堰",
+      "relation": "包含类型"
+    },
+    {
+      "head": "截流",
+      "tail": "立堵法",
+      "relation": "施工方法"
+    },
+    {
+      "head": "截流",
+      "tail": "平堵法",
+      "relation": "施工方法"
+    },
+    {
+      "head": "地基处理",
+      "tail": "灌浆",
+      "relation": "核心技术"
+    },
+    {
+      "head": "地基处理",
+      "tail": "防渗墙",
+      "relation": "核心技术"
+    },
+    {
+      "head": "灌浆",
+      "tail": "固结灌浆",
+      "relation": "包含类型"
+    },
+    {
+      "head": "灌浆",
+      "tail": "帷幕灌浆",
+      "relation": "包含类型"
+    },
+    {
+      "head": "灌浆",
+      "tail": "接触灌浆",
+      "relation": "包含类型"
+    },
+    {
+      "head": "防渗墙",
+      "tail": "槽孔型防渗墙",
+      "relation": "常见形式"
+    },
+    {
+      "head": "土石方工程",
+      "tail": "土石分级",
+      "relation": "基础工作"
+    },
+    {
+      "head": "土石方工程",
+      "tail": "爆破技术",
+      "relation": "施工方法"
+    },
+    {
+      "head": "土石方工程",
+      "tail": "碾压式土石坝施工",
+      "relation": "典型应用"
+    },
+    {
+      "head": "土石分级",
+      "tail": "土的分级",
+      "relation": "包含"
+    },
+    {
+      "head": "土石分级",
+      "tail": "岩石分级",
+      "relation": "包含"
+    },
+    {
+      "head": "爆破技术",
+      "tail": "浅孔爆破",
+      "relation": "包含方法"
+    },
+    {
+      "head": "爆破技术",
+      "tail": "深孔爆破",
+      "relation": "包含方法"
+    },
+    {
+      "head": "碾压式土石坝施工",
+      "tail": "坝料开采与运输",
+      "relation": "施工工序"
+    },
+    {
+      "head": "碾压式土石坝施工",
+      "tail": "辅料与平整",
+      "relation": "施工工序"
+    },
+    {
+      "head": "碾压式土石坝施工",
+      "tail": "压实",
+      "relation": "施工工序"
+    },
+    {
+      "head": "混凝土工程",
+      "tail": "模板工程",
+      "relation": "前期工作"
+    },
+    {
+      "head": "混凝土工程",
+      "tail": "混凝土浇筑",
+      "relation": "核心工序"
+    },
+    {
+      "head": "混凝土工程",
+      "tail": "混凝土养护",
+      "relation": "后期工作"
+    },
+    {
+      "head": "混凝土浇筑",
+      "tail": "分层分块浇筑",
+      "relation": "常用方法"
+    },
+    {
+      "head": "混凝土浇筑",
+      "tail": "温度控制",
+      "relation": "关键技术"
+    },
+    {
+      "head": "施工组织设计",
+      "tail": "施工总布置",
+      "relation": "组成部分"
+    },
+    {
+      "head": "施工组织设计",
+      "tail": "施工进度计划",
+      "relation": "组成部分"
+    },
+    {
+      "head": "施工导流",
+      "tail": "地基处理",
+      "relation": "为...创造条件"
+    },
+    {
+      "head": "地基处理",
+      "tail": "混凝土工程",
+      "relation": "为...提供基础"
+    },
+    {
+      "head": "土石方工程",
+      "tail": "施工导流",
+      "relation": "涉及"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:22:53",
+    "version": "1.1"
+  }
+}

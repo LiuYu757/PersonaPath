@@ -1,0 +1,537 @@
+{
+  "knowledge_tree": {
+    "title": "无机化学",
+    "content": "研究元素、单质及无机化合物的组成、结构、性质及其变化规律的化学分支学科",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "原子结构与元素周期律",
+        "content": "原子是化学变化中的最小微粒，其结构决定了元素的性质。元素周期律是元素性质随原子序数递增呈周期性变化的规律。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "原子的构成",
+            "content": "原子由原子核和核外电子构成，原子核由质子和中子组成。质子数决定元素种类。",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "质子",
+                "content": "带一个单位正电荷，相对质量约为1，决定原子序数（核电荷数）。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "中子",
+                "content": "电中性，相对质量约为1，与质子共同构成原子核，影响原子质量。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "电子",
+                "content": "带一个单位负电荷，质量极小，在核外空间作高速运动。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "核外电子排布",
+            "content": "电子在原子核外特定区域（电子层、亚层、轨道）按一定规则排布。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "电子层（主量子数n）",
+                "content": "描述电子离核平均距离的层次，n=1,2,3...，对应K,L,M...层，n越大能量越高。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "能级（角量子数l）",
+                "content": "同一电子层内能量不同的亚层，s,p,d,f...，l=0,1,2,3...，s轨道球形，p轨道哑铃形。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "泡利不相容原理",
+                "content": "一个原子轨道最多容纳两个自旋方向相反的电子。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "洪特规则",
+                "content": "电子在等价轨道上排布时，总是尽可能分占不同轨道且自旋平行。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "元素周期表",
+            "content": "将元素按原子序数递增排列，性质相似的元素周期性出现的表格。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "周期",
+                "content": "具有相同电子层数的元素按原子序数递增顺序排列的一个横行，共7个周期。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "族",
+                "content": "最外层电子数相同（主族）或价电子构型相似（副族）的元素纵列，共16个族。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "元素性质的周期性",
+                "content": "原子半径、电离能、电负性等元素性质随原子序数递增呈周期性变化。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "化学键与分子结构",
+        "content": "原子通过化学键结合形成分子或晶体，化学键的类型和强度决定了物质的结构和性质。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "离子键",
+            "content": "阴阳离子之间通过静电作用形成的化学键。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "形成条件",
+                "content": "典型金属元素（如IA, IIA族）与典型非金属元素（如VIA, VIIA族）原子间电负性差值较大时发生电子转移形成。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "离子晶体",
+                "content": "由离子键结合形成的晶体，如NaCl，具有高熔点、高沸点、硬而脆、熔融态或水溶液导电的特性。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "共价键",
+            "content": "原子间通过共用电子对形成的化学键。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "价键理论",
+                "content": "原子轨道重叠，两原子各提供一个未成对电子且自旋相反配对形成共价键。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "σ键与π键",
+                "content": "σ键：原子轨道沿键轴方向“头碰头”重叠，可单独存在；π键：原子轨道“肩并肩”重叠，不能单独存在，存在于双键和三键中。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "键参数",
+                "content": "键能、键长、键角，用于描述共价键的性质。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "杂化轨道理论",
+            "content": "解释分子空间构型的重要理论，中心原子能量相近的原子轨道混合重组形成数目相等、能量简并的新轨道（杂化轨道）。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "sp³杂化",
+                "content": "1个s轨道与3个p轨道杂化，形成4个sp³杂化轨道，指向正四面体的四个顶点，键角109°28‘，如CH₄。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "sp²杂化",
+                "content": "1个s轨道与2个p轨道杂化，形成3个sp²杂化轨道（平面三角形，键角120°）和1个未杂化p轨道（用于形成π键），如BF₃, C₂H₄。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "sp杂化",
+                "content": "1个s轨道与1个p轨道杂化，形成2个sp杂化轨道（直线形，键角180°）和2个未杂化p轨道（用于形成π键），如BeCl₂, C₂H₂。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "化学热力学基础",
+        "content": "研究化学反应中能量转化规律和反应方向限度的学科。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "热力学第一定律",
+            "content": "能量守恒与转化定律在热现象中的应用，ΔU = Q + W。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "热（Q）",
+                "content": "系统与环境之间因温度差而传递的能量。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "功（W）",
+                "content": "除热以外其他形式传递的能量，如体积功。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "焓（H）与焓变（ΔH）",
+            "content": "状态函数H=U+pV，等压过程的热效应Qp=ΔH。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "标准摩尔生成焓（ΔfHmθ）",
+                "content": "在标准状态下，由稳定单质生成1mol某物质时的焓变。用于计算反应热。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "赫斯定律",
+                "content": "化学反应的热效应只与始态和终态有关，与途径无关。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "熵（S）与吉布斯自由能（G）",
+            "content": "熵是系统混乱度的量度。吉布斯自由能G=H-TS，用于判断反应的自发性。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "熵增原理",
+                "content": "孤立系统的熵永不减少。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "吉布斯自由能判据",
+                "content": "等温等压下，ΔG<0反应自发；ΔG=0平衡；ΔG>0反应非自发。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "化学动力学基础",
+        "content": "研究化学反应速率及其影响因素的学科。",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "反应速率",
+            "content": "单位时间内反应物浓度减少量或生成物浓度增加量。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "平均速率",
+                "content": "某一时间间隔内浓度的变化量。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "瞬时速率",
+                "content": "某一时刻的反应速率。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "浓度对反应速率的影响",
+            "content": "质量作用定律：基元反应的速率与各反应物浓度幂的乘积成正比。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "速率方程",
+                "content": "v = k [A]^m [B]^n，k为速率常数，m+n为反应级数。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "温度对反应速率的影响",
+            "content": "阿伦尼乌斯公式：k = A e^(-Ea/RT)，温度升高，速率常数k增大。",
+            "difficulty": "5",
+            "children": [
+              {
+                "title": "活化能（Ea）",
+                "content": "活化分子具有的平均能量与反应物分子平均能量之差。Ea越小，反应越快。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "溶液与电离平衡",
+        "content": "研究电解质溶液中的离子行为及其平衡规律。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "弱电解质的电离平衡",
+            "content": "弱电解质在水溶液中部分电离，存在电离平衡。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电离度（α）",
+                "content": "弱电解质达到电离平衡时，已电离的分子数占原有分子总数的百分比。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电离常数（Ki）",
+                "content": "弱电解质电离平衡的平衡常数，如HA ⇌ H⁺ + A⁻，Ki = [H⁺][A⁻]/[HA]。Ki值越大，电解质越强。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "水的离子积与pH",
+            "content": "水存在自偶电离平衡H₂O ⇌ H⁺ + OH⁻，Kw=[H⁺][OH⁻]=1.0×10⁻¹⁴ (25°C)。pH=-lg[H⁺]。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "酸碱指示剂",
+                "content": "其颜色随溶液pH值改变而变化的化合物，如酚酞、甲基橙。",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "盐类水解",
+            "content": "盐的离子与水电离出的H⁺或OH⁻结合生成弱电解质的反应，使溶液显酸性或碱性。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "水解常数（Kh）",
+                "content": "盐类水解反应的平衡常数。Kh=Kw/Ki（对于弱酸强碱盐）或Kh=Kw/Kb（对于弱碱强酸盐）。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "原子结构与元素周期律",
+      "tail": "原子的构成",
+      "relation": "包含"
+    },
+    {
+      "head": "原子的构成",
+      "tail": "质子",
+      "relation": "由...组成"
+    },
+    {
+      "head": "原子的构成",
+      "tail": "中子",
+      "relation": "由...组成"
+    },
+    {
+      "head": "原子的构成",
+      "tail": "电子",
+      "relation": "由...组成"
+    },
+    {
+      "head": "质子",
+      "tail": "原子序数",
+      "relation": "决定"
+    },
+    {
+      "head": "核外电子排布",
+      "tail": "元素周期律",
+      "relation": "决定"
+    },
+    {
+      "head": "电子层",
+      "tail": "主量子数n",
+      "relation": "对应于"
+    },
+    {
+      "head": "能级",
+      "tail": "角量子数l",
+      "relation": "对应于"
+    },
+    {
+      "head": "泡利不相容原理",
+      "tail": "核外电子排布",
+      "relation": "是...的规则"
+    },
+    {
+      "head": "洪特规则",
+      "tail": "核外电子排布",
+      "relation": "是...的规则"
+    },
+    {
+      "head": "元素周期表",
+      "tail": "周期",
+      "relation": "包含"
+    },
+    {
+      "head": "元素周期表",
+      "tail": "族",
+      "relation": "包含"
+    },
+    {
+      "head": "原子半径",
+      "tail": "元素性质的周期性",
+      "relation": "是...的体现"
+    },
+    {
+      "head": "化学键与分子结构",
+      "tail": "离子键",
+      "relation": "包含"
+    },
+    {
+      "head": "化学键与分子结构",
+      "tail": "共价键",
+      "relation": "包含"
+    },
+    {
+      "head": "离子键",
+      "tail": "离子晶体",
+      "relation": "形成"
+    },
+    {
+      "head": "共价键",
+      "tail": "价键理论",
+      "relation": "基于"
+    },
+    {
+      "head": "共价键",
+      "tail": "σ键与π键",
+      "relation": "包含类型"
+    },
+    {
+      "head": "杂化轨道理论",
+      "tail": "分子空间构型",
+      "relation": "用于解释"
+    },
+    {
+      "head": "sp³杂化",
+      "tail": "CH₄",
+      "relation": "应用于"
+    },
+    {
+      "head": "sp²杂化",
+      "tail": "C₂H₄",
+      "relation": "应用于"
+    },
+    {
+      "head": "sp杂化",
+      "tail": "C₂H₂",
+      "relation": "应用于"
+    },
+    {
+      "head": "化学热力学基础",
+      "tail": "热力学第一定律",
+      "relation": "包含"
+    },
+    {
+      "head": "热力学第一定律",
+      "tail": "焓（H）",
+      "relation": "引出概念"
+    },
+    {
+      "head": "焓变（ΔH）",
+      "tail": "标准摩尔生成焓",
+      "relation": "基于"
+    },
+    {
+      "head": "赫斯定律",
+      "tail": "反应热计算",
+      "relation": "用于"
+    },
+    {
+      "head": "熵（S）",
+      "tail": "吉布斯自由能（G）",
+      "relation": "是...的组成部分"
+    },
+    {
+      "head": "吉布斯自由能判据",
+      "tail": "反应自发性",
+      "relation": "用于判断"
+    },
+    {
+      "head": "化学动力学基础",
+      "tail": "反应速率",
+      "relation": "研究"
+    },
+    {
+      "head": "浓度",
+      "tail": "反应速率",
+      "relation": "影响"
+    },
+    {
+      "head": "质量作用定律",
+      "tail": "速率方程",
+      "relation": "推导出"
+    },
+    {
+      "head": "温度",
+      "tail": "反应速率",
+      "relation": "影响"
+    },
+    {
+      "head": "阿伦尼乌斯公式",
+      "tail": "活化能（Ea）",
+      "relation": "包含"
+    },
+    {
+      "head": "溶液与电离平衡",
+      "tail": "弱电解质的电离平衡",
+      "relation": "包含"
+    },
+    {
+      "head": "弱电解质的电离平衡",
+      "tail": "电离度",
+      "relation": "描述"
+    },
+    {
+      "head": "弱电解质的电离平衡",
+      "tail": "电离常数",
+      "relation": "描述"
+    },
+    {
+      "head": "水的离子积",
+      "tail": "pH",
+      "relation": "是...的基础"
+    },
+    {
+      "head": "盐类水解",
+      "tail": "水解常数",
+      "relation": "由...描述"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:50:28",
+    "version": "1.1"
+  }
+}

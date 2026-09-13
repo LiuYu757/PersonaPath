@@ -1,0 +1,436 @@
+{
+  "knowledge_tree": {
+    "title": "网络基础",
+    "content": "高中信息技术选择性必修2网络基础课程，涵盖网络概述、协议设备、网络安全、物联网等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "网络概述",
+        "content": "计算机网络的基本概念和发展历程",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "计算机网络定义",
+            "content": "用通信线路把若干台计算机互相连接起来，遵照通信协议，实现信息交换和资源共享的系统",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "计算机网络发展阶段",
+            "content": "四个发展阶段：诞生阶段（面向终端的计算机通信网）、形成阶段（计算机互联）、互联互通阶段（TCP/IP协议标准化）、高速网络阶段（互联网普及）",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "互联网发展大事记",
+            "content": "1969年阿帕网投入使用，1983年采用TCP/IP协议，1991年万维网协议诞生等重要事件",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "移动互联网",
+            "content": "智能手机等移动终端接入互联网形成的网络，从1G到5G的发展历程",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "网络类型",
+        "content": "按不同标准对网络进行分类",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "按覆盖范围分类",
+            "content": "局域网（LAN）、城域网（MAN）、广域网（WAN）、个域网（PAN）",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "按传输介质分类",
+            "content": "有线网（同轴电缆、双绞线、光纤）和无线网（Wi-Fi、移动通信等）",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "按拓扑结构分类",
+            "content": "线状、环状、星状、树状、网状等拓扑结构",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "按传输方式分类",
+            "content": "点对点式（单播）和广播式",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "按服务方式分类",
+            "content": "主从式（C/S、B/S结构）和对等式（P2P）",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "网络传输质量",
+        "content": "影响网络传输质量的主要物理因素",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "噪声",
+            "content": "引起信号质量下降或失真的影响因素，包括外界电磁干扰和内部串扰",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "衰减",
+            "content": "信号在传输过程中强度不断减弱的现象",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "抗噪技术",
+            "content": "双绞线的抗噪原理、光纤的抗噪优势等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "中继器",
+            "content": "用于增强信号、对抗噪声和衰减的设备",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "网络协议",
+        "content": "TCP/IP协议体系及其相关技术",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "TCP/IP协议分层",
+            "content": "应用层、传输层、网络互联层、网络接口层四层结构",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "数据交换技术",
+            "content": "电路交换、报文交换、分组交换（虚电路交换和数据报交换）",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "IP地址",
+            "content": "IPv4地址结构、分类（A、B、C类）、子网掩码、IPv6地址",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "域名系统",
+            "content": "域名结构、域名解析、DNS服务",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "网络设备",
+        "content": "常见网络设备及其工作原理",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "网卡",
+            "content": "网络适配器，具有唯一的MAC地址",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "交换机",
+            "content": "基于MAC地址进行数据转发的设备，支持多端口同时通信",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "路由器",
+            "content": "基于IP地址进行网络互联的设备，实现地址转换和路由选择",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "网络操作系统",
+            "content": "提供网络管理功能的操作系统，如Windows、Linux等",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "网络安全",
+        "content": "网络安全技术和加密技术",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "安全威胁类型",
+            "content": "非法阻断、窃听、篡改、伪造等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "数字摘要技术",
+            "content": "MD5、SHA等算法，用于验证数据完整性",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "加密技术",
+            "content": "对称加密（AES、DES）和非对称加密（RSA）",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "数字签名",
+            "content": "用于验证信息真实性和不可否认性",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "安全协议",
+            "content": "SSL/TLS、HTTPS、IPsec等",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "防火墙",
+            "content": "网络访问控制设备，分为软件防火墙和硬件防火墙",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "物联网",
+        "content": "物联网概念、技术和应用",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "物联网定义",
+            "content": "通过信息传感设备实时采集物体信息，与互联网结合形成的巨大网络",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "物联网架构",
+            "content": "感知层、网络层、应用层三层结构",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "感测技术",
+            "content": "传感器技术、RFID、二维码、定位技术等",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "联网技术",
+            "content": "蓝牙、NFC、ZigBee、Li-Fi等无线通信技术",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "物联网应用",
+            "content": "智能家居、智能交通、智能医疗等领域应用",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "创新网络服务",
+        "content": "基于网络的新型服务模式",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "移动支付",
+            "content": "近场支付和远程支付两种方式",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "网络购物",
+            "content": "电子商务的各种形式和应用",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "共享经济",
+            "content": "共享单车、共享汽车等共享服务模式",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "隐私保护",
+        "content": "信息社会中的个人隐私保护",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "隐私泄露途径",
+            "content": "技术因素、行为因素等导致的个人信息泄露",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "法律法规",
+            "content": "刑法等法律法规对个人信息保护的规定",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "防护措施",
+            "content": "密码管理、权限控制、安全软件使用等个人防护措施",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "计算机网络",
+      "tail": "TCP/IP协议",
+      "relation": "基于"
+    },
+    {
+      "head": "TCP/IP协议",
+      "tail": "IP地址",
+      "relation": "包含"
+    },
+    {
+      "head": "TCP/IP协议",
+      "tail": "域名系统",
+      "relation": "包含"
+    },
+    {
+      "head": "IP地址",
+      "tail": "IPv4地址",
+      "relation": "包含"
+    },
+    {
+      "head": "IP地址",
+      "tail": "IPv6地址",
+      "relation": "包含"
+    },
+    {
+      "head": "域名系统",
+      "tail": "域名解析",
+      "relation": "包含"
+    },
+    {
+      "head": "网络设备",
+      "tail": "网卡",
+      "relation": "包含"
+    },
+    {
+      "head": "网络设备",
+      "tail": "交换机",
+      "relation": "包含"
+    },
+    {
+      "head": "网络设备",
+      "tail": "路由器",
+      "relation": "包含"
+    },
+    {
+      "head": "网络安全",
+      "tail": "加密技术",
+      "relation": "包含"
+    },
+    {
+      "head": "加密技术",
+      "tail": "对称加密",
+      "relation": "包含"
+    },
+    {
+      "head": "加密技术",
+      "tail": "非对称加密",
+      "relation": "包含"
+    },
+    {
+      "head": "物联网",
+      "tail": "感测技术",
+      "relation": "包含"
+    },
+    {
+      "head": "物联网",
+      "tail": "联网技术",
+      "relation": "包含"
+    },
+    {
+      "head": "感测技术",
+      "tail": "传感器技术",
+      "relation": "包含"
+    },
+    {
+      "head": "感测技术",
+      "tail": "RFID技术",
+      "relation": "包含"
+    },
+    {
+      "head": "联网技术",
+      "tail": "蓝牙",
+      "relation": "包含"
+    },
+    {
+      "head": "联网技术",
+      "tail": "NFC",
+      "relation": "包含"
+    },
+    {
+      "head": "创新网络服务",
+      "tail": "移动支付",
+      "relation": "包含"
+    },
+    {
+      "head": "创新网络服务",
+      "tail": "网络购物",
+      "relation": "包含"
+    },
+    {
+      "head": "路由器",
+      "tail": "地址转换",
+      "relation": "实现"
+    },
+    {
+      "head": "数字摘要",
+      "tail": "数据完整性验证",
+      "relation": "用于"
+    },
+    {
+      "head": "数字签名",
+      "tail": "身份认证",
+      "relation": "用于"
+    },
+    {
+      "head": "防火墙",
+      "tail": "网络访问控制",
+      "relation": "实现"
+    },
+    {
+      "head": "云计算",
+      "tail": "物联网",
+      "relation": "支持"
+    },
+    {
+      "head": "大数据",
+      "tail": "物联网",
+      "relation": "来源于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 17:42:32",
+    "version": "1.1"
+  }
+}

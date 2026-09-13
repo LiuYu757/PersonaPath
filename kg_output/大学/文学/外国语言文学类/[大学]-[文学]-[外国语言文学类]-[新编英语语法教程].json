@@ -1,0 +1,378 @@
+{
+  "knowledge_tree": {
+    "title": "新编英语语法教程",
+    "content": "系统讲解英语语法规则、结构和应用，涵盖词法、句法、时态、语态等核心内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "词法",
+        "content": "关于词的分类、形态变化和用法的语法分支",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "名词",
+            "content": "表示人、事物、地点或抽象概念的词",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "可数名词",
+                "content": "可以有复数形式的名词，如book-books",
+                "difficulty": "1",
+                "children": [
+                  {
+                    "title": "规则复数形式",
+                    "content": "大多数名词通过加-s或-es构成复数",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "不规则复数形式",
+                    "content": "如child-children, mouse-mice等特殊变化",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "不可数名词",
+                "content": "没有复数形式的名词，如water, information",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "名词所有格",
+                "content": "表示所属关系的's形式或of结构",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "动词",
+            "content": "表示动作、状态或存在的词",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "时态",
+                "content": "表示动作发生时间的动词形式",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "一般现在时",
+                    "content": "表示习惯性动作或客观真理",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "现在进行时",
+                    "content": "表示正在进行的动作",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "现在完成时",
+                    "content": "表示过去发生但与现在有关的动作",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "语态",
+                "content": "表示主语与动作关系的动词形式",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "主动语态",
+                    "content": "主语是动作的执行者",
+                    "difficulty": "1",
+                    "children": []
+                  },
+                  {
+                    "title": "被动语态",
+                    "content": "主语是动作的承受者",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "句法",
+        "content": "关于句子结构、成分和类型的语法分支",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "句子成分",
+            "content": "构成句子的各个部分",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "主语",
+                "content": "句子中执行动作或被描述的对象",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "谓语",
+                "content": "说明主语动作或状态的部分",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "宾语",
+                "content": "动作的承受者",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "句子类型",
+            "content": "根据结构和功能对句子的分类",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "简单句",
+                "content": "只包含一个主谓结构的句子",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "复合句",
+                "content": "由并列连词连接的两个或多个简单句",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "复杂句",
+                "content": "包含主句和从句的句子",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "从句",
+            "content": "在句子中充当某个成分的子句",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "名词性从句",
+                "content": "在句中起名词作用的从句",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "定语从句",
+                "content": "修饰名词或代词的从句",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "状语从句",
+                "content": "在句中作状语的从句",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "典型语法应用",
+        "content": "语法规则在实际语言运用中的体现",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "主谓一致",
+            "content": "主语和谓语在人称和数上保持一致",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "时态呼应",
+            "content": "主句和从句在时态上的协调一致",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "虚拟语气",
+            "content": "表示假设、愿望等非现实情况的语气",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "词法",
+      "tail": "名词",
+      "relation": "包含"
+    },
+    {
+      "head": "词法",
+      "tail": "动词",
+      "relation": "包含"
+    },
+    {
+      "head": "名词",
+      "tail": "可数名词",
+      "relation": "包含"
+    },
+    {
+      "head": "名词",
+      "tail": "不可数名词",
+      "relation": "包含"
+    },
+    {
+      "head": "可数名词",
+      "tail": "规则复数形式",
+      "relation": "包含"
+    },
+    {
+      "head": "可数名词",
+      "tail": "不规则复数形式",
+      "relation": "包含"
+    },
+    {
+      "head": "动词",
+      "tail": "时态",
+      "relation": "包含"
+    },
+    {
+      "head": "动词",
+      "tail": "语态",
+      "relation": "包含"
+    },
+    {
+      "head": "时态",
+      "tail": "一般现在时",
+      "relation": "包含"
+    },
+    {
+      "head": "时态",
+      "tail": "现在进行时",
+      "relation": "包含"
+    },
+    {
+      "head": "时态",
+      "tail": "现在完成时",
+      "relation": "包含"
+    },
+    {
+      "head": "语态",
+      "tail": "主动语态",
+      "relation": "包含"
+    },
+    {
+      "head": "语态",
+      "tail": "被动语态",
+      "relation": "包含"
+    },
+    {
+      "head": "句法",
+      "tail": "句子成分",
+      "relation": "包含"
+    },
+    {
+      "head": "句法",
+      "tail": "句子类型",
+      "relation": "包含"
+    },
+    {
+      "head": "句法",
+      "tail": "从句",
+      "relation": "包含"
+    },
+    {
+      "head": "句子成分",
+      "tail": "主语",
+      "relation": "包含"
+    },
+    {
+      "head": "句子成分",
+      "tail": "谓语",
+      "relation": "包含"
+    },
+    {
+      "head": "句子成分",
+      "tail": "宾语",
+      "relation": "包含"
+    },
+    {
+      "head": "句子类型",
+      "tail": "简单句",
+      "relation": "包含"
+    },
+    {
+      "head": "句子类型",
+      "tail": "复合句",
+      "relation": "包含"
+    },
+    {
+      "head": "句子类型",
+      "tail": "复杂句",
+      "relation": "包含"
+    },
+    {
+      "head": "从句",
+      "tail": "名词性从句",
+      "relation": "包含"
+    },
+    {
+      "head": "从句",
+      "tail": "定语从句",
+      "relation": "包含"
+    },
+    {
+      "head": "从句",
+      "tail": "状语从句",
+      "relation": "包含"
+    },
+    {
+      "head": "名词所有格",
+      "tail": "可数名词",
+      "relation": "应用于"
+    },
+    {
+      "head": "时态",
+      "tail": "时态呼应",
+      "relation": "基于"
+    },
+    {
+      "head": "主谓一致",
+      "tail": "主语",
+      "relation": "基于"
+    },
+    {
+      "head": "主谓一致",
+      "tail": "谓语",
+      "relation": "基于"
+    },
+    {
+      "head": "复杂句",
+      "tail": "从句",
+      "relation": "由...组成"
+    },
+    {
+      "head": "虚拟语气",
+      "tail": "动词",
+      "relation": "基于"
+    },
+    {
+      "head": "被动语态",
+      "tail": "及物动词",
+      "relation": "要求"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:21:01",
+    "version": "1.1"
+  }
+}

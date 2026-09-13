@@ -1,0 +1,211 @@
+{
+  "knowledge_tree": {
+    "title": "区域与区域发展",
+    "content": "区域是地理学的主要研究对象，涉及区域概念、类型、整体性、关联性及发展策略",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "区域的概念与特征",
+        "content": "区域是人们在地球表面按照一定目的和标准划定的空间单元，具有一定的范围、形状和边界",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "区域的边界类型",
+            "content": "明确边界（如行政区、流域）和过渡性边界（如自然带、语言区）",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "区域内部一致性",
+            "content": "区域内部特定性质相对一致，如湿润区降水量均大于800mm",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "区域的类型",
+        "content": "按自然特征划分（如气候区、地形区）、按人文特征划分（如方言区、城市群）、综合划分（如主体功能区）",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "行政管理型区域",
+            "content": "政府为特定目标划定的区域，如经济特区、保税区、生态保护区",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "客观认知型区域",
+            "content": "长期实践中认知的区域，如野生稻分布区、低硒地区",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "区域的空间尺度",
+        "content": "区域具有层级性，较大尺度包含较小尺度区域",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "尺度与层级关系",
+            "content": "如世界-大洲-地区-国家-省-市",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "同一尺度区域的差异",
+            "content": "面积、位置差异导致发展条件不同，如大国与小国优势比较",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "区域的渐变特征",
+        "content": "区域边界在现实中多为渐变地带，内部要素属性也存在渐变",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "边界过渡性",
+            "content": "如秦岭-淮河线两侧特征渐变",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "内部要素渐变",
+            "content": "如南方地区自南向北温度、降水渐变",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "区域整体性",
+        "content": "区域各要素相互影响、制约，形成整体性特征",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "自然要素与人文要素",
+            "content": "自然要素包括地质、地貌、气候等；人文要素包括人口、文化、经济等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "要素相互作用",
+            "content": "直接影响（如人类从自然获取资源）和间接影响（如文化通过制度影响自然）",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "案例：稻鱼共生系统",
+            "content": "青田县稻鱼共生形成良性循环，促进区域发展",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "区域差异与关联性",
+        "content": "区域差异普遍存在，是区域关联的基础",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "差异类型",
+            "content": "地理位置、自然条件、经济发展水平、文化习俗差异等",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "关联实现方式",
+            "content": "通过自然要素（如水流、动物迁徙）和人文要素（如人口迁移、产业转移）流动",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "案例：京津冀协同发展",
+            "content": "功能定位差异促进要素流动，推动区域发展",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "因地制宜与区域发展",
+        "content": "区域发展需根据自身条件安排人类活动，并随条件变化调整",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "比较区域发展",
+            "content": "需研究各区域地理环境整体性和区外关联性",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "案例：长江三角洲与松嫩平原",
+            "content": "从地理位置、气候、耕地、矿产资源等方面比较，分析农业发展差异及原因",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "区域地理研究",
+        "content": "地理学重要分支，研究区域地理环境特征、结构、变化及人地关系",
+        "difficulty": "2",
+        "children": []
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "区域",
+      "tail": "边界",
+      "relation": "具有"
+    },
+    {
+      "head": "区域",
+      "tail": "要素",
+      "relation": "由...组成"
+    },
+    {
+      "head": "自然要素",
+      "tail": "人文要素",
+      "relation": "与...共同构成区域"
+    },
+    {
+      "head": "区域差异",
+      "tail": "区域关联",
+      "relation": "是...的基础"
+    },
+    {
+      "head": "稻鱼共生系统",
+      "tail": "青田县",
+      "relation": "位于"
+    },
+    {
+      "head": "京津冀协同发展",
+      "tail": "功能定位",
+      "relation": "基于"
+    },
+    {
+      "head": "长江三角洲",
+      "tail": "松嫩平原",
+      "relation": "与...存在差异"
+    },
+    {
+      "head": "因地制宜",
+      "tail": "区域发展",
+      "relation": "指导"
+    },
+    {
+      "head": "区域地理",
+      "tail": "人地关系",
+      "relation": "研究"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:34:06",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,687 @@
+{
+  "knowledge_tree": {
+    "title": "化学反应原理",
+    "content": "高中化学反应原理，涵盖化学反应的热效应、速率与平衡、水溶液中的离子反应与平衡、化学反应与电能等内容",
+    "difficulty": "3",
+    "children": [
+      {
+        "title": "化学反应的热效应",
+        "content": "研究化学反应中的能量变化，包括反应热、焓变、热化学方程式和燃烧热等",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "反应热",
+            "content": "在等温条件下，化学反应体系向环境释放或从环境吸收的热量",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "反应热的测定",
+                "content": "通过量热计直接测定反应热，如中和反应反应热的测定",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "反应热与焓变",
+                "content": "在等压条件下，反应热等于反应的焓变ΔH，ΔH<0为放热反应，ΔH>0为吸热反应",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "热化学方程式",
+            "content": "表明反应所释放或吸收的热量的化学方程式",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "热化学方程式的书写",
+                "content": "需注明反应时的温度和压强、反应物和生成物的聚集状态，各物质前的化学计量数可以是整数或分数",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "燃烧热",
+            "content": "在101 kPa时，1 mol纯物质完全燃烧生成指定产物时所放出的热量",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "反应热的计算",
+            "content": "利用盖斯定律和已知反应热计算未知反应热",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "盖斯定律",
+                "content": "一个化学反应，不管是一步完成还是分几步完成，其反应热相同，即反应热只与始态和终态有关",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "反应热的计算应用",
+                "content": "根据热化学方程式、盖斯定律等计算反应热，如黄铁矿燃烧放热的计算",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "化学反应速率与化学平衡",
+        "content": "研究化学反应的快慢、限度以及影响因素",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "化学反应速率",
+            "content": "用单位时间内反应物浓度的减小或生成物浓度的增大来表示",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "化学反应速率的表示",
+                "content": "v=Δc/Δt，常用单位mol/(L·s)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "影响化学反应速率的因素",
+                "content": "浓度、压强、温度、催化剂等会影响反应速率",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "浓度对反应速率的影响",
+                    "content": "增大反应物浓度，反应速率增大；降低反应物浓度，反应速率减小",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "温度对反应速率的影响",
+                    "content": "升高温度，反应速率增大；降低温度，反应速率减小，温度每升高10℃，反应速率增大为原来的2~4倍",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "催化剂对反应速率的影响",
+                    "content": "催化剂能改变化学反应速率，但不影响化学平衡",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "活化能",
+                "content": "活化分子具有的平均能量与反应物分子具有的平均能量之差",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "有效碰撞理论",
+                    "content": "能够发生化学反应的碰撞叫做有效碰撞，发生有效碰撞的分子必须具有足够的能量和合适的取向",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "催化剂的作用原理",
+                    "content": "催化剂能改变反应历程，降低反应的活化能",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "化学平衡",
+            "content": "在一定条件下的可逆反应中，正反应和逆反应的速率相等，反应混合物中各组分的浓度保持不变的状态",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "化学平衡状态",
+                "content": "可逆反应达到动态平衡的状态，正逆反应速率相等，各组分浓度不变",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "化学平衡常数",
+                "content": "在一定温度下，可逆反应达到平衡时，生成物浓度幂之积与反应物浓度幂之积的比值",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "平衡常数的表达式",
+                    "content": "对于反应mA+nB⇌pC+qD，K=c^p(C)·c^q(D)/c^m(A)·c^n(B)",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "平衡常数的意义",
+                    "content": "K越大，反应进行得越完全，平衡时反应物的转化率越大",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "影响化学平衡的因素",
+                "content": "浓度、压强、温度等因素会影响化学平衡的移动",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "浓度对化学平衡的影响",
+                    "content": "增大反应物浓度或减小生成物浓度，平衡向正反应方向移动；减小反应物浓度或增大生成物浓度，平衡向逆反应方向移动",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "压强对化学平衡的影响",
+                    "content": "对于有气体参加的反应，增大压强，平衡向气体体积缩小的方向移动；减小压强，平衡向气体体积增大的方向移动",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "温度对化学平衡的影响",
+                    "content": "升高温度，平衡向吸热反应方向移动；降低温度，平衡向放热反应方向移动",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "勒夏特列原理",
+                "content": "如果改变影响平衡的一个因素，平衡就向着能够减弱这种改变的方向移动",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "化学反应的方向",
+            "content": "判断化学反应自发进行的方向",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "焓变与反应方向",
+                "content": "大多数放热反应可以自发进行，但有些吸热反应也可以自发进行",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "熵变与反应方向",
+                "content": "体系有自发地向混乱度增加（熵增）的方向转变的倾向",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "自由能变化与反应方向",
+                "content": "ΔG=ΔH-TΔS，当ΔG<0时反应能自发进行，ΔG=0时反应处于平衡状态，ΔG>0时反应不能自发进行",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "化学反应的调控",
+            "content": "通过改变反应条件使反应按照某一方向进行",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "合成氨反应条件的控制",
+                "content": "选择适宜的温度、压强、催化剂等条件，以提高反应速率和平衡转化率",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "水溶液中的离子反应与平衡",
+        "content": "研究水溶液中弱电解质的电离平衡、盐类的水解平衡和难溶电解质的沉淀溶解平衡",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "电离平衡",
+            "content": "弱电解质在水中的电离是可逆过程，存在电离平衡",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "强电解质和弱电解质",
+                "content": "强电解质在水中全部电离，弱电解质部分电离",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "弱电解质的电离平衡",
+                "content": "弱电解质电离成离子的速率和离子结合成分子的速率相等时达到平衡状态",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "电离平衡常数",
+                "content": "弱电解质电离达到平衡时，溶液中离子浓度乘积与未电离分子浓度的比值",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "电离常数的表达式",
+                    "content": "对于一元弱酸HA，Ka=c(H+)·c(A-)/c(HA)",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "电离常数的意义",
+                    "content": "电离常数越大，弱电解质越易电离",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "水的电离和溶液的pH",
+            "content": "水是一种极弱的电解质，能发生微弱的电离",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "水的电离",
+                "content": "H2O⇌H++OH-，c(H+)·c(OH-)=Kw",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "水的离子积常数",
+                "content": "Kw=c(H+)·c(OH-)，常温下Kw=1×10^-14",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "溶液的酸碱性与pH",
+                "content": "酸性溶液c(H+)>c(OH-)，pH<7；中性溶液c(H+)=c(OH-)，pH=7；碱性溶液c(H+)<c(OH-)，pH>7",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "酸碱中和滴定",
+                "content": "用已知浓度的酸（或碱）来测定未知浓度的碱（或酸）的方法",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "中和滴定原理",
+                    "content": "根据酸碱中和反应的计量关系，通过滴定终点判断反应完全",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "酸碱指示剂",
+                    "content": "在不同pH范围内显示不同颜色的物质，用于判断滴定终点",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "盐类的水解",
+            "content": "盐电离出来的离子与水电离出来的H+或OH-结合生成弱电解质的反应",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "盐溶液的酸碱性",
+                "content": "强酸强碱盐溶液呈中性，强酸弱碱盐溶液呈酸性，强碱弱酸盐溶液呈碱性",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "盐类水解的实质",
+                "content": "盐电离出的离子与水电离出的H+或OH-结合生成弱电解质，破坏了水的电离平衡",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "影响盐类水解的因素",
+                "content": "盐的性质、温度、浓度等会影响盐类水解的程度",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "盐类水解的应用",
+                "content": "如用Na2CO3溶液清洗油污时加热增强去污效果，配制FeCl3溶液时加入盐酸抑制水解等",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "沉淀溶解平衡",
+            "content": "难溶电解质在水中存在沉淀和溶解的动态平衡",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "沉淀溶解平衡的概念",
+                "content": "在一定温度下，当沉淀和溶解的速率相等时，达到动态平衡",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "溶度积常数",
+                "content": "难溶电解质的沉淀溶解平衡的平衡常数，如AgCl的Ksp=c(Ag+)·c(Cl-)",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "沉淀溶解平衡的应用",
+                "content": "包括沉淀的生成、溶解和转化，如用沉淀法除去废水中的重金属离子",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "化学反应与电能",
+        "content": "研究化学能与电能的相互转化，包括原电池和电解池",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "原电池",
+            "content": "将化学能直接转化为电能的装置",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "原电池的工作原理",
+                "content": "通过自发的氧化还原反应产生电流",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "原电池的组成",
+                    "content": "包括电极、电解质溶液和盐桥（或隔膜）",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "电极反应",
+                    "content": "负极发生氧化反应，正极发生还原反应",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "化学电源",
+                "content": "实际应用的原电池，包括一次电池、二次电池和燃料电池",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "一次电池",
+                    "content": "放电后不可再充电的电池，如碱性锌锰电池",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "二次电池",
+                    "content": "可充电电池，如铅酸蓄电池、锂离子电池",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "燃料电池",
+                    "content": "连续地将燃料和氧化剂的化学能直接转化为电能的化学电源，如氢氧燃料电池",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "电解池",
+            "content": "将电能直接转化为化学能的装置",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "电解原理",
+                "content": "电流通过电解质溶液（或熔融电解质）而在阳极、阴极引起氧化还原反应",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "电解池的组成",
+                    "content": "包括电源、电极和电解质",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "电极反应",
+                    "content": "阳极发生氧化反应，阴极发生还原反应",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "电解原理的应用",
+                "content": "包括电解饱和食盐水、电镀、电冶金等",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "氯碱工业",
+                    "content": "电解饱和食盐水生产氯气、氢气和烧碱",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "电镀",
+                    "content": "利用电解原理在某些金属表面镀上一薄层其他金属或合金",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "电冶金",
+                    "content": "用电解法冶炼活泼金属，如电解熔融氯化钠制取钠",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "金属的腐蚀与防护",
+            "content": "研究金属腐蚀的原因和防护方法",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "金属的腐蚀",
+                "content": "金属或合金与周围的气体或液体发生氧化还原反应而引起损耗的现象",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "化学腐蚀",
+                    "content": "金属与其表面接触的一些物质直接反应而引起的腐蚀",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "电化学腐蚀",
+                    "content": "不纯的金属与电解质溶液接触时发生原电池反应，较活泼的金属被腐蚀",
+                    "difficulty": "4",
+                    "children": [
+                      {
+                        "title": "析氢腐蚀",
+                        "content": "在酸性环境中，腐蚀过程中有H2放出",
+                        "difficulty": "4",
+                        "children": []
+                      },
+                      {
+                        "title": "吸氧腐蚀",
+                        "content": "在中性或弱酸性环境中，腐蚀过程中消耗氧气",
+                        "difficulty": "4",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "金属的防护",
+                "content": "防止金属腐蚀的方法",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "改变金属材料的组成",
+                    "content": "如制成不锈钢",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "在金属表面覆盖保护层",
+                    "content": "如喷涂油漆、电镀等",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "电化学保护法",
+                    "content": "包括牺牲阳极法和外加电流法",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "反应热",
+      "tail": "焓变",
+      "relation": "等于"
+    },
+    {
+      "head": "热化学方程式",
+      "tail": "反应热",
+      "relation": "表示"
+    },
+    {
+      "head": "燃烧热",
+      "tail": "反应热",
+      "relation": "是一种"
+    },
+    {
+      "head": "盖斯定律",
+      "tail": "反应热",
+      "relation": "用于计算"
+    },
+    {
+      "head": "化学反应速率",
+      "tail": "浓度",
+      "relation": "受影响因素"
+    },
+    {
+      "head": "化学反应速率",
+      "tail": "温度",
+      "relation": "受影响因素"
+    },
+    {
+      "head": "化学反应速率",
+      "tail": "催化剂",
+      "relation": "受影响因素"
+    },
+    {
+      "head": "活化能",
+      "tail": "化学反应速率",
+      "relation": "影响"
+    },
+    {
+      "head": "有效碰撞",
+      "tail": "化学反应速率",
+      "relation": "决定"
+    },
+    {
+      "head": "化学平衡",
+      "tail": "化学反应速率",
+      "relation": "当正逆反应相等时达到"
+    },
+    {
+      "head": "化学平衡常数",
+      "tail": "化学平衡",
+      "relation": "表征"
+    },
+    {
+      "head": "勒夏特列原理",
+      "tail": "化学平衡",
+      "relation": "描述移动方向"
+    },
+    {
+      "head": "自由能变化",
+      "tail": "化学反应的方向",
+      "relation": "决定"
+    },
+    {
+      "head": "强电解质",
+      "tail": "弱电解质",
+      "relation": "区别于"
+    },
+    {
+      "head": "电离平衡",
+      "tail": "弱电解质",
+      "relation": "存在于"
+    },
+    {
+      "head": "电离平衡常数",
+      "tail": "电离平衡",
+      "relation": "表征"
+    },
+    {
+      "head": "水的电离",
+      "tail": "水的离子积常数",
+      "relation": "产生"
+    },
+    {
+      "head": "溶液的pH",
+      "tail": "水的电离",
+      "relation": "基于"
+    },
+    {
+      "head": "酸碱中和滴定",
+      "tail": "溶液的pH",
+      "relation": "利用变化"
+    },
+    {
+      "head": "盐类的水解",
+      "tail": "盐溶液的酸碱性",
+      "relation": "导致"
+    },
+    {
+      "head": "沉淀溶解平衡",
+      "tail": "溶度积常数",
+      "relation": "表征"
+    },
+    {
+      "head": "原电池",
+      "tail": "化学电源",
+      "relation": "原理应用于"
+    },
+    {
+      "head": "电解池",
+      "tail": "原电池",
+      "relation": "区别于"
+    },
+    {
+      "head": "金属的腐蚀",
+      "tail": "电化学腐蚀",
+      "relation": "主要包括"
+    },
+    {
+      "head": "金属的防护",
+      "tail": "金属的腐蚀",
+      "relation": "用于防止"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 16:58:32",
+    "version": "1.1"
+  }
+}

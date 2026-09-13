@@ -1,0 +1,488 @@
+{
+  "knowledge_tree": {
+    "title": "电路分析基础",
+    "content": "电气类专业的核心基础课程，研究电路的基本规律、分析方法和定理",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "电路的基本概念",
+        "content": "电路组成、基本物理量、参考方向",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "电路组成",
+            "content": "由电源、负载、中间环节构成的电流通路",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "电源",
+                "content": "提供电能的装置，如电池、发电机",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "负载",
+                "content": "消耗电能的装置，如电阻、电机",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "中间环节",
+                "content": "连接电源和负载的导线、开关等",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "基本物理量",
+            "content": "电流、电压、功率等电路基本量",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "电流",
+                "content": "电荷定向移动形成的物理量，单位安培(A)",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "电压",
+                "content": "电场力做功能力的量度，单位伏特(V)",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "功率",
+                "content": "单位时间内消耗或产生的能量，单位瓦特(W)",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "参考方向",
+            "content": "电路分析中人为规定的正方向",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "关联参考方向",
+                "content": "电流从电压正极流入的参考方向设定",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "非关联参考方向",
+                "content": "电流从电压负极流入的参考方向设定",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "电路元件",
+        "content": "构成电路的基本元件特性",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "电阻元件",
+            "content": "消耗电能的二端元件",
+            "difficulty": "1",
+            "children": [
+              {
+                "title": "欧姆定律",
+                "content": "U=IR，描述电压电流关系",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "电阻的串并联",
+                "content": "电阻连接的基本方式",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电容元件",
+            "content": "储存电场能量的二端元件",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电容定义",
+                "content": "C=Q/U，单位法拉(F)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电容的VCR",
+                "content": "i=C·du/dt",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "电感元件",
+            "content": "储存磁场能量的二端元件",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "电感定义",
+                "content": "L=Ψ/i，单位亨利(H)",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "电感的VCR",
+                "content": "u=L·di/dt",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "电路基本定律",
+        "content": "电路分析的基本规律",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "基尔霍夫定律",
+            "content": "电路分析的基本定律",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "KCL",
+                "content": "基尔霍夫电流定律：任一节点电流代数和为零",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "KVL",
+                "content": "基尔霍夫电压定律：任一回路电压代数和为零",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "叠加定理",
+            "content": "线性电路中多个电源作用的响应等于各电源单独作用响应的代数和",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "戴维南定理",
+            "content": "任一线性有源二端网络可用电压源和电阻串联等效",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "诺顿定理",
+            "content": "任一线性有源二端网络可用电流源和电阻并联等效",
+            "difficulty": "4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "正弦交流电路",
+        "content": "正弦激励下的电路分析",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "正弦量三要素",
+            "content": "幅值、角频率、初相位",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "相量法",
+            "content": "用复数表示正弦量的分析方法",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "相量表示",
+                "content": "用复数模表示幅值，辐角表示初相",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "相量运算",
+                "content": "相量的加减乘除运算规则",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "阻抗与导纳",
+            "content": "交流电路中元件特性的复数表示",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "阻抗定义",
+                "content": "Z=U/I，复数形式表示",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "导纳定义",
+                "content": "Y=1/Z，阻抗的倒数",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "典型电路分析",
+        "content": "常见电路的分析方法",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "节点电压法",
+            "content": "以节点电压为未知量的分析方法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "网孔电流法",
+            "content": "以网孔电流为未知量的分析方法",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "一阶电路分析",
+            "content": "含一个储能元件的动态电路分析",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "RC电路暂态分析",
+                "content": "电阻电容电路的过渡过程分析",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "RL电路暂态分析",
+                "content": "电阻电感电路的过渡过程分析",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "电路分析基础",
+      "tail": "电路的基本概念",
+      "relation": "包含"
+    },
+    {
+      "head": "电路分析基础",
+      "tail": "电路元件",
+      "relation": "包含"
+    },
+    {
+      "head": "电路分析基础",
+      "tail": "电路基本定律",
+      "relation": "包含"
+    },
+    {
+      "head": "电路分析基础",
+      "tail": "正弦交流电路",
+      "relation": "包含"
+    },
+    {
+      "head": "电路分析基础",
+      "tail": "典型电路分析",
+      "relation": "包含"
+    },
+    {
+      "head": "电路的基本概念",
+      "tail": "电路组成",
+      "relation": "包含"
+    },
+    {
+      "head": "电路的基本概念",
+      "tail": "基本物理量",
+      "relation": "包含"
+    },
+    {
+      "head": "电路的基本概念",
+      "tail": "参考方向",
+      "relation": "包含"
+    },
+    {
+      "head": "电路组成",
+      "tail": "电源",
+      "relation": "由...组成"
+    },
+    {
+      "head": "电路组成",
+      "tail": "负载",
+      "relation": "由...组成"
+    },
+    {
+      "head": "电路组成",
+      "tail": "中间环节",
+      "relation": "由...组成"
+    },
+    {
+      "head": "基本物理量",
+      "tail": "电流",
+      "relation": "包含"
+    },
+    {
+      "head": "基本物理量",
+      "tail": "电压",
+      "relation": "包含"
+    },
+    {
+      "head": "基本物理量",
+      "tail": "功率",
+      "relation": "包含"
+    },
+    {
+      "head": "电路元件",
+      "tail": "电阻元件",
+      "relation": "包含"
+    },
+    {
+      "head": "电路元件",
+      "tail": "电容元件",
+      "relation": "包含"
+    },
+    {
+      "head": "电路元件",
+      "tail": "电感元件",
+      "relation": "包含"
+    },
+    {
+      "head": "电阻元件",
+      "tail": "欧姆定律",
+      "relation": "遵循"
+    },
+    {
+      "head": "电容元件",
+      "tail": "电容的VCR",
+      "relation": "遵循"
+    },
+    {
+      "head": "电感元件",
+      "tail": "电感的VCR",
+      "relation": "遵循"
+    },
+    {
+      "head": "电路基本定律",
+      "tail": "基尔霍夫定律",
+      "relation": "包含"
+    },
+    {
+      "head": "电路基本定律",
+      "tail": "叠加定理",
+      "relation": "包含"
+    },
+    {
+      "head": "电路基本定律",
+      "tail": "戴维南定理",
+      "relation": "包含"
+    },
+    {
+      "head": "电路基本定律",
+      "tail": "诺顿定理",
+      "relation": "包含"
+    },
+    {
+      "head": "基尔霍夫定律",
+      "tail": "KCL",
+      "relation": "包含"
+    },
+    {
+      "head": "基尔霍夫定律",
+      "tail": "KVL",
+      "relation": "包含"
+    },
+    {
+      "head": "正弦交流电路",
+      "tail": "相量法",
+      "relation": "基于"
+    },
+    {
+      "head": "正弦交流电路",
+      "tail": "阻抗与导纳",
+      "relation": "基于"
+    },
+    {
+      "head": "相量法",
+      "tail": "正弦量三要素",
+      "relation": "用于表示"
+    },
+    {
+      "head": "典型电路分析",
+      "tail": "节点电压法",
+      "relation": "包含"
+    },
+    {
+      "head": "典型电路分析",
+      "tail": "网孔电流法",
+      "relation": "包含"
+    },
+    {
+      "head": "典型电路分析",
+      "tail": "一阶电路分析",
+      "relation": "包含"
+    },
+    {
+      "head": "一阶电路分析",
+      "tail": "RC电路暂态分析",
+      "relation": "包含"
+    },
+    {
+      "head": "一阶电路分析",
+      "tail": "RL电路暂态分析",
+      "relation": "包含"
+    },
+    {
+      "head": "欧姆定律",
+      "tail": "电阻的串并联",
+      "relation": "应用于"
+    },
+    {
+      "head": "KCL",
+      "tail": "节点电压法",
+      "relation": "基于"
+    },
+    {
+      "head": "KVL",
+      "tail": "网孔电流法",
+      "relation": "基于"
+    },
+    {
+      "head": "戴维南定理",
+      "tail": "诺顿定理",
+      "relation": "等效于"
+    },
+    {
+      "head": "阻抗",
+      "tail": "导纳",
+      "relation": "互为倒数"
+    },
+    {
+      "head": "电容元件",
+      "tail": "电感元件",
+      "relation": "对偶于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:43:10",
+    "version": "1.1"
+  }
+}

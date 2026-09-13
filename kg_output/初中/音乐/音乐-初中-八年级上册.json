@@ -1,0 +1,386 @@
+{
+  "knowledge_tree": {
+    "title": "八年级上册音乐",
+    "content": "旋律、和声、复调与配器的核心知识与技能体系",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "旋律的奥秘",
+        "content": "旋律表现与结构规律",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "旋律表现的联觉对应",
+            "content": "旋律形态与情感/形象的对应关系",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "下行旋律表现悲伤",
+                "content": "下行为主，弱拍低音表现悲伤消极",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "上行旋律表现积极",
+                "content": "上行为主，强拍高音表现积极进取",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "音乐表现要素",
+                "content": "速度、力度、节拍、节奏、旋律进行方式",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "旋律结构规律",
+            "content": "四度框架与基础旋律模块",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "纯四度框架",
+                "content": "纯四度音程构建旋律基础框架",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "四种基础旋律模块",
+                "content": "四度音域上下支撑/五度音域上下扩展",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "骨干音识别",
+                "content": "强拍点音、头尾音、高低音、拐点音、长音、主音",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "旋律创作手法",
+            "content": "让旋律更具表现力的方法",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "音程期待感运用",
+                "content": "纯五八度大跳、大小六七度大跳的运用",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "特殊音程运用",
+                "content": "小二度表现紧张、增四减五度表现不稳定",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "乐句结构手法",
+                "content": "同头换尾、换头合尾、鱼咬尾",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "和声的力量",
+        "content": "和弦构成与和声应用",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "和弦构成",
+            "content": "原位和弦的构成方法",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "三和弦构成",
+                "content": "根音、三音、五音的三度叠置",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "七和弦构成",
+                "content": "根音、三音、五音、七音的四音叠置",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "和弦变体",
+            "content": "和弦的变化形式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "转位和弦",
+                "content": "和弦音顺序变化产生的变体",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "分解和弦",
+                "content": "和弦音先后发声的表现形式",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "排列方式",
+                "content": "密集排列与开放排列的不同效果",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "和声应用",
+            "content": "旋律中的和声配置",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "和弦外音类型",
+                "content": "经过音、辅助音、延留音、倚音、先现音",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "正三和弦配置",
+                "content": "Ⅰ、Ⅳ、Ⅴ级和弦的运用规律",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "中国风格和声",
+                "content": "四度叠置等民族化和声手法",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "复调的智慧",
+        "content": "多声部复调音乐形态",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "复调类型",
+            "content": "不同形式的复调音乐",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "模仿复调",
+                "content": "相同旋律在不同声部依次出现",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "对比复调",
+                "content": "独立旋律有机结合形成的复调",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "支声复调",
+                "content": "旋律变奏分支形成的复调",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "复调创作手法",
+            "content": "复调音乐的发展技巧",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "卡农手法",
+                "content": "严格模仿的复调形式",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "变化发展手法",
+                "content": "逆行、倒影、倒影逆行的运用",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "配器的色彩",
+        "content": "乐器音色与配器艺术",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "乐器分类",
+            "content": "乐器音色分类体系",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "管鸣乐器",
+                "content": "号嘴类、吹孔类、哨片类、簧片类",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "弦鸣乐器",
+                "content": "拉弦类、拨弦类、击弦类",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "体鸣乐器",
+                "content": "打击类体鸣乐器",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "音色表现维度",
+            "content": "音色表现的三个维度",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "绵延性",
+                "content": "颗粒感到绵延感的连续体",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "紧张度",
+                "content": "粗糙感到圆润感的连续体",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "光亮度",
+                "content": "暗哑感到光亮感的连续体",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "配器考虑因素",
+            "content": "配器时需要综合考虑的因素",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "音域因素",
+                "content": "乐器音高限度对表现的影响",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "音量平衡",
+                "content": "不同乐器音量的平衡处理",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "融合与对比",
+                "content": "音色融合性与对比性的把握",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "旋律表现",
+      "tail": "联觉对应",
+      "relation": "基于"
+    },
+    {
+      "head": "纯四度框架",
+      "tail": "基础旋律模块",
+      "relation": "构成"
+    },
+    {
+      "head": "骨干音",
+      "tail": "旋律结构",
+      "relation": "决定"
+    },
+    {
+      "head": "音程期待感",
+      "tail": "旋律创作",
+      "relation": "影响"
+    },
+    {
+      "head": "三和弦",
+      "tail": "七和弦",
+      "relation": "扩展形成"
+    },
+    {
+      "head": "转位和弦",
+      "tail": "原位和弦",
+      "relation": "变体形式"
+    },
+    {
+      "head": "和弦外音",
+      "tail": "旋律流畅性",
+      "relation": "增强"
+    },
+    {
+      "head": "正三和弦",
+      "tail": "和声配置",
+      "relation": "基础"
+    },
+    {
+      "head": "模仿复调",
+      "tail": "卡农手法",
+      "relation": "运用"
+    },
+    {
+      "head": "变化发展手法",
+      "tail": "复调创作",
+      "relation": "丰富"
+    },
+    {
+      "head": "乐器分类",
+      "tail": "音色特点",
+      "relation": "决定"
+    },
+    {
+      "head": "音色表现维度",
+      "tail": "配器选择",
+      "relation": "指导"
+    },
+    {
+      "head": "音域因素",
+      "tail": "乐器选择",
+      "relation": "限制"
+    },
+    {
+      "head": "旋律",
+      "tail": "和声",
+      "relation": "配合"
+    },
+    {
+      "head": "和声",
+      "tail": "配器",
+      "relation": "通过音色表现"
+    },
+    {
+      "head": "复调",
+      "tail": "多声部编织",
+      "relation": "体现"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:44:43",
+    "version": "1.1"
+  }
+}

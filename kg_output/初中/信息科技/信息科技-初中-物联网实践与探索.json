@@ -1,0 +1,425 @@
+{
+  "knowledge_tree": {
+    "title": "物联网实践与探索",
+    "content": "初中信息科技物联网模块，涵盖物联网基本原理、协议、系统搭建、应用及安全",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "物联网概述",
+        "content": "物联网的基本含义是万物互联，延伸互联网的人与物、物与物互联",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "物联网定义",
+            "content": "物联网（Internet of Things）指将物品通过互联网连接起来，实现万物互联",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "物联网与互联网关系",
+            "content": "物联网核心基础是互联网，从计算机互联、人人互联发展到万物互联",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "我国物联网发展",
+            "content": "1999年中科院开始传感网研究，2009年提出感知中国，2023年蜂窝物联网终端用户达23.32亿户",
+            "difficulty": "1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "传感器技术",
+        "content": "传感器是物联网的感觉器官，用于感知和采集环境数据",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "传感器定义",
+            "content": "将感应到的数据按规律转换成可用信号的器件或装置",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "传感器工作原理",
+            "content": "通过敏感元件感知环境数据，转换元件转换成电信号输出",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "传感器类型",
+            "content": "温度传感器、湿度传感器、光敏传感器、声音传感器等",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "传感器发展趋势",
+            "content": "体积更小、功能更强、价格更低、检测更准确、使用更灵活、更节能",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "物联网协议",
+        "content": "物联设备通信的规则和标准，实现数据交换和资源共享",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "RFID协议",
+            "content": "射频识别技术，通过电子标签和读卡器实现非接触识别",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "RFID工作原理",
+                "content": "读卡器发射射频信号，电子标签接收能量后发送存储数据",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "RFID应用",
+                "content": "门禁系统、物流跟踪、动物标识等",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "蓝牙协议",
+            "content": "短距离无线通信技术，实现设备间数据传输",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "蓝牙工作原理",
+                "content": "设备通过蓝牙芯片寻找并配对后通信",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "低功耗蓝牙",
+                "content": "蓝牙4.0以上版本，功耗更低，适合物联网设备",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "HTTP协议",
+            "content": "超文本传输协议，用于从互联网获取数据",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "API接口",
+                "content": "应用程序接口，提供数据访问的软件函数集合",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "HTTP局限性",
+                "content": "需要设备主动请求，消耗资源大，不适合实时物联网应用",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "MQTT协议",
+            "content": "消息队列遥测传输，轻量级发布订阅消息协议",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "发布订阅机制",
+                "content": "发布者向主题发布消息，订阅者接收订阅主题的消息",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "MQTT优势",
+                "content": "开放、轻量、可靠、易实现，适合远程设备数据传输",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "物联系统结构",
+        "content": "物联网系统分为感知层、网络层和应用层三层结构",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "感知层",
+            "content": "物联网基础，负责采集物理环境数据",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "感知层功能",
+                "content": "通过传感器采集环境数据，并进行简单处理",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "感知层设备",
+                "content": "各种传感器、RFID标签、摄像头等",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "网络层",
+            "content": "负责数据传输，实现设备间互联互通",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "网络层功能",
+                "content": "将感知层数据安全可靠传输到应用层",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "传输方式",
+                "content": "有线传输（网线、光纤）和无线传输（Wi-Fi、蓝牙、NB-IoT等）",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "应用层",
+            "content": "对数据进行处理分析，实现具体应用功能",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "应用层功能",
+                "content": "数据计算、处理、分析挖掘，实现实时控制和精确管理",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "应用层实现",
+                "content": "通过云计算平台进行信息处理和应用",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "物联网安全",
+        "content": "物联网硬件、软件及数据保护，防止破坏、更改、泄露",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "安全风险",
+            "content": "物理攻击、漏洞攻击、拒绝服务攻击、隐私泄露",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "感知层风险",
+                "content": "欺骗传感器、篡改传感器数据、窃取RFID数据",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "网络层风险",
+                "content": "数据劫持、丢失、篡改、非法访问",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "应用层风险",
+                "content": "人为因素、系统漏洞、恶意攻击、数据存储风险",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "安全策略",
+            "content": "技术和管理措施保障物联网全流程安全可靠",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "感知层策略",
+                "content": "加强物理安全、多传感器融合、加强身份认证、提高防欺骗能力",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "网络层策略",
+                "content": "网络隔离、数据传输加密",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "应用层策略",
+                "content": "强化数据安全、改进优化算法、提升使用安全",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "自主可控",
+            "content": "自主研发关键技术，减少外部依赖，保障国家安全",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "自主可控内涵",
+                "content": "自主技术、安全可控、国产化供应链",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "外部依赖风险",
+                "content": "高端芯片和处理器、相关软件系统、协议标准与知识产权",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "物联网应用",
+        "content": "物联网在文物保护、健康医疗、农业生产、教育等领域的应用",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "文物保护应用",
+            "content": "实时监测温湿度、光照等环境因素，预防文物损坏",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "健康医疗应用",
+            "content": "物联床垫监测生命体征，物联药柜智能管理药品",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "农业生产应用",
+            "content": "智能灌溉、精准养殖、农产品溯源",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "教育应用",
+            "content": "虚拟实验、个性化学习、学习数据采集分析",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "物联网",
+      "tail": "互联网",
+      "relation": "基于"
+    },
+    {
+      "head": "传感器",
+      "tail": "物联网",
+      "relation": "组成"
+    },
+    {
+      "head": "RFID",
+      "tail": "传感器",
+      "relation": "是一种"
+    },
+    {
+      "head": "蓝牙",
+      "tail": "近距离通信",
+      "relation": "属于"
+    },
+    {
+      "head": "HTTP",
+      "tail": "互联网协议",
+      "relation": "属于"
+    },
+    {
+      "head": "MQTT",
+      "tail": "物联网协议",
+      "relation": "属于"
+    },
+    {
+      "head": "感知层",
+      "tail": "传感器",
+      "relation": "包含"
+    },
+    {
+      "head": "网络层",
+      "tail": "数据传输",
+      "relation": "负责"
+    },
+    {
+      "head": "应用层",
+      "tail": "数据处理",
+      "relation": "负责"
+    },
+    {
+      "head": "物联网安全",
+      "tail": "感知层安全",
+      "relation": "包含"
+    },
+    {
+      "head": "物联网安全",
+      "tail": "网络层安全",
+      "relation": "包含"
+    },
+    {
+      "head": "物联网安全",
+      "tail": "应用层安全",
+      "relation": "包含"
+    },
+    {
+      "head": "自主可控",
+      "tail": "物联网安全",
+      "relation": "增强"
+    },
+    {
+      "head": "物联网应用",
+      "tail": "文物保护",
+      "relation": "应用于"
+    },
+    {
+      "head": "物联网应用",
+      "tail": "健康医疗",
+      "relation": "应用于"
+    },
+    {
+      "head": "物联网应用",
+      "tail": "农业生产",
+      "relation": "应用于"
+    },
+    {
+      "head": "物联网应用",
+      "tail": "教育",
+      "relation": "应用于"
+    },
+    {
+      "head": "MQTT",
+      "tail": "发布订阅机制",
+      "relation": "采用"
+    },
+    {
+      "head": "API接口",
+      "tail": "HTTP协议",
+      "relation": "基于"
+    },
+    {
+      "head": "低功耗蓝牙",
+      "tail": "物联网设备",
+      "relation": "适用于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:56:42",
+    "version": "1.1"
+  }
+}

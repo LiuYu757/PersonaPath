@@ -1,0 +1,200 @@
+{
+  "knowledge_tree": {
+    "title": "计算机网络",
+    "content": "计算机网络是互连的、自治的计算机系统的集合，用于实现资源共享和信息传输。",
+    "difficulty": "1",
+    "children": [
+      {
+        "title": "网络体系结构",
+        "content": "计算机网络的分层模型和协议集合，如OSI参考模型和TCP/IP模型。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "OSI参考模型",
+            "content": "开放系统互连参考模型，分为七层：物理层、数据链路层、网络层、传输层、会话层、表示层、应用层。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "物理层",
+                "content": "负责在物理介质上传输原始比特流，定义电气、机械和时序接口。",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "数据链路层",
+                "content": "提供节点到节点的数据传输，处理帧同步、差错控制和流量控制。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "网络层",
+                "content": "负责数据包的路由和转发，实现寻址和拥塞控制。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "TCP/IP模型",
+            "content": "实际应用的网络模型，分为四层：网络接口层、网际层、传输层、应用层。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "传输层",
+                "content": "提供端到端的通信服务，主要协议有TCP和UDP。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "应用层",
+                "content": "支持网络应用程序，如HTTP、FTP、SMTP等。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "网络协议",
+        "content": "计算机网络中通信实体之间交换信息的规则和标准。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "TCP协议",
+            "content": "传输控制协议，提供可靠的、面向连接的字节流服务。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "三次握手",
+                "content": "TCP连接建立过程，包括SYN、SYN-ACK、ACK报文交换。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "流量控制",
+                "content": "通过滑动窗口机制调整发送速率，避免接收方缓冲区溢出。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "IP协议",
+            "content": "网际协议，负责无连接的数据报传输和路由选择。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "IP地址",
+                "content": "用于标识网络中的设备，分为IPv4和IPv6。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "子网划分",
+                "content": "将IP网络分割成更小的子网，提高地址利用率和管理效率。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "典型例题类型",
+        "content": "计算机网络中常见的习题和问题类型。",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "子网划分计算",
+            "content": "给定IP地址和子网掩码，计算子网地址、广播地址和可用主机范围。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "TCP拥塞控制",
+            "content": "分析TCP的慢启动、拥塞避免、快速重传和快速恢复机制。",
+            "difficulty": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "OSI参考模型",
+      "tail": "物理层",
+      "relation": "包含"
+    },
+    {
+      "head": "OSI参考模型",
+      "tail": "数据链路层",
+      "relation": "包含"
+    },
+    {
+      "head": "OSI参考模型",
+      "tail": "网络层",
+      "relation": "包含"
+    },
+    {
+      "head": "TCP/IP模型",
+      "tail": "传输层",
+      "relation": "包含"
+    },
+    {
+      "head": "TCP/IP模型",
+      "tail": "应用层",
+      "relation": "包含"
+    },
+    {
+      "head": "传输层",
+      "tail": "TCP协议",
+      "relation": "包含"
+    },
+    {
+      "head": "TCP协议",
+      "tail": "三次握手",
+      "relation": "基于"
+    },
+    {
+      "head": "TCP协议",
+      "tail": "流量控制",
+      "relation": "应用"
+    },
+    {
+      "head": "IP协议",
+      "tail": "IP地址",
+      "relation": "定义"
+    },
+    {
+      "head": "IP协议",
+      "tail": "子网划分",
+      "relation": "支持"
+    },
+    {
+      "head": "子网划分",
+      "tail": "子网划分计算",
+      "relation": "应用于"
+    },
+    {
+      "head": "TCP协议",
+      "tail": "TCP拥塞控制",
+      "relation": "包含"
+    },
+    {
+      "head": "网络层",
+      "tail": "IP协议",
+      "relation": "对应"
+    },
+    {
+      "head": "数据链路层",
+      "tail": "网络层",
+      "relation": "服务于"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 17:59:34",
+    "version": "1.1"
+  }
+}

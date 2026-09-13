@@ -1,0 +1,741 @@
+{
+  "knowledge_tree": {
+    "title": "外国教育史",
+    "content": "研究世界各国教育理论与实践发展演变的历史过程及其规律",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "古代教育",
+        "content": "原始社会末期至公元5世纪西罗马帝国灭亡时期的教育发展",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "东方文明古国教育",
+            "content": "古代埃及、巴比伦、印度和中国的教育实践与制度",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "古代埃及教育",
+                "content": "注重培养文士、祭司等专业人才，学校类型多样",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "文士学校",
+                    "content": "培养书写、计算能力的世俗教育机构",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "祭司学校",
+                    "content": "培养宗教神职人员的教育机构",
+                    "difficulty": "2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "古代印度教育",
+                "content": "以宗教教育为核心，种姓制度影响教育机会",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "婆罗门教育",
+                    "content": "以《吠陀》经典为核心的高等种姓教育",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "佛教教育",
+                    "content": "强调众生平等、广设寺院学校的教育体系",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "古希腊教育",
+            "content": "西方教育的重要源头，形成了不同的教育模式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "斯巴达教育",
+                "content": "以军事体育为核心的国家主义教育体系",
+                "difficulty": "2",
+                "children": [
+                  {
+                    "title": "军事化训练",
+                    "content": "7-18岁接受严格的军事体育训练",
+                    "difficulty": "2",
+                    "children": []
+                  },
+                  {
+                    "title": "国家教育制度",
+                    "content": "教育完全由国家控制，注重集体主义",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "雅典教育",
+                "content": "注重身心和谐发展的全面教育理念",
+                "difficulty": "3",
+                "children": [
+                  {
+                    "title": "和谐教育理念",
+                    "content": "追求身体美与心灵美的和谐统一",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "七艺教育",
+                    "content": "文法、修辞、逻辑、算术、几何、天文、音乐",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "古希腊三哲教育思想",
+                "content": "苏格拉底、柏拉图、亚里士多德的教育理论",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "苏格拉底产婆术",
+                    "content": "通过问答启发学生思考的教学方法",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "柏拉图《理想国》",
+                    "content": "提出等级教育制度和哲学王培养理念",
+                    "difficulty": "4",
+                    "children": []
+                  },
+                  {
+                    "title": "亚里士多德自然教育",
+                    "content": "强调教育要遵循自然规律，注重全面发展",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "古罗马教育",
+            "content": "继承希腊教育传统，注重实用主义教育",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "共和时期教育",
+                "content": "以家庭教育为主，注重道德和实用技能",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "帝国时期教育",
+                "content": "建立系统的学校教育制度，国家控制教育",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "昆体良教育思想",
+                "content": "《雄辩术原理》系统论述教育理论",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "班级授课制雏形",
+                    "content": "提出分班教学的思想",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "教师素质要求",
+                    "content": "强调教师应德才兼备，关爱学生",
+                    "difficulty": "3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "中世纪教育",
+        "content": "公元5世纪至14世纪文艺复兴前的教育发展",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "基督教教育",
+            "content": "以修道院学校为主体的宗教教育体系",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "修道院学校",
+                "content": "培养修士和神职人员的教育机构",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "教区学校",
+                "content": "面向普通信徒的初级宗教教育",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "主教学校",
+                "content": "设在主教驻地的较高级宗教学校",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "骑士教育",
+            "content": "封建贵族子弟的世俗教育形式",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "家庭教育阶段",
+                "content": "7岁前在家庭中接受宗教和道德教育",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "礼文教育阶段",
+                "content": "7-14岁在贵族府邸学习礼仪和骑士技艺",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "侍从教育阶段",
+                "content": "14-21岁跟随领主实践骑士职责",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "大学兴起",
+            "content": "12世纪开始出现的近代大学雏形",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "博洛尼亚大学",
+                "content": "以学生管理为特色的最早大学",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "巴黎大学",
+                "content": "以教师行会为管理模式的典型",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "大学特权",
+                "content": "自治权、罢课权、迁徙权等特殊权利",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "经院哲学教育",
+            "content": "理性与信仰结合的神学教育体系",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "托马斯·阿奎那",
+                "content": "调和理性与信仰的经院哲学代表",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "辩证法教学",
+                "content": "通过辩论训练思维的教学方法",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "文艺复兴与宗教改革时期教育",
+        "content": "14-17世纪人文主义教育和新教教育的发展",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "人文主义教育",
+            "content": "以人的发展和古典文化复兴为核心的教育理念",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "维多里诺快乐之家",
+                "content": "最早实施人文主义教育的学校典范",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "伊拉斯谟教育思想",
+                "content": "强调古典语言学习和基督教人文主义",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "拉伯雷《巨人传》",
+                "content": "批判经院教育，倡导新式教育理念",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "宗教改革教育",
+            "content": "新教各派推动的普及教育运动",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "马丁·路德教育主张",
+                "content": "强调国家办教育和义务教育的重要性",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "加尔文派教育",
+                "content": "建立系统的初等和中等教育体系",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "耶稣会学校",
+                "content": "天主教反宗教改革的教育武器",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "分级教学制度",
+                    "content": "系统的班级组织和课程安排",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "教师培训体系",
+                    "content": "严格的教师选拔和培训制度",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "近现代教育发展",
+        "content": "17世纪至今教育理论和实践的现代化进程",
+        "difficulty": "4",
+        "children": [
+          {
+            "title": "教育理论奠基",
+            "content": "夸美纽斯、洛克、卢梭等教育家的理论贡献",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "夸美纽斯《大教学论》",
+                "content": "近代教育学的奠基之作",
+                "difficulty": "4",
+                "children": [
+                  {
+                    "title": "班级授课制理论",
+                    "content": "系统论述班级教学的组织形式",
+                    "difficulty": "3",
+                    "children": []
+                  },
+                  {
+                    "title": "泛智教育思想",
+                    "content": "把一切知识教给一切人",
+                    "difficulty": "4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "洛克绅士教育",
+                "content": "注重实用知识和品德培养的贵族教育",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "卢梭自然教育",
+                "content": "《爱弥儿》提出遵循儿童天性的教育",
+                "difficulty": "5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "国民教育体系建立",
+            "content": "各国建立现代公共教育制度的进程",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "普鲁士义务教育",
+                "content": "最早实施强制义务教育的国家",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "美国公立学校运动",
+                "content": "建立免费的公共教育体系",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "日本近代学制",
+                "content": "明治维新后建立西式教育体系",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "外国教育史",
+      "tail": "古代教育",
+      "relation": "包含"
+    },
+    {
+      "head": "外国教育史",
+      "tail": "中世纪教育",
+      "relation": "包含"
+    },
+    {
+      "head": "外国教育史",
+      "tail": "近现代教育发展",
+      "relation": "包含"
+    },
+    {
+      "head": "古代教育",
+      "tail": "东方文明古国教育",
+      "relation": "包含"
+    },
+    {
+      "head": "古代教育",
+      "tail": "古希腊教育",
+      "relation": "包含"
+    },
+    {
+      "head": "古代教育",
+      "tail": "古罗马教育",
+      "relation": "包含"
+    },
+    {
+      "head": "东方文明古国教育",
+      "tail": "古代埃及教育",
+      "relation": "包含"
+    },
+    {
+      "head": "东方文明古国教育",
+      "tail": "古代印度教育",
+      "relation": "包含"
+    },
+    {
+      "head": "古希腊教育",
+      "tail": "斯巴达教育",
+      "relation": "包含"
+    },
+    {
+      "head": "古希腊教育",
+      "tail": "雅典教育",
+      "relation": "包含"
+    },
+    {
+      "head": "古希腊教育",
+      "tail": "古希腊三哲教育思想",
+      "relation": "包含"
+    },
+    {
+      "head": "古希腊三哲教育思想",
+      "tail": "苏格拉底产婆术",
+      "relation": "包含"
+    },
+    {
+      "head": "古希腊三哲教育思想",
+      "tail": "柏拉图《理想国》",
+      "relation": "包含"
+    },
+    {
+      "head": "古希腊三哲教育思想",
+      "tail": "亚里士多德自然教育",
+      "relation": "包含"
+    },
+    {
+      "head": "古罗马教育",
+      "tail": "昆体良教育思想",
+      "relation": "包含"
+    },
+    {
+      "head": "中世纪教育",
+      "tail": "基督教教育",
+      "relation": "包含"
+    },
+    {
+      "head": "中世纪教育",
+      "tail": "骑士教育",
+      "relation": "包含"
+    },
+    {
+      "head": "中世纪教育",
+      "tail": "大学兴起",
+      "relation": "包含"
+    },
+    {
+      "head": "中世纪教育",
+      "tail": "经院哲学教育",
+      "relation": "包含"
+    },
+    {
+      "head": "基督教教育",
+      "tail": "修道院学校",
+      "relation": "包含"
+    },
+    {
+      "head": "基督教教育",
+      "tail": "教区学校",
+      "relation": "包含"
+    },
+    {
+      "head": "基督教教育",
+      "tail": "主教学校",
+      "relation": "包含"
+    },
+    {
+      "head": "骑士教育",
+      "tail": "家庭教育阶段",
+      "relation": "包含"
+    },
+    {
+      "head": "骑士教育",
+      "tail": "礼文教育阶段",
+      "relation": "包含"
+    },
+    {
+      "head": "骑士教育",
+      "tail": "侍从教育阶段",
+      "relation": "包含"
+    },
+    {
+      "head": "大学兴起",
+      "tail": "博洛尼亚大学",
+      "relation": "包含"
+    },
+    {
+      "head": "大学兴起",
+      "tail": "巴黎大学",
+      "relation": "包含"
+    },
+    {
+      "head": "大学兴起",
+      "tail": "大学特权",
+      "relation": "包含"
+    },
+    {
+      "head": "文艺复兴与宗教改革时期教育",
+      "tail": "人文主义教育",
+      "relation": "包含"
+    },
+    {
+      "head": "文艺复兴与宗教改革时期教育",
+      "tail": "宗教改革教育",
+      "relation": "包含"
+    },
+    {
+      "head": "人文主义教育",
+      "tail": "维多里诺快乐之家",
+      "relation": "包含"
+    },
+    {
+      "head": "人文主义教育",
+      "tail": "伊拉斯谟教育思想",
+      "relation": "包含"
+    },
+    {
+      "head": "人文主义教育",
+      "tail": "拉伯雷《巨人传》",
+      "relation": "包含"
+    },
+    {
+      "head": "宗教改革教育",
+      "tail": "马丁·路德教育主张",
+      "relation": "包含"
+    },
+    {
+      "head": "宗教改革教育",
+      "tail": "加尔文派教育",
+      "relation": "包含"
+    },
+    {
+      "head": "宗教改革教育",
+      "tail": "耶稣会学校",
+      "relation": "包含"
+    },
+    {
+      "head": "耶稣会学校",
+      "tail": "分级教学制度",
+      "relation": "包含"
+    },
+    {
+      "head": "耶稣会学校",
+      "tail": "教师培训体系",
+      "relation": "包含"
+    },
+    {
+      "head": "近现代教育发展",
+      "tail": "教育理论奠基",
+      "relation": "包含"
+    },
+    {
+      "head": "近现代教育发展",
+      "tail": "国民教育体系建立",
+      "relation": "包含"
+    },
+    {
+      "head": "教育理论奠基",
+      "tail": "夸美纽斯《大教学论》",
+      "relation": "包含"
+    },
+    {
+      "head": "教育理论奠基",
+      "tail": "洛克绅士教育",
+      "relation": "包含"
+    },
+    {
+      "head": "教育理论奠基",
+      "tail": "卢梭自然教育",
+      "relation": "包含"
+    },
+    {
+      "head": "夸美纽斯《大教学论》",
+      "tail": "班级授课制理论",
+      "relation": "包含"
+    },
+    {
+      "head": "夸美纽斯《大教学论》",
+      "tail": "泛智教育思想",
+      "relation": "包含"
+    },
+    {
+      "head": "国民教育体系建立",
+      "tail": "普鲁士义务教育",
+      "relation": "包含"
+    },
+    {
+      "head": "国民教育体系建立",
+      "tail": "美国公立学校运动",
+      "relation": "包含"
+    },
+    {
+      "head": "国民教育体系建立",
+      "tail": "日本近代学制",
+      "relation": "包含"
+    },
+    {
+      "head": "苏格拉底产婆术",
+      "tail": "启发式教学",
+      "relation": "开创"
+    },
+    {
+      "head": "柏拉图《理想国》",
+      "tail": "等级教育制度",
+      "relation": "提出"
+    },
+    {
+      "head": "亚里士多德自然教育",
+      "tail": "教育遵循自然",
+      "relation": "强调"
+    },
+    {
+      "head": "昆体良教育思想",
+      "tail": "班级授课制雏形",
+      "relation": "提出"
+    },
+    {
+      "head": "经院哲学教育",
+      "tail": "托马斯·阿奎那",
+      "relation": "代表"
+    },
+    {
+      "head": "人文主义教育",
+      "tail": "古典文化复兴",
+      "relation": "推动"
+    },
+    {
+      "head": "宗教改革教育",
+      "tail": "普及教育运动",
+      "relation": "推动"
+    },
+    {
+      "head": "夸美纽斯《大教学论》",
+      "tail": "近代教育学",
+      "relation": "奠基"
+    },
+    {
+      "head": "卢梭自然教育",
+      "tail": "儿童中心教育",
+      "relation": "开创"
+    },
+    {
+      "head": "雅典教育",
+      "tail": "和谐教育理念",
+      "relation": "体现"
+    },
+    {
+      "head": "雅典教育",
+      "tail": "七艺教育",
+      "relation": "包含"
+    },
+    {
+      "head": "斯巴达教育",
+      "tail": "军事化训练",
+      "relation": "强调"
+    },
+    {
+      "head": "古代印度教育",
+      "tail": "种姓制度",
+      "relation": "受...影响"
+    },
+    {
+      "head": "大学兴起",
+      "tail": "学术自由",
+      "relation": "促进"
+    },
+    {
+      "head": "文艺复兴",
+      "tail": "人文主义教育",
+      "relation": "催生"
+    },
+    {
+      "head": "宗教改革",
+      "tail": "新教教育",
+      "relation": "推动"
+    },
+    {
+      "head": "近代民族国家",
+      "tail": "国民教育体系",
+      "relation": "需要"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:01:17",
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "knowledge_tree": {
+    "title": "实验心理学",
+    "content": "实验心理学是心理学的基础分支，通过科学实验的方法研究心理现象和行为规律，强调变量控制、实验设计和数据分析。",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "实验心理学概述",
+        "content": "介绍实验心理学的定义、历史发展及其在心理学中的地位。",
+        "difficulty": "1",
+        "children": [
+          {
+            "title": "实验心理学的定义",
+            "content": "实验心理学是采用实验方法研究心理现象的科学，强调因果关系的推断。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "历史发展",
+            "content": "从冯特建立第一个心理学实验室开始，实验心理学逐渐发展成为现代心理学的核心。",
+            "difficulty": "1",
+            "children": []
+          },
+          {
+            "title": "科学方法的重要性",
+            "content": "实验方法能够控制变量，减少误差，提高研究的内部效度。",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "实验设计",
+        "content": "实验设计是实验心理学的核心，涉及如何安排实验条件以检验假设。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "变量类型",
+            "content": "实验中的变量包括自变量、因变量和控制变量。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "自变量",
+                "content": "研究者主动操纵的变量，用于考察其对因变量的影响。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "因变量",
+                "content": "实验中测量的变量，反映自变量操纵的效果。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "控制变量",
+                "content": "实验中需要保持恒定的变量，以排除其对结果的干扰。",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "实验设计类型",
+            "content": "包括被试内设计、被试间设计和混合设计等。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "被试内设计",
+                "content": "同一被试接受所有实验条件，减少个体差异的影响。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "被试间设计",
+                "content": "不同被试接受不同实验条件，避免顺序效应。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "混合设计",
+                "content": "结合被试内和被试间设计的优点，适用于复杂实验情境。",
+                "difficulty": "4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "内部效度与外部效度",
+            "content": "内部效度指实验结果的可靠性，外部效度指结果的可推广性。",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "内部效度",
+                "content": "实验能够准确推断自变量与因变量之间因果关系的程度。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "外部效度",
+                "content": "实验结果能够推广到其他情境或人群的程度。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "数据收集与分析方法",
+        "content": "实验数据的收集、整理和统计分析是验证假设的关键步骤。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "数据收集方法",
+            "content": "包括行为观察、反应时测量、心理物理法等。",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "反应时测量",
+                "content": "记录被试从刺激呈现到做出反应的时间，常用于认知心理学研究。",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "心理物理法",
+                "content": "研究物理刺激与心理感觉之间关系的方法，如极限法和恒定刺激法。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "统计分析",
+            "content": "使用统计方法检验实验数据的显著性和效应大小。",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "t检验",
+                "content": "用于比较两组数据的均值差异是否显著。",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "方差分析（ANOVA）",
+                "content": "用于比较多组数据的均值差异，可分析多个自变量的影响。",
+                "difficulty": "4",
+                "children": []
+              },
+              {
+                "title": "相关分析",
+                "content": "分析两个变量之间的关联程度，用相关系数表示。",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "典型实验案例",
+        "content": "介绍实验心理学中的经典研究案例，帮助理解实验方法的应用。",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "斯特鲁普效应实验",
+            "content": "研究注意力和自动化加工的经典实验，被试命名墨水颜色时受词语意义干扰。",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "米尔格拉姆服从实验",
+            "content": "研究权威服从行为的实验，揭示情境对个体行为的强大影响。",
+            "difficulty": "4",
+            "children": []
+          },
+          {
+            "title": "记忆的系列位置效应实验",
+            "content": "研究记忆过程中首因效应和近因效应的实验设计。",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "实验心理学",
+      "tail": "实验设计",
+      "relation": "核心组成部分"
+    },
+    {
+      "head": "实验设计",
+      "tail": "变量类型",
+      "relation": "包含"
+    },
+    {
+      "head": "变量类型",
+      "tail": "自变量",
+      "relation": "包含"
+    },
+    {
+      "head": "变量类型",
+      "tail": "因变量",
+      "relation": "包含"
+    },
+    {
+      "head": "变量类型",
+      "tail": "控制变量",
+      "relation": "包含"
+    },
+    {
+      "head": "实验设计",
+      "tail": "实验设计类型",
+      "relation": "包含"
+    },
+    {
+      "head": "实验设计类型",
+      "tail": "被试内设计",
+      "relation": "包含"
+    },
+    {
+      "head": "实验设计类型",
+      "tail": "被试间设计",
+      "relation": "包含"
+    },
+    {
+      "head": "实验设计类型",
+      "tail": "混合设计",
+      "relation": "包含"
+    },
+    {
+      "head": "实验设计",
+      "tail": "内部效度与外部效度",
+      "relation": "影响"
+    },
+    {
+      "head": "内部效度",
+      "tail": "控制变量",
+      "relation": "依赖于"
+    },
+    {
+      "head": "实验心理学",
+      "tail": "数据收集与分析方法",
+      "relation": "依赖于"
+    },
+    {
+      "head": "数据收集与分析方法",
+      "tail": "反应时测量",
+      "relation": "包含"
+    },
+    {
+      "head": "数据收集与分析方法",
+      "tail": "心理物理法",
+      "relation": "包含"
+    },
+    {
+      "head": "数据收集与分析方法",
+      "tail": "统计分析",
+      "relation": "包含"
+    },
+    {
+      "head": "统计分析",
+      "tail": "t检验",
+      "relation": "包含"
+    },
+    {
+      "head": "统计分析",
+      "tail": "方差分析（ANOVA）",
+      "relation": "包含"
+    },
+    {
+      "head": "统计分析",
+      "tail": "相关分析",
+      "relation": "包含"
+    },
+    {
+      "head": "实验心理学",
+      "tail": "典型实验案例",
+      "relation": "应用示例"
+    },
+    {
+      "head": "典型实验案例",
+      "tail": "斯特鲁普效应实验",
+      "relation": "包含"
+    },
+    {
+      "head": "典型实验案例",
+      "tail": "米尔格拉姆服从实验",
+      "relation": "包含"
+    },
+    {
+      "head": "典型实验案例",
+      "tail": "记忆的系列位置效应实验",
+      "relation": "包含"
+    },
+    {
+      "head": "斯特鲁普效应实验",
+      "tail": "反应时测量",
+      "relation": "使用"
+    },
+    {
+      "head": "记忆的系列位置效应实验",
+      "tail": "被试内设计",
+      "relation": "采用"
+    },
+    {
+      "head": "方差分析（ANOVA）",
+      "tail": "实验设计类型",
+      "relation": "适用于分析"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-18 18:56:36",
+    "version": "1.1"
+  }
+}

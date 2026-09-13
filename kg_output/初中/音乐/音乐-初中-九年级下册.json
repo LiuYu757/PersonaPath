@@ -1,0 +1,663 @@
+{
+  "knowledge_tree": {
+    "title": "九年级下册音乐",
+    "content": "九年级下册音乐教材，涵盖中外音乐作品欣赏、歌唱、音乐知识等内容",
+    "difficulty": "2",
+    "children": [
+      {
+        "title": "第一单元 百卉含英",
+        "content": "以花卉为主题的音乐作品单元",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "唱歌 茉莉花",
+            "content": "江苏民歌，中速优美地，需准确演唱一字多音、切分音",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "茉莉花东北民歌",
+                "content": "东北地区版本的茉莉花",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "茉莉花河北民歌",
+                "content": "河北地区版本的茉莉花",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "欣赏 花之圆舞曲",
+            "content": "选自芭蕾舞剧《胡桃夹子》，柴可夫斯基曲",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "第一主题",
+                "content": "花之圆舞曲的第一主题旋律",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "第二主题",
+                "content": "花之圆舞曲的第二主题旋律",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "圆舞曲定义",
+                "content": "又称华尔兹，起源于奥地利民间舞曲，三拍子，第一拍重音突出",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "竖琴",
+                "content": "大型弹拨乐器，47根弦，七个踏板，色彩性乐器",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "玫瑰三愿",
+            "content": "黄自抒情歌曲代表作，表达对弱者的同情",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "模进",
+                "content": "旋律发展方法，在不同高度上重复主题",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "选听 梅花引",
+            "content": "女声独唱，韩静霆词，徐沛东曲",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "竖笛演奏 送我一枝玫瑰花",
+            "content": "新疆民歌改编的快板竖笛曲",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第二单元 梨园风采（二）",
+        "content": "中国戏曲音乐学习单元",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "学唱戏曲 夫妻双双把家还",
+            "content": "黄梅戏《天仙配》选段，陆洪非词，时白林等曲",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "黄梅戏",
+                "content": "起源于湖北黄梅，用安庆方言演唱，代表剧目《天仙配》《女驸马》",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "严凤英",
+                "content": "黄梅戏表演艺术家，代表剧目《天仙配》《女驸马》",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "欣赏 谁说女子不如男",
+            "content": "豫剧《花木兰》选段，常香玉演唱",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "豫剧",
+                "content": "河南梆子，用河南方言演唱，伴奏以板胡为主",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "常香玉",
+                "content": "豫剧表演艺术家，常派唱腔创始人",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "天上掉下个林妹妹",
+            "content": "越剧《红楼梦》选段",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "越剧",
+                "content": "发源于浙江嵊县，唱腔属板腔体，伴奏以胡琴类为主",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "徐玉兰",
+                "content": "越剧表演艺术家，徐派唱腔创始人",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "巧儿我自幼儿许配赵家",
+            "content": "评剧《刘巧儿》选段",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "评剧",
+                "content": "源于冀东莲花落，唱腔口语化，通俗易懂",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "新凤霞",
+                "content": "评剧表演艺术家，新派唱腔创始人",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "选听 秦腔牌子曲",
+            "content": "板胡独奏，秦腔曲牌，郭富团编曲",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "秦腔",
+                "content": "陕西梆子，流行于西北，风格朴实粗犷，伴奏以板胡为主",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第三单元 西乐撷英（三）",
+        "content": "西方古典音乐欣赏单元",
+        "difficulty": "3",
+        "children": [
+          {
+            "title": "唱歌 绿袖子",
+            "content": "英国民歌，需准确演唱弱起节奏、变化音",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "欣赏 如歌的行板",
+            "content": "柴可夫斯基弦乐四重奏，取材于俄罗斯民歌",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "民族乐派",
+                "content": "19世纪30年代形成，挖掘民族民间音乐，具有民族风格",
+                "difficulty": "2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "在中亚细亚草原上",
+            "content": "鲍罗丁交响音画",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "鲍罗丁",
+                "content": "俄罗斯作曲家，强力集团成员",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "选听 匈牙利狂想曲第二号",
+            "content": "李斯特钢琴独奏，采用匈牙利民间舞曲《查尔达什》",
+            "difficulty": "4",
+            "children": [
+              {
+                "title": "狂想曲",
+                "content": "以民间音乐素材发展而成的器乐曲，具有民族色彩",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "李斯特",
+                "content": "匈牙利作曲家，钢琴之王，浪漫主义代表人物",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "鲁斯兰与柳德米拉序曲",
+            "content": "格林卡管弦乐合奏",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "格林卡",
+                "content": "俄罗斯作曲家，代表作品《伊万·苏萨宁》",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第四单元 欧美流行风",
+        "content": "欧美流行音乐欣赏单元",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "唱歌 斯卡伯勒集市",
+            "content": "美国电影《毕业生》插曲，需用轻柔声音演唱",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "民谣",
+                "content": "民间流行的富有民族色彩的短小歌曲",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "欣赏 昨日",
+            "content": "甲壳虫乐队作品",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "摇滚乐",
+                "content": "源于20世纪50年代美国，以吉他和鼓为主要乐器",
+                "difficulty": "2",
+                "children": []
+              },
+              {
+                "title": "甲壳虫乐队",
+                "content": "英国摇滚乐队，代表作品《Yesterday》",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "选听 玫瑰人生",
+            "content": "爵士乐作品，埃迪特·比阿夫演唱",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "爵士乐",
+                "content": "20世纪初兴起于美国，结合多种传统音乐，即兴演奏",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "我将永远爱你",
+            "content": "美国电影《保镖》插曲，惠特尼·休斯敦演唱",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "惠特尼·休斯敦",
+                "content": "美国黑人女歌手，音域宽广，擅长灵歌",
+                "difficulty": "1",
+                "children": []
+              },
+              {
+                "title": "流行音乐",
+                "content": "结构短小、内容通俗的音乐，具有大众性、时尚性等特点",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "第五单元 乘着歌声的翅膀",
+        "content": "以歌唱为主题的单元",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "选唱 同一首歌",
+            "content": "陈哲、迎节词，孟卫东曲",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "选听 母女夜话",
+            "content": "选自交响音诗《纳西一奇》，朱践耳曲",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "唱歌 乘着歌声的翅膀",
+            "content": "海涅词，门德尔松曲，需注意弱起节奏、大跳音程",
+            "difficulty": "3",
+            "children": [
+              {
+                "title": "门德尔松",
+                "content": "德国作曲家，创立无词歌体裁，代表作品《e小调小提琴协奏曲》",
+                "difficulty": "1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "欣赏 回声",
+            "content": "拉索无伴奏合唱，16世纪合唱名作",
+            "difficulty": "3",
+            "children": []
+          },
+          {
+            "title": "轻骑兵序曲",
+            "content": "苏佩管弦乐合奏，选自轻歌剧《轻骑兵》",
+            "difficulty": "3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "第六单元 放飞梦想",
+        "content": "以梦想和毕业为主题的音乐单元",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "配乐朗诵 长大后我就成了你",
+            "content": "感恩主题的配乐朗诵",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "竖笛演奏 友谊地久天长",
+            "content": "苏格兰民歌改编的竖笛曲",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "选唱 隐形的翅膀",
+            "content": "王雅君词曲",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "选听 加油，AMIGO！",
+            "content": "电视剧《我们的少年时代》片头曲",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "选唱 我相信",
+            "content": "刘虞瑞词，陈国华曲",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "活动 秀出我自己",
+            "content": "毕业音乐会表演活动",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "我的音乐网页",
+        "content": "音乐知识补充部分",
+        "difficulty": "2",
+        "children": [
+          {
+            "title": "音乐体裁",
+            "content": "介绍各种音乐体裁形式",
+            "difficulty": "2",
+            "children": [
+              {
+                "title": "奏鸣曲",
+                "content": "器乐独奏套曲，一般由三至四个乐章组成",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "组曲",
+                "content": "又称连曲，由各具相对独立性的若干乐曲组成",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "室内乐",
+                "content": "由少数演奏者演出的重奏曲",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "交响曲",
+                "content": "管弦乐队演奏的大型套曲作品，用奏鸣曲套曲形式写成",
+                "difficulty": "3",
+                "children": []
+              },
+              {
+                "title": "协奏曲",
+                "content": "独奏乐器与交响乐队协同演奏的大型器乐作品",
+                "difficulty": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "发声练习",
+            "content": "三种不同的发声练习方法",
+            "difficulty": "2",
+            "children": []
+          },
+          {
+            "title": "视唱",
+            "content": "两首民歌视唱练习",
+            "difficulty": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "triplets": [
+    {
+      "head": "茉莉花",
+      "tail": "江苏民歌",
+      "relation": "属于"
+    },
+    {
+      "head": "花之圆舞曲",
+      "tail": "柴可夫斯基",
+      "relation": "由...创作"
+    },
+    {
+      "head": "圆舞曲",
+      "tail": "三拍子",
+      "relation": "特征为"
+    },
+    {
+      "head": "竖琴",
+      "tail": "弹拨乐器",
+      "relation": "属于"
+    },
+    {
+      "head": "玫瑰三愿",
+      "tail": "黄自",
+      "relation": "由...创作"
+    },
+    {
+      "head": "模进",
+      "tail": "旋律发展",
+      "relation": "是一种"
+    },
+    {
+      "head": "夫妻双双把家还",
+      "tail": "黄梅戏",
+      "relation": "属于"
+    },
+    {
+      "head": "黄梅戏",
+      "tail": "严凤英",
+      "relation": "代表人物有"
+    },
+    {
+      "head": "谁说女子不如男",
+      "tail": "豫剧",
+      "relation": "属于"
+    },
+    {
+      "head": "豫剧",
+      "tail": "常香玉",
+      "relation": "代表人物有"
+    },
+    {
+      "head": "天上掉下个林妹妹",
+      "tail": "越剧",
+      "relation": "属于"
+    },
+    {
+      "head": "越剧",
+      "tail": "徐玉兰",
+      "relation": "代表人物有"
+    },
+    {
+      "head": "巧儿我自幼儿许配赵家",
+      "tail": "评剧",
+      "relation": "属于"
+    },
+    {
+      "head": "评剧",
+      "tail": "新凤霞",
+      "relation": "代表人物有"
+    },
+    {
+      "head": "秦腔牌子曲",
+      "tail": "秦腔",
+      "relation": "属于"
+    },
+    {
+      "head": "秦腔",
+      "tail": "板胡",
+      "relation": "主要伴奏乐器为"
+    },
+    {
+      "head": "绿袖子",
+      "tail": "英国民歌",
+      "relation": "属于"
+    },
+    {
+      "head": "如歌的行板",
+      "tail": "柴可夫斯基",
+      "relation": "由...创作"
+    },
+    {
+      "head": "民族乐派",
+      "tail": "民族风格",
+      "relation": "特征为"
+    },
+    {
+      "head": "在中亚细亚草原上",
+      "tail": "鲍罗丁",
+      "relation": "由...创作"
+    },
+    {
+      "head": "匈牙利狂想曲第二号",
+      "tail": "李斯特",
+      "relation": "由...创作"
+    },
+    {
+      "head": "狂想曲",
+      "tail": "民间音乐",
+      "relation": "基于"
+    },
+    {
+      "head": "鲁斯兰与柳德米拉序曲",
+      "tail": "格林卡",
+      "relation": "由...创作"
+    },
+    {
+      "head": "斯卡伯勒集市",
+      "tail": "民谣",
+      "relation": "属于"
+    },
+    {
+      "head": "昨日",
+      "tail": "甲壳虫乐队",
+      "relation": "由...演唱"
+    },
+    {
+      "head": "摇滚乐",
+      "tail": "吉他",
+      "relation": "主要乐器包括"
+    },
+    {
+      "head": "玫瑰人生",
+      "tail": "爵士乐",
+      "relation": "属于"
+    },
+    {
+      "head": "我将永远爱你",
+      "tail": "惠特尼·休斯敦",
+      "relation": "由...演唱"
+    },
+    {
+      "head": "流行音乐",
+      "tail": "大众性",
+      "relation": "具有"
+    },
+    {
+      "head": "乘着歌声的翅膀",
+      "tail": "门德尔松",
+      "relation": "由...创作"
+    },
+    {
+      "head": "回声",
+      "tail": "无伴奏合唱",
+      "relation": "形式为"
+    },
+    {
+      "head": "轻骑兵序曲",
+      "tail": "苏佩",
+      "relation": "由...创作"
+    },
+    {
+      "head": "奏鸣曲",
+      "tail": "套曲形式",
+      "relation": "采用"
+    },
+    {
+      "head": "组曲",
+      "tail": "独立性乐曲",
+      "relation": "由...组成"
+    },
+    {
+      "head": "室内乐",
+      "tail": "重奏曲",
+      "relation": "形式为"
+    },
+    {
+      "head": "交响曲",
+      "tail": "管弦乐队",
+      "relation": "由...演奏"
+    },
+    {
+      "head": "协奏曲",
+      "tail": "独奏乐器",
+      "relation": "特征为"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-11-12 19:40:52",
+    "version": "1.1"
+  }
+}
